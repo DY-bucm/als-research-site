@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALS 前沿研究进展情报站</title>
+    <meta name="description" content="每日追踪肌萎缩侧索硬化症最新论文、预印本、临床试验和国际报道，提供英文原文链接与中文解读。">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">ALS</span>
+        <div>
+          <strong>ALS 前沿研究进展</strong>
+          <span>论文 · 临床试验 · 药物管线 · 国际报道</span>
+        </div>
+      </div>
+      <div class="status-pill" id="updateStatus">正在读取更新源</div>
+      <nav class="topnav">
+        <a class="nav-link" href="briefing.html">每日简报</a>
+        <a class="nav-link" href="trials.html">临床试验</a>
+        <a class="nav-link" href="topics.html">专题</a>
+        <a class="nav-link" href="quality.html">质量</a>
+        <a class="nav-link" href="export.html">导出</a>
+        <a class="nav-link" href="status.html">状态</a>
+        <a class="nav-link" href="review.html">复核台</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="dashboard">
+        <div class="intro">
+          <p class="eyebrow">每日持续更新 · 英文原文 + 中文解读</p>
+          <h1>快速了解肌萎缩侧索硬化症最前沿进展</h1>
+          <p class="lead">聚合 PubMed、Europe PMC、ClinicalTrials.gov、预印本与权威机构报道，按机制、遗传、治疗、临床试验和生物标志物自动分类。</p>
+        </div>
+
+        <div class="metrics" aria-label="今日概览">
+          <div>
+            <span id="metricTotal">0</span>
+            <small>条进展</small>
+          </div>
+          <div>
+            <span id="metricHigh">0</span>
+            <small>重点关注</small>
+          </div>
+          <div>
+            <span id="metricClinical">0</span>
+            <small>临床/治疗</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="筛选工具">
+        <label class="searchbox">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="TDP-43、SOD1、C9orf72、ASO、biomarker...">
+        </label>
+        <div class="filter-group" id="categoryFilters" aria-label="分类筛选"></div>
+        <label class="mini-select">
+          <span>证据</span>
+          <select id="evidenceFilter">
+            <option value="全部">全部</option>
+          </select>
+        </label>
+        <label class="mini-select">
+          <span>来源</span>
+          <select id="sourceFilter">
+            <option value="全部">全部</option>
+          </select>
+        </label>
+        <label class="check-filter">
+          <input id="hideLowRelevance" type="checkbox" checked>
+          隐藏疑似误收
+        </label>
+      </section>
+
+      <section class="digest" aria-label="精选日报">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">精选日报</p>
+            <h2>今天优先看的 ALS 进展</h2>
+          </div>
+          <span id="digestMeta">按重要性、证据等级和主题自动生成</span>
+        </div>
+        <div id="dailyDigest" class="digest-grid"></div>
+      </section>
+
+      <section class="trends" aria-label="趋势看板">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">趋势看板</p>
+            <h2>近期主题和证据分布</h2>
+          </div>
+          <span id="trendMeta">基于当前数据集统计</span>
+        </div>
+        <div id="trendGrid" class="trend-grid"></div>
+      </section>
+
+      <section class="layout">
+        <aside class="sidebar">
+          <h2>追踪专题</h2>
+          <div class="topic-list" id="topicList"></div>
+
+          <h2>更新机制</h2>
+          <ol class="update-steps">
+            <li>每天定时检索 ALS 关键词和同义词。</li>
+            <li>保留 DOI、PMID、试验号和原文链接。</li>
+            <li>生成中文翻译、研究意义和局限性摘要。</li>
+            <li>人工可复核重点条目，避免误读医学结论。</li>
+          </ol>
+        </aside>
+
+        <section class="feed" aria-live="polite">
+          <div class="feed-header">
+            <h2>最新进展</h2>
+            <div class="feed-actions">
+              <button id="featuredButton" type="button">只看精选</button>
+              <button id="resetButton" type="button">重置筛选</button>
+            </div>
+          </div>
+          <div id="feedList" class="feed-list"></div>
+          <p id="emptyState" class="empty-state" hidden>没有匹配的内容，请调整关键词或分类。</p>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <p>本站用于科研信息追踪，不构成医疗建议。所有条目保留原始来源链接，中文内容为辅助解读。</p>
+    </footer>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>

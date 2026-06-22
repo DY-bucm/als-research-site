@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALS 网站运行状态</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">ALS</span>
+        <div>
+          <strong>运行状态</strong>
+          <span>更新时间 · 来源状态 · 质量问题 · 归档快照</span>
+        </div>
+      </div>
+      <nav class="topnav">
+        <a class="nav-link" href="index.html">首页</a>
+        <a class="nav-link" href="quality.html">质量</a>
+      </nav>
+    </header>
+    <main class="detail-main">
+      <section class="review-panel">
+        <div>
+          <p class="eyebrow">Status</p>
+          <h1>网站数据管线状态</h1>
+          <p class="lead" id="statusLead">正在读取状态...</p>
+        </div>
+      </section>
+      <section id="statusRoot" class="trend-grid"></section>
+    </main>
+    <script src="assets/shared.js" type="module"></script>
+    <script src="assets/status.js" type="module"></script>
+  </body>
+</html>

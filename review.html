@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALS 情报复核台</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">ALS</span>
+        <div>
+          <strong>ALS 情报复核台</strong>
+          <span>修订中文翻译 · 标记精选 · 导出覆盖文件</span>
+        </div>
+      </div>
+      <nav class="topnav">
+        <a class="nav-link" href="index.html">返回网站</a>
+        <a class="nav-link" href="quality.html">质量</a>
+        <a class="nav-link" href="export.html">导出</a>
+      </nav>
+    </header>
+
+    <main class="review-main">
+      <section class="review-panel">
+        <div>
+          <p class="eyebrow">人工复核不会被每日抓取覆盖</p>
+          <h1>复核机器草稿，生成准确中文解读</h1>
+          <p class="lead">选择一条抓取结果，编辑中文标题、摘要、重要性说明和精选状态。保存后会下载新的 `review-overrides.json`，替换到 `data/` 目录即可生效。</p>
+        </div>
+        <button id="downloadOverrides" type="button">下载复核覆盖文件</button>
+      </section>
+
+      <section class="review-grid">
+        <aside class="review-list">
+          <label class="searchbox">
+            <span>搜索待复核条目</span>
+            <input id="reviewSearch" type="search" placeholder="PMID、NCT、TDP-43、SOD1...">
+          </label>
+          <label class="mini-select review-task-filter">
+            <span>任务筛选</span>
+            <select id="taskFilter">
+              <option value="all">全部</option>
+              <option value="needsReview">待复核</option>
+              <option value="high">高优先级</option>
+              <option value="lowRel">疑似误收</option>
+              <option value="missingAbstract">缺摘要</option>
+              <option value="featured">精选</option>
+            </select>
+          </label>
+          <div class="bulk-actions">
+            <button id="selectVisible" type="button">全选可见</button>
+            <button id="clearSelection" type="button">清空</button>
+            <button id="bulkReviewed" type="button">批量已复核</button>
+            <button id="bulkFeatured" type="button">批量精选</button>
+            <button id="bulkExcluded" type="button">批量误收</button>
+          </div>
+          <div id="reviewItems" class="review-items"></div>
+        </aside>
+
+        <section class="editor" id="editor" hidden>
+          <div class="editor-head">
+            <div>
+              <p id="editorMeta" class="meta-line"></p>
+              <h2 id="editorTitle"></h2>
+            </div>
+            <a id="editorLink" href="#" target="_blank" rel="noreferrer">原文链接</a>
+          </div>
+
+          <label>
+            中文标题
+            <textarea id="titleZhInput" rows="2"></textarea>
+          </label>
+
+          <label>
+            中文摘要/翻译
+            <textarea id="summaryZhInput" rows="6"></textarea>
+          </label>
+
+          <label>
+            为什么重要
+            <textarea id="insightInput" rows="4"></textarea>
+          </label>
+
+          <label>
+            证据等级
+            <input id="evidenceInput" type="text" placeholder="机制研究、动物/细胞实验、观察性临床研究、随机对照试验...">
+          </label>
+
+          <div class="ai-editor">
+            <label>
+              研究类型
+              <textarea id="studyTypeInput" rows="2"></textarea>
+            </label>
+            <label>
+              关键发现
+              <textarea id="keyFindingInput" rows="3"></textarea>
+            </label>
+            <label>
+              局限性
+              <textarea id="limitationInput" rows="3"></textarea>
+            </label>
+            <label>
+              下一步关注
+              <textarea id="watchNextInput" rows="3"></textarea>
+            </label>
+          </div>
+
+          <div class="review-options">
+            <label><input id="reviewedInput" type="checkbox"> 已人工复核</label>
+            <label><input id="featuredInput" type="checkbox"> 加入精选</label>
+            <label><input id="excludedInput" type="checkbox"> 标记误收</label>
+          </div>
+
+          <div class="editor-actions">
+            <button id="saveItem" type="button">保存当前条目</button>
+            <button id="copyJson" type="button">复制覆盖 JSON</button>
+          </div>
+
+          <h3>英文原文</h3>
+          <p id="originalText" class="english"></p>
+        </section>
+      </section>
+    </main>
+
+    <script src="assets/review.js" type="module"></script>
+  </body>
+</html>

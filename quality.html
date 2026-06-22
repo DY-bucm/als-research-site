@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALS 数据质量报告</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">ALS</span>
+        <div>
+          <strong>数据质量报告</strong>
+          <span>误收 · 缺失字段 · 待复核 · 来源状态</span>
+        </div>
+      </div>
+      <nav class="topnav">
+        <a class="nav-link" href="index.html">首页</a>
+        <a class="nav-link" href="briefing.html">每日简报</a>
+        <a class="nav-link" href="review.html">复核台</a>
+      </nav>
+    </header>
+    <main class="detail-main">
+      <section class="review-panel">
+        <div>
+          <p class="eyebrow">Quality Control</p>
+          <h1>长期运行前先看数据质量</h1>
+          <p class="lead" id="qualityLead">正在读取质量报告...</p>
+        </div>
+      </section>
+      <section id="qualityRoot" class="briefing-grid"></section>
+    </main>
+    <script src="assets/shared.js" type="module"></script>
+    <script src="assets/quality.js" type="module"></script>
+  </body>
+</html>
