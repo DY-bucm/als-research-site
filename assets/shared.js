@@ -106,9 +106,18 @@ export function compactCard(item) {
         <span>${escapeHtml(item.category)}</span>
         <span>${escapeHtml(item.evidenceLevel)}</span>
       </div>
-      <h3>${escapeHtml(item.titleZh)}</h3>
-      <p>${escapeHtml(item.aiRead?.keyFinding || item.insight || item.summaryZh)}</p>
+      <div class="title-pair">
+        <h3>${escapeHtml(item.title || item.titleZh)}</h3>
+        <p>${escapeHtml(cleanDisplayText(item.titleZh || item.summaryZh || ""))}</p>
+      </div>
+      <p><strong>中文要点：</strong>${escapeHtml(item.summaryZh || item.aiRead?.keyFinding || item.insight)}</p>
       <a href="detail.html?id=${encodeURIComponent(item.id)}">进入详情</a>
     </article>
   `;
+}
+
+export function cleanDisplayText(value) {
+  return String(value || "")
+    .replace(/^待复核翻译[:：]\s*/, "")
+    .trim();
 }

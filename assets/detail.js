@@ -31,30 +31,33 @@ function renderDetail(item, related) {
       <div class="detail-hero">
         <div>
           <p class="eyebrow">${escapeHtml(item.category)} · ${escapeHtml(item.evidenceLevel)} · 相关性 ${item.relevanceScore ?? "待判定"}</p>
-          <h1>${escapeHtml(item.titleZh)}</h1>
-          <p class="lead">${escapeHtml(item.summaryZh)}</p>
+          <h1>${escapeHtml(item.title || displayTitle(item))}</h1>
+          <p class="title-cn">${escapeHtml(displayTitle(item))}</p>
+          <p class="lead">${escapeHtml(item.summaryZh || item.insight || "")}</p>
         </div>
         <div class="detail-facts">
           <span><strong>日期</strong>${formatDate(item.publishedAt)}</span>
           <span><strong>来源</strong>${escapeHtml(item.source)}</span>
-          <span><strong>优先级</strong>${escapeHtml(item.priority)}</span>
-          <span><strong>状态</strong>${item.reviewed ? "已复核" : "待复核"}</span>
+          <span><strong>优先级</strong>${escapeHtml(priorityLabel(item.priority))}</span>
         </div>
       </div>
 
       <section class="detail-section">
-        <h2>结构化精读</h2>
-        ${renderAiRead(item)}
+        <h2>文章重点</h2>
+        <p>${escapeHtml(articleFocus(item))}</p>
       </section>
 
       <section class="detail-section">
-        <h2>为什么重要</h2>
-        <p>${escapeHtml(item.insight)}</p>
+        <h2>为什么判定为前沿</h2>
+        <ul class="frontier-reasons">
+          ${frontierReasons(item).map(reason => `<li>${escapeHtml(reason)}</li>`).join("")}
+        </ul>
       </section>
 
-      <section class="detail-section">
+      <section class="detail-section abstract-block">
         <h2>英文原文摘要</h2>
-        <p class="english">${escapeHtml(item.title)}. ${escapeHtml(item.summary)}</p>
+        <p class="english">${escapeHtml([item.title, item.summary].filter(Boolean).join(". "))}</p>
+        ${renderChineseAbstract(item)}
       </section>
 
       <section class="detail-section">
@@ -66,22 +69,72 @@ function renderDetail(item, related) {
       <section class="detail-section">
         <h2>相关条目</h2>
         <div class="related-list">
-          ${related.map(row => `<a href="detail.html?id=${encodeURIComponent(row.id)}"><strong>${escapeHtml(row.titleZh)}</strong><span>${escapeHtml(row.category)} · ${escapeHtml(row.evidenceLevel)}</span></a>`).join("") || "<p class='empty-state'>暂无相关条目。</p>"}
+          ${related.map(row => `<a href="detail.html?id=${encodeURIComponent(row.id)}"><strong>${escapeHtml(row.title || displayTitle(row))}</strong><span>${escapeHtml(displayTitle(row))}</span><span>${escapeHtml(row.category)} · ${escapeHtml(row.evidenceLevel)}</span></a>`).join("") || "<p class='empty-state'>暂无相关条目。</p>"}
         </div>
       </section>
     </article>
   `;
 }
 
-function renderAiRead(item) {
-  const ai = item.aiRead || {};
-  const rows = [
-    ["研究类型", ai.studyType || item.evidenceLevel],
-    ["关键发现", ai.keyFinding],
-    ["局限性", ai.limitation],
-    ["下一步关注", ai.watchNext]
-  ];
-  return `<dl class="ai-read detail-read">${rows.map(([k, v]) => `<div><dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v || "待补充")}</dd></div>`).join("")}</dl>`;
+function displayTitle(item) {
+  const titleZh = String(item.titleZh || "").trim();
+  if (!titleZh || /^待复核翻译[:：]/.test(titleZh)) return item.title || "未命名条目";
+  return titleZh.replace(/^待复核翻译[:：]\s*/, "");
+}
+
+function articleFocus(item) {
+  return item.aiRead?.keyFinding || item.insight || item.summaryZh || item.summary || "暂无文章重点。";
+}
+
+function renderChineseAbstract(item) {
+  if (item.abstractZh) {
+    return `<h3>中文翻译</h3><p>${escapeHtml(item.abstractZh)}</p>`;
+  }
+  return `<h3>中文要点</h3><p>${escapeHtml(item.summaryZh || "这条记录暂时只有英文原文，中文要点将在后续更新中补充。")}</p><p class="translation-note">说明：本段是中文要点，不是逐句对应的摘要翻译。</p>`;
+}
+
+function priorityLabel(value) {
+  const labels = { high: "重点关注", medium: "常规关注", low: "低优先级" };
+  return labels[value] || value || "待判定";
+}
+
+function frontierReasons(item) {
+  const text = `${item.title || ""} ${item.summary || ""} ${(item.tags || []).join(" ")}`.toLowerCase();
+  const reasons = [];
+  reasons.push(frontierWindowReason(item));
+  if (text.includes("amyotrophic lateral sclerosis") || /\bals\b/.test(text) || text.includes("motor neuron disease") || text.includes("motor neurone disease")) {
+    reasons.push("ALS 专属性：题名、摘要或关键词直接指向 ALS / motor neuron disease。");
+  }
+  if (item.trialId || item.origin === "ClinicalTrials.gov") {
+    reasons.push("临床转化价值：来自临床试验登记或包含试验号，可追踪干预、入组状态和终点。");
+  } else if (item.category === "治疗") {
+    reasons.push("治疗相关增量：涉及药物、基因/RNA 疗法、细胞治疗或其他潜在干预方向。");
+  } else if (item.category === "生物标志物") {
+    reasons.push("诊断/分层价值：涉及生物标志物、患者分层、疾病监测或疗效评估。");
+  } else if (item.category === "遗传") {
+    reasons.push("遗传机制价值：涉及 ALS 风险基因、致病变异或基因型-表型关联。");
+  } else {
+    reasons.push("科学增量：提供机制、模型、病理过程或研究工具方面的新信息。");
+  }
+  if (item.pmid || item.doi || item.trialId || item.url) {
+    reasons.push("可追溯性：保留 PMID、DOI、试验登记号或原文链接，便于回到原始来源核查。");
+  }
+  return reasons;
+}
+
+function frontierWindowReason(item) {
+  const days = daysSince(item.publishedAt);
+  const windowDays = item.trialId || item.origin === "ClinicalTrials.gov" ? 180 : 30;
+  const type = windowDays === 180 ? "临床试验登记/状态更新" : "论文、预印本或报道";
+  const status = days <= windowDays ? "落在本站前沿时间窗口内" : "已超过本站默认前沿时间窗口，建议作为背景或长期追踪条目阅读";
+  return `时间窗口：${type}采用近 ${windowDays} 天标准；本条日期为 ${formatDate(item.publishedAt)}，距今约 ${days} 天，${status}。`;
+}
+
+function daysSince(value) {
+  const start = new Date(value);
+  if (Number.isNaN(start.getTime())) return 0;
+  const diff = Date.now() - start.getTime();
+  return Math.max(0, Math.floor(diff / 86400000));
 }
 
 function relatedItems(item, items) {
@@ -107,7 +160,7 @@ function applyOverride(item, override) {
   if (!override) return item;
   return {
     ...item,
-    ...["titleZh", "summaryZh", "insight", "category", "priority", "evidenceLevel"].reduce((acc, key) => {
+    ...["titleZh", "summaryZh", "abstractZh", "insight", "category", "priority", "evidenceLevel"].reduce((acc, key) => {
       if (override[key]) acc[key] = override[key];
       return acc;
     }, {}),
@@ -122,10 +175,23 @@ function normalizeItem(item) {
   return {
     ...item,
     tags: item.tags || [],
-    evidenceLevel: item.evidenceLevel || "待人工判定",
+    category: cleanText(item.category || "未分类"),
+    titleZh: cleanText(item.titleZh || ""),
+    summaryZh: cleanText(item.summaryZh || ""),
+    insight: cleanText(item.insight || ""),
+    evidenceLevel: cleanText(item.evidenceLevel || "待判定"),
     relevanceScore: item.relevanceScore ?? 0,
     aiRead: item.aiRead || {}
   };
+}
+
+function cleanText(value) {
+  return String(value ?? "")
+    .replaceAll("鐢熺墿鏍囧織鐗?", "生物标志物")
+    .replaceAll("鏈哄埗", "机制")
+    .replaceAll("鍔ㄧ墿/缁嗚優瀹為獙", "动物/细胞实验")
+    .replaceAll("寰呭鏍哥炕璇戯細", "待复核翻译：")
+    .replaceAll("寰呬汉宸ュ垽瀹?", "待判定");
 }
 
 function formatDate(value) {

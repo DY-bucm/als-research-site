@@ -12,50 +12,115 @@
       <div class="brand">
         <span class="brand-mark">ALS</span>
         <div>
-          <strong>ALS 前沿研究进展</strong>
-          <span>论文 · 临床试验 · 药物管线 · 国际报道</span>
+          <strong>ALS Frontier</strong>
+          <span>前沿研究情报站</span>
         </div>
       </div>
-      <div class="status-pill" id="updateStatus">正在读取更新源</div>
       <nav class="topnav">
         <a class="nav-link" href="briefing.html">每日简报</a>
         <a class="nav-link" href="trials.html">临床试验</a>
         <a class="nav-link" href="topics.html">专题</a>
-        <a class="nav-link" href="quality.html">质量</a>
-        <a class="nav-link" href="export.html">导出</a>
-        <a class="nav-link" href="status.html">状态</a>
-        <a class="nav-link" href="review.html">复核台</a>
+        <a class="nav-link subtle" href="quality.html">质量</a>
+        <a class="nav-link subtle" href="review.html">复核</a>
       </nav>
     </header>
 
     <main>
-      <section class="dashboard">
-        <div class="intro">
-          <p class="eyebrow">每日持续更新 · 英文原文 + 中文解读</p>
-          <h1>快速了解肌萎缩侧索硬化症最前沿进展</h1>
-          <p class="lead">聚合 PubMed、Europe PMC、ClinicalTrials.gov、预印本与权威机构报道，按机制、遗传、治疗、临床试验和生物标志物自动分类。</p>
+      <section class="hero-dashboard">
+        <div class="hero-copy">
+          <p class="eyebrow">Daily ALS Intelligence</p>
+          <h1>用一屏看清 ALS 今日前沿</h1>
+          <p class="lead">聚合 PubMed、Europe PMC 与 ClinicalTrials.gov，自动筛选文献、临床试验和生物标志物进展，并保留英文原文链接与中文精读。</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="briefing.html">查看每日简报</a>
+            <a class="secondary-action" href="#latestFeed">浏览最新进展</a>
+            <span class="status-pill" id="updateStatus">正在读取更新源</span>
+          </div>
         </div>
 
-        <div class="metrics" aria-label="今日概览">
+      </section>
+
+      <section class="priority-section" aria-label="今日重点">
+        <div class="section-head">
           <div>
-            <span id="metricTotal">0</span>
-            <small>条进展</small>
+            <p class="eyebrow">Priority Watch</p>
+            <h2>今日重点</h2>
           </div>
+          <span>按相关性、证据等级、复核状态和优先级排序</span>
+        </div>
+        <div id="priorityList" class="priority-grid"></div>
+      </section>
+
+      <section class="clinical-strip" aria-label="临床动态">
+        <div>
+          <p class="eyebrow">Clinical Radar</p>
+          <h2>临床试验动态</h2>
+        </div>
+        <div id="clinicalPulse" class="clinical-pulse"></div>
+      </section>
+
+      <section class="digest" aria-label="精选日报">
+        <div class="section-head">
           <div>
-            <span id="metricHigh">0</span>
-            <small>重点关注</small>
+            <p class="eyebrow">精选日报</p>
+            <h2>今天优先看的 ALS 进展</h2>
           </div>
+          <span id="digestMeta">按重要性、证据等级和主题自动生成</span>
+        </div>
+        <div id="dailyDigest" class="digest-grid"></div>
+      </section>
+
+      <section class="trends compact-trends" aria-label="趋势看板">
+        <div class="section-head">
           <div>
-            <span id="metricClinical">0</span>
-            <small>临床/治疗</small>
+            <p class="eyebrow">趋势看板</p>
+            <h2>近期主题和证据分布</h2>
           </div>
+          <span id="trendMeta">基于当前数据集统计</span>
+        </div>
+        <div id="trendGrid" class="trend-grid"></div>
+      </section>
+
+      <section class="frontier-standard" aria-label="前沿判定标准">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Frontier Standard</p>
+            <h2>本站如何判定“前沿”</h2>
+          </div>
+          <span>论文近 30 天，临床试验近 180 天</span>
+        </div>
+        <div class="standard-grid">
+          <div><strong>时间窗口</strong><p>论文、预印本和报道默认近 30 天；临床试验按最近注册或状态更新近 180 天。</p></div>
+          <div><strong>ALS 专属性</strong><p>题名、摘要、试验登记或关键词必须与 ALS / motor neuron disease 明确相关。</p></div>
+          <div><strong>增量价值</strong><p>在机制、遗传、治疗、临床试验、诊断或生物标志物上提供新的信息。</p></div>
+          <div><strong>证据可追溯</strong><p>保留 PubMed、DOI、ClinicalTrials.gov 或原始报道链接，便于回到原文核查。</p></div>
         </div>
       </section>
 
       <section class="controls" aria-label="筛选工具">
         <label class="searchbox">
-          <span>搜索</span>
-          <input id="searchInput" type="search" placeholder="TDP-43、SOD1、C9orf72、ASO、biomarker...">
+          <span>检索进展</span>
+          <input id="searchInput" type="search" placeholder="ALS, amyotrophic lateral sclerosis, motor neuron disease, SOD1, C9orf72, TDP-43, FUS, NfL, ASO...">
+          <div class="keyword-cloud" aria-label="常用检索关键词">
+            <button type="button" data-keyword="amyotrophic lateral sclerosis">amyotrophic lateral sclerosis</button>
+            <button type="button" data-keyword="motor neuron disease">motor neuron disease</button>
+            <button type="button" data-keyword="SOD1">SOD1</button>
+            <button type="button" data-keyword="C9orf72">C9orf72</button>
+            <button type="button" data-keyword="TDP-43">TDP-43</button>
+            <button type="button" data-keyword="FUS">FUS</button>
+            <button type="button" data-keyword="NEK1">NEK1</button>
+            <button type="button" data-keyword="TBK1">TBK1</button>
+            <button type="button" data-keyword="ASO">ASO</button>
+            <button type="button" data-keyword="tofersen">tofersen</button>
+            <button type="button" data-keyword="gene therapy">gene therapy</button>
+            <button type="button" data-keyword="stem cell">stem cell</button>
+            <button type="button" data-keyword="neurofilament light">neurofilament light</button>
+            <button type="button" data-keyword="biomarker">biomarker</button>
+            <button type="button" data-keyword="microglia">microglia</button>
+            <button type="button" data-keyword="mitochondria">mitochondria</button>
+            <button type="button" data-keyword="neuroinflammation">neuroinflammation</button>
+            <button type="button" data-keyword="clinical trial">clinical trial</button>
+          </div>
         </label>
         <div class="filter-group" id="categoryFilters" aria-label="分类筛选"></div>
         <label class="mini-select">
@@ -76,47 +141,19 @@
         </label>
       </section>
 
-      <section class="digest" aria-label="精选日报">
-        <div class="section-head">
-          <div>
-            <p class="eyebrow">精选日报</p>
-            <h2>今天优先看的 ALS 进展</h2>
-          </div>
-          <span id="digestMeta">按重要性、证据等级和主题自动生成</span>
-        </div>
-        <div id="dailyDigest" class="digest-grid"></div>
-      </section>
-
-      <section class="trends" aria-label="趋势看板">
-        <div class="section-head">
-          <div>
-            <p class="eyebrow">趋势看板</p>
-            <h2>近期主题和证据分布</h2>
-          </div>
-          <span id="trendMeta">基于当前数据集统计</span>
-        </div>
-        <div id="trendGrid" class="trend-grid"></div>
-      </section>
-
       <section class="layout">
         <aside class="sidebar">
-          <h2>追踪专题</h2>
+          <h2>高频专题</h2>
           <div class="topic-list" id="topicList"></div>
-
-          <h2>更新机制</h2>
-          <ol class="update-steps">
-            <li>每天定时检索 ALS 关键词和同义词。</li>
-            <li>保留 DOI、PMID、试验号和原文链接。</li>
-            <li>生成中文翻译、研究意义和局限性摘要。</li>
-            <li>人工可复核重点条目，避免误读医学结论。</li>
-          </ol>
         </aside>
 
-        <section class="feed" aria-live="polite">
+        <section class="feed" id="latestFeed" aria-live="polite">
           <div class="feed-header">
             <h2>最新进展</h2>
             <div class="feed-actions">
               <button id="featuredButton" type="button">只看精选</button>
+              <button id="favoriteButton" type="button">我的收藏</button>
+              <button id="laterButton" type="button">稍后看</button>
               <button id="resetButton" type="button">重置筛选</button>
             </div>
           </div>

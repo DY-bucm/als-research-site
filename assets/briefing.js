@@ -1,4 +1,4 @@
-import { compactCard, countBy, escapeHtml, itemScore, loadMergedItems, trendCard } from "./shared.js";
+import { cleanDisplayText, compactCard, countBy, escapeHtml, itemScore, loadMergedItems, trendCard } from "./shared.js";
 
 const root = document.querySelector("#briefingRoot");
 const lead = document.querySelector("#briefingLead");
@@ -42,6 +42,6 @@ root.innerHTML = `
 
 function listRows(rows) {
   return rows.length
-    ? rows.map(item => `<a href="detail.html?id=${encodeURIComponent(item.id)}"><strong>${escapeHtml(item.titleZh)}</strong><span>${escapeHtml(item.category)} · ${escapeHtml(item.evidenceLevel)} · 相关性 ${item.relevanceScore}</span></a>`).join("")
+    ? rows.map(item => `<a href="detail.html?id=${encodeURIComponent(item.id)}"><strong>${escapeHtml(item.title || item.titleZh)}</strong><span>${escapeHtml(cleanDisplayText(item.titleZh || item.summaryZh || ""))}</span><span>${escapeHtml(item.category)} · ${escapeHtml(item.evidenceLevel)} · 相关性 ${item.relevanceScore}</span></a>`).join("")
     : "<p class='empty-state'>暂无条目。</p>";
 }

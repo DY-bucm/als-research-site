@@ -5,6 +5,7 @@ const state = {
   activeSource: "全部",
   query: "",
   featuredOnly: false,
+  readingFilter: "",
   hideLowRelevance: true,
   readingState: loadReadingState()
 };
@@ -17,11 +18,14 @@ const nodes = {
   metricHigh: document.querySelector("#metricHigh"),
   metricClinical: document.querySelector("#metricClinical"),
   searchInput: document.querySelector("#searchInput"),
+  keywordCloud: document.querySelector(".keyword-cloud"),
   categoryFilters: document.querySelector("#categoryFilters"),
   evidenceFilter: document.querySelector("#evidenceFilter"),
   sourceFilter: document.querySelector("#sourceFilter"),
   hideLowRelevance: document.querySelector("#hideLowRelevance"),
   topicList: document.querySelector("#topicList"),
+  priorityList: document.querySelector("#priorityList"),
+  clinicalPulse: document.querySelector("#clinicalPulse"),
   dailyDigest: document.querySelector("#dailyDigest"),
   digestMeta: document.querySelector("#digestMeta"),
   trendGrid: document.querySelector("#trendGrid"),
@@ -29,7 +33,9 @@ const nodes = {
   feedList: document.querySelector("#feedList"),
   emptyState: document.querySelector("#emptyState"),
   resetButton: document.querySelector("#resetButton"),
-  featuredButton: document.querySelector("#featuredButton")
+  featuredButton: document.querySelector("#featuredButton"),
+  favoriteButton: document.querySelector("#favoriteButton"),
+  laterButton: document.querySelector("#laterButton")
 };
 
 async function loadFeed() {
@@ -67,6 +73,8 @@ function render() {
     const evidenceOk = state.activeEvidence === "全部" || item.evidenceLevel === state.activeEvidence;
     const sourceOk = state.activeSource === "全部" || (item.origin || item.source) === state.activeSource;
     const featuredOk = !state.featuredOnly || item.featured;
+    const reading = state.readingState[item.id] || {};
+    const readingOk = !state.readingFilter || Boolean(reading[state.readingFilter]);
     const relevanceOk = !state.hideLowRelevance || item.relevanceFlag !== "low";
     const haystack = [
       item.title,
@@ -77,12 +85,12 @@ function render() {
       item.source,
       item.tags.join(" ")
     ].join(" ").toLowerCase();
-    return relevanceOk && featuredOk && categoryOk && evidenceOk && sourceOk && haystack.includes(state.query.toLowerCase().trim());
+    return relevanceOk && featuredOk && readingOk && categoryOk && evidenceOk && sourceOk && haystack.includes(state.query.toLowerCase().trim());
   });
 
-  nodes.metricTotal.textContent = state.items.length;
-  nodes.metricHigh.textContent = state.items.filter(item => item.priority === "high").length;
-  nodes.metricClinical.textContent = state.items.filter(item => ["临床试验", "治疗"].includes(item.category)).length;
+  if (nodes.metricTotal) nodes.metricTotal.textContent = state.items.length;
+  if (nodes.metricHigh) nodes.metricHigh.textContent = state.items.filter(item => item.priority === "high").length;
+  if (nodes.metricClinical) nodes.metricClinical.textContent = state.items.filter(item => ["临床试验", "治疗"].includes(item.category)).length;
 
   const topicCounts = countTopics(state.items);
   nodes.topicList.innerHTML = Object.entries(topicCounts)
@@ -94,6 +102,10 @@ function render() {
   nodes.feedList.innerHTML = filtered.map(renderItem).join("");
   nodes.emptyState.hidden = filtered.length > 0;
   nodes.featuredButton.classList.toggle("active", state.featuredOnly);
+  nodes.favoriteButton.classList.toggle("active", state.readingFilter === "favorite");
+  nodes.laterButton.classList.toggle("active", state.readingFilter === "later");
+  renderPriorityList();
+  renderClinicalPulse();
   renderDigest();
   renderTrends();
 }
@@ -115,7 +127,6 @@ function uniqueValues(items, getter) {
 
 function renderItem(item) {
   const priority = item.priority === "high" ? '<span class="badge high">重点关注</span>' : "";
-  const review = item.reviewed ? '<span class="badge reviewed">已复核</span>' : item.needsReview ? '<span class="badge review">待复核</span>' : "";
   const featured = item.featured ? '<span class="badge featured">精选</span>' : "";
   const evidence = item.evidenceLevel ? `<span class="badge evidence">${escapeHtml(item.evidenceLevel)}</span>` : "";
   const relevance = item.relevanceFlag === "low" ? '<span class="badge lowrel">疑似误收</span>' : `<span class="badge relevance">相关性 ${escapeHtml(item.relevanceScore ?? "待判定")}</span>`;
@@ -133,13 +144,13 @@ function renderItem(item) {
           <span>${escapeHtml(item.source)}</span>
           <span>${escapeHtml(item.category)}</span>
         </div>
-        <div class="badges">${priority}${featured}${evidence}${relevance}${review}</div>
+        <div class="badges">${priority}${featured}${evidence}${relevance}</div>
       </div>
-      <h3>${escapeHtml(item.titleZh)}</h3>
-      <p class="translation">${escapeHtml(item.summaryZh)}</p>
-      ${renderAiRead(item)}
-      <p class="english"><strong>Original:</strong> ${escapeHtml(item.title)}. ${escapeHtml(item.summary)}</p>
-      <p class="insight"><strong>为什么重要：</strong>${escapeHtml(item.insight)}</p>
+      ${renderTitleBlock(item)}
+      <p class="translation"><strong>中文要点：</strong>${escapeHtml(item.summaryZh)}</p>
+      <p class="english"><strong>英文摘要：</strong> ${escapeHtml(item.summary)}</p>
+      <p class="insight"><strong>文章重点：</strong>${escapeHtml(item.aiRead?.keyFinding || item.insight)}</p>
+      <p class="frontier-note"><strong>前沿依据：</strong>${escapeHtml(frontierSummary(item))}</p>
       <div class="meta">${tags}</div>
       <div class="links">
         <a href="detail.html?id=${encodeURIComponent(item.id)}">详情页</a>
@@ -173,6 +184,29 @@ function renderAiRead(item) {
   `;
 }
 
+function renderTitleBlock(item) {
+  return `
+    <div class="title-pair">
+      <h3>${escapeHtml(item.title || cleanDisplayTitle(item.titleZh) || "Untitled")}</h3>
+      <p>${escapeHtml(cleanDisplayTitle(item.titleZh || item.summaryZh || ""))}</p>
+    </div>
+  `;
+}
+
+function cleanDisplayTitle(value) {
+  return String(value || "")
+    .replace(/^待复核翻译[:：]\s*/, "")
+    .trim();
+}
+
+function frontierSummary(item) {
+  if (item.trialId || item.origin === "ClinicalTrials.gov") return "临床试验或注册信息有更新，可继续追踪入组、终点和结果。";
+  if (item.category === "治疗") return "涉及潜在治疗策略或干预方向，具有转化跟踪价值。";
+  if (item.category === "生物标志物") return "涉及诊断、分层、监测或疗效评估相关指标。";
+  if (item.category === "遗传") return "涉及 ALS 遗传机制、风险基因或基因型-表型关联。";
+  return "属于近期 ALS 相关机制、模型、病理或研究工具进展。";
+}
+
 function renderDigest() {
   const candidates = [...state.items].filter(item => item.relevanceFlag !== "low").sort(compareDigestPriority).slice(0, 5);
   nodes.digestMeta.textContent = `${candidates.length} 条 · ${new Date().toLocaleDateString("zh-CN")}`;
@@ -183,11 +217,55 @@ function renderDigest() {
         <span>${escapeHtml(item.category)}</span>
         <span>${escapeHtml(item.evidenceLevel || "待判定")}</span>
       </div>
-      <h3>${escapeHtml(item.titleZh)}</h3>
-      <p>${escapeHtml(item.aiRead?.keyFinding || item.insight)}</p>
+      ${renderTitleBlock(item)}
+      <p><strong>中文要点：</strong>${escapeHtml(item.summaryZh || item.aiRead?.keyFinding || item.insight)}</p>
       <a href="detail.html?id=${encodeURIComponent(item.id)}">进入详情</a>
     </article>
   `).join("");
+}
+
+function renderPriorityList() {
+  const rows = [...state.items]
+    .filter(item => item.relevanceFlag !== "low")
+    .sort(compareDigestPriority)
+    .slice(0, 3);
+
+  nodes.priorityList.innerHTML = rows.map((item, index) => `
+    <article class="priority-card ${index === 0 ? "lead-card" : ""}">
+      <div class="priority-rank">0${index + 1}</div>
+      <div>
+        <div class="meta">
+          <span>${formatDate(item.publishedAt)}</span>
+          <span>${escapeHtml(item.category)}</span>
+          <span>${escapeHtml(item.evidenceLevel || "待判定")}</span>
+        </div>
+        ${renderTitleBlock(item)}
+        <p><strong>中文要点：</strong>${escapeHtml(item.summaryZh || item.aiRead?.keyFinding || item.insight || "")}</p>
+        <div class="links">
+          <a href="detail.html?id=${encodeURIComponent(item.id)}">精读详情</a>
+          <a href="${escapeAttribute(item.url)}" target="_blank" rel="noreferrer">原文</a>
+        </div>
+      </div>
+    </article>
+  `).join("");
+}
+
+function renderClinicalPulse() {
+  const trials = state.items
+    .filter(item => item.trialId || item.category === "临床试验" || item.category === "治疗")
+    .filter(item => item.relevanceFlag !== "low")
+    .sort(compareDigestPriority)
+    .slice(0, 4);
+
+  nodes.clinicalPulse.innerHTML = trials.length
+    ? trials.map(item => `
+      <a class="clinical-chip" href="detail.html?id=${encodeURIComponent(item.id)}">
+        <strong>${escapeHtml(item.trial?.status || item.priority || "关注")}</strong>
+        <span>${escapeHtml(item.title)}</span>
+        <small>${escapeHtml(cleanDisplayTitle(item.titleZh || item.summaryZh || ""))}</small>
+      </a>
+    `).join("")
+    : "<p class='empty-state'>当前数据集中暂无临床/治疗条目。</p>";
 }
 
 function renderTrends() {
@@ -301,6 +379,7 @@ nodes.resetButton.addEventListener("click", () => {
   state.activeSource = "全部";
   state.query = "";
   state.featuredOnly = false;
+  state.readingFilter = "";
   state.hideLowRelevance = true;
   nodes.searchInput.value = "";
   nodes.hideLowRelevance.checked = true;
@@ -311,6 +390,24 @@ nodes.resetButton.addEventListener("click", () => {
 
 nodes.featuredButton.addEventListener("click", () => {
   state.featuredOnly = !state.featuredOnly;
+  render();
+});
+
+nodes.favoriteButton.addEventListener("click", () => {
+  state.readingFilter = state.readingFilter === "favorite" ? "" : "favorite";
+  render();
+});
+
+nodes.laterButton.addEventListener("click", () => {
+  state.readingFilter = state.readingFilter === "later" ? "" : "later";
+  render();
+});
+
+nodes.keywordCloud?.addEventListener("click", event => {
+  const button = event.target.closest("[data-keyword]");
+  if (!button) return;
+  state.query = button.dataset.keyword;
+  nodes.searchInput.value = state.query;
   render();
 });
 

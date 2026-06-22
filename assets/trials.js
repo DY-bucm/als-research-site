@@ -1,4 +1,4 @@
-import { countBy, escapeHtml, formatDate, loadMergedItems, trendCard } from "./shared.js";
+import { cleanDisplayText, countBy, escapeHtml, formatDate, loadMergedItems, trendCard } from "./shared.js";
 
 const stats = document.querySelector("#trialStats");
 const list = document.querySelector("#trialList");
@@ -27,8 +27,11 @@ list.innerHTML = trials.map(item => `
         <span class="badge relevance">相关性 ${item.relevanceScore}</span>
       </div>
     </div>
-    <h3>${escapeHtml(item.titleZh)}</h3>
-    <p class="translation">${escapeHtml(item.summaryZh)}</p>
+    <div class="title-pair">
+      <h3>${escapeHtml(item.title || item.titleZh)}</h3>
+      <p>${escapeHtml(cleanDisplayText(item.titleZh || item.summaryZh || ""))}</p>
+    </div>
+    <p class="translation"><strong>中文要点：</strong>${escapeHtml(item.summaryZh)}</p>
     <p class="insight"><strong>下一步关注：</strong>${escapeHtml(item.aiRead?.watchNext || item.insight)}</p>
     <div class="links">
       <a href="detail.html?id=${encodeURIComponent(item.id)}">详情页</a>
