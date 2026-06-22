@@ -1,0 +1,50 @@
+# 复核任务清单
+
+- [ ] 待复核翻译：Optimized multiplex immunofluorescent protocols for simultaneous in situ identification of α-motoneuron subtypes. (pmid-42214472)
+  - https://pubmed.ncbi.nlm.nih.gov/42214472/
+- [ ] PBMC DEG/miRNA 生物标志物s of TDP-43 pathology in ALS. (pmid-42251967)
+  - https://pubmed.ncbi.nlm.nih.gov/42251967/
+- [ ] Early-onset 神经炎症 drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency. (pmid-42242586)
+  - https://pubmed.ncbi.nlm.nih.gov/42242586/
+- [ ] Teaching Video NeuroImage: Beyond Cognition: 肌萎缩侧索硬化症-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant. (pmid-42319999)
+  - https://pubmed.ncbi.nlm.nih.gov/42319999/
+- [ ] 待复核翻译：Drivers of Rising Prevalence in Major Motor Neurodegenerative Diseases: Temporal Trends in Sweden and France (2003-2022). (pmid-42247653)
+  - https://pubmed.ncbi.nlm.nih.gov/42247653/
+- [ ] Diagnostic Revision From Primary Lateral Sclerosis to 肌萎缩侧索硬化症: A Cohort Study. (pmid-42214042)
+  - https://pubmed.ncbi.nlm.nih.gov/42214042/
+- [ ] 待复核翻译：Direct evidence of upper motor neuron excitability changes in a patient with ALS. (pmid-42324254)
+  - https://pubmed.ncbi.nlm.nih.gov/42324254/
+- [ ] The all-encompassing nature of 运动神经元病 caregiving: a qualitative study of Australian caregivers. (pmid-42323839)
+  - https://pubmed.ncbi.nlm.nih.gov/42323839/
+- [ ] Comparison of Consumer Smartwatch and Research-Grade Accelerometer-Derived Step Counts in 肌萎缩侧索硬化症. (epmc-MED-42321151)
+  - https://doi.org/10.1002/mus.70323
+- [ ] [疑似误收] 待复核翻译：Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish. (epmc-MED-42320366)
+  - https://doi.org/10.1016/j.biopha.2026.119674
+- [ ] Teaching Video NeuroImage: Beyond Cognition: 肌萎缩侧索硬化症-Like Disease in PSEN1 c.1292C&gt;A (Jalisco Founder Effect) Variant. (epmc-MED-42319999)
+  - https://doi.org/10.1212/wnl.0000000000218247
+- [ ] Understanding apathy in people with 肌萎缩侧索硬化症 using motivational theories. (epmc-MED-42318818)
+  - https://doi.org/10.1177/13591053261454342
+- [ ] [疑似误收] 待复核翻译：PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant. (epmc-MED-42317073)
+  - https://doi.org/10.1111/febs.70630
+- [ ] 待复核翻译：POLG-associated Parkinson's disease-ALS overlap: A novel variant and first reported use of continuous subcutaneous foslevodopa/foscarbidopa infusion in Brait-Fahn-Schwartz disease. (epmc-MED-42320255)
+  - https://doi.org/10.1016/j.parkreldis.2026.108398
+- [ ] The Emotional Experiences of Healthcare Professionals Working in 肌萎缩侧索硬化症: A Systematic Review. (epmc-MED-42316486)
+  - https://doi.org/10.1002/mus.70309
+- [ ] [高优先级] 待复核翻译：Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks. (epmc-MED-42316301)
+  - https://doi.org/10.1186/s40478-026-02341-8
+- [ ] [高优先级] Evaluation of the Combined Therapy of EH-301 and N-acetylcysteine Together With Riluzole in 肌萎缩侧索硬化症 (ALS) (trial-NCT07414212)
+  - https://clinicaltrials.gov/study/NCT07414212
+- [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS (trial-NCT06889857)
+  - https://clinicaltrials.gov/study/NCT06889857
+- [ ] [高优先级] 待复核翻译：Acute Intermittent Hypoxia and Breathing in Neuromuscular Disease (trial-NCT03645031)
+  - https://clinicaltrials.gov/study/NCT03645031
+- [ ] [高优先级] A Long-Term Study in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT00445172)
+  - https://clinicaltrials.gov/study/NCT00445172
+- [ ] [高优先级] 待复核翻译：Cervical Electrical Stimulation for ALS (trial-NCT03411863)
+  - https://clinicaltrials.gov/study/NCT03411863
+- [ ] [高优先级] 待复核翻译：Italian Validation of the Beaumont Behavioural Inventory (BBI) (trial-NCT04440644)
+  - https://clinicaltrials.gov/study/NCT04440644
+- [ ] [高优先级] 待复核翻译：Dexpramipexole Japanese PK Study (trial-NCT01424163)
+  - https://clinicaltrials.gov/study/NCT01424163
+- [ ] [高优先级] A Safety and Tolerability Study of Intracerebroventricular Administration of sNN0029 to Patients With 肌萎缩侧索硬化症 (trial-NCT00800501)
+  - https://clinicaltrials.gov/study/NCT00800501

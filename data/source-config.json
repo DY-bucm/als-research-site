@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-06-22",
+  "activeSources": [
+    { "name": "PubMed", "type": "literature", "status": "active", "script": "scripts/update-feed.mjs" },
+    { "name": "Europe PMC", "type": "literature/preprint", "status": "active", "script": "scripts/update-feed.mjs" },
+    { "name": "ClinicalTrials.gov", "type": "clinical-trials", "status": "active", "script": "scripts/update-feed.mjs" }
+  ],
+  "plannedSources": [
+    { "name": "bioRxiv / medRxiv", "type": "preprint", "status": "planned", "reason": "补充尚未正式发表的 ALS 预印本。" },
+    { "name": "FDA / EMA", "type": "regulatory", "status": "planned", "reason": "跟踪药物审批、安全性和监管动态。" },
+    { "name": "ALS Association", "type": "research-news", "status": "planned", "reason": "补充患者组织和基金资助相关研究报道。" },
+    { "name": "NIH RePORTER", "type": "funding", "status": "planned", "reason": "追踪 ALS 新项目资助和研究方向变化。" },
+    { "name": "OpenAlex", "type": "bibliometrics", "status": "planned", "reason": "补充机构、引用、主题趋势和开放数据。" }
+  ]
+}
