@@ -1,27 +1,38 @@
 {
-  "updatedAt": "2026-06-22T10:39:24.454Z",
+  "updatedAt": "2026-06-23T05:12:45.949Z",
   "summary": {
-    "totalItems": 24,
-    "issueCount": 20
+    "totalItems": 38,
+    "issueCount": 27
   },
   "sources": [
     {
       "source": "PubMed",
       "ok": true,
-      "count": 8
+      "count": 15
     },
     {
       "source": "Europe PMC",
       "ok": true,
-      "count": 8
+      "count": 15
     },
     {
       "source": "ClinicalTrials.gov",
       "ok": true,
-      "count": 8
+      "count": 15
     }
   ],
   "lowRelevance": [
+    {
+      "id": "epmc-PPR-PPR1257389",
+      "title": "Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.19.733362"
+    },
     {
       "id": "epmc-MED-42320366",
       "title": "Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
@@ -32,17 +43,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.1016/j.biopha.2026.119674"
-    },
-    {
-      "id": "epmc-MED-42317073",
-      "title": "PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
-      "titleZh": "待复核翻译：PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/febs.70630"
     }
   ],
   "missingIdentifiers": [],
@@ -57,6 +57,50 @@
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
+    },
+    {
+      "id": "epmc-PPR-PPR1257204",
+      "title": "High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in Amyotrophic Lateral Sclerosis",
+      "titleZh": "High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.18.26355984"
+    },
+    {
+      "id": "epmc-PPR-PPR1257389",
+      "title": "Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.19.733362"
+    },
+    {
+      "id": "epmc-MED-42322392",
+      "title": "ECAS-Based Neuropsychological Phenotyping in Amyotrophic Lateral Sclerosis: A Retrospective Study Comparing Different Algorithms.",
+      "titleZh": "ECAS-Based Neuropsychological Phenotyping in 肌萎缩侧索硬化症: A Retrospective Study Comparing Different Algorithms.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s40120-026-00955-7"
+    },
+    {
+      "id": "epmc-PPR-PPR1256645",
+      "title": "NEK1 autophosphorylation is disrupted by amyotrophic lateral sclerosis-associated missense variants: activity biomarkers and structural insights",
+      "titleZh": "NEK1 autophosphorylation is disrupted by 肌萎缩侧索硬化症-associated missense variants: activity 生物标志物s and structural insights",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.17.733013"
     },
     {
       "id": "epmc-MED-42321151",
@@ -101,151 +145,184 @@
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://doi.org/10.1177/13591053261454342"
-    },
-    {
-      "id": "epmc-MED-42317073",
-      "title": "PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
-      "titleZh": "待复核翻译：PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/febs.70630"
-    },
-    {
-      "id": "epmc-MED-42320255",
-      "title": "POLG-associated Parkinson's disease-ALS overlap: A novel variant and first reported use of continuous subcutaneous foslevodopa/foscarbidopa infusion in Brait-Fahn-Schwartz disease.",
-      "titleZh": "待复核翻译：POLG-associated Parkinson's disease-ALS overlap: A novel variant and first reported use of continuous subcutaneous foslevodopa/foscarbidopa infusion in Brait-Fahn-Schwartz disease.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.parkreldis.2026.108398"
-    },
-    {
-      "id": "epmc-MED-42316486",
-      "title": "The Emotional Experiences of Healthcare Professionals Working in Amyotrophic Lateral Sclerosis: A Systematic Review.",
-      "titleZh": "The Emotional Experiences of Healthcare Professionals Working in 肌萎缩侧索硬化症: A Systematic Review.",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1002/mus.70309"
-    },
-    {
-      "id": "epmc-MED-42316301",
-      "title": "Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
-      "titleZh": "待复核翻译：Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1186/s40478-026-02341-8"
     }
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "epmc-MED-42316301",
-      "title": "Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
-      "titleZh": "待复核翻译：Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
+      "id": "pmid-42324839",
+      "title": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With Amyotrophic Lateral Sclerosis: A Single-Site Retrospective Review.",
+      "titleZh": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review.",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 17,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
+    },
+    {
+      "id": "trial-NCT07618585",
+      "title": "Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
+      "titleZh": "待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
       "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07618585"
+    },
+    {
+      "id": "trial-NCT03508453",
+      "title": "IC14 for Treatment of Amyotrophic Lateral Sclerosis",
+      "titleZh": "IC14 for Treatment of 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03508453"
+    },
+    {
+      "id": "trial-NCT07410806",
+      "title": "HEALEY ALS Platform Trial - Regimen I NUZ-001",
+      "titleZh": "待复核翻译：HEALEY ALS Platform Trial - Regimen I NUZ-001",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07410806"
+    },
+    {
+      "id": "trial-NCT03851302",
+      "title": "Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
+      "titleZh": "待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03851302"
+    },
+    {
+      "id": "trial-NCT06810219",
+      "title": "Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
+      "titleZh": "待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06810219"
+    },
+    {
+      "id": "trial-NCT05797753",
+      "title": "A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B)",
+      "titleZh": "待复核翻译：A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05797753"
+    },
+    {
+      "id": "trial-NCT05442775",
+      "title": "A Phase 3, Open-Label Extension of COURAGE-ALS (CY 5031)",
+      "titleZh": "A III 期, Open-Label Extension of COURAGE-ALS (CY 5031)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05442775"
+    },
+    {
+      "id": "trial-NCT06046599",
+      "title": "Remote Home Assessment of Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Remote Home Assessment of Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06046599"
+    },
+    {
+      "id": "trial-NCT01622088",
+      "title": "Phase 3 Extension Study of Dexpramipexole in ALS",
+      "titleZh": "III 期 Extension Study of Dexpramipexole in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01622088"
+    },
+    {
+      "id": "trial-NCT02525471",
+      "title": "A Pilot Study of RNS60 in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "A Pilot Study of RNS60 in 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02525471"
+    },
+    {
+      "id": "trial-NCT04885374",
+      "title": "China Amyotrophic Lateral Sclerosis Registry of Patients With Traditional Chinese Medicine",
+      "titleZh": "China 肌萎缩侧索硬化症 Registry of Patients With Traditional Chinese Medicine",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04885374"
+    },
+    {
+      "id": "trial-NCT03068754",
+      "title": "Study of Acthar® Gel (Acthar) for Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Study of Acthar® Gel (Acthar) for 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03068754"
+    },
+    {
+      "id": "trial-NCT03455309",
+      "title": "Evaluation of NDV-3A Vaccine in Preventing S. Aureus Colonization",
+      "titleZh": "待复核翻译：Evaluation of NDV-3A Vaccine in Preventing S. Aureus Colonization",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://doi.org/10.1186/s40478-026-02341-8"
+      "url": "https://clinicaltrials.gov/study/NCT03455309"
     },
     {
-      "id": "trial-NCT07414212",
-      "title": "Evaluation of the Combined Therapy of EH-301 and N-acetylcysteine Together With Riluzole in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Evaluation of the Combined Therapy of EH-301 and N-acetylcysteine Together With Riluzole in 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT02374606",
+      "title": "Accurate Test of Limb Isometric Strength (ATLIS) in ALS",
+      "titleZh": "待复核翻译：Accurate Test of Limb Isometric Strength (ATLIS) in ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07414212"
+      "url": "https://clinicaltrials.gov/study/NCT02374606"
     },
     {
-      "id": "trial-NCT06889857",
-      "title": "Safety and Efficacy of Intravenous Administration of SHED-CM for ALS",
-      "titleZh": "待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06889857"
-    },
-    {
-      "id": "trial-NCT03645031",
-      "title": "Acute Intermittent Hypoxia and Breathing in Neuromuscular Disease",
-      "titleZh": "待复核翻译：Acute Intermittent Hypoxia and Breathing in Neuromuscular Disease",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03645031"
-    },
-    {
-      "id": "trial-NCT00445172",
-      "title": "A Long-Term Study in Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A Long-Term Study in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00445172"
-    },
-    {
-      "id": "trial-NCT03411863",
-      "title": "Cervical Electrical Stimulation for ALS",
-      "titleZh": "待复核翻译：Cervical Electrical Stimulation for ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03411863"
-    },
-    {
-      "id": "trial-NCT04440644",
-      "title": "Italian Validation of the Beaumont Behavioural Inventory (BBI)",
-      "titleZh": "待复核翻译：Italian Validation of the Beaumont Behavioural Inventory (BBI)",
+      "id": "trial-NCT00023075",
+      "title": "Nuclear Magnetic Spectroscopy Imaging to Evaluate Primary Lateral Sclerosis, Hereditary Spastic Paraplegia and Amyotrophic Lateral Sclerosis",
+      "titleZh": "Nuclear Magnetic Spectroscopy Imaging to Evaluate Primary Lateral Sclerosis, Hereditary Spastic Paraplegia and 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04440644"
-    },
-    {
-      "id": "trial-NCT01424163",
-      "title": "Dexpramipexole Japanese PK Study",
-      "titleZh": "待复核翻译：Dexpramipexole Japanese PK Study",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01424163"
-    },
-    {
-      "id": "trial-NCT00800501",
-      "title": "A Safety and Tolerability Study of Intracerebroventricular Administration of sNN0029 to Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "A Safety and Tolerability Study of Intracerebroventricular Administration of sNN0029 to Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00800501"
+      "url": "https://clinicaltrials.gov/study/NCT00023075"
     }
   ],
   "failedSources": [],
@@ -253,15 +330,15 @@
     "疑似误收": 2,
     "缺标识符": 0,
     "缺摘要": 9,
-    "高优先级待复核": 9,
+    "高优先级待复核": 16,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 24
+    "待复核": 38
   },
   "relevanceCounts": {
-    "medium": 10,
-    "high": 12,
+    "medium": 13,
+    "high": 23,
     "low": 2
   }
 }

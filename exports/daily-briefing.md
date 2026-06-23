@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-06-22
+更新时间：2026-06-23
 
-1. **Evaluation of the Combined Therapy of EH-301 and N-acetylcysteine Together With Riluzole in 肌萎缩侧索硬化症 (ALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07414212
-2. **待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS**
+1. **The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review.**
+   - 治疗 / 观察性临床研究 / high
+   - Amyotrophic lateral sclerosis (ALS) is often categorized as sporadic (sALS) or familial (fALS) based on the family history.
+   - https://pubmed.ncbi.nlm.nih.gov/42324839/
+2. **待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06889857
-3. **待复核翻译：Acute Intermittent Hypoxia and Breathing in Neuromuscular Disease**
+   - https://clinicaltrials.gov/study/NCT07618585
+3. **IC14 for Treatment of 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: WITHDRAWN.
+   - https://clinicaltrials.gov/study/NCT03508453
+4. **待复核翻译：HEALEY ALS Platform Trial - Regimen I NUZ-001**
+   - 临床试验 / 临床试验注册 / high
+   - Status: ENROLLING_BY_INVITATION.
+   - https://clinicaltrials.gov/study/NCT07410806
+5. **待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03645031
-4. **A Long-Term Study in Patients With 肌萎缩侧索硬化症 (ALS)**
+   - https://clinicaltrials.gov/study/NCT03851302
+6. **待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06810219
+7. **待复核翻译：A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B)**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT00445172
-5. **待复核翻译：Cervical Electrical Stimulation for ALS**
+   - https://clinicaltrials.gov/study/NCT05797753
+8. **A III 期, Open-Label Extension of COURAGE-ALS (CY 5031)**
    - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03411863
-6. **待复核翻译：Italian Validation of the Beaumont Behavioural Inventory (BBI)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04440644
-7. **待复核翻译：Dexpramipexole Japanese PK Study**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT01424163
-8. **A Safety and Tolerability Study of Intracerebroventricular Administration of sNN0029 to Patients With 肌萎缩侧索硬化症**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT00800501
+   - Status: TERMINATED.
+   - https://clinicaltrials.gov/study/NCT05442775

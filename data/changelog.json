@@ -1,256 +1,281 @@
 {
-  "updatedAt": "2026-06-22T10:39:24.520Z",
+  "updatedAt": "2026-06-23T05:12:45.997Z",
   "previousSnapshot": "data/archive/2026-06-22.json",
-  "current": "data\\items.json",
+  "current": "data/items.json",
   "summary": {
-    "added": 0,
-    "removed": 0,
-    "changed": 11
+    "added": 26,
+    "removed": 12,
+    "changed": 0
   },
-  "added": [],
-  "removed": [],
-  "changed": [
+  "added": [
     {
-      "id": "pmid-42242586",
-      "titleZh": "Early-onset 神经炎症 drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency.",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": ""
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": null
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "id": "pmid-42332177",
+      "titleZh": "待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332177/"
     },
     {
-      "id": "pmid-42214042",
-      "titleZh": "Diagnostic Revision From Primary Lateral Sclerosis to 肌萎缩侧索硬化症: A Cohort Study.",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": ""
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": null
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "id": "pmid-42329291",
+      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329291/"
+    },
+    {
+      "id": "epmc-PPR-PPR1257204",
+      "titleZh": "High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.18.26355984"
+    },
+    {
+      "id": "pmid-42324866",
+      "titleZh": "待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324866/"
+    },
+    {
+      "id": "pmid-42324839",
+      "titleZh": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review.",
+      "category": "治疗",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
+    },
+    {
+      "id": "pmid-42324684",
+      "titleZh": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324684/"
+    },
+    {
+      "id": "epmc-PPR-PPR1257389",
+      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.19.733362"
+    },
+    {
+      "id": "pmid-42323648",
+      "titleZh": "Delivering effective non-invasive ventilation in 肌萎缩侧索硬化症 using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42323648/"
+    },
+    {
+      "id": "epmc-MED-42322392",
+      "titleZh": "ECAS-Based Neuropsychological Phenotyping in 肌萎缩侧索硬化症: A Retrospective Study Comparing Different Algorithms.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s40120-026-00955-7"
+    },
+    {
+      "id": "epmc-PPR-PPR1256645",
+      "titleZh": "NEK1 autophosphorylation is disrupted by 肌萎缩侧索硬化症-associated missense variants: activity 生物标志物s and structural insights",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.06.17.733013"
+    },
+    {
+      "id": "trial-NCT07618585",
+      "titleZh": "待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07618585"
+    },
+    {
+      "id": "trial-NCT03508453",
+      "titleZh": "IC14 for Treatment of 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03508453"
+    },
+    {
+      "id": "trial-NCT07410806",
+      "titleZh": "待复核翻译：HEALEY ALS Platform Trial - Regimen I NUZ-001",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07410806"
+    },
+    {
+      "id": "pmid-42329964",
+      "titleZh": "Applications of electromyography in 肌萎缩侧索硬化症: A systematic review.",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329964/"
+    },
+    {
+      "id": "trial-NCT03851302",
+      "titleZh": "待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03851302"
+    },
+    {
+      "id": "trial-NCT06810219",
+      "titleZh": "待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06810219"
+    },
+    {
+      "id": "trial-NCT05797753",
+      "titleZh": "待复核翻译：A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05797753"
+    },
+    {
+      "id": "trial-NCT05442775",
+      "titleZh": "A III 期, Open-Label Extension of COURAGE-ALS (CY 5031)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05442775"
+    },
+    {
+      "id": "trial-NCT06046599",
+      "titleZh": "Remote Home Assessment of Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06046599"
+    },
+    {
+      "id": "trial-NCT01622088",
+      "titleZh": "III 期 Extension Study of Dexpramipexole in ALS",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01622088"
+    },
+    {
+      "id": "trial-NCT02525471",
+      "titleZh": "A Pilot Study of RNS60 in 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02525471"
+    },
+    {
+      "id": "trial-NCT04885374",
+      "titleZh": "China 肌萎缩侧索硬化症 Registry of Patients With Traditional Chinese Medicine",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04885374"
+    },
+    {
+      "id": "trial-NCT03068754",
+      "titleZh": "Study of Acthar® Gel (Acthar) for 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03068754"
+    },
+    {
+      "id": "trial-NCT03455309",
+      "titleZh": "待复核翻译：Evaluation of NDV-3A Vaccine in Preventing S. Aureus Colonization",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03455309"
+    },
+    {
+      "id": "trial-NCT02374606",
+      "titleZh": "待复核翻译：Accurate Test of Limb Isometric Strength (ATLIS) in ALS",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02374606"
+    },
+    {
+      "id": "trial-NCT00023075",
+      "titleZh": "Nuclear Magnetic Spectroscopy Imaging to Evaluate Primary Lateral Sclerosis, Hereditary Spastic Paraplegia and 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00023075"
+    }
+  ],
+  "removed": [
+    {
+      "id": "epmc-MED-42317073",
+      "titleZh": "待复核翻译：PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
+      "category": "遗传",
+      "priority": "low",
+      "url": "https://doi.org/10.1111/febs.70630"
+    },
+    {
+      "id": "epmc-MED-42320255",
+      "titleZh": "待复核翻译：POLG-associated Parkinson's disease-ALS overlap: A novel variant and first reported use of continuous subcutaneous foslevodopa/foscarbidopa infusion in Brait-Fahn-Schwartz disease.",
+      "category": "遗传",
+      "priority": "low",
+      "url": "https://doi.org/10.1016/j.parkreldis.2026.108398"
+    },
+    {
+      "id": "epmc-MED-42316486",
+      "titleZh": "The Emotional Experiences of Healthcare Professionals Working in 肌萎缩侧索硬化症: A Systematic Review.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70309"
     },
     {
       "id": "epmc-MED-42316301",
       "titleZh": "待复核翻译：Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": ""
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": null
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://doi.org/10.1186/s40478-026-02341-8"
     },
     {
       "id": "trial-NCT07414212",
       "titleZh": "Evaluation of the Combined Therapy of EH-301 and N-acetylcysteine Together With Riluzole in 肌萎缩侧索硬化症 (ALS)",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "RECRUITING"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 90
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07414212"
     },
     {
       "id": "trial-NCT06889857",
       "titleZh": "待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "RECRUITING"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 10
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06889857"
     },
     {
       "id": "trial-NCT03645031",
       "titleZh": "待复核翻译：Acute Intermittent Hypoxia and Breathing in Neuromuscular Disease",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "COMPLETED"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 29
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03645031"
     },
     {
       "id": "trial-NCT00445172",
       "titleZh": "A Long-Term Study in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "COMPLETED"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 135
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00445172"
     },
     {
       "id": "trial-NCT03411863",
       "titleZh": "待复核翻译：Cervical Electrical Stimulation for ALS",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "COMPLETED"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 19
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03411863"
     },
     {
       "id": "trial-NCT04440644",
       "titleZh": "待复核翻译：Italian Validation of the Beaumont Behavioural Inventory (BBI)",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "COMPLETED"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 190
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04440644"
     },
     {
       "id": "trial-NCT01424163",
       "titleZh": "待复核翻译：Dexpramipexole Japanese PK Study",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "COMPLETED"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 57
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01424163"
     },
     {
       "id": "trial-NCT00800501",
       "titleZh": "A Safety and Tolerability Study of Intracerebroventricular Administration of sNN0029 to Patients With 肌萎缩侧索硬化症",
-      "changes": [
-        {
-          "field": "trial.status",
-          "after": "COMPLETED"
-        },
-        {
-          "field": "trial.phase",
-          "after": ""
-        },
-        {
-          "field": "trial.enrollment",
-          "after": 18
-        },
-        {
-          "field": "trial.completionDate",
-          "after": ""
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00800501"
     }
-  ]
+  ],
+  "changed": []
 }

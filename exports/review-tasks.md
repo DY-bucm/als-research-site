@@ -12,10 +12,30 @@
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
 - [ ] Diagnostic Revision From Primary Lateral Sclerosis to 肌萎缩侧索硬化症: A Cohort Study. (pmid-42214042)
   - https://pubmed.ncbi.nlm.nih.gov/42214042/
+- [ ] 待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases. (pmid-42332177)
+  - https://pubmed.ncbi.nlm.nih.gov/42332177/
+- [ ] Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems. (pmid-42329291)
+  - https://pubmed.ncbi.nlm.nih.gov/42329291/
+- [ ] High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症 (epmc-PPR-PPR1257204)
+  - https://doi.org/10.64898/2026.06.18.26355984
+- [ ] 待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS. (pmid-42324866)
+  - https://pubmed.ncbi.nlm.nih.gov/42324866/
+- [ ] [高优先级] The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review. (pmid-42324839)
+  - https://pubmed.ncbi.nlm.nih.gov/42324839/
+- [ ] Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic. (pmid-42324684)
+  - https://pubmed.ncbi.nlm.nih.gov/42324684/
 - [ ] 待复核翻译：Direct evidence of upper motor neuron excitability changes in a patient with ALS. (pmid-42324254)
   - https://pubmed.ncbi.nlm.nih.gov/42324254/
 - [ ] The all-encompassing nature of 运动神经元病 caregiving: a qualitative study of Australian caregivers. (pmid-42323839)
   - https://pubmed.ncbi.nlm.nih.gov/42323839/
+- [ ] [疑似误收] 待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues (epmc-PPR-PPR1257389)
+  - https://doi.org/10.64898/2026.06.19.733362
+- [ ] Delivering effective non-invasive ventilation in 肌萎缩侧索硬化症 using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial. (pmid-42323648)
+  - https://pubmed.ncbi.nlm.nih.gov/42323648/
+- [ ] ECAS-Based Neuropsychological Phenotyping in 肌萎缩侧索硬化症: A Retrospective Study Comparing Different Algorithms. (epmc-MED-42322392)
+  - https://doi.org/10.1007/s40120-026-00955-7
+- [ ] NEK1 autophosphorylation is disrupted by 肌萎缩侧索硬化症-associated missense variants: activity 生物标志物s and structural insights (epmc-PPR-PPR1256645)
+  - https://doi.org/10.64898/2026.06.17.733013
 - [ ] Comparison of Consumer Smartwatch and Research-Grade Accelerometer-Derived Step Counts in 肌萎缩侧索硬化症. (epmc-MED-42321151)
   - https://doi.org/10.1002/mus.70323
 - [ ] [疑似误收] 待复核翻译：Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish. (epmc-MED-42320366)
@@ -24,27 +44,35 @@
   - https://doi.org/10.1212/wnl.0000000000218247
 - [ ] Understanding apathy in people with 肌萎缩侧索硬化症 using motivational theories. (epmc-MED-42318818)
   - https://doi.org/10.1177/13591053261454342
-- [ ] [疑似误收] 待复核翻译：PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant. (epmc-MED-42317073)
-  - https://doi.org/10.1111/febs.70630
-- [ ] 待复核翻译：POLG-associated Parkinson's disease-ALS overlap: A novel variant and first reported use of continuous subcutaneous foslevodopa/foscarbidopa infusion in Brait-Fahn-Schwartz disease. (epmc-MED-42320255)
-  - https://doi.org/10.1016/j.parkreldis.2026.108398
-- [ ] The Emotional Experiences of Healthcare Professionals Working in 肌萎缩侧索硬化症: A Systematic Review. (epmc-MED-42316486)
-  - https://doi.org/10.1002/mus.70309
-- [ ] [高优先级] 待复核翻译：Intrathecal (G&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;149&lt;/sub&gt; delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks. (epmc-MED-42316301)
-  - https://doi.org/10.1186/s40478-026-02341-8
-- [ ] [高优先级] Evaluation of the Combined Therapy of EH-301 and N-acetylcysteine Together With Riluzole in 肌萎缩侧索硬化症 (ALS) (trial-NCT07414212)
-  - https://clinicaltrials.gov/study/NCT07414212
-- [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS (trial-NCT06889857)
-  - https://clinicaltrials.gov/study/NCT06889857
-- [ ] [高优先级] 待复核翻译：Acute Intermittent Hypoxia and Breathing in Neuromuscular Disease (trial-NCT03645031)
-  - https://clinicaltrials.gov/study/NCT03645031
-- [ ] [高优先级] A Long-Term Study in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT00445172)
-  - https://clinicaltrials.gov/study/NCT00445172
-- [ ] [高优先级] 待复核翻译：Cervical Electrical Stimulation for ALS (trial-NCT03411863)
-  - https://clinicaltrials.gov/study/NCT03411863
-- [ ] [高优先级] 待复核翻译：Italian Validation of the Beaumont Behavioural Inventory (BBI) (trial-NCT04440644)
-  - https://clinicaltrials.gov/study/NCT04440644
-- [ ] [高优先级] 待复核翻译：Dexpramipexole Japanese PK Study (trial-NCT01424163)
-  - https://clinicaltrials.gov/study/NCT01424163
-- [ ] [高优先级] A Safety and Tolerability Study of Intracerebroventricular Administration of sNN0029 to Patients With 肌萎缩侧索硬化症 (trial-NCT00800501)
-  - https://clinicaltrials.gov/study/NCT00800501
+- [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS (trial-NCT07618585)
+  - https://clinicaltrials.gov/study/NCT07618585
+- [ ] [高优先级] IC14 for Treatment of 肌萎缩侧索硬化症 (trial-NCT03508453)
+  - https://clinicaltrials.gov/study/NCT03508453
+- [ ] [高优先级] 待复核翻译：HEALEY ALS Platform Trial - Regimen I NUZ-001 (trial-NCT07410806)
+  - https://clinicaltrials.gov/study/NCT07410806
+- [ ] Applications of electromyography in 肌萎缩侧索硬化症: A systematic review. (pmid-42329964)
+  - https://pubmed.ncbi.nlm.nih.gov/42329964/
+- [ ] [高优先级] 待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS (trial-NCT03851302)
+  - https://clinicaltrials.gov/study/NCT03851302
+- [ ] [高优先级] 待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS (trial-NCT06810219)
+  - https://clinicaltrials.gov/study/NCT06810219
+- [ ] [高优先级] 待复核翻译：A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B) (trial-NCT05797753)
+  - https://clinicaltrials.gov/study/NCT05797753
+- [ ] [高优先级] A III 期, Open-Label Extension of COURAGE-ALS (CY 5031) (trial-NCT05442775)
+  - https://clinicaltrials.gov/study/NCT05442775
+- [ ] [高优先级] Remote Home Assessment of Patients With 肌萎缩侧索硬化症 (trial-NCT06046599)
+  - https://clinicaltrials.gov/study/NCT06046599
+- [ ] [高优先级] III 期 Extension Study of Dexpramipexole in ALS (trial-NCT01622088)
+  - https://clinicaltrials.gov/study/NCT01622088
+- [ ] [高优先级] A Pilot Study of RNS60 in 肌萎缩侧索硬化症 (ALS) (trial-NCT02525471)
+  - https://clinicaltrials.gov/study/NCT02525471
+- [ ] [高优先级] China 肌萎缩侧索硬化症 Registry of Patients With Traditional Chinese Medicine (trial-NCT04885374)
+  - https://clinicaltrials.gov/study/NCT04885374
+- [ ] [高优先级] Study of Acthar® Gel (Acthar) for 肌萎缩侧索硬化症 (ALS) (trial-NCT03068754)
+  - https://clinicaltrials.gov/study/NCT03068754
+- [ ] [高优先级] 待复核翻译：Evaluation of NDV-3A Vaccine in Preventing S. Aureus Colonization (trial-NCT03455309)
+  - https://clinicaltrials.gov/study/NCT03455309
+- [ ] [高优先级] 待复核翻译：Accurate Test of Limb Isometric Strength (ATLIS) in ALS (trial-NCT02374606)
+  - https://clinicaltrials.gov/study/NCT02374606
+- [ ] [高优先级] Nuclear Magnetic Spectroscopy Imaging to Evaluate Primary Lateral Sclerosis, Hereditary Spastic Paraplegia and 肌萎缩侧索硬化症 (trial-NCT00023075)
+  - https://clinicaltrials.gov/study/NCT00023075
