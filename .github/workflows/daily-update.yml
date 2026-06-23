@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
@@ -24,15 +25,20 @@ jobs:
         run: node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json
 
       - name: AI translate and readout
+        continue-on-error: true
         env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_API_BASE_URL: ${{ vars.AI_API_BASE_URL }}
+          AI_API_MODE: ${{ vars.AI_API_MODE }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-5.2
           AI_ENRICH_LIMIT: "20"
         run: |
-          if [ -n "$OPENAI_API_KEY" ]; then
+          if [ -n "$AI_API_KEY" ] || [ -n "$OPENAI_API_KEY" ]; then
             node scripts/enrich-ai.mjs data/items.json data/items.json
           else
-            echo "OPENAI_API_KEY is not configured; skipping AI translation."
+            echo "AI_API_KEY or OPENAI_API_KEY is not configured; skipping AI translation."
           fi
 
       - name: Archive feed snapshot
@@ -54,3 +60,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update ALS research feed"
+  
+  
