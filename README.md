@@ -76,7 +76,12 @@ node .\scripts\update-feed.mjs --days 30 --limit 12 --output data/items.json
 
 ## API 翻译和精读
 
-`scripts/enrich-ai.mjs` 已接入 OpenAI Responses API。它不会在前端网页暴露 API Key，而是在本地脚本或 GitHub Actions 后台运行。
+`scripts/enrich-ai.mjs` 支持两类模型接口：
+
+1. OpenAI Responses API。
+2. 国产平台常见的 OpenAI 兼容 `/v1/chat/completions` 接口。
+
+它不会在前端网页暴露 API Key，而是在本地脚本或 GitHub Actions 后台运行。
 
 脚本会为未翻译条目生成：
 
@@ -90,15 +95,25 @@ node .\scripts\update-feed.mjs --days 30 --limit 12 --output data/items.json
 本地测试：
 
 ```powershell
-$env:OPENAI_API_KEY="你的 API key"
+$env:AI_API_KEY="你的 API key"
+$env:AI_API_BASE_URL="https://你的模型平台/v1"
+$env:AI_API_MODE="chat"
+$env:AI_MODEL="你的模型名"
 $env:AI_ENRICH_LIMIT="5"
+npm run ai:enrich
+```
+
+如果继续使用 OpenAI，也可以只设置：
+
+```powershell
+$env:OPENAI_API_KEY="你的 API key"
 npm run ai:enrich
 ```
 
 强制重新翻译已有条目：
 
 ```powershell
-$env:OPENAI_API_KEY="你的 API key"
+$env:AI_API_KEY="你的 API key"
 $env:AI_ENRICH_FORCE="1"
 $env:AI_ENRICH_LIMIT="5"
 npm run ai:enrich
@@ -113,10 +128,24 @@ GitHub 仓库 → Settings → Secrets and variables → Actions → New reposit
 Secret 名称：
 
 ```text
-OPENAI_API_KEY
+AI_API_KEY
 ```
 
-没有配置 `OPENAI_API_KEY` 时，每日更新仍会抓取英文原文，但会自动跳过 AI 翻译。
+如果使用国产 OpenAI 兼容平台，再到 GitHub：
+
+```text
+Settings → Secrets and variables → Actions → Variables
+```
+
+添加：
+
+```text
+AI_API_BASE_URL = 你的平台 OpenAI 兼容地址，例如 https://api.xxx.com/v1
+AI_API_MODE = chat
+AI_MODEL = 你的模型名
+```
+
+没有配置 `AI_API_KEY` 或 `OPENAI_API_KEY` 时，每日更新仍会抓取英文原文，但会自动跳过 AI 翻译。
 
 ## 仍需人工复核的部分
 
