@@ -74,9 +74,53 @@ node .\scripts\update-feed.mjs --days 30 --limit 12 --output data/items.json
 6. 标记 `needsReview: true`，提醒人工复核医学结论。
 7. 生成 AI 精读结构：研究类型、关键发现、局限性、下一步关注。
 
+## API 翻译和精读
+
+`scripts/enrich-ai.mjs` 已接入 OpenAI Responses API。它不会在前端网页暴露 API Key，而是在本地脚本或 GitHub Actions 后台运行。
+
+脚本会为未翻译条目生成：
+
+- `titleZh`：英文标题的准确中文翻译。
+- `abstractZh`：英文摘要或临床试验登记摘要的忠实中文翻译。
+- `summaryZh`：面向中文读者的简洁要点。
+- `insight`：文章重点和跟踪价值。
+- `frontierRationale`：为什么判定为前沿。
+- `aiRead`：研究类型、关键发现、局限性、下一步关注。
+
+本地测试：
+
+```powershell
+$env:OPENAI_API_KEY="你的 API key"
+$env:AI_ENRICH_LIMIT="5"
+npm run ai:enrich
+```
+
+强制重新翻译已有条目：
+
+```powershell
+$env:OPENAI_API_KEY="你的 API key"
+$env:AI_ENRICH_FORCE="1"
+$env:AI_ENRICH_LIMIT="5"
+npm run ai:enrich
+```
+
+GitHub 自动运行时，把 Key 放在：
+
+```text
+GitHub 仓库 → Settings → Secrets and variables → Actions → New repository secret
+```
+
+Secret 名称：
+
+```text
+OPENAI_API_KEY
+```
+
+没有配置 `OPENAI_API_KEY` 时，每日更新仍会抓取英文原文，但会自动跳过 AI 翻译。
+
 ## 仍需人工复核的部分
 
-没有接入正式翻译 API 时，中文内容是术语辅助的机器草稿，不应当直接当作最终医学翻译。正式部署时建议接入翻译/大模型 API，并保留人工精选入口。
+即使接入 API，医学内容仍建议保留人工复核。网站会把 API 生成内容标记为 `ai-translated-draft`，人工确认后可在 `data/review-overrides.json` 中覆盖为更高质量版本。
 
 ## GitHub Actions
 
