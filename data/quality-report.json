@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-23T11:40:50.498Z",
+  "updatedAt": "2026-06-23T13:07:12.450Z",
   "summary": {
     "totalItems": 36,
-    "issueCount": 34
+    "issueCount": 36
   },
   "sources": [
     {
@@ -30,13 +30,13 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.64898/2026.06.19.733362"
     },
     {
       "id": "epmc-MED-42320366",
       "title": "Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
-      "titleZh": "Pgk1错义突变给药更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
+      "titleZh": "Pgk1错义突变给药可更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
       "category": "遗传",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
@@ -50,7 +50,7 @@
     {
       "id": "pmid-42319999",
       "title": "Teaching Video NeuroImage: Beyond Cognition: Amyotrophic Lateral Sclerosis-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
@@ -77,7 +77,7 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.64898/2026.06.19.733362"
     },
     {
@@ -116,7 +116,7 @@
     {
       "id": "epmc-MED-42320366",
       "title": "Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
-      "titleZh": "Pgk1错义突变给药更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
+      "titleZh": "Pgk1错义突变给药可更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
       "category": "遗传",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
@@ -204,9 +204,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324866/"
     },
     {
+      "id": "pmid-42324839",
+      "title": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With Amyotrophic Lateral Sclerosis: A Single-Site Retrospective Review.",
+      "titleZh": "赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 17,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
+    },
+    {
       "id": "pmid-42324254",
       "title": "Direct evidence of upper motor neuron excitability changes in a patient with ALS.",
-      "titleZh": "ALS患者上运动神经元兴奋性变化的直接证据",
+      "titleZh": "一例ALS患者上运动神经元兴奋性变化的直接证据",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 7,
@@ -215,9 +226,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324254/"
     },
     {
+      "id": "epmc-PPR-PPR1257389",
+      "title": "Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.64898/2026.06.19.733362"
+    },
+    {
       "id": "pmid-42323648",
       "title": "Delivering effective non-invasive ventilation in amyotrophic lateral sclerosis using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial.",
-      "titleZh": "利用强化远程支持在肌萎缩侧索硬化中实施有效无创通气（DENIM）：一项混合3型实施-效果试验中嵌入式过程评价的方案",
+      "titleZh": "通过强化远程支持在肌萎缩侧索硬化症中实施有效的无创通气（DENIM）：一项混合3型实施-效果试验中嵌入的过程评估方案",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 9,
@@ -237,169 +259,169 @@
       "url": "https://doi.org/10.64898/2026.06.17.733013"
     },
     {
-      "id": "trial-NCT07618585",
-      "title": "Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
-      "titleZh": "待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
+      "id": "trial-NCT04745299",
+      "title": "Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS",
+      "titleZh": "待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07618585"
+      "url": "https://clinicaltrials.gov/study/NCT04745299"
     },
     {
-      "id": "trial-NCT03508453",
-      "title": "IC14 for Treatment of Amyotrophic Lateral Sclerosis",
-      "titleZh": "IC14 for Treatment of 肌萎缩侧索硬化症",
+      "id": "trial-NCT00136500",
+      "title": "Clinical Research in ALS Study",
+      "titleZh": "待复核翻译：Clinical Research in ALS Study",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00136500"
+    },
+    {
+      "id": "trial-NCT07100119",
+      "title": "A Study of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
+      "titleZh": "A Study of LY4256984 in Participants With Sporadic 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07100119"
+    },
+    {
+      "id": "trial-NCT07268833",
+      "title": "Translating Single-cell Vulnerability Into Novel ALS Biomarkers and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
+      "titleZh": "Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07268833"
+    },
+    {
+      "id": "trial-NCT06069934",
+      "title": "A Second Intermediate-Size Expanded Access Protocol (EAP) for Pridopidine in People With Amyotrophic Lateral Sclerosis (Pridopidine EAP 2)",
+      "titleZh": "A Second Intermediate-Size Expanded Access Protocol (EAP) for Pridopidine in People With 肌萎缩侧索硬化症 (Pridopidine EAP 2)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06069934"
+    },
+    {
+      "id": "trial-NCT05352958",
+      "title": "Contribution of Diaphragmatic Ultrasound for Monitoring Diaphragmatic Function in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Contribution of Diaphragmatic Ultrasound for Monitoring Diaphragmatic Function in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05352958"
+    },
+    {
+      "id": "trial-NCT06891716",
+      "title": "[18F]ACI-19626 PET in TDP-43 Proteinopathies",
+      "titleZh": "待复核翻译：[18F]ACI-19626 PET in TDP-43 Proteinopathies",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03508453"
+      "url": "https://clinicaltrials.gov/study/NCT06891716"
     },
     {
-      "id": "trial-NCT07410806",
-      "title": "HEALEY ALS Platform Trial - Regimen I NUZ-001",
-      "titleZh": "待复核翻译：HEALEY ALS Platform Trial - Regimen I NUZ-001",
+      "id": "trial-NCT03127514",
+      "title": "AMX0035 in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "AMX0035 in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 17,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03127514"
+    },
+    {
+      "id": "trial-NCT03626012",
+      "title": "A Study to Assess the Safety, Tolerability, and Pharmacokinetics of BIIB078 in Adults With C9ORF72-Associated Amyotrophic Lateral Sclerosis",
+      "titleZh": "A Study to Assess the Safety, Tolerability, and Pharmacokinetics of BIIB078 in Adults With C9ORF72-Associated 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07410806"
+      "url": "https://clinicaltrials.gov/study/NCT03626012"
     },
     {
-      "id": "trial-NCT03851302",
-      "title": "Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
-      "titleZh": "待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
+      "id": "trial-NCT04328675",
+      "title": "Registration Study of Amyotrophic Lateral Sclerosis (ALS) in Mainland China",
+      "titleZh": "Registration Study of 肌萎缩侧索硬化症 (ALS) in Mainland China",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03851302"
+      "url": "https://clinicaltrials.gov/study/NCT04328675"
     },
     {
-      "id": "trial-NCT06810219",
-      "title": "Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
-      "titleZh": "待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
+      "id": "trial-NCT03067857",
+      "title": "Autologous Bone Marrow-Derived Stem Cell Therapy for Motor Neuron Disease",
+      "titleZh": "Autologous Bone Marrow-Derived 干细胞 Therapy for 运动神经元病",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03067857"
+    },
+    {
+      "id": "trial-NCT01521728",
+      "title": "Trial of Resistance and Endurance Exercise in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Trial of Resistance and Endurance Exercise in 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06810219"
+      "url": "https://clinicaltrials.gov/study/NCT01521728"
     },
     {
-      "id": "trial-NCT05797753",
-      "title": "A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B)",
-      "titleZh": "待复核翻译：A Study to Assess the Effect of Erythromycin on the Test Medicine (SAR443820) When Given Orally as Tablets to Healthy Adult Male and Female Participants (Part A); and the Effect of Itraconazole on the Test Medicine (SAR443820) When Given Orally as Capsules to Healthy Adult Male Participants (Part B)",
+      "id": "trial-NCT01933321",
+      "title": "Effect of Intrathecal Administration of Hematopoietic Stem Cells in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Effect of Intrathecal Administration of Hematopoietic 干细胞s in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01933321"
+    },
+    {
+      "id": "trial-NCT00958048",
+      "title": "Effects of Nocturnal Non-invasive Ventilation in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Effects of Nocturnal Non-invasive Ventilation in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05797753"
+      "url": "https://clinicaltrials.gov/study/NCT00958048"
     },
     {
-      "id": "trial-NCT05442775",
-      "title": "A Phase 3, Open-Label Extension of COURAGE-ALS (CY 5031)",
-      "titleZh": "A III 期, Open-Label Extension of COURAGE-ALS (CY 5031)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05442775"
-    },
-    {
-      "id": "trial-NCT06046599",
-      "title": "Remote Home Assessment of Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Remote Home Assessment of Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT00847847",
+      "title": "Neuromuscular Transmission in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Neuromuscular Transmission in 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06046599"
-    },
-    {
-      "id": "trial-NCT01622088",
-      "title": "Phase 3 Extension Study of Dexpramipexole in ALS",
-      "titleZh": "III 期 Extension Study of Dexpramipexole in ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01622088"
-    },
-    {
-      "id": "trial-NCT02525471",
-      "title": "A Pilot Study of RNS60 in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A Pilot Study of RNS60 in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02525471"
-    },
-    {
-      "id": "trial-NCT04885374",
-      "title": "China Amyotrophic Lateral Sclerosis Registry of Patients With Traditional Chinese Medicine",
-      "titleZh": "China 肌萎缩侧索硬化症 Registry of Patients With Traditional Chinese Medicine",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04885374"
-    },
-    {
-      "id": "trial-NCT03068754",
-      "title": "Study of Acthar® Gel (Acthar) for Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Study of Acthar® Gel (Acthar) for 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03068754"
-    },
-    {
-      "id": "trial-NCT03455309",
-      "title": "Evaluation of NDV-3A Vaccine in Preventing S. Aureus Colonization",
-      "titleZh": "待复核翻译：Evaluation of NDV-3A Vaccine in Preventing S. Aureus Colonization",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03455309"
-    },
-    {
-      "id": "trial-NCT02374606",
-      "title": "Accurate Test of Limb Isometric Strength (ATLIS) in ALS",
-      "titleZh": "待复核翻译：Accurate Test of Limb Isometric Strength (ATLIS) in ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02374606"
-    },
-    {
-      "id": "trial-NCT00023075",
-      "title": "Nuclear Magnetic Spectroscopy Imaging to Evaluate Primary Lateral Sclerosis, Hereditary Spastic Paraplegia and Amyotrophic Lateral Sclerosis",
-      "titleZh": "Nuclear Magnetic Spectroscopy Imaging to Evaluate Primary Lateral Sclerosis, Hereditary Spastic Paraplegia and 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00023075"
+      "url": "https://clinicaltrials.gov/study/NCT00847847"
     }
   ],
   "failedSources": [],
@@ -407,15 +429,15 @@
     "疑似误收": 2,
     "缺标识符": 0,
     "缺摘要": 7,
-    "高优先级待复核": 25,
+    "高优先级待复核": 27,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 36
   },
   "relevanceCounts": {
-    "medium": 11,
-    "high": 23,
+    "medium": 10,
+    "high": 24,
     "low": 2
   }
 }
