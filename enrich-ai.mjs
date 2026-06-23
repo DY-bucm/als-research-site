@@ -29,6 +29,7 @@ for (const item of candidates) {
   item.priority = enriched.priority || item.priority;
   item.frontierRationale = enriched.frontierRationale || item.frontierRationale;
   item.aiRead = enriched.aiRead || item.aiRead;
+  item.credibility = enriched.credibility || item.credibility;
   item.aiReviewedAt = new Date().toISOString();
   item.translationStatus = "ai-translated-draft";
   item.needsReview = true;
@@ -40,6 +41,7 @@ console.log(`AI-translated ${candidates.length} item(s) in ${outputPath}`);
 function needsTranslation(item) {
   if (!item.title || !item.summary) return false;
   if (!item.abstractZh) return true;
+  if (!item.credibility) return true;
   if (item.translationStatus !== "ai-translated-draft" && item.translationStatus !== "human-reviewed") return true;
   return false;
 }
@@ -66,21 +68,36 @@ async function enrichItem(item) {
           watchNext: { type: "string" }
         },
         required: ["studyType", "keyFinding", "limitation", "watchNext"]
+      },
+      credibility: {
+        type: "object",
+        additionalProperties: false,
+        properties: {
+          studyStage: { type: "string" },
+          conclusionStrength: { type: "string", enum: ["hypothesis", "preclinical", "observational", "registered-trial", "clinical-signal", "clinical-evidence", "review"] },
+          clinicalImplication: { type: "string" },
+          riskNote: { type: "string" },
+          confidence: { type: "string", enum: ["low", "medium", "high"] }
+        },
+        required: ["studyStage", "conclusionStrength", "clinicalImplication", "riskNote", "confidence"]
       }
     },
-    required: ["titleZh", "abstractZh", "summaryZh", "insight", "evidenceLevel", "priority", "frontierRationale", "aiRead"]
+    required: ["titleZh", "abstractZh", "summaryZh", "insight", "evidenceLevel", "priority", "frontierRationale", "aiRead", "credibility"]
   };
 
   const systemPrompt = [
     "你是严谨的 ALS 和神经退行性疾病科研编辑。",
-    "请把英文科研条目处理成中文网站可展示内容，必须严格区分准确翻译和解读。",
-    "titleZh：准确翻译英文标题，不要中英文混杂。",
-    "abstractZh：忠实翻译英文摘要或临床试验登记摘要，只翻译原文已有信息，不添加外部信息。",
-    "summaryZh：给中文读者看的简洁要点，不要求逐句对应，但不能与原文矛盾。",
-    "insight：解释这篇/这项试验为什么值得 ALS 研究者跟踪。",
+    "请把英文科研条目处理成中文网站可展示内容，优先保证准确、克制、可追溯。",
+    "严禁把临床试验登记、招募信息、会议报道、动物实验、细胞实验、机制假说写成疗效已经证实。",
+    "严禁添加原文没有的数据、结论、机制解释、疗效判断、指南推荐或医学建议。",
+    "titleZh：准确翻译英文标题，不要中英文混杂；药名、基因名、蛋白名、试验号保留英文或通用写法。",
+    "abstractZh：忠实翻译英文摘要或临床试验登记摘要，尽量逐句对应原意；没有摘要时，明确写明原始来源只提供题名、状态或登记字段。",
+    "summaryZh：面向中文读者的 1-2 句要点，可以概括，但不能改变原文证据强度。",
+    "insight：解释这篇/这项试验为什么值得 ALS 研究者跟踪，必须用'可能、提示、需要验证'等克制表述。",
+    "evidenceLevel：按原文证据判定，例如 临床试验注册、随机对照试验、观察性临床研究、动物/细胞实验、机制研究、综述/荟萃分析、报道、待人工判定。",
     "frontierRationale：用一句话说明其前沿性，必须包含新近性、ALS 相关性或转化价值之一。",
-    "临床试验登记不能写成疗效已经证实；机制、动物或细胞研究不能写成临床突破。",
-    "如果原文没有摘要，abstractZh 应忠实说明原始来源只提供了题名/登记字段。",
+    "aiRead.keyFinding 只能写原文直接支持的发现；aiRead.limitation 必须写清样本量、研究阶段、是否缺少结果或是否仍需验证。",
+    "credibility.studyStage 写研究阶段；credibility.conclusionStrength 从枚举中选择；credibility.clinicalImplication 说明对临床意味着什么或暂时不意味着什么；credibility.riskNote 写最容易误读的地方；credibility.confidence 表示你对该条结构化判读的把握。",
     "只输出合法 JSON，不要输出 markdown，不要添加解释文字。"
   ].join("\n");
 
