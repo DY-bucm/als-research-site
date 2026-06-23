@@ -1,3 +1,4 @@
+
 name: Daily ALS Feed Update
 
 on:
@@ -13,34 +14,50 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+
       - name: Update feed
         run: node scripts/update-feed.mjs --days 30 --limit 15 --output data/items.json
+
       - name: Apply exclusion rules
         run: node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json
+
       - name: AI translate and readout
+        continue-on-error: true
         env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_API_BASE_URL: ${{ vars.AI_API_BASE_URL }}
+          AI_API_MODE: ${{ vars.AI_API_MODE }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          AI_RESPONSE_FORMAT: ${{ vars.AI_RESPONSE_FORMAT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.2' }}
+          OPENAI_MODEL: gpt-5.2
           AI_ENRICH_LIMIT: "20"
         run: |
-          if [ -n "$OPENAI_API_KEY" ]; then
+          if [ -n "$AI_API_KEY" ] || [ -n "$OPENAI_API_KEY" ]; then
             node scripts/enrich-ai.mjs data/items.json data/items.json
           else
-            echo "OPENAI_API_KEY is not configured; skipping AI translation."
+            echo "AI_API_KEY or OPENAI_API_KEY is not configured; skipping AI translation."
           fi
+
       - name: Archive feed snapshot
         run: node scripts/archive-feed.mjs data/items.json
+
       - name: Build quality report
         run: node scripts/quality-report.mjs data/items.json data/quality-report.json
+
       - name: Build changelog
         run: node scripts/changelog.mjs data/items.json data/changelog.json
+
       - name: Export data
         run: node scripts/export-data.mjs data/items.json exports
+
       - name: Build status report
         run: node scripts/status-report.mjs
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
