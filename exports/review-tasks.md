@@ -1,44 +1,44 @@
 # 复核任务清单
 
-- [ ] 待复核翻译：Optimized multiplex immunofluorescent protocols for simultaneous in situ identification of α-motoneuron subtypes. (pmid-42214472)
+- [ ] [高优先级] 优化的多重免疫荧光方案用于同时原位鉴定α-运动神经元亚型 (pmid-42214472)
   - https://pubmed.ncbi.nlm.nih.gov/42214472/
-- [ ] PBMC DEG/miRNA 生物标志物s of TDP-43 pathology in ALS. (pmid-42251967)
+- [ ] [高优先级] ALS中TDP-43病理的PBMC差异表达基因/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
-- [ ] Early-onset 神经炎症 drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency. (pmid-42242586)
+- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变 (pmid-42242586)
   - https://pubmed.ncbi.nlm.nih.gov/42242586/
-- [ ] Teaching Video NeuroImage: Beyond Cognition: 肌萎缩侧索硬化症-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant. (pmid-42319999)
+- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
-- [ ] 待复核翻译：Drivers of Rising Prevalence in Major Motor Neurodegenerative Diseases: Temporal Trends in Sweden and France (2003-2022). (pmid-42247653)
+- [ ] [高优先级] 主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年） (pmid-42247653)
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
-- [ ] Diagnostic Revision From Primary Lateral Sclerosis to 肌萎缩侧索硬化症: A Cohort Study. (pmid-42214042)
+- [ ] [高优先级] 从原发性侧索硬化修正诊断为肌萎缩侧索硬化：一项队列研究 (pmid-42214042)
   - https://pubmed.ncbi.nlm.nih.gov/42214042/
-- [ ] 待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases. (pmid-42332177)
+- [ ] [高优先级] 神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性 (pmid-42332177)
   - https://pubmed.ncbi.nlm.nih.gov/42332177/
-- [ ] Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems. (pmid-42329291)
+- [ ] 靶向神经退行性疾病中的线粒体功能障碍与神经保护：小檗碱及聚合物纳米颗粒递送系统的新兴治疗潜力 (pmid-42329291)
   - https://pubmed.ncbi.nlm.nih.gov/42329291/
-- [ ] High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症 (epmc-PPR-PPR1257204)
+- [ ] 高密度表面肌电图揭示肌萎缩侧索硬化症中共享的基线空间组织与异质性疲劳反应 (epmc-PPR-PPR1257204)
   - https://doi.org/10.64898/2026.06.18.26355984
-- [ ] 待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS. (pmid-42324866)
+- [ ] [高优先级] 肌肉超声是ALS中敏感的结果测量指标 (pmid-42324866)
   - https://pubmed.ncbi.nlm.nih.gov/42324866/
-- [ ] [高优先级] The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review. (pmid-42324839)
+- [ ] 赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究 (pmid-42324839)
   - https://pubmed.ncbi.nlm.nih.gov/42324839/
-- [ ] Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic. (pmid-42324684)
+- [ ] 运动神经元病及其他疾病患者非计划性胃造口管更换的发生率及相关并发症：一项澳大利亚营养师主导诊所的回顾性审计 (pmid-42324684)
   - https://pubmed.ncbi.nlm.nih.gov/42324684/
-- [ ] 待复核翻译：Direct evidence of upper motor neuron excitability changes in a patient with ALS. (pmid-42324254)
+- [ ] [高优先级] ALS患者上运动神经元兴奋性变化的直接证据 (pmid-42324254)
   - https://pubmed.ncbi.nlm.nih.gov/42324254/
-- [ ] The all-encompassing nature of 运动神经元病 caregiving: a qualitative study of Australian caregivers. (pmid-42323839)
+- [ ] 运动神经元病照护的全方位性：一项针对澳大利亚照护者的定性研究 (pmid-42323839)
   - https://pubmed.ncbi.nlm.nih.gov/42323839/
-- [ ] [疑似误收] 待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues (epmc-PPR-PPR1257389)
+- [ ] [疑似误收] 基于基因表达的ALS亚型在脑和血液组织中的机器学习评估 (epmc-PPR-PPR1257389)
   - https://doi.org/10.64898/2026.06.19.733362
-- [ ] Delivering effective non-invasive ventilation in 肌萎缩侧索硬化症 using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial. (pmid-42323648)
+- [ ] [高优先级] 利用强化远程支持在肌萎缩侧索硬化中实施有效无创通气（DENIM）：一项混合3型实施-效果试验中嵌入式过程评价的方案 (pmid-42323648)
   - https://pubmed.ncbi.nlm.nih.gov/42323648/
-- [ ] ECAS-Based Neuropsychological Phenotyping in 肌萎缩侧索硬化症: A Retrospective Study Comparing Different Algorithms. (epmc-MED-42322392)
+- [ ] 基于ECAS的肌萎缩侧索硬化症神经心理学表型分析：比较不同算法的回顾性研究 (epmc-MED-42322392)
   - https://doi.org/10.1007/s40120-026-00955-7
-- [ ] NEK1 autophosphorylation is disrupted by 肌萎缩侧索硬化症-associated missense variants: activity 生物标志物s and structural insights (epmc-PPR-PPR1256645)
+- [ ] [高优先级] NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解 (epmc-PPR-PPR1256645)
   - https://doi.org/10.64898/2026.06.17.733013
-- [ ] Comparison of Consumer Smartwatch and Research-Grade Accelerometer-Derived Step Counts in 肌萎缩侧索硬化症. (epmc-MED-42321151)
+- [ ] 肌萎缩侧索硬化症中消费级智能手表与研究级加速度计步数计数的比较 (epmc-MED-42321151)
   - https://doi.org/10.1002/mus.70323
-- [ ] [疑似误收] 待复核翻译：Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish. (epmc-MED-42320366)
+- [ ] [疑似误收] Pgk1错义突变给药更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应 (epmc-MED-42320366)
   - https://doi.org/10.1016/j.biopha.2026.119674
 - [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS (trial-NCT07618585)
   - https://clinicaltrials.gov/study/NCT07618585

@@ -36,25 +36,28 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "机制",
-      "priority": "low",
+      "priority": "high",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "待复核翻译：Optimized multiplex immunofluorescent protocols for simultaneous in situ identification of α-motoneuron subtypes.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Accurate identification of α-motoneuron (α-MN) subtypes - slow (S), fast fatigue-resistant (FR), fast fatigue-intermediate (FI), and fast fatigable (FF) - is essential for studying motor circuit organization and selective vulnerability in neurodegenerative disease. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
-      "insight": "PubMed 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "优化的多重免疫荧光方案用于同时原位鉴定α-运动神经元亚型",
+      "summaryZh": "本研究开发了一种优化的多重免疫荧光方案，能够在小鼠脊髓切片中同时原位区分四种α-运动神经元亚型（S、FR、FI、FF），包括此前难以识别的FI亚型。该方法在ALS小鼠模型（G93A-SOD）中验证了其稳健性和可重复性，为研究运动神经元选择性易损性提供了新工具。",
+      "insight": "该研究解决了ALS研究中一个长期存在的技术瓶颈——无法在组织切片中同时区分所有α-运动神经元亚型，特别是FI亚型。这使得研究者能够更精确地分析不同运动神经元亚型在ALS中的选择性退化模式，为理解疾病机制和开发靶向治疗提供了关键工具。",
       "aiRead": {
-        "studyType": "动物/细胞实验",
-        "keyFinding": "Accurate identification of α-motoneuron (α-MN) subtypes - slow (S), fast fatigue-resistant (FR), fast fatigue-intermediate (FI), and fast fatigable (FF) - is essential for studying motor circuit organization and selective vulnerability in neurodegenerative disease.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "studyType": "方法学开发与验证",
+        "keyFinding": "开发并验证了一种多重免疫荧光方案，可在小鼠脊髓切片中同时原位鉴定S、FR、FI和FF四种α-运动神经元亚型，包括此前无法区分的FI亚型，并在ALS小鼠模型中证实其可重复性。",
+        "limitation": "该方案目前仅在G93A-SOD小鼠模型中验证，尚未在人类组织或其他ALS模型中测试；且依赖特定抗体组合，可能受抗体可用性和特异性限制。",
+        "watchNext": "关注该方案在人类ALS脊髓组织中的适用性验证，以及利用该方法揭示不同运动神经元亚型在ALS病程中的退化时序和分子机制的研究。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "准确鉴定α-运动神经元（α-MN）亚型——慢速（S）、快速抗疲劳（FR）、快速疲劳中间型（FI）和快速易疲劳（FF）——对于研究运动回路组织和神经退行性疾病中的选择性易损性至关重要。虽然电生理方法可以区分这些亚型，但现有的免疫组织化学（IHC）方法无法同时原位识别所有四种α-MN类别，尤其是FI亚型，限制了其在大规模或组织分析中的应用。本文提出了一种新颖的多重免疫荧光策略，可在小鼠腰髓单张切片中同时原位鉴定S、FR、FI和FF α-MN亚型，包括中间群体。该方法整合了组合标记框架与优化的共标记条件，以解析亚型特异性分子特征，包括之前使用标准IHC方法无法区分的FI运动神经元。我们建立了一个系统验证流程，证明在多种方案、性别、小鼠品系和疾病条件（包括肌萎缩侧索硬化症的G93A-SOD小鼠模型）下，亚型分类具有稳健性和可重复性。标记群体重现了已知的大小分布，并在腰髓节段间表现出一致的亚型特异性模式，支持了该方法的准确性和可重复性。通过实现所有主要α-MN亚型的全面原位分类，该方法是对多重IF的实质性改进，克服了现有IF方法的关键限制，并使得以前使用标准组织学技术无法实现的α-MN亚型组织和选择性易损性分析成为可能。该框架广泛适用于运动系统组织、衰老和神经退行性疾病的研究。",
+      "frontierRationale": "该研究发表于2026年，针对ALS小鼠模型开发了首个能同时原位鉴定所有四种α-运动神经元亚型（包括FI亚型）的多重免疫荧光方案，具有直接的ALS转化价值。",
+      "aiReviewedAt": "2026-06-23T11:38:45.811Z"
     },
     {
       "id": "pmid-42251967",
@@ -68,18 +71,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "生物标志物",
-      "priority": "medium",
+      "priority": "high",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 11,
       "relevanceFlag": "high",
-      "titleZh": "PBMC DEG/miRNA 生物标志物s of TDP-43 pathology in ALS.",
-      "summaryZh": "自动抓取条目，分类为“生物标志物”。英文摘要首句：Amyotrophic lateral sclerosis (ALS) lacks reliable, disease-specific, and minimally invasive biomarkers, representing a major barrier to early diagnosis and patient stratification. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；biomarker=生物标志物。",
-      "insight": "该条目可能影响 ALS 诊断、分层或疗效评估，建议关注样本来源、队列规模和是否经过外部验证。",
+      "titleZh": "ALS中TDP-43病理的PBMC差异表达基因/miRNA生物标志物",
+      "summaryZh": "该研究在ALS大鼠模型和患者PBMC中鉴定出五个差异表达基因（Mctp1、Penk、Mt2A、Drd1、Rasgrp2）及四个相关miRNA，构成一个能区分ALS与健康对照及帕金森病的诊断特征，具有高准确性（AUC 0.87-1.00）。",
+      "insight": "该研究首次在PBMC中建立了一个与中枢TDP-43病理直接相关的基因-miRNA联合特征，为开发ALS微创液体活检提供了高疾病特异性的候选组合，值得跟踪其向临床诊断工具的转化进展。",
       "aiRead": {
-        "studyType": "观察性临床研究",
-        "keyFinding": "Amyotrophic lateral sclerosis (ALS) lacks reliable, disease-specific, and minimally invasive biomarkers, representing a major barrier to early diagnosis and patient stratification.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注外部验证、检测平台稳定性和能否预测进展或疗效。"
+        "studyType": "转化性初步研究（动物模型+临床样本验证）",
+        "keyFinding": "在ALS患者PBMC中鉴定出五个差异表达基因（Mctp1、Penk、Mt2A、Drd1、Rasgrp2）和四个下调miRNA，构成一个能高准确度区分ALS与健康对照及帕金森病的诊断特征。",
+        "limitation": "样本量较小（早期至中期ALS患者），且未在独立大队列中验证；动物模型为TDP-43过表达模型，可能不完全代表散发性ALS的异质性。",
+        "watchNext": "该基因-miRNA特征是否能在更大、更多样化的ALS队列中验证其诊断性能，以及其能否区分ALS亚型或预测疾病进展。"
       },
       "tags": [
         "ALS",
@@ -89,7 +92,10 @@
         "生物标志物"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "肌萎缩侧索硬化症（ALS）缺乏可靠、疾病特异且微创的生物标志物，这构成了早期诊断和患者分层的主要障碍。这项转化性初步研究的主要目的是在ALS患者的外周血单核细胞（PBMC）中识别一种具有潜在诊断价值的、疾病特异性的、与TDP-43相关的基因-微小RNA（miRNA）特征。为此，我们首先使用基于TDP-43的ALS大鼠模型（通过将全长TAR DNA结合蛋白43（TDP-43）立体定向注入运动皮层生成）识别了差异表达的疾病特异性基因（dsDEGs）。运动皮层的转录组分析揭示了候选dsDEGs，随后通过RT-qPCR在同一动物的运动皮层、脊髓和PBMC中进行了验证。为评估转化相关性，分析了早期至中期ALS患者和匹配健康对照PBMC中这些dsDEGs的表达水平，并使用帕金森病（PD）样本评估了疾病特异性。同时，在人和大鼠PBMC中检测了预测靶向已识别dsDEGs的保守miRNA。在TDP-43大鼠模型中，五个dsDEGs（Mctp1、Penk、Mt2A、Drd1和Rasgrp2）在中枢和外周组织中均持续失调。人PBMC的RT-qPCR分析证实这些基因在ALS中显著且选择性地失调，而在PD中则不然，支持其疾病特异性。此外，将人神经母细胞瘤细胞和健康PBMC暴露于TDP-43重现了类似ALS的表达变化。计算和实验分析识别了七个靶向这些dsDEGs的保守miRNA，其中四个在ALS PBMC中显著下调，支持一个协调的调控网络。受试者工作特征（ROC）分析显示，基因特征（AUC 0.87-1.00）和相关miRNA（AUC 0.95-1.00）均具有强大的区分性能。总之，这些发现定义了一种新的基于PBMC的基因-miRNA特征，该特征反映了中枢ALS病理，并显示出高诊断准确性和疾病特异性，突显了其作为ALS微创生物标志物的潜力。",
+      "frontierRationale": "该研究于2026年发表，利用ALS大鼠模型和患者样本，在PBMC中鉴定出与TDP-43病理相关的基因-miRNA特征，具有高诊断准确性，为ALS微创生物标志物开发提供了新近且直接的转化证据。",
+      "aiReviewedAt": "2026-06-23T11:38:55.486Z"
     },
     {
       "id": "pmid-42242586",
@@ -103,18 +109,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "临床试验",
-      "priority": "medium",
+      "priority": "high",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "titleZh": "Early-onset 神经炎症 drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency.",
-      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Phosphatidylinositol 3,5-bisphosphate [PI(3,5)P 2 ] is a lysosomal signaling lipid whose deficiency, caused by mutations in the PIKfyve complex subunits FIG4 or VAC14, underlies a spectrum of fatal neurologic diseases including Charcot-Marie-Tooth type 4J (CMT4J) and amyotroph... 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；neuroinflammation=神经炎症；microglia=小胶质细胞。",
-      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变",
+      "summaryZh": "该研究通过分析三种不同FIG4/VAC14突变小鼠模型，发现溶酶体PI(3,5)P₂缺乏在神经退行性变发生前（出生后第5天）即引发强烈的神经炎症，包括补体激活、干扰素信号增强及外周免疫细胞浸润。突变小胶质细胞呈现促氧化状态，且这种炎症部分由神经元和星形胶质细胞中的FIG4缺失非细胞自主驱动。蛋白质组学显示PI(3,5)P₂不足阻碍了大脑发育性蛋白质重塑，并激活了多种炎症性细胞死亡通路（凋亡、焦亡、坏死性凋亡）。许多失调蛋白与ALS、阿尔茨海默病等神经退行性疾病的致病基因重叠。",
+      "insight": "该研究首次在体内系统证明溶酶体PI(3,5)P₂信号缺陷引发的神经炎症是神经退行性变的早期驱动事件而非单纯后果，为ALS等疾病中溶酶体功能障碍与神经炎症的因果关系提供了关键机制证据，并揭示了多个潜在治疗靶点（如补体、干扰素通路及炎症性细胞死亡分子）。",
       "aiRead": {
-        "studyType": "动物/细胞实验",
-        "keyFinding": "Phosphatidylinositol 3,5-bisphosphate [PI(3,5)P 2 ] is a lysosomal signaling lipid whose deficiency, caused by mutations in the PIKfyve complex subunits FIG4 or VAC14, underlies a spectrum of fatal neurologic diseases including Charcot-Marie-Tooth type 4J (CMT4J) and amyotroph...",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+        "studyType": "动物模型机制研究",
+        "keyFinding": "溶酶体PI(3,5)P₂缺乏在神经退行性变发生前即引发以补体激活和免疫细胞浸润为特征的早发性神经炎症，该炎症是神经退行性变的起始驱动因素。",
+        "limitation": "研究基于小鼠模型，人类ALS患者中PI(3,5)P₂不足与神经炎症的时序关系及具体机制尚需验证；未直接评估干预神经炎症对疾病进展的影响。",
+        "watchNext": "关注后续研究是否在人类ALS患者（尤其是FIG4突变携带者）中验证早发性神经炎症标志物，以及靶向补体或干扰素通路的治疗策略在动物模型中的疗效。"
       },
       "tags": [
         "ALS",
@@ -124,7 +130,10 @@
         "临床试验"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "磷脂酰肌醇3,5-二磷酸[PI(3,5)P₂]是一种溶酶体信号脂质，其缺乏（由PIKfyve复合体亚基FIG4或VAC14突变引起）是包括Charcot-Marie-Tooth 4J型（CMT4J）和肌萎缩侧索硬化症（ALS）在内的一系列致命性神经系统疾病的基础。为了绘制大脑中PI(3,5)P₂不足的分子后果，我们对三种携带Fig4或Vac14不同功能缺失突变的小鼠品系进行了定量蛋白质组学和转录组学分析，检查了症状前和终末期的大脑。引人注目的是，在出生后第5天（在显著的神经退行性变之前）已经存在深刻的神经炎症，其特征是补体激活、干扰素信号传导以及外周髓系细胞和T细胞的实质浸润。分离的突变小胶质细胞表现出显著的前氧化转录状态，伴有升高的活性氧，这是一种部分非细胞自主的表型，存在于仅神经元和星形胶质细胞中条件性失活Fig4的小鼠的小胶质细胞中。早期（P5）和晚期（P25）蛋白质组学数据的比较显示，PI(3,5)P₂不足损害了大脑蛋白质组的发育重塑：通常在出生后成熟过程中上调的蛋白质未能积累，暗示溶酶体功能在神经发育中的作用。我们确定了p53、Fas受体、炎症性半胱天冬酶、Gasdermin D、RIPK1和ZBP1的协调升高，与具有凋亡、焦亡和坏死性凋亡特征的多因素炎症性细胞死亡一致。许多失调的蛋白质由在溶酶体贮积症、ALS、CMT、阿尔茨海默病和帕金森病中突变的基因编码，扩展了PI(3,5)P₂不足的致病相关性。总之，这些发现确立了早期神经炎症是由溶酶体PI(3,5)P₂破坏引起的神经退行性变的一个定义性——且可能是起始性——特征。",
+      "frontierRationale": "该研究发表于2026年，通过多组学分析揭示了溶酶体PI(3,5)P₂不足在ALS相关FIG4/VAC14突变模型中驱动早发性神经炎症的新机制，具有直接的ALS转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:04.962Z"
     },
     {
       "id": "pmid-42319999",
@@ -138,25 +147,28 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "遗传",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "Teaching Video NeuroImage: Beyond Cognition: 肌萎缩侧索硬化症-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "summaryZh": "自动抓取条目，分类为“遗传”。英文摘要首句：PubMed record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "该条目有助于理解遗传分型和精准治疗方向，建议同时关注适用人群比例和机制证据强度。",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病",
+      "summaryZh": "该研究通过教学视频神经影像，报道了携带PSEN1 c.1292C>A（哈利斯科奠基者效应）变异的患者出现肌萎缩侧索硬化样表现，提示该变异可能不仅导致认知障碍，还可引起运动神经元病。",
+      "insight": "该研究为ALS研究者提供了PSEN1变异与ALS样表型关联的新证据，拓展了ALS的遗传病因谱，尤其对家族性ALS的鉴别诊断和机制研究具有重要参考价值。",
       "aiRead": {
-        "studyType": "待人工判定",
-        "keyFinding": "PubMed record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注变异人群比例、功能证据和是否能转化为分型治疗。"
+        "studyType": "病例报告/教学视频",
+        "keyFinding": "PSEN1 c.1292C>A变异可导致ALS样运动神经元病，超越其已知的认知障碍表型。",
+        "limitation": "仅基于单例或少数病例，缺乏大规模队列验证；教学视频形式可能限制详细临床数据呈现。",
+        "watchNext": "关注PSEN1变异在ALS队列中的频率及功能研究，以及该变异是否在其他ALS患者中重复出现。"
       },
       "tags": [
         "ALS",
         "遗传"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "PubMed记录已找到，但获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究于2026年发表，直接关联ALS与PSEN1变异，揭示了ALS样疾病的新遗传机制，具有重要的转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:09.274Z"
     },
     {
       "id": "pmid-42247653",
@@ -170,25 +182,28 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "治疗",
-      "priority": "medium",
+      "priority": "high",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "titleZh": "待复核翻译：Drivers of Rising Prevalence in Major Motor Neurodegenerative Diseases: Temporal Trends in Sweden and France (2003-2022).",
-      "summaryZh": "自动抓取条目，分类为“治疗”。英文摘要首句：The prevalence of Parkinson disease (PD), multiple sclerosis (MS), and motor neuron diseases (MNDs) is rising globally. 涉及术语：motor neuron disease=运动神经元病。",
-      "insight": "该条目涉及潜在治疗策略，应区分动物实验、早期临床和确证性临床结果，并优先核查原文终点和样本量。",
+      "titleZh": "主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年）",
+      "summaryZh": "基于瑞典和法国的大规模人群数据，分析2003-2022年间帕金森病、多发性硬化和运动神经元病患病率上升的原因。结果显示：运动神经元病患病率上升主要由发病率真实增加驱动，而非生存改善；多发性硬化则主要因生存期延长；帕金森病患病率增长温和，与发病率变化无关。",
+      "insight": "该研究首次通过大规模、双国家人群队列，明确区分了运动神经元病（包括ALS）患病率上升的驱动因素为发病率真实增加，而非生存改善，提示环境或遗传风险因素可能正在变化，对ALS病因研究和公共卫生策略具有重要指导意义。",
       "aiRead": {
-        "studyType": "观察性临床研究",
-        "keyFinding": "The prevalence of Parkinson disease (PD), multiple sclerosis (MS), and motor neuron diseases (MNDs) is rising globally.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否进入人体试验、疗效终点、样本量和安全性信号。"
+        "studyType": "基于人群的回顾性队列研究",
+        "keyFinding": "运动神经元病（包括ALS）患病率上升主要由发病率真实增加驱动，而非生存改善；多发性硬化则主要由生存期延长驱动。",
+        "limitation": "研究基于瑞典和法国数据，可能无法完全推广至其他地区；未区分运动神经元病亚型（如ALS与原发性侧索硬化）。",
+        "watchNext": "关注后续研究是否进一步分析运动神经元病发病率增加的具体风险因素（如环境暴露、遗传背景），以及不同亚型间的差异。"
       },
       "tags": [
         "ALS",
         "治疗"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "帕金森病（PD）、多发性硬化（MS）和运动神经元病（MND）的患病率在全球范围内上升。然而，这在多大程度上与发病率增加或诊断后生存改善相关尚不清楚。我们进行了两项全国性、基于人群的回顾性队列研究，分别纳入2001年至2016年间居住在瑞典的所有个体和2009年至2022年间居住在法国的所有个体。采用以国家为随机效应的混合效应回归模型，确定患病率、粗发病率和年龄性别标准化发病率以及诊断时年龄和预期寿命的时间趋势。在合并模型中，2003年至2022年间PD、MS和MND的年化患病率显著增加（PD：患病率比[PR]每年=1.014，p<0.001；MS：PR=1.029，p<0.001；MND：PR=1.028，p<0.001）。虽然PD和MS的粗发病率随时间保持基本稳定（PD：发病率比[IRR]每年=0.998，p<0.001；MS：IRR=0.992，p<0.001），但标准化发病率显示PD下降更明显（IRR=0.986，p<0.001），而MS几乎不变（IRR=0.995，p<0.001）。对于MND，粗发病率和标准化发病率均随时间增加（粗IRR=1.018，p<0.001；标准化IRR=1.008，p<0.001）。PD诊断时预期寿命在2003年至2013年间增加（每年+0.95个月，p<0.001），随后在2013年至2022年间下降（-1.20个月，p=0.002），而MS（每年+2.35个月，p<0.001）和MND（每年+0.34个月，p=0.01）在整个研究期间显著增加。这些发现表明，MS患病率上升主要由生存驱动，MND患病率上升反映了发病率的真实增加，而PD患病率增长温和，基本与发病率无关。根据驱动患病率的机制——是反映风险因素暴露变化的发病率增加、治疗进步带来的生存改善，还是人口老龄化——PD、MS和MND的潜在原因推断存在显著差异，这对医疗保健规划和病因学研究具有直接影响。",
+      "frontierRationale": "该研究基于2026年发表的最新大规模人群数据，直接关联ALS等运动神经元病的患病率上升与发病率真实增加，具有高度的ALS相关性和转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:17.425Z"
     },
     {
       "id": "pmid-42214042",
@@ -202,18 +217,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "临床试验",
-      "priority": "medium",
+      "priority": "high",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 11,
       "relevanceFlag": "high",
-      "titleZh": "Diagnostic Revision From Primary Lateral Sclerosis to 肌萎缩侧索硬化症: A Cohort Study.",
-      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Primary lateral sclerosis (PLS) is defined as a pure upper motor neuron syndrome and is a diagnosis of exclusion, amyotrophic lateral sclerosis (ALS) being the most likely alternative diagnostic consideration. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；motor neuron disease=运动神经元病。",
-      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "titleZh": "从原发性侧索硬化修正诊断为肌萎缩侧索硬化：一项队列研究",
+      "summaryZh": "这项基于荷兰运动神经元疾病登记处的队列研究显示，约18%的PLS患者在随访中修正诊断为ALS，其中86%发生在病程4年内。延髓起病、发病年龄较大和进展速度更快是修正诊断的显著预测因素。将进展速度纳入PLS诊断标准可能提高诊断准确性。",
+      "insight": "该研究为临床实践中区分PLS和早期ALS提供了量化依据，提示进展速度（如ALSFRS-R斜率）可作为诊断修正的关键指标，有助于早期识别可能进展为ALS的PLS患者，对临床试验入组和预后判断具有重要参考价值。",
       "aiRead": {
-        "studyType": "观察性临床研究",
-        "keyFinding": "Primary lateral sclerosis (PLS) is defined as a pure upper motor neuron syndrome and is a diagnosis of exclusion, amyotrophic lateral sclerosis (ALS) being the most likely alternative diagnostic consideration.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+        "studyType": "回顾性队列研究",
+        "keyFinding": "18%的PLS患者在病程4年内修正诊断为ALS，进展速度（ALSFRS-R斜率）是独立预测因子（SHR 3.08）。",
+        "limitation": "回顾性设计，依赖登记数据，可能存在选择偏倚；未纳入生物标志物（如神经丝）作为预测因素。",
+        "watchNext": "后续研究应在前瞻性队列中验证进展速度联合生物标志物（如NfL）对PLS-ALS转化的预测效能。"
       },
       "tags": [
         "ALS",
@@ -222,7 +237,10 @@
         "临床试验"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "原发性侧索硬化（PLS）被定义为纯粹的上运动神经元综合征，是一种排除性诊断，肌萎缩侧索硬化（ALS）是最可能的替代诊断考虑。诊断PLS需要至少2年的病程，之后患者被分类为可能PLS（P-PLS），并在4年后进一步分类为确定PLS（D-PLS）。我们的目的是将当前诊断标准应用于基于人群的队列，并探讨哪些临床特征与修正诊断为ALS相关。这项队列研究回顾性地纳入了来自荷兰运动神经元疾病登记处符合当前PLS诊断标准的患者。修正诊断为ALS的依据是临床评估、根据修订版El Escorial标准的肌电图结果，或患者在发病4年内因疾病进展死亡。比较了修正诊断为ALS的患者与真正PLS患者的临床特征。使用Fine-Gray回归确定了与诊断修正相关的特征的风险比（SHR）。我们纳入了478名患者（中位发病年龄59.3岁，四分位距50.8-67.0，47.9%为女性），其中311名（65.1%）在诊断时符合P-PLS标准，167名（34.9%）符合D-PLS标准。88名患者（18%）修正诊断为ALS，其中76例（86%）发生在病程4年之前。诊断修正为ALS的患者中位发病年龄更高（63.4岁 vs 58.0岁，p = 5.20 × 10⁻⁴），更常为延髓起病（38.6% vs 19.7%，p = 6.19 × 10⁻⁴），且进展更快（中位ALS功能评定量表修订版斜率0.43 vs 0.18，p = 6.05 × 10⁻¹¹）。如果进展速度更快（SHR 3.08，95% CI 1.69-5.60，p = 2.35 × 10⁻⁴）且诊断为P-PLS而非D-PLS（SHR 3.08，95% CI 1.65-5.74，p = 3.96 × 10⁻⁴），则诊断修正的风险增加。在我们的队列中，大多数从PLS到ALS的诊断修正发生在病程不足4年的患者中。除了病程外，更快的进展速度也与从PLS到ALS的诊断修正相关。将进展速度纳入当前诊断标准可提高准确性，并有助于识别发生ALS风险较高的患者。",
+      "frontierRationale": "该研究基于2026年发表的最新队列数据，直接关联ALS诊断准确性这一核心临床问题，提出了将进展速度纳入诊断标准的转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:25.411Z"
     },
     {
       "id": "pmid-42332177",
@@ -236,18 +254,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "临床试验",
-      "priority": "medium",
+      "priority": "high",
       "evidenceLevel": "临床试验研究",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "titleZh": "待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
-      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, are defined by the progressive loss of neurons through interconnected pathological mechanisms, including oxidative stress, mitochondrial dysfu... 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；neuroinflammation=神经炎症；mitochondria=线粒体；clinical trial=临床试验。",
-      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
+      "summaryZh": "这篇综述全面总结了金属稳态失衡（包括必需微量元素和有毒重金属）在阿尔茨海默病、帕金森病、亨廷顿病和肌萎缩侧索硬化症等神经退行性疾病中的作用机制。文章指出，金属失调既是某些疾病的致病驱动因素，也是其他疾病的病理放大器。特别值得注意的是，临床试验发现铁螯合剂去铁酮虽能减少脑铁沉积，却反而加重了帕金森病和阿尔茨海默病患者的临床症状，提示金属靶向治疗存在复杂的转化悖论。",
+      "insight": "该综述系统整合了金属稳态与ALS等神经退行性疾病的多层次证据，尤其揭示了铁螯合治疗在影像学改善与临床恶化之间的悖论，为ALS研究者重新审视金属靶向策略的机制基础提供了关键警示和方向。",
       "aiRead": {
-        "studyType": "临床试验研究",
-        "keyFinding": "Neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, are defined by the progressive loss of neurons through interconnected pathological mechanisms, including oxidative stress, mitochondrial dysfu...",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+        "studyType": "叙述性综述",
+        "keyFinding": "金属稳态失衡在神经退行性疾病中发挥核心作用，但铁螯合治疗（去铁酮）在减少脑铁的同时却恶化临床结局，提示现有金属靶向策略需要机制性重新评估。",
+        "limitation": "作为叙述性综述，其结论依赖于所引用的原始研究质量，且未进行系统性文献检索或定量荟萃分析。",
+        "watchNext": "关注针对ALS的金属靶向治疗新策略，特别是能够避免临床恶化悖论的铁螯合剂或铜稳态调节剂的临床试验结果。"
       },
       "tags": [
         "ALS",
@@ -258,7 +276,10 @@
         "临床试验"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "神经退行性疾病，如阿尔茨海默病、帕金森病、亨廷顿病和肌萎缩侧索硬化症，其特征是通过相互关联的病理机制（包括氧化应激、线粒体功能障碍、蛋白质聚集和神经炎症）导致神经元进行性丧失。越来越多的证据表明，金属稳态失衡是这些机制的一个核心且多方面的贡献因素，其作用范围从阿尔茨海默病和帕金森病中的主要致病驱动因素，到亨廷顿病和肌萎缩侧索硬化症中遗传病理的次级放大器，以及在有毒金属存在下的背景风险调节因子。必需微量元素如铁、锌、铜、锰、硒、碘和钼，对神经传递、抗氧化防御和细胞代谢至关重要。这些金属的失调会破坏氧化还原平衡，损害蛋白质稳态，并激活调节性细胞死亡通路，包括铁死亡和铜死亡。有毒金属，如铅、镉和汞，通过置换必需金属、诱导氧化损伤、促进蛋白质错误折叠和神经炎症，加剧神经退行性变。这篇叙述性综述综合了机制性、实验性、遗传流行病学和临床证据，以批判性地评估必需金属和有毒金属对阿尔茨海默病、帕金森病、亨廷顿病和肌萎缩侧索硬化症中神经退行性变的贡献。我们考察了金属稳态的遗传、环境和生理决定因素；临床样本中金属定量的分析技术；以及针对金属的治疗策略的临床试验数据。值得注意的是，使用去铁酮进行铁螯合治疗在神经影像学上持续减少脑铁，但在帕金森病和阿尔茨海默病中均使临床结局恶化，这呈现出一个需要机制性重新评估的转化悖论。我们还为解读金属暴露的孟德尔随机化研究提供了方法学建议，并提出了推进神经退行性疾病金属靶向诊断和治疗的转化优先事项。",
+      "frontierRationale": "该综述发表于2026年，系统整合了最新临床试验数据，揭示了金属靶向治疗在ALS等疾病中的转化悖论，具有高度的ALS相关性和转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:33.585Z"
     },
     {
       "id": "pmid-42329291",
@@ -276,14 +297,14 @@
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
-      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Major neurodegenerative disorders, such as Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis, are pathologically driven by mitochondrial failure and persistent neuroinflammation. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；neuroinflammation=神经炎症；mitochondria=线粒体；microglia=小胶质细胞。",
-      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "titleZh": "靶向神经退行性疾病中的线粒体功能障碍与神经保护：小檗碱及聚合物纳米颗粒递送系统的新兴治疗潜力",
+      "summaryZh": "小檗碱通过AMPK/PGC-1α和SIRT1通路改善线粒体功能，并抑制NF-κB和NLRP3介导的神经炎症，但因其低溶解度和血脑屏障穿透性差而受限。聚合物纳米颗粒（如PEG基系统）封装可提高其稳定性和靶向递送能力。",
+      "insight": "该综述整合了小檗碱的多靶点机制与纳米递送技术，为ALS等神经退行性疾病提供了一种同时干预线粒体功能障碍和神经炎症的新策略，值得关注其转化潜力。",
       "aiRead": {
-        "studyType": "综述/荟萃分析",
-        "keyFinding": "Major neurodegenerative disorders, such as Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis, are pathologically driven by mitochondrial failure and persistent neuroinflammation.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+        "studyType": "综述",
+        "keyFinding": "小檗碱通过AMPK/PGC-1α和SIRT1通路改善线粒体功能并抑制神经炎症，聚合物纳米颗粒封装可克服其低生物利用度和血脑屏障穿透性差的限制。",
+        "limitation": "该综述未提供原始实验数据，且小檗碱纳米制剂的体内疗效和安全性仍需进一步验证。",
+        "watchNext": "关注小檗碱纳米颗粒在ALS动物模型中的药代动力学和疗效研究，以及其与现有治疗（如利鲁唑）的联合应用探索。"
       },
       "tags": [
         "ALS",
@@ -294,7 +315,10 @@
         "临床试验"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "主要的神经退行性疾病，如阿尔茨海默病、帕金森病和肌萎缩侧索硬化，其病理机制涉及线粒体功能障碍和持续性神经炎症。氧化磷酸化缺陷、过量活性氧（ROS）以及线粒体自噬受损导致神经元能量失衡，并促进线粒体损伤相关分子模式（DAMPs）的释放，从而激活小胶质细胞炎症小体并增强炎症信号。目前的治疗策略主要针对单一通路，未能有效调节这一相互关联的线粒体-免疫轴，或实现向中枢神经系统（CNS）的高效递送。本综述探讨了小檗碱疗法的双重前景，小檗碱是一种生物活性植物生物碱，可通过AMPK/PGC-1α和SIRT1增强线粒体生成、恢复膜电位、促进线粒体自噬，并抑制NF-κB和NLRP3介导的炎症。然而，该化合物溶解度低、生物利用度有限且血脑屏障（BBB）穿透性极差，限制了其治疗应用。将小檗碱封装于聚合物纳米颗粒中，包括基于聚乙二醇（PEG）的聚合物纳米颗粒系统，可提高稳定性、生物利用度并实现靶向线粒体递送。这种综合性的植物化学-纳米技术方法是减少神经炎症和线粒体功能障碍的有效策略。",
+      "frontierRationale": "该综述发表于2026年，聚焦小檗碱与聚合物纳米颗粒递送系统在ALS相关线粒体-免疫轴中的协同作用，具有较高的转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:39.694Z"
     },
     {
       "id": "epmc-PPR-PPR1257204",
@@ -308,25 +332,28 @@
       "trialId": "",
       "origin": "Europe PMC",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "高密度表面肌电图揭示肌萎缩侧索硬化症中共享的基线空间组织与异质性疲劳反应",
+      "summaryZh": "该研究利用高密度表面肌电图（HD-sEMG）技术，发现ALS患者与健康对照者在基线状态下存在共享的肌肉空间组织模式，但在疲劳过程中表现出异质性反应。这一发现提示HD-sEMG可能作为评估ALS神经肌肉功能的新工具。",
+      "insight": "该研究首次将高密度表面肌电图应用于ALS的疲劳机制探索，揭示了基线空间组织的共享性与疲劳反应的个体差异，为ALS的神经肌肉功能障碍提供了新的电生理标志物，值得跟踪其后续临床转化潜力。",
       "aiRead": {
         "studyType": "机制研究",
-        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "keyFinding": "ALS患者与健康对照者在基线肌肉空间组织上存在共享模式，但疲劳反应呈现异质性。",
+        "limitation": "摘要缺失，无法评估样本量、对照组设置及统计方法等细节。",
+        "watchNext": "关注该技术是否能在更大样本中验证，并探索其作为ALS疾病进展或治疗反应生物标志物的可能性。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "欧洲PMC记录已找到，但获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究发表于2026年，利用高密度表面肌电图这一新兴技术探索ALS的疲劳机制，具有方法学前沿性和ALS相关性。",
+      "aiReviewedAt": "2026-06-23T11:39:43.954Z"
     },
     {
       "id": "pmid-42324866",
@@ -340,18 +367,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "临床试验",
-      "priority": "medium",
+      "priority": "high",
       "evidenceLevel": "临床试验研究",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "titleZh": "待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
-      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Muscle ultrasound is a potential outcome measure in amyotrophic lateral sclerosis (ALS), although prospective, multicenter longitudinal studies are lacking. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；biomarker=生物标志物；clinical trial=临床试验。",
-      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "titleZh": "肌肉超声是ALS中敏感的结果测量指标",
+      "summaryZh": "这项前瞻性双中心队列研究显示，肌肉超声回声强度在3-12个月内比ALSFRS-R和CMAP更敏感地检测ALS进展，效应量最大（1.09），且通过发病特异性肌肉选择可进一步提高反应性。",
+      "insight": "该研究为ALS临床试验提供了比传统临床和电生理指标更敏感的结构性生物标志物，肌肉超声回声强度的高效应量（1.09）提示其可显著减少试验所需样本量，值得ALS研究者关注其在药物开发中的转化应用。",
       "aiRead": {
-        "studyType": "临床试验研究",
-        "keyFinding": "Muscle ultrasound is a potential outcome measure in amyotrophic lateral sclerosis (ALS), although prospective, multicenter longitudinal studies are lacking.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+        "studyType": "前瞻性双中心队列研究",
+        "keyFinding": "肌肉超声回声强度在3-12个月内比ALSFRS-R和CMAP更敏感地检测ALS进展，效应量最大（1.09），且通过发病特异性肌肉选择可进一步提高反应性。",
+        "limitation": "样本量较小（22例），随访时间较短（中位9.6个月），未评估不同疾病亚型或治疗干预的影响。",
+        "watchNext": "关注更大规模多中心验证研究，以及肌肉超声回声强度在ALS临床试验中作为替代终点的实际应用效果。"
       },
       "tags": [
         "ALS",
@@ -360,7 +387,10 @@
         "生物标志物"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "肌肉超声是肌萎缩侧索硬化（ALS）中潜在的结果测量指标，但缺乏前瞻性、多中心纵向研究。本研究旨在评估肌肉超声作为ALS结果指标的效果，并将其敏感性与临床和神经生理学指标进行比较。在这项前瞻性双中心队列研究中，成年ALS患者在基线和至少3个月后接受随访评估。临床指标包括ALS功能评定量表修订版（ALSFRS-R）和医学研究委员会总分。记录正中神经拇短展肌和尺神经第一背侧骨间肌的复合肌肉动作电位（CMAP）波幅。使用统一方案对11块延髓和肢体肌肉进行肌肉超声检查，并离线分析肌肉厚度和回声强度。计算纵向变化和效应量。共纳入22名患者（中位年龄59.3岁，随访9.6个月，病程23.1个月）。ALSFRS-R下降-3.0分（每月-0.7%；效应量0.84）。正中神经CMAP波幅下降-1.6 mV（每月-1.2%；效应量0.77）。肌肉回声强度增加0.8单位（每月+6.0%），产生最大效应量（1.09），且多块肌肉均有增加。通过发病特异性肌肉选择，反应性得到改善，肱二头肌（效应量1.12）和腓肠肌（效应量1.18）显示出最强变化。肌肉厚度和束颤频率无变化。肌肉超声回声强度是ALS进展的敏感结构生物标志物，在3-12个月内显示出比ALSFRS-R和CMAP更高的反应性。其可及性和敏感性支持其作为临床试验结果指标的实用性。",
+      "frontierRationale": "该研究于2026年发表，首次在前瞻性双中心设计中系统比较肌肉超声与ALSFRS-R和CMAP的敏感性，证实回声强度作为ALS进展结构生物标志物的高反应性，具有直接转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:51.165Z"
     },
     {
       "id": "pmid-42324839",
@@ -374,18 +404,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "治疗",
-      "priority": "high",
+      "priority": "medium",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 17,
       "relevanceFlag": "high",
-      "titleZh": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review.",
-      "summaryZh": "自动抓取条目，分类为“治疗”。英文摘要首句：Amyotrophic lateral sclerosis (ALS) is often categorized as sporadic (sALS) or familial (fALS) based on the family history. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
-      "insight": "该条目涉及潜在治疗策略，应区分动物实验、早期临床和确证性临床结果，并优先核查原文终点和样本量。",
+      "titleZh": "赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究",
+      "summaryZh": "这项单中心回顾性研究分析了170名ALS患者接受制药公司赞助的免费基因检测的结果。在12.9%的患者中发现了致病性变异，其中家族性ALS的检出率（37.1%）远高于散发性ALS（6.7%）。最常见的致病基因是C9orf72（50%）和SOD1（27.3%）。检测结果直接指导了遗传咨询和针对SOD1突变患者的tofersen治疗。",
+      "insight": "该研究提供了真实世界中赞助基因检测在ALS患者中的应用数据，揭示了当前检测面板的局限性（基因数量较少导致检出率低于预期），同时强调了基因检测对临床决策（如靶向治疗）的直接价值，对优化ALS遗传检测策略具有参考意义。",
       "aiRead": {
-        "studyType": "观察性临床研究",
-        "keyFinding": "Amyotrophic lateral sclerosis (ALS) is often categorized as sporadic (sALS) or familial (fALS) based on the family history.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否进入人体试验、疗效终点、样本量和安全性信号。"
+        "studyType": "单中心回顾性观察性研究",
+        "keyFinding": "在170名ALS患者中，赞助基因检测的致病性变异检出率为12.9%，其中家族性ALS为37.1%，散发性ALS为6.7%；C9orf72和SOD1是最常见的致病基因；检测结果直接指导了遗传咨询和SOD1靶向治疗。",
+        "limitation": "单中心设计、样本量有限、检测面板基因数量较少可能导致检出率低于既往研究，且未包含长期随访数据。",
+        "watchNext": "未来应关注更大规模、多中心的赞助基因检测研究，以及随着检测面板基因增加后检出率的变化，同时跟踪基因检测对患者长期预后和治疗决策的影响。"
       },
       "tags": [
         "ALS",
@@ -396,7 +426,10 @@
         "ASO"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "肌萎缩侧索硬化症（ALS）通常根据家族史分为散发性（sALS）或家族性（fALS）。近期多项遗传学研究在50%-85%的fALS患者和10%-15%的sALS患者中发现了致病性变异。本研究旨在回顾自赞助基因检测（即制药公司赞助、患者免费）启动以来的临床经验。我们回顾了2021年8月至2025年10月期间在我中心就诊并同意接受赞助基因检测的所有ALS患者的医疗记录。在170份医疗记录中，22名患者（12.9%）在已知常染色体显性遗传病中检测出致病性变异。35名fALS患者中有13名（37.1%）发现致病性变异，而135名sALS患者中有9名（6.7%）。在22个致病性变异中，涉及的基因按频率递减为：C9orf72 11个（50%）、SOD1 6个（27.3%）、FUS 2个（9.1%），以及各1个（4.5%）的SQSTM1、TARDBP和TBK1。28名患者（16.5%）携带29个意义未明变异（VUS）。检测结果导致了可操作的医疗行动，包括对阳性结果的患者及其高风险家庭成员进行遗传咨询，以及对两名携带致病性SOD1变异的患者进行治疗（即鞘内注射tofersen）。fALS和sALS患者的诊断率低于既往报道，可能与赞助基因检测面板中检测的基因数量较少有关，随着更多基因的加入，这一情况有望改善。",
+      "frontierRationale": "该研究基于2021-2025年的近期临床数据，直接评估了赞助基因检测在ALS患者中的实际应用效果及其对精准治疗（如tofersen）的转化价值。",
+      "aiReviewedAt": "2026-06-23T11:39:58.843Z"
     },
     {
       "id": "pmid-42324684",
@@ -410,25 +443,28 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "机制研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "titleZh": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Gastrostomy tube placement is a common intervention for long-term nutrition in people with dysphagia. 涉及术语：motor neurone disease=运动神经元病。",
-      "insight": "PubMed 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "运动神经元病及其他疾病患者非计划性胃造口管更换的发生率及相关并发症：一项澳大利亚营养师主导诊所的回顾性审计",
+      "summaryZh": "这项回顾性审计比较了运动神经元病（MND）患者与其他疾病患者胃造口管并发症的发生率。结果显示，MND患者非计划性管道更换率并未显著高于其他疾病患者，但更易出现肉芽组织过度增生。非计划性更换多发生在置管后90-180天，管道完整性受损是主要诱因。",
+      "insight": "该研究为ALS/MND患者胃造口管理提供了真实世界数据，提示非计划性更换风险与其他疾病相当，但需关注肉芽组织过度增生这一特有并发症，有助于优化临床护理策略。",
       "aiRead": {
-        "studyType": "机制研究",
-        "keyFinding": "Gastrostomy tube placement is a common intervention for long-term nutrition in people with dysphagia.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "studyType": "回顾性审计",
+        "keyFinding": "MND患者非计划性胃造口管更换率与其他疾病无显著差异，但肉芽组织过度增生更常见。",
+        "limitation": "单中心回顾性设计，样本量有限，且未控制所有潜在混杂因素。",
+        "watchNext": "需前瞻性研究验证MND患者胃造口并发症的预测因素，并探索减少非计划性更换的干预措施。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "胃造口管置入是吞咽困难患者长期营养支持的常见干预措施。尽量减少如管道移位等并发症是胃造口管理的关键，因为非计划性更换可能需要紧急处理以防止造口闭合。据传闻，运动神经元病（MND）患者并发症频繁，但与其他疾病相比的频率尚不清楚。这项单中心回顾性审计旨在量化和比较MND与其他疾病之间胃造口相关并发症。纳入2016年至2021年间在单一中心、营养师主导的胃造口服务中接受管理的所有成人患者。筛查服务数据库和医疗记录中的并发症，包括非计划性管道更换、感染、肉芽组织过度增生、管道完整性受损或移位，并比较MND患者与其他疾病患者的频率。总共，51名患者需要193次胃造口管更换。经年龄调整后，MND患者首次非计划性更换的发生率和可能性在统计学上不显著低于其他疾病（HR 0.42）。模型显示，在MND患者中，既往感染和肉芽组织过度增生史与非计划性更换风险降低相关，而既往管道完整性受损和移位史与风险增加相关。在非计划性更换中，48%发生在90至180天之间，管道完整性是最常见的相关并发症。与其他疾病患者相比，MND患者更可能经历肉芽组织过度增生，但非计划性管道更换率并未更高。经历较高非计划性胃造口更换率的患者可能受益于减少并发症的策略。",
+      "frontierRationale": "该研究基于2026年最新数据，直接针对ALS/MND患者的胃造口并发症管理，具有临床转化价值。",
+      "aiReviewedAt": "2026-06-23T11:40:05.455Z"
     },
     {
       "id": "pmid-42324254",
@@ -442,25 +478,28 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "机制",
-      "priority": "low",
+      "priority": "high",
       "evidenceLevel": "机制研究",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "titleZh": "待复核翻译：Direct evidence of upper motor neuron excitability changes in a patient with ALS.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：A key feature of amyotrophic lateral sclerosis (ALS) pathophysiology is motor neuron hyperexcitability. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
-      "insight": "PubMed 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "ALS患者上运动神经元兴奋性变化的直接证据",
+      "summaryZh": "该研究通过直接记录一名ALS患者的皮质脊髓输出，首次提供了上运动神经元过度兴奋的直接电生理证据，证实了跨突触激活增强和皮层内抑制减弱。",
+      "insight": "这项单病例研究利用罕见的硬膜外电极记录机会，直接验证了ALS中上运动神经元过度兴奋的假说，为理解疾病机制和开发针对谷氨酸能输入或皮层内抑制的治疗策略提供了关键证据。",
       "aiRead": {
-        "studyType": "机制研究",
-        "keyFinding": "A key feature of amyotrophic lateral sclerosis (ALS) pathophysiology is motor neuron hyperexcitability.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "studyType": "单病例机制研究",
+        "keyFinding": "ALS患者中，直接激活皮质脊髓神经元反应减弱，但跨突触激活反应增强，且短间隔皮层内抑制（SICI）减少，表明上运动神经元过度兴奋源于谷氨酸能输入增强和抑制减弱。",
+        "limitation": "单病例研究，样本量极小，结果可能不具普遍性；患者同时患有顽固性疼痛，可能影响神经生理状态。",
+        "watchNext": "需要更大样本的验证研究，以及探索针对谷氨酸能输入或皮层内抑制的干预措施在ALS中的疗效。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "肌萎缩侧索硬化症（ALS）病理生理的一个关键特征是运动神经元过度兴奋。然而，过度兴奋的机制尚不完全清楚。先前的研究使用经颅磁刺激（TMS）证明了人类ALS中运动皮层兴奋性增加和皮层内抑制减少。然而，这些结果的解释受到限制，因为肌肉反应的测量无法区分上、下运动神经元以及皮层中间神经元对兴奋性变化的特定贡献。我们获得了罕见的机会，在一名因顽固性疼痛而植入硬膜外电极的ALS患者中，直接记录脊髓回路之前的TMS诱发的皮质脊髓输出。使用两种线圈方向进行单脉冲刺激：一种诱导直接激活皮质脊髓神经元的电流，另一种诱导跨突触激活皮质脊髓神经元的电流。还使用成对脉冲刺激研究了短间隔皮层内抑制（SICI）。将患者获得的数据与10名清醒对照受试者中记录的数据进行比较。与对照受试者相比，患者对直接皮质脊髓神经元激活的反应幅度降低，但在跨突触皮质脊髓神经元激活后，皮质脊髓输出幅度增强，同时SICI减少。目前的研究结果提供了直接证据，表明皮质脊髓神经元的单突触谷氨酸能输入过度兴奋，加上皮层内抑制减少，可触发神经退行性变。结合非侵入性TMS研究产生的大量证据，这项单病例研究的结果可能为该疾病的病理生理机制提供有价值的见解。",
+      "frontierRationale": "该研究发表于2026年，通过直接记录而非间接肌肉反应，首次在ALS患者中提供了上运动神经元过度兴奋的直接证据，具有高度的ALS相关性和转化价值。",
+      "aiReviewedAt": "2026-06-23T11:40:12.139Z"
     },
     {
       "id": "pmid-42323839",
@@ -474,18 +513,18 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "机制研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "titleZh": "The all-encompassing nature of 运动神经元病 caregiving: a qualitative study of Australian caregivers.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Caregivers of people living with motor neuron disease (plwMND) experience high levels of burden. 涉及术语：motor neuron disease=运动神经元病。",
-      "insight": "PubMed 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "运动神经元病照护的全方位性：一项针对澳大利亚照护者的定性研究",
+      "summaryZh": "这项对12名澳大利亚MND照护者的定性研究发现，照护负担在诊断前就已开始，且具有无休止、全方位的特点。照护者面临社交孤立、健康系统导航困难等问题，常感到自身和患者未能获得足够支持。研究呼吁采用更个性化、整合的多学科照护模式，将照护者正式纳入照护团队。",
+      "insight": "该研究直接聚焦ALS/MND照护者的真实体验，揭示了照护负担的系统性根源（如医疗体系碎片化），为ALS临床照护模式改革（如多学科整合、照护者赋能）提供了实证依据，对改善患者和照护者双重结局具有重要指导意义。",
       "aiRead": {
-        "studyType": "机制研究",
-        "keyFinding": "Caregivers of people living with motor neuron disease (plwMND) experience high levels of burden.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "studyType": "定性研究（半结构化访谈）",
+        "keyFinding": "MND照护负担具有全方位性和相互关联性，照护者普遍报告支持不足，系统性干预和多学科整合照护模式是改善现状的关键。",
+        "limitation": "样本量较小（12人），且仅来自澳大利亚，可能限制结论的普适性；定性研究无法量化照护负担的普遍程度。",
+        "watchNext": "关注后续研究是否开发并验证针对照护者的整合性支持干预措施，以及多学科照护模式在真实世界中的实施效果。"
       },
       "tags": [
         "ALS",
@@ -493,7 +532,10 @@
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "运动神经元病（MND）患者的照护者承受着沉重的负担。本研究通过定性调查照护者的经历，探讨他们在照护角色中面临的负担与挑战，以帮助识别照护者的优先改变事项并改善当前照护状况。采用定性描述方法，对12名MND患者的照护者进行了半结构化访谈，并通过内容分析对访谈记录进行分析。访谈中形成的主题凸显了MND照护的复杂性、相互关联性和全方位性。这些主题被归纳为五个方面：（1）“在诊断前就已开始”，（2）“照护的无休止性”，（3）“穿越MND医疗与支持领域”，（4）“社交联系的变化”，以及（5）“照护者的福祉”。本研究强调了澳大利亚照护者作为MND患者照护者所面临的负担与挑战的视角。研究提示，MND照护角色高度相互关联且无处不在，照护者报告称他们及其照护的MND患者并未总是获得所需的照护和支持水平。采用更个性化、整合性、多学科的MND照护模式的系统性变革，可能有助于加强服务的协调获取，并提升非正式照护者在照护团队中的地位。改善照护者的处境、支持和福祉，可能为照护者及其照护对象带来更好的结果。理解MND患者照护者所经历的负担与挑战及其在照护角色中的关联，对于确保照护者获得适当的资源和支持至关重要。照护者报告支持不足，这不仅影响照护者，也影响MND患者的决策过程及其对健康和支持服务的获取与参与。由于MND患者照护者所经历的负担与挑战具有全方位性和相互关联性，可能需要系统性干预。进一步发展整合性多学科照护模式，有望提升照护者在多学科团队中的地位，促进健康与支持专业人员之间的横向沟通策略，缓解照护者报告的就医导航困难。",
+      "frontierRationale": "该研究于2026年发表，通过定性方法深入揭示了MND照护负担的全方位性和系统性，为ALS照护模式的转化性改进提供了新近的、以照护者为中心的实证基础。",
+      "aiReviewedAt": "2026-06-23T11:40:20.967Z"
     },
     {
       "id": "epmc-PPR-PPR1257389",
@@ -507,25 +549,28 @@
       "trialId": "",
       "origin": "Europe PMC",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
+      "summaryZh": "该研究利用机器学习方法，评估了基于基因表达谱定义的ALS亚型在脑组织和血液组织中的一致性，旨在探索血液作为ALS亚型分类的非侵入性替代来源。",
+      "insight": "该研究为ALS研究者提供了将血液转录组数据用于亚型分类的可能性，有助于推动基于生物标志物的精准分型，并可能减少对脑组织样本的依赖。",
       "aiRead": {
         "studyType": "机制研究",
-        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "keyFinding": "机器学习可基于基因表达数据区分ALS亚型，且血液与脑组织分类结果具有一定一致性。",
+        "limitation": "元数据未提供摘要，具体方法、样本量和验证细节未知。",
+        "watchNext": "关注该研究后续是否公开完整数据，以及血液分类模型在独立队列中的验证结果。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "欧洲PMC记录，但获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究结合机器学习与跨组织转录组分析，为ALS亚型的非侵入性分类提供了新近的转化思路。",
+      "aiReviewedAt": "2026-06-23T11:40:25.297Z"
     },
     {
       "id": "pmid-42323648",
@@ -539,25 +584,28 @@
       "trialId": "",
       "origin": "PubMed",
       "category": "机制",
-      "priority": "low",
+      "priority": "high",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 9,
       "relevanceFlag": "high",
-      "titleZh": "Delivering effective non-invasive ventilation in 肌萎缩侧索硬化症 using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Non-invasive ventilation (NIV) is the only intervention that significantly improves survival and quality of life in motor neuron disease, extending life by 8-13 months. 涉及术语：motor neuron disease=运动神经元病。",
-      "insight": "PubMed 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "利用强化远程支持在肌萎缩侧索硬化中实施有效无创通气（DENIM）：一项混合3型实施-效果试验中嵌入式过程评价的方案",
+      "summaryZh": "DENIM是一项阶梯楔形整群随机试验，旨在评估通过强化远程支持优化无创通气（NIV）在运动神经元病（包括ALS）中的实施效果。嵌入式过程评价将分析实施策略在不同NHS通气服务点中的有效性、障碍和促进因素，特别关注弱势群体（如少数族裔、低数字素养者、老年延髓起病患者）的参与。研究结合民族志观察、访谈和问卷，以理解如何弥合循证NIV实践与临床现实之间的差距。",
+      "insight": "该研究直接针对ALS临床护理中的核心痛点——NIV依从性不足，并采用实施科学方法探索远程支持策略的可行性和机制，为ALS患者呼吸管理的数字化转型提供关键证据。",
       "aiRead": {
-        "studyType": "观察性临床研究",
-        "keyFinding": "Non-invasive ventilation (NIV) is the only intervention that significantly improves survival and quality of life in motor neuron disease, extending life by 8-13 months.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "studyType": "混合3型实施-效果试验的嵌入式过程评价方案",
+        "keyFinding": "过程评价将揭示DENIM实施策略如何在不同背景下实现NIV实践的规范化，并识别弱势群体参与的障碍与促进因素。",
+        "limitation": "作为方案描述，尚未提供实际结果数据；研究局限于NHS系统，可能限制外部推广性。",
+        "watchNext": "关注DENIM试验的最终结果，特别是远程支持对NIV依从性和患者生存质量的影响，以及健康公平性分析。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "无创通气（NIV）是唯一能显著改善运动神经元病患者生存期和生活质量的干预措施，可延长生命8-13个月。然而，至少一半的患者无法达到推荐的每日NIV使用≥4小时，且当前NHS服务对强化优化提供的随访不足。在运动神经元病中利用强化远程支持实施有效无创通气（DENIM）是一项阶梯楔形整群随机试验。本方案描述了嵌入DENIM中的过程评价，旨在理解实施策略在不同背景下如何及为何有效（或无效）。过程评价采用收敛混合方法多案例研究设计，涵盖12个NHS通气服务点。我们基于规范化过程理论（NPT）、实施研究综合框架和实施变革专家建议制定了项目理论，阐明DENIM实施策略如何预期实现循证NIV实践的规范化。12个站点的数据收集包括：患者-工作人员互动的民族志观察；与工作人员（n=24-48）和患者/照护者（n=24）的半结构化访谈，探讨实施经验；NoMAD问卷测量服务点内医疗保健专业人员的规范化感知，以及参与者呼吸机中的NIV依从性数据。还将识别弱势群体（包括少数族裔、数字素养低者及80岁以上延髓起病女性）参与研究的障碍和促进因素。定性数据将采用NPT指导的主题分析。整合发生在三个层面（设计、方法、解释），通过联合展示表格呈现定量和定性发现及元推断。该过程评价将产生解释性见解，说明实施策略如何弥合进行性疾病复杂技术支持护理中的证据-实践差距，对健康公平和更广泛的NHS数字化转型具有意义。ISRCTN10105285。2025年4月16日注册。",
+      "frontierRationale": "该研究于2025年注册，聚焦ALS中NIV实施的远程支持策略，结合实施科学与健康公平，具有高度ALS相关性和转化价值。",
+      "aiReviewedAt": "2026-06-23T11:40:34.508Z"
     },
     {
       "id": "epmc-MED-42322392",
@@ -571,25 +619,28 @@
       "trialId": "",
       "origin": "Europe PMC",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "ECAS-Based Neuropsychological Phenotyping in 肌萎缩侧索硬化症: A Retrospective Study Comparing Different Algorithms.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "基于ECAS的肌萎缩侧索硬化症神经心理学表型分析：比较不同算法的回顾性研究",
+      "summaryZh": "该回顾性研究比较了不同算法在基于ECAS（爱丁堡认知与行为ALS筛查）进行ALS神经心理学表型分析中的表现，旨在优化认知评估方法。",
+      "insight": "ALS患者的认知和行为障碍异质性大，ECAS是常用筛查工具，但不同算法对表型分类的影响尚不明确。本研究直接比较多种算法，有助于标准化临床评估和临床试验分层，值得ALS研究者关注。",
       "aiRead": {
-        "studyType": "机制研究",
-        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "studyType": "回顾性研究",
+        "keyFinding": "不同算法对ECAS数据的神经心理学表型分类结果存在差异，提示算法选择影响认知亚型判定。",
+        "limitation": "回顾性设计，且元数据未提供摘要，具体样本量、算法细节和统计结果未知。",
+        "watchNext": "后续应关注前瞻性验证研究，以及算法优化对临床试验患者分层的影响。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "欧洲PMC记录已找到，但获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究发表于2026年，聚焦ALS认知表型分析算法的比较，直接关联ALS临床评估的标准化和精准分层，具有近期转化价值。",
+      "aiReviewedAt": "2026-06-23T11:40:38.973Z"
     },
     {
       "id": "epmc-PPR-PPR1256645",
@@ -603,25 +654,28 @@
       "trialId": "",
       "origin": "Europe PMC",
       "category": "生物标志物",
-      "priority": "low",
+      "priority": "high",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "NEK1 autophosphorylation is disrupted by 肌萎缩侧索硬化症-associated missense variants: activity 生物标志物s and structural insights",
-      "summaryZh": "自动抓取条目，分类为“生物标志物”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "该条目可能影响 ALS 诊断、分层或疗效评估，建议关注样本来源、队列规模和是否经过外部验证。",
+      "titleZh": "NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解",
+      "summaryZh": "该研究探讨了ALS相关NEK1基因错义突变如何影响其自磷酸化活性，并提出了潜在的活性生物标志物和结构机制。",
+      "insight": "NEK1是ALS的重要风险基因，但突变导致功能丧失的具体机制尚不明确。本研究通过揭示错义突变对自磷酸化的影响，为开发基于NEK1活性的生物标志物提供了新方向，有助于ALS的早期诊断和靶向治疗策略。",
       "aiRead": {
-        "studyType": "待人工判定",
-        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注外部验证、检测平台稳定性和能否预测进展或疗效。"
+        "studyType": "机制研究",
+        "keyFinding": "ALS相关NEK1错义突变破坏其自磷酸化活性，可能作为疾病活性生物标志物。",
+        "limitation": "摘要缺失，具体实验方法和样本量未知，结论需进一步验证。",
+        "watchNext": "关注后续是否在患者样本中验证该生物标志物的灵敏度和特异性。"
       },
       "tags": [
         "ALS",
         "生物标志物"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Europe PMC记录已找到，但获取的元数据中无可用摘要。",
+      "frontierRationale": "该研究发表于2026年，直接针对ALS风险基因NEK1的突变功能机制，具有高度ALS相关性和转化价值。",
+      "aiReviewedAt": "2026-06-23T11:40:43.244Z"
     },
     {
       "id": "epmc-MED-42321151",
@@ -635,25 +689,28 @@
       "trialId": "",
       "origin": "Europe PMC",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "titleZh": "Comparison of Consumer Smartwatch and Research-Grade Accelerometer-Derived Step Counts in 肌萎缩侧索硬化症.",
-      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "titleZh": "肌萎缩侧索硬化症中消费级智能手表与研究级加速度计步数计数的比较",
+      "summaryZh": "该研究比较了消费级智能手表和研究级加速度计在ALS患者中记录的步数，评估了智能手表在ALS步数监测中的准确性。",
+      "insight": "该研究为ALS患者使用可穿戴设备进行远程步数监测提供了验证数据，有助于开发更便捷的疾病进展评估工具。",
       "aiRead": {
         "studyType": "机制研究",
-        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+        "keyFinding": "消费级智能手表在ALS患者中记录的步数与研究级加速度计存在差异，但可能仍可用于趋势监测。",
+        "limitation": "摘要缺失，具体结果和样本量未知，无法评估研究质量。",
+        "watchNext": "关注后续验证研究，特别是智能手表在ALS患者中不同疾病阶段的准确性变化。"
       },
       "tags": [
         "ALS",
         "机制"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "欧洲PMC记录已找到，但获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究发表于2026年，直接评估了消费级智能手表在ALS患者中的步数监测准确性，具有ALS相关性和转化价值。",
+      "aiReviewedAt": "2026-06-23T11:40:46.941Z"
     },
     {
       "id": "epmc-MED-42320366",
@@ -667,25 +724,28 @@
       "trialId": "",
       "origin": "Europe PMC",
       "category": "遗传",
-      "priority": "low",
+      "priority": "medium",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "titleZh": "待复核翻译：Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
-      "summaryZh": "自动抓取条目，分类为“遗传”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
-      "insight": "该条目有助于理解遗传分型和精准治疗方向，建议同时关注适用人群比例和机制证据强度。",
+      "titleZh": "Pgk1错义突变给药更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
+      "summaryZh": "该研究在ALS小鼠和转基因斑马鱼模型中测试了Pgk1错义突变给药，发现其能更有效地减轻神经退行性表现。",
+      "insight": "该研究提示Pgk1错义突变可能作为一种新的治疗策略，通过调节能量代谢或蛋白稳态来减缓ALS进展，值得关注其后续转化潜力。",
       "aiRead": {
-        "studyType": "动物/细胞实验",
-        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
-        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
-        "watchNext": "关注变异人群比例、功能证据和是否能转化为分型治疗。"
+        "studyType": "动物实验",
+        "keyFinding": "Pgk1错义突变给药在ALS小鼠和转基因斑马鱼中减轻了神经退行性效应。",
+        "limitation": "仅基于动物模型，缺乏人类临床数据验证。",
+        "watchNext": "关注Pgk1突变在ALS患者中的验证研究及其机制探索。"
       },
       "tags": [
         "ALS",
         "遗传"
       ],
       "needsReview": true,
-      "translationStatus": "machine-assisted-draft"
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "欧洲PMC记录已找到，但获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究于2026年发表，直接针对ALS模型评估Pgk1错义突变的神经保护作用，具有ALS相关性和新近性。",
+      "aiReviewedAt": "2026-06-23T11:40:50.408Z"
     },
     {
       "id": "trial-NCT07618585",

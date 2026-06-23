@@ -1,81 +1,81 @@
 {
-  "updatedAt": "2026-06-23T11:34:28.325Z",
+  "updatedAt": "2026-06-23T11:40:50.547Z",
   "previousSnapshot": "data/archive/2026-06-22.json",
   "current": "data/items.json",
   "summary": {
     "added": 26,
     "removed": 14,
-    "changed": 0
+    "changed": 10
   },
   "added": [
     {
       "id": "pmid-42332177",
-      "titleZh": "待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
+      "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
       "category": "临床试验",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42332177/"
     },
     {
       "id": "pmid-42329291",
-      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
+      "titleZh": "靶向神经退行性疾病中的线粒体功能障碍与神经保护：小檗碱及聚合物纳米颗粒递送系统的新兴治疗潜力",
       "category": "临床试验",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42329291/"
     },
     {
       "id": "epmc-PPR-PPR1257204",
-      "titleZh": "High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症",
+      "titleZh": "高密度表面肌电图揭示肌萎缩侧索硬化症中共享的基线空间组织与异质性疲劳反应",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.64898/2026.06.18.26355984"
     },
     {
       "id": "pmid-42324866",
-      "titleZh": "待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
+      "titleZh": "肌肉超声是ALS中敏感的结果测量指标",
       "category": "临床试验",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324866/"
     },
     {
       "id": "pmid-42324839",
-      "titleZh": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review.",
+      "titleZh": "赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究",
       "category": "治疗",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
     },
     {
       "id": "pmid-42324684",
-      "titleZh": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic.",
+      "titleZh": "运动神经元病及其他疾病患者非计划性胃造口管更换的发生率及相关并发症：一项澳大利亚营养师主导诊所的回顾性审计",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324684/"
     },
     {
       "id": "epmc-PPR-PPR1257389",
-      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
+      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.64898/2026.06.19.733362"
     },
     {
       "id": "pmid-42323648",
-      "titleZh": "Delivering effective non-invasive ventilation in 肌萎缩侧索硬化症 using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial.",
+      "titleZh": "利用强化远程支持在肌萎缩侧索硬化中实施有效无创通气（DENIM）：一项混合3型实施-效果试验中嵌入式过程评价的方案",
       "category": "机制",
-      "priority": "low",
+      "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42323648/"
     },
     {
       "id": "epmc-MED-42322392",
-      "titleZh": "ECAS-Based Neuropsychological Phenotyping in 肌萎缩侧索硬化症: A Retrospective Study Comparing Different Algorithms.",
+      "titleZh": "基于ECAS的肌萎缩侧索硬化症神经心理学表型分析：比较不同算法的回顾性研究",
       "category": "机制",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.1007/s40120-026-00955-7"
     },
     {
       "id": "epmc-PPR-PPR1256645",
-      "titleZh": "NEK1 autophosphorylation is disrupted by 肌萎缩侧索硬化症-associated missense variants: activity 生物标志物s and structural insights",
+      "titleZh": "NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解",
       "category": "生物标志物",
-      "priority": "low",
+      "priority": "high",
       "url": "https://doi.org/10.64898/2026.06.17.733013"
     },
     {
@@ -291,5 +291,116 @@
       "url": "https://clinicaltrials.gov/study/NCT00800501"
     }
   ],
-  "changed": []
+  "changed": [
+    {
+      "id": "pmid-42214472",
+      "titleZh": "优化的多重免疫荧光方案用于同时原位鉴定α-运动神经元亚型",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42251967",
+      "titleZh": "ALS中TDP-43病理的PBMC差异表达基因/miRNA生物标志物",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42242586",
+      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42319999",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42247653",
+      "titleZh": "主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年）",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42214042",
+      "titleZh": "从原发性侧索硬化修正诊断为肌萎缩侧索硬化：一项队列研究",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42324254",
+      "titleZh": "ALS患者上运动神经元兴奋性变化的直接证据",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42323839",
+      "titleZh": "运动神经元病照护的全方位性：一项针对澳大利亚照护者的定性研究",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42321151",
+      "titleZh": "肌萎缩侧索硬化症中消费级智能手表与研究级加速度计步数计数的比较",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42320366",
+      "titleZh": "Pgk1错义突变给药更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    }
+  ]
 }
