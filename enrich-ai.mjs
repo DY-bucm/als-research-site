@@ -4,6 +4,7 @@ const apiKey = process.env.AI_API_KEY || process.env.OPENAI_API_KEY;
 const model = process.env.AI_MODEL || process.env.OPENAI_MODEL || "gpt-5.2";
 const apiBaseUrl = normalizeBaseUrl(process.env.AI_API_BASE_URL || "https://api.openai.com/v1");
 const apiMode = process.env.AI_API_MODE || (apiBaseUrl.includes("api.openai.com") ? "responses" : "chat");
+const chatResponseFormat = process.env.AI_RESPONSE_FORMAT || "none";
 const inputPath = process.argv[2] || "data/items.json";
 const outputPath = process.argv[3] || "data/items.json";
 const limit = Number(process.env.AI_ENRICH_LIMIT || 10);
@@ -146,27 +147,32 @@ async function callResponses(systemPrompt, userPayload, schema) {
 }
 
 async function callChatCompletions(systemPrompt, userPayload, schema) {
+  const body = {
+    model,
+    messages: [
+      {
+        role: "system",
+        content: `${systemPrompt}\n\nJSON schema:\n${JSON.stringify(schema)}`
+      },
+      {
+        role: "user",
+        content: userPayload
+      }
+    ],
+    temperature: 0.1
+  };
+
+  if (chatResponseFormat === "json_object") {
+    body.response_format = { type: "json_object" };
+  }
+
   const response = await fetch(`${apiBaseUrl}/chat/completions`, {
     method: "POST",
     headers: {
       "Authorization": `Bearer ${apiKey}`,
       "Content-Type": "application/json"
     },
-    body: JSON.stringify({
-      model,
-      messages: [
-        {
-          role: "system",
-          content: `${systemPrompt}\n\nJSON schema:\n${JSON.stringify(schema)}`
-        },
-        {
-          role: "user",
-          content: userPayload
-        }
-      ],
-      temperature: 0.1,
-      response_format: { type: "json_object" }
-    })
+    body: JSON.stringify(body)
   });
 
   if (!response.ok) {

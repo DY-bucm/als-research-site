@@ -145,6 +145,31 @@ AI_API_MODE = chat
 AI_MODEL = 你的模型名
 ```
 
+常见填写示例：
+
+```text
+硅基流动：
+AI_API_BASE_URL = https://api.siliconflow.cn/v1
+AI_API_MODE = chat
+AI_MODEL = 你在平台选择的模型名
+
+DeepSeek：
+AI_API_BASE_URL = https://api.deepseek.com
+AI_API_MODE = chat
+AI_MODEL = deepseek-chat
+
+阿里云百炼 DashScope 兼容模式：
+AI_API_BASE_URL = https://dashscope.aliyuncs.com/compatible-mode/v1
+AI_API_MODE = chat
+AI_MODEL = 你在百炼控制台选择的模型名
+```
+
+部分平台不支持 OpenAI 的 `response_format` 参数。默认不要配置 `AI_RESPONSE_FORMAT`；只有确认平台支持 JSON 模式时，再添加：
+
+```text
+AI_RESPONSE_FORMAT = json_object
+```
+
 没有配置 `AI_API_KEY` 或 `OPENAI_API_KEY` 时，每日更新仍会抓取英文原文，但会自动跳过 AI 翻译。
 
 ## 仍需人工复核的部分
