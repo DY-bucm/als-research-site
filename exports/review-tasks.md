@@ -1,53 +1,61 @@
 # 复核任务清单
 
-- [ ] [高优先级] 优化的多重免疫荧光方案用于同时原位鉴定α-运动神经元亚型 (pmid-42214472)
+- [ ] [高优先级] 优化的多重免疫荧光方案用于同时原位鉴定α运动神经元亚型 (pmid-42214472)
   - https://pubmed.ncbi.nlm.nih.gov/42214472/
 - [ ] [高优先级] ALS中TDP-43病理的PBMC差异表达基因/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
-- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变 (pmid-42242586)
+- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P2不足引起的神经退行性变 (pmid-42242586)
   - https://pubmed.ncbi.nlm.nih.gov/42242586/
-- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
+- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
 - [ ] [高优先级] 主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年） (pmid-42247653)
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
+- [ ] 对抗神经退行性疾病：利用心率变异性分析评估坐-站运动中的自主神经应激与安全性 (pmid-41729108)
+  - https://pubmed.ncbi.nlm.nih.gov/41729108/
+- [ ] [高优先级] 肌萎缩侧索硬化症患者胃造口术后结局的多中心前瞻性评估 (pmid-42336241)
+  - https://pubmed.ncbi.nlm.nih.gov/42336241/
+- [ ] [高优先级] 一种新出现的疾病相关运动神经元状态先于ALS中的细胞死亡 (pmid-42335888)
+  - https://pubmed.ncbi.nlm.nih.gov/42335888/
+- [ ] [高优先级] 邻近无序RGG结构域对FUS-RRM折叠态的稳定效应 (pmid-42335378)
+  - https://pubmed.ncbi.nlm.nih.gov/42335378/
+- [ ] 与NEK1错义变异相关的行为变异型额颞叶痴呆：探索可能的表型关联 (pmid-42334646)
+  - https://pubmed.ncbi.nlm.nih.gov/42334646/
+- [ ] 影响肌萎缩侧索硬化症患者照护者生活质量的关联因素：基于压力-过程模型的方法 (pmid-42334507)
+  - https://pubmed.ncbi.nlm.nih.gov/42334507/
+- [ ] [高优先级] 口部运动皮层变薄与肌萎缩侧索硬化症言语障碍相关 (pmid-42333954)
+  - https://pubmed.ncbi.nlm.nih.gov/42333954/
+- [ ] [疑似误收] [高优先级] 植入式脑机接口的重新校准以实现长期独立使用——一项系统综述 (pmid-42229507)
+  - https://pubmed.ncbi.nlm.nih.gov/42229507/
 - [ ] [高优先级] 从原发性侧索硬化修正诊断为肌萎缩侧索硬化：一项队列研究 (pmid-42214042)
   - https://pubmed.ncbi.nlm.nih.gov/42214042/
+- [ ] [高优先级] Target ALS全球自然史研究：跨平台蛋白质组学加速肌萎缩侧索硬化症生物流体标志物和药物靶点发现 (epmc-PPR-PPR1258245)
+  - https://doi.org/10.64898/2026.06.13.26355379
+- [ ] [疑似误收] MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述 (epmc-PPR-PPR1257943)
+  - https://doi.org/10.21203/rs.3.rs-9920106/v1
 - [ ] [高优先级] 神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性 (pmid-42332177)
   - https://pubmed.ncbi.nlm.nih.gov/42332177/
-- [ ] 靶向线粒体功能障碍与神经保护在神经退行性疾病中的应用：小檗碱及聚合物纳米颗粒递送系统的新兴治疗潜力 (pmid-42329291)
-  - https://pubmed.ncbi.nlm.nih.gov/42329291/
+- [ ] 基于电子健康记录自然语言处理的运动神经元病症状表型发现 (epmc-PPR-PPR1258466)
+  - https://doi.org/10.64898/2026.06.18.26355960
+- [ ] 肌电图在肌萎缩侧索硬化中的应用：一项系统综述 (epmc-MED-42329964)
+  - https://doi.org/10.1371/journal.pone.0350029
 - [ ] 高密度表面肌电图揭示肌萎缩侧索硬化症中共享的基线空间组织与异质性疲劳反应 (epmc-PPR-PPR1257204)
   - https://doi.org/10.64898/2026.06.18.26355984
-- [ ] [高优先级] 肌肉超声是ALS中敏感的结果测量指标 (pmid-42324866)
-  - https://pubmed.ncbi.nlm.nih.gov/42324866/
-- [ ] [高优先级] 赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究 (pmid-42324839)
-  - https://pubmed.ncbi.nlm.nih.gov/42324839/
-- [ ] 运动神经元病及其他疾病患者非计划性胃造口管更换的发生率及相关并发症：一项澳大利亚营养师主导诊所的回顾性审计 (pmid-42324684)
-  - https://pubmed.ncbi.nlm.nih.gov/42324684/
-- [ ] [高优先级] 一例ALS患者上运动神经元兴奋性变化的直接证据 (pmid-42324254)
-  - https://pubmed.ncbi.nlm.nih.gov/42324254/
-- [ ] 运动神经元疾病照护的全方位性：一项针对澳大利亚照护者的定性研究 (pmid-42323839)
-  - https://pubmed.ncbi.nlm.nih.gov/42323839/
-- [ ] [疑似误收] [高优先级] 基于基因表达的ALS亚型在脑和血液组织中的机器学习评估 (epmc-PPR-PPR1257389)
+- [ ] [疑似误收] Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems. (epmc-MED-42329291)
+  - https://doi.org/10.1007/s10787-026-02276-5
+- [ ] [疑似误收] 待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues (epmc-PPR-PPR1257389)
   - https://doi.org/10.64898/2026.06.19.733362
-- [ ] [高优先级] 通过强化远程支持在肌萎缩侧索硬化症中实施有效的无创通气（DENIM）：一项混合3型实施-效果试验中嵌入的过程评估方案 (pmid-42323648)
-  - https://pubmed.ncbi.nlm.nih.gov/42323648/
-- [ ] 基于ECAS的肌萎缩侧索硬化症神经心理学表型分析：比较不同算法的回顾性研究 (epmc-MED-42322392)
-  - https://doi.org/10.1007/s40120-026-00955-7
-- [ ] [高优先级] NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解 (epmc-PPR-PPR1256645)
-  - https://doi.org/10.64898/2026.06.17.733013
-- [ ] 肌萎缩侧索硬化症中消费级智能手表与研究级加速度计步数计数的比较 (epmc-MED-42321151)
-  - https://doi.org/10.1002/mus.70323
-- [ ] [疑似误收] Pgk1错义突变给药可更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应 (epmc-MED-42320366)
-  - https://doi.org/10.1016/j.biopha.2026.119674
+- [ ] [疑似误收] 待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS. (epmc-MED-42324866)
+  - https://doi.org/10.1002/mus.70317
+- [ ] The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review. (epmc-MED-42324839)
+  - https://doi.org/10.1002/mus.70313
+- [ ] Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic. (epmc-MED-42324684)
+  - https://doi.org/10.1002/ncp.70140
 - [ ] [高优先级] 待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS (trial-NCT04745299)
   - https://clinicaltrials.gov/study/NCT04745299
 - [ ] [高优先级] 待复核翻译：Clinical Research in ALS Study (trial-NCT00136500)
   - https://clinicaltrials.gov/study/NCT00136500
 - [ ] [高优先级] A Study of LY4256984 in Participants With Sporadic 肌萎缩侧索硬化症 (trial-NCT07100119)
   - https://clinicaltrials.gov/study/NCT07100119
-- [ ] Applications of electromyography in 肌萎缩侧索硬化症: A systematic review. (pmid-42329964)
-  - https://pubmed.ncbi.nlm.nih.gov/42329964/
 - [ ] [高优先级] Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy (trial-NCT07268833)
   - https://clinicaltrials.gov/study/NCT07268833
 - [ ] [高优先级] A Second Intermediate-Size Expanded Access Protocol (EAP) for Pridopidine in People With 肌萎缩侧索硬化症 (Pridopidine EAP 2) (trial-NCT06069934)

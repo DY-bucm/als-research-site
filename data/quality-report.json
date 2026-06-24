@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-23T13:07:12.450Z",
+  "updatedAt": "2026-06-24T10:31:52.223Z",
   "summary": {
-    "totalItems": 36,
-    "issueCount": 36
+    "totalItems": 40,
+    "issueCount": 43
   },
   "sources": [
     {
@@ -23,26 +23,59 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-42229507",
+      "title": "Recalibration of implantable brain-computer interfaces to enable long-term independent use-a systematic review.",
+      "titleZh": "植入式脑机接口的重新校准以实现长期独立使用——一项系统综述",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42229507/"
+    },
+    {
+      "id": "epmc-PPR-PPR1257943",
+      "title": "MANF and CDNF as Regulators of Cellular Stress Pathways in Preclinical Models of Neurodegeneration: A Systematic Scoping Review",
+      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-9920106/v1"
+    },
+    {
+      "id": "epmc-MED-42329291",
+      "title": "Targeting mitochondrial dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
+      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10787-026-02276-5"
+    },
+    {
       "id": "epmc-PPR-PPR1257389",
       "title": "Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
-      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
+      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.06.19.733362"
     },
     {
-      "id": "epmc-MED-42320366",
-      "title": "Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
-      "titleZh": "Pgk1错义突变给药可更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
-      "category": "遗传",
-      "evidenceLevel": "动物/细胞实验",
+      "id": "epmc-MED-42324866",
+      "title": "Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
+      "titleZh": "待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.biopha.2026.119674"
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70317"
     }
   ],
   "missingIdentifiers": [],
@@ -50,13 +83,57 @@
     {
       "id": "pmid-42319999",
       "title": "Teaching Video NeuroImage: Beyond Cognition: Amyotrophic Lateral Sclerosis-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
+    },
+    {
+      "id": "epmc-PPR-PPR1258245",
+      "title": "The Target ALS Global Natural History Study: Cross-platform proteomics to accelerate biofluid biomarker and drug target discovery in amyotrophic lateral sclerosis",
+      "titleZh": "Target ALS全球自然史研究：跨平台蛋白质组学加速肌萎缩侧索硬化症生物流体标志物和药物靶点发现",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.64898/2026.06.13.26355379"
+    },
+    {
+      "id": "epmc-PPR-PPR1257943",
+      "title": "MANF and CDNF as Regulators of Cellular Stress Pathways in Preclinical Models of Neurodegeneration: A Systematic Scoping Review",
+      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-9920106/v1"
+    },
+    {
+      "id": "epmc-PPR-PPR1258466",
+      "title": "Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records",
+      "titleZh": "基于电子健康记录自然语言处理的运动神经元病症状表型发现",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.06.18.26355960"
+    },
+    {
+      "id": "epmc-MED-42329964",
+      "title": "Applications of electromyography in Amyotrophic Lateral Sclerosis: A systematic review.",
+      "titleZh": "肌电图在肌萎缩侧索硬化中的应用：一项系统综述",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1371/journal.pone.0350029"
     },
     {
       "id": "epmc-PPR-PPR1257204",
@@ -70,66 +147,66 @@
       "url": "https://doi.org/10.64898/2026.06.18.26355984"
     },
     {
+      "id": "epmc-MED-42329291",
+      "title": "Targeting mitochondrial dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
+      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10787-026-02276-5"
+    },
+    {
       "id": "epmc-PPR-PPR1257389",
       "title": "Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
-      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
+      "titleZh": "待复核翻译：Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.06.19.733362"
     },
     {
-      "id": "epmc-MED-42322392",
-      "title": "ECAS-Based Neuropsychological Phenotyping in Amyotrophic Lateral Sclerosis: A Retrospective Study Comparing Different Algorithms.",
-      "titleZh": "基于ECAS的肌萎缩侧索硬化症神经心理学表型分析：比较不同算法的回顾性研究",
+      "id": "epmc-MED-42324866",
+      "title": "Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
+      "titleZh": "待复核翻译：Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
       "category": "机制",
       "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s40120-026-00955-7"
-    },
-    {
-      "id": "epmc-PPR-PPR1256645",
-      "title": "NEK1 autophosphorylation is disrupted by amyotrophic lateral sclerosis-associated missense variants: activity biomarkers and structural insights",
-      "titleZh": "NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.06.17.733013"
-    },
-    {
-      "id": "epmc-MED-42321151",
-      "title": "Comparison of Consumer Smartwatch and Research-Grade Accelerometer-Derived Step Counts in Amyotrophic Lateral Sclerosis.",
-      "titleZh": "肌萎缩侧索硬化症中消费级智能手表与研究级加速度计步数计数的比较",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/mus.70323"
-    },
-    {
-      "id": "epmc-MED-42320366",
-      "title": "Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
-      "titleZh": "Pgk1错义突变给药可更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
-      "category": "遗传",
-      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.biopha.2026.119674"
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70317"
+    },
+    {
+      "id": "epmc-MED-42324839",
+      "title": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With Amyotrophic Lateral Sclerosis: A Single-Site Retrospective Review.",
+      "titleZh": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With 肌萎缩侧索硬化症: A Single-Site Retrospective Review.",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70313"
+    },
+    {
+      "id": "epmc-MED-42324684",
+      "title": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with motor neurone disease and other conditions: A retrospective audit of an Australian dietitian-led clinic.",
+      "titleZh": "Incidence of unplanned gastrostomy tube replacements and associated complications in people with 运动神经元病 and other conditions: A retrospective audit of an Australian dietitian-led clinic.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/ncp.70140"
     }
   ],
   "highPriorityNeedsReview": [
     {
       "id": "pmid-42214472",
       "title": "Optimized multiplex immunofluorescent protocols for simultaneous in situ identification of α-motoneuron subtypes.",
-      "titleZh": "优化的多重免疫荧光方案用于同时原位鉴定α-运动神经元亚型",
+      "titleZh": "优化的多重免疫荧光方案用于同时原位鉴定α运动神经元亚型",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 5,
@@ -151,7 +228,7 @@
     {
       "id": "pmid-42242586",
       "title": "Early-onset neuroinflammation drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency.",
-      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变",
+      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P2不足引起的神经退行性变",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
@@ -171,6 +248,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247653/"
     },
     {
+      "id": "pmid-42336241",
+      "title": "A multi-centre prospective evaluation of post-gastrostomy outcomes in patients with amyotrophic lateral sclerosis.",
+      "titleZh": "肌萎缩侧索硬化症患者胃造口术后结局的多中心前瞻性评估",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42336241/"
+    },
+    {
+      "id": "pmid-42335888",
+      "title": "An emergent disease-associated motor neuron state precedes cell death in ALS.",
+      "titleZh": "一种新出现的疾病相关运动神经元状态先于ALS中的细胞死亡",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335888/"
+    },
+    {
+      "id": "pmid-42335378",
+      "title": "Stabilizing Effect of Neighboring Disordered RGG Domain on the Folded State of FUS-RRM.",
+      "titleZh": "邻近无序RGG结构域对FUS-RRM折叠态的稳定效应",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335378/"
+    },
+    {
+      "id": "pmid-42333954",
+      "title": "Thinning of the oral motor cortex is linked to impaired speech in amyotrophic lateral sclerosis.",
+      "titleZh": "口部运动皮层变薄与肌萎缩侧索硬化症言语障碍相关",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42333954/"
+    },
+    {
+      "id": "pmid-42229507",
+      "title": "Recalibration of implantable brain-computer interfaces to enable long-term independent use-a systematic review.",
+      "titleZh": "植入式脑机接口的重新校准以实现长期独立使用——一项系统综述",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42229507/"
+    },
+    {
       "id": "pmid-42214042",
       "title": "Diagnostic Revision From Primary Lateral Sclerosis to Amyotrophic Lateral Sclerosis: A Cohort Study.",
       "titleZh": "从原发性侧索硬化修正诊断为肌萎缩侧索硬化：一项队列研究",
@@ -182,6 +314,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42214042/"
     },
     {
+      "id": "epmc-PPR-PPR1258245",
+      "title": "The Target ALS Global Natural History Study: Cross-platform proteomics to accelerate biofluid biomarker and drug target discovery in amyotrophic lateral sclerosis",
+      "titleZh": "Target ALS全球自然史研究：跨平台蛋白质组学加速肌萎缩侧索硬化症生物流体标志物和药物靶点发现",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.64898/2026.06.13.26355379"
+    },
+    {
       "id": "pmid-42332177",
       "title": "Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
       "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
@@ -191,72 +334,6 @@
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42332177/"
-    },
-    {
-      "id": "pmid-42324866",
-      "title": "Muscle Ultrasound Is a Sensitive Outcome Measure in ALS.",
-      "titleZh": "肌肉超声是ALS中敏感的结果测量指标",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324866/"
-    },
-    {
-      "id": "pmid-42324839",
-      "title": "The Impact of Sponsored Genetic Testing in 170 Consecutive Consenting Patients With Amyotrophic Lateral Sclerosis: A Single-Site Retrospective Review.",
-      "titleZh": "赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 17,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
-    },
-    {
-      "id": "pmid-42324254",
-      "title": "Direct evidence of upper motor neuron excitability changes in a patient with ALS.",
-      "titleZh": "一例ALS患者上运动神经元兴奋性变化的直接证据",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324254/"
-    },
-    {
-      "id": "epmc-PPR-PPR1257389",
-      "title": "Machine learning evaluation of gene expression-based ALS subtypes across brain and blood tissues",
-      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.06.19.733362"
-    },
-    {
-      "id": "pmid-42323648",
-      "title": "Delivering effective non-invasive ventilation in amyotrophic lateral sclerosis using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial.",
-      "titleZh": "通过强化远程支持在肌萎缩侧索硬化症中实施有效的无创通气（DENIM）：一项混合3型实施-效果试验中嵌入的过程评估方案",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42323648/"
-    },
-    {
-      "id": "epmc-PPR-PPR1256645",
-      "title": "NEK1 autophosphorylation is disrupted by amyotrophic lateral sclerosis-associated missense variants: activity biomarkers and structural insights",
-      "titleZh": "NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.06.17.733013"
     },
     {
       "id": "trial-NCT04745299",
@@ -426,18 +503,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 2,
+    "疑似误收": 5,
     "缺标识符": 0,
-    "缺摘要": 7,
+    "缺摘要": 11,
     "高优先级待复核": 27,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 36
+    "待复核": 40
   },
   "relevanceCounts": {
-    "medium": 10,
-    "high": 24,
-    "low": 2
+    "medium": 8,
+    "high": 27,
+    "low": 5
   }
 }
