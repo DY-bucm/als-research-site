@@ -6,6 +6,7 @@
   "scripts": {
     "serve": "node scripts/serve.mjs",
     "update": "node scripts/update-feed.mjs --days 30 --limit 12 --output data/items.json",
+    "update:articles": "node scripts/update-articles-recent.mjs --days 10 --output data/articles-recent.json",
     "archive": "node scripts/archive-feed.mjs data/items.json",
     "exclude": "node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json",
     "export": "node scripts/export-data.mjs data/items.json exports",
@@ -15,6 +16,6 @@
     "quality": "node scripts/quality-report.mjs data/items.json data/quality-report.json",
     "changelog": "node scripts/changelog.mjs data/items.json data/changelog.json",
     "verify": "node scripts/verify-site.mjs",
-    "check": "node --check assets/app.js && node --check assets/detail.js && node --check assets/review.js && node --check assets/shared.js && node --check assets/briefing.js && node --check assets/trials.js && node --check assets/topics.js && node --check assets/quality.js && node --check assets/export.js && node --check assets/status.js && node --check scripts/update-feed.mjs && node --check scripts/archive-feed.mjs && node --check scripts/changelog.mjs && node --check scripts/quality-report.mjs && node --check scripts/verify-site.mjs && node --check scripts/enrich-ai.mjs && node --check scripts/apply-exclusions.mjs && node --check scripts/export-data.mjs && node --check scripts/status-report.mjs && node --check scripts/build-edge-html.mjs && node --check scripts/serve.mjs"
+    "check": "node --check assets/app.js && node --check assets/articles.js && node --check assets/detail.js && node --check assets/review.js && node --check assets/shared.js && node --check assets/briefing.js && node --check assets/trials.js && node --check assets/topics.js && node --check assets/quality.js && node --check assets/export.js && node --check assets/status.js && node --check scripts/update-feed.mjs && node --check scripts/update-articles-recent.mjs && node --check scripts/archive-feed.mjs && node --check scripts/changelog.mjs && node --check scripts/quality-report.mjs && node --check scripts/verify-site.mjs && node --check scripts/enrich-ai.mjs && node --check scripts/apply-exclusions.mjs && node --check scripts/export-data.mjs && node --check scripts/status-report.mjs && node --check scripts/build-edge-html.mjs && node --check scripts/serve.mjs"
   }
 }

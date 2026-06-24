@@ -1,4 +1,3 @@
-
 name: Daily ALS Feed Update
 
 on:
@@ -14,17 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-
       - name: Update feed
         run: node scripts/update-feed.mjs --days 30 --limit 15 --output data/items.json
-
+      - name: Update 10-day literature archive
+        run: node scripts/update-articles-recent.mjs --days 10 --output data/articles-recent.json
       - name: Apply exclusion rules
         run: node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json
-
       - name: AI translate and readout
         continue-on-error: true
         env:
@@ -42,22 +39,16 @@ jobs:
           else
             echo "AI_API_KEY or OPENAI_API_KEY is not configured; skipping AI translation."
           fi
-
       - name: Archive feed snapshot
         run: node scripts/archive-feed.mjs data/items.json
-
       - name: Build quality report
         run: node scripts/quality-report.mjs data/items.json data/quality-report.json
-
       - name: Build changelog
         run: node scripts/changelog.mjs data/items.json data/changelog.json
-
       - name: Export data
         run: node scripts/export-data.mjs data/items.json exports
-
       - name: Build status report
         run: node scripts/status-report.mjs
-
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

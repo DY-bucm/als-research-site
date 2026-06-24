@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>近10天 ALS 外文文献汇总</title>
+    <meta name="description" content="按发表时间汇总近10天 PubMed 收录的 ALS 外文文章，并提供 PMID、DOI 与原文链接。">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">ALS</span>
+        <div><strong>ALS Frontier</strong><span>前沿研究情报站</span></div>
+      </div>
+      <nav class="topnav">
+        <a class="nav-link" href="index.html">首页</a>
+        <a class="nav-link" href="briefing.html">每日简报</a>
+        <a class="nav-link" href="trials.html">临床试验</a>
+        <a class="nav-link" href="topics.html">专题</a>
+      </nav>
+    </header>
+
+    <main class="articles-main">
+      <section class="articles-hero">
+        <p class="eyebrow">30-Day Literature Archive</p>
+        <h1>近10天 ALS 外文发表文章</h1>
+        <p class="lead">以 PubMed 为主源，按发表日期从新到旧汇总近10天与 ALS / motor neuron disease 明确相关的外文文章。</p>
+        <div class="articles-summary">
+          <span><strong id="articleCount">--</strong>篇文章</span>
+          <span id="articlePeriod">正在读取时间范围</span>
+          <span id="articleUpdated">正在读取更新时间</span>
+        </div>
+      </section>
+
+      <section class="article-controls" aria-label="文献筛选">
+        <label>
+          <span>检索标题、作者、期刊或摘要</span>
+          <input id="articleSearch" type="search" placeholder="TDP-43, SOD1, biomarker, trial...">
+        </label>
+        <label>
+          <span>文章类型</span>
+          <select id="articleType"><option value="全部">全部</option></select>
+        </label>
+        <label class="abstract-toggle">
+          <input id="showAbstracts" type="checkbox">
+          <span>展开摘要</span>
+        </label>
+      </section>
+
+      <p class="source-note">范围说明：此页按 PubMed 查询结果汇总，接近“近10天全部已被 PubMed 收录的相关外文文章”；数据库收录延迟、在线优先日期和索引变化可能导致数量后续调整。</p>
+      <section id="articleTimeline" class="article-timeline"></section>
+      <p id="articleEmpty" class="empty-state" hidden>没有符合当前筛选条件的文章。</p>
+    </main>
+
+    <footer>本站用于科研信息追踪，不构成医疗建议。文章范围以 PubMed 当前收录结果为准。</footer>
+    <script src="assets/articles.js" type="module"></script>
+  </body>
+</html>
