@@ -4,48 +4,54 @@
   - https://pubmed.ncbi.nlm.nih.gov/42214472/
 - [ ] [高优先级] ALS中TDP-43病理的PBMC DEG/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
-- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P2不足引起的神经退行性变 (pmid-42242586)
+- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变 (pmid-42242586)
   - https://pubmed.ncbi.nlm.nih.gov/42242586/
-- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
+- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
 - [ ] [高优先级] 主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年） (pmid-42247653)
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
-- [ ] [高优先级] 肌萎缩侧索硬化症众筹中未经证实的干细胞干预与补充和替代医学之间的联系 (pmid-42339807)
+- [ ] [高优先级] IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态 (pmid-42341041)
+  - https://pubmed.ncbi.nlm.nih.gov/42341041/
+- [ ] [高优先级] 异构体特异性立体拉链驱动缩短型TDP-43的异常组装和错误定位 (pmid-42341118)
+  - https://pubmed.ncbi.nlm.nih.gov/42341118/
+- [ ] 肌萎缩侧索硬化症：一种罕见但侵袭性的成人发病疾病 (pmid-42342533)
+  - https://pubmed.ncbi.nlm.nih.gov/42342533/
+- [ ] [高优先级] 人类疾病中的程序性轴突退化基因变异 (pmid-42341897)
+  - https://pubmed.ncbi.nlm.nih.gov/42341897/
+- [ ] [高优先级] 未经证实的干细胞干预与补充替代医学在肌萎缩侧索硬化众筹中的关联 (pmid-42339807)
   - https://pubmed.ncbi.nlm.nih.gov/42339807/
 - [ ] 对抗神经退行性疾病：利用心率变异性分析评估坐-站运动中的自主神经应激与安全性 (pmid-41729108)
   - https://pubmed.ncbi.nlm.nih.gov/41729108/
-- [ ] [高优先级] Pridopidine 治疗肌萎缩侧索硬化症的 III 期疗效与安全性研究 (trial-NCT07322003)
+- [ ] [高优先级] Pridopidine 治疗肌萎缩侧索硬化症的疗效与安全性的3期研究 (trial-NCT07322003)
   - https://clinicaltrials.gov/study/NCT07322003
-- [ ] [高优先级] 患者来源的肌萎缩侧索硬化模型是否成为新药发现的游戏规则改变者？ (pmid-42337904)
+- [ ] [高优先级] 患者来源的肌萎缩侧索硬化模型是否是新药发现中的游戏规则改变者？ (pmid-42337904)
   - https://pubmed.ncbi.nlm.nih.gov/42337904/
 - [ ] [高优先级] 肌萎缩侧索硬化症患者胃造口术后结局的多中心前瞻性评估 (pmid-42336241)
   - https://pubmed.ncbi.nlm.nih.gov/42336241/
-- [ ] [高优先级] 一种新出现的疾病相关运动神经元状态在ALS中先于细胞死亡 (pmid-42335888)
+- [ ] [高优先级] 一种新出现的疾病相关运动神经元状态先于ALS中的细胞死亡 (pmid-42335888)
   - https://pubmed.ncbi.nlm.nih.gov/42335888/
 - [ ] [高优先级] 邻近无序RGG结构域对FUS-RRM折叠态的稳定效应 (pmid-42335378)
   - https://pubmed.ncbi.nlm.nih.gov/42335378/
-- [ ] 与NEK1错义变异相关的行为变异型额颞叶痴呆：探索可能的表型关联 (pmid-42334646)
-  - https://pubmed.ncbi.nlm.nih.gov/42334646/
-- [ ] 影响肌萎缩侧索硬化症患者照护者生活质量的相关因素：基于压力-过程模型的方法 (pmid-42334507)
-  - https://pubmed.ncbi.nlm.nih.gov/42334507/
-- [ ] [高优先级] 口部运动皮层变薄与肌萎缩侧索硬化症言语障碍相关 (pmid-42333954)
-  - https://pubmed.ncbi.nlm.nih.gov/42333954/
-- [ ] [疑似误收] [高优先级] 植入式脑机接口的重新校准以实现长期独立使用——一项系统综述 (pmid-42229507)
-  - https://pubmed.ncbi.nlm.nih.gov/42229507/
 - [ ] [高优先级] Target ALS全球自然史研究：跨平台蛋白质组学加速肌萎缩侧索硬化症生物流体标志物和药物靶点发现 (epmc-PPR-PPR1258245)
   - https://doi.org/10.64898/2026.06.13.26355379
-- [ ] [疑似误收] MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述 (epmc-PPR-PPR1257943)
+- [ ] [疑似误收] MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统范围综述 (epmc-PPR-PPR1257943)
   - https://doi.org/10.21203/rs.3.rs-9920106/v1
-- [ ] 基于电子健康记录自然语言处理的运动神经元病症状表型发现 (epmc-PPR-PPR1258466)
+- [ ] [疑似误收] 行为变异型额颞叶痴呆与NEK1错义变异相关：探索可能的表型关联 (epmc-MED-42334646)
+  - https://doi.org/10.1007/s10048-026-00916-0
+- [ ] 影响肌萎缩侧索硬化症患者照护者生活质量的关联因素：基于压力-过程模型的方法 (epmc-MED-42334507)
+  - https://doi.org/10.1007/s11136-026-04318-5
+- [ ] Thinning of the oral motor cortex is linked to impaired speech in 肌萎缩侧索硬化症. (epmc-MED-42333954)
+  - https://doi.org/10.1080/21678421.2026.2688247
+- [ ] [疑似误收] Recalibration of implantable 脑机接口s to enable long-term independent use-a systematic review. (epmc-MED-42229507)
+  - https://doi.org/10.1088/1741-2552/ae7694
+- [ ] Symptom-based phenotype discovery in 运动神经元病 using natural language processing of electronic health records (epmc-PPR-PPR1258466)
   - https://doi.org/10.64898/2026.06.18.26355960
-- [ ] [疑似误收] 神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性 (epmc-MED-42332177)
+- [ ] [疑似误收] 待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases. (epmc-MED-42332177)
   - https://doi.org/10.1007/s12011-026-05187-2
 - [ ] Applications of electromyography in 肌萎缩侧索硬化症: A systematic review. (epmc-MED-42329964)
   - https://doi.org/10.1371/journal.pone.0350029
 - [ ] High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症 (epmc-PPR-PPR1257204)
   - https://doi.org/10.64898/2026.06.18.26355984
-- [ ] [疑似误收] Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems. (epmc-MED-42329291)
-  - https://doi.org/10.1007/s10787-026-02276-5
 - [ ] [高优先级] A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS) (trial-NCT07071935)
   - https://clinicaltrials.gov/study/NCT07071935
 - [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS (trial-NCT07618585)

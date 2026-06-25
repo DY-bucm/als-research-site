@@ -1,62 +1,71 @@
 {
-  "updatedAt": "2026-06-24T16:39:52.591Z",
-  "previousSnapshot": "data/archive/2026-06-23.json",
+  "updatedAt": "2026-06-25T10:23:54.426Z",
+  "previousSnapshot": "data/archive/2026-06-24.json",
   "current": "data/items.json",
   "summary": {
-    "added": 31,
-    "removed": 30,
-    "changed": 1
+    "added": 8,
+    "removed": 5,
+    "changed": 2
   },
   "added": [
     {
-      "id": "pmid-42339807",
-      "titleZh": "肌萎缩侧索硬化症众筹中未经证实的干细胞干预与补充和替代医学之间的联系",
-      "category": "治疗",
+      "id": "pmid-42341041",
+      "titleZh": "IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态",
+      "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42339807/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341041/"
     },
     {
-      "id": "pmid-41729108",
-      "titleZh": "对抗神经退行性疾病：利用心率变异性分析评估坐-站运动中的自主神经应激与安全性",
+      "id": "pmid-42341118",
+      "titleZh": "异构体特异性立体拉链驱动缩短型TDP-43的异常组装和错误定位",
       "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341118/"
+    },
+    {
+      "id": "pmid-42342533",
+      "titleZh": "肌萎缩侧索硬化症：一种罕见但侵袭性的成人发病疾病",
+      "category": "机制",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41729108/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42342533/"
     },
     {
-      "id": "trial-NCT07322003",
-      "titleZh": "Pridopidine 治疗肌萎缩侧索硬化症的 III 期疗效与安全性研究",
+      "id": "pmid-42341897",
+      "titleZh": "人类疾病中的程序性轴突退化基因变异",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07322003"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341897/"
     },
     {
-      "id": "pmid-42337904",
-      "titleZh": "患者来源的肌萎缩侧索硬化模型是否成为新药发现的游戏规则改变者？",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42337904/"
+      "id": "epmc-MED-42334646",
+      "titleZh": "行为变异型额颞叶痴呆与NEK1错义变异相关：探索可能的表型关联",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10048-026-00916-0"
     },
     {
-      "id": "pmid-42336241",
-      "titleZh": "肌萎缩侧索硬化症患者胃造口术后结局的多中心前瞻性评估",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42336241/"
+      "id": "epmc-MED-42334507",
+      "titleZh": "影响肌萎缩侧索硬化症患者照护者生活质量的关联因素：基于压力-过程模型的方法",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11136-026-04318-5"
     },
     {
-      "id": "pmid-42335888",
-      "titleZh": "一种新出现的疾病相关运动神经元状态在ALS中先于细胞死亡",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42335888/"
+      "id": "epmc-MED-42333954",
+      "titleZh": "Thinning of the oral motor cortex is linked to impaired speech in 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2688247"
     },
     {
-      "id": "pmid-42335378",
-      "titleZh": "邻近无序RGG结构域对FUS-RRM折叠态的稳定效应",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42335378/"
-    },
+      "id": "epmc-MED-42229507",
+      "titleZh": "Recalibration of implantable 脑机接口s to enable long-term independent use-a systematic review.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1088/1741-2552/ae7694"
+    }
+  ],
+  "removed": [
     {
       "id": "pmid-42334646",
       "titleZh": "与NEK1错义变异相关的行为变异型额颞叶痴呆：探索可能的表型关联",
@@ -86,362 +95,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42229507/"
     },
     {
-      "id": "epmc-PPR-PPR1258245",
-      "titleZh": "Target ALS全球自然史研究：跨平台蛋白质组学加速肌萎缩侧索硬化症生物流体标志物和药物靶点发现",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.06.13.26355379"
-    },
-    {
-      "id": "epmc-PPR-PPR1257943",
-      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-9920106/v1"
-    },
-    {
-      "id": "epmc-PPR-PPR1258466",
-      "titleZh": "基于电子健康记录自然语言处理的运动神经元病症状表型发现",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.06.18.26355960"
-    },
-    {
-      "id": "epmc-MED-42332177",
-      "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s12011-026-05187-2"
-    },
-    {
-      "id": "epmc-MED-42329964",
-      "titleZh": "Applications of electromyography in 肌萎缩侧索硬化症: A systematic review.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1371/journal.pone.0350029"
-    },
-    {
       "id": "epmc-MED-42329291",
       "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
       "category": "临床试验",
       "priority": "medium",
       "url": "https://doi.org/10.1007/s10787-026-02276-5"
-    },
-    {
-      "id": "trial-NCT07071935",
-      "titleZh": "A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07071935"
-    },
-    {
-      "id": "trial-NCT07618585",
-      "titleZh": "待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07618585"
-    },
-    {
-      "id": "trial-NCT07334743",
-      "titleZh": "Identifying 生物标志物s in ALS Patients Using Neuronal Derived Extracellular Vesicles",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07334743"
-    },
-    {
-      "id": "trial-NCT01874808",
-      "titleZh": "待复核翻译：From Movement Preparation to Gait Execution in ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01874808"
-    },
-    {
-      "id": "trial-NCT07224256",
-      "titleZh": "VOICE: An Early Feasibility Study of a Precise Robotically Implanted 脑机接口 for Communication Restoration",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07224256"
-    },
-    {
-      "id": "trial-NCT06885918",
-      "titleZh": "待复核翻译：ALS Research Collaborative",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06885918"
-    },
-    {
-      "id": "trial-NCT06769620",
-      "titleZh": "待复核翻译：A First in Human Study of ORT247 in Healthy Volunteers",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06769620"
-    },
-    {
-      "id": "trial-NCT05949294",
-      "titleZh": "Study of AROSOD-1 in Adult Participants With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05949294"
-    },
-    {
-      "id": "trial-NCT05742828",
-      "titleZh": "Virtual Seating Coach on Power Wheelchairs of Persons With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05742828"
-    },
-    {
-      "id": "trial-NCT01954875",
-      "titleZh": "待复核翻译：Establishment of a Human Tissue Bank for Studying the Microbial Etiology of Neurodegenerative Diseases",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01954875"
-    },
-    {
-      "id": "trial-NCT03034317",
-      "titleZh": "NeuRx Diaphram Pacing System (DPS) Use in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03034317"
-    },
-    {
-      "id": "trial-NCT02058732",
-      "titleZh": "Therapeutic Imaging 生物标志物s for 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02058732"
-    },
-    {
-      "id": "trial-NCT02288091",
-      "titleZh": "A Pilot Study of Inosine in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02288091"
-    },
-    {
-      "id": "trial-NCT00833820",
-      "titleZh": "Repetitive Transcranial Magnetic Stimulation (rTMS) in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00833820"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42214042",
-      "titleZh": "从原发性侧索硬化修正诊断为肌萎缩侧索硬化：一项队列研究",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42214042/"
-    },
-    {
-      "id": "pmid-42332177",
-      "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42332177/"
-    },
-    {
-      "id": "pmid-42329291",
-      "titleZh": "靶向线粒体功能障碍与神经保护在神经退行性疾病中的应用：小檗碱及聚合物纳米颗粒递送系统的新兴治疗潜力",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42329291/"
-    },
-    {
-      "id": "pmid-42324866",
-      "titleZh": "肌肉超声是ALS中敏感的结果测量指标",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324866/"
-    },
-    {
-      "id": "pmid-42324839",
-      "titleZh": "赞助基因检测对170名连续同意的肌萎缩侧索硬化症患者的影响：单中心回顾性研究",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
-    },
-    {
-      "id": "pmid-42324684",
-      "titleZh": "运动神经元病及其他疾病患者非计划性胃造口管更换的发生率及相关并发症：一项澳大利亚营养师主导诊所的回顾性审计",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324684/"
-    },
-    {
-      "id": "pmid-42324254",
-      "titleZh": "一例ALS患者上运动神经元兴奋性变化的直接证据",
-      "category": "机制",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324254/"
-    },
-    {
-      "id": "pmid-42323839",
-      "titleZh": "运动神经元疾病照护的全方位性：一项针对澳大利亚照护者的定性研究",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42323839/"
-    },
-    {
-      "id": "epmc-PPR-PPR1257389",
-      "titleZh": "基于基因表达的ALS亚型在脑和血液组织中的机器学习评估",
-      "category": "机制",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.06.19.733362"
-    },
-    {
-      "id": "pmid-42323648",
-      "titleZh": "通过强化远程支持在肌萎缩侧索硬化症中实施有效的无创通气（DENIM）：一项混合3型实施-效果试验中嵌入的过程评估方案",
-      "category": "机制",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42323648/"
-    },
-    {
-      "id": "epmc-MED-42322392",
-      "titleZh": "基于ECAS的肌萎缩侧索硬化症神经心理学表型分析：比较不同算法的回顾性研究",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s40120-026-00955-7"
-    },
-    {
-      "id": "epmc-PPR-PPR1256645",
-      "titleZh": "NEK1自磷酸化被肌萎缩侧索硬化相关错义突变破坏：活性生物标志物与结构见解",
-      "category": "生物标志物",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.06.17.733013"
-    },
-    {
-      "id": "epmc-MED-42321151",
-      "titleZh": "肌萎缩侧索硬化症中消费级智能手表与研究级加速度计步数计数的比较",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/mus.70323"
-    },
-    {
-      "id": "epmc-MED-42320366",
-      "titleZh": "Pgk1错义突变给药可更有效地减轻ALS小鼠和转基因斑马鱼中观察到的神经退行性效应",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.biopha.2026.119674"
-    },
-    {
-      "id": "trial-NCT04745299",
-      "titleZh": "待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04745299"
-    },
-    {
-      "id": "trial-NCT00136500",
-      "titleZh": "待复核翻译：Clinical Research in ALS Study",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00136500"
-    },
-    {
-      "id": "trial-NCT07100119",
-      "titleZh": "A Study of LY4256984 in Participants With Sporadic 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07100119"
-    },
-    {
-      "id": "pmid-42329964",
-      "titleZh": "Applications of electromyography in 肌萎缩侧索硬化症: A systematic review.",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42329964/"
-    },
-    {
-      "id": "trial-NCT07268833",
-      "titleZh": "Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07268833"
-    },
-    {
-      "id": "trial-NCT06069934",
-      "titleZh": "A Second Intermediate-Size Expanded Access Protocol (EAP) for Pridopidine in People With 肌萎缩侧索硬化症 (Pridopidine EAP 2)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06069934"
-    },
-    {
-      "id": "trial-NCT05352958",
-      "titleZh": "Contribution of Diaphragmatic Ultrasound for Monitoring Diaphragmatic Function in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05352958"
-    },
-    {
-      "id": "trial-NCT06891716",
-      "titleZh": "待复核翻译：[18F]ACI-19626 PET in TDP-43 Proteinopathies",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06891716"
-    },
-    {
-      "id": "trial-NCT03127514",
-      "titleZh": "AMX0035 in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03127514"
-    },
-    {
-      "id": "trial-NCT03626012",
-      "titleZh": "A Study to Assess the Safety, Tolerability, and Pharmacokinetics of BIIB078 in Adults With C9ORF72-Associated 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03626012"
-    },
-    {
-      "id": "trial-NCT04328675",
-      "titleZh": "Registration Study of 肌萎缩侧索硬化症 (ALS) in Mainland China",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04328675"
-    },
-    {
-      "id": "trial-NCT03067857",
-      "titleZh": "Autologous Bone Marrow-Derived 干细胞 Therapy for 运动神经元病",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03067857"
-    },
-    {
-      "id": "trial-NCT01521728",
-      "titleZh": "Trial of Resistance and Endurance Exercise in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01521728"
-    },
-    {
-      "id": "trial-NCT01933321",
-      "titleZh": "Effect of Intrathecal Administration of Hematopoietic 干细胞s in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01933321"
-    },
-    {
-      "id": "trial-NCT00958048",
-      "titleZh": "Effects of Nocturnal Non-invasive Ventilation in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00958048"
-    },
-    {
-      "id": "trial-NCT00847847",
-      "titleZh": "Neuromuscular Transmission in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00847847"
     }
   ],
   "changed": [
     {
-      "id": "epmc-PPR-PPR1257204",
-      "titleZh": "High-Density Surface Electromyography Reveals Shared Baseline Spatial Organization and Heterogeneous Fatigue Responses in 肌萎缩侧索硬化症",
+      "id": "epmc-PPR-PPR1258466",
+      "titleZh": "Symptom-based phenotype discovery in 运动神经元病 using natural language processing of electronic health records",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42332177",
+      "titleZh": "待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
       "changes": [
         {
           "field": "priority",

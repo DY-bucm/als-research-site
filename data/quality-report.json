@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-24T16:39:52.542Z",
+  "updatedAt": "2026-06-25T10:23:54.378Z",
   "summary": {
-    "totalItems": 37,
-    "issueCount": 39
+    "totalItems": 40,
+    "issueCount": 44
   },
   "sources": [
     {
@@ -23,20 +23,9 @@
   ],
   "lowRelevance": [
     {
-      "id": "pmid-42229507",
-      "title": "Recalibration of implantable brain-computer interfaces to enable long-term independent use-a systematic review.",
-      "titleZh": "植入式脑机接口的重新校准以实现长期独立使用——一项系统综述",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42229507/"
-    },
-    {
       "id": "epmc-PPR-PPR1257943",
       "title": "MANF and CDNF as Regulators of Cellular Stress Pathways in Preclinical Models of Neurodegeneration: A Systematic Scoping Review",
-      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述",
+      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统范围综述",
       "category": "机制",
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
@@ -45,26 +34,37 @@
       "url": "https://doi.org/10.21203/rs.3.rs-9920106/v1"
     },
     {
-      "id": "epmc-MED-42332177",
-      "title": "Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
-      "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s12011-026-05187-2"
-    },
-    {
-      "id": "epmc-MED-42329291",
-      "title": "Targeting mitochondrial dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
-      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
-      "category": "临床试验",
+      "id": "epmc-MED-42334646",
+      "title": "Behavioral variant frontotemporal dementia associated with a NEK1 missense variant: exploring a possible phenotypic association.",
+      "titleZh": "行为变异型额颞叶痴呆与NEK1错义变异相关：探索可能的表型关联",
+      "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.1007/s10787-026-02276-5"
+      "url": "https://doi.org/10.1007/s10048-026-00916-0"
+    },
+    {
+      "id": "epmc-MED-42229507",
+      "title": "Recalibration of implantable brain-computer interfaces to enable long-term independent use-a systematic review.",
+      "titleZh": "Recalibration of implantable 脑机接口s to enable long-term independent use-a systematic review.",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1088/1741-2552/ae7694"
+    },
+    {
+      "id": "epmc-MED-42332177",
+      "title": "Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
+      "titleZh": "待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s12011-026-05187-2"
     }
   ],
   "missingIdentifiers": [],
@@ -72,13 +72,24 @@
     {
       "id": "pmid-42319999",
       "title": "Teaching Video NeuroImage: Beyond Cognition: Amyotrophic Lateral Sclerosis-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
+    },
+    {
+      "id": "pmid-42342533",
+      "title": "Amyotrophic lateral sclerosis: A rare but aggressive adult-onset disease.",
+      "titleZh": "肌萎缩侧索硬化症：一种罕见但侵袭性的成人发病疾病",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42342533/"
     },
     {
       "id": "epmc-PPR-PPR1258245",
@@ -94,7 +105,7 @@
     {
       "id": "epmc-PPR-PPR1257943",
       "title": "MANF and CDNF as Regulators of Cellular Stress Pathways in Preclinical Models of Neurodegeneration: A Systematic Scoping Review",
-      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统性范围综述",
+      "titleZh": "MANF和CDNF作为神经退行性疾病临床前模型中细胞应激通路的调节因子：一项系统范围综述",
       "category": "机制",
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
@@ -103,25 +114,69 @@
       "url": "https://doi.org/10.21203/rs.3.rs-9920106/v1"
     },
     {
+      "id": "epmc-MED-42334646",
+      "title": "Behavioral variant frontotemporal dementia associated with a NEK1 missense variant: exploring a possible phenotypic association.",
+      "titleZh": "行为变异型额颞叶痴呆与NEK1错义变异相关：探索可能的表型关联",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10048-026-00916-0"
+    },
+    {
+      "id": "epmc-MED-42334507",
+      "title": "Associations influencing quality of life in caregivers of patients with amyotrophic lateral sclerosis: a stress-process model approach.",
+      "titleZh": "影响肌萎缩侧索硬化症患者照护者生活质量的关联因素：基于压力-过程模型的方法",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11136-026-04318-5"
+    },
+    {
+      "id": "epmc-MED-42333954",
+      "title": "Thinning of the oral motor cortex is linked to impaired speech in amyotrophic lateral sclerosis.",
+      "titleZh": "Thinning of the oral motor cortex is linked to impaired speech in 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2688247"
+    },
+    {
+      "id": "epmc-MED-42229507",
+      "title": "Recalibration of implantable brain-computer interfaces to enable long-term independent use-a systematic review.",
+      "titleZh": "Recalibration of implantable 脑机接口s to enable long-term independent use-a systematic review.",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1088/1741-2552/ae7694"
+    },
+    {
       "id": "epmc-PPR-PPR1258466",
       "title": "Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records",
-      "titleZh": "基于电子健康记录自然语言处理的运动神经元病症状表型发现",
+      "titleZh": "Symptom-based phenotype discovery in 运动神经元病 using natural language processing of electronic health records",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.06.18.26355960"
     },
     {
       "id": "epmc-MED-42332177",
       "title": "Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
-      "titleZh": "神经退行性疾病中的微量元素稳态失衡与有毒金属神经毒性",
+      "titleZh": "待复核翻译：Trace Elements Dyshomeostasis and Toxic Metals Neurotoxicity in Neurodegenerative Diseases.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1007/s12011-026-05187-2"
     },
     {
@@ -145,17 +200,6 @@
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://doi.org/10.64898/2026.06.18.26355984"
-    },
-    {
-      "id": "epmc-MED-42329291",
-      "title": "Targeting mitochondrial dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
-      "titleZh": "Targeting 线粒体l dysfunction and neuroprotection in neurodegenerative disorders: emerging therapeutic potential of berberine and polymeric nanoparticle-based delivery systems.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s10787-026-02276-5"
     }
   ],
   "highPriorityNeedsReview": [
@@ -184,7 +228,7 @@
     {
       "id": "pmid-42242586",
       "title": "Early-onset neuroinflammation drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency.",
-      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P2不足引起的神经退行性变",
+      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
@@ -204,9 +248,42 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247653/"
     },
     {
+      "id": "pmid-42341041",
+      "title": "IRE1 regulates the proteostasis of TDP-43/TARDBP in ALS/FTD through ribosome-associated quality control.",
+      "titleZh": "IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341041/"
+    },
+    {
+      "id": "pmid-42341118",
+      "title": "Isoform-specific steric zippers drive aberrant assembly and mislocalization of shortened TDP-43.",
+      "titleZh": "异构体特异性立体拉链驱动缩短型TDP-43的异常组装和错误定位",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341118/"
+    },
+    {
+      "id": "pmid-42341897",
+      "title": "Programmed axon degeneration gene variants in human disease.",
+      "titleZh": "人类疾病中的程序性轴突退化基因变异",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341897/"
+    },
+    {
       "id": "pmid-42339807",
       "title": "The connection between unproven stem cell-based interventions and complementary and alternative medicine in crowdfunding for Amyotrophic Lateral Sclerosis.",
-      "titleZh": "肌萎缩侧索硬化症众筹中未经证实的干细胞干预与补充和替代医学之间的联系",
+      "titleZh": "未经证实的干细胞干预与补充替代医学在肌萎缩侧索硬化众筹中的关联",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
@@ -217,7 +294,7 @@
     {
       "id": "trial-NCT07322003",
       "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
-      "titleZh": "Pridopidine 治疗肌萎缩侧索硬化症的 III 期疗效与安全性研究",
+      "titleZh": "Pridopidine 治疗肌萎缩侧索硬化症的疗效与安全性的3期研究",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
@@ -228,7 +305,7 @@
     {
       "id": "pmid-42337904",
       "title": "Are patient-derived models of amyotrophic lateral sclerosis a game changer for novel drug discovery?",
-      "titleZh": "患者来源的肌萎缩侧索硬化模型是否成为新药发现的游戏规则改变者？",
+      "titleZh": "患者来源的肌萎缩侧索硬化模型是否是新药发现中的游戏规则改变者？",
       "category": "临床试验",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 9,
@@ -250,7 +327,7 @@
     {
       "id": "pmid-42335888",
       "title": "An emergent disease-associated motor neuron state precedes cell death in ALS.",
-      "titleZh": "一种新出现的疾病相关运动神经元状态在ALS中先于细胞死亡",
+      "titleZh": "一种新出现的疾病相关运动神经元状态先于ALS中的细胞死亡",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 9,
@@ -268,28 +345,6 @@
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42335378/"
-    },
-    {
-      "id": "pmid-42333954",
-      "title": "Thinning of the oral motor cortex is linked to impaired speech in amyotrophic lateral sclerosis.",
-      "titleZh": "口部运动皮层变薄与肌萎缩侧索硬化症言语障碍相关",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42333954/"
-    },
-    {
-      "id": "pmid-42229507",
-      "title": "Recalibration of implantable brain-computer interfaces to enable long-term independent use-a systematic review.",
-      "titleZh": "植入式脑机接口的重新校准以实现长期独立使用——一项系统综述",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42229507/"
     },
     {
       "id": "epmc-PPR-PPR1258245",
@@ -461,16 +516,16 @@
   "issueCounts": {
     "疑似误收": 4,
     "缺标识符": 0,
-    "缺摘要": 8,
-    "高优先级待复核": 27,
+    "缺摘要": 12,
+    "高优先级待复核": 28,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 37
+    "待复核": 40
   },
   "relevanceCounts": {
-    "medium": 6,
-    "high": 27,
+    "medium": 10,
+    "high": 26,
     "low": 4
   }
 }
