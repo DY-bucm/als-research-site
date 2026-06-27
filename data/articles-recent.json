@@ -1,14 +1,38 @@
 {
-  "updatedAt": "2026-06-26T14:52:32.889Z",
+  "updatedAt": "2026-06-27T08:12:45.841Z",
   "period": {
     "days": 10,
-    "from": "2026-06-17",
-    "to": "2026-06-26"
+    "from": "2026-06-18",
+    "to": "2026-06-27"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 62,
+  "count": 59,
   "articles": [
+    {
+      "id": "pmid-42360563",
+      "pmid": "42360563",
+      "doi": "10.1007/s10072-026-09203-0",
+      "title": "Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis.",
+      "abstract": "Although sensory nerve abnormalities have been reported in amyotrophic lateral sclerosis (ALS), their distribution at diagnosis, relative to motor involvement and clinical onset phenotype remains incompletely characterized. We aimed to systematically compare sensory and motor nerve conduction abnormalities at ALS diagnosis and determine whether sensory involvement follows an onset-dependent pattern similar to motor dysfunction. In this prospective cross-sectional study, 40 newly diagnosed ALS patients enrolled in the Iran University ALS Registry (March 2022-March 2023) underwent standardized motor and sensory nerve conduction studies (NCS). For between-group comparisons, a matched ALS subgroup was compared with matched healthy controls, while the expanded ALS cohort was used for subgroup and correlation analyses. SNAP amplitudes of the median, ulnar, and sural nerves were reduced by 45%, 34%, and 43%, respectively, compared with healthy controls, with similar reductions observed across upper- and lower-limb onset phenotypes and no significant onset-dependent differences. In contrast CMAP amplitudes were markedly reduced in ALS patients, most prominently in the peroneal (79%), median (47%), tibial (42%), and ulnar (37%) nerves. Motor abnormalities were most severe in the clinically affected limb but were also detectable in asymptomatic extremities, consistent with early subclinical spread. At ALS diagnosis, sensory and motor nerve conduction abnormalities exhibited divergent spatial patterns, with asymmetric, onset-related motor involvement and relatively uniform sensory axonal dysfunction. These findings support the presence of measurable sensory nerve conduction abnormalities in a subset of ALS patients, while highlighting the need for cautious interpretation of sensory NCS changes in ALS.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "authors": [
+        "Ketabforoush A",
+        "Arnold WD",
+        "Ariaei A",
+        "Faghihi F",
+        "Azedi F",
+        "Khalili M",
+        "Gholami F",
+        "Joghataei MT",
+        "Ashtiani BH"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42360563/"
+    },
     {
       "id": "pmid-42351263",
       "pmid": "42351263",
@@ -28,6 +52,52 @@
       ],
       "publishedAt": "2026-06-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42351263/"
+    },
+    {
+      "id": "pmid-42359947",
+      "pmid": "42359947",
+      "doi": "10.1080/21678421.2026.2692135",
+      "title": "Noninvasive assessment of cardiovascular autonomic reflexes in amyotrophic lateral sclerosis: a systematic review.",
+      "abstract": "Dysautonomia is gradually recognized in amyotrophic lateral sclerosis (ALS), raising concerns of secondary complications from heightened autonomic burden. Autonomic disturbances, particularly cardiac dysautonomia, significantly impact patient outcomes, contributing to increased cardiovascular risks and mortality rate. While the ALS Functional Rating Score-Revised (ALSFRS-R) measures functional decline as disease progress, it overlooks autonomic criteria - a critical factor in ALS progression. This review aims to analyze noninvasive applications of cardiovascular signal variability for continuous real-time monitoring of autonomic dysfunction in ALS, while addressing gaps in current clinical assessments. A total of 584 literatures were gathered from four databases (WoS, PubMed, Science Direct and MEDLINE EBSCOhost) - published from inception till December 2023. 21 peer-reviewed studies were included in this review after screening and meeting the inclusion criteria. Various cardiovascular signal variability metrics and autonomic protocols were discussed. Key findings highlight cardiac autonomic dysfunction in ALS is marked by reduced heart rate variability, absent blood pressure regulation upon orthostatic stress and circadian changes, prolonged QTc interval and low baroreflex sensitivity. Moreover, increased autonomic burden is associated with a shift from sympathetic to parasympathetic dysregulation as the disease progresses. Evidence highlights the need to integrate noninvasive autonomic biomarkers into digital ALS monitoring frameworks, enabling earlier detection of autonomic involvement and more precise longitudinal monitoring beyond motor decline.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Rozman SI",
+        "Hamzaid NA",
+        "Lim E",
+        "Hamzah N"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42359947/"
+    },
+    {
+      "id": "pmid-42360551",
+      "pmid": "42360551",
+      "doi": "10.1007/s12035-026-06008-2",
+      "title": "Targeting mtDNA to Modulate Mitochondrial Dysfunction in Neurodegenerative Diseases.",
+      "abstract": "Mitochondrial dysfunction is a common pathological feature of neurodegenerative diseases namely Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. Although these disorders are primarily driven by disease-specific genetic and proteopathic mechanisms, increasing evidence suggests that secondary mitochondrial DNA (mtDNA) damage and heteroplasmy shifts may exacerbate bioenergetic failure and neuronal vulnerability. Distinguishing primary disease mechanisms from downstream mtDNA alterations is critical to accurately evaluate emerging therapeutic strategies. Recent advances in mtDNA-targeted genome editing have enabled the direct manipulation of mitochondrial genomes. Mitochondrially targeted zinc finger nucleases and TALENs can selectively alter mutant mtDNA to induce heteroplasmy shifts, whereas DddA-derived cytosine base editors allow precise base editing without double-strand breaks. However, each platform has distinct limitations related to the target scope, off-target risk, design complexity, and delivery efficiency. The application of CRISPR/Cas-based systems to mammalian mtDNA remains constrained by the unresolved challenges in guiding RNA import. This review critically examines mitochondrial dysfunction and mutant mtDNA accumulation in neurodegenerative diseases. It also evaluates current and emerging mtDNA-editing techniques, and highlights key translational barriers. We highlighted that mtDNA-targeted interventions can be a promising approach for disease-modifying or adjunctive strategies, rather than curative approaches.",
+      "journal": "Molecular neurobiology",
+      "authors": [
+        "Pramanik S",
+        "Debnath B",
+        "Chakraborty A",
+        "Islam A",
+        "Mullick S",
+        "Chaudhary P",
+        "Nath R",
+        "Chellappan DK",
+        "Mondal M",
+        "Ashique S"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42360551/"
     },
     {
       "id": "pmid-42351313",
@@ -1335,161 +1405,6 @@
       ],
       "publishedAt": "2026-06-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316486/"
-    },
-    {
-      "id": "pmid-42310450",
-      "pmid": "42310450",
-      "doi": "10.1038/s41586-026-10653-x",
-      "title": "A mosaic of whole-body representations on the human precentral gyrus.",
-      "abstract": "Understanding how the body is represented in the motor cortex is key to understanding how the brain controls movement. Although the motor cortex has been mapped in animal models at a fine scale 1-10 , characterization in humans remains primarily limited to low-resolution recording 11-16 and stimulation techniques 17-20 . Here we created a comprehensive map of the human motor cortex at single-neuron resolution, spanning microelectrode array recordings from 20 arrays across 8 individuals with paralysis from spinal cord injury, amyotrophic lateral sclerosis or brainstem stroke, all enrolled in brain-computer interface clinical trials. These arrays broadly sample the crown of the precentral gyrus (PCG; thought to be composed largely of the premotor cortex (Brodmann area 6)). We found that body parts were highly intermixed, such that the entire body was represented in all sampled locations of the PCG, although the relative strength of body parts was roughly consistent with the motor homunculus 17,18 . We also found two speech-preferential areas with a broadly tuned, orofacial-dominant area in between them. Throughout the PCG, movement representations of the four limbs were interlinked, with homologous movements of different limbs (for example, toe curl and hand close) having correlated representations. These data provide evidence consistent with an intermixed, interrelated and behaviour-centred organization of the motor cortex 3,21 . The resulting map also provides important targeting information for brain-computer interfaces that seek to restore motor function.",
-      "journal": "Nature",
-      "authors": [
-        "Deo DR",
-        "Okorokova EV",
-        "Pritchard AL",
-        "Hahn NV",
-        "Card NS",
-        "Nason-Tomaszewski SR",
-        "Jude J",
-        "Hosman T",
-        "Choi EY",
-        "Qiu D",
-        "Meng Y",
-        "Wairagkar M",
-        "Nicolas C",
-        "Kamdar FB",
-        "Iacobacci C",
-        "Acosta A",
-        "Hochberg LR",
-        "Cash SS",
-        "Williams ZM",
-        "Rubin DB",
-        "Brandman DM",
-        "Stavisky SD",
-        "AuYong N",
-        "Pandarinath C",
-        "Downey JE",
-        "Bensmaia SJ",
-        "Henderson JM",
-        "Willett FR"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42310450/"
-    },
-    {
-      "id": "pmid-42307135",
-      "pmid": "42307135",
-      "doi": "10.1080/21678421.2026.2688249",
-      "title": "Brain activity in an end-stage ALS patient suggests the presence of an unresponsive wakefulness syndrome.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease primarily affecting motor neurons. It is widely assumed that cortical structures beyond motor neurons are relatively preserved, and patients in the end-stage ALS are regarded as being in complete locked-in syndrome (cLIS). However, emerging evidence suggests substantial heterogeneity in cognitive functioning among ALS patients, indicating possible extra-motor cortical involvement and impaired levels of consciousness. We report a case study assessing electrophysiological markers and auditory system integrity to evaluate the presence of covert consciousness in end-stage ALS. The patient was a 42-year-old woman with bulbar-onset, end-stage ALS, a six-year disease duration, and no means of communication. She underwent several EEG-based protocols, including resting-state EEG (RS-EEG), a passive auditory oddball paradigm, and 40 Hz auditory steady-state responses (ASSR). Audiological evaluation comprised transient-evoked and distortion-product otoacoustic emissions, as well as auditory brainstem responses (ABR). RS-EEG was dominated by prefrontal 1-3 Hz activity resembling frontal intermittent rhythmic delta activity. Power spectra were poorly differentiated and consistent with a 1/f profile. No event-related potentials were observed in the oddball paradigm, and no ASSR responses were detected. Audiological testing revealed absent otoacoustic emissions and ABR indicating severe to profound hearing loss. Our findings indicate severe cortical dysfunction and provide no electrophysiological evidence of covert consciousness. The electrophysiological profile closely resembles that observed in unresponsive wakefulness syndrome. This case supports the hypothesis that advanced ALS following cLIS onset may be more appropriately conceptualized as a disorder of consciousness rather than persistent cLIS.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Frycz S",
-        "Więcławski W",
-        "Skotniczny M",
-        "Binder M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42307135/"
-    },
-    {
-      "id": "pmid-42310788",
-      "pmid": "42310788",
-      "doi": "10.1186/s13023-026-04417-z",
-      "title": "Co-development of a genetic care pathway for ALS: real-world perspectives from the North of England.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a rare, progressive neurodegenerative disorder, with a substantial proportion of cases attributed to genetic factors. Recent advances in gene discovery and genomic technologies have transformed ALS care by enabling genomic testing to inform prognosis, assess familial risk, and facilitate access to novel therapies. However, guidance on the delivery of genetic testing and counselling in ALS remains limited, leading to variability in clinical practice. In response, the Manchester Motor Neuron Disease (MND) Care Centre and the Manchester Centre for Genomic Medicine co-developed a structured genetic care pathway for ALS, drawing on real-world data, patient engagement, and multidisciplinary collaboration. A retrospective evaluation of 326 ALS patients at the Manchester MND Care Centre identified significant variability in genetic testing uptake, counselling practices, and record-keeping. Patient survey and engagement sessions revealed uncertainty regarding key genetic concepts and inconsistent recall of pre- and post-test discussions. Priorities for improvement included clearer communication, standardised discussions, and enhanced support for families following genetic findings. Consequently, the Greater Manchester ALS Genetic Testing Pathway was developed by a multidisciplinary team, incorporating consensus-based steps for patient identification, pre-test conversations, consent, testing, results disclosure, and post-test support. This pathway integrates genetic testing into routine ALS care, clarifies team responsibilities, and establishes a framework for ongoing evaluation using key performance indicators. Patient and staff feedback is used to support continuous improvement. The co-developed ALS genetic testing pathway provides a scalable model for standardising genomic care in mainstream clinical settings. By establishing clear processes for genetics discussions, consent, and follow-up, the pathway seeks to improve equity, transparency, and person-centred care. Ongoing evaluation and collaboration with patients, clinicians, and genetic services are essential to ensure the pathway remains responsive to scientific advances and evolving patient needs. Wider adoption of structured genetic pathways may facilitate the integration of genomics into care for rare diseases across healthcare systems.",
-      "journal": "Orphanet journal of rare diseases",
-      "authors": [
-        "Wood C",
-        "Brown G",
-        "Chalk K",
-        "Smith SH",
-        "Williams H",
-        "Broadhurst G",
-        "Ealing J",
-        "Hamdalla H",
-        "Breen C",
-        "Macleod R",
-        "Chaouch A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42310788/"
-    },
-    {
-      "id": "pmid-42156174",
-      "pmid": "42156174",
-      "doi": "10.1523/JNEUROSCI.1803-25.2026",
-      "title": "COMMD1 Induces Copper Deficiency of SOD1 by Inhibiting the Palmitoylation of CCS in ALS.",
-      "abstract": "Mutations in superoxide dismutase 1 (SOD1) compromise its metal-binding capacity, resulting in protein misfolding and aggregation, which ultimately induces cellular apoptosis in amyotrophic lateral sclerosis (ALS). Copper metabolism domain containing 1 (COMMD1), a gene implicated in copper homeostasis, has not been thoroughly characterized in the context of ALS pathogenesis. In this study, we identified elevated COMMD1 expression in ALS, potentially contributing to diminished copper incorporation into SOD1. Knockdown of COMMD1 enhanced palmitoylation of the copper chaperone for SOD1 (CCS), facilitating its membrane translocation and promoting copper loading into SOD1, thereby conferring neuroprotection in ALS. Mechanistically, we established that COMMD1 knockdown augments CCS palmitoylation via activation of the hypoxia-inducible factor 1 subunit alpha (HIF-1α)/fatty acid synthase (FASN) signaling axis. In vivo investigations utilizing male hSOD1 G93A transgenic mice demonstrated that COMMD1 deficiency markedly ameliorated the deterioration of motor function and prolonged survival duration. These findings collectively suggest that COMMD1 represents a potential therapeutic target for ALS intervention.",
-      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-      "authors": [
-        "Su X",
-        "Tan X",
-        "Wang Y",
-        "Liang W",
-        "Wang D",
-        "Huo D",
-        "Wang H",
-        "Qi Y",
-        "Zhang W",
-        "Han L",
-        "Zhang D",
-        "Wang M",
-        "Xu J",
-        "Wang S",
-        "Wang J",
-        "Feng H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42156174/"
-    },
-    {
-      "id": "pmid-42352358",
-      "pmid": "42352358",
-      "doi": "10.3390/biom16060893",
-      "title": "Extracellular Pgk1 or Its Derived Short Peptide Interacted with Membrane-Associated Enolase 2 Receptor: A Potential Therapy for ALS Motor Neuron Degeneration.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) remains an intractable motor neuron (MN) disease with a growing patient population and few effective treatments. Here, we review how extracellular phosphoglycerate kinase 1 (ePgk1) improves neurite outgrowth of MNs (NOMN) and axonal growth, both in vitro and in vivo. Our group first elucidated a novel non-canonical function of ePgk1 as a cross-tissue mediator between nerve and muscle tissues. We then discovered that neural membranous Enolase 2 (Eno2) serves as a receptor of ligand ePgk1 and that ePgk1-Eno2 interaction suppresses the Rac1-GTP/p-Pak1-T423/p-P38-T180/pMK2-T334/p-Limk1-S323 axis, reducing p-Cofilin and promoting NOMN and axonal growth, finally suggesting that the 419th aspartic acid residue of Eno2 mediates this interaction. In a crucial preclinical step, we truncated two short 16-amino-acid derivatives from Pgk1, FD-1/-2, each mediating neuroprotection comparable to that of full-length 417-amino-acid Pgk1 in ALS animal models, in terms of improvements of innervated neuromuscular junction, MN cell bodies, motor performance, and endpoint prolongation. In this context, we also discuss the opposite function driven by Eno1-plasminogen interaction and by Eno2-ePgk1 interaction; the latter results in unfavorable for tumorigenesis. Unlike intracellular Pgk1 roles, ePgk1 is an extracellular factor with anti-angiogenic properties, further positioning ePgk1 and its FD-1/-2 as promising protein/peptide drugs for ALS treatment.",
-      "journal": "Biomolecules",
-      "authors": [
-        "Lee BC",
-        "Hwang JJ",
-        "Tsai HJ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42352358/"
-    },
-    {
-      "id": "pmid-42309005",
-      "pmid": "42309005",
-      "doi": "10.1016/j.neuron.2026.04.030",
-      "title": "Limiting neurodegeneration in ALS: A phosphatase paves the way.",
-      "abstract": "Zheng et al. identify phosphatase PGAM5 as a novel promising target for the treatment of different amyotrophic lateral sclerosis subtypes. PGAM5 dephosphorylates and activates the stress-regulated mitochondrial peptidase OMA1, which elicits a maladaptive mitochondrial integrated stress response in motor neurons.",
-      "journal": "Neuron",
-      "authors": [
-        "Rugarli EI",
-        "Langer T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42309005/"
     }
   ]
 }

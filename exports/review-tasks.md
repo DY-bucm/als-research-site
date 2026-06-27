@@ -1,6 +1,6 @@
 # 复核任务清单
 
-- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展 (pmid-42359165)
+- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展 (pmid-42359165)
   - https://pubmed.ncbi.nlm.nih.gov/42359165/
 - [ ] [高优先级] 优化的多重免疫荧光方案用于同时原位鉴定α运动神经元亚型 (pmid-42214472)
   - https://pubmed.ncbi.nlm.nih.gov/42214472/
@@ -8,7 +8,7 @@
   - https://pubmed.ncbi.nlm.nih.gov/42359357/
 - [ ] [高优先级] ALS中TDP-43病理的PBMC DEG/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
-- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变 (pmid-42242586)
+- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P2不足引起的神经退行性变 (pmid-42242586)
   - https://pubmed.ncbi.nlm.nih.gov/42242586/
 - [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
@@ -16,40 +16,48 @@
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
 - [ ] [高优先级] IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态 (pmid-42341041)
   - https://pubmed.ncbi.nlm.nih.gov/42341041/
+- [ ] 评估ALS中上运动神经元功能障碍：从TMS-EEG和EMG神经生理学到联合tFUS-TMS转化框架 (epmc-PMC-PMC13293938)
+  - https://europepmc.org/article/PMC/PMC13293938
+- [ ] [疑似误收] 社论：神经肌肉疾病——生物标志物、精准诊断与靶向治疗 (epmc-PMC-PMC13294195)
+  - https://europepmc.org/article/PMC/PMC13294195
+- [ ] [疑似误收] 乙酰胆碱受体抗体阳性重症肌无力与肯尼迪病重叠综合征：一例病例报告及文献综述 (epmc-PMC-PMC13294539)
+  - https://europepmc.org/article/PMC/PMC13294539
+- [ ] [疑似误收] [高优先级] 脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷 (pmid-42362038)
+  - https://pubmed.ncbi.nlm.nih.gov/42362038/
+- [ ] ALS诊断时感觉神经传导异常的特征分析 (pmid-42360563)
+  - https://pubmed.ncbi.nlm.nih.gov/42360563/
+- [ ] [高优先级] 靶向线粒体DNA调控神经退行性疾病中的线粒体功能障碍 (pmid-42360551)
+  - https://pubmed.ncbi.nlm.nih.gov/42360551/
+- [ ] [高优先级] 肌萎缩侧索硬化症中心血管自主神经反射的无创评估：一项系统综述 (pmid-42359947)
+  - https://pubmed.ncbi.nlm.nih.gov/42359947/
 - [ ] [高优先级] 运动神经元疾病中通过细胞外囊泡实现的骨骼肌信号动态整合 (pmid-42351263)
   - https://pubmed.ncbi.nlm.nih.gov/42351263/
 - [ ] [高优先级] 异构体特异性立体拉链驱动缩短型TDP-43的异常组装和错误定位 (pmid-42341118)
   - https://pubmed.ncbi.nlm.nih.gov/42341118/
 - [ ] [高优先级] 点亮错误定位的蛋白质：用于神经退行性疾病中多重细胞质选择性细胞分析的量子点探针 (pmid-42165374)
   - https://pubmed.ncbi.nlm.nih.gov/42165374/
-- [ ] [高优先级] 一个影响NEK1激酶功能的罕见错义变异与ALS相关 (pmid-42351313)
-  - https://pubmed.ncbi.nlm.nih.gov/42351313/
-- [ ] [高优先级] 学习一种距离用于肌萎缩侧索硬化症患者的聚类分析 (pmid-42351201)
-  - https://pubmed.ncbi.nlm.nih.gov/42351201/
-- [ ] [高优先级] 静脉注射工程化AAV9基因沉默载体抑制人SOD1并延长ALS小鼠模型生存期 (pmid-42350385)
-  - https://pubmed.ncbi.nlm.nih.gov/42350385/
-- [ ] [高优先级] 核凋亡介导蛋白毒性应激下的细胞死亡与神经退行性变 (pmid-42350373)
-  - https://pubmed.ncbi.nlm.nih.gov/42350373/
-- [ ] [疑似误收] 通过调节自噬受体SQSTM1重编程ALS (epmc-MED-42349421)
-  - https://doi.org/10.1016/j.stemcr.2026.102976
-- [ ] [疑似误收] [高优先级] ALS和FTD相关蛋白annexin A11与CHMP2B在质膜修复中顺序作用 (epmc-MED-42349418)
-  - https://doi.org/10.1016/j.devcel.2026.05.014
-- [ ] 肌萎缩侧索硬化症。 (epmc-MED-42348198)
-  - https://doi.org/10.1001/jama.2026.9755
-- [ ] 额颞叶痴呆与运动神经元病谱系的临床与文献见解 (epmc-MED-42348055)
-  - https://doi.org/10.1007/s44192-026-00524-2
-- [ ] 德国版维度性淡漠量表（G-DAS）的验证：在肌萎缩侧索硬化症中的应用 (epmc-MED-42347833)
-  - https://doi.org/10.1111/jnp.70061
-- [ ] [疑似误收] 待复核翻译：Formaldehyde neurotoxicity: Effects on the mammalian brain, cognitive function, and neurodegenerative risk. A scoping review. (epmc-MED-42345500)
-  - https://doi.org/10.17219/acem/209617
-- [ ] STMN2 protein depletion via translation deficits and stress granules in 肌萎缩侧索硬化症. (epmc-MED-42343570)
-  - https://doi.org/10.1093/brain/awag222
-- [ ] [疑似误收] Immune checkpoint LAG-3 governs stage-dependent and disease-associated 小胶质细胞l modules in ALS model mice. (epmc-MED-42343420)
-  - https://doi.org/10.1186/s12974-026-03919-8
-- [ ] Targeting lipid nanoparticle mediated co-delivery of edaravone and kaempferol for 肌萎缩侧索硬化症 therapy. (epmc-MED-42171198)
-  - https://doi.org/10.1039/d6nr00300a
-- [ ] 肌萎缩侧索硬化症: A rare but aggressive adult-onset disease. (epmc-MED-42342533)
-  - https://doi.org/10.1016/j.molmed.2026.06.001
+- [ ] [疑似误收] ATF4在神经元中的双重作用：从应激适应到治疗干预 (epmc-PMC-PMC13294100)
+  - https://europepmc.org/article/PMC/PMC13294100
+- [ ] [疑似误收] AI辅助相干拉曼散射显微镜的临床转化 (epmc-PMC-PMC13291945)
+  - https://europepmc.org/article/PMC/PMC13291945
+- [ ] [疑似误收] 待复核翻译：Oxidative stress and molecular chaperones: a dynamic crosstalk in neurodegenerative disorders (epmc-PMC-PMC13293329)
+  - https://europepmc.org/article/PMC/PMC13293329
+- [ ] [疑似误收] 待复核翻译：Global research trends and hotspots of exosome-mediated drug delivery across the blood-brain barrier: a bibliometric study from 2015 to 2025 (epmc-PMC-PMC13290968)
+  - https://europepmc.org/article/PMC/PMC13290968
+- [ ] [疑似误收] Mesenchymal stromal/干细胞s for neurological disorders in humans: an evidence-mapped clinical review (epmc-PMC-PMC13290518)
+  - https://europepmc.org/article/PMC/PMC13290518
+- [ ] [疑似误收] 待复核翻译：Mass spectrometry-based metabolomics approaches to interrogate host-microbiome interactions in mammalian systems. (epmc-MED-40521991)
+  - https://doi.org/10.1039/d5np00021a
+- [ ] [疑似误收] 待复核翻译：ADAR2-Mediated RNA Editing Promotes TDP-43 Nuclear Export and Alters RNA Binding (epmc-PPR-PPR1260597)
+  - https://doi.org/10.64898/2026.06.22.730622
+- [ ] [疑似误收] 待复核翻译：A rare missense variant impacting NEK1 kinase function is associated with ALS. (epmc-MED-42351313)
+  - https://doi.org/10.1186/s40478-026-02351-6
+- [ ] Learning a distance for the clustering of patients with 肌萎缩侧索硬化症. (epmc-MED-42351201)
+  - https://doi.org/10.1186/s13040-026-00579-5
+- [ ] 待复核翻译：Intravenous administration of an engineered AAV9-gene-silencing vector suppresses human SOD1 and extends survival in an ALS mouse model. (epmc-MED-42350385)
+  - https://doi.org/10.1038/s41467-026-74169-8
+- [ ] [疑似误收] 待复核翻译：Karyoptosis mediates cell death and neurodegeneration upon proteotoxic stress. (epmc-MED-42350373)
+  - https://doi.org/10.1038/s41467-026-73802-w
 - [ ] [高优先级] Ph1 T-Regulatory Cells in 肌萎缩侧索硬化症 (trial-NCT03241784)
   - https://clinicaltrials.gov/study/NCT03241784
 - [ ] [高优先级] Virtual Reality for Anxiety Management in Persons With 肌萎缩侧索硬化症 (trial-NCT07473765)
