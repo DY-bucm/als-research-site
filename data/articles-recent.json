@@ -1,14 +1,53 @@
 {
-  "updatedAt": "2026-06-27T08:12:45.841Z",
+  "updatedAt": "2026-06-28T09:48:36.885Z",
   "period": {
     "days": 10,
-    "from": "2026-06-18",
-    "to": "2026-06-27"
+    "from": "2026-06-19",
+    "to": "2026-06-28"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 59,
+  "count": 50,
   "articles": [
+    {
+      "id": "pmid-42365390",
+      "pmid": "42365390",
+      "doi": "10.1186/s40035-026-00561-5",
+      "title": "Lysophagy protects against ANXA11 amyloid fibril toxicity and propagation in FTLD.",
+      "abstract": "Accumulation of Annexin A11 (ANXA11) aggregates is a distinct pathological hallmark of amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD). While genetic studies have linked ANXA11 mutations (e.g., D40G) to disease, the precise molecular events converting aggregation into neurotoxicity and intercellular propagation remain elusive. We hypothesize that lysosomal integrity serves as a critical checkpoint in ANXA11 proteinopathy and that its failure drives disease progression. To model the human pathology of ANXA11, we generated pre-formed fibrils (PFFs) of wild-type and FTLD/ALS-linked D40G mutant ANXA11. Human iPSC-derived neurons, 3D cerebral organoids, and bulk RNA-sequencing were employed to investigate neurotoxicity. High-resolution imaging, lentiviral knockdown, and biochemical assays were performed to delineate the lysosomal damage response and the subsequent \"prion-like\" spreading of aggregates. The internalized ANXA11 fibrils accumulated in lysosomes, triggering lysosomal membrane permeabilization (LMP). The D40G mutation exacerbated this toxicity, leading to severe LMP, mitochondrial depolarization, and specific transcriptional downregulation of the dynactin subunit ACTR10. Mechanistically, we identified a protective signaling axis involving p38 MAPK, MK2, and HSP27 that senses ANXA11-induced lysosomal damage and initiates lysophagy. Notably, in human cerebral organoids, failure of this lysophagic clearance facilitated the cytoplasmic escape of ANXA11, thereby accelerating its seeding activity and propagation to neighboring cells. Pharmacological or genetic modulation of this pathway significantly altered neuronal survival. Our study established lysosomal rupture as a primary driver of ANXA11-associated neurodegeneration and validated the p38/MK2/HSP27 axis as a crucial defense mechanism in human neural tissue. These findings provide a novel mechanistic link between lysosomal quality control and ANXA11 propagation, highlighting that enhancing lysophagic flux represents a promising translational strategy to halt the progression of FTLD and ALS.",
+      "journal": "Translational neurodegeneration",
+      "authors": [
+        "Zheng H",
+        "Luo H",
+        "Lu Y",
+        "Yuan Y",
+        "Zhang N",
+        "Duan S",
+        "Xia Z",
+        "Xu Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365390/"
+    },
+    {
+      "id": "pmid-42364760",
+      "pmid": "42364760",
+      "doi": "10.1016/j.biosystems.2026.105862",
+      "title": "The impedance mismatch theory: A non-equilibrium thermodynamic framework for a shared energetic stress pathway in neurodegeneration.",
+      "abstract": "Current neurobiological models of Amyotrophic Lateral Sclerosis (ALS), Multiple Sclerosis (MS), and Huntington's Disease (HD) utilize multi-omic interactome analyses to map cascades of proteinopathy. While essential, these approaches often overlook the macroscopic thermodynamic limits of the neural substrate as an information processing system. We propose the Impedance Mismatch Theory, a theoretical biophysical model and quantitative framework for the thermodynamic limits of neural computation, positing that these distinct pathologies converge as a shared energetic stress pathway. We introduce the Neurophysiological Load Index (NLI)-a dimensionless parameter quantifying the mismatch between electrical computational drive, topological network impedance, and the local structural and microvascular dissipation capacity. Drawing on the Pennes Bioheat Transfer Equation and insights from multiplex network theory, we hypothesize that pathology initiates as localized thermal runaway, where resistive metabolic heat exceeds convective blood perfusion and thermal conduction, inducing acute decompensation. We outline cross-translational disease-network mechanisms, address the inverse cancer comorbidity paradox via speculative bioelectric attractor states, and propose falsifiable predictions involving high-resolution in vivo proton magnetic resonance spectroscopy thermometry ( 1 H-MRS-t) and phosphorus-31 magnetic resonance spectroscopy ( 31 P-MRS).",
+      "journal": "Bio Systems",
+      "authors": [
+        "Baird KT"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42364760/"
+    },
     {
       "id": "pmid-42360563",
       "pmid": "42360563",
@@ -1140,271 +1179,6 @@
       ],
       "publishedAt": "2026-06-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318818/"
-    },
-    {
-      "id": "pmid-42311066",
-      "pmid": "42311066",
-      "doi": "10.1093/brain/awag211",
-      "title": "Amyotrophic lateral sclerosis as a network disease: from metabolic decline to network failure.",
-      "abstract": "",
-      "journal": "Brain : a journal of neurology",
-      "authors": [
-        "Dubbioso R",
-        "Pappatà S"
-      ],
-      "publicationTypes": [
-        "Editorial",
-        "Comment"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42311066/"
-    },
-    {
-      "id": "pmid-42312942",
-      "pmid": "42312942",
-      "doi": "10.7554/eLife.108672",
-      "title": "Enterovirus D68 2A protease causes nuclear pore complex dysfunction and independently contributes to motor neuron toxicity.",
-      "abstract": "Enterovirus D68 (EV-D68) is an important pathogen associated with acute flaccid myelitis (AFM). The pathogenesis of AFM involves infection of spinal motor neurons and motor neuron death; however, the mechanisms linking EV-D68 infection to selective neurotoxicity are not well understood. Dysfunction of the nuclear pore complex (NPC) has been implicated in motor neuron injury in neurodegenerative diseases such as amyotrophic lateral sclerosis, and the NPC is also modified by picornavirus proteases during infection. We therefore sought to determine the impact of EV-D68 proteases on NPC composition and function. We demonstrate widespread disruption of NPC composition by EV-D68 2A and 3C proteases via direct cleavage of a relatively small number of nucleoporins, notably Nup98 and POM121, by 2A pro . Using reporter systems, we demonstrate that 2A pro inhibits nuclear transport of protein cargoes and disrupts the permeability barrier of the NPC, while having no apparent effect on RNA export. Independently, we show 2A pro is toxic to induced pluripotent stem cell-derived motor neurons by demonstrating a rescue of toxicity with the 2A pro inhibitor telaprevir at concentrations insufficient to inhibit viral replication. These findings expand our understanding of EV-D68 neuropathogenesis and provide a rationale for studying the NPC or 2A pro as therapeutic targets in AFM.",
-      "journal": "eLife",
-      "authors": [
-        "Zinn KM",
-        "McLaren MW",
-        "Imai MT",
-        "Jayaram MM",
-        "Rothstein JD",
-        "Elrick MJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42312942/"
-    },
-    {
-      "id": "pmid-42313222",
-      "pmid": "42313222",
-      "doi": "10.1007/s10528-026-11415-0",
-      "title": "Exercise-Driven NRF2 Activation as a Systemic Neuroprotective Strategy: Integrating Redox Biology, Muscle-Brain Crosstalk, and Therapeutic Targeting in Neurodegeneration.",
-      "abstract": "Neurodegenerative diseases, including Alzheimer's, Parkinson's, and Huntington's diseases, are characterized by progressive neuronal dysfunction and loss. Recent evidence highlights the importance of the nuclear factor erythroid 2-related factor 2 (NRF2) pathway, a key regulator of cellular defense mechanisms, in maintaining neuronal health and function. A narrative literature search was conducted using PubMed, Scopus, Web of Science, and Google Scholar to identify relevant experimental, clinical, and review studies on NRF2 signaling, physical exercise, oxidative stress, muscle-brain crosstalk, and neurodegenerative diseases. Keywords included \"NRF2\", \"Nrf2/Keap1/ARE\", \"physical exercise\", \"exercise-induced oxidative stress\", \"myokines\", \"exerkines\", \"Alzheimer's disease\", \"Parkinson's disease\", \"Huntington's disease\", and \"amyotrophic lateral sclerosis\". NRF2 modulates the expression of a variety of antioxidant and cytoprotective genes, contributing to the protection of neurons against oxidative stress, inflammation, and protein aggregation, processes central to the pathogenesis of neurodegenerative diseases. Additionally, physical activity has been identified as a powerful modulator of NRF2 activation, with exercise offering neuroprotective effects through the induction of NRF2-mediated pathways. This review explores the interplay between NRF2 activation and physical exercise in the context of neurodegenerative diseases, detailing the molecular mechanisms by which exercise influences NRF2 activity to combat cellular damage and enhance neuroprotection. We discuss the therapeutic potential of combining exercise regimens with NRF2-targeted therapies, highlighting the promise of this dual approach in slowing disease progression, improving cognitive function, and enhancing quality of life in affected individuals. Furthermore, we examine the challenges and future directions for clinical implementation, including optimal exercise protocols and the development of NRF2-based pharmacological interventions. This review underscores the importance of NRF2 as a central mediator of neuroprotection and the therapeutic promise of physical activity in the management of neurodegenerative diseases.",
-      "journal": "Biochemical genetics",
-      "authors": [
-        "Deng P",
-        "Deng W",
-        "Wang L",
-        "Ye W",
-        "Li S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42313222/"
-    },
-    {
-      "id": "pmid-42314891",
-      "pmid": "42314891",
-      "doi": "10.1016/j.ijbiomac.2026.153101",
-      "title": "Folding pathways and force-induced unfolding of neurodegeneration associated GGGGCC microsatellite repeat RNA revealed by molecular simulations.",
-      "abstract": "An intronic G4C2 hexanucleotide repeat expansion in the C9orf72 gene causes amyotrophic lateral sclerosis and frontotemporal dementia (C9ALS/FTD). G4C2 RNA itself directly contributes to disease mechanisms and has emerged as a potential target for small molecules, anti-sense oligonucleotides (ASOs), and CRISPR-based therapeutics. Hence, understanding the folding/unfolding and structural polymorphism is essential for G4C2 RNA-targeting therapies. Here, using equilibrium all-atom molecular dynamics (MD) simulations, we explored potential intermediate metastable conformations of the G4C2 RNA repeats and investigated the effect of repeat length on folding. G4C2 RNA undergoes an ensemble of intermediate metastable states resembling hairpin, knot, and a G-quadruplex (GQ) like structures. Enhanced torsional flexibility and conformational heterogeneity were observed with increasing repeat length. Next, using a crystallized G4C2 RNA structure in GQ conformation, we performed equilibrium MD simulations to reveal its thermodynamic stability. Steered molecular dynamics (SMD) simulations with a reduced model of G4C2 GQ uncover two distinct unfolding mechanisms along the chosen reaction coordinates: strand slippage and unzipping. Overall, our findings provide molecular-level insights into the folding and force-induced unfolding dynamics of G4C2 repeat RNA GQ and set a platform for future studies on small-molecule targeting of ALS/FTD-associated G4C2 RNA.",
-      "journal": "International journal of biological macromolecules",
-      "authors": [
-        "Yadav P",
-        "Malik I",
-        "Joshi H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42314891/"
-    },
-    {
-      "id": "pmid-42316301",
-      "pmid": "42316301",
-      "doi": "10.1186/s40478-026-02341-8",
-      "title": "Intrathecal (G 4 C 2 ) 149 delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
-      "abstract": "A repeat expansion in C9ORF72 is the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), yet existing mouse models incompletely engage spinal regions implicated in disease. Here, an adeno-associated virus encoding (G 4 C 2 ) 149 repeats was delivered via neonatal intrathecal injection, achieving widespread CNS expression with robust spinal cord targeting. This approach was applied to mice with graded loss of endogenous C9orf72 to interrogate both gain- and loss-of-function mechanisms. Longitudinal motor, behavioral, and pathological analyses revealed that repeat expression primarily drives mild, progressive muscle weakness, whereas coordination deficits were largely genotype dependent. Subtle gait abnormalities and hyperactivity were also observed. Within spinal motor regions, repeat-expressing mice exhibited dipeptide repeat protein accumulation, reduced NeuN-positive area, fewer motor neurons, glial activation, sparse phosphorylated TDP-43 pathology, and increased cryptic TDP-43 splicing. Cross-domain correlations further linked repeat expression, spinal pathology, and motor dysfunction. Collectively, these findings establish that CNS-wide repeat expression combined with reduced C9orf72 produces a coherent, mild ALS/FTD model.",
-      "journal": "Acta neuropathologica communications",
-      "authors": [
-        "Russell KA",
-        "Shahrabi AA",
-        "Akerman SC",
-        "Byrne MD",
-        "Rothstein JD",
-        "Trotti D",
-        "Jensen BK",
-        "Haeusler AR"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42316301/"
-    },
-    {
-      "id": "pmid-42313307",
-      "pmid": "42313307",
-      "doi": "10.1007/s11033-026-12128-8",
-      "title": "Microglia-driven neuroinflammatory signaling in neurodegeneration: mechanisms and therapeutic opportunities.",
-      "abstract": "Neuroinflammation has been identified as a major component to the pathogenesis and progression of many neurodegenerative illnesses, going beyond its traditional role as a protective immune response within central nervous system (CNS). There is growing evidence that persistent activation of peripheral immune pathways, microglia and astrocytes causes progressive neurodegeneration, synaptic loss and progressive neurodegeneration. This review examines the mechanisms of microglia- driven neuroinflammatory signaling and its involvement in major neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis and Huntington's disease. Key neuroinflammatory mechanisms covered in depth including microglial activation, astrocyte reactivity, peripheral immune cell infiltration, cytokine dysregulation, and blood brain barrier (BBB) disruption. This review also emphasizes the role of neuroinflammation in acute neurological symptoms and mental and cognitive impairments. Glial activation markers, inflammatory cytokines, BBB proteins and kynurenine pathway metabolites are emerging as promising biomarkers for disease diagnosis and monitoring. Additionally, the potential of new mathematical and systems level computational models to describe intricate neuroimmune interactions and forecast the course of disease and treatment results is investigated. Current and emerging therapies targeting neuroinflammation include anti-inflammatory and immunomodulatory drugs, lifestyle interventions, stem cell approaches, gene-editing technologies and nanoparticle-based drug delivery systems. Despite significant progress, translating preclinical findings into effective clinical therapies remains challenging. Future developments in integrative neuroimmune modeling, biomarker-guided therapies and precision medicine may make it possible to create individualized treatments plans targeted at reducing neuroinflammation and enhancing the course of neurodegenerative illnesses.",
-      "journal": "Molecular biology reports",
-      "authors": [
-        "Saini K",
-        "Dhiman P"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42313307/"
-    },
-    {
-      "id": "pmid-42353250",
-      "pmid": "42353250",
-      "doi": "10.3390/ijms27125537",
-      "title": "Microglial Dysfunction Induced by C9ORF72 Dipeptide Repeat Proteins: Biomarker and Therapeutic Perspectives.",
-      "abstract": "The GGGGCC hexanucleotide repeat expansion (HRE) in C9ORF72 was recognized as the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Repeat-associated non-AUG (RAN) translation of the expanded repeat generated dipeptide repeat proteins (DPRs), which disrupted multiple cellular processes and contributed to neurodegeneration. Emerging evidence indicated that disease pathogenesis involved both gain-of-function (GOF) and loss-of-function (LOF) mechanisms. DPR-mediated GOF toxicity induced ribosomal dysfunction, nucleolar stress, proteostatic impairment, and neuronal injury, whereas C9ORF72 LOF disrupted lysosomal and autophagic pathways in microglia, impairing the immune homeostasis. Neuronal injury further promoted the release of damage-associated signals that triggered secondary microglial activations and chronic neuroinflammations. This review summarized current knowledge of DPR biology, microglial dysfunction, and their contributions to disease progression in C9ORF72-associated ALS/FTD. Therapeutic strategies targeting repeated RNA, DPR productions, proteostasis, autophagy, and neuroinflammatory pathways were also discussed. In addition, the potentials of fluid biomarkers, including cerebrospinal fluid poly (GP) and blood neurofilament light chain (NfL), for diagnosis, disease monitoring, and therapeutic assessment were shown. Together, these findings provided important insights into disease mechanisms and potential avenues for improved clinical management.",
-      "journal": "International journal of molecular sciences",
-      "authors": [
-        "Sharma N",
-        "An SSA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42353250/"
-    },
-    {
-      "id": "pmid-42320255",
-      "pmid": "42320255",
-      "doi": "10.1016/j.parkreldis.2026.108398",
-      "title": "POLG-associated Parkinson's disease-ALS overlap: A novel variant and first reported use of continuous subcutaneous foslevodopa/foscarbidopa infusion in Brait-Fahn-Schwartz disease.",
-      "abstract": "A 38-year-old Emirati man developed levodopa-responsive young-onset parkinsonism followed by electrophysiologically confirmed amyotrophic lateral sclerosis consistent with Brait-Fahn-Schwartz disease. Whole-genome sequencing identified a novel heterozygous POLG variant (c.2620T > A; p. Leu874Met). Motor fluctuations on oral therapy prompted escalation to continuous subcutaneous foslevodopa/foscarbidopa infusion, achieving near-complete motor normalization at twelve months. This is the first reported use of device-aided therapy in POLG-associated parkinsonian-ALS overlap.",
-      "journal": "Parkinsonism & related disorders",
-      "authors": [
-        "Waqar K",
-        "Shaqfeh M",
-        "Mittal SO"
-      ],
-      "publicationTypes": [
-        "Letter"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320255/"
-    },
-    {
-      "id": "pmid-42310298",
-      "pmid": "42310298",
-      "doi": "10.1038/s41419-026-08971-z",
-      "title": "Sex-linked helicases DDX3X and DDX3Y regulate G-quadruplex-associated stress in neurons.",
-      "abstract": "G-quadruplexes (G4s) are four-stranded nucleic acid structures that regulate virtually all nucleic acid-dependent cellular processes. At present, most functional studies involving G4s have focused on cancer cells. This study investigated how neurons respond to genotoxic stress induced by quarfloxin (CX-3543), a small molecule that stabilizes G4s. We found that quarfloxin treatment induced DNA damage in neurons, with double-strand breaks enriched in the nucleolus. Proteomic analysis revealed that quarfloxin promoted substantial protein changes, affecting networks associated with Alzheimer's, Parkinson's, and Huntington's diseases, and amyotrophic lateral sclerosis. Among the affected proteins, the G4 helicase DDX3X, encoded on the X chromosome, was upregulated, prompting further investigation of DDX3X and its Y-linked homolog DDX3Y in male and female neurons, respectively. RNA sequencing identified DDX3X- and DDX3Y-regulated gene networks involved in DNA damage responses, inflammation, cell cycle regulation, and stress-associated pathways, with notable sex-dependent differences. In human brain tissue, DDX3X expression and nuclear enrichment were increased in neurons from older females compared to younger individuals, with further elevation observed in Alzheimer's disease. Taken together, these findings identify DDX3X and DDX3Y as modulators of neuronal stress responses downstream of G4 stabilization and indicate that their induction is accompanied by activation of DNA damage response genes, as well as cell cycle- and inflammation-associated pathways, suggesting that sustained activation of these pathways may disrupt neuronal homeostasis. Our study provides insight into G4-dependent stress mechanisms in neurons and highlights sex-linked pathways that may contribute to brain aging and neurodegenerative disease vulnerability.",
-      "journal": "Cell death & disease",
-      "authors": [
-        "Diaz Escarcega R",
-        "M J VK",
-        "Arizmendez A",
-        "Tan C",
-        "Urayama A",
-        "Marrelli SP",
-        "Morales R",
-        "Wefel JS",
-        "Zhang C",
-        "McCullough LD",
-        "Kim N",
-        "Monchaud D",
-        "Jung SY",
-        "Tsvetkov AS"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42310298/"
-    },
-    {
-      "id": "pmid-42315356",
-      "pmid": "42315356",
-      "doi": "10.1136/bmjopen-2025-110906",
-      "title": "Strategic Amyotrophic Lateral Sclerosis Australia-Systems Genomics Consortium (SALSA-SGC): cohort profile.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a rapidly progressive neurodegenerative motor neuron disease (MND) with heterogeneity in disease onset, progression and treatment response. The Strategic ALS Australia-Systems Genomics Consortium (SALSA-SGC) was established in recognition of the need for large data sets of clinical data matched with biological samples to enable and foster ALS research and better understanding of aetiology and biological mechanisms. SALSA-SGC brought together the major Australian MND clinics to set up sustainable infrastructure that could facilitate long-term human ALS research and clinical trials nationally and internationally. Between April 2016 and December 2024, SALSA-SGC recruited 1813 participants, including 1386 ALS/MND cases, 388 controls and 39 others (asymptomatic relatives and ALS mimics). Clinical data and biospecimens are available for 1333 and 1189 ALS cases, respectively, with longitudinal data spanning 4442 total clinic visits and 3201 samples. An open-access online data explorer showcases collected datasets. Detailed clinical and questionnaire data allow an in-depth description of the cohort, informing clinical and health policy research. Screening for known ALS large-effect risk variants identified 125 mutation carriers (11.5% from N=1059), including 70 with C9orf72 expansions. Single Nucleotide Polymorphism (SNP)-array data (N=1088 cases; N=244 controls) have supported multiple published studies. SALSA-SGC resources are actively used by national and international researchers. Ongoing efforts aim to expand recruitment into regional Australia and enhance sample processing for cell-based studies. The SALSA-SGC resource is accessible by researchers under agreements governed by participant consent, human ethics committee guidelines and agreed use of data and samples.",
-      "journal": "BMJ open",
-      "authors": [
-        "Henders AK",
-        "Ziser L",
-        "Garton FC",
-        "Adams L",
-        "Ernst K",
-        "Furlong S",
-        "Heads JA",
-        "Heggie S",
-        "Krasniqi R",
-        "Bhadravathi Lokeshappa M",
-        "Mazumder S",
-        "McNamara E",
-        "MacShane A",
-        "Mekhael L",
-        "Nunn L",
-        "Orden B",
-        "Ryder J",
-        "Thorpe K",
-        "Toubia M",
-        "Wallace LM",
-        "Wickremeratne D",
-        "Windebank E",
-        "Benyamin B",
-        "Ngo S",
-        "Nicholson G",
-        "Pamphlett R",
-        "Steyn FJ",
-        "Visscher PM",
-        "Willams KL",
-        "Henderson R",
-        "Kiernan MC",
-        "Laing N",
-        "Mathers S",
-        "McCombe PA",
-        "Needham M",
-        "Rowe D",
-        "Schultz D",
-        "Talman P",
-        "Vucic S",
-        "Blair IP",
-        "McRae AF",
-        "Wray NR"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42315356/"
-    },
-    {
-      "id": "pmid-42316486",
-      "pmid": "42316486",
-      "doi": "10.1002/mus.70309",
-      "title": "The Emotional Experiences of Healthcare Professionals Working in Amyotrophic Lateral Sclerosis: A Systematic Review.",
-      "abstract": "Healthcare professionals (HCPs) working with people living with amyotrophic lateral sclerosis (ALS) are often exposed to emotive circumstances including end of life care, trauma, loss, and death. Existing reviews have explored the emotional experiences of people living with ALS and their carers but have largely ignored healthcare staff and the impact of this work on them. This systematic review of qualitative research aims to explore the emotional experiences of and impact on HCPs working with people living with ALS using thematic synthesis (PROSPERO reference: CRD42025631749). Electronic databases were searched for journal articles and gray literature (Medline, Scopus, PsycINFO, Google Scholar, King's Fund Library Database, ProQuest Dissertations, Theses Global) for qualitative or mixed-methods studies exploring the emotional impact on HCPs working in ALS. Twelve studies were included, critically appraised, and analyzed. Four themes were identified. The emotional intensity due to the nature of ALS created challenges for HCPs, while they were also faced with absorbing the emotions of others. HCPs learned to balance their emotional involvement, and HCPs also described positive experiences and coping mechanisms. HCPs working in ALS experience multi-faceted emotional challenges, and they do describe positive emotional experiences within their roles. However, HCPs describe having few coping mechanisms and limited formal support systems in place to process the intense emotions or to guide their emotional involvement. The lack of support for staff may ultimately negatively affect patient care. There is an unmet demand for debriefing, supervision, and further training on how to deal with intense, distressing emotions.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Chan Y",
-        "Creer S",
-        "Mere J",
-        "Griffiths AW",
-        "Wright C",
-        "Hobson EV",
-        "McDermott CJ",
-        "Mayberry EJ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42316486/"
     }
   ]
 }
