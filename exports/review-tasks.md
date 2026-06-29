@@ -16,15 +16,17 @@
   - https://pubmed.ncbi.nlm.nih.gov/42250707/
 - [ ] [高优先级] IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态 (pmid-42341041)
   - https://pubmed.ncbi.nlm.nih.gov/42341041/
+- [ ] [高优先级] 居家与诊室肺活量测量的一致性：来自HEALEY ALS平台试验的见解 (pmid-42366580)
+  - https://pubmed.ncbi.nlm.nih.gov/42366580/
 - [ ] [高优先级] 溶酶体自噬保护FTLD中ANXA11淀粉样纤维毒性和传播 (pmid-42365390)
   - https://pubmed.ncbi.nlm.nih.gov/42365390/
-- [ ] 阻抗失配理论：神经退行性疾病中共享能量应激途径的非平衡热力学框架 (pmid-42364760)
+- [ ] [高优先级] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
   - https://pubmed.ncbi.nlm.nih.gov/42364760/
-- [ ] [疑似误收] 治疗中成人脊髓性肌萎缩症的纵向运动功能与生物标志物相关性：一项单中心队列研究 (epmc-PMC-PMC13295155)
+- [ ] [疑似误收] 经治成人脊髓性肌萎缩症的纵向运动功能与生物标志物相关性：一项单中心队列研究 (epmc-PMC-PMC13295155)
   - https://europepmc.org/article/PMC/PMC13295155
 - [ ] [疑似误收] 帕金森病步态障碍的虚拟现实训练：基于CiteSpace和VOSviewer的热点与趋势文献计量与可视化分析 (epmc-PMC-PMC13293783)
   - https://europepmc.org/article/PMC/PMC13293783
-- [ ] [高优先级] 评估ALS中的上运动神经元功能障碍：从TMS-EEG和EMG神经生理学到联合tFUS-TMS转化框架 (epmc-PMC-PMC13293938)
+- [ ] 评估ALS中上运动神经元功能障碍：从TMS-EEG和EMG神经生理学到联合tFUS-TMS转化框架 (epmc-PMC-PMC13293938)
   - https://europepmc.org/article/PMC/PMC13293938
 - [ ] [疑似误收] 社论：神经肌肉疾病——生物标志物、精准诊断与靶向治疗 (epmc-PMC-PMC13294195)
   - https://europepmc.org/article/PMC/PMC13294195
@@ -38,8 +40,6 @@
   - https://pubmed.ncbi.nlm.nih.gov/42360551/
 - [ ] [高优先级] 肌萎缩侧索硬化症中心血管自主神经反射的无创评估：一项系统综述 (pmid-42359947)
   - https://pubmed.ncbi.nlm.nih.gov/42359947/
-- [ ] [高优先级] 运动神经元疾病中通过细胞外囊泡实现的骨骼肌信号动态整合 (pmid-42351263)
-  - https://pubmed.ncbi.nlm.nih.gov/42351263/
 - [ ] [疑似误收] 待复核翻译：The dual role of ATF4 in neurons: from stress adaptation to therapeutic intervention (epmc-PMC-PMC13294100)
   - https://europepmc.org/article/PMC/PMC13294100
 - [ ] [疑似误收] 待复核翻译：AI-Assisted Coherent Raman Scattering Microscopy for Clinical Translation (epmc-PMC-PMC13291945)
@@ -52,33 +52,33 @@
   - https://europepmc.org/article/PMC/PMC13290518
 - [ ] Real-World Serum 神经丝轻链 and GFAP in 肌萎缩侧索硬化症 on a Commercial ECLIA Platform (epmc-PPR-PPR1260750)
   - https://doi.org/10.64898/2026.06.24.26356370
-- [ ] [高优先级] Ph1 T-Regulatory Cells in 肌萎缩侧索硬化症 (trial-NCT03241784)
-  - https://clinicaltrials.gov/study/NCT03241784
-- [ ] [高优先级] Virtual Reality for Anxiety Management in Persons With 肌萎缩侧索硬化症 (trial-NCT07473765)
-  - https://clinicaltrials.gov/study/NCT07473765
-- [ ] [高优先级] Efficacy and Safety Study of MCI-186 for Treatment of 肌萎缩侧索硬化症 (ALS) Who Met Severity Classification III (trial-NCT00415519)
-  - https://clinicaltrials.gov/study/NCT00415519
-- [ ] [高优先级] A Study of VRG50635 in Participants With 肌萎缩侧索硬化症 (ALS) (trial-NCT06215755)
-  - https://clinicaltrials.gov/study/NCT06215755
-- [ ] [高优先级] 待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners (trial-NCT06968468)
-  - https://clinicaltrials.gov/study/NCT06968468
-- [ ] [高优先级] Human Amniotic Mesenchymal Cell Secretome for Neurodegeneration and 神经炎症 (trial-NCT06551649)
-  - https://clinicaltrials.gov/study/NCT06551649
-- [ ] [高优先级] 待复核翻译：Effectiveness of Expiratory Muscle Strength Training for Improving Communication in ALS (trial-NCT05003167)
-  - https://clinicaltrials.gov/study/NCT05003167
-- [ ] [高优先级] Clenbuterol on Motor Function in Individuals With 肌萎缩侧索硬化症 (trial-NCT04245709)
-  - https://clinicaltrials.gov/study/NCT04245709
-- [ ] [高优先级] A Patient Centric 运动神经元病 Activities of Daily Living Scale (trial-NCT02852278)
-  - https://clinicaltrials.gov/study/NCT02852278
-- [ ] [高优先级] 待复核翻译：Development and Needs Assessment and Efficiency of Smart Communication System for Patients With ALS (Part 1) (trial-NCT03806647)
-  - https://clinicaltrials.gov/study/NCT03806647
-- [ ] [高优先级] Cell Therapy for 运动神经元病/肌萎缩侧索硬化症 (trial-NCT02242071)
-  - https://clinicaltrials.gov/study/NCT02242071
-- [ ] [高优先级] Analysis of Post-Translational Modifications of a Critical Protein Implicated in 肌萎缩侧索硬化症 (trial-NCT02228915)
-  - https://clinicaltrials.gov/study/NCT02228915
-- [ ] [高优先级] Effects of ODM-109 on Respiratory Function in Patients With 肌萎缩侧索硬化症 (trial-NCT02487407)
-  - https://clinicaltrials.gov/study/NCT02487407
-- [ ] [高优先级] Study to Investigate the Safety and Efficacy of Lithium in Volunteers With 肌萎缩侧索硬化症 (ALS) (trial-NCT00818389)
-  - https://clinicaltrials.gov/study/NCT00818389
-- [ ] [高优先级] Determinants of Disease Severity in 肌萎缩侧索硬化症 (trial-NCT00004457)
-  - https://clinicaltrials.gov/study/NCT00004457
+- [ ] [高优先级] 待复核翻译：Oxidative Stress and Apoptosis of Energy Metabolism by Deferiprone From the Circulating Lymphocytes (trial-NCT02880033)
+  - https://clinicaltrials.gov/study/NCT02880033
+- [ ] [高优先级] 待复核翻译：Impact of Robotic Glove Use on Quality of Life, Grip Strength and Fine Motor Control in ALS (trial-NCT07298486)
+  - https://clinicaltrials.gov/study/NCT07298486
+- [ ] [高优先级] At-home Treatment With Cortico-spinal tDCS for 肌萎缩侧索硬化症 (trial-NCT07006571)
+  - https://clinicaltrials.gov/study/NCT07006571
+- [ ] [高优先级] Rho Kinase Inhibitor in 肌萎缩侧索硬化症 (REAL) (trial-NCT05218668)
+  - https://clinicaltrials.gov/study/NCT05218668
+- [ ] [高优先级] 待复核翻译：Neurodegenerative Diseases Progression Markers (MARKERS-NDD) (trial-NCT06596746)
+  - https://clinicaltrials.gov/study/NCT06596746
+- [ ] [高优先级] 待复核翻译：Study of Structural and Functional Brain Connectivity Changes in ALS (CoALS-II) (trial-NCT05404867)
+  - https://clinicaltrials.gov/study/NCT05404867
+- [ ] [高优先级] 待复核翻译：Exploring Accessible Beauty for Individuals With Upper Extremity Deficits (trial-NCT05945784)
+  - https://clinicaltrials.gov/study/NCT05945784
+- [ ] [高优先级] 待复核翻译：Innovative Ultrasound Technology in Neuromuscular Disease (trial-NCT02104921)
+  - https://clinicaltrials.gov/study/NCT02104921
+- [ ] [高优先级] Expanded Access Protocol of BHV-0223 for Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT03537807)
+  - https://clinicaltrials.gov/study/NCT03537807
+- [ ] [高优先级] Creation of a Bank of Fibroblast From Patients With 肌萎缩侧索硬化症: Pilot Study (trial-NCT01639391)
+  - https://clinicaltrials.gov/study/NCT01639391
+- [ ] [高优先级] Study of Dopamine and Serotonin Transporters in Patients With 肌萎缩侧索硬化症 and Controls (trial-NCT01160263)
+  - https://clinicaltrials.gov/study/NCT01160263
+- [ ] [高优先级] Trial of Early Noninvasive Ventilation for 肌萎缩侧索硬化症 (ALS) (trial-NCT00580593)
+  - https://clinicaltrials.gov/study/NCT00580593
+- [ ] [高优先级] Non-Invasive Ventilation in 肌萎缩侧索硬化症 (trial-NCT00560287)
+  - https://clinicaltrials.gov/study/NCT00560287
+- [ ] [高优先级] G-CSF Treatment for 肌萎缩侧索硬化症: A RCT Study Assessing Clinical Response (trial-NCT00397423)
+  - https://clinicaltrials.gov/study/NCT00397423
+- [ ] [高优先级] Phase II Study of Leuprolide and Testosterone for Men With Kennedy's Disease or Other 运动神经元病 (trial-NCT00004771)
+  - https://clinicaltrials.gov/study/NCT00004771

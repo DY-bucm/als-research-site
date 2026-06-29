@@ -1,14 +1,52 @@
 {
-  "updatedAt": "2026-06-28T09:48:36.885Z",
+  "updatedAt": "2026-06-29T14:18:37.607Z",
   "period": {
     "days": 10,
-    "from": "2026-06-19",
-    "to": "2026-06-28"
+    "from": "2026-06-20",
+    "to": "2026-06-29"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 50,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-42366580",
+      "pmid": "42366580",
+      "doi": "10.1002/mus.70322",
+      "title": "At-Home Versus in-Clinic Vital Capacity Measurement: Insights From the HEALEY ALS Platform Trial.",
+      "abstract": "Respiratory weakness, typically monitored as vital capacity (VC), is a central feature of amyotrophic lateral sclerosis (ALS). VC is increasingly measured remotely in participants' homes, although in-clinic assessment remains the standard. We tested concordance between at-home and in-clinic VC to determine trial eligibility, track progression, and predict survival in a large ALS trial. At-home and in-clinic VC were assessed at baseline and approximately every 8 weeks for a year in the first four regimens of the HEALEY ALS Platform Trial. At-home assessments were coached via live videoconference and centrally reviewed. VC measurements, expressed as percent of predicted normal (%PN), were compared cross-sectionally, longitudinally, and for predicting survival time. Data from 233 participants with 3-8 paired at-home and in-clinic VC assessments completed < 14 days apart were analyzed. At-home and in-clinic VC were well correlated (Lin's r c = 0.82) with no systematic bias. At-home VC ≥ 60%PN predicted in-clinic VC ≥ 60%PN with a positive predictive value of 91% and a negative predictive value of 65%. VC slopes were moderately correlated (r c = 0.68). At-home VC progressed 28% faster than in-clinic VC with proportionately less variance (at-home [SE] = -1.882 [0.153] %PN/month, in-clinic = -1.476 [0.131] %PN/month). Slopes of at-home and in-clinic VC explained 15% and 17% of variation in future survival time, respectively. At-home and in-clinic VC were well correlated cross-sectionally. At-home VC performed well tracking longitudinal change and predicting survival. The reduced participant burden of assessment and concordance with in-clinic measurement support use of at-home monitoring of VC.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Macklin EA",
+        "Berry JD",
+        "Harkey BA",
+        "Heyd L",
+        "Chase M",
+        "Yu H",
+        "Sherman AV",
+        "Dagostino D",
+        "Kittle G",
+        "Hall M",
+        "Connolly MR",
+        "Drake K",
+        "Giacomelli E",
+        "Scirocco E",
+        "Sharma S",
+        "Babu S",
+        "Benatar M",
+        "Simmons Z",
+        "Young E",
+        "Cudkowicz ME",
+        "Shefner J",
+        "Paganoni S",
+        "HEALEY ALS Platform Trial Study Group"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366580/"
+    },
     {
       "id": "pmid-42365390",
       "pmid": "42365390",
@@ -1038,147 +1076,6 @@
       ],
       "publishedAt": "2026-06-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42322392/"
-    },
-    {
-      "id": "pmid-42320366",
-      "pmid": "42320366",
-      "doi": "10.1016/j.biopha.2026.119674",
-      "title": "Administration of Pgk1 missense mutation leads to more effective mitigation of neurodegenerative effects observed in ALS mice and transgenic zebrafish.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is characterized by progressive degeneration of motor neurons (MNs) with few available therapeutic options. Previous ALS studies demonstrated a decrease in phosphoglycerate kinase 1 (Pgk1) secreted from NogoA-overexpressing muscle cells, thus reducing interaction between extracellular Pgk1 (ePgk1) and neural membranous Enolase 2 (Eno2) with consequent inhibition of neurite outgrowth of MNs (NOMN). The negatively charged 419th aspartic acid of receptor Eno2 (Eno2-D419) is a critical residue interacting with the positively charged 353rd lysine of ligand ePgk1-K353. To strengthen the charge attraction, we mutated ePgk1-K353 to arginine (ePgk1-K353R). Compared to wild-type Pgk1, supplementary mutant Pgk1-K353R proved more effective in increasing NOMN derived from NSC34 neural cells cultured in Sol8-vector condition medium. In vivo, Pgk1-K353R-immersed zebrafish embryos exhibited increased caudal primary MNs branching. Intravenous injection of Pgk1-K353R into ALS-mice exhibited more preservative in innervated neuromuscular junctions in gastrocnemius muscle and diaphragm, increased grip strength, higher rearing frequency, 1.6-fold greater locomotive distance and longer survival. For example, median survival days for the control, Pgk1 and Pgk1-K353R groups were 131, 137.5 and 148, respectively. Collectively, we found a single-amino-acid mutant Pgk1-K353R that exhibits higher efficacy to ameliorate neurodegeneration in ALS-mice by delaying disease progression compared to that driven by wild-type Pgk1. We suggest this outcome might be due to more electrostatic attraction between ePgk1-K353R and Eno2-D419 region predicted by in silico analysis. Therefore, mutant Pgk1-K353R protein should be considered a promising neuroprotective drug for ALS treatment.",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "authors": [
-        "Lee BC",
-        "Tsai JC",
-        "Chang WZ",
-        "Wang CC",
-        "Hour AL",
-        "Wang CC",
-        "Tsai HJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320366/"
-    },
-    {
-      "id": "pmid-42321151",
-      "pmid": "42321151",
-      "doi": "10.1002/mus.70323",
-      "title": "Comparison of Consumer Smartwatch and Research-Grade Accelerometer-Derived Step Counts in Amyotrophic Lateral Sclerosis.",
-      "abstract": "Objective, scalable measures of function are needed in amyotrophic lateral sclerosis (ALS). Research-grade accelerometers are promising but may be difficult to deploy for prolonged remote monitoring, whereas consumer smartwatches offer a practical alternative. We evaluated the feasibility of long-term smartwatch monitoring in ALS and compared smartwatch- and accelerometer-derived daily step counts. In this single-centre prospective observational study, participants wore a Fitbit Sense (smartwatch) on the wrist longitudinally and an ActiGraph GT9X Link (accelerometer) on the opposite wrist during clinic-aligned assessment periods. Device comparison was restricted to concurrent valid days (≥ 10 h wear) and included paired comparison of mean daily step counts, Pearson correlation, Bland-Altman analysis, and proportional bias assessment. Forty participants were enrolled and 39 contributed data across 8093 smartwatch and 915 accelerometer days. Step count comparison included 503 concurrent valid days from 34 participants. Mean daily step counts were 3480 (SD 4365) for smartwatch and 4066 (SD 4797) for accelerometer (p < 0.0001), with strong correlation (r = 0.91, p < 0.0001). Mean bias was -586 steps for smartwatch, with 95% limits of agreement from -4193 to 3021. Among participants with ≥ 6 months of concurrent data, devices showed similar decline over time (interaction p = 0.76). Long-term remote monitoring using a smartwatch was feasible in ALS. Smartwatch-derived step counts were strongly correlated with accelerometer-derived estimates but were systematically lower and showed wide day-level limits of agreement. Smartwatch-derived step counts may be useful for group-level analyses and longitudinal monitoring, though device-specific bias should be considered in interpretation.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Jewett G",
-        "Ferber R",
-        "Josephson CB",
-        "Korngut L",
-        "Lee J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321151/"
-    },
-    {
-      "id": "pmid-42347662",
-      "pmid": "42347662",
-      "doi": "10.3390/vaccines14060541",
-      "title": "Fasciculations Following COVID-19 Vaccination-A Case Series of Ten Patients.",
-      "abstract": "Introduction: Vaccination against COVID-19 has been crucial in controlling the pandemic. While side effects are typically mild, rare neurological complications have been reported. This is a case series of ten patients who reported of persistent fasciculations after COVID-19 vaccination. Methods: We describe the clinical presentation and diagnostic work-up of ten patients with new-onset fasciculations in temporal proximity to COVID-19 vaccination. Patients with prior SARS-CoV-2 infection or known alternative causes of fasciculations were excluded. Routine clinical data, including neurological examination, laboratory results, and electrophysiology (electromyography and nerve conduction studies), were analyzed. Results: Ten patients (5 male, 5 female; mean age 42.4 years) reported fasciculations beginning within 6 h to 13 days post-vaccination and persisting for 2-12 months at the time of presentation. Fasciculations were accompanied by additional symptoms such as paresthesia and fatigue. Laboratory results were mostly unremarkable; two patients had positive myositis antibodies without clinical correlates. Electrophysiology was unremarkable in six patients, while fasciculation potentials were detected in four patients. Nine were diagnosed with probable benign fasciculation syndrome (BFS), and one met diagnostic criteria for amyotrophic lateral sclerosis (ALS). Discussion: In this small, retrospective case series, most cases of post-vaccination fasciculations were benign and compatible with BFS. Whether BFS onset was causally linked to vaccination or due to a nocebo effect remains unclear. One patient was diagnosed with ALS, though a causal link remains speculative given the study's limitations and rarity of similar reports. Larger, prospective studies are needed to validate these observations and explore underlying pathophysiological mechanisms.",
-      "journal": "Vaccines",
-      "authors": [
-        "Breuer A",
-        "Raeder V",
-        "Pernice HF",
-        "Boesl F",
-        "Prüss H",
-        "Audebert H",
-        "Hahn K",
-        "Franke C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42347662/"
-    },
-    {
-      "id": "pmid-42317073",
-      "pmid": "42317073",
-      "doi": "10.1111/febs.70630",
-      "title": "PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
-      "abstract": "Insoluble protein aggregates are a hallmark of neurodegenerative diseases like amyotrophic lateral sclerosis (ALS). The ubiquitin-proteasome system (UPS) serves as a neuroprotective quality control mechanism that clears aggregates. PML nuclear bodies (NBs) were proposed to serve as hubs for SUMO-primed ubiquitylation and degradation of misfolded proteins. Georgiadou et al. provide evidence that an ALS-linked NEK1 truncation mutant is recruited to PML NBs, where it likely undergoes SUMOylation and ubiquitylation. In mice, PML loss exacerbates ALS-like symptoms, while induced PML expression delays disease onset. These findings establish PML as a key regulator of proteostasis and highlight PML induction as a potential therapeutic strategy for ALS and related proteinopathies.",
-      "journal": "The FEBS journal",
-      "authors": [
-        "Stark T",
-        "Müller S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42317073/"
-    },
-    {
-      "id": "pmid-42319999",
-      "pmid": "42319999",
-      "doi": "10.1212/WNL.0000000000218247",
-      "title": "Teaching Video NeuroImage: Beyond Cognition: Amyotrophic Lateral Sclerosis-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "abstract": "",
-      "journal": "Neurology",
-      "authors": [
-        "Pacheco-Ortega GA",
-        "Esquivel-Zapata O",
-        "Piña-Rosales E",
-        "Davila-Ortíz de Montellano DJ",
-        "Yescas Gomez P",
-        "Medina-Rioja R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
-    },
-    {
-      "id": "pmid-42333562",
-      "pmid": "42333562",
-      "doi": "10.2174/0127724328415188260605204430",
-      "title": "Toll-Like Receptor-Mediated Neuroinflammation and Its Role in Neurocognitive Functions.",
-      "abstract": "Toll-like receptors (TLRs) are a family of pattern recognition receptors that recognise both pathogen-associated and damage-associated molecular patterns. While their expression was initially believed to be restricted to immune cells, accumulating evidence now demonstrates their presence across multiple neural cell types. Due to their significant involvement in neuroinflammatory and neurodegenerative processes, TLRs have garnered growing attention for their potential contributions to neurocognitive disorders, including Alzheimer's disease, Parkinson's disease, stroke, amyotrophic lateral sclerosis, and other forms of dementia. Potential treatment targets for lowering neuroinflammation and slowing the evolution of neurocognitive diseases include TLR signalling pathways, namely the MYD88-dependent and TRIF-dependent cascades. To initiate signalling, Toll-like receptors (TLRs) recruit specific adaptor molecules that activate the transcription factors NF-κB and IRFs, which regulate the induction of innate immune responses. Over the past decade, a combination of genetic, biochemical, structural, cellular, and bioinformatics approaches has been utilised to elucidate the detailed molecular mechanisms underlying TLR signalling. These studies have clarified how TLRs interact with cytosolic innate immune sensors to orchestrate effective immunological reactions. The function of different TLRs expressed in various brain immune cells and their contribution to the pathophysiology of neuroinflammation are described. This paper discusses the involvement of TLRs in autoimmune and neuroinflammatory circumstances like multiple sclerosis (MS), bacterial meningitis, viral encephalitis, stroke, Alzheimer's disease, and Parkinson's disease. It is intended for TLR biologists and immunologists studying neuroinflammation, as well as neuroscientists delving into central nervous system processes mediated by TLRs.",
-      "journal": "Current reviews in clinical and experimental pharmacology",
-      "authors": [
-        "Srivastava V",
-        "Chakraborty S",
-        "Srivastava R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42333562/"
-    },
-    {
-      "id": "pmid-42318818",
-      "pmid": "42318818",
-      "doi": "10.1177/13591053261454342",
-      "title": "Understanding apathy in people with amyotrophic lateral sclerosis using motivational theories.",
-      "abstract": "Apathy-a reduction in goal-directed behaviour, cognition, and emotional responsiveness-is a highly prevalent, debilitating symptom in people with amyotrophic lateral sclerosis (pwALS). This study investigated the association between apathy in 69 pwALS and their 54 informal caregivers and constructs from social cognitive theory and self-determination theory. Participants also provided subjective accounts of apathy in semi-structured interviews. Multiple regression analysis demonstrated that constructs from both motivational theories were significant predictors of overall apathy scores and its sub-domains (executive, emotional, initiation), accounting for 32%-64% of the variance. Specifically, frustration of the basic psychological need for competence was a consistent and prominent predictor of greater apathy. Qualitative findings revealed that pwALS lack a clear awareness of apathy, often experiencing it as a manifestation of activities requiring increased physical and temporal effort. Future research should use psychosocial theories to understand apathy and develop interventions.",
-      "journal": "Journal of health psychology",
-      "authors": [
-        "Bailey F",
-        "Eun MW",
-        "Hobson E",
-        "McDermott C",
-        "Knox L"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42318818/"
     }
   ]
 }
