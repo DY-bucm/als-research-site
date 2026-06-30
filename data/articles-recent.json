@@ -1,14 +1,180 @@
 {
-  "updatedAt": "2026-06-29T14:18:37.607Z",
+  "updatedAt": "2026-06-30T10:43:19.265Z",
   "period": {
     "days": 10,
-    "from": "2026-06-20",
-    "to": "2026-06-29"
+    "from": "2026-06-21",
+    "to": "2026-06-30"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 44,
+  "count": 51,
   "articles": [
+    {
+      "id": "pmid-42309130",
+      "pmid": "42309130",
+      "doi": "10.1088/1741-2552/ae7ead",
+      "title": "Stability and neurophysiological validity of graph connectivity features for non-stationary motor imagery BCIs.",
+      "abstract": "Objective. Motor imagery (MI) Electroencephalography (EEG) brain-computer interfaces (BCIs) degrade under longitudinal non-stationarity, especially in amyotrophic lateral sclerosis (ALS). Functional connectivity (FC) has been proposed as an alternative feature space, but it remains unclear which FC estimators yield stable, class-informative features across sessions. Approach. Using a multi-session ALS EEG dataset, we computed a broad family of FC estimators per trial to form weighted graphs. We extracted edge weights and node strength features, and quantified (i) feature reproducibility and (ii) left hand-right hand separability using coefficient of variation and symmetric Kullback-Leibler divergence, respectively. We assessed neurophysiological plausibility via spatial topographies, distance-dependence controls, and evaluated selected feature sets in a strictly temporal cross-session decoding protocol against common spatial patterns, band power and Riemannian methods. Main results. Coherence (Coh)-based estimators, particularly magnitude-squared Coh, most consistently produced features exhibiting favourable reproducibility-separability trade-offs across subjects. Node-strength discriminability maps showed lateralised sensorimotor structure consistent with known MI physiology. In temporal generalisation, magnitude squared Coh derived features achieved more consistent test performance than baseline methods for most subjects. Significance. Joint reproducibility-separability profiling provides a principled way to select FC feature spaces for longitudinal MI-BCIs and suggests Coh-based connectivity is a stronger sensor-space candidate under drift.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Patel R",
+        "Bryson B",
+        "Carlson T",
+        "Demosthenous A",
+        "Jiang D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42309130/"
+    },
+    {
+      "id": "pmid-42373784",
+      "pmid": "42373784",
+      "doi": "10.1038/s41590-026-02538-y",
+      "title": "Adaptive immunity in the pathogenesis of neurodegeneration.",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis and others, are a group of neurological disorders characterized by progressive neuronal loss in the central nervous system (CNS) and the deterioration of CNS function. Multiple lines of evidence have highlighted activation of innate immune cells in the CNS, namely microglia and astrocytes, as hallmark pathological features in neurodegeneration and key drivers of disease progression. Advances in genetic, neuropathological and experimental studies also underscore the potential role of the adaptive immune system in disease pathogenesis. Here we summarize the current understanding of how adaptive immunity can shape the progression of neurodegenerative diseases and highlight cross-disease parallels and potentially shared mechanisms. We also examine cellular events leading to the recruitment of peripheral immune cells to the CNS, as well as candidate antigens driving the adaptive immune response. Last, we discuss potential therapeutic strategies to treat neurodegeneration via the manipulation of adaptive immune cells.",
+      "journal": "Nature immunology",
+      "authors": [
+        "Li Y",
+        "Ulrich JD",
+        "Holtzman DM"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373784/"
+    },
+    {
+      "id": "pmid-42372734",
+      "pmid": "42372734",
+      "doi": "10.1080/21678421.2026.2694507",
+      "title": "An open-label Phase 2a study of fasudil in amyotrophic lateral sclerosis: safety and exploratory endpoints.",
+      "abstract": "The primary objective was to assess the safety of oral fasudil in amyotrophic lateral sclerosis (ALS) patients. Changes in serum neurofilament light (NfL) levels and the ratio of phosphorylated to total AKT (pAKT/tAKT) were exploratory endpoints. This was a multicenter, open-label study. Two 31-patient cohorts were sequentially enrolled and treated with either 180 mg or 300 mg per day of oral fasudil for 24 weeks. The primary endpoint was safety. Secondary endpoints evaluated changes in the ALS functional rating scale-revised (ALSFRS-R), slow vital capacity, and muscle strength. We also assessed changes in serum NfL and pAKT/tAKT ratios in plasma (neuron-derived) and CSF (total) extracellular vesicles (EVs). Eighty-one percent (25/31) and 71% (22/31) of patients completed 24 weeks of treatment in the 180 and 300 mg cohort, respectively. Fasudil was safe and well tolerated, with predominantly mild drug-related adverse events. Secondary endpoints, though not statistically significant, were directionally consistent with a treatment effect. Exploratory analyses showed a 15.4% reduction in serum NfL at 24 weeks (p = 0.001) in the 180 mg cohort, with no change in the 300 mg cohort (-0.4%, p = 0.990). The NfL reduction was inversely correlated with ALSFRS-R decline (Spearman = -0.45, p = 0.028). Ratios of pAKT/tAKT, a pharmacodynamic marker of rho kinase (ROCK) inhibition, were significantly increased at 24 weeks in plasma (neuron-derived) and CSF EVs. Oral fasudil is safe and well-tolerated in ALS patients. The reduction in NfL and demonstration of CNS target engagement, supports studying the 180 mg dose in a double-blind placebo-controlled study.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Pena C",
+        "Barker C",
+        "Grossberg AN",
+        "Mian I",
+        "Williams S",
+        "MacAllister T",
+        "Vu T",
+        "Linseman DA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372734/"
+    },
+    {
+      "id": "pmid-42373183",
+      "pmid": "42373183",
+      "doi": "10.1136/bmjopen-2026-122001",
+      "title": "Exploring communication between people living with motor neurone disease and their close persons with healthcare professionals: a longitudinal qualitative United Kingdom study protocol.",
+      "abstract": "Good communication is imperative to high-quality patient care, particularly for achieving positive outcomes in healthcare consultations. Evidence about communication in clinical consultations for people with motor neurone disease (MND) is limited, but the knowledge gap prevents possible improvements to communication skills that are unique to the challenges that people living with MND encounter. This research aims to better understand and improve communication experiences for patients with MND. A 24-month qualitative longitudinal study whereby data collection will explore 10-15 cases of persons living with MND. For each case, we will recruit one patient, one close person/carer and one healthcare professional for separate interviews alongside an observed clinical consultation. The patient will be interviewed three times at approximately 4-6-month intervals over 12 months to explore the changing experiences, communication challenges and impact on quality of life. Close persons and healthcare professionals will be interviewed once. Data will be analysed to draw out patterns within and between cases, incorporating thematic analysis, corpus linguistics and conversation analysis techniques. Ethical approval was granted by the Health Research Authority (ref: 26/WM/0026).A co-design workshop will develop a framework for an educational toolkit for healthcare professionals to improve communication skills with MND patients. Findings will be disseminated to the academic community, healthcare staff and the public to increase reach and impact (academic journals, seminars, conferences, newsletters, community groups and engagement events). We will make recommendations for improvements to policy and practice. ISRCTN15571034.",
+      "journal": "BMJ open",
+      "authors": [
+        "Weetman K",
+        "Seckin M",
+        "Guo P",
+        "Tiwana R",
+        "Wilson E",
+        "Bailey C"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373183/"
+    },
+    {
+      "id": "pmid-42373786",
+      "pmid": "42373786",
+      "doi": "10.1038/s41590-026-02561-z",
+      "title": "Innate immune signaling and functions in astrocytes.",
+      "abstract": "Astrocytes, long considered supportive cells of the central nervous system (CNS), have critical roles in innate immunity. This Review explores immune signaling pathways in astrocytes, including pattern recognition through Toll-like receptors, nucleic acid sensors and inflammasomes. These pathways enable the detection of danger signals and initiate protective responses and endogenous innate immune functions. Downstream signaling pathways, including the interferon, NF-κB and STAT3 pathways, mediate astrocyte reactivity and drive cytokine secretion, antiviral responses, phagocytosis and many other immune functions. While these responses are crucial for CNS health, their dysregulation can contribute to chronic inflammation and neurodegeneration in conditions such as Alzheimer's disease, Parkinson's disease, multiple sclerosis and amyotrophic lateral sclerosis. Additionally, astrocytes exhibit regional heterogeneity in their immune behaviors, which may influence disease trajectories. We highlight unresolved questions regarding the immune functions of astrocytes, their interplay with professional immune cells and their dual protective and pathological roles.",
+      "journal": "Nature immunology",
+      "authors": [
+        "Guo AX",
+        "Fisher TM",
+        "Comandante-Lou N",
+        "De Jager PL",
+        "Liddelow SA"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373786/"
+    },
+    {
+      "id": "pmid-42374626",
+      "pmid": "42374626",
+      "doi": "10.1080/19490976.2026.2692737",
+      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) has been linked to gastrointestinal symptoms and alterations in the gut microbiota. The enteric nervous system (ENS) coordinates intestinal function and sits at the host-microbe interface. The mechanisms by which luminal changes relay to the central nervous system (CNS), where motor neurons reside, have yet to be completely defined. In this narrative review, we first present evidence from ALS patient cohorts and preclinical models alongside mechanistic studies of infection, dysbiosis, and related neurodegenerative diseases to discuss how the microbiota and its metabolites may affect the ENS and CNS in ALS. Next, we propose a plausible mechanism of ALS pathogenesis through the gut-microbiome-brain axis. We further offer a summary of clinical trials that have studied the impacts of the microbiota on human ALS. Finally, we discuss future directions for studies of microbiota-ENS-CNS interactions in ALS. Better understanding of the dynamic interactions among the microbiota, microbial metabolites, neuroactive metabolites, and inflammation through the ENS/CNS in ALS will provide innovative insights into ALS prevention and treatment.",
+      "journal": "Gut microbes",
+      "authors": [
+        "Walton EI",
+        "Sun J"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374626/"
+    },
+    {
+      "id": "pmid-42371053",
+      "pmid": "42371053",
+      "doi": "10.1007/s00702-026-03202-3",
+      "title": "Neurodegenerative diseases and environmental risk factors: an overview of the available scientific evidence.",
+      "abstract": "Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS) are among the most well-known and prevalent neurodegenerative disorders. These diseases result from an interaction between the environment and genetically predisposed individuals. This review examines the evidence available in the literature underlying this multifaceted interaction, focusing on various chemical substances such as metals, fertilizers, and herbicides, as well as toxic agents of microbiological origin, including cyanobacteria and their neurotoxins. In addition, the pathways through which toxic substances can enter the human body are discussed, such as air and water, which may lead to absorption through the lungs, the gastrointestinal tract, the skin, and mucosae. The routes by which neurotoxic substances gain access to the human body may help explain the increased risk of developing neurodegenerative diseases observed in sports played on soil and grass surfaces, such as soccer, American football, and golf.",
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "authors": [
+        "Stipa G",
+        "Colosimo C",
+        "Vanacore N"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42371053/"
+    },
+    {
+      "id": "pmid-42371122",
+      "pmid": "42371122",
+      "doi": "10.1007/s00415-026-13937-4",
+      "title": "Quantification of amyotrophic lateral sclerosis (ALS) disease accumulation with T1-weighted high-resolution magnetic resonance imaging: validation in an independent cohort.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a progressive neuromuscular disease with multifaceted phenotypic presentation thus obstructing objective disease staging. The D50 disease progression model is a framework to comprehensively dissect biomarker-signals towards their relevance regarding disease accumulation/phase (rD50), or disease aggressiveness (D50). Based on previous findings using 1.5-Tesla Magnetic-Resonance-Imaging (MRI), this study hypothesized that high-resolution MRI markers of Grey-Matter (GM) structural integrity would enable quantification of disease accumulation, independent of aggressiveness. A separate cohort of 75 patients with ALS and 73 Healthy Controls (HC) underwent T1-weighted 3-Tesla MRI. Voxel-Based-Morphometry measured GM and White-Matter (WM) density and Surface-Based-Morphometry assessed Cortical Thickness (CT). Non-parametric Threshold-Free-Cluster-Enhancement with 5000 permutations was applied for inter-group and regression contrasts, whilst correcting for possibly interfering co-variates and applying Family-Wise-Error-adjustment. Compared with HC, the ALS cohort showed widespread decreases of CT and GM/WM density (p < 0.001). These case-control effects were driven by patients scanned during rD50-defined disease Phase 2 (p < 0.001). Within the ALS-cohort, direct Phase 2 versus Phase 1 contrasts revealed spatially-distributed decreases, reflecting higher disease accumulation (p < 0.05). These were independent of disease aggressiveness (and onset-region), as corrected for in the models. Accordingly, all contrasts assessing aggressiveness did not yield significant results. These semi-automated analyses of T1-weighted-images captured disease accumulation related GM structural integrity-loss in this cohort scanned with 3-Tesla MRI, independent of the underlying disease aggressiveness. This principle was validated across different scanners and field strengths, supporting its application for objective and non-invasive staging of patients with ALS, whereby true longitudinal studies are necessary.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Gremmler PA",
+        "von der Gablentz J",
+        "Meyer J",
+        "Ilse B",
+        "Farahi Ghasraboonasr B",
+        "Dalbert S",
+        "Buchholz IJ",
+        "Grosskreutz J",
+        "Steinbach R"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "publishedAt": "2026-06-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42371122/"
+    },
     {
       "id": "pmid-42366580",
       "pmid": "42366580",
@@ -609,6 +775,24 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42341118/"
     },
     {
+      "id": "pmid-42367369",
+      "pmid": "42367369",
+      "doi": "10.1212/NXG.0000000000200406",
+      "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
+      "abstract": "Emerging genetic therapies and the expansion of genetic testing are identifying individuals carrying amyotrophic lateral sclerosis (ALS) risk variants who would benefit from surveillance and early intervention. Anticipating the geographic distribution and clinical needs of this population is essential for optimizing care delivery and ensuring readiness as new therapies become available. We estimate the number of individuals in the United States carrying ALS risk variants and project the clinical engagement required to support this population. This is especially timely because ALS clinics are already grappling with rising numbers of patients with symptomatic ALS and deep funding cuts. We developed a population model to estimate the number of symptomatic individuals with gene-positive ALS and asymptomatic gene carriers across US states over the next decade (year 1: 2026). State-level ALS prevalence and incidence were calculated using 2 approaches: (1) race-adjusted ALS rates from the Atlanta metropolitan study applied to 2023 Census demographics and (2) observed state-level ALS case counts from the National ALS Registry (2011-2018). Gene-positive cases were estimated using published frequencies of SOD1 , C9orf72 , FUS , and TARDBP pathogenic variants. At-risk relatives were modeled assuming autosomal-dominant inheritance with ∼5 first-degree and ∼7 second-degree living relatives per proband, and broad uptake of cascade genetic testing. Surveillance needs were modeled as 1 annual visit per asymptomatic carrier, which was normalized by the number of ALS centers per state. In year 1 (2026), the model estimated 2,704 symptomatic gene-positive ALS carriers. With an average of 4.25 carrier relatives per proband, 10,944 asymptomatic carriers were projected nationwide. Most states required <50 additional visits per clinic annually, with 12 states in the 50-99 range and none exceeding 100. By year 10 (2035), the model projected 7,474 symptomatic and 26,111 asymptomatic carriers. State-level demand shifted substantially: only 6 states remained below 50 visits per clinic annually; 22 reached 50-99; 18 reached 100-199; and 3 exceeded 200. Gene-targeted testing is projected to substantially increase ALS clinic visits among asymptomatic gene carriers. While current infrastructure may accommodate the initial rise, within a decade, most states will require significant expansion. Anticipating and planning for this growth now is essential to ensure seamless integration of gene-positive individuals into ALS care.",
+      "journal": "Neurology. Genetics",
+      "authors": [
+        "Morganroth J",
+        "Yasek J",
+        "Harms M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367369/"
+    },
+    {
       "id": "pmid-42341897",
       "pmid": "42341897",
       "doi": "10.1016/j.expneurol.2026.115891",
@@ -997,85 +1181,6 @@
       ],
       "publishedAt": "2026-06-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324839/"
-    },
-    {
-      "id": "pmid-42323648",
-      "pmid": "42323648",
-      "doi": "10.1186/s43058-026-01023-9",
-      "title": "Delivering effective non-invasive ventilation in amyotrophic lateral sclerosis using intensive remote support (DENIM): protocol for an embedded process evaluation in a hybrid type 3 implementation-effectiveness trial.",
-      "abstract": "Non-invasive ventilation (NIV) is the only intervention that significantly improves survival and quality of life in motor neuron disease, extending life by 8-13 months. However, at least half of patients are unable to reach the recommended ≥ 4 h daily NIV use, and current NHS services provide insufficient follow-up for intensive optimisation. Delivering Effective Non-Invasive ventilation in Motor neuron disease using intensive remote support (DENIM) is a stepped-wedge cluster randomised trial. This protocol describes a process evaluation embedded within DENIM aiming to understand how and why the implementation strategy works (or does not work) across different contexts. The process evaluation employs a convergent mixed-methods multiple-case study design across twelve NHS ventilation services. We developed a programme theory informed by Normalization Process Theory (NPT), the Consolidated Framework for Implementation Research and Expert Recommendations for Implementing Change, which states how the DENIM implementation strategy is expected to achieve normalisation of evidence-based NIV practice. Data collection across twelve sites include: ethnographic observations of patient-staff interactions; semi-structured interviews with staff (n = 24-48) and patients/carers (n = 24) exploring implementation experiences; the NoMAD questionnaire measuring normalisation perceptions from healthcare professionals within the services and NIV adherence data from participants' ventilators. Barriers and facilitators to research participation for underserved populations including ethnic minorities, those with low digital literacy, and women over 80 with bulbar onset disease will also be identified. Qualitative data will be analysed using NPT-informed thematic analysis. Integration occurs at three levels (design, methods, interpretation) with joint display tables presenting quantitative and qualitative findings alongside meta-inferences. This process evaluation will generate explanatory insights into how implementation strategies can address the evidence-to-practice gap in complex, technology-supported care for progressive diseases, with implications for health equity and wider NHS digital transformation. ISRCTN10105285. 16/04/2025.",
-      "journal": "Implementation science communications",
-      "authors": [
-        "Girling C",
-        "Ryan G",
-        "Bradburn M",
-        "Caprioli T",
-        "Dawson S",
-        "Fisher E",
-        "Haynes N",
-        "Herbert E",
-        "Hill H",
-        "Hind D",
-        "May C",
-        "Bianchi S",
-        "Cox M",
-        "Kaltsakas G",
-        "Massey C",
-        "Mayberry E",
-        "Messer B",
-        "Needham D",
-        "Playle R",
-        "McDermott C",
-        "Griffiths AW",
-        "Hobson E"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42323648/"
-    },
-    {
-      "id": "pmid-42322392",
-      "pmid": "42322392",
-      "doi": "10.1007/s40120-026-00955-7",
-      "title": "ECAS-Based Neuropsychological Phenotyping in Amyotrophic Lateral Sclerosis: A Retrospective Study Comparing Different Algorithms.",
-      "abstract": "This study aimed to compare different algorithms based on the Edinburgh Cognitive and Behavioural ALS Screen (ECAS) to classify patients with amyotrophic lateral sclerosis (ALS) according to their neuropsychological phenotype to identify possible discrepancies among these systems. ECAS-Cognitive and -Carer Interview (ECAS-C/-CI) scores of N = 901 patients with ALS without a formal diagnosis of dementia were retrospectively retrieved. Patients were classified, pursuant to Strong et al.'s criteria, as cognitively and behaviourally normal (ALScbn), cognitively and/or behaviourally impaired (ALSci/bi/cbi), or Possible ALS-FTD, according the following ECAS-based algorithms: (1) Abrahams', solely addressing ECAS-C total and ALS-Specific subtotals; (2) Poletti et al.'s, addressing single task-level ECAS-C scores; (3) \"Subscale\", addressing ECAS-C subscales (i.e., Language, Executive, Fluency, Memory and Visuospatial). All algorithms relied on single-item-level ECAS-CI scores for behavioural classifications. Whilst agreement rates among these classifications were moderate to high (84-86%; Cohen's k = 0.78-0.81), and some discrepancies emerged: (1) \"ALScbn-to-ALSci\" and \"ALSci-to-ALScbn\" re-classifications occurred across the three comparisons, ranging from ~ 11% to ~ 24%; (2) the most classificatory disagreements (~ 43%) occurred for the ALScbi category when comparing single task-level (Poletti) to total-level (Abrahams) algorithms, with patients being re-classified as either ALSbi or Possible ALS-FTD; (3) ~ 24% of Abraham's Possible ALS-FTD cases were re-classified as either ALScbi or ALSbi by the Subscale approach. Different ECAS-based algorithms for deriving Strong's phenotypes might yield slight discrepancies that could under- or overestimate a given classification.",
-      "journal": "Neurology and therapy",
-      "authors": [
-        "Poletti B",
-        "Aiello EN",
-        "Consonni M",
-        "Iazzolino B",
-        "Torre S",
-        "Faltracco V",
-        "Telesca A",
-        "Palumbo F",
-        "Curti B",
-        "De Luca G",
-        "Moreschi A",
-        "Frisco F",
-        "Dalla Bella E",
-        "Bersano E",
-        "Riva N",
-        "Verde F",
-        "Messina S",
-        "Doretti A",
-        "Maranzano A",
-        "Morelli C",
-        "Cappa SF",
-        "Calvo A",
-        "Strong MJ",
-        "Silani V",
-        "Lauria G",
-        "Chiò A",
-        "Ticozzi N"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42322392/"
     }
   ]
 }

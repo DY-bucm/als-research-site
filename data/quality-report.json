@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-29T14:20:36.804Z",
+  "updatedAt": "2026-06-30T10:45:24.116Z",
   "summary": {
-    "totalItems": 41,
-    "issueCount": 58
+    "totalItems": 45,
+    "issueCount": 66
   },
   "sources": [
     {
@@ -23,9 +23,31 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-42361332",
+      "title": "Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
+      "titleZh": "帕金森病患者自我报告的症状负担",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
+    },
+    {
+      "id": "pmid-42258373",
+      "title": "Size-dependent alterations in phrenic motor neuron perineuronal nets following cervical spinal hemisection.",
+      "titleZh": "颈髓半切后膈肌运动神经元周围神经元网络的大小依赖性改变",
+      "category": "遗传",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42258373/"
+    },
+    {
       "id": "epmc-PMC-PMC13295155",
       "title": "Longitudinal motor function and biomarker correlates in treated adult spinal muscular atrophy: a single-center cohort study",
-      "titleZh": "经治成人脊髓性肌萎缩症的纵向运动功能与生物标志物相关性：一项单中心队列研究",
+      "titleZh": "经治疗的成人脊髓性肌萎缩症中的纵向运动功能与生物标志物相关性：一项单中心队列研究",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -41,7 +63,7 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13293783"
     },
     {
@@ -65,17 +87,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13294539"
-    },
-    {
-      "id": "pmid-42362038",
-      "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
-      "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42362038/"
     },
     {
       "id": "epmc-PMC-PMC13294100",
@@ -131,13 +142,46 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13290518"
+    },
+    {
+      "id": "epmc-MED-42362038",
+      "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
+      "titleZh": "待复核翻译：Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1016/j.expneurol.2026.115898"
+    },
+    {
+      "id": "epmc-MED-42360563",
+      "title": "Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis.",
+      "titleZh": "待复核翻译：Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s10072-026-09203-0"
+    },
+    {
+      "id": "epmc-MED-42360551",
+      "title": "Targeting mtDNA to Modulate Mitochondrial Dysfunction in Neurodegenerative Diseases.",
+      "titleZh": "Targeting mtDNA to Modulate 线粒体l Dysfunction in Neurodegenerative Diseases.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s12035-026-06008-2"
     }
   ],
   "missingIdentifiers": [
     {
       "id": "epmc-PMC-PMC13295155",
       "title": "Longitudinal motor function and biomarker correlates in treated adult spinal muscular atrophy: a single-center cohort study",
-      "titleZh": "经治成人脊髓性肌萎缩症的纵向运动功能与生物标志物相关性：一项单中心队列研究",
+      "titleZh": "经治疗的成人脊髓性肌萎缩症中的纵向运动功能与生物标志物相关性：一项单中心队列研究",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -153,7 +197,7 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13293783"
     },
     {
@@ -249,7 +293,7 @@
     {
       "id": "pmid-42319999",
       "title": "Teaching Video NeuroImage: Beyond Cognition: Amyotrophic Lateral Sclerosis-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
@@ -258,9 +302,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
     },
     {
+      "id": "pmid-42234134",
+      "title": "[Late-onset manifestation of Tay-Sachs disease-A disease of the cerebellum and motor neurons with psychiatric sequelae].",
+      "titleZh": "晚发型泰-萨克斯病——一种伴有精神科后遗症的小脑和运动神经元疾病",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 8,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42234134/"
+    },
+    {
       "id": "epmc-PMC-PMC13295155",
       "title": "Longitudinal motor function and biomarker correlates in treated adult spinal muscular atrophy: a single-center cohort study",
-      "titleZh": "经治成人脊髓性肌萎缩症的纵向运动功能与生物标志物相关性：一项单中心队列研究",
+      "titleZh": "经治疗的成人脊髓性肌萎缩症中的纵向运动功能与生物标志物相关性：一项单中心队列研究",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -276,7 +331,7 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13293783"
     },
     {
@@ -377,19 +432,85 @@
       "relevanceFlag": "high",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.06.24.26356370"
+    },
+    {
+      "id": "epmc-MED-42362038",
+      "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
+      "titleZh": "待复核翻译：Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1016/j.expneurol.2026.115898"
+    },
+    {
+      "id": "epmc-MED-42360563",
+      "title": "Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis.",
+      "titleZh": "待复核翻译：Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s10072-026-09203-0"
+    },
+    {
+      "id": "epmc-MED-42360551",
+      "title": "Targeting mtDNA to Modulate Mitochondrial Dysfunction in Neurodegenerative Diseases.",
+      "titleZh": "Targeting mtDNA to Modulate 线粒体l Dysfunction in Neurodegenerative Diseases.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s12035-026-06008-2"
+    },
+    {
+      "id": "epmc-MED-42359947",
+      "title": "Noninvasive assessment of cardiovascular autonomic reflexes in amyotrophic lateral sclerosis: a systematic review.",
+      "titleZh": "Noninvasive assessment of cardiovascular autonomic reflexes in 肌萎缩侧索硬化症: a systematic review.",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2692135"
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-42374626",
+      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
+      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374626/"
+    },
     {
       "id": "pmid-42359165",
       "title": "Therapeutic frontiers in ALS: iPSC-based drug discovery, cell therapy, and gene therapy-Advances through 2026.",
       "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展",
       "category": "临床试验",
-      "evidenceLevel": "综述",
+      "evidenceLevel": "临床试验研究",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/"
+    },
+    {
+      "id": "pmid-42367369",
+      "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
+      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期照护",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367369/"
     },
     {
       "id": "pmid-42359357",
@@ -436,6 +557,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247653/"
     },
     {
+      "id": "pmid-42373786",
+      "title": "Innate immune signaling and functions in astrocytes.",
+      "titleZh": "星形胶质细胞中的先天免疫信号传导与功能",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373786/"
+    },
+    {
+      "id": "pmid-42373784",
+      "title": "Adaptive immunity in the pathogenesis of neurodegeneration.",
+      "titleZh": "适应性免疫在神经退行性疾病发病机制中的作用",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373784/"
+    },
+    {
       "id": "pmid-42341041",
       "title": "IRE1 regulates the proteostasis of TDP-43/TARDBP in ALS/FTD through ribosome-associated quality control.",
       "titleZh": "IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态",
@@ -445,61 +588,6 @@
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42341041/"
-    },
-    {
-      "id": "pmid-42366580",
-      "title": "At-Home Versus in-Clinic Vital Capacity Measurement: Insights From the HEALEY ALS Platform Trial.",
-      "titleZh": "居家与诊室肺活量测量的一致性：来自HEALEY ALS平台试验的见解",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42366580/"
-    },
-    {
-      "id": "pmid-42365390",
-      "title": "Lysophagy protects against ANXA11 amyloid fibril toxicity and propagation in FTLD.",
-      "titleZh": "溶酶体自噬保护FTLD中ANXA11淀粉样纤维毒性和传播",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365390/"
-    },
-    {
-      "id": "pmid-42364760",
-      "title": "The impedance mismatch theory: A non-equilibrium thermodynamic framework for a shared energetic stress pathway in neurodegeneration.",
-      "titleZh": "阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364760/"
-    },
-    {
-      "id": "pmid-42362038",
-      "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
-      "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42362038/"
-    },
-    {
-      "id": "pmid-42359947",
-      "title": "Noninvasive assessment of cardiovascular autonomic reflexes in amyotrophic lateral sclerosis: a systematic review.",
-      "titleZh": "肌萎缩侧索硬化症中心血管自主神经反射的无创评估：一项系统综述",
-      "category": "临床试验",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42359947/"
     },
     {
       "id": "trial-NCT02880033",
@@ -669,18 +757,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 10,
+    "疑似误收": 14,
     "缺标识符": 10,
-    "缺摘要": 12,
-    "高优先级待复核": 26,
+    "缺摘要": 17,
+    "高优先级待复核": 25,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 41
+    "待复核": 45
   },
   "relevanceCounts": {
-    "high": 27,
-    "medium": 4,
-    "low": 10
+    "high": 25,
+    "low": 14,
+    "medium": 6
   }
 }

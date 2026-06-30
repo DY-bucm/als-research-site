@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-06-29
+更新时间：2026-06-30
 
-1. **ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展**
-   - 临床试验 / 综述 / high
-   - STMN2作为TDP-43下游靶点的发现为散发性ALS提供了新的核酸治疗途径，且相关临床试验已显示靶点结合。
+1. **微生物组和代谢物影响ALS中的肠道和中枢神经系统**
+   - 临床试验 / 临床试验研究 / high
+   - 微生物群及其代谢物通过肠-微生物-脑轴影响ALS中的ENS和CNS，可能参与发病机制。
+   - https://pubmed.ncbi.nlm.nih.gov/42374626/
+2. **ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展**
+   - 临床试验 / 临床试验研究 / high
+   - iPSC药物发现、细胞治疗和基因治疗三大范式在2020-2026年间显著扩展了ALS治疗管线，其中针对TDP-43下游靶点STMN2的核酸疗法为散发性ALS提供了新希望。
    - https://pubmed.ncbi.nlm.nih.gov/42359165/
-2. **ALS/FTD发病机制中的先天免疫串扰**
+3. **准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期照护**
+   - 遗传 / 观察性临床研究 / high
+   - 到2035年，美国无症状ALS基因携带者数量将增至约2.6万，多数州ALS诊所需增加100次以上年就诊量。
+   - https://pubmed.ncbi.nlm.nih.gov/42367369/
+4. **ALS/FTD发病机制中的先天免疫串扰**
    - 临床试验 / 综述/荟萃分析 / high
-   - ALS/FTD中先天免疫通路（cGAS-STING、NLRP3、TREM2-DAP12）之间存在串扰，且这种串扰是疾病进展的主动驱动因素。
+   - ALS/FTD中cGAS-STING、NLRP3和TREM2-DAP12三条先天免疫通路被致病蛋白激活并相互串扰，共同驱动疾病进展。
    - https://pubmed.ncbi.nlm.nih.gov/42359357/
-3. **ALS中TDP-43病理的PBMC DEG/miRNA生物标志物**
+5. **ALS中TDP-43病理的PBMC DEG/miRNA生物标志物**
    - 生物标志物 / 观察性临床研究 / high
-   - 在ALS患者PBMC中鉴定出5个基因和4个miRNA组成的诊断特征，AUC达0.87-1.00，且对帕金森病具有特异性。
+   - 在ALS患者PBMC中鉴定出5个基因（Mctp1、Penk、Mt2A、Drd1、Rasgrp2）和4个miRNA组成的特征，能高精度区分ALS与健康对照及PD（AUC 0.87-1.00）。
    - https://pubmed.ncbi.nlm.nih.gov/42251967/
-4. **早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变**
+6. **早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变**
    - 临床试验 / 动物/细胞实验 / high
-   - 溶酶体PI(3,5)P₂不足在神经退行性变发生前即引发早发性神经炎症，且炎症涉及多种细胞死亡通路，小胶质细胞表型部分由神经元和星形胶质细胞非细胞自主驱动。
+   - 溶酶体PI(3,5)P₂不足在神经退行性变发生前即引发早期神经炎症，该炎症由小胶质细胞促氧化状态和多种炎症性细胞死亡通路驱动，且部分由神经元和星形胶质细胞的非细胞自主机制介导。
    - https://pubmed.ncbi.nlm.nih.gov/42242586/
-5. **IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态**
+7. **IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态**
    - 临床试验 / 动物/细胞实验 / high
-   - IRE1通过经典和非经典途径激活RQC通路，促进异常TDP-43翻译产物的降解，从而减轻TDP-43病理并改善ALS小鼠模型的认知功能。
+   - IRE1通过经典和非经典途径激活RQC通路，促进异常TDP-43翻译产物的降解，减轻TDP-43病理并改善ALS小鼠模型的认知功能。
    - https://pubmed.ncbi.nlm.nih.gov/42341041/
-6. **居家与诊室肺活量测量的一致性：来自HEALEY ALS平台试验的见解**
-   - 机制 / 综述/荟萃分析 / high
-   - 居家与诊室肺活量测量在横断面和纵向上高度一致，居家测量可有效预测生存期。
-   - https://pubmed.ncbi.nlm.nih.gov/42366580/
-7. **溶酶体自噬保护FTLD中ANXA11淀粉样纤维毒性和传播**
-   - 临床试验 / 动物/细胞实验 / high
-   - ANXA11纤维通过诱导溶酶体膜透化引发神经毒性，p38/MK2/HSP27轴介导的溶酶体自噬是限制其传播的关键防御机制。
-   - https://pubmed.ncbi.nlm.nih.gov/42365390/
-8. **阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架**
-   - 临床试验 / 待人工判定 / high
-   - 提出阻抗失配理论，认为神经退行性疾病源于神经计算中的能量供需失配导致的局部热失控，并引入神经生理负荷指数作为量化工具。
-   - https://pubmed.ncbi.nlm.nih.gov/42364760/
+8. **待复核翻译：Oxidative Stress and Apoptosis of Energy Metabolism by Deferiprone From the Circulating Lymphocytes**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT02880033

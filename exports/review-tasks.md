@@ -1,28 +1,36 @@
 # 复核任务清单
 
+- [ ] [高优先级] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
+  - https://pubmed.ncbi.nlm.nih.gov/42374626/
 - [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展 (pmid-42359165)
   - https://pubmed.ncbi.nlm.nih.gov/42359165/
+- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期照护 (pmid-42367369)
+  - https://pubmed.ncbi.nlm.nih.gov/42367369/
+- [ ] [疑似误收] 帕金森病患者自我报告的症状负担 (pmid-42361332)
+  - https://pubmed.ncbi.nlm.nih.gov/42361332/
 - [ ] [高优先级] ALS/FTD发病机制中的先天免疫串扰 (pmid-42359357)
   - https://pubmed.ncbi.nlm.nih.gov/42359357/
 - [ ] [高优先级] ALS中TDP-43病理的PBMC DEG/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
 - [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变 (pmid-42242586)
   - https://pubmed.ncbi.nlm.nih.gov/42242586/
-- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
+- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异中的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
 - [ ] [高优先级] 主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年） (pmid-42247653)
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
+- [ ] [高优先级] 星形胶质细胞中的先天免疫信号传导与功能 (pmid-42373786)
+  - https://pubmed.ncbi.nlm.nih.gov/42373786/
+- [ ] [高优先级] 适应性免疫在神经退行性疾病发病机制中的作用 (pmid-42373784)
+  - https://pubmed.ncbi.nlm.nih.gov/42373784/
+- [ ] [疑似误收] 颈髓半切后膈肌运动神经元周围神经元网络的大小依赖性改变 (pmid-42258373)
+  - https://pubmed.ncbi.nlm.nih.gov/42258373/
 - [ ] 水飞蓟素对ALS相关hSOD1 P66R突变体淀粉样蛋白形成的抑制作用 (pmid-42250707)
   - https://pubmed.ncbi.nlm.nih.gov/42250707/
+- [ ] 晚发型泰-萨克斯病——一种伴有精神科后遗症的小脑和运动神经元疾病 (pmid-42234134)
+  - https://pubmed.ncbi.nlm.nih.gov/42234134/
 - [ ] [高优先级] IRE1通过核糖体相关质量控制调控ALS/FTD中TDP-43/TARDBP的蛋白稳态 (pmid-42341041)
   - https://pubmed.ncbi.nlm.nih.gov/42341041/
-- [ ] [高优先级] 居家与诊室肺活量测量的一致性：来自HEALEY ALS平台试验的见解 (pmid-42366580)
-  - https://pubmed.ncbi.nlm.nih.gov/42366580/
-- [ ] [高优先级] 溶酶体自噬保护FTLD中ANXA11淀粉样纤维毒性和传播 (pmid-42365390)
-  - https://pubmed.ncbi.nlm.nih.gov/42365390/
-- [ ] [高优先级] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
-  - https://pubmed.ncbi.nlm.nih.gov/42364760/
-- [ ] [疑似误收] 经治成人脊髓性肌萎缩症的纵向运动功能与生物标志物相关性：一项单中心队列研究 (epmc-PMC-PMC13295155)
+- [ ] [疑似误收] 经治疗的成人脊髓性肌萎缩症中的纵向运动功能与生物标志物相关性：一项单中心队列研究 (epmc-PMC-PMC13295155)
   - https://europepmc.org/article/PMC/PMC13295155
 - [ ] [疑似误收] 帕金森病步态障碍的虚拟现实训练：基于CiteSpace和VOSviewer的热点与趋势文献计量与可视化分析 (epmc-PMC-PMC13293783)
   - https://europepmc.org/article/PMC/PMC13293783
@@ -32,14 +40,6 @@
   - https://europepmc.org/article/PMC/PMC13294195
 - [ ] [疑似误收] 乙酰胆碱受体抗体阳性重症肌无力与肯尼迪病重叠综合征：一例病例报告及文献综述 (epmc-PMC-PMC13294539)
   - https://europepmc.org/article/PMC/PMC13294539
-- [ ] [疑似误收] [高优先级] 脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷 (pmid-42362038)
-  - https://pubmed.ncbi.nlm.nih.gov/42362038/
-- [ ] ALS诊断时感觉神经传导异常的特征分析 (pmid-42360563)
-  - https://pubmed.ncbi.nlm.nih.gov/42360563/
-- [ ] 靶向线粒体DNA调控神经退行性疾病中的线粒体功能障碍 (pmid-42360551)
-  - https://pubmed.ncbi.nlm.nih.gov/42360551/
-- [ ] [高优先级] 肌萎缩侧索硬化症中心血管自主神经反射的无创评估：一项系统综述 (pmid-42359947)
-  - https://pubmed.ncbi.nlm.nih.gov/42359947/
 - [ ] [疑似误收] 待复核翻译：The dual role of ATF4 in neurons: from stress adaptation to therapeutic intervention (epmc-PMC-PMC13294100)
   - https://europepmc.org/article/PMC/PMC13294100
 - [ ] [疑似误收] 待复核翻译：AI-Assisted Coherent Raman Scattering Microscopy for Clinical Translation (epmc-PMC-PMC13291945)
@@ -52,6 +52,14 @@
   - https://europepmc.org/article/PMC/PMC13290518
 - [ ] Real-World Serum 神经丝轻链 and GFAP in 肌萎缩侧索硬化症 on a Commercial ECLIA Platform (epmc-PPR-PPR1260750)
   - https://doi.org/10.64898/2026.06.24.26356370
+- [ ] [疑似误收] 待复核翻译：Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy. (epmc-MED-42362038)
+  - https://doi.org/10.1016/j.expneurol.2026.115898
+- [ ] [疑似误收] 待复核翻译：Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis. (epmc-MED-42360563)
+  - https://doi.org/10.1007/s10072-026-09203-0
+- [ ] [疑似误收] Targeting mtDNA to Modulate 线粒体l Dysfunction in Neurodegenerative Diseases. (epmc-MED-42360551)
+  - https://doi.org/10.1007/s12035-026-06008-2
+- [ ] Noninvasive assessment of cardiovascular autonomic reflexes in 肌萎缩侧索硬化症: a systematic review. (epmc-MED-42359947)
+  - https://doi.org/10.1080/21678421.2026.2692135
 - [ ] [高优先级] 待复核翻译：Oxidative Stress and Apoptosis of Energy Metabolism by Deferiprone From the Circulating Lymphocytes (trial-NCT02880033)
   - https://clinicaltrials.gov/study/NCT02880033
 - [ ] [高优先级] 待复核翻译：Impact of Robotic Glove Use on Quality of Life, Grip Strength and Fine Motor Control in ALS (trial-NCT07298486)
