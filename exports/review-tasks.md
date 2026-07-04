@@ -2,60 +2,62 @@
 
 - [ ] [高优先级] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
   - https://pubmed.ncbi.nlm.nih.gov/42374626/
-- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展 (pmid-42359165)
+- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展 (pmid-42359165)
   - https://pubmed.ncbi.nlm.nih.gov/42359165/
+- [ ] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
+  - https://pubmed.ncbi.nlm.nih.gov/42395866/
 - [ ] [高优先级] ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活 (pmid-42392979)
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
-- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供纵向护理 (pmid-42367369)
+- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理 (pmid-42367369)
   - https://pubmed.ncbi.nlm.nih.gov/42367369/
-- [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
+- [ ] [疑似误收] 帕金森病患者自我报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
 - [ ] [高优先级] ALS/FTD发病机制中的先天免疫串扰 (pmid-42359357)
   - https://pubmed.ncbi.nlm.nih.gov/42359357/
 - [ ] [高优先级] ALS中TDP-43病理的PBMC DEG/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
-- [ ] [高优先级] 早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变 (pmid-42242586)
-  - https://pubmed.ncbi.nlm.nih.gov/42242586/
 - [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
 - [ ] [高优先级] 主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年） (pmid-42247653)
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
-- [ ] [高优先级] 中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的增长——基于GBD 2021的分析 (pmid-42393482)
-  - https://pubmed.ncbi.nlm.nih.gov/42393482/
-- [ ] 超声在解决神经退行性疾病中的作用：机制、应用与挑战综述 (pmid-42055109)
-  - https://pubmed.ncbi.nlm.nih.gov/42055109/
-- [ ] [高优先级] 人类额颞叶痴呆和肌萎缩侧索硬化症死后脑组织中尿素水平升高：多痴呆致病机制的证据 (pmid-42391458)
-  - https://pubmed.ncbi.nlm.nih.gov/42391458/
-- [ ] [高优先级] TDP-43 C末端结构域形成的圆形和甜甜圈样寡聚体的纳米尺度形态与结构分析 (pmid-42389895)
-  - https://pubmed.ncbi.nlm.nih.gov/42389895/
-- [ ] [疑似误收] 上运动神经元综合征患者异常关节姿势中痉挛肌肉的识别：一篇叙述性综述 (pmid-42387889)
-  - https://pubmed.ncbi.nlm.nih.gov/42387889/
-- [ ] [高优先级] SGK1介导的小胶质细胞吞噬功能缺陷驱动肌萎缩侧索硬化症的病理进展 (epmc-MED-42387584)
+- [ ] SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告 (pmid-42399593)
+  - https://pubmed.ncbi.nlm.nih.gov/42399593/
+- [ ] [高优先级] 靶向TDP-43低复杂度结构域内保守区的治疗策略在肌萎缩侧索硬化小鼠模型中具有神经保护作用并延长生存期 (pmid-42399370)
+  - https://pubmed.ncbi.nlm.nih.gov/42399370/
+- [ ] [高优先级] 接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究 (pmid-42399152)
+  - https://pubmed.ncbi.nlm.nih.gov/42399152/
+- [ ] [高优先级] 肌萎缩侧索硬化症的全球流行病学：系统综述与荟萃分析 (pmid-42399099)
+  - https://pubmed.ncbi.nlm.nih.gov/42399099/
+- [ ] 放射学引导下胃造口术在晚期肌萎缩侧索硬化症中的临床结局 (pmid-42399082)
+  - https://pubmed.ncbi.nlm.nih.gov/42399082/
+- [ ] [疑似误收] AART实现快速准确的跨平台蛋白质组翻译 (epmc-PPR-PPR1271455)
+  - https://doi.org/10.64898/2026.06.29.735313
+- [ ] [疑似误收] RD-OMICS：罕见病整合多组学数据目录 (epmc-PPR-PPR1271314)
+  - https://doi.org/10.64898/2026.06.29.735296
+- [ ] 中国人群肌萎缩侧索硬化症综合关联分析与风险预测的案例研究 (epmc-MED-42397462)
+  - https://doi.org/10.1007/s11033-026-12221-y
+- [ ] [高优先级] 中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的负担增加——基于GBD 2021的分析 (epmc-MED-42393482)
+  - https://doi.org/10.1007/s10072-026-09200-3
+- [ ] [高优先级] 早期肌萎缩侧索硬化症的结构-功能网络解耦揭示细胞类型特异性转录特征 (epmc-MED-42393685)
+  - https://doi.org/10.1186/s12916-026-04932-7
+- [ ] Elevated urea levels in human 额颞叶痴呆 and 肌萎缩侧索硬化症 post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism. (epmc-MED-42391458)
+  - https://doi.org/10.1093/molecular-omics/aaiag019
+- [ ] [疑似误收] 待复核翻译：Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43. (epmc-MED-42389895)
+  - https://doi.org/10.1039/d6cp01760f
+- [ ] [疑似误收] 待复核翻译：Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review. (epmc-MED-42387889)
+  - https://doi.org/10.2340/jrm.v58.45077
+- [ ] SGK1-mediated deficits in 小胶质细胞l phagocytosis drive pathological progression in 肌萎缩侧索硬化症. (epmc-MED-42387584)
   - https://doi.org/10.1186/s12974-026-03925-w
-- [ ] [疑似误收] Toll样受体及口腔-肠道-脑轴在神经退行性和神经精神疾病中的作用 (epmc-MED-42383392)
+- [ ] [疑似误收] 待复核翻译：Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders. (epmc-MED-42383392)
   - https://doi.org/10.1515/revneuro-2026-0064
-- [ ] [疑似误收] 肌肉特异性激酶信号及其治疗潜力 (epmc-MED-42387809)
+- [ ] [疑似误收] 待复核翻译：Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways. (epmc-MED-42393897)
+  - https://doi.org/10.2174/0118715249457554260605114916
+- [ ] [疑似误收] 待复核翻译：Muscle-Specific Kinase Signaling and Its Therapeutic Potential. (epmc-MED-42387809)
   - https://doi.org/10.1002/mus.70129
-- [ ] Atalante外骨骼辅助步态训练在肌萎缩侧索硬化中的安全性、可行性与初步效果：一项前瞻性ABA试验研究 (epmc-MED-42387593)
+- [ ] Safety, feasibility and preliminary effects of Atalante exoskeleton-assisted gait training in 肌萎缩侧索硬化症: a prospective ABA pilot study. (epmc-MED-42387593)
   - https://doi.org/10.1186/s12984-026-02046-y
-- [ ] [疑似误收] 与散发性ALS相关的SQSTM1 L341V变异促进泛素阳性SQSTM1小体增大和积累 (epmc-MED-42386657)
+- [ ] [疑似误收] 待复核翻译：The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies. (epmc-MED-42386657)
   - https://doi.org/10.1111/gtc.70134
-- [ ] 运动神经元病: Australian state makes condition notifiable disease in world first. (epmc-MED-42386315)
-  - https://doi.org/10.1136/bmj-2026-100149
-- [ ] [疑似误收] 待复核翻译：Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders. (epmc-MED-42385702)
-  - https://doi.org/10.1016/j.cell.2026.06.013
-- [ ] [疑似误收] 待复核翻译：Understanding patients' experiences and needs around decision-making for bulbar symptom management at a multidisciplinary ALS clinic. (epmc-MED-42385017)
-  - https://doi.org/10.1080/09638288.2026.2693395
-- [ ] [疑似误收] 待复核翻译：RNA dysregulation and compromised neuronal identity drive pathogenesis in Senataxin-associated ALS (epmc-PPR-PPR1263998)
-  - https://doi.org/10.64898/2026.06.30.735532
-- [ ] [疑似误收] Association between motor cortex grey matter loss and inability to control an ECoG-based implanted 脑机接口 in ALS (epmc-PPR-PPR1263883)
-  - https://doi.org/10.64898/2026.06.23.26355654
-- [ ] [疑似误收] The Eye as a Window to Neurodegeneration: Oxidative Stress, Optic Nerve Vulnerability, and Retinal 生物标志物s. A Scoping Review (epmc-PPR-PPR1263004)
-  - https://doi.org/10.20944/preprints202606.2257.v1
-- [ ] Genome-wide spectrum of coding DNA variations in Indian patients with 肌萎缩侧索硬化症. (epmc-MED-42384233)
-  - https://doi.org/10.1007/s00415-026-13819-9
-- [ ] [疑似误收] 待复核翻译：PBX-dependent and -independent Hox programs establish and maintain motor neuron terminal identity. (epmc-MED-42383485)
-  - https://doi.org/10.1242/dev.205511
 - [ ] [高优先级] HD-tDCS in 肌萎缩侧索硬化症: A Multicenter 随机 Controlled Trial (trial-NCT06719947)
   - https://clinicaltrials.gov/study/NCT06719947
 - [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS (trial-NCT07618585)

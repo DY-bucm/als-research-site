@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-03T09:48:57.537Z",
+  "updatedAt": "2026-07-04T08:15:07.618Z",
   "summary": {
-    "totalItems": 43,
+    "totalItems": 44,
     "issueCount": 52
   },
   "sources": [
@@ -25,7 +25,7 @@
     {
       "id": "pmid-42361332",
       "title": "Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
-      "titleZh": "帕金森病患者报告的症状负担",
+      "titleZh": "帕金森病患者自我报告的症状负担",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -34,31 +34,75 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
     },
     {
-      "id": "pmid-42387889",
-      "title": "Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review.",
-      "titleZh": "上运动神经元综合征患者异常关节姿势中痉挛肌肉的识别：一篇叙述性综述",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42387889/"
-    },
-    {
-      "id": "epmc-MED-42383392",
-      "title": "Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
-      "titleZh": "Toll样受体及口腔-肠道-脑轴在神经退行性和神经精神疾病中的作用",
+      "id": "epmc-PPR-PPR1271455",
+      "title": "AART enables fast and accurate cross-platform proteomic translation",
+      "titleZh": "AART实现快速准确的跨平台蛋白质组翻译",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.06.29.735313"
+    },
+    {
+      "id": "epmc-PPR-PPR1271314",
+      "title": "RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
+      "titleZh": "RD-OMICS：罕见病整合多组学数据目录",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.06.29.735296"
+    },
+    {
+      "id": "epmc-MED-42389895",
+      "title": "Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43.",
+      "titleZh": "待复核翻译：Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1039/d6cp01760f"
+    },
+    {
+      "id": "epmc-MED-42387889",
+      "title": "Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review.",
+      "titleZh": "待复核翻译：Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review.",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.2340/jrm.v58.45077"
+    },
+    {
+      "id": "epmc-MED-42383392",
+      "title": "Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
+      "titleZh": "待复核翻译：Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
       "url": "https://doi.org/10.1515/revneuro-2026-0064"
+    },
+    {
+      "id": "epmc-MED-42393897",
+      "title": "Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways.",
+      "titleZh": "待复核翻译：Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways.",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.2174/0118715249457554260605114916"
     },
     {
       "id": "epmc-MED-42387809",
       "title": "Muscle-Specific Kinase Signaling and Its Therapeutic Potential.",
-      "titleZh": "肌肉特异性激酶信号及其治疗潜力",
+      "titleZh": "待复核翻译：Muscle-Specific Kinase Signaling and Its Therapeutic Potential.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
@@ -69,79 +113,13 @@
     {
       "id": "epmc-MED-42386657",
       "title": "The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies.",
-      "titleZh": "与散发性ALS相关的SQSTM1 L341V变异促进泛素阳性SQSTM1小体增大和积累",
+      "titleZh": "待复核翻译：The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies.",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1111/gtc.70134"
-    },
-    {
-      "id": "epmc-MED-42385702",
-      "title": "Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders.",
-      "titleZh": "待复核翻译：Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.cell.2026.06.013"
-    },
-    {
-      "id": "epmc-MED-42385017",
-      "title": "Understanding patients' experiences and needs around decision-making for bulbar symptom management at a multidisciplinary ALS clinic.",
-      "titleZh": "待复核翻译：Understanding patients' experiences and needs around decision-making for bulbar symptom management at a multidisciplinary ALS clinic.",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/09638288.2026.2693395"
-    },
-    {
-      "id": "epmc-PPR-PPR1263998",
-      "title": "RNA dysregulation and compromised neuronal identity drive pathogenesis in Senataxin-associated ALS",
-      "titleZh": "待复核翻译：RNA dysregulation and compromised neuronal identity drive pathogenesis in Senataxin-associated ALS",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.30.735532"
-    },
-    {
-      "id": "epmc-PPR-PPR1263883",
-      "title": "Association between motor cortex grey matter loss and inability to control an ECoG-based implanted Brain-Computer Interface in ALS",
-      "titleZh": "Association between motor cortex grey matter loss and inability to control an ECoG-based implanted 脑机接口 in ALS",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.23.26355654"
-    },
-    {
-      "id": "epmc-PPR-PPR1263004",
-      "title": "The Eye as a Window to Neurodegeneration: Oxidative Stress, Optic Nerve Vulnerability, and Retinal Biomarkers. A Scoping Review",
-      "titleZh": "The Eye as a Window to Neurodegeneration: Oxidative Stress, Optic Nerve Vulnerability, and Retinal 生物标志物s. A Scoping Review",
-      "category": "生物标志物",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.20944/preprints202606.2257.v1"
-    },
-    {
-      "id": "epmc-MED-42383485",
-      "title": "PBX-dependent and -independent Hox programs establish and maintain motor neuron terminal identity.",
-      "titleZh": "待复核翻译：PBX-dependent and -independent Hox programs establish and maintain motor neuron terminal identity.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1242/dev.205511"
     }
   ],
   "missingIdentifiers": [],
@@ -158,31 +136,141 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
     },
     {
-      "id": "epmc-MED-42387584",
-      "title": "SGK1-mediated deficits in microglial phagocytosis drive pathological progression in amyotrophic lateral sclerosis.",
-      "titleZh": "SGK1介导的小胶质细胞吞噬功能缺陷驱动肌萎缩侧索硬化症的病理进展",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
+      "id": "pmid-42399593",
+      "title": "Early and severe masticatory muscle involvement in SOD1-ALS: a case report with biomarker-clinical dissociation.",
+      "titleZh": "SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1186/s12974-026-03925-w"
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399593/"
     },
     {
-      "id": "epmc-MED-42383392",
-      "title": "Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
-      "titleZh": "Toll样受体及口腔-肠道-脑轴在神经退行性和神经精神疾病中的作用",
+      "id": "epmc-PPR-PPR1271455",
+      "title": "AART enables fast and accurate cross-platform proteomic translation",
+      "titleZh": "AART实现快速准确的跨平台蛋白质组翻译",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.06.29.735313"
+    },
+    {
+      "id": "epmc-PPR-PPR1271314",
+      "title": "RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
+      "titleZh": "RD-OMICS：罕见病整合多组学数据目录",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.06.29.735296"
+    },
+    {
+      "id": "epmc-MED-42397462",
+      "title": "A case study of comprehensive association analysis and risk prediction of amyotrophic lateral sclerosis in a Chinese population.",
+      "titleZh": "中国人群肌萎缩侧索硬化症综合关联分析与风险预测的案例研究",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11033-026-12221-y"
+    },
+    {
+      "id": "epmc-MED-42393482",
+      "title": "Diverging trends in motor neuron disease burden in China: an ageing-driven increase despite declining age-standardised rates - a GBD 2021 analysis.",
+      "titleZh": "中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的负担增加——基于GBD 2021的分析",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://doi.org/10.1007/s10072-026-09200-3"
+    },
+    {
+      "id": "epmc-MED-42393685",
+      "title": "Structural-functional network decoupling in early stage amyotrophic lateral sclerosis reveals cell-type specific transcriptional signatures.",
+      "titleZh": "早期肌萎缩侧索硬化症的结构-功能网络解耦揭示细胞类型特异性转录特征",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://doi.org/10.1186/s12916-026-04932-7"
+    },
+    {
+      "id": "epmc-MED-42391458",
+      "title": "Elevated urea levels in human frontotemporal dementia and amyotrophic lateral sclerosis post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism.",
+      "titleZh": "Elevated urea levels in human 额颞叶痴呆 and 肌萎缩侧索硬化症 post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1093/molecular-omics/aaiag019"
+    },
+    {
+      "id": "epmc-MED-42389895",
+      "title": "Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43.",
+      "titleZh": "待复核翻译：Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1039/d6cp01760f"
+    },
+    {
+      "id": "epmc-MED-42387889",
+      "title": "Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review.",
+      "titleZh": "待复核翻译：Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review.",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.2340/jrm.v58.45077"
+    },
+    {
+      "id": "epmc-MED-42387584",
+      "title": "SGK1-mediated deficits in microglial phagocytosis drive pathological progression in amyotrophic lateral sclerosis.",
+      "titleZh": "SGK1-mediated deficits in 小胶质细胞l phagocytosis drive pathological progression in 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12974-026-03925-w"
+    },
+    {
+      "id": "epmc-MED-42383392",
+      "title": "Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
+      "titleZh": "待复核翻译：Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
       "url": "https://doi.org/10.1515/revneuro-2026-0064"
+    },
+    {
+      "id": "epmc-MED-42393897",
+      "title": "Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways.",
+      "titleZh": "待复核翻译：Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways.",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.2174/0118715249457554260605114916"
     },
     {
       "id": "epmc-MED-42387809",
       "title": "Muscle-Specific Kinase Signaling and Its Therapeutic Potential.",
-      "titleZh": "肌肉特异性激酶信号及其治疗潜力",
+      "titleZh": "待复核翻译：Muscle-Specific Kinase Signaling and Its Therapeutic Potential.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
@@ -193,112 +281,24 @@
     {
       "id": "epmc-MED-42387593",
       "title": "Safety, feasibility and preliminary effects of Atalante exoskeleton-assisted gait training in amyotrophic lateral sclerosis: a prospective ABA pilot study.",
-      "titleZh": "Atalante外骨骼辅助步态训练在肌萎缩侧索硬化中的安全性、可行性与初步效果：一项前瞻性ABA试验研究",
+      "titleZh": "Safety, feasibility and preliminary effects of Atalante exoskeleton-assisted gait training in 肌萎缩侧索硬化症: a prospective ABA pilot study.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s12984-026-02046-y"
     },
     {
       "id": "epmc-MED-42386657",
       "title": "The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies.",
-      "titleZh": "与散发性ALS相关的SQSTM1 L341V变异促进泛素阳性SQSTM1小体增大和积累",
+      "titleZh": "待复核翻译：The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies.",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1111/gtc.70134"
-    },
-    {
-      "id": "epmc-MED-42386315",
-      "title": "Motor neuron disease: Australian state makes condition notifiable disease in world first.",
-      "titleZh": "运动神经元病: Australian state makes condition notifiable disease in world first.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1136/bmj-2026-100149"
-    },
-    {
-      "id": "epmc-MED-42385702",
-      "title": "Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders.",
-      "titleZh": "待复核翻译：Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.cell.2026.06.013"
-    },
-    {
-      "id": "epmc-MED-42385017",
-      "title": "Understanding patients' experiences and needs around decision-making for bulbar symptom management at a multidisciplinary ALS clinic.",
-      "titleZh": "待复核翻译：Understanding patients' experiences and needs around decision-making for bulbar symptom management at a multidisciplinary ALS clinic.",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/09638288.2026.2693395"
-    },
-    {
-      "id": "epmc-PPR-PPR1263998",
-      "title": "RNA dysregulation and compromised neuronal identity drive pathogenesis in Senataxin-associated ALS",
-      "titleZh": "待复核翻译：RNA dysregulation and compromised neuronal identity drive pathogenesis in Senataxin-associated ALS",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.30.735532"
-    },
-    {
-      "id": "epmc-PPR-PPR1263883",
-      "title": "Association between motor cortex grey matter loss and inability to control an ECoG-based implanted Brain-Computer Interface in ALS",
-      "titleZh": "Association between motor cortex grey matter loss and inability to control an ECoG-based implanted 脑机接口 in ALS",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.23.26355654"
-    },
-    {
-      "id": "epmc-PPR-PPR1263004",
-      "title": "The Eye as a Window to Neurodegeneration: Oxidative Stress, Optic Nerve Vulnerability, and Retinal Biomarkers. A Scoping Review",
-      "titleZh": "The Eye as a Window to Neurodegeneration: Oxidative Stress, Optic Nerve Vulnerability, and Retinal 生物标志物s. A Scoping Review",
-      "category": "生物标志物",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.20944/preprints202606.2257.v1"
-    },
-    {
-      "id": "epmc-MED-42384233",
-      "title": "Genome-wide spectrum of coding DNA variations in Indian patients with amyotrophic lateral sclerosis.",
-      "titleZh": "Genome-wide spectrum of coding DNA variations in Indian patients with 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00415-026-13819-9"
-    },
-    {
-      "id": "epmc-MED-42383485",
-      "title": "PBX-dependent and -independent Hox programs establish and maintain motor neuron terminal identity.",
-      "titleZh": "待复核翻译：PBX-dependent and -independent Hox programs establish and maintain motor neuron terminal identity.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1242/dev.205511"
     }
   ],
   "highPriorityNeedsReview": [
@@ -316,7 +316,7 @@
     {
       "id": "pmid-42359165",
       "title": "Therapeutic frontiers in ALS: iPSC-based drug discovery, cell therapy, and gene therapy-Advances through 2026.",
-      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展",
+      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展",
       "category": "临床试验",
       "evidenceLevel": "临床试验研究",
       "relevanceScore": 11,
@@ -338,7 +338,7 @@
     {
       "id": "pmid-42367369",
       "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
-      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供纵向护理",
+      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理",
       "category": "遗传",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 15,
@@ -369,17 +369,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42251967/"
     },
     {
-      "id": "pmid-42242586",
-      "title": "Early-onset neuroinflammation drives neurodegeneration caused by lysosomal PI(3,5)P 2 insufficiency.",
-      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42242586/"
-    },
-    {
       "id": "pmid-42247653",
       "title": "Drivers of Rising Prevalence in Major Motor Neurodegenerative Diseases: Temporal Trends in Sweden and France (2003-2022).",
       "titleZh": "主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年）",
@@ -391,48 +380,59 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247653/"
     },
     {
-      "id": "pmid-42393482",
+      "id": "pmid-42399370",
+      "title": "Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in amyotrophic lateral sclerosis mice.",
+      "titleZh": "靶向TDP-43低复杂度结构域内保守区的治疗策略在肌萎缩侧索硬化小鼠模型中具有神经保护作用并延长生存期",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399370/"
+    },
+    {
+      "id": "pmid-42399152",
+      "title": "Macrophage inclusions in patients undergoing antisense oligonucleotide therapy for ALS or SMA: A retrospective and transversal study.",
+      "titleZh": "接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 17,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399152/"
+    },
+    {
+      "id": "pmid-42399099",
+      "title": "Global epidemiology of amyotrophic lateral sclerosis: a systematic review and meta-analysis.",
+      "titleZh": "肌萎缩侧索硬化症的全球流行病学：系统综述与荟萃分析",
+      "category": "遗传",
+      "evidenceLevel": "系统综述/荟萃分析",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399099/"
+    },
+    {
+      "id": "epmc-MED-42393482",
       "title": "Diverging trends in motor neuron disease burden in China: an ageing-driven increase despite declining age-standardised rates - a GBD 2021 analysis.",
-      "titleZh": "中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的增长——基于GBD 2021的分析",
+      "titleZh": "中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的负担增加——基于GBD 2021的分析",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42393482/"
+      "url": "https://doi.org/10.1007/s10072-026-09200-3"
     },
     {
-      "id": "pmid-42391458",
-      "title": "Elevated urea levels in human frontotemporal dementia and amyotrophic lateral sclerosis post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism.",
-      "titleZh": "人类额颞叶痴呆和肌萎缩侧索硬化症死后脑组织中尿素水平升高：多痴呆致病机制的证据",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391458/"
-    },
-    {
-      "id": "pmid-42389895",
-      "title": "Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43.",
-      "titleZh": "TDP-43 C末端结构域形成的圆形和甜甜圈样寡聚体的纳米尺度形态与结构分析",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42389895/"
-    },
-    {
-      "id": "epmc-MED-42387584",
-      "title": "SGK1-mediated deficits in microglial phagocytosis drive pathological progression in amyotrophic lateral sclerosis.",
-      "titleZh": "SGK1介导的小胶质细胞吞噬功能缺陷驱动肌萎缩侧索硬化症的病理进展",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
+      "id": "epmc-MED-42393685",
+      "title": "Structural-functional network decoupling in early stage amyotrophic lateral sclerosis reveals cell-type specific transcriptional signatures.",
+      "titleZh": "早期肌萎缩侧索硬化症的结构-功能网络解耦揭示细胞类型特异性转录特征",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://doi.org/10.1186/s12974-026-03925-w"
+      "url": "https://doi.org/10.1186/s12916-026-04932-7"
     },
     {
       "id": "trial-NCT06719947",
@@ -602,18 +602,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 11,
+    "疑似误收": 9,
     "缺标识符": 0,
-    "缺摘要": 14,
+    "缺摘要": 16,
     "高优先级待复核": 27,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 43
+    "待复核": 44
   },
   "relevanceCounts": {
     "high": 25,
-    "low": 11,
-    "medium": 7
+    "medium": 10,
+    "low": 9
   }
 }

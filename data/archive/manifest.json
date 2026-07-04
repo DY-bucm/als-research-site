@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-03",
+  "updatedAt": "2026-07-04",
   "snapshots": [
+    {
+      "date": "2026-07-04",
+      "path": "data/archive/2026-07-04.json",
+      "count": 44,
+      "sources": [
+        {
+          "source": "PubMed",
+          "ok": true,
+          "count": 15
+        },
+        {
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 15
+        },
+        {
+          "source": "ClinicalTrials.gov",
+          "ok": true,
+          "count": 15
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "path": "data/archive/2026-07-03.json",

@@ -1,14 +1,54 @@
 {
-  "updatedAt": "2026-07-03T09:46:54.423Z",
+  "updatedAt": "2026-07-04T08:13:18.659Z",
   "period": {
     "days": 10,
-    "from": "2026-06-24",
-    "to": "2026-07-03"
+    "from": "2026-06-25",
+    "to": "2026-07-04"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 53,
+  "count": 59,
   "articles": [
+    {
+      "id": "pmid-42399593",
+      "pmid": "42399593",
+      "doi": "10.1007/s10072-026-09175-1",
+      "title": "Early and severe masticatory muscle involvement in SOD1-ALS: a case report with biomarker-clinical dissociation.",
+      "abstract": "",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "authors": [
+        "Yuan Y",
+        "Ling C",
+        "Wang Z",
+        "Yuan Y",
+        "Zhang W",
+        "Zhao Y"
+      ],
+      "publicationTypes": [
+        "Letter"
+      ],
+      "publishedAt": "2026-07-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399593/"
+    },
+    {
+      "id": "pmid-42397462",
+      "pmid": "42397462",
+      "doi": "10.1007/s11033-026-12221-y",
+      "title": "A case study of comprehensive association analysis and risk prediction of amyotrophic lateral sclerosis in a Chinese population.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a fatal neurodegenerative disease with significant genetic heterogeneity. While large-scale studies have characterized its genetic architecture in European populations, the genetic basis of ALS in the Chinese population remains under-explored. To address this gap, we conducted a comprehensive genetic analysis on a cohort of 40 Chinese individuals (32 ALS patients and 8 controls) using whole genome sequencing. We employed the Phenotype-Covariate Genetic Correlation method to estimate SNP-based heritability on the liability scale and utilized LDAK-KVIK for gene-based association analysis. Our analysis revealed a SNP-based heritability (h 2 SNP ) of approximately 25.1% in this Chinese cohort, with a positive correlation between minor allele frequency and heritability, highlighting the substantial contribution of common variants. Gene-based analysis prioritized candidate risk genes, including MIB1, TMED2, and DOC2B, which implicate ubiquitin-mediated protein degradation and intracellular vesicle trafficking in ALS pathogenesis. In risk prediction models, the BOLT-LMM approach achieved a robust mean Area Under the Curve (AUC) of 0.883. This study provides the first comprehensive estimate of SNP-based heritability in a sequenced Chinese ALS cohort and supports the \"polygenic background\" hypothesis. The identification of candidate risk genes and the preliminary validation of polygenic risk scoring highlight the potential for future genetic stratification in Chinese patients.",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "Xie X",
+        "Jiao X",
+        "Yang K",
+        "Zhang Q"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42397462/"
+    },
     {
       "id": "pmid-42393482",
       "pmid": "42393482",
@@ -27,6 +67,133 @@
       ],
       "publishedAt": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42393482/"
+    },
+    {
+      "id": "pmid-42399099",
+      "pmid": "42399099",
+      "doi": "10.1136/jnnp-2026-338675",
+      "title": "Global epidemiology of amyotrophic lateral sclerosis: a systematic review and meta-analysis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease with the global epidemiological profile remaining incompletely understood. While previous systematic reviews existed, an updated comprehensive synthesis is needed to delineate the disease burden. We searched PubMed, Embase, Scopus, Web of Science and Cochrane databases from inception to 18 February 2025, for studies reporting the incidence, prevalence or mortality of ALS in the general population. Pooled estimates with 95% CIs were calculated, and subgroup analyses were performed. Of 29 110 articles initially screened, 142 were included. Global pooled incidence was 1.65 per 100 000 person-years (95% CI 1.43 to 1.91), prevalence was 5.05 per 100 000 population (95% CI 4.26 to 5.99) and mortality was 1.26 per 100 000 person-years (95% CI 0.94 to 1.69). Both incidence rate ratio (IRR=0.74) and prevalence rate ratio (PRR=0.69) indicated significantly lower disease burden in females than in males. The burden of disease exhibited a marked age-dependent pattern, peaking at ages 70-79. Temporal trend analyses revealed a consistent increase in prevalence from 1963 to 1999 onwards, while incidence peaked in 2014-2017. Geographically, incidence and prevalence were highest in Europe, North America and Oceania and lowest in Asia and South America. The disease burden was significantly higher in high-income countries compared with both upper-middle-income and lower-middle-income countries. This systematic review provides updated global ALS burden estimates, showing variations by sex, age, time and geography and underscoring the complex interplay of genetic, environmental and socioeconomic factors, with implications for health planning, resource allocation and etiological research.",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "authors": [
+        "Liu RY",
+        "Su WM",
+        "Duan QQ",
+        "Wen XJ",
+        "He SY",
+        "Zhang N",
+        "Cao B",
+        "Chen YP"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399099/"
+    },
+    {
+      "id": "pmid-42399152",
+      "pmid": "42399152",
+      "doi": "10.1016/j.neurol.2026.05.005",
+      "title": "Macrophage inclusions in patients undergoing antisense oligonucleotide therapy for ALS or SMA: A retrospective and transversal study.",
+      "abstract": "Intrathecal antisense oligonucleotides (ASOs) have revolutionized the management of genetic motor neuron diseases. Nusinersen is approved for spinal muscular atrophy (SMA) caused by SMN1 mutations, and tofersen for amyotrophic lateral sclerosis (ALS) linked to SOD1 mutations. Since their approval, some studies reported the presence of macrophagic inclusions in cerebrospinal fluid (CSF) of patients treated with ASOs, first in nusinersen-treated patients and more recently in those receiving tofersen. These findings remain poorly characterized, and their clinical significance is unclear. We first conducted a retrospective study in 21 patients (132 CSF samples): six treated with tofersen (every 4 weeks) and 15 with nusinersen (every 4 months). CSF samples were analyzed for macrophagic inclusions, their time of onset, and persistence over time. To assess clinical and inflammatory correlates of macrophagic inclusions, we then performed an analysis of CSF inflammatory biomarkers and serum ferritin and neurofilament light chain tests in 18 of these patients still under treatment. In tofersen-treated patients, macrophagic inclusions were consistently observed and persisted over time, except in one case. In nusinersen-treated patients, inclusions were rare and transient. An inflammatory CSF profile was associated with the presence of inclusions, but their cellular nature remained undetermined. Notably, tofersen-treated patients with \"tofersenophages\" exhibited favorable clinical responses. Macrophagic inclusions appear more frequent in the CSF of tofersen-treated patients than previously reported. While their origin remains unclear, they seem linked to CSF inflammation without precluding a beneficial therapeutic response.",
+      "journal": "Revue neurologique",
+      "authors": [
+        "Demeret R",
+        "Vieles Marais D",
+        "Treiner E",
+        "Acket B",
+        "Fabry V",
+        "Levade T",
+        "Nogueira L",
+        "Pages JC",
+        "Cintas P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399152/"
+    },
+    {
+      "id": "pmid-42398690",
+      "pmid": "42398690",
+      "doi": "10.1016/j.actbio.2026.07.004",
+      "title": "Mutant superoxide dismutase 1-catalyzed hydrogen therapy for amyotrophic lateral sclerosis achieved by intercepting oxidative stress-neuroinflammation crosstalk.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron degeneration in the brain and spinal cord, with mutant superoxide dismutase 1 (SOD1) induced oxidative stress and neuroinflammation as key pathogenic drivers. Here, we uncover that mutant SOD1 is both a Fenton-like agent able for catalytical generation of ·OH and a hydrogenation catalyst for H 2 scavenging reactive oxygen species. To enhance the bioavailability of H 2 , we develop an orally administered Mg 2 Si nanosheets based feed for sustained release of high-amount H 2 . On an ALS model of hSOD1 G93A transgenic mice, Mg 2 Si feed remarkably delays ALS progression, improves the motor performance of ALS mice, and extends their lifespan. Histopathologically, oral Mg 2 Si treatment ameliorates motor neuron degeneration, misfolded SOD1 aggregation and reactive gliosis in spinal cord, while protecting neuromuscular junctions and ameliorating muscle atrophy during disease progression. Transcriptomic analysis demonstrates the H 2 -mediated down-regulation of both oxidative stress and neuroinflammatory pathways in response to the suppression of NLRP3 inflammasome activation. The proposed strategy of catalyzed hydrogen therapy offers an inspiration for metalloproteases-related neurodegenerative diseases treatment. STATEMENT OF SIGNIFICANCE: Amyotrophic lateral sclerosis (ALS) is an incurable and devastating neurodegenerative disease lacking effective clinical interventions. Although hydrogen gas (H 2 ) exhibits promising neuroprotective potential, conventional H 2 therapy is severely limited by unstable and transient H 2 release, failing to sustain long-term treatment requirements for chronic ALS pathogenesis. To overcome this bottleneck, we engineer oral administrable Mg 2 Si nanosheets that enable sustained H 2 release via gastrointestinal retention, achieving stable long-term hydrogen supplementation in vivo. Mechanistically, Mg 2 Si-derived H 2 efficiently eliminates excess free radicals triggered by toxic mutant SOD1, and further disrupts the pathological crosstalk between oxidative stress and neuroinflammation in ALS. In transgenic ALS mice, dietary Mg 2 Si intervention markedly ameliorates motor dysfunction and effectively delays disease progression. Collectively, this study firstly applies Mg 2 Si nanomaterial-based sustained hydrogen therapy for ALS treatment, establishes a novel gastrointestinal hydrogen delivery strategy, and provides an innovative and clinically translatable paradigm for the design of hydrogen delivery systems against neurodegenerative disorders.",
+      "journal": "Acta biomaterialia",
+      "authors": [
+        "Sun Y",
+        "Wang Y",
+        "He Q",
+        "Zhao M",
+        "Guo J",
+        "Xu C",
+        "Yan Q",
+        "Chen Y",
+        "Zhang B",
+        "Du H",
+        "Huo J",
+        "Zhang Y",
+        "Zhang H",
+        "Guan Y",
+        "He Q"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398690/"
+    },
+    {
+      "id": "pmid-42399082",
+      "pmid": "42399082",
+      "doi": "10.1136/spcare-2026-006126",
+      "title": "Radiologically inserted gastrostomy in advanced amyotrophic lateral sclerosis: clinical outcomes.",
+      "abstract": "To evaluate survival and clinical outcomes in patients with amyotrophic lateral sclerosis (ALS) undergoing radiologically inserted gastrostomy (RIG) and to describe outcomes in patients in whom gastrostomy was indicated but not performed. This retrospective observational cohort study included patients with ALS followed by a multidisciplinary palliative care team between 2018 and 2020. Patients were classified according to gastrostomy status (RIG vs no RIG). Clinical data, respiratory support, nutritional status and survival outcomes were collected from medical records. Survival was analysed from gastrostomy indication using Kaplan-Meier curves stratified by baseline non-invasive ventilation (NIV) use. Among 155 patients with ALS, RIG was indicated in 53 and performed in 45; eight patients died before the procedure. 65 patients did not undergo gastrostomy. Median survival after RIG was 14.7 months, compared with 8 months in non-RIG patients who died. Baseline NIV use was associated with longer survival. No major safety concerns were identified. RIG appears to be a safe and feasible option in advanced ALS. Multidisciplinary care with integrated palliative involvement may facilitate referral, optimise nutritional support and support shared decision-making aligned with patients' goals of care. Further prospective studies are needed to confirm benefits and identify intervention timing.",
+      "journal": "BMJ supportive & palliative care",
+      "authors": [
+        "Varela-Cerdeira M",
+        "Nieto LU",
+        "Mendieta MAG",
+        "Recuerda AS",
+        "Benito YM",
+        "Gullon PC",
+        "Alonso-Babarro A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399082/"
+    },
+    {
+      "id": "pmid-42399370",
+      "pmid": "42399370",
+      "doi": "10.1038/s43587-026-01166-3",
+      "title": "Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in amyotrophic lateral sclerosis mice.",
+      "abstract": "Autosomal dominant mutations in TARDBP, encoding TAR DNA-binding protein 43 (TDP-43), cause amyotrophic lateral sclerosis (ALS), and TDP-43 pathology is a hallmark of multiple aging-associated neurodegenerative diseases. Despite its pathological role, effective therapies remain limited by the lack of safe, potent molecules targeting TDP-43 neurotoxicity. Here we show that the conserved α-helical region spanning residues 320-340 (conserved region or CR) is a therapeutically actionable target for TDP-43 neurotoxicity. Deletion of CR markedly suppressed TDP-43-induced neuronal death. Structure-based virtual screening identified XL20, a brain-penetrant small molecule that engages CR and confers neuroprotection without affecting TDP-43 splicing activity. XL20 alleviated motor neuron loss, extended survival in TDP-43 p.Ala315Thr ALS mice and enhanced neuronal function in p.Gln331Lys induced pluripotent stem cell-derived human ALS motor neurons. Mechanistically, targeting CR suppressed TDP-43 mitochondrial localization and restored mitochondrial function, likely through liquid-liquid phase separation. Our findings highlight CR as a therapeutic target for TDP-43-associated neurodegeneration and support CR-binding small molecules as therapeutic candidates.",
+      "journal": "Nature aging",
+      "authors": [
+        "Gao J",
+        "Shukla D",
+        "Ding M",
+        "Qin S",
+        "Tang F",
+        "Guerrero E",
+        "Vicuna L",
+        "Xu J",
+        "Li H",
+        "Miyagi M",
+        "Li PP",
+        "Liang J",
+        "Wang X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399370/"
     },
     {
       "id": "pmid-42392979",
@@ -140,6 +307,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42387584/"
     },
     {
+      "id": "pmid-42393685",
+      "pmid": "42393685",
+      "doi": "10.1186/s12916-026-04932-7",
+      "title": "Structural-functional network decoupling in early stage amyotrophic lateral sclerosis reveals cell-type specific transcriptional signatures.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) involves widespread brain network dysfunction, yet the molecular mechanisms linked to these alterations remain poorly understood. We investigated macroscopic structural-functional coupling abnormalities in early-stage ALS (ALS-ES) and their underlying transcriptomic signatures. We analyzed multimodal MRI data from 73 patients with sporadic ALS-ES and 74 age- and sex-matched healthy controls. Structural-functional (SC-FC) coupling was quantified using diffusion tensor imaging and resting-state functional MRI. Machine learning models were constructed to distinguish patients from controls based on network features. Coupling alterations were spatially correlated with neurotransmitter receptor maps and gene expression profiles from the Allen Human Brain Atlas. Key transcriptomic findings were validated using independent single-cell RNA sequencing datasets. While structural connectivity remained largely preserved, functional connectivity was significantly reduced in the somatomotor network (SMN). This mismatch manifested as significant SC-FC network decoupling, particularly within the SMN (p FDR = 0.001). A gradient boosting machine model accurately classified patients, identifying SC-FC coupling in the left precentral gyrus as a primary statistical contributor to the classification model. Decoupling spatially correlated with 5-HT2A and mGluR5 receptor distributions. Imaging-transcriptomics linked network failure to a gene signature enriched for synaptic pathways and microglial markers. Single-cell analysis identified FMN1 as a candidate gene whose glial expression spatially associates with network decoupling. Early-stage ALS is characterized by significant structural-functional network decoupling, primarily in motor systems. This macroscopic failure is linked to specific microglial dysregulation, particularly FMN1 downregulation, providing a multiscale framework bridges statistical neuroimaging signatures with potential cellular pathology.",
+      "journal": "BMC medicine",
+      "authors": [
+        "Luan J",
+        "Yun Y",
+        "Jiao Y",
+        "Wang Y",
+        "Ma M",
+        "Shan D",
+        "Wang H",
+        "Ji X",
+        "Tang Y",
+        "Li J",
+        "Zhan Z",
+        "Sun X",
+        "Gao N",
+        "Lin P",
+        "Yan C",
+        "Yu D",
+        "Liu S",
+        "Liu F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393685/"
+    },
+    {
       "id": "pmid-42270846",
       "pmid": "42270846",
       "doi": "10.1038/s41582-026-01230-x",
@@ -155,6 +355,28 @@
       ],
       "publishedAt": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42270846/"
+    },
+    {
+      "id": "pmid-42393897",
+      "pmid": "42393897",
+      "doi": "10.2174/0118715249457554260605114916",
+      "title": "Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways.",
+      "abstract": "Weaning is a critical developmental stage that can trigger intestinal inflammation through disruption of microbial homeostasis, immune responses, and epithelial barrier integrity. While numerous studies have explored gene expression changes during weaning in animals, no comparable analyses have been conducted in humans. Given the close physiological and genetic similarity between pigs and humans, piglet data were employed to investigate the molecular mechanisms underlying weaning-induced intestinal inflammation and its potential links to neurological pathways. A curated set of 117 differentially expressed genes related to gut inflammation was collected from bibliographic sources. Protein-protein interaction network analysis was performed using NetworkAnalyst and Cytoscape, followed by hub gene selection and functional enrichment using KOBAS, ClusterProfiler, and StringApp. Among the identified hub genes, SOD1, CAT, TNF, CXCR4, TLR2, and TGFB1 play key roles in oxidative stress, immune response, glial regulation, and neuroinflammatory signaling. Enrichment analysis revealed significant associations with pathways such as Amyotrophic Lateral Sclerosis, TGF-β signaling, Folate and Vitamin B12 metabolism, and Inflammatory Bowel Disease, as well as biological processes like gliogenesis, hypoxia response, and cytokine signaling. These findings suggest that intestinal inflammation during weaning may have systemic implications, highlighting shared molecular pathways relevant to neuroinflammatory-related processes. This study provides new insight into the genetic and molecular landscape of weaning-induced inflammation and its broader systemic effects. The identified shared molecular pathways may provide a foundation for future experimental studies investigating the broader biological implications of early-life intestinal inflammation.",
+      "journal": "Central nervous system agents in medicinal chemistry",
+      "authors": [
+        "Anachad O",
+        "Taha W",
+        "Saadoune C",
+        "Ezaouine A",
+        "Nouadi B",
+        "Bennis F",
+        "Chegdani F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393897/"
     },
     {
       "id": "pmid-42183628",
@@ -723,6 +945,32 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42360563/"
     },
     {
+      "id": "pmid-42394962",
+      "pmid": "42394962",
+      "doi": "10.1016/j.cnp.2026.06.011",
+      "title": "Decremental responses following repetitive nerve stimulation in spinal and bulbar muscular atrophy.",
+      "abstract": "The presence of decremental responses following repetitive nerve stimulation (RNS) in amyotrophic lateral sclerosis (ALS) is well established. However, in spinal and bulbar muscular atrophy (SBMA), a rare X-linked recessive lower motor neuron disease, the incidence and distribution of decremental responses across different muscles have not been thoroughly investigated. Patients with SBMA were retrospectively identified in our database. RNS at a frequency of 3 Hz was performed on five muscles: the abductor pollicis brevis (APB), abductor digiti minimi (ADM), upper trapezius, deltoid, and facial muscles (frontalis or nasalis). A total of forty patients were identified. A significant (> 5%) decremental response in at least one muscle was observed in all patients. It was observed more frequently in proximal muscles than in distal muscles: deltoid (86%), trapezius (70%), facial muscles (44%), APB (37%) and ADM (25%). The magnitude of the decremental response in the deltoid was significantly higher than that in the other muscles. Our results demonstrated that decremental responses were frequently observed in patients with SBMA, with a distribution pattern similar to that in ALS. The fact that the decremental responses are observed in SBMA having an extremely chronic course would be relevant for the pathophysiological mechanism of the decremental response. The RNS findings provide valuable insights into the pathological mechanisms of SBMA and may contribute to the development of future treatments.",
+      "journal": "Clinical neurophysiology practice",
+      "authors": [
+        "Tachiyama K",
+        "Nakamori M",
+        "Fujii Y",
+        "Hokkoku K",
+        "Agari D",
+        "Hemmi S",
+        "Nomura E",
+        "Hatanaka Y",
+        "Kurokawa K",
+        "Sonoo M",
+        "Maruyama H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-06-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394962/"
+    },
+    {
       "id": "pmid-42351263",
       "pmid": "42351263",
       "doi": "10.1186/s40478-026-02356-1",
@@ -789,6 +1037,24 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42360551/"
     },
     {
+      "id": "pmid-42395866",
+      "pmid": "42395866",
+      "doi": "10.1016/j.bbrep.2026.102687",
+      "title": "The role of SUMOylation in regulating proteins that drive neuronal disease progression.",
+      "abstract": "SUMOylation is a post-translational modification in which a Small Ubiquitin-like Modifier (SUMO) protein is reversibly attached to a lysine residue on a target protein in an ATP-dependent process. This modification can affect the function of target proteins by enhancing their stability or changing cellular translocation, thereby making SUMOylation a critical regulator in the pathogenesis of multiple diseases. The functional consequences of SUMOylation, however, are highly context dependent. In Alzheimer's disease, SUMOylation stabilizes proteins that drive disease progression and enhances neurotoxicity, thereby exacerbating these conditions. Similarly, in Progressive Supranuclear Palsy, SUMO-1 conjugation stabilizes truncated tau and blocks its ubiquitination, whereas SUMO-2/3 conjugation promotes Tau clearance and recovery from neuroinflammation, illustrating how distinct SUMO paralogues can exert opposing effects within the same disease. Conversely, increased SUMOylation can be neuroprotective in cerebral ischemia and Parkinson's disease by promoting autophagic clearance of pathogenic proteins. Beyond alterations in protein stability, aberrant SUMOylation can also lead to mis-localization of target proteins, which has been identified as a pathogenic mechanism in disorders such as Huntington's disease and Amyotrophic Lateral Sclerosis that results in impaired clearance and pathogenic buildup, which results in neuronal death. From a therapeutic standpoint, the SUMO inhibitor TAK-981 has shown promise in both Multiple Sclerosis and in pre-clinical glioblastoma models, underscoring the translational potential of targeting of this pathway. This review examines the multifaceted role of SUMOylation across diverse neurological conditions, evaluates the therapeutic potential of SUMO inhibitors and activators, and highlights the opportunities and challenges of modulating this pathway in currently incurable neurological disorders.",
+      "journal": "Biochemistry and biophysics reports",
+      "authors": [
+        "Sidharth A",
+        "Shin D"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-06-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
+    },
+    {
       "id": "pmid-42351313",
       "pmid": "42351313",
       "doi": "10.1186/s40478-026-02351-6",
@@ -833,6 +1099,38 @@
       ],
       "publishedAt": "2026-06-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42351313/"
+    },
+    {
+      "id": "pmid-42395430",
+      "pmid": "42395430",
+      "doi": "10.64898/2026.06.22.730622",
+      "title": "ADAR2-Mediated RNA Editing Promotes TDP-43 Nuclear Export and Alters RNA Binding.",
+      "abstract": "TAR DNA binding protein - 43 (TDP-43) nuclear loss is a pathological hallmark of amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and related neurodegenerative disorders. While the consequences of TDP-43 dysfunction have been well-characterized, the mechanisms driving TDP-43 mislocalization remain poorly understood. Previous observations of altered localization and function of the adenosine-to-inosine (A-to-I) RNA editing enzyme adenosine deaminase acting on RNA 2 (ADAR2) in ALS/FTD tissue prompted us to investigate whether dysregulated RNA editing contributes to pathological TDP-43 nucleocytoplasmic trafficking. TDP-43 cytoplasmic mislocalization was assessed following ADAR2 and TDP-43 co-overexpression in HEK293T cells and a Drosophila model co-overexpressing human TDP-43 and dADAR in motor neurons. We further evaluated TDP-43 mislocalization through both HeLa cell assays and interspecies heterokaryon assays. Next, we assessed TDP-43 binding to A-to-I edited RNA oligomers through electrophoretic mobility shift assays (EMSAs), and investigated inosine-containing RNAs in vivo via TDP-43 RNA immunoprecipitation followed by sequencing (RIP-seq) datasets from human TDP-43-expressing Drosophila . Finally, RNAseq and enhanced cross-linking and immunoprecipitation (eCLIP-seq) were performed in SH-SY5Y cells overexpressing three ADAR2 variants with differing editing activity to identify editing-related transcriptional alterations and RNAs differentially bound to TDP-43. ADAR2 overexpression reduced the nucleocytoplasmic (N:C) ratio of TDP-43 in HEK293T cells in a ADAR2 catalytic activity- and TDP-43 RNA-binding capacity-dependent manner. Drosophila motor neurons overexpressing dADAR also exhibited decreased nuclear TDP-43. Interspecies heterokaryons and permeabilized HeLa cell assays demonstrated that catalytically active ADAR2 and synthetic inosine-containing RNA oligomers, respectively, enhance nuclear export of endogenous TDP-43. EMSAs revealed preferential binding of TDP-43 to inosine-containing RNAs relative to unedited RNAs, and analysis of Drosophila RIP-seq datasets demonstrated enrichment of edited transcripts within TDP-43-bound RNAs. Finally, RNAseq and eCLIP-seq analyses identified editing-dependent alterations in gene expression and TDP-43 RNA-binding profiles in SH-SY5Y cells overexpressing active ADAR2 variants. Together, our findings identify A-to-I RNA editing as a previously unrecognized regulator of TDP-43 localization and RNA interactions. These results support a model where altered RNA editing modifies TDP-43-RNA interactions, promoting increased nuclear export of TDP-43. Broadly, our work highlights RNA editing dysregulation as a potential contributor to early pathogenic mechanisms underlying TDP-43 proteinopathies.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": [
+        "Moore S",
+        "Julian DL",
+        "Alsop E",
+        "Gittings LM",
+        "Lorenzini I",
+        "McMillan M",
+        "Macklin-Isquierdo S",
+        "Lehmkuhl E",
+        "Kalab P",
+        "de Paula Moreira D",
+        "Hayes L",
+        "Donnelly C",
+        "Barmada SJ",
+        "Zarnescu DC",
+        "Van Keuren-Jensen K",
+        "Sattler R"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "publishedAt": "2026-06-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395430/"
     },
     {
       "id": "pmid-42348198",
@@ -1126,129 +1424,6 @@
       ],
       "publishedAt": "2026-06-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42347833/"
-    },
-    {
-      "id": "pmid-42342533",
-      "pmid": "42342533",
-      "doi": "10.1016/j.molmed.2026.06.001",
-      "title": "Amyotrophic lateral sclerosis: A rare but aggressive adult-onset disease.",
-      "abstract": "",
-      "journal": "Trends in molecular medicine",
-      "authors": [
-        "Brodribb L",
-        "Camden P",
-        "Dharmadasa T",
-        "Blizzard C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42342533/"
-    },
-    {
-      "id": "pmid-42341041",
-      "pmid": "42341041",
-      "doi": "10.1073/pnas.2610001123",
-      "title": "IRE1 regulates the proteostasis of TDP-43/TARDBP in ALS/FTD through ribosome-associated quality control.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) are progressive neurodegenerative disorders characterized by motor neuron degeneration, leading to muscle weakness, atrophy, and cognitive impairments. A defining pathological hallmark of ALS/FTD is the cytosolic mislocalization and accumulation of TAR DNA-binding protein 43 (TDP-43), highlighting its critical role in ALS pathogenesis. However, the molecular mechanisms underlying TDP-43 proteostasis remain poorly understood. Through a genetic screening approach, we identify inositol-requiring enzyme 1 (IRE1), an endoplasmic reticulum-resident transmembrane protein, as a potent suppressor of TDP-43 protein levels. Furthermore, we show that ribosome-associated quality control (RQC) factors play a crucial role in regulating TDP-43 proteostasis and cellular toxicity. Activation of the RQC pathway prevents excessive accumulation of TDP-43 and associated toxicity. Mechanistically, our findings suggest that IRE1 regulates TDP-43 protein level by promoting the degradation of aberrant TDP-43 translation product through the RQC pathway. IRE1 acts canonically to enhance the transcription of the RQC core component Clbn/NEMF and noncanonically to physically interact with Clbn/NEMF, thereby ameliorating TDP-43-induced proteotoxicity. Moreover, ectopic expression or pharmacological activation of IRE1 alleviates TDP-43 pathology and restores cognitive function in the TDP-43 A315T ALS mouse models. Collectively, our study identifies a role for IRE1 in the translational quality control of TDP-43 and establishes its potential as a therapeutic target for ALS/FTD.",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "authors": [
-        "Liu D",
-        "Li Y",
-        "Huang S",
-        "Xu Y",
-        "Sun L",
-        "Li W",
-        "O'Kane CJ",
-        "Rubinsztein DC",
-        "Lu B",
-        "Li S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42341041/"
-    },
-    {
-      "id": "pmid-42341118",
-      "pmid": "42341118",
-      "doi": "10.1126/sciadv.ady0256",
-      "title": "Isoform-specific steric zippers drive aberrant assembly and mislocalization of shortened TDP-43.",
-      "abstract": "Prion-like domain (PrLD)-mediated aggregation and concomitant dysfunction of the essential RNA-binding protein transactive response (TAR) DNA-binding protein of 43 kilodaltons (TDP-43) is a common feature of multiple debilitating neurodegenerative disorders, including amyotrophic lateral sclerosis (ALS). However, shortened TDP-43 (sTDP-43) splice isoforms where the PrLD is largely replaced by an 18-residue carboxyl-terminal tail also contribute to ALS pathophysiology and are enriched in motor neurons. Curiously, despite lacking most of the PrLD, sTDP-43 exhibits pronounced insolubility in cells and tissue of patients with ALS. Here, we establish that the short, isoform-specific carboxyl-terminal tail of sTDP-43 confers high aggregation propensity, which is encoded by two clusters of steric zippers, and can be mitigated by short RNA chaperones. Disrupting these zippers enhances sTDP-43 solubility at the pure protein level and in neurons. Notably, these steric zippers, rather than a predicted nuclear export signal in the carboxyl-terminal tail, drive cytoplasmic mislocalization and aggregation of sTDP-43 in neurons. Thus, we define the sequence-encoded determinants of aberrant sTDP-43 assembly and provide mechanistic insights into sTDP-43 disease pathology.",
-      "journal": "Science advances",
-      "authors": [
-        "Copley KE",
-        "Dykstra MM",
-        "Miller MR",
-        "Linsenmeier M",
-        "Lai L",
-        "Wang Y",
-        "Chang YW",
-        "Barmada SJ",
-        "Shorter J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42341118/"
-    },
-    {
-      "id": "pmid-42367369",
-      "pmid": "42367369",
-      "doi": "10.1212/NXG.0000000000200406",
-      "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
-      "abstract": "Emerging genetic therapies and the expansion of genetic testing are identifying individuals carrying amyotrophic lateral sclerosis (ALS) risk variants who would benefit from surveillance and early intervention. Anticipating the geographic distribution and clinical needs of this population is essential for optimizing care delivery and ensuring readiness as new therapies become available. We estimate the number of individuals in the United States carrying ALS risk variants and project the clinical engagement required to support this population. This is especially timely because ALS clinics are already grappling with rising numbers of patients with symptomatic ALS and deep funding cuts. We developed a population model to estimate the number of symptomatic individuals with gene-positive ALS and asymptomatic gene carriers across US states over the next decade (year 1: 2026). State-level ALS prevalence and incidence were calculated using 2 approaches: (1) race-adjusted ALS rates from the Atlanta metropolitan study applied to 2023 Census demographics and (2) observed state-level ALS case counts from the National ALS Registry (2011-2018). Gene-positive cases were estimated using published frequencies of SOD1 , C9orf72 , FUS , and TARDBP pathogenic variants. At-risk relatives were modeled assuming autosomal-dominant inheritance with ∼5 first-degree and ∼7 second-degree living relatives per proband, and broad uptake of cascade genetic testing. Surveillance needs were modeled as 1 annual visit per asymptomatic carrier, which was normalized by the number of ALS centers per state. In year 1 (2026), the model estimated 2,704 symptomatic gene-positive ALS carriers. With an average of 4.25 carrier relatives per proband, 10,944 asymptomatic carriers were projected nationwide. Most states required <50 additional visits per clinic annually, with 12 states in the 50-99 range and none exceeding 100. By year 10 (2035), the model projected 7,474 symptomatic and 26,111 asymptomatic carriers. State-level demand shifted substantially: only 6 states remained below 50 visits per clinic annually; 22 reached 50-99; 18 reached 100-199; and 3 exceeded 200. Gene-targeted testing is projected to substantially increase ALS clinic visits among asymptomatic gene carriers. While current infrastructure may accommodate the initial rise, within a decade, most states will require significant expansion. Anticipating and planning for this growth now is essential to ensure seamless integration of gene-positive individuals into ALS care.",
-      "journal": "Neurology. Genetics",
-      "authors": [
-        "Morganroth J",
-        "Yasek J",
-        "Harms M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42367369/"
-    },
-    {
-      "id": "pmid-42341897",
-      "pmid": "42341897",
-      "doi": "10.1016/j.expneurol.2026.115891",
-      "title": "Programmed axon degeneration gene variants in human disease.",
-      "abstract": "Programmed axon degeneration (PAD; also known as Wallerian degeneration) is a conserved pathway controlling axon breakdown following injury or metabolic stress. PAD is driven by the depletion of nicotinamide adenine dinucleotide (NAD) through loss of the pro-survival enzyme NMNAT2 and activation of the pro-degenerative NADase SARM1. Recent genetic studies have identified pathogenic variants in PAD pathway enzymes associated with severe neurodegenerative phenotypes. Pathogenic variants in NAMPT, NMNAT1, NMNAT2, and SARM1 have been identified and will be discussed in this review. NAMPT variants cause sensory and motor neuropathy with neurodevelopmental symptoms. NMNAT1 variants are well-characterized causes of Leber Congenital Amaurosis type 9, while NMNAT2 variants result in peripheral neuropathies with childhood onset. SARM1 gain-of-function variants with constitutively active NADase activity are enriched in amyotrophic lateral sclerosis patients. These findings demonstrate that maintaining proper NAD homeostasis is crucial for axon survival, and disruption through genetic variants leads to distinct neurodegenerative outcomes. Understanding these rare variants provides insight into PAD mechanisms and supports development of broad-spectrum neuroprotective therapies targeting this pathway. Current therapeutic approaches include SARM1 inhibitors in clinical trials, gene therapy, and NAD precursor supplementation, offering hope for treating multiple neurodegenerative diseases.",
-      "journal": "Experimental neurology",
-      "authors": [
-        "Hopkins EL",
-        "Williams PA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42341897/"
-    },
-    {
-      "id": "pmid-42339807",
-      "pmid": "42339807",
-      "doi": "10.1080/21678421.2026.2685157",
-      "title": "The connection between unproven stem cell-based interventions and complementary and alternative medicine in crowdfunding for Amyotrophic Lateral Sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a rapidly progressive and fatal neurodegenerative disease associated with substantial medical and non‑medical costs. In the absence of effective treatments, patients and families may turn to crowdfunding to finance care, including unproven stem cell‑based interventions (SCBIs) that are frequently marketed directly to consumers. conduct content analysis of English‑language GoFundMe campaigns seeking funds for SCBIs for ALS to better understand the market for unproven direct‑to‑consumer SCBIs. 247 campaigns were identified, and their data were collected and analyzed to determine the characteristics of the campaigns, campaigners, and their desired treatments. ALS crowdfunding campaigns that collectively requested over $16 million USD. In addition to SCBIs, campaigns frequently requested funding for international travel to access these treatments. Campaigners express relatively high confidence that stem cell treatments would slow disease progression, improve symptoms, or, in some cases, cure or reverse ALS; conclusions that exceed the scientific evidence. Confidence in SCBIs is linked to requests for other alternative therapies and unsupported causes of ALS, supporting an emerging link between proponents of alternative medicines and unproven stem cell therapies. Crowdfunding for unproven stem cell interventions exposes ALS patients and donors to financial risk, misinformation, and medical exploitation. The frequent linkage between SCBIs, CAM, and exaggerated claims highlights gaps in regulation, patient protection, and access to credible treatment options. These findings underscore the need for stronger oversight of direct‑to‑consumer stem cell markets and greater support for patients facing catastrophic illness.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Jewer M",
-        "Snyder J",
-        "Caulfield T",
-        "Zenone M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42339807/"
     }
   ]
 }
