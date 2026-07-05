@@ -1,63 +1,63 @@
 # 复核任务清单
 
-- [ ] [高优先级] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
+- [ ] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
   - https://pubmed.ncbi.nlm.nih.gov/42374626/
-- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展 (pmid-42359165)
+- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展 (pmid-42359165)
   - https://pubmed.ncbi.nlm.nih.gov/42359165/
-- [ ] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
+- [ ] [高优先级] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
   - https://pubmed.ncbi.nlm.nih.gov/42395866/
 - [ ] [高优先级] ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活 (pmid-42392979)
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
-- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理 (pmid-42367369)
+- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供纵向护理 (pmid-42367369)
   - https://pubmed.ncbi.nlm.nih.gov/42367369/
-- [ ] [疑似误收] 帕金森病患者自我报告的症状负担 (pmid-42361332)
+- [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
 - [ ] [高优先级] ALS/FTD发病机制中的先天免疫串扰 (pmid-42359357)
   - https://pubmed.ncbi.nlm.nih.gov/42359357/
+- [ ] [高优先级] 肌萎缩侧索硬化症恢复：一种整合神经肌肉康复与临床稳定的ALS新型护理模式系统 (pmid-42304808)
+  - https://pubmed.ncbi.nlm.nih.gov/42304808/
+- [ ] [高优先级] 两名与SOD1变异（p.Asp125Gly）相关的青少年发病、快速进展型肌萎缩侧索硬化症患者，伴不完全外显率 (pmid-42265995)
+  - https://pubmed.ncbi.nlm.nih.gov/42265995/
+- [ ] 连枷肢体综合征 (pmid-42261056)
+  - https://pubmed.ncbi.nlm.nih.gov/42261056/
 - [ ] [高优先级] ALS中TDP-43病理的PBMC DEG/miRNA生物标志物 (pmid-42251967)
   - https://pubmed.ncbi.nlm.nih.gov/42251967/
 - [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
 - [ ] [高优先级] 主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年） (pmid-42247653)
   - https://pubmed.ncbi.nlm.nih.gov/42247653/
-- [ ] SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告 (pmid-42399593)
-  - https://pubmed.ncbi.nlm.nih.gov/42399593/
-- [ ] [高优先级] 靶向TDP-43低复杂度结构域内保守区的治疗策略在肌萎缩侧索硬化小鼠模型中具有神经保护作用并延长生存期 (pmid-42399370)
-  - https://pubmed.ncbi.nlm.nih.gov/42399370/
-- [ ] [高优先级] 接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究 (pmid-42399152)
-  - https://pubmed.ncbi.nlm.nih.gov/42399152/
-- [ ] [高优先级] 肌萎缩侧索硬化症的全球流行病学：系统综述与荟萃分析 (pmid-42399099)
-  - https://pubmed.ncbi.nlm.nih.gov/42399099/
-- [ ] 放射学引导下胃造口术在晚期肌萎缩侧索硬化症中的临床结局 (pmid-42399082)
-  - https://pubmed.ncbi.nlm.nih.gov/42399082/
-- [ ] [疑似误收] AART实现快速准确的跨平台蛋白质组翻译 (epmc-PPR-PPR1271455)
+- [ ] [高优先级] 跨神经退行性疾病的区域废物体积累指向可能与类淋巴功能不全相关的共享潜在机制 (pmid-42401978)
+  - https://pubmed.ncbi.nlm.nih.gov/42401978/
+- [ ] 白藜芦醇在帕金森病、亨廷顿病、肌萎缩侧索硬化症和多发性硬化症中的神经保护潜力：一项全面综述 (pmid-42400730)
+  - https://pubmed.ncbi.nlm.nih.gov/42400730/
+- [ ] [高优先级] 运动神经元病中ESCRT机制功能障碍：TSG101、CHMP2B和VPS4a差异调控TDP-43病理、自噬和外泌体生物发生 (epmc-PPR-PPR1271623)
+  - https://doi.org/10.64898/2026.07.01.735805
+- [ ] SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告 (epmc-MED-42399593)
+  - https://doi.org/10.1007/s10072-026-09175-1
+- [ ] GDF5作为肌萎缩侧索硬化中运动单位的多模态保护因子 (epmc-PPR-PPR1271707)
+  - https://doi.org/10.64898/2026.06.30.735251
+- [ ] [高优先级] 靶向TDP-43低复杂度结构域保守区的治疗在肌萎缩侧索硬化小鼠中具有神经保护作用并延长生存期 (epmc-MED-42399370)
+  - https://doi.org/10.1038/s43587-026-01166-3
+- [ ] [疑似误收] 接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究 (epmc-MED-42399152)
+  - https://doi.org/10.1016/j.neurol.2026.05.005
+- [ ] Global epidemiology of 肌萎缩侧索硬化症: a systematic review and meta-analysis. (epmc-MED-42399099)
+  - https://doi.org/10.1136/jnnp-2026-338675
+- [ ] Radiologically inserted gastrostomy in advanced 肌萎缩侧索硬化症: clinical outcomes. (epmc-MED-42399082)
+  - https://doi.org/10.1136/spcare-2026-006126
+- [ ] Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk. (epmc-MED-42398690)
+  - https://doi.org/10.1016/j.actbio.2026.07.004
+- [ ] [疑似误收] 待复核翻译：AART enables fast and accurate cross-platform proteomic translation (epmc-PPR-PPR1271455)
   - https://doi.org/10.64898/2026.06.29.735313
-- [ ] [疑似误收] RD-OMICS：罕见病整合多组学数据目录 (epmc-PPR-PPR1271314)
+- [ ] [疑似误收] 待复核翻译：RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases (epmc-PPR-PPR1271314)
   - https://doi.org/10.64898/2026.06.29.735296
-- [ ] 中国人群肌萎缩侧索硬化症综合关联分析与风险预测的案例研究 (epmc-MED-42397462)
+- [ ] A case study of comprehensive association analysis and risk prediction of 肌萎缩侧索硬化症 in a Chinese population. (epmc-MED-42397462)
   - https://doi.org/10.1007/s11033-026-12221-y
-- [ ] [高优先级] 中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的负担增加——基于GBD 2021的分析 (epmc-MED-42393482)
+- [ ] Diverging trends in 运动神经元病 burden in China: an ageing-driven increase despite declining age-standardised rates - a GBD 2021 analysis. (epmc-MED-42393482)
   - https://doi.org/10.1007/s10072-026-09200-3
-- [ ] [高优先级] 早期肌萎缩侧索硬化症的结构-功能网络解耦揭示细胞类型特异性转录特征 (epmc-MED-42393685)
+- [ ] Structural-functional network decoupling in early stage 肌萎缩侧索硬化症 reveals cell-type specific transcriptional signatures. (epmc-MED-42393685)
   - https://doi.org/10.1186/s12916-026-04932-7
 - [ ] Elevated urea levels in human 额颞叶痴呆 and 肌萎缩侧索硬化症 post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism. (epmc-MED-42391458)
   - https://doi.org/10.1093/molecular-omics/aaiag019
-- [ ] [疑似误收] 待复核翻译：Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43. (epmc-MED-42389895)
-  - https://doi.org/10.1039/d6cp01760f
-- [ ] [疑似误收] 待复核翻译：Identification of spastic muscles involved in abnormal joint posture in patients with upper motor neuron syndrome: a narrative review. (epmc-MED-42387889)
-  - https://doi.org/10.2340/jrm.v58.45077
-- [ ] SGK1-mediated deficits in 小胶质细胞l phagocytosis drive pathological progression in 肌萎缩侧索硬化症. (epmc-MED-42387584)
-  - https://doi.org/10.1186/s12974-026-03925-w
-- [ ] [疑似误收] 待复核翻译：Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders. (epmc-MED-42383392)
-  - https://doi.org/10.1515/revneuro-2026-0064
-- [ ] [疑似误收] 待复核翻译：Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways. (epmc-MED-42393897)
-  - https://doi.org/10.2174/0118715249457554260605114916
-- [ ] [疑似误收] 待复核翻译：Muscle-Specific Kinase Signaling and Its Therapeutic Potential. (epmc-MED-42387809)
-  - https://doi.org/10.1002/mus.70129
-- [ ] Safety, feasibility and preliminary effects of Atalante exoskeleton-assisted gait training in 肌萎缩侧索硬化症: a prospective ABA pilot study. (epmc-MED-42387593)
-  - https://doi.org/10.1186/s12984-026-02046-y
-- [ ] [疑似误收] 待复核翻译：The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies. (epmc-MED-42386657)
-  - https://doi.org/10.1111/gtc.70134
 - [ ] [高优先级] HD-tDCS in 肌萎缩侧索硬化症: A Multicenter 随机 Controlled Trial (trial-NCT06719947)
   - https://clinicaltrials.gov/study/NCT06719947
 - [ ] [高优先级] 待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS (trial-NCT07618585)

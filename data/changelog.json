@@ -1,20 +1,106 @@
 {
-  "updatedAt": "2026-07-04T08:15:07.666Z",
-  "previousSnapshot": "data/archive/2026-07-03.json",
+  "updatedAt": "2026-07-05T08:35:57.927Z",
+  "previousSnapshot": "data/archive/2026-07-04.json",
   "current": "data/items.json",
   "summary": {
-    "added": 15,
-    "removed": 14,
-    "changed": 4
+    "added": 13,
+    "removed": 13,
+    "changed": 8
   },
   "added": [
     {
-      "id": "pmid-42395866",
-      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
+      "id": "pmid-42304808",
+      "titleZh": "肌萎缩侧索硬化症恢复：一种整合神经肌肉康复与临床稳定的ALS新型护理模式系统",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42304808/"
+    },
+    {
+      "id": "pmid-42265995",
+      "titleZh": "两名与SOD1变异（p.Asp125Gly）相关的青少年发病、快速进展型肌萎缩侧索硬化症患者，伴不完全外显率",
+      "category": "生物标志物",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42265995/"
+    },
+    {
+      "id": "pmid-42261056",
+      "titleZh": "连枷肢体综合征",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42261056/"
     },
+    {
+      "id": "pmid-42401978",
+      "titleZh": "跨神经退行性疾病的区域废物体积累指向可能与类淋巴功能不全相关的共享潜在机制",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401978/"
+    },
+    {
+      "id": "pmid-42400730",
+      "titleZh": "白藜芦醇在帕金森病、亨廷顿病、肌萎缩侧索硬化症和多发性硬化症中的神经保护潜力：一项全面综述",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400730/"
+    },
+    {
+      "id": "epmc-PPR-PPR1271623",
+      "titleZh": "运动神经元病中ESCRT机制功能障碍：TSG101、CHMP2B和VPS4a差异调控TDP-43病理、自噬和外泌体生物发生",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://doi.org/10.64898/2026.07.01.735805"
+    },
+    {
+      "id": "epmc-MED-42399593",
+      "titleZh": "SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09175-1"
+    },
+    {
+      "id": "epmc-PPR-PPR1271707",
+      "titleZh": "GDF5作为肌萎缩侧索硬化中运动单位的多模态保护因子",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.06.30.735251"
+    },
+    {
+      "id": "epmc-MED-42399370",
+      "titleZh": "靶向TDP-43低复杂度结构域保守区的治疗在肌萎缩侧索硬化小鼠中具有神经保护作用并延长生存期",
+      "category": "治疗",
+      "priority": "high",
+      "url": "https://doi.org/10.1038/s43587-026-01166-3"
+    },
+    {
+      "id": "epmc-MED-42399152",
+      "titleZh": "接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.neurol.2026.05.005"
+    },
+    {
+      "id": "epmc-MED-42399099",
+      "titleZh": "Global epidemiology of 肌萎缩侧索硬化症: a systematic review and meta-analysis.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1136/jnnp-2026-338675"
+    },
+    {
+      "id": "epmc-MED-42399082",
+      "titleZh": "Radiologically inserted gastrostomy in advanced 肌萎缩侧索硬化症: clinical outcomes.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1136/spcare-2026-006126"
+    },
+    {
+      "id": "epmc-MED-42398690",
+      "titleZh": "Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk.",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.actbio.2026.07.004"
+    }
+  ],
+  "removed": [
     {
       "id": "pmid-42399593",
       "titleZh": "SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告",
@@ -51,48 +137,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42399082/"
     },
     {
-      "id": "epmc-PPR-PPR1271455",
-      "titleZh": "AART实现快速准确的跨平台蛋白质组翻译",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.06.29.735313"
-    },
-    {
-      "id": "epmc-PPR-PPR1271314",
-      "titleZh": "RD-OMICS：罕见病整合多组学数据目录",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.06.29.735296"
-    },
-    {
-      "id": "epmc-MED-42397462",
-      "titleZh": "中国人群肌萎缩侧索硬化症综合关联分析与风险预测的案例研究",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s11033-026-12221-y"
-    },
-    {
-      "id": "epmc-MED-42393482",
-      "titleZh": "中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的负担增加——基于GBD 2021的分析",
-      "category": "机制",
-      "priority": "high",
-      "url": "https://doi.org/10.1007/s10072-026-09200-3"
-    },
-    {
-      "id": "epmc-MED-42393685",
-      "titleZh": "早期肌萎缩侧索硬化症的结构-功能网络解耦揭示细胞类型特异性转录特征",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://doi.org/10.1186/s12916-026-04932-7"
-    },
-    {
-      "id": "epmc-MED-42391458",
-      "titleZh": "Elevated urea levels in human 额颞叶痴呆 and 肌萎缩侧索硬化症 post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1093/molecular-omics/aaiag019"
-    },
-    {
       "id": "epmc-MED-42389895",
       "titleZh": "待复核翻译：Nanoscale morphological and structural analysis of round and donut oligomers formed by C-terminal domain of TDP-43.",
       "category": "机制",
@@ -107,117 +151,118 @@
       "url": "https://doi.org/10.2340/jrm.v58.45077"
     },
     {
+      "id": "epmc-MED-42387584",
+      "titleZh": "SGK1-mediated deficits in 小胶质细胞l phagocytosis drive pathological progression in 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12974-026-03925-w"
+    },
+    {
+      "id": "epmc-MED-42383392",
+      "titleZh": "待复核翻译：Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1515/revneuro-2026-0064"
+    },
+    {
       "id": "epmc-MED-42393897",
       "titleZh": "待复核翻译：Bioinformatic Identification of Shared Gene Networks Between Weaning- Induced Intestinal Inflammation and Neuroinflammatory-Related Pathways.",
       "category": "生物标志物",
       "priority": "low",
       "url": "https://doi.org/10.2174/0118715249457554260605114916"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42242586",
-      "titleZh": "早发性神经炎症驱动由溶酶体PI(3,5)P₂不足引起的神经退行性变",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42242586/"
     },
     {
-      "id": "pmid-42393482",
-      "titleZh": "中国运动神经元病负担的分化趋势：年龄标准化率下降但老龄化驱动的增长——基于GBD 2021的分析",
-      "category": "机制",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42393482/"
-    },
-    {
-      "id": "pmid-42055109",
-      "titleZh": "超声在解决神经退行性疾病中的作用：机制、应用与挑战综述",
+      "id": "epmc-MED-42387809",
+      "titleZh": "待复核翻译：Muscle-Specific Kinase Signaling and Its Therapeutic Potential.",
       "category": "治疗",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42055109/"
+      "url": "https://doi.org/10.1002/mus.70129"
     },
     {
-      "id": "pmid-42391458",
-      "titleZh": "人类额颞叶痴呆和肌萎缩侧索硬化症死后脑组织中尿素水平升高：多痴呆致病机制的证据",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391458/"
-    },
-    {
-      "id": "pmid-42389895",
-      "titleZh": "TDP-43 C末端结构域形成的圆形和甜甜圈样寡聚体的纳米尺度形态与结构分析",
-      "category": "机制",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42389895/"
-    },
-    {
-      "id": "pmid-42387889",
-      "titleZh": "上运动神经元综合征患者异常关节姿势中痉挛肌肉的识别：一篇叙述性综述",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42387889/"
-    },
-    {
-      "id": "epmc-MED-42386315",
-      "titleZh": "运动神经元病: Australian state makes condition notifiable disease in world first.",
+      "id": "epmc-MED-42387593",
+      "titleZh": "Safety, feasibility and preliminary effects of Atalante exoskeleton-assisted gait training in 肌萎缩侧索硬化症: a prospective ABA pilot study.",
       "category": "机制",
       "priority": "low",
-      "url": "https://doi.org/10.1136/bmj-2026-100149"
+      "url": "https://doi.org/10.1186/s12984-026-02046-y"
     },
     {
-      "id": "epmc-MED-42385702",
-      "titleZh": "待复核翻译：Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders.",
-      "category": "机制",
+      "id": "epmc-MED-42386657",
+      "titleZh": "待复核翻译：The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies.",
+      "category": "遗传",
       "priority": "low",
-      "url": "https://doi.org/10.1016/j.cell.2026.06.013"
-    },
-    {
-      "id": "epmc-MED-42385017",
-      "titleZh": "待复核翻译：Understanding patients' experiences and needs around decision-making for bulbar symptom management at a multidisciplinary ALS clinic.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/09638288.2026.2693395"
-    },
-    {
-      "id": "epmc-PPR-PPR1263998",
-      "titleZh": "待复核翻译：RNA dysregulation and compromised neuronal identity drive pathogenesis in Senataxin-associated ALS",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.30.735532"
-    },
-    {
-      "id": "epmc-PPR-PPR1263883",
-      "titleZh": "Association between motor cortex grey matter loss and inability to control an ECoG-based implanted 脑机接口 in ALS",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.23.26355654"
-    },
-    {
-      "id": "epmc-PPR-PPR1263004",
-      "titleZh": "The Eye as a Window to Neurodegeneration: Oxidative Stress, Optic Nerve Vulnerability, and Retinal 生物标志物s. A Scoping Review",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://doi.org/10.20944/preprints202606.2257.v1"
-    },
-    {
-      "id": "epmc-MED-42384233",
-      "titleZh": "Genome-wide spectrum of coding DNA variations in Indian patients with 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00415-026-13819-9"
-    },
-    {
-      "id": "epmc-MED-42383485",
-      "titleZh": "待复核翻译：PBX-dependent and -independent Hox programs establish and maintain motor neuron terminal identity.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1242/dev.205511"
+      "url": "https://doi.org/10.1111/gtc.70134"
     }
   ],
   "changed": [
     {
-      "id": "epmc-MED-42387584",
-      "titleZh": "SGK1-mediated deficits in 小胶质细胞l phagocytosis drive pathological progression in 肌萎缩侧索硬化症.",
+      "id": "pmid-42374626",
+      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42359165",
+      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "临床试验研究",
+          "after": "综述"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42395866",
+      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1271455",
+      "titleZh": "待复核翻译：AART enables fast and accurate cross-platform proteomic translation",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1271314",
+      "titleZh": "待复核翻译：RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42397462",
+      "titleZh": "A case study of comprehensive association analysis and risk prediction of 肌萎缩侧索硬化症 in a Chinese population.",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42393482",
+      "titleZh": "Diverging trends in 运动神经元病 burden in China: an ageing-driven increase despite declining age-standardised rates - a GBD 2021 analysis.",
       "changes": [
         {
           "field": "priority",
@@ -227,35 +272,13 @@
       ]
     },
     {
-      "id": "epmc-MED-42383392",
-      "titleZh": "待复核翻译：Role of Toll-like receptors and oral-gut-brain axis in neurodegenerative and neuropsychiatric disorders.",
+      "id": "epmc-MED-42393685",
+      "titleZh": "Structural-functional network decoupling in early stage 肌萎缩侧索硬化症 reveals cell-type specific transcriptional signatures.",
       "changes": [
         {
           "field": "priority",
-          "before": "medium",
-          "after": "low"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42387593",
-      "titleZh": "Safety, feasibility and preliminary effects of Atalante exoskeleton-assisted gait training in 肌萎缩侧索硬化症: a prospective ABA pilot study.",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42386657",
-      "titleZh": "待复核翻译：The SQSTM1 L341V Variant Associated With Sporadic ALS Promotes the Accumulation of Enlarged Ubiquitin-Positive SQSTM1 Bodies.",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
+          "before": "high",
+          "after": "medium"
         }
       ]
     }
