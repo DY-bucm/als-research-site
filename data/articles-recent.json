@@ -1,14 +1,40 @@
 {
-  "updatedAt": "2026-07-05T08:33:40.608Z",
+  "updatedAt": "2026-07-06T12:30:39.883Z",
   "period": {
     "days": 10,
-    "from": "2026-06-26",
-    "to": "2026-07-05"
+    "from": "2026-06-27",
+    "to": "2026-07-06"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 48,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-42402806",
+      "pmid": "42402806",
+      "doi": "10.1113/EP093429",
+      "title": "Very low-amplitude muscle activity increases probability of motor evoked potentials in healthy individuals and in amyotrophic lateral sclerosis.",
+      "abstract": "Muscle contraction increases motor evoked potential (MEP) amplitude, decreasing motor threshold (MT). Correspondingly, trials where baseline EMG amplitude exceeds a specified threshold are often rejected. We aimed to investigate the influence of motor activity below such a threshold of MEP amplitude. We retrospectively analysed TMS-EMG data collected during resting MT (RMT) measurement in 45 healthy control subjects (1794 data points) and 35 people with amyotrophic lateral sclerosis (ALS; 1229 data points). Trials with de-meaned root mean squared (RMS) EMG amplitude of >10 µV throughout the 200 ms prior to stimulation were rejected. Generalised linear mixed-effects models assessed effects of muscle activity below this rejection threshold on the probability of evoking an MEP with peak-to-peak amplitude of ≥50 µV. Greater sub-rejection-threshold activity significantly increases MEP probability in control subjects and people with ALS. Models predicted a 38%-43% increase in MEP probability when baseline RMS-EMG amplitude increased from 1 $\\hskip.001pt 1$ to 9 µV. Sub-rejection-threshold baseline activity was significantly greater in ALS than control subjects. Below a typical rejection threshold, greater baseline RMS-EMG amplitudes markedly increase the probability of evoking MEPs with peak-to-peak amplitude of ≥50 µV. Effects of sub-rejection-threshold muscle activity should be accounted for when comparing RMT measures, particularly between cohorts where such activity differs, such as ALS and control subjects.",
+      "journal": "Experimental physiology",
+      "authors": [
+        "O'Sullivan S",
+        "Tadjine Y",
+        "Palma GR",
+        "Suleyman N",
+        "Woods E",
+        "Fasano A",
+        "Walsh C",
+        "Awiszus F",
+        "Hardiman O",
+        "Carson RG",
+        "McMackin R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402806/"
+    },
     {
       "id": "pmid-42399593",
       "pmid": "42399593",
@@ -55,6 +81,25 @@
       ],
       "publishedAt": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42400730/"
+    },
+    {
+      "id": "pmid-42403529",
+      "pmid": "42403529",
+      "doi": "10.1177/26323524261452739",
+      "title": "Paid homecare worker support for people living with motor neurone disease: A secondary analysis of people living with motor neurone disease and family member perspectives.",
+      "abstract": "People living with motor neurone disease (MND) increasingly receive complex, life-sustaining interventions at home, including ventilation, tube feeding, and cough assist support. These demands place substantial strain on family carers and often require input from paid homecare workers. Despite their essential role, little is known about how homecare workers contribute to complex MND care, how they integrate within multidisciplinary teams, or how families experience their involvement. To examine people living with MND and family members' perspectives of homecare worker roles, responsibilities, relationships when complex interventions are required. A qualitative secondary analysis of data from two prior studies exploring home ventilation and tracheostomy ventilation in MND. Seven relevant NVivo nodes and 33 sub-nodes from interviews with 68 participants were re-coded using a deductive framework. Fourteen new nodes and 11 sub-nodes were generated and organised into three themes: care commissioning and provision; relationships; and the home environment. Participants described fragmented and inconsistent care commissioning, requiring families to advocate persistently for adequate support. Challenges included funding barriers, high staff turnover, and limited MND-specific knowledge, which undermined trust and compromised safe, effective care. Relationships with homecare workers ranged from highly valued, stable partnerships to strained interactions shaped by competence concerns, emotional labour, and mismatched expectations. The presence of homecare workers and medical equipment transformed the home into a quasi-clinical space, reducing privacy, disrupting routines, and requiring households to adapt around care provision. Yet strong relationships with homecare workers could enhance quality of life. Homecare workers play a critical role in delivering complex home-based MND care, yet quality is inconsistent. Improving training, stabilising staffing, supporting care coordination, and preparing families for the relational and environmental impact of homecare are essential for fostering sustainable, trusted care relationships, and improving outcomes for people living with MND and their families. Paid homecare support for people with motor neurone disease: Insights from people with MND and their families This study explores how people living with motor neurone disease (MND), and their family members, experience support from paid homecare workers when complex medical interventions, such as ventilation, feeding tubes, suction and hoists are needed at home. As care needs increase, families often need help from paid homecare workers, yet no research has asked families about what this support is like. To address this, we re-analysed interview data from two earlier studies about living with home ventilation in MND, and developed three main themes: Care commissioning and provision: Participants described the process of securing a care package as confusing and often exhausting, with multiple organisations involved. Families frequently had to push to get the support they needed. Problems included shortages of trained staff, high staff turnover, and delays caused by complex funding rules. Relationships with homecare workers: Good homecare workers made a huge positive difference. Relationships with homecare workers ranged from highly positive, built on trust, skill and becoming ‘part of the family’, to strained, particularly when workers lacked MND-specific training or confidence with equipment. Trust was crucial: when present it eased pressure on families but when absent it increased stress and vigilance. Impact on the home environment: Having carers in the house, changed home life, reducing privacy, disrupting household routines, and living spaces became filled with medical equipment and ever-present homecare workers. Families described feeling like hosts in their own homes and sometimes having to manage the emotional labour of being polite or accommodating even when exhausted. Overall, the study shows that homecare workers play an essential role in complex MND care, but quality is inconsistent. Better coordination and support for families to manage these close relationships within the home are vital to reduce pressure on families and improve quality of life.",
+      "journal": "Palliative care and social practice",
+      "authors": [
+        "Wilson E",
+        "Turner N",
+        "Macdonald G",
+        "Faull C"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403529/"
     },
     {
       "id": "pmid-42400371",
@@ -997,140 +1042,6 @@
       ],
       "publishedAt": "2026-06-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42364760/"
-    },
-    {
-      "id": "pmid-42360563",
-      "pmid": "42360563",
-      "doi": "10.1007/s10072-026-09203-0",
-      "title": "Characterization of sensory nerve conduction abnormalities at the time of ALS diagnosis.",
-      "abstract": "Although sensory nerve abnormalities have been reported in amyotrophic lateral sclerosis (ALS), their distribution at diagnosis, relative to motor involvement and clinical onset phenotype remains incompletely characterized. We aimed to systematically compare sensory and motor nerve conduction abnormalities at ALS diagnosis and determine whether sensory involvement follows an onset-dependent pattern similar to motor dysfunction. In this prospective cross-sectional study, 40 newly diagnosed ALS patients enrolled in the Iran University ALS Registry (March 2022-March 2023) underwent standardized motor and sensory nerve conduction studies (NCS). For between-group comparisons, a matched ALS subgroup was compared with matched healthy controls, while the expanded ALS cohort was used for subgroup and correlation analyses. SNAP amplitudes of the median, ulnar, and sural nerves were reduced by 45%, 34%, and 43%, respectively, compared with healthy controls, with similar reductions observed across upper- and lower-limb onset phenotypes and no significant onset-dependent differences. In contrast CMAP amplitudes were markedly reduced in ALS patients, most prominently in the peroneal (79%), median (47%), tibial (42%), and ulnar (37%) nerves. Motor abnormalities were most severe in the clinically affected limb but were also detectable in asymptomatic extremities, consistent with early subclinical spread. At ALS diagnosis, sensory and motor nerve conduction abnormalities exhibited divergent spatial patterns, with asymmetric, onset-related motor involvement and relatively uniform sensory axonal dysfunction. These findings support the presence of measurable sensory nerve conduction abnormalities in a subset of ALS patients, while highlighting the need for cautious interpretation of sensory NCS changes in ALS.",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Ketabforoush A",
-        "Arnold WD",
-        "Ariaei A",
-        "Faghihi F",
-        "Azedi F",
-        "Khalili M",
-        "Gholami F",
-        "Joghataei MT",
-        "Ashtiani BH"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42360563/"
-    },
-    {
-      "id": "pmid-42394962",
-      "pmid": "42394962",
-      "doi": "10.1016/j.cnp.2026.06.011",
-      "title": "Decremental responses following repetitive nerve stimulation in spinal and bulbar muscular atrophy.",
-      "abstract": "The presence of decremental responses following repetitive nerve stimulation (RNS) in amyotrophic lateral sclerosis (ALS) is well established. However, in spinal and bulbar muscular atrophy (SBMA), a rare X-linked recessive lower motor neuron disease, the incidence and distribution of decremental responses across different muscles have not been thoroughly investigated. Patients with SBMA were retrospectively identified in our database. RNS at a frequency of 3 Hz was performed on five muscles: the abductor pollicis brevis (APB), abductor digiti minimi (ADM), upper trapezius, deltoid, and facial muscles (frontalis or nasalis). A total of forty patients were identified. A significant (> 5%) decremental response in at least one muscle was observed in all patients. It was observed more frequently in proximal muscles than in distal muscles: deltoid (86%), trapezius (70%), facial muscles (44%), APB (37%) and ADM (25%). The magnitude of the decremental response in the deltoid was significantly higher than that in the other muscles. Our results demonstrated that decremental responses were frequently observed in patients with SBMA, with a distribution pattern similar to that in ALS. The fact that the decremental responses are observed in SBMA having an extremely chronic course would be relevant for the pathophysiological mechanism of the decremental response. The RNS findings provide valuable insights into the pathological mechanisms of SBMA and may contribute to the development of future treatments.",
-      "journal": "Clinical neurophysiology practice",
-      "authors": [
-        "Tachiyama K",
-        "Nakamori M",
-        "Fujii Y",
-        "Hokkoku K",
-        "Agari D",
-        "Hemmi S",
-        "Nomura E",
-        "Hatanaka Y",
-        "Kurokawa K",
-        "Sonoo M",
-        "Maruyama H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42394962/"
-    },
-    {
-      "id": "pmid-42351263",
-      "pmid": "42351263",
-      "doi": "10.1186/s40478-026-02356-1",
-      "title": "Dynamic integration of skeletal muscle signals via extracellular vesicles in motor neuron diseases.",
-      "abstract": "Extracellular vesicles (EVs) are heterogenous lipid bilayer-enclosed particles secreted by virtually all cell types. They encapsulate a diverse array of bioactive molecules, including proteins, lipids, nucleic acids, and metabolites, which can be transferred to recipient cells, thereby modulating their function and phenotype. In recent years, skeletal muscle-derived EVs (SkM-EVs) have emerged as key players in the bidirectional communication between skeletal muscle and motor neurons, contributing to the establishment and maintenance of neuromuscular homeostasis. Disruptions in this intercellular signalling have been implicated in the pathophysiology of motor neuron diseases (MNDs) such as spinal muscular atrophy (SMA) and amyotrophic lateral sclerosis (ALS). In these contexts, SkM-EVs may contribute to disease progression by delivering pathogenic cargo, including misfolded proteins and aberrant RNAs, to motor neurons. A comprehensive understanding of SkM-EV biology, particularly their roles in neuromuscular communication, could offer critical insights into disease mechanisms and identify novel opportunities for biomarker discovery and therapeutic intervention. This review synthesizes current knowledge on the functional roles of SkM-EVs in motor neuron health and disease and evaluates their potential as diagnostic tools and therapeutic vectors in the context of MNDs.",
-      "journal": "Acta neuropathologica communications",
-      "authors": [
-        "Riggio F",
-        "Fenili G",
-        "Caporossi D",
-        "Paronetto MP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42351263/"
-    },
-    {
-      "id": "pmid-42359947",
-      "pmid": "42359947",
-      "doi": "10.1080/21678421.2026.2692135",
-      "title": "Noninvasive assessment of cardiovascular autonomic reflexes in amyotrophic lateral sclerosis: a systematic review.",
-      "abstract": "Dysautonomia is gradually recognized in amyotrophic lateral sclerosis (ALS), raising concerns of secondary complications from heightened autonomic burden. Autonomic disturbances, particularly cardiac dysautonomia, significantly impact patient outcomes, contributing to increased cardiovascular risks and mortality rate. While the ALS Functional Rating Score-Revised (ALSFRS-R) measures functional decline as disease progress, it overlooks autonomic criteria - a critical factor in ALS progression. This review aims to analyze noninvasive applications of cardiovascular signal variability for continuous real-time monitoring of autonomic dysfunction in ALS, while addressing gaps in current clinical assessments. A total of 584 literatures were gathered from four databases (WoS, PubMed, Science Direct and MEDLINE EBSCOhost) - published from inception till December 2023. 21 peer-reviewed studies were included in this review after screening and meeting the inclusion criteria. Various cardiovascular signal variability metrics and autonomic protocols were discussed. Key findings highlight cardiac autonomic dysfunction in ALS is marked by reduced heart rate variability, absent blood pressure regulation upon orthostatic stress and circadian changes, prolonged QTc interval and low baroreflex sensitivity. Moreover, increased autonomic burden is associated with a shift from sympathetic to parasympathetic dysregulation as the disease progresses. Evidence highlights the need to integrate noninvasive autonomic biomarkers into digital ALS monitoring frameworks, enabling earlier detection of autonomic involvement and more precise longitudinal monitoring beyond motor decline.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Rozman SI",
-        "Hamzaid NA",
-        "Lim E",
-        "Hamzah N"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42359947/"
-    },
-    {
-      "id": "pmid-42360551",
-      "pmid": "42360551",
-      "doi": "10.1007/s12035-026-06008-2",
-      "title": "Targeting mtDNA to Modulate Mitochondrial Dysfunction in Neurodegenerative Diseases.",
-      "abstract": "Mitochondrial dysfunction is a common pathological feature of neurodegenerative diseases namely Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. Although these disorders are primarily driven by disease-specific genetic and proteopathic mechanisms, increasing evidence suggests that secondary mitochondrial DNA (mtDNA) damage and heteroplasmy shifts may exacerbate bioenergetic failure and neuronal vulnerability. Distinguishing primary disease mechanisms from downstream mtDNA alterations is critical to accurately evaluate emerging therapeutic strategies. Recent advances in mtDNA-targeted genome editing have enabled the direct manipulation of mitochondrial genomes. Mitochondrially targeted zinc finger nucleases and TALENs can selectively alter mutant mtDNA to induce heteroplasmy shifts, whereas DddA-derived cytosine base editors allow precise base editing without double-strand breaks. However, each platform has distinct limitations related to the target scope, off-target risk, design complexity, and delivery efficiency. The application of CRISPR/Cas-based systems to mammalian mtDNA remains constrained by the unresolved challenges in guiding RNA import. This review critically examines mitochondrial dysfunction and mutant mtDNA accumulation in neurodegenerative diseases. It also evaluates current and emerging mtDNA-editing techniques, and highlights key translational barriers. We highlighted that mtDNA-targeted interventions can be a promising approach for disease-modifying or adjunctive strategies, rather than curative approaches.",
-      "journal": "Molecular neurobiology",
-      "authors": [
-        "Pramanik S",
-        "Debnath B",
-        "Chakraborty A",
-        "Islam A",
-        "Mullick S",
-        "Chaudhary P",
-        "Nath R",
-        "Chellappan DK",
-        "Mondal M",
-        "Ashique S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42360551/"
-    },
-    {
-      "id": "pmid-42395866",
-      "pmid": "42395866",
-      "doi": "10.1016/j.bbrep.2026.102687",
-      "title": "The role of SUMOylation in regulating proteins that drive neuronal disease progression.",
-      "abstract": "SUMOylation is a post-translational modification in which a Small Ubiquitin-like Modifier (SUMO) protein is reversibly attached to a lysine residue on a target protein in an ATP-dependent process. This modification can affect the function of target proteins by enhancing their stability or changing cellular translocation, thereby making SUMOylation a critical regulator in the pathogenesis of multiple diseases. The functional consequences of SUMOylation, however, are highly context dependent. In Alzheimer's disease, SUMOylation stabilizes proteins that drive disease progression and enhances neurotoxicity, thereby exacerbating these conditions. Similarly, in Progressive Supranuclear Palsy, SUMO-1 conjugation stabilizes truncated tau and blocks its ubiquitination, whereas SUMO-2/3 conjugation promotes Tau clearance and recovery from neuroinflammation, illustrating how distinct SUMO paralogues can exert opposing effects within the same disease. Conversely, increased SUMOylation can be neuroprotective in cerebral ischemia and Parkinson's disease by promoting autophagic clearance of pathogenic proteins. Beyond alterations in protein stability, aberrant SUMOylation can also lead to mis-localization of target proteins, which has been identified as a pathogenic mechanism in disorders such as Huntington's disease and Amyotrophic Lateral Sclerosis that results in impaired clearance and pathogenic buildup, which results in neuronal death. From a therapeutic standpoint, the SUMO inhibitor TAK-981 has shown promise in both Multiple Sclerosis and in pre-clinical glioblastoma models, underscoring the translational potential of targeting of this pathway. This review examines the multifaceted role of SUMOylation across diverse neurological conditions, evaluates the therapeutic potential of SUMO inhibitors and activators, and highlights the opportunities and challenges of modulating this pathway in currently incurable neurological disorders.",
-      "journal": "Biochemistry and biophysics reports",
-      "authors": [
-        "Sidharth A",
-        "Shin D"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-06-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
     }
   ]
 }

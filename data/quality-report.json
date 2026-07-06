@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-05T08:35:57.879Z",
+  "updatedAt": "2026-07-06T12:33:03.800Z",
   "summary": {
     "totalItems": 44,
-    "issueCount": 46
+    "issueCount": 48
   },
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "pmid-42361332",
       "title": "Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
-      "titleZh": "帕金森病患者报告的症状负担",
+      "titleZh": "帕金森病患者自我报告的症状负担",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -34,9 +34,31 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
     },
     {
+      "id": "epmc-MED-42401978",
+      "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
+      "titleZh": "区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1186/s40478-026-02362-3"
+    },
+    {
+      "id": "epmc-MED-42400371",
+      "title": "Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
+      "titleZh": "遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1080/21678421.2026.2696378"
+    },
+    {
       "id": "epmc-MED-42399152",
       "title": "Macrophage inclusions in patients undergoing antisense oligonucleotide therapy for ALS or SMA: A retrospective and transversal study.",
-      "titleZh": "接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究",
+      "titleZh": "Macrophage inclusions in patients undergoing 反义寡核苷酸 therapy for ALS or SMA: A retrospective and transversal study.",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
@@ -81,6 +103,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
     },
     {
+      "id": "epmc-MED-42402806",
+      "title": "Very low-amplitude muscle activity increases probability of motor evoked potentials in healthy individuals and in amyotrophic lateral sclerosis.",
+      "titleZh": "极低幅度肌肉活动增加健康个体和肌萎缩侧索硬化症患者运动诱发电位的概率",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1113/ep093429"
+    },
+    {
+      "id": "epmc-MED-42401978",
+      "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
+      "titleZh": "区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1186/s40478-026-02362-3"
+    },
+    {
+      "id": "epmc-MED-42400730",
+      "title": "Neuroprotective potential of resveratrol in Parkinson, Huntington, amyotrophic lateral sclerosis, and multiple sclerosis: a comprehensive review.",
+      "titleZh": "白藜芦醇在帕金森病、亨廷顿病、肌萎缩侧索硬化症和多发性硬化症中的神经保护潜力：一项全面综述",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11033-026-12300-0"
+    },
+    {
+      "id": "epmc-MED-42400371",
+      "title": "Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
+      "titleZh": "遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1080/21678421.2026.2696378"
+    },
+    {
       "id": "epmc-PPR-PPR1271623",
       "title": "ESCRT Machinery Dysfunction in Motor Neurone Disease: TSG101, CHMP2B, and VPS4a Differentially Regulate TDP-43 Pathology, Autophagy, and Exosome Biogenesis",
       "titleZh": "运动神经元病中ESCRT机制功能障碍：TSG101、CHMP2B和VPS4a差异调控TDP-43病理、自噬和外泌体生物发生",
@@ -105,18 +171,18 @@
     {
       "id": "epmc-PPR-PPR1271707",
       "title": "GDF5 as a Multimodal Protector of the Motor Unit in Amyotrophic Lateral Sclerosis",
-      "titleZh": "GDF5作为肌萎缩侧索硬化中运动单位的多模态保护因子",
+      "titleZh": "GDF5 as a Multimodal Protector of the Motor Unit in 肌萎缩侧索硬化症",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.06.30.735251"
     },
     {
       "id": "epmc-MED-42399370",
       "title": "Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in amyotrophic lateral sclerosis mice.",
-      "titleZh": "靶向TDP-43低复杂度结构域保守区的治疗在肌萎缩侧索硬化小鼠中具有神经保护作用并延长生存期",
+      "titleZh": "Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in 肌萎缩侧索硬化症 mice.",
       "category": "治疗",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
@@ -127,7 +193,7 @@
     {
       "id": "epmc-MED-42399152",
       "title": "Macrophage inclusions in patients undergoing antisense oligonucleotide therapy for ALS or SMA: A retrospective and transversal study.",
-      "titleZh": "接受反义寡核苷酸治疗的ALS或SMA患者中的巨噬细胞包涵体：一项回顾性与横断面研究",
+      "titleZh": "Macrophage inclusions in patients undergoing 反义寡核苷酸 therapy for ALS or SMA: A retrospective and transversal study.",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
@@ -189,74 +255,30 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.64898/2026.06.29.735296"
-    },
-    {
-      "id": "epmc-MED-42397462",
-      "title": "A case study of comprehensive association analysis and risk prediction of amyotrophic lateral sclerosis in a Chinese population.",
-      "titleZh": "A case study of comprehensive association analysis and risk prediction of 肌萎缩侧索硬化症 in a Chinese population.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s11033-026-12221-y"
-    },
-    {
-      "id": "epmc-MED-42393482",
-      "title": "Diverging trends in motor neuron disease burden in China: an ageing-driven increase despite declining age-standardised rates - a GBD 2021 analysis.",
-      "titleZh": "Diverging trends in 运动神经元病 burden in China: an ageing-driven increase despite declining age-standardised rates - a GBD 2021 analysis.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s10072-026-09200-3"
-    },
-    {
-      "id": "epmc-MED-42393685",
-      "title": "Structural-functional network decoupling in early stage amyotrophic lateral sclerosis reveals cell-type specific transcriptional signatures.",
-      "titleZh": "Structural-functional network decoupling in early stage 肌萎缩侧索硬化症 reveals cell-type specific transcriptional signatures.",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1186/s12916-026-04932-7"
-    },
-    {
-      "id": "epmc-MED-42391458",
-      "title": "Elevated urea levels in human frontotemporal dementia and amyotrophic lateral sclerosis post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism.",
-      "titleZh": "Elevated urea levels in human 额颞叶痴呆 and 肌萎缩侧索硬化症 post-mortem brain tissue: Evidence of a multi-dementia pathogenic mechanism.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1093/molecular-omics/aaiag019"
     }
   ],
   "highPriorityNeedsReview": [
     {
+      "id": "pmid-42374626",
+      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
+      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374626/"
+    },
+    {
       "id": "pmid-42359165",
       "title": "Therapeutic frontiers in ALS: iPSC-based drug discovery, cell therapy, and gene therapy-Advances through 2026.",
-      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展",
+      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展",
       "category": "临床试验",
-      "evidenceLevel": "综述",
+      "evidenceLevel": "临床试验研究",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/"
-    },
-    {
-      "id": "pmid-42395866",
-      "title": "The role of SUMOylation in regulating proteins that drive neuronal disease progression.",
-      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
-      "category": "临床试验",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
     },
     {
       "id": "pmid-42392979",
@@ -272,7 +294,7 @@
     {
       "id": "pmid-42367369",
       "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
-      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供纵向护理",
+      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供长期照护",
       "category": "遗传",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 15,
@@ -294,7 +316,7 @@
     {
       "id": "pmid-42304808",
       "title": "Amyotrophic Lateral Sclerosis Recovery: A New Model System of Care Integrating Neuromuscular Rehabilitation With Clinical Stabilization in ALS.",
-      "titleZh": "肌萎缩侧索硬化症恢复：一种整合神经肌肉康复与临床稳定的ALS新型护理模式系统",
+      "titleZh": "肌萎缩侧索硬化症康复：一种整合神经肌肉康复与临床稳定的ALS新型护理模式系统",
       "category": "临床试验",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 11,
@@ -325,26 +347,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42251967/"
     },
     {
-      "id": "pmid-42247653",
-      "title": "Drivers of Rising Prevalence in Major Motor Neurodegenerative Diseases: Temporal Trends in Sweden and France (2003-2022).",
-      "titleZh": "主要运动神经退行性疾病患病率上升的驱动因素：瑞典和法国的时间趋势（2003-2022年）",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
+      "id": "epmc-MED-42401978",
+      "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
+      "titleZh": "区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42247653/"
+      "url": "https://doi.org/10.1186/s40478-026-02362-3"
     },
     {
-      "id": "pmid-42401978",
-      "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
-      "titleZh": "跨神经退行性疾病的区域废物体积累指向可能与类淋巴功能不全相关的共享潜在机制",
-      "category": "临床试验",
+      "id": "epmc-MED-42400371",
+      "title": "Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
+      "titleZh": "遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义",
+      "category": "治疗",
       "evidenceLevel": "待人工判定",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401978/"
+      "url": "https://doi.org/10.1080/21678421.2026.2696378"
     },
     {
       "id": "epmc-PPR-PPR1271623",
@@ -360,7 +382,7 @@
     {
       "id": "epmc-MED-42399370",
       "title": "Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in amyotrophic lateral sclerosis mice.",
-      "titleZh": "靶向TDP-43低复杂度结构域保守区的治疗在肌萎缩侧索硬化小鼠中具有神经保护作用并延长生存期",
+      "titleZh": "Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in 肌萎缩侧索硬化症 mice.",
       "category": "治疗",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
@@ -369,174 +391,174 @@
       "url": "https://doi.org/10.1038/s43587-026-01166-3"
     },
     {
-      "id": "trial-NCT06719947",
-      "title": "HD-tDCS in Amyotrophic Lateral Sclerosis: A Multicenter Randomized Controlled Trial",
-      "titleZh": "HD-tDCS in 肌萎缩侧索硬化症: A Multicenter 随机 Controlled Trial",
+      "id": "trial-NCT05966038",
+      "title": "ALS/MND Natural History Study Data Repository",
+      "titleZh": "待复核翻译：ALS/MND Natural History Study Data Repository",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 10,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05966038"
+    },
+    {
+      "id": "trial-NCT07509125",
+      "title": "Ultra-High Resolution PET in Aging, Neurodegeneration and Psychotic Disorders",
+      "titleZh": "待复核翻译：Ultra-High Resolution PET in Aging, Neurodegeneration and Psychotic Disorders",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06719947"
+      "url": "https://clinicaltrials.gov/study/NCT07509125"
     },
     {
-      "id": "trial-NCT07618585",
-      "title": "Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
-      "titleZh": "待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
+      "id": "trial-NCT07396818",
+      "title": "Kamlanoflast In Amyotrophic Lateral Sclerosis",
+      "titleZh": "Kamlanoflast In 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07396818"
+    },
+    {
+      "id": "trial-NCT05621213",
+      "title": "Satisfaction of Patients With Amyotrophic Lateral Sclerosis Regarding Home Assisted Teleconsultation",
+      "titleZh": "Satisfaction of Patients With 肌萎缩侧索硬化症 Regarding Home Assisted Teleconsultation",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07618585"
+      "url": "https://clinicaltrials.gov/study/NCT05621213"
     },
     {
-      "id": "trial-NCT06491732",
-      "title": "EIM Via the Myolex mScan as an ALS Biomarker",
-      "titleZh": "EIM Via the Myolex mScan as an ALS 生物标志物",
+      "id": "trial-NCT05116943",
+      "title": "Biospecimen Biorepository for the Study of ALS, ALS-FTD and Similar Neurodegenerative Disorders",
+      "titleZh": "待复核翻译：Biospecimen Biorepository for the Study of ALS, ALS-FTD and Similar Neurodegenerative Disorders",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06491732"
+      "url": "https://clinicaltrials.gov/study/NCT05116943"
     },
     {
-      "id": "trial-NCT06021938",
-      "title": "Alleviating Persistent Dyspnea in Amyotrophic Lateral Sclerosis Patients Treated With Non-Invasive Ventilation Through Immersive Virtual Reality",
-      "titleZh": "Alleviating Persistent Dyspnea in 肌萎缩侧索硬化症 Patients Treated With Non-Invasive Ventilation Through Immersive Virtual Reality",
+      "id": "trial-NCT07175935",
+      "title": "Amyotrophic Lateral Sclerosis Registry in Thailand",
+      "titleZh": "肌萎缩侧索硬化症 Registry in Thailand",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07175935"
+    },
+    {
+      "id": "trial-NCT05163886",
+      "title": "Study of Safety, Tolerability, and Biological Activity of LAM-002A in C9ORF72-Associated Amyotrophic Lateral Sclerosis",
+      "titleZh": "Study of Safety, Tolerability, and Biological Activity of LAM-002A in C9ORF72-Associated 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05163886"
+    },
+    {
+      "id": "trial-NCT06849115",
+      "title": "Effects of L-Carnitine in Amyotrophic Lateral Sclerosis Patients With CHCHD10 Mutations",
+      "titleZh": "Effects of L-Carnitine in 肌萎缩侧索硬化症 Patients With CHCHD10 Mutations",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06849115"
+    },
+    {
+      "id": "trial-NCT06046599",
+      "title": "Remote Home Assessment of Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Remote Home Assessment of Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06021938"
+      "url": "https://clinicaltrials.gov/study/NCT06046599"
     },
     {
-      "id": "trial-NCT07393932",
-      "title": "MND Together: Phase 1",
-      "titleZh": "MND Together: I 期",
+      "id": "trial-NCT00956488",
+      "title": "Supported Treadmill Ambulation Training (STAT) for Patients Diagnosed With Amyotrophic Lateral Aclerosis",
+      "titleZh": "待复核翻译：Supported Treadmill Ambulation Training (STAT) for Patients Diagnosed With Amyotrophic Lateral Aclerosis",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 8,
+      "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07393932"
+      "url": "https://clinicaltrials.gov/study/NCT00956488"
     },
     {
-      "id": "trial-NCT07380204",
-      "title": "Quantification of Hsp90 in the Human Brain",
-      "titleZh": "待复核翻译：Quantification of Hsp90 in the Human Brain",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07380204"
-    },
-    {
-      "id": "trial-NCT05882695",
-      "title": "Study of SPG302 in Healthy Volunteers and ALS Participants",
-      "titleZh": "待复核翻译：Study of SPG302 in Healthy Volunteers and ALS Participants",
+      "id": "trial-NCT04950647",
+      "title": "Efficacy and Safety of Nitrazine in the Treatment of ALS",
+      "titleZh": "待复核翻译：Efficacy and Safety of Nitrazine in the Treatment of ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05882695"
+      "url": "https://clinicaltrials.gov/study/NCT04950647"
     },
     {
-      "id": "trial-NCT06658977",
-      "title": "RolloverTreatment With Triumeq for People With ALS Following the Lighthouse II Trial",
-      "titleZh": "待复核翻译：RolloverTreatment With Triumeq for People With ALS Following the Lighthouse II Trial",
+      "id": "trial-NCT03377868",
+      "title": "Optic Coherence Tomography in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Optic Coherence Tomography in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03377868"
+    },
+    {
+      "id": "trial-NCT03076632",
+      "title": "Interactions Between Neurostimulation and Physical Exercise",
+      "titleZh": "待复核翻译：Interactions Between Neurostimulation and Physical Exercise",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03076632"
+    },
+    {
+      "id": "trial-NCT01285583",
+      "title": "Safety Extension Study of TRO19622 in ALS",
+      "titleZh": "待复核翻译：Safety Extension Study of TRO19622 in ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06658977"
+      "url": "https://clinicaltrials.gov/study/NCT01285583"
     },
     {
-      "id": "trial-NCT04575727",
-      "title": "Exploratory Evaluation of [11C]MPC6827",
-      "titleZh": "待复核翻译：Exploratory Evaluation of [11C]MPC6827",
+      "id": "trial-NCT01160263",
+      "title": "Study of Dopamine and Serotonin Transporters in Patients With Amyotrophic Lateral Sclerosis and Controls",
+      "titleZh": "Study of Dopamine and Serotonin Transporters in Patients With 肌萎缩侧索硬化症 and Controls",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04575727"
-    },
-    {
-      "id": "trial-NCT04953481",
-      "title": "Home Care Needs and Current Nursing Status of Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Home Care Needs and Current Nursing Status of Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04953481"
-    },
-    {
-      "id": "trial-NCT02496767",
-      "title": "Ventilatory Investigation of Tirasemtiv and Assessment of Longitudinal Indices After Treatment for a Year",
-      "titleZh": "待复核翻译：Ventilatory Investigation of Tirasemtiv and Assessment of Longitudinal Indices After Treatment for a Year",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02496767"
-    },
-    {
-      "id": "trial-NCT03073239",
-      "title": "Amyotrophic Lateral Sclerosis: a New Paradigm",
-      "titleZh": "肌萎缩侧索硬化症: a New Paradigm",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03073239"
-    },
-    {
-      "id": "trial-NCT01530438",
-      "title": "Study of Cognitive and Emotional Disorders in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Study of Cognitive and Emotional Disorders in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01530438"
-    },
-    {
-      "id": "trial-NCT00886977",
-      "title": "Efficacy and Safety of YAM80 in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Efficacy and Safety of YAM80 in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00886977"
-    },
-    {
-      "id": "trial-NCT00140452",
-      "title": "Phase II Study Using Thalidomide for the Treatment of ALS",
-      "titleZh": "待复核翻译：Phase II Study Using Thalidomide for the Treatment of ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00140452"
+      "url": "https://clinicaltrials.gov/study/NCT01160263"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 4,
+    "疑似误收": 6,
     "缺标识符": 0,
     "缺摘要": 15,
     "高优先级待复核": 27,
@@ -546,8 +568,8 @@
     "待复核": 44
   },
   "relevanceCounts": {
-    "high": 28,
-    "medium": 12,
-    "low": 4
+    "high": 29,
+    "medium": 9,
+    "low": 6
   }
 }
