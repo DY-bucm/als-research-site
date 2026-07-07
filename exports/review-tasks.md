@@ -1,18 +1,20 @@
 # 复核任务清单
 
-- [ ] [高优先级] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
+- [ ] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
   - https://pubmed.ncbi.nlm.nih.gov/42374626/
-- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展 (pmid-42359165)
+- [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展 (pmid-42359165)
   - https://pubmed.ncbi.nlm.nih.gov/42359165/
-- [ ] 肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？ (pmid-42405014)
+- [ ] [高优先级] 肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？ (pmid-42405014)
   - https://pubmed.ncbi.nlm.nih.gov/42405014/
 - [ ] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
   - https://pubmed.ncbi.nlm.nih.gov/42395866/
-- [ ] [高优先级] ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活 (pmid-42392979)
+- [ ] ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活 (pmid-42392979)
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
 - [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供长期照护 (pmid-42367369)
   - https://pubmed.ncbi.nlm.nih.gov/42367369/
-- [ ] [疑似误收] 帕金森病患者自我报告的症状负担 (pmid-42361332)
+- [ ] 阻抗失配理论：神经退行性疾病中共享能量应激途径的非平衡热力学框架 (pmid-42364760)
+  - https://pubmed.ncbi.nlm.nih.gov/42364760/
+- [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
 - [ ] [高优先级] ALS/FTD发病机制中的先天免疫串扰 (pmid-42359357)
   - https://pubmed.ncbi.nlm.nih.gov/42359357/
@@ -22,23 +24,33 @@
   - https://pubmed.ncbi.nlm.nih.gov/42265995/
 - [ ] 连枷肢体综合征 (pmid-42261056)
   - https://pubmed.ncbi.nlm.nih.gov/42261056/
-- [ ] [高优先级] ALS中TDP-43病理的PBMC DEG/miRNA生物标志物 (pmid-42251967)
-  - https://pubmed.ncbi.nlm.nih.gov/42251967/
-- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
+- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用 (pmid-42407013)
+  - https://pubmed.ncbi.nlm.nih.gov/42407013/
+- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
-- [ ] 极低幅度肌肉活动增加健康个体和肌萎缩侧索硬化症患者运动诱发电位的概率 (pmid-42402806)
-  - https://pubmed.ncbi.nlm.nih.gov/42402806/
+- [ ] 床旁肌肉超声检测肌束震颤并辅助诊断机械通气重症监护室患者的肌萎缩侧索硬化 (pmid-42409373)
+  - https://pubmed.ncbi.nlm.nih.gov/42409373/
+- [ ] [高优先级] 肌萎缩侧索硬化症中血液Tau生物标志物与神经丝轻链的不同临床关联 (epmc-PPR-PPR1271948)
+  - https://doi.org/10.64898/2026.07.03.26356752
+- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化症早期阶段肌束震颤产生中的作用 (epmc-MED-42407013)
+  - https://doi.org/10.1212/wnl.0000000000218273
+- [ ] [高优先级] 反义寡核苷酸Tofersen在SOD1-ALS尸检组织捐献者中枢神经系统中的分布 (epmc-MED-42406382)
+  - https://doi.org/10.1001/jamaneurol.2026.2195
+- [ ] 多模态数字终点面板在肌萎缩侧索硬化中的可行性与敏感性：一项前瞻性队列研究 (epmc-MED-42405987)
+  - https://doi.org/10.1080/21678421.2026.2696382
 - [ ] 极低幅度肌肉活动增加健康个体和肌萎缩侧索硬化症患者运动诱发电位的概率 (epmc-MED-42402806)
   - https://doi.org/10.1113/ep093429
-- [ ] [疑似误收] [高优先级] 区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制 (epmc-MED-42401978)
+- [ ] Paid homecare worker support for people living with 运动神经元病: A secondary analysis of people living with 运动神经元病 and family member perspectives. (epmc-MED-42403529)
+  - https://doi.org/10.1177/26323524261452739
+- [ ] [疑似误收] 待复核翻译：Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency. (epmc-MED-42401978)
   - https://doi.org/10.1186/s40478-026-02362-3
-- [ ] 白藜芦醇在帕金森病、亨廷顿病、肌萎缩侧索硬化症和多发性硬化症中的神经保护潜力：一项全面综述 (epmc-MED-42400730)
+- [ ] Neuroprotective potential of resveratrol in Parkinson, Huntington, 肌萎缩侧索硬化症, and multiple sclerosis: a comprehensive review. (epmc-MED-42400730)
   - https://doi.org/10.1007/s11033-026-12300-0
-- [ ] [疑似误收] [高优先级] 遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义 (epmc-MED-42400371)
+- [ ] [疑似误收] 待复核翻译：Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment. (epmc-MED-42400371)
   - https://doi.org/10.1080/21678421.2026.2696378
-- [ ] [高优先级] 运动神经元病中ESCRT机制功能障碍：TSG101、CHMP2B和VPS4a差异调控TDP-43病理、自噬和外泌体生物发生 (epmc-PPR-PPR1271623)
+- [ ] [高优先级] ESCRT Machinery Dysfunction in 运动神经元病: TSG101, CHMP2B, and VPS4a Differentially Regulate TDP-43 Pathology, Autophagy, and Exosome Biogenesis (epmc-PPR-PPR1271623)
   - https://doi.org/10.64898/2026.07.01.735805
-- [ ] SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告 (epmc-MED-42399593)
+- [ ] Early and severe masticatory muscle involvement in SOD1-ALS: a case report with 生物标志物-clinical dissociation. (epmc-MED-42399593)
   - https://doi.org/10.1007/s10072-026-09175-1
 - [ ] GDF5 as a Multimodal Protector of the Motor Unit in 肌萎缩侧索硬化症 (epmc-PPR-PPR1271707)
   - https://doi.org/10.64898/2026.06.30.735251
@@ -48,14 +60,6 @@
   - https://doi.org/10.1016/j.neurol.2026.05.005
 - [ ] Global epidemiology of 肌萎缩侧索硬化症: a systematic review and meta-analysis. (epmc-MED-42399099)
   - https://doi.org/10.1136/jnnp-2026-338675
-- [ ] Radiologically inserted gastrostomy in advanced 肌萎缩侧索硬化症: clinical outcomes. (epmc-MED-42399082)
-  - https://doi.org/10.1136/spcare-2026-006126
-- [ ] Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk. (epmc-MED-42398690)
-  - https://doi.org/10.1016/j.actbio.2026.07.004
-- [ ] [疑似误收] 待复核翻译：AART enables fast and accurate cross-platform proteomic translation (epmc-PPR-PPR1271455)
-  - https://doi.org/10.64898/2026.06.29.735313
-- [ ] [疑似误收] 待复核翻译：RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases (epmc-PPR-PPR1271314)
-  - https://doi.org/10.64898/2026.06.29.735296
 - [ ] [高优先级] 待复核翻译：ALS/MND Natural History Study Data Repository (trial-NCT05966038)
   - https://clinicaltrials.gov/study/NCT05966038
 - [ ] [高优先级] 待复核翻译：Ultra-High Resolution PET in Aging, Neurodegeneration and Psychotic Disorders (trial-NCT07509125)
@@ -64,8 +68,6 @@
   - https://clinicaltrials.gov/study/NCT07396818
 - [ ] [高优先级] Satisfaction of Patients With 肌萎缩侧索硬化症 Regarding Home Assisted Teleconsultation (trial-NCT05621213)
   - https://clinicaltrials.gov/study/NCT05621213
-- [ ] Paid homecare worker support for people living with 运动神经元病: A secondary analysis of people living with 运动神经元病 and family member perspectives. (pmid-42403529)
-  - https://pubmed.ncbi.nlm.nih.gov/42403529/
 - [ ] [高优先级] 待复核翻译：Biospecimen Biorepository for the Study of ALS, ALS-FTD and Similar Neurodegenerative Disorders (trial-NCT05116943)
   - https://clinicaltrials.gov/study/NCT05116943
 - [ ] [高优先级] 肌萎缩侧索硬化症 Registry in Thailand (trial-NCT07175935)

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-06T12:33:03.800Z",
+  "updatedAt": "2026-07-07T10:38:17.947Z",
   "summary": {
-    "totalItems": 44,
+    "totalItems": 45,
     "issueCount": 48
   },
   "sources": [
@@ -25,7 +25,7 @@
     {
       "id": "pmid-42361332",
       "title": "Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
-      "titleZh": "帕金森病患者自我报告的症状负担",
+      "titleZh": "帕金森病患者报告的症状负担",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -36,23 +36,23 @@
     {
       "id": "epmc-MED-42401978",
       "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
-      "titleZh": "区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制",
+      "titleZh": "待复核翻译：Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s40478-026-02362-3"
     },
     {
       "id": "epmc-MED-42400371",
       "title": "Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
-      "titleZh": "遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义",
+      "titleZh": "待复核翻译：Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://doi.org/10.1080/21678421.2026.2696378"
     },
     {
@@ -65,28 +65,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.1016/j.neurol.2026.05.005"
-    },
-    {
-      "id": "epmc-PPR-PPR1271455",
-      "title": "AART enables fast and accurate cross-platform proteomic translation",
-      "titleZh": "待复核翻译：AART enables fast and accurate cross-platform proteomic translation",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.29.735313"
-    },
-    {
-      "id": "epmc-PPR-PPR1271314",
-      "title": "RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
-      "titleZh": "待复核翻译：RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.29.735296"
     }
   ],
   "missingIdentifiers": [],
@@ -94,13 +72,68 @@
     {
       "id": "pmid-42319999",
       "title": "Teaching Video NeuroImage: Beyond Cognition: Amyotrophic Lateral Sclerosis-Like Disease in PSEN1 c.1292C>A (Jalisco Founder Effect) Variant.",
-      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病",
+      "titleZh": "教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42319999/"
+    },
+    {
+      "id": "pmid-42409373",
+      "title": "Bedside muscle ultrasonography to detect fasciculations and support diagnosis of amyotrophic lateral sclerosis in a mechanically ventilated intensive care unit patient.",
+      "titleZh": "床旁肌肉超声检测肌束震颤并辅助诊断机械通气重症监护室患者的肌萎缩侧索硬化",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409373/"
+    },
+    {
+      "id": "epmc-PPR-PPR1271948",
+      "title": "Distinct Clinical Associations of Blood Tau Biomarkers and Neurofilament Light in Amyotrophic Lateral Sclerosis",
+      "titleZh": "肌萎缩侧索硬化症中血液Tau生物标志物与神经丝轻链的不同临床关联",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.64898/2026.07.03.26356752"
+    },
+    {
+      "id": "epmc-MED-42407013",
+      "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
+      "titleZh": "上运动神经元在肌萎缩侧索硬化症早期阶段肌束震颤产生中的作用",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://doi.org/10.1212/wnl.0000000000218273"
+    },
+    {
+      "id": "epmc-MED-42406382",
+      "title": "Antisense Oligonucleotide Tofersen Distribution in the Central Nervous System of SOD1-ALS Autopsy Tissue Donors.",
+      "titleZh": "反义寡核苷酸Tofersen在SOD1-ALS尸检组织捐献者中枢神经系统中的分布",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.1001/jamaneurol.2026.2195"
+    },
+    {
+      "id": "epmc-MED-42405987",
+      "title": "Feasibility and sensitivity of a multimodal digital endpoint panel for amyotrophic lateral sclerosis: a prospective cohort study.",
+      "titleZh": "多模态数字终点面板在肌萎缩侧索硬化中的可行性与敏感性：一项前瞻性队列研究",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/21678421.2026.2696382"
     },
     {
       "id": "epmc-MED-42402806",
@@ -114,42 +147,53 @@
       "url": "https://doi.org/10.1113/ep093429"
     },
     {
+      "id": "epmc-MED-42403529",
+      "title": "Paid homecare worker support for people living with motor neurone disease: A secondary analysis of people living with motor neurone disease and family member perspectives.",
+      "titleZh": "Paid homecare worker support for people living with 运动神经元病: A secondary analysis of people living with 运动神经元病 and family member perspectives.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1177/26323524261452739"
+    },
+    {
       "id": "epmc-MED-42401978",
       "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
-      "titleZh": "区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制",
+      "titleZh": "待复核翻译：Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s40478-026-02362-3"
     },
     {
       "id": "epmc-MED-42400730",
       "title": "Neuroprotective potential of resveratrol in Parkinson, Huntington, amyotrophic lateral sclerosis, and multiple sclerosis: a comprehensive review.",
-      "titleZh": "白藜芦醇在帕金森病、亨廷顿病、肌萎缩侧索硬化症和多发性硬化症中的神经保护潜力：一项全面综述",
+      "titleZh": "Neuroprotective potential of resveratrol in Parkinson, Huntington, 肌萎缩侧索硬化症, and multiple sclerosis: a comprehensive review.",
       "category": "机制",
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1007/s11033-026-12300-0"
     },
     {
       "id": "epmc-MED-42400371",
       "title": "Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
-      "titleZh": "遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义",
+      "titleZh": "待复核翻译：Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://doi.org/10.1080/21678421.2026.2696378"
     },
     {
       "id": "epmc-PPR-PPR1271623",
       "title": "ESCRT Machinery Dysfunction in Motor Neurone Disease: TSG101, CHMP2B, and VPS4a Differentially Regulate TDP-43 Pathology, Autophagy, and Exosome Biogenesis",
-      "titleZh": "运动神经元病中ESCRT机制功能障碍：TSG101、CHMP2B和VPS4a差异调控TDP-43病理、自噬和外泌体生物发生",
+      "titleZh": "ESCRT Machinery Dysfunction in 运动神经元病: TSG101, CHMP2B, and VPS4a Differentially Regulate TDP-43 Pathology, Autophagy, and Exosome Biogenesis",
       "category": "临床试验",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 6,
@@ -160,7 +204,7 @@
     {
       "id": "epmc-MED-42399593",
       "title": "Early and severe masticatory muscle involvement in SOD1-ALS: a case report with biomarker-clinical dissociation.",
-      "titleZh": "SOD1-ALS中早期且严重的咀嚼肌受累：一例生物标志物-临床分离的病例报告",
+      "titleZh": "Early and severe masticatory muscle involvement in SOD1-ALS: a case report with 生物标志物-clinical dissociation.",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
@@ -211,68 +255,13 @@
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://doi.org/10.1136/jnnp-2026-338675"
-    },
-    {
-      "id": "epmc-MED-42399082",
-      "title": "Radiologically inserted gastrostomy in advanced amyotrophic lateral sclerosis: clinical outcomes.",
-      "titleZh": "Radiologically inserted gastrostomy in advanced 肌萎缩侧索硬化症: clinical outcomes.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1136/spcare-2026-006126"
-    },
-    {
-      "id": "epmc-MED-42398690",
-      "title": "Mutant superoxide dismutase 1-catalyzed hydrogen therapy for amyotrophic lateral sclerosis achieved by intercepting oxidative stress-neuroinflammation crosstalk.",
-      "titleZh": "Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.actbio.2026.07.004"
-    },
-    {
-      "id": "epmc-PPR-PPR1271455",
-      "title": "AART enables fast and accurate cross-platform proteomic translation",
-      "titleZh": "待复核翻译：AART enables fast and accurate cross-platform proteomic translation",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.29.735313"
-    },
-    {
-      "id": "epmc-PPR-PPR1271314",
-      "title": "RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
-      "titleZh": "待复核翻译：RD-OMICS: An Integrative Multi-Omics Data Inventory in Rare Diseases",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.06.29.735296"
     }
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42374626",
-      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
-      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42374626/"
-    },
-    {
       "id": "pmid-42359165",
       "title": "Therapeutic frontiers in ALS: iPSC-based drug discovery, cell therapy, and gene therapy-Advances through 2026.",
-      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗和基因治疗——截至2026年的进展",
+      "titleZh": "ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展",
       "category": "临床试验",
       "evidenceLevel": "临床试验研究",
       "relevanceScore": 11,
@@ -281,15 +270,15 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/"
     },
     {
-      "id": "pmid-42392979",
-      "title": "Deletion of exon 2 in ALS-linked Sptlc1 causes lethality in homozygous mice but not in heterozygotes.",
-      "titleZh": "ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
+      "id": "pmid-42405014",
+      "title": "Cholesterol in amyotrophic lateral sclerosis: a bystander, a biomarker, or a target?",
+      "titleZh": "肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42392979/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42405014/"
     },
     {
       "id": "pmid-42367369",
@@ -336,42 +325,53 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42265995/"
     },
     {
-      "id": "pmid-42251967",
-      "title": "PBMC DEG/miRNA biomarkers of TDP-43 pathology in ALS.",
-      "titleZh": "ALS中TDP-43病理的PBMC DEG/miRNA生物标志物",
-      "category": "生物标志物",
+      "id": "pmid-42407013",
+      "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
+      "titleZh": "上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用",
+      "category": "机制",
       "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 11,
+      "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42251967/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407013/"
     },
     {
-      "id": "epmc-MED-42401978",
-      "title": "Regional wasteosome accumulation across neurodegenerative diseases points to a shared underlying mechanism potentially related to glymphatic insufficiency.",
-      "titleZh": "区域废物体积累在神经退行性疾病中的共性：提示可能与类淋巴系统功能不全相关的共享潜在机制",
+      "id": "epmc-PPR-PPR1271948",
+      "title": "Distinct Clinical Associations of Blood Tau Biomarkers and Neurofilament Light in Amyotrophic Lateral Sclerosis",
+      "titleZh": "肌萎缩侧索硬化症中血液Tau生物标志物与神经丝轻链的不同临床关联",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.64898/2026.07.03.26356752"
+    },
+    {
+      "id": "epmc-MED-42407013",
+      "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
+      "titleZh": "上运动神经元在肌萎缩侧索硬化症早期阶段肌束震颤产生中的作用",
       "category": "机制",
       "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://doi.org/10.1186/s40478-026-02362-3"
+      "url": "https://doi.org/10.1212/wnl.0000000000218273"
     },
     {
-      "id": "epmc-MED-42400371",
-      "title": "Reduced penetrance in genetic ALS/FTD spectrum disorders: implications for genetic counseling, predictive testing and treatment.",
-      "titleZh": "遗传性ALS/FTD谱系疾病中的外显率降低：对遗传咨询、预测性检测和治疗的意义",
+      "id": "epmc-MED-42406382",
+      "title": "Antisense Oligonucleotide Tofersen Distribution in the Central Nervous System of SOD1-ALS Autopsy Tissue Donors.",
+      "titleZh": "反义寡核苷酸Tofersen在SOD1-ALS尸检组织捐献者中枢神经系统中的分布",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://doi.org/10.1080/21678421.2026.2696378"
+      "url": "https://doi.org/10.1001/jamaneurol.2026.2195"
     },
     {
       "id": "epmc-PPR-PPR1271623",
       "title": "ESCRT Machinery Dysfunction in Motor Neurone Disease: TSG101, CHMP2B, and VPS4a Differentially Regulate TDP-43 Pathology, Autophagy, and Exosome Biogenesis",
-      "titleZh": "运动神经元病中ESCRT机制功能障碍：TSG101、CHMP2B和VPS4a差异调控TDP-43病理、自噬和外泌体生物发生",
+      "titleZh": "ESCRT Machinery Dysfunction in 运动神经元病: TSG101, CHMP2B, and VPS4a Differentially Regulate TDP-43 Pathology, Autophagy, and Exosome Biogenesis",
       "category": "临床试验",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 6,
@@ -558,18 +558,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 6,
+    "疑似误收": 4,
     "缺标识符": 0,
-    "缺摘要": 15,
+    "缺摘要": 17,
     "高优先级待复核": 27,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 44
+    "待复核": 45
   },
   "relevanceCounts": {
-    "high": 29,
-    "medium": 9,
-    "low": 6
+    "high": 30,
+    "medium": 11,
+    "low": 4
   }
 }
