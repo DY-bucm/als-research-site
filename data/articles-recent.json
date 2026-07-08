@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-07T10:36:19.113Z",
+  "updatedAt": "2026-07-08T07:41:32.635Z",
   "period": {
     "days": 10,
-    "from": "2026-06-28",
-    "to": "2026-07-07"
+    "from": "2026-06-29",
+    "to": "2026-07-08"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 53,
+  "count": 57,
   "articles": [
     {
       "id": "pmid-42311066",
@@ -28,6 +28,43 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42311066/"
     },
     {
+      "id": "pmid-42414528",
+      "pmid": "42414528",
+      "doi": "10.1007/s00401-026-03043-0",
+      "title": "Annexin A11 and TDP-43: core players in neurodegeneration.",
+      "abstract": "Annexin A11 (ANXA11) is a Ca 2 ⁺-dependent phospholipid-binding protein that has recently emerged as a key player in neurodegeneration. Rare pathogenic ANXA11 variants were initially identified in cases of amyotrophic lateral sclerosis (ALS). Since then, ANXA11 has been linked to a broader spectrum of related neurodegenerative diseases. Two independent studies demonstrated that ANXA11 co-aggregates with TDP-43 in all cases of frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP) type C, with cryo-EM revealing heteromeric ANXA11-TDP-43 filaments. These discoveries support the direct pathological interaction between the two proteins as an important feature of FTLD-TDP type C. We also described secondary ANXA11 pathology in related neurodegenerative diseases, including limbic-predominant age-related TDP-43 encephalopathy (LATE), and more rarely in ALS and FTLD-TDP types A and B. ANXA11 and TDP-43 co-aggregates are also a feature of a FTLD-TDP associated with primary lateral sclerosis. These advances have renewed interest in ANXA11 as a major player in ALS/FTLD pathogenesis in both genetic and sporadic neurodegenerative diseases. In this review, we summarize ANXA11 pathology across genetic and sporadic cases, highlighting its heterogeneous overlap with TDP-43 pathology. We synthesize current knowledge of ANXA11's physiological roles in phase separation, membrane repair, and RNA granule dynamics, integrating emerging evidence on how disruption of these processes may promote pathological aggregation and toxicity. Finally, we outline priorities for future research, with particular emphasis on elucidating ANXA11's mechanistic connection to TDP-43.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "Smith CL",
+        "Robinson JL",
+        "Lee EB"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414528/"
+    },
+    {
+      "id": "pmid-42413223",
+      "pmid": "42413223",
+      "doi": "10.1016/j.brainresbull.2026.112036",
+      "title": "Are T1-weighted and T2-weighted volumetric pipelines interchangeable methodologies for investigating amyotrophic lateral sclerosis pathology in vivo?",
+      "abstract": "To test the hypothesis that T1-w and T2-w volumetric pipelines are not interchangeable, particularly regarding their differential sensitivity to physiological traits and disease effects in the red nucleus (RN) and substantia nigra (SN). Thirty-one patients with ALS (mean age: 59.39 ± 8.73 years; 23 males) and 21 non-neurodegenerative controls (mean age: 53.43 ± 10.01 years; 16 males). Bilateral RN and SN volumes were automatically extracted using deep learning pipelines optimized for T1-w (OpenMAP-T1) and T2-w (pBrain) images. Volumes were normalized to total intracranial volume. A 2 × 2 × 2 repeated-measures general linear model (GLM) assessed interactions between Method, Region, Side, and Group, controlling for age, sex, BMI, and handedness. There was no significant main effect of the disease group (p = 0.829) or Method × Group interaction (p = 0.682), indicating both pipelines agreed on the absence of disease-specific macrostructural atrophy. However, a significant four-way Method × Region × Side × Age interaction (P = 0.031) was observed. In the RN, the T2-w pipeline detected robust age-related atrophy (Left: Slope = -1.84 × 10 -6 ; Right: Slope = -1.70 ×10⁻⁶), whereas the T1-w pipeline did not (p > 0.05). Conversely, in the SN, T1-w consistently identified bilateral age-related loss, whereas T2-w yielded lateralized results (Right: p = 0.011; Left: P = 0.465). T1-w and T2-w pipelines are not interchangeable. Though both confirm the absence of gross atrophy in this ALS cohort, their differing sensitivity to physiological aging highlights their distinct biological tissue properties, requiring method-specific interpretation.",
+      "journal": "Brain research bulletin",
+      "authors": [
+        "Mohammadi S",
+        "Trojsi F",
+        "Ghaderi S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413223/"
+    },
+    {
       "id": "pmid-42409373",
       "pmid": "42409373",
       "doi": "10.4266/acc.002080",
@@ -45,6 +82,50 @@
       ],
       "publishedAt": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409373/"
+    },
+    {
+      "id": "pmid-42414949",
+      "pmid": "42414949",
+      "doi": "10.1186/s12883-026-05123-w",
+      "title": "Biological sex differences in neurodegenerative diseases in Africa: a scoping review of evidence and research gaps.",
+      "abstract": "Biological sex is a well-established determinant of risk, progression, and therapeutic response in neurodegenerative diseases (NDs). However, current evidence on sex differences in NDs is from high-income Western populations. This review aims to map and synthesize evidence on biological sex differences in NDs in Africa, and to identify key research gaps. This scoping review was conducted in accordance with the Joanna Briggs Institute methodology and reported in accordance with the PRISMA-ScR guidelines. A literature search was conducted on PubMed, African Journals Online, Sabinet Journals, ScienceDirect, and Google Scholar. We included studies conducted in African countries that reported sex disaggregated data or examined biological sex differences in at least one ND. Data were synthesized descriptively. All included studies reported sex distribution, but most (about 84%) did so only descriptively. Approximately 17% conducted sex-stratified analyses beyond prevalence. Similar to global epidemiological trends, several studies suggested a higher prevalence or odds of dementia and multiple sclerosis among females, while male predominance was observed in Parkinson's disease and Amyotrophic lateral sclerosis studies. An earlier onset and a higher mutation frequency in LRRK2-G2019S were reported in females with Parkinson's disease in some studies, while another study reported a higher mortality rate in females with dementia. No study evaluated sex specific biomarker profiles, disease progression, or treatment response. Evidence on biological sex differences in NDs in Africa remains limited and is largely descriptive. Mechanistic, longitudinal, and biomarker-based investigations are largely absent.",
+      "journal": "BMC neurology",
+      "authors": [
+        "Njohjam MN",
+        "Ngoule MO",
+        "Niakam TF"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "publishedAt": "2026-07-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414949/"
+    },
+    {
+      "id": "pmid-42414029",
+      "pmid": "42414029",
+      "doi": "10.1136/bcr-2025-270944",
+      "title": "Case of concurrent ALS and human T-cell leukaemia virus type 1-associated myositis.",
+      "abstract": "A woman in her late 70s presented with progressive limb weakness, muscle atrophy and hyper-reflexia. Laboratory findings revealed elevated creatine kinase and positive serum human T-cell leukaemia virus type 1 (HTLV-1) antibody. Clinical and electrophysiological findings met revised El Escorial criteria for amyotrophic lateral sclerosis (ALS), but muscle MRI showed inflammatory changes. Muscle biopsy revealed both neurogenic and inflammatory features. While methylprednisolone showed no benefit, intravenous immunoglobulin therapy produced transient improvement in weakness with normalisation of creatine kinase levels. The patient died from respiratory failure 3 years after symptom onset. Autopsy confirmed typical ALS-TDP pathology with phosphorylated TDP-43 inclusions in motor neurons. HTLV-1 Tax-positive lymphocytes infiltrated skeletal muscles but not the central nervous system, establishing dual pathology of ALS-TDP with HTLV-1-associated myositis. The improvement most likely reflected treatment of the HTLV-1-associated myositis rather than the underlying motor neuron disease. This case highlights the importance of evaluating treatable conditions in HTLV-1-seropositive ALS patients.",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Hata T",
+        "Ogawa N",
+        "Yabata H",
+        "Kobashi S",
+        "Nakayama M",
+        "Ishigaki H",
+        "Yamakawa I",
+        "Itoh Y",
+        "Nishino I",
+        "Urushitani M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414029/"
     },
     {
       "id": "pmid-42102258",
@@ -114,6 +195,31 @@
       ],
       "publishedAt": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41218062/"
+    },
+    {
+      "id": "pmid-42412610",
+      "pmid": "42412610",
+      "doi": "10.1016/j.celrep.2026.117672",
+      "title": "Striatal neuron dysfunction in C9ORF72-FTD/ALS is driven by AIS and potassium channel dysregulation.",
+      "abstract": "Frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS) form a neurodegenerative spectrum characterized by progressive cognitive, behavioral, and motor decline, yet the contribution of the striatum to disease pathophysiology remains poorly understood. Here, we generate inhibitory striatal medium spiny neurons (MSNs) from human induced pluripotent stem cells carrying the C9ORF72 repeat expansion, the most common genetic cause of FTD/ALS, and compare them with isogenic-corrected, control, and patient-derived motor neurons. Using whole-cell electrophysiology, pharmacological manipulation, and high-resolution imaging, we identify a vulnerability of C9ORF72 MSNs to develop intrinsic hypoexcitability with linked synaptic dysfunction. These abnormalities are associated with axon initial segment shortening and altered voltage-gated potassium channel function relative to control and isogenic-corrected neurons. Pharmacological modulation partially restores action potential waveform properties, indicating that key electrophysiological abnormalities are reversible. These findings identify the striatum as a critical site of dysfunction in FTD/ALS and highlight striatal excitability as a potential therapeutic target.",
+      "journal": "Cell reports",
+      "authors": [
+        "Pasniceanu IS",
+        "Atwal MS",
+        "Santos Souza CD",
+        "Moll T",
+        "King M",
+        "Treanor C",
+        "Cabezas de la Fuente D",
+        "West RJH",
+        "Ferraiuolo L",
+        "Livesey MR"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42412610/"
     },
     {
       "id": "pmid-41240362",
@@ -438,6 +544,24 @@
       ],
       "publishedAt": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42397462/"
+    },
+    {
+      "id": "pmid-42411077",
+      "pmid": "42411077",
+      "doi": "10.2174/0118746098388719251206111338",
+      "title": "A Review on the Mechanisms of Neurodegeneration and the Potential of Plant Bioactives in Managing Neurological Conditions.",
+      "abstract": "Neurodegenerative disorders encompass a wide range of debilitating neurological conditions characterized by the progressive loss of specific neuronal populations in the central and/or peripheral nervous systems. This disease often leads to a gradual decline in cognitive, motor, and sensory abilities. This review explores the role of various lifestyle factors, such as age, sex, poor diet, depression, etc., which contribute to the onset and progression of NDDs. Various diseases are included in the neurodegenerative disorder, like Alzheimer's disease, Parkinson's disease, Huntington's disease, Amyotrophic Lateral Sclerosis, Multiple Sclerosis, and Lewy body disease, which are chronic conditions that significantly impact cognitive and motor functions. A literature search was conducted in the scientific database using the keywords \"neurodegenerative disorders, phytoconstituents, and herbals\". This review includes a collection of reports from ScienceDirect, Scholar Google, and PubMed, all searched up to 2024. The results were assessed, gathered, and reported in this paper. A total of 241 articles were included, with exponential growth in publication numbers from 1985 to 2024. Effective management and control of NDDs require addressing these risk factors, alongside exploring therapeutic interventions. Some plants and herbs used to treat neurodegenerative diseases, such as curcumin, ashwagandha, ginkgo biloba, epigallocatechin-3-gallate, quercetin, ginseng, and resveratrol, have shown potential to improve neuronal health and mitigate disease progression. This review highlights the dual role of natural compounds in promoting improvements and upregulating brain function while potentially reducing degradation. The phytopharmaceuticals show the potential for treating neurological conditions with better efficacy and safer profiles. The review suggested that future research should focus on integrating lifestyle modifications and natural therapies to enhance the quality of life for individuals at risk or suffering from neurodegenerative diseases.",
+      "journal": "Current aging science",
+      "authors": [
+        "Singh P",
+        "Bhardwaj S",
+        "Nagarajan K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42411077/"
     },
     {
       "id": "pmid-42393482",
@@ -1263,67 +1387,6 @@
       ],
       "publishedAt": "2026-06-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42371122/"
-    },
-    {
-      "id": "pmid-42366580",
-      "pmid": "42366580",
-      "doi": "10.1002/mus.70322",
-      "title": "At-Home Versus in-Clinic Vital Capacity Measurement: Insights From the HEALEY ALS Platform Trial.",
-      "abstract": "Respiratory weakness, typically monitored as vital capacity (VC), is a central feature of amyotrophic lateral sclerosis (ALS). VC is increasingly measured remotely in participants' homes, although in-clinic assessment remains the standard. We tested concordance between at-home and in-clinic VC to determine trial eligibility, track progression, and predict survival in a large ALS trial. At-home and in-clinic VC were assessed at baseline and approximately every 8 weeks for a year in the first four regimens of the HEALEY ALS Platform Trial. At-home assessments were coached via live videoconference and centrally reviewed. VC measurements, expressed as percent of predicted normal (%PN), were compared cross-sectionally, longitudinally, and for predicting survival time. Data from 233 participants with 3-8 paired at-home and in-clinic VC assessments completed < 14 days apart were analyzed. At-home and in-clinic VC were well correlated (Lin's r c = 0.82) with no systematic bias. At-home VC ≥ 60%PN predicted in-clinic VC ≥ 60%PN with a positive predictive value of 91% and a negative predictive value of 65%. VC slopes were moderately correlated (r c = 0.68). At-home VC progressed 28% faster than in-clinic VC with proportionately less variance (at-home [SE] = -1.882 [0.153] %PN/month, in-clinic = -1.476 [0.131] %PN/month). Slopes of at-home and in-clinic VC explained 15% and 17% of variation in future survival time, respectively. At-home and in-clinic VC were well correlated cross-sectionally. At-home VC performed well tracking longitudinal change and predicting survival. The reduced participant burden of assessment and concordance with in-clinic measurement support use of at-home monitoring of VC.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Macklin EA",
-        "Berry JD",
-        "Harkey BA",
-        "Heyd L",
-        "Chase M",
-        "Yu H",
-        "Sherman AV",
-        "Dagostino D",
-        "Kittle G",
-        "Hall M",
-        "Connolly MR",
-        "Drake K",
-        "Giacomelli E",
-        "Scirocco E",
-        "Sharma S",
-        "Babu S",
-        "Benatar M",
-        "Simmons Z",
-        "Young E",
-        "Cudkowicz ME",
-        "Shefner J",
-        "Paganoni S",
-        "HEALEY ALS Platform Trial Study Group"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42366580/"
-    },
-    {
-      "id": "pmid-42365390",
-      "pmid": "42365390",
-      "doi": "10.1186/s40035-026-00561-5",
-      "title": "Lysophagy protects against ANXA11 amyloid fibril toxicity and propagation in FTLD.",
-      "abstract": "Accumulation of Annexin A11 (ANXA11) aggregates is a distinct pathological hallmark of amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD). While genetic studies have linked ANXA11 mutations (e.g., D40G) to disease, the precise molecular events converting aggregation into neurotoxicity and intercellular propagation remain elusive. We hypothesize that lysosomal integrity serves as a critical checkpoint in ANXA11 proteinopathy and that its failure drives disease progression. To model the human pathology of ANXA11, we generated pre-formed fibrils (PFFs) of wild-type and FTLD/ALS-linked D40G mutant ANXA11. Human iPSC-derived neurons, 3D cerebral organoids, and bulk RNA-sequencing were employed to investigate neurotoxicity. High-resolution imaging, lentiviral knockdown, and biochemical assays were performed to delineate the lysosomal damage response and the subsequent \"prion-like\" spreading of aggregates. The internalized ANXA11 fibrils accumulated in lysosomes, triggering lysosomal membrane permeabilization (LMP). The D40G mutation exacerbated this toxicity, leading to severe LMP, mitochondrial depolarization, and specific transcriptional downregulation of the dynactin subunit ACTR10. Mechanistically, we identified a protective signaling axis involving p38 MAPK, MK2, and HSP27 that senses ANXA11-induced lysosomal damage and initiates lysophagy. Notably, in human cerebral organoids, failure of this lysophagic clearance facilitated the cytoplasmic escape of ANXA11, thereby accelerating its seeding activity and propagation to neighboring cells. Pharmacological or genetic modulation of this pathway significantly altered neuronal survival. Our study established lysosomal rupture as a primary driver of ANXA11-associated neurodegeneration and validated the p38/MK2/HSP27 axis as a crucial defense mechanism in human neural tissue. These findings provide a novel mechanistic link between lysosomal quality control and ANXA11 propagation, highlighting that enhancing lysophagic flux represents a promising translational strategy to halt the progression of FTLD and ALS.",
-      "journal": "Translational neurodegeneration",
-      "authors": [
-        "Zheng H",
-        "Luo H",
-        "Lu Y",
-        "Yuan Y",
-        "Zhang N",
-        "Duan S",
-        "Xia Z",
-        "Xu Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-06-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365390/"
     }
   ]
 }
