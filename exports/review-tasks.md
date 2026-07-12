@@ -4,41 +4,43 @@
   - https://pubmed.ncbi.nlm.nih.gov/42374626/
 - [ ] [高优先级] ALS治疗前沿：基于iPSC的药物发现、细胞治疗与基因治疗——截至2026年的进展 (pmid-42359165)
   - https://pubmed.ncbi.nlm.nih.gov/42359165/
-- [ ] [高优先级] 肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？ (pmid-42405014)
+- [ ] [高优先级] 胆固醇在肌萎缩侧索硬化症中的作用：旁观者、生物标志物还是治疗靶点？ (pmid-42405014)
   - https://pubmed.ncbi.nlm.nih.gov/42405014/
-- [ ] [高优先级] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
+- [ ] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
   - https://pubmed.ncbi.nlm.nih.gov/42395866/
 - [ ] ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活 (pmid-42392979)
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
-- [ ] 柚皮素作为神经退行性疾病中的多靶点神经保护剂 (pmid-42276279)
-  - https://pubmed.ncbi.nlm.nih.gov/42276279/
 - [ ] 神经病学杂志俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
-- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供长期照护 (pmid-42367369)
+- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供纵向护理 (pmid-42367369)
   - https://pubmed.ncbi.nlm.nih.gov/42367369/
 - [ ] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
   - https://pubmed.ncbi.nlm.nih.gov/42364760/
 - [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
-- [ ] [高优先级] 肌萎缩侧索硬化症恢复：一种整合神经肌肉康复与临床稳定的ALS新型护理模式系统 (pmid-42304808)
+- [ ] [高优先级] 肌萎缩侧索硬化症康复：一种整合神经肌肉康复与临床稳定的ALS新型护理模式系统 (pmid-42304808)
   - https://pubmed.ncbi.nlm.nih.gov/42304808/
-- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用 (pmid-42407013)
+- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化早期疾病阶段肌束震颤产生中的作用 (pmid-42407013)
   - https://pubmed.ncbi.nlm.nih.gov/42407013/
-- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
+- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科奠基者效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
   - https://pubmed.ncbi.nlm.nih.gov/42319999/
-- [ ] 肌萎缩侧索硬化症患者对辅助颈部外骨骼肌电控制的初步研究 (pmid-42430317)
-  - https://pubmed.ncbi.nlm.nih.gov/42430317/
-- [ ] [高优先级] PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力 (pmid-42430091)
-  - https://pubmed.ncbi.nlm.nih.gov/42430091/
+- [ ] [高优先级] 使用背景至关重要：解读细胞外囊泡TDP-43作为ALS的生物标志物 (pmid-42436563)
+  - https://pubmed.ncbi.nlm.nih.gov/42436563/
+- [ ] “跨越两个世界”：肌萎缩侧索硬化症中年轻中年配偶照护的复杂性 (pmid-42436431)
+  - https://pubmed.ncbi.nlm.nih.gov/42436431/
+- [ ] [高优先级] 血浆外泌体HERV-K转录本在肌萎缩侧索硬化症中升高 (pmid-42436372)
+  - https://pubmed.ncbi.nlm.nih.gov/42436372/
 - [ ] [疑似误收] [高优先级] 多重打击遗传损伤与应激印记免疫转录组定义ALS患者的炎症病理 (epmc-PPR-PPR1276872)
   - https://doi.org/10.21203/rs.3.rs-10046801/v1
-- [ ] [高优先级] 携带ALS FUS(P525L)突变的人iPSC来源脊髓神经元对抑制性神经递质的反应降低 (epmc-MED-42429860)
+- [ ] [疑似误收] [高优先级] PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力 (epmc-MED-42430091)
+  - https://doi.org/10.1007/s12035-026-06029-x
+- [ ] [高优先级] 携带ALS FUS（P525L）突变的人iPSC来源脊髓神经元对抑制性神经递质的反应降低 (epmc-MED-42429860)
   - https://doi.org/10.1007/s10571-026-01773-z
-- [ ] 肌萎缩侧索硬化症中的步速与未来行走状态：一项对电动轮椅转诊有启示的回顾性观察研究 (epmc-MED-42429266)
+- [ ] [高优先级] 肌萎缩侧索硬化症中的步速与未来行走状态：一项对电动轮椅转诊有启示的回顾性观察研究 (epmc-MED-42429266)
   - https://doi.org/10.1080/09593985.2026.2700400
-- [ ] [疑似误收] [高优先级] C9orf72相关多聚GR蛋白在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩 (epmc-MED-42427030)
+- [ ] [疑似误收] [高优先级] C9orf72相关多聚甘氨酸-精氨酸在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩 (epmc-MED-42427030)
   - https://doi.org/10.1016/j.ymthe.2026.07.002
-- [ ] 运动车辆碰撞多年后肌萎缩侧索硬化症的不寻常表现 (epmc-MED-42425598)
+- [ ] Unusual presentation of 肌萎缩侧索硬化症 years after a motor-vehicle collision. (epmc-MED-42425598)
   - https://doi.org/10.1136/bcr-2026-272139
 - [ ] Sex-associated neuroinflammatory and astrocytic responses in 肌萎缩侧索硬化症: evidence from clinical cohorts and a TDP-43 N390D mouse model. (epmc-MED-42425169)
   - https://doi.org/10.1016/j.bbi.2026.106884
