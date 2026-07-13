@@ -1,69 +1,167 @@
 {
-  "updatedAt": "2026-07-12T07:38:43.960Z",
-  "previousSnapshot": "data/archive/2026-07-11.json",
+  "updatedAt": "2026-07-13T10:40:14.672Z",
+  "previousSnapshot": "data/archive/2026-07-12.json",
   "current": "data/items.json",
   "summary": {
-    "added": 4,
-    "removed": 3,
-    "changed": 3
+    "added": 9,
+    "removed": 12,
+    "changed": 4
   },
   "added": [
     {
-      "id": "pmid-42436563",
-      "titleZh": "使用背景至关重要：解读细胞外囊泡TDP-43作为ALS的生物标志物",
+      "id": "epmc-MED-42435587",
+      "titleZh": "神经退行性疾病中的精准治疗与创新临床试验设计",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/j.ric.2026.100050"
+    },
+    {
+      "id": "epmc-MED-42434808",
+      "titleZh": "中枢神经系统疾病中细胞外囊泡的脑靶向与运输：治疗路线图",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/17435889.2026.2698782"
+    },
+    {
+      "id": "epmc-MED-42432003",
+      "titleZh": "脊髓损伤成人和健康对照者的复合肌肉动作电位扫描数据集",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41597-026-07864-2"
+    },
+    {
+      "id": "epmc-MED-42432783",
+      "titleZh": "跨疾病LC-MS/MS血浆蛋白质组学在神经退行性疾病中识别出可重复的共享和疾病富集的生物标志物特征",
       "category": "生物标志物",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436563/"
+      "url": "https://doi.org/10.1186/s40478-026-02377-w"
     },
     {
-      "id": "pmid-42436431",
-      "titleZh": "“跨越两个世界”：肌萎缩侧索硬化症中年轻中年配偶照护的复杂性",
+      "id": "epmc-MED-42432671",
+      "titleZh": "AI辅助药物重定位在神经系统疾病中的作用：验证策略、挑战与机遇的系统综述",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12951-026-04551-7"
+    },
+    {
+      "id": "epmc-MED-42432423",
+      "titleZh": "待复核翻译：Quantitative Spatiotemporal Analysis of Ultrasound Images of Fasciculations in ALS.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70338"
+    },
+    {
+      "id": "epmc-MED-42431556",
+      "titleZh": "Fisetin prevents deterioration of cellular functions in 肌萎缩侧索硬化症 variants G262R and P438L of SQSTM1 in SH-SY5Y cells.",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436431/"
+      "url": "https://doi.org/10.1016/j.taap.2026.117943"
     },
     {
-      "id": "pmid-42436372",
-      "titleZh": "血浆外泌体HERV-K转录本在肌萎缩侧索硬化症中升高",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436372/"
+      "id": "epmc-MED-42430680",
+      "titleZh": "&lt;i&gt;Neurology&lt;/i&gt;® Journal Club: Duration of Current Statin Use and 肌萎缩侧索硬化症 Risk.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1212/wnl.0000000000218358"
     },
     {
-      "id": "epmc-MED-42430091",
-      "titleZh": "PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://doi.org/10.1007/s12035-026-06029-x"
+      "id": "epmc-MED-42430317",
+      "titleZh": "Preliminary Investigation of Myoelectric Control of an Assistive Neck Exoskeleton by Individuals with 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1109/tnsre.2026.3712219"
     }
   ],
   "removed": [
     {
-      "id": "pmid-42276279",
-      "titleZh": "柚皮素作为神经退行性疾病中的多靶点神经保护剂",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42276279/"
+      "id": "epmc-MED-42429266",
+      "titleZh": "肌萎缩侧索硬化症中的步速与未来行走状态：一项对电动轮椅转诊有启示的回顾性观察研究",
+      "category": "机制",
+      "priority": "high",
+      "url": "https://doi.org/10.1080/09593985.2026.2700400"
     },
     {
-      "id": "pmid-42430317",
-      "titleZh": "肌萎缩侧索硬化症患者对辅助颈部外骨骼肌电控制的初步研究",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42430317/"
-    },
-    {
-      "id": "pmid-42430091",
-      "titleZh": "PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力",
+      "id": "epmc-MED-42427030",
+      "titleZh": "C9orf72相关多聚甘氨酸-精氨酸在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42430091/"
+      "url": "https://doi.org/10.1016/j.ymthe.2026.07.002"
+    },
+    {
+      "id": "epmc-MED-42425598",
+      "titleZh": "Unusual presentation of 肌萎缩侧索硬化症 years after a motor-vehicle collision.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1136/bcr-2026-272139"
+    },
+    {
+      "id": "epmc-MED-42425169",
+      "titleZh": "Sex-associated neuroinflammatory and astrocytic responses in 肌萎缩侧索硬化症: evidence from clinical cohorts and a TDP-43 N390D mouse model.",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.bbi.2026.106884"
+    },
+    {
+      "id": "epmc-MED-42425084",
+      "titleZh": "待复核翻译：RNA-dependent SFPQ condensates coordinate multidimensional regulation of extra-long neuronal genes.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1016/j.chembiol.2026.06.004"
+    },
+    {
+      "id": "epmc-MED-42424231",
+      "titleZh": "神经丝轻链 as a 生物标志物 in Neurology.",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.1159/000552933"
+    },
+    {
+      "id": "epmc-PPR-PPR1276355",
+      "titleZh": "Does OMOP CDM Conversion Improve Cross-Country Comparability of Real-World Data? A Benchmark Study in Breast Cancer and 肌萎缩侧索硬化症",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.07.06.26357353"
+    },
+    {
+      "id": "epmc-MED-42423631",
+      "titleZh": "Identifying Gastrostomy Care and Home Gastrostomy Tube Feeding-Related Educational Content for Patients With 肌萎缩侧索硬化症 and Their Family Caregivers: A Delphi Panel With Professional Stakeholders.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1097/sga.0000000000000937"
+    },
+    {
+      "id": "epmc-MED-42428795",
+      "titleZh": "待复核翻译：Dysregulated neuronal mRNA transport and translation in FTD/ALS.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1038/s44400-026-00116-5"
+    },
+    {
+      "id": "epmc-PPR-PPR1273894",
+      "titleZh": "待复核翻译：Multi-omics of C9orf72 spinal cord organoids reveal convergent molecular signatures and targets",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-10053820/v1"
+    },
+    {
+      "id": "epmc-MED-42420559",
+      "titleZh": "小胶质细胞l TDP-43 mediates myelin refinement and represses Tyrobp cryptic exon inclusion in mice.",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41593-026-02348-3"
+    },
+    {
+      "id": "epmc-MED-42419740",
+      "titleZh": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes 线粒体l R-loop dynamics.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1111/febs.70649"
     }
   ],
   "changed": [
     {
-      "id": "pmid-42395866",
-      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
+      "id": "pmid-42405014",
+      "titleZh": "肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？",
       "changes": [
         {
           "field": "priority",
@@ -73,23 +171,34 @@
       ]
     },
     {
-      "id": "epmc-MED-42429266",
-      "titleZh": "肌萎缩侧索硬化症中的步速与未来行走状态：一项对电动轮椅转诊有启示的回顾性观察研究",
+      "id": "epmc-PPR-PPR1276872",
+      "titleZh": "待复核翻译：Multi-hit genetic lesions and a stress-imprinted immune transcriptome define the inflammatory pathology in ALS patients",
       "changes": [
         {
           "field": "priority",
-          "before": "medium",
-          "after": "high"
+          "before": "high",
+          "after": "low"
         }
       ]
     },
     {
-      "id": "epmc-MED-42425598",
-      "titleZh": "Unusual presentation of 肌萎缩侧索硬化症 years after a motor-vehicle collision.",
+      "id": "epmc-MED-42430091",
+      "titleZh": "待复核翻译：The Role of PGC-1α in Neurodegenerative Diseases: Molecular Mechanisms, Translational Challenges, and Therapeutic Potential.",
       "changes": [
         {
           "field": "priority",
-          "before": "medium",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42429860",
+      "titleZh": "待复核翻译：Human iPSC-Derived Spinal Neurons Carrying the ALS FUS (P525L) Mutation Exhibit Lower Response to Inhibitory Neurotransmitters.",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
           "after": "low"
         }
       ]

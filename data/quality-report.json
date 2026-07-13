@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-12T07:38:43.911Z",
+  "updatedAt": "2026-07-13T10:40:14.622Z",
   "summary": {
-    "totalItems": 45,
-    "issueCount": 55
+    "totalItems": 42,
+    "issueCount": 47
   },
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "pmid-42361332",
       "title": "Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
-      "titleZh": "帕金森病患者报告的症状负担",
+      "titleZh": "帕金森病患者自我报告的症状负担",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -34,103 +34,92 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
     },
     {
+      "id": "epmc-MED-42435587",
+      "title": "Precision therapeutics and innovative clinical trial design in neurodegenerative diseases.",
+      "titleZh": "神经退行性疾病中的精准治疗与创新临床试验设计",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/j.ric.2026.100050"
+    },
+    {
+      "id": "epmc-MED-42434808",
+      "title": "Brain targeting and trafficking of extracellular vesicles in central nervous system diseases: a therapeutic roadmap.",
+      "titleZh": "中枢神经系统疾病中细胞外囊泡的脑靶向与运输：治疗路线图",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/17435889.2026.2698782"
+    },
+    {
+      "id": "epmc-MED-42432003",
+      "title": "Compound muscle action potential scan dataset in adults with spinal cord injury and healthy controls.",
+      "titleZh": "脊髓损伤成人和健康对照者的复合肌肉动作电位扫描数据集",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41597-026-07864-2"
+    },
+    {
+      "id": "epmc-MED-42432783",
+      "title": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
+      "titleZh": "跨疾病LC-MS/MS血浆蛋白质组学在神经退行性疾病中识别出可重复的共享和疾病富集的生物标志物特征",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1186/s40478-026-02377-w"
+    },
+    {
+      "id": "epmc-MED-42432671",
+      "title": "The role of AI-assisted drug repurposing in neurological disorders: a systematic review of validation strategies, challenges and opportunities.",
+      "titleZh": "AI辅助药物重定位在神经系统疾病中的作用：验证策略、挑战与机遇的系统综述",
+      "category": "治疗",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12951-026-04551-7"
+    },
+    {
+      "id": "epmc-MED-42432423",
+      "title": "Quantitative Spatiotemporal Analysis of Ultrasound Images of Fasciculations in ALS.",
+      "titleZh": "待复核翻译：Quantitative Spatiotemporal Analysis of Ultrasound Images of Fasciculations in ALS.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70338"
+    },
+    {
       "id": "epmc-PPR-PPR1276872",
       "title": "Multi-hit genetic lesions and a stress-imprinted immune transcriptome define the inflammatory pathology in ALS patients",
-      "titleZh": "多重打击遗传损伤与应激印记免疫转录组定义ALS患者的炎症病理",
+      "titleZh": "待复核翻译：Multi-hit genetic lesions and a stress-imprinted immune transcriptome define the inflammatory pathology in ALS patients",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-10046801/v1"
     },
     {
       "id": "epmc-MED-42430091",
       "title": "The Role of PGC-1α in Neurodegenerative Diseases: Molecular Mechanisms, Translational Challenges, and Therapeutic Potential.",
-      "titleZh": "PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力",
+      "titleZh": "待复核翻译：The Role of PGC-1α in Neurodegenerative Diseases: Molecular Mechanisms, Translational Challenges, and Therapeutic Potential.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://doi.org/10.1007/s12035-026-06029-x"
-    },
-    {
-      "id": "epmc-MED-42427030",
-      "title": "C9orf72-associated poly-GR in skeletal muscle leads to neuromuscular junction deficits and muscle atrophy.",
-      "titleZh": "C9orf72相关多聚甘氨酸-精氨酸在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/j.ymthe.2026.07.002"
-    },
-    {
-      "id": "epmc-MED-42425084",
-      "title": "RNA-dependent SFPQ condensates coordinate multidimensional regulation of extra-long neuronal genes.",
-      "titleZh": "待复核翻译：RNA-dependent SFPQ condensates coordinate multidimensional regulation of extra-long neuronal genes.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.chembiol.2026.06.004"
-    },
-    {
-      "id": "epmc-MED-42424231",
-      "title": "Neurofilament Light Chain as a Biomarker in Neurology.",
-      "titleZh": "神经丝轻链 as a 生物标志物 in Neurology.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1159/000552933"
-    },
-    {
-      "id": "epmc-MED-42428795",
-      "title": "Dysregulated neuronal mRNA transport and translation in FTD/ALS.",
-      "titleZh": "待复核翻译：Dysregulated neuronal mRNA transport and translation in FTD/ALS.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1038/s44400-026-00116-5"
-    },
-    {
-      "id": "epmc-PPR-PPR1273894",
-      "title": "Multi-omics of C9orf72 spinal cord organoids reveal convergent molecular signatures and targets",
-      "titleZh": "待复核翻译：Multi-omics of C9orf72 spinal cord organoids reveal convergent molecular signatures and targets",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10053820/v1"
-    },
-    {
-      "id": "epmc-MED-42420559",
-      "title": "Microglial TDP-43 mediates myelin refinement and represses Tyrobp cryptic exon inclusion in mice.",
-      "titleZh": "小胶质细胞l TDP-43 mediates myelin refinement and represses Tyrobp cryptic exon inclusion in mice.",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1038/s41593-026-02348-3"
-    },
-    {
-      "id": "epmc-MED-42419740",
-      "title": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes mitochondrial R-loop dynamics.",
-      "titleZh": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes 线粒体l R-loop dynamics.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/febs.70649"
     }
   ],
   "missingIdentifiers": [],
@@ -158,169 +147,136 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436563/"
     },
     {
+      "id": "epmc-MED-42435587",
+      "title": "Precision therapeutics and innovative clinical trial design in neurodegenerative diseases.",
+      "titleZh": "神经退行性疾病中的精准治疗与创新临床试验设计",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/j.ric.2026.100050"
+    },
+    {
+      "id": "epmc-MED-42434808",
+      "title": "Brain targeting and trafficking of extracellular vesicles in central nervous system diseases: a therapeutic roadmap.",
+      "titleZh": "中枢神经系统疾病中细胞外囊泡的脑靶向与运输：治疗路线图",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/17435889.2026.2698782"
+    },
+    {
+      "id": "epmc-MED-42432003",
+      "title": "Compound muscle action potential scan dataset in adults with spinal cord injury and healthy controls.",
+      "titleZh": "脊髓损伤成人和健康对照者的复合肌肉动作电位扫描数据集",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41597-026-07864-2"
+    },
+    {
+      "id": "epmc-MED-42432783",
+      "title": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
+      "titleZh": "跨疾病LC-MS/MS血浆蛋白质组学在神经退行性疾病中识别出可重复的共享和疾病富集的生物标志物特征",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1186/s40478-026-02377-w"
+    },
+    {
+      "id": "epmc-MED-42432671",
+      "title": "The role of AI-assisted drug repurposing in neurological disorders: a systematic review of validation strategies, challenges and opportunities.",
+      "titleZh": "AI辅助药物重定位在神经系统疾病中的作用：验证策略、挑战与机遇的系统综述",
+      "category": "治疗",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12951-026-04551-7"
+    },
+    {
+      "id": "epmc-MED-42432423",
+      "title": "Quantitative Spatiotemporal Analysis of Ultrasound Images of Fasciculations in ALS.",
+      "titleZh": "待复核翻译：Quantitative Spatiotemporal Analysis of Ultrasound Images of Fasciculations in ALS.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mus.70338"
+    },
+    {
+      "id": "epmc-MED-42431556",
+      "title": "Fisetin prevents deterioration of cellular functions in amyotrophic lateral sclerosis variants G262R and P438L of SQSTM1 in SH-SY5Y cells.",
+      "titleZh": "Fisetin prevents deterioration of cellular functions in 肌萎缩侧索硬化症 variants G262R and P438L of SQSTM1 in SH-SY5Y cells.",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.taap.2026.117943"
+    },
+    {
+      "id": "epmc-MED-42430680",
+      "title": "&lt;i&gt;Neurology&lt;/i&gt;® Journal Club: Duration of Current Statin Use and Amyotrophic Lateral Sclerosis Risk.",
+      "titleZh": "&lt;i&gt;Neurology&lt;/i&gt;® Journal Club: Duration of Current Statin Use and 肌萎缩侧索硬化症 Risk.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1212/wnl.0000000000218358"
+    },
+    {
+      "id": "epmc-MED-42430317",
+      "title": "Preliminary Investigation of Myoelectric Control of an Assistive Neck Exoskeleton by Individuals with Amyotrophic Lateral Sclerosis.",
+      "titleZh": "Preliminary Investigation of Myoelectric Control of an Assistive Neck Exoskeleton by Individuals with 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1109/tnsre.2026.3712219"
+    },
+    {
       "id": "epmc-PPR-PPR1276872",
       "title": "Multi-hit genetic lesions and a stress-imprinted immune transcriptome define the inflammatory pathology in ALS patients",
-      "titleZh": "多重打击遗传损伤与应激印记免疫转录组定义ALS患者的炎症病理",
+      "titleZh": "待复核翻译：Multi-hit genetic lesions and a stress-imprinted immune transcriptome define the inflammatory pathology in ALS patients",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-10046801/v1"
     },
     {
       "id": "epmc-MED-42430091",
       "title": "The Role of PGC-1α in Neurodegenerative Diseases: Molecular Mechanisms, Translational Challenges, and Therapeutic Potential.",
-      "titleZh": "PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力",
+      "titleZh": "待复核翻译：The Role of PGC-1α in Neurodegenerative Diseases: Molecular Mechanisms, Translational Challenges, and Therapeutic Potential.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://doi.org/10.1007/s12035-026-06029-x"
     },
     {
       "id": "epmc-MED-42429860",
       "title": "Human iPSC-Derived Spinal Neurons Carrying the ALS FUS (P525L) Mutation Exhibit Lower Response to Inhibitory Neurotransmitters.",
-      "titleZh": "携带ALS FUS（P525L）突变的人iPSC来源脊髓神经元对抑制性神经递质的反应降低",
+      "titleZh": "待复核翻译：Human iPSC-Derived Spinal Neurons Carrying the ALS FUS (P525L) Mutation Exhibit Lower Response to Inhibitory Neurotransmitters.",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.1007/s10571-026-01773-z"
-    },
-    {
-      "id": "epmc-MED-42429266",
-      "title": "Gait speed and future ambulatory status in amyotrophic lateral sclerosis: a retrospective observational study with implications for power wheelchair referral.",
-      "titleZh": "肌萎缩侧索硬化症中的步速与未来行走状态：一项对电动轮椅转诊有启示的回顾性观察研究",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1080/09593985.2026.2700400"
-    },
-    {
-      "id": "epmc-MED-42427030",
-      "title": "C9orf72-associated poly-GR in skeletal muscle leads to neuromuscular junction deficits and muscle atrophy.",
-      "titleZh": "C9orf72相关多聚甘氨酸-精氨酸在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/j.ymthe.2026.07.002"
-    },
-    {
-      "id": "epmc-MED-42425598",
-      "title": "Unusual presentation of amyotrophic lateral sclerosis years after a motor-vehicle collision.",
-      "titleZh": "Unusual presentation of 肌萎缩侧索硬化症 years after a motor-vehicle collision.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1136/bcr-2026-272139"
-    },
-    {
-      "id": "epmc-MED-42425169",
-      "title": "Sex-associated neuroinflammatory and astrocytic responses in amyotrophic lateral sclerosis: evidence from clinical cohorts and a TDP-43 N390D mouse model.",
-      "titleZh": "Sex-associated neuroinflammatory and astrocytic responses in 肌萎缩侧索硬化症: evidence from clinical cohorts and a TDP-43 N390D mouse model.",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.bbi.2026.106884"
-    },
-    {
-      "id": "epmc-MED-42425084",
-      "title": "RNA-dependent SFPQ condensates coordinate multidimensional regulation of extra-long neuronal genes.",
-      "titleZh": "待复核翻译：RNA-dependent SFPQ condensates coordinate multidimensional regulation of extra-long neuronal genes.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.chembiol.2026.06.004"
-    },
-    {
-      "id": "epmc-MED-42424231",
-      "title": "Neurofilament Light Chain as a Biomarker in Neurology.",
-      "titleZh": "神经丝轻链 as a 生物标志物 in Neurology.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1159/000552933"
-    },
-    {
-      "id": "epmc-PPR-PPR1276355",
-      "title": "Does OMOP CDM Conversion Improve Cross-Country Comparability of Real-World Data? A Benchmark Study in Breast Cancer and Amyotrophic Lateral Sclerosis",
-      "titleZh": "Does OMOP CDM Conversion Improve Cross-Country Comparability of Real-World Data? A Benchmark Study in Breast Cancer and 肌萎缩侧索硬化症",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.07.06.26357353"
-    },
-    {
-      "id": "epmc-MED-42423631",
-      "title": "Identifying Gastrostomy Care and Home Gastrostomy Tube Feeding-Related Educational Content for Patients With Amyotrophic Lateral Sclerosis and Their Family Caregivers: A Delphi Panel With Professional Stakeholders.",
-      "titleZh": "Identifying Gastrostomy Care and Home Gastrostomy Tube Feeding-Related Educational Content for Patients With 肌萎缩侧索硬化症 and Their Family Caregivers: A Delphi Panel With Professional Stakeholders.",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1097/sga.0000000000000937"
-    },
-    {
-      "id": "epmc-MED-42428795",
-      "title": "Dysregulated neuronal mRNA transport and translation in FTD/ALS.",
-      "titleZh": "待复核翻译：Dysregulated neuronal mRNA transport and translation in FTD/ALS.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1038/s44400-026-00116-5"
-    },
-    {
-      "id": "epmc-PPR-PPR1273894",
-      "title": "Multi-omics of C9orf72 spinal cord organoids reveal convergent molecular signatures and targets",
-      "titleZh": "待复核翻译：Multi-omics of C9orf72 spinal cord organoids reveal convergent molecular signatures and targets",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10053820/v1"
-    },
-    {
-      "id": "epmc-MED-42420559",
-      "title": "Microglial TDP-43 mediates myelin refinement and represses Tyrobp cryptic exon inclusion in mice.",
-      "titleZh": "小胶质细胞l TDP-43 mediates myelin refinement and represses Tyrobp cryptic exon inclusion in mice.",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1038/s41593-026-02348-3"
-    },
-    {
-      "id": "epmc-MED-42419740",
-      "title": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes mitochondrial R-loop dynamics.",
-      "titleZh": "TOP1MT rs2293925 is an enhancer-active regulatory SNP that shapes 线粒体l R-loop dynamics.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/febs.70649"
     }
   ],
   "highPriorityNeedsReview": [
@@ -347,20 +303,9 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/"
     },
     {
-      "id": "pmid-42405014",
-      "title": "Cholesterol in amyotrophic lateral sclerosis: a bystander, a biomarker, or a target?",
-      "titleZh": "胆固醇在肌萎缩侧索硬化症中的作用：旁观者、生物标志物还是治疗靶点？",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42405014/"
-    },
-    {
       "id": "pmid-42367369",
       "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
-      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供纵向护理",
+      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理",
       "category": "遗传",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 15,
@@ -413,59 +358,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436372/"
     },
     {
-      "id": "epmc-PPR-PPR1276872",
-      "title": "Multi-hit genetic lesions and a stress-imprinted immune transcriptome define the inflammatory pathology in ALS patients",
-      "titleZh": "多重打击遗传损伤与应激印记免疫转录组定义ALS患者的炎症病理",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
+      "id": "epmc-MED-42435587",
+      "title": "Precision therapeutics and innovative clinical trial design in neurodegenerative diseases.",
+      "titleZh": "神经退行性疾病中的精准治疗与创新临床试验设计",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://doi.org/10.21203/rs.3.rs-10046801/v1"
+      "url": "https://doi.org/10.1016/j.ric.2026.100050"
     },
     {
-      "id": "epmc-MED-42430091",
-      "title": "The Role of PGC-1α in Neurodegenerative Diseases: Molecular Mechanisms, Translational Challenges, and Therapeutic Potential.",
-      "titleZh": "PGC-1α在神经退行性疾病中的作用：分子机制、转化挑战与治疗潜力",
-      "category": "治疗",
+      "id": "epmc-MED-42432783",
+      "title": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
+      "titleZh": "跨疾病LC-MS/MS血浆蛋白质组学在神经退行性疾病中识别出可重复的共享和疾病富集的生物标志物特征",
+      "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://doi.org/10.1007/s12035-026-06029-x"
-    },
-    {
-      "id": "epmc-MED-42429860",
-      "title": "Human iPSC-Derived Spinal Neurons Carrying the ALS FUS (P525L) Mutation Exhibit Lower Response to Inhibitory Neurotransmitters.",
-      "titleZh": "携带ALS FUS（P525L）突变的人iPSC来源脊髓神经元对抑制性神经递质的反应降低",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1007/s10571-026-01773-z"
-    },
-    {
-      "id": "epmc-MED-42429266",
-      "title": "Gait speed and future ambulatory status in amyotrophic lateral sclerosis: a retrospective observational study with implications for power wheelchair referral.",
-      "titleZh": "肌萎缩侧索硬化症中的步速与未来行走状态：一项对电动轮椅转诊有启示的回顾性观察研究",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1080/09593985.2026.2700400"
-    },
-    {
-      "id": "epmc-MED-42427030",
-      "title": "C9orf72-associated poly-GR in skeletal muscle leads to neuromuscular junction deficits and muscle atrophy.",
-      "titleZh": "C9orf72相关多聚甘氨酸-精氨酸在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/j.ymthe.2026.07.002"
+      "url": "https://doi.org/10.1186/s40478-026-02377-w"
     },
     {
       "id": "trial-NCT03362658",
@@ -635,18 +547,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 10,
+    "疑似误收": 9,
     "缺标识符": 0,
-    "缺摘要": 17,
-    "高优先级待复核": 28,
+    "缺摘要": 14,
+    "高优先级待复核": 24,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 45
+    "待复核": 42
   },
   "relevanceCounts": {
-    "high": 27,
-    "medium": 8,
-    "low": 10
+    "high": 26,
+    "medium": 7,
+    "low": 9
   }
 }
