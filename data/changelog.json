@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-15T06:34:54.828Z",
+  "updatedAt": "2026-07-15T23:12:29.788Z",
   "previousSnapshot": "data/archive/2026-07-14.json",
   "current": "data/items.json",
   "summary": {
-    "added": 25,
-    "removed": 25,
+    "added": 26,
+    "removed": 26,
     "changed": 7
   },
   "added": [
@@ -23,8 +23,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42341897/"
     },
     {
+      "id": "epmc-MED-42447443",
+      "titleZh": "承担责任",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1200/jco-25-02100"
+    },
+    {
+      "id": "epmc-MED-42447123",
+      "titleZh": "神经肌肉超声作为肌萎缩侧索硬化SOD1小鼠模型的生物标志物",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.1371/journal.pone.0353397"
+    },
+    {
       "id": "epmc-PPR-PPR1279226",
-      "titleZh": "通过DAF-16和pnk-1驱动的泛酸-辅酶A通量补充改善线虫疾病相关应激抵抗",
+      "titleZh": "通过DAF-16和pnk-1驱动的泛酸-辅酶A通量补充改善秀丽隐杆线虫中疾病相关的应激抵抗",
       "category": "机制",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.07.08.737381"
@@ -45,16 +59,16 @@
     },
     {
       "id": "epmc-MED-42442754",
-      "titleZh": "神经精神疾病医保患者的胃肠道诊断与症状",
+      "titleZh": "待复核翻译：Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
       "category": "机制",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1097/mcg.0000000000002422"
     },
     {
       "id": "epmc-MED-42442024",
-      "titleZh": "神经退行性疾病的多模态生物物理标志物：形态学、力学与热力学。",
+      "titleZh": "待复核翻译：Multimodal biophysical markers of neurodegeneration: Morphology, mechanics, and thermodynamics.",
       "category": "机制",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1016/j.sbi.2026.103330"
     },
     {
@@ -79,109 +93,102 @@
       "url": "https://doi.org/10.1371/journal.pgen.1012230"
     },
     {
-      "id": "trial-NCT03233646",
-      "titleZh": "待复核翻译：Retinal Imaging in Neurodegenerative Disease",
+      "id": "trial-NCT07071935",
+      "titleZh": "A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS)",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03233646"
+      "url": "https://clinicaltrials.gov/study/NCT07071935"
     },
     {
-      "id": "trial-NCT00415519",
-      "titleZh": "Efficacy and Safety Study of MCI-186 for Treatment of 肌萎缩侧索硬化症 (ALS) Who Met Severity Classification III",
+      "id": "trial-NCT07287397",
+      "titleZh": "待复核翻译：Study is to Assess the Safety and Tolerability of VTx-002 in Participants With ALS",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00415519"
+      "url": "https://clinicaltrials.gov/study/NCT07287397"
     },
     {
-      "id": "trial-NCT06493279",
-      "titleZh": "Evaluate the Safety and Efficacy of Intrathecal Injection of RJK002 in Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT04856982",
+      "titleZh": "待复核翻译：A Study of BIIB067 (Tofersen) Initiated in Clinically Presymptomatic Adults With a Confirmed Superoxide Dismutase 1 Mutation",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06493279"
+      "url": "https://clinicaltrials.gov/study/NCT04856982"
     },
     {
-      "id": "trial-NCT06889857",
-      "titleZh": "待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS",
+      "id": "trial-NCT04031469",
+      "titleZh": "待复核翻译：A Non-Interventional Pilot Study to Explore the Role of Gut Flora in Disease",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06889857"
+      "url": "https://clinicaltrials.gov/study/NCT04031469"
     },
     {
-      "id": "trial-NCT04579666",
-      "titleZh": "MERIDIAN: A Study to Evaluate the Efficacy and Safety of Pegcetacoplan in Adults With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT04798183",
+      "titleZh": "Geometrical Facial Deformation According to Posture in 肌萎缩侧索硬化症",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04579666"
+      "url": "https://clinicaltrials.gov/study/NCT04798183"
     },
     {
-      "id": "trial-NCT06875739",
-      "titleZh": "待复核翻译：An Innovative Method in SAliva Samples for the Early Differential Diagnosis of High-impact NeuroDegenerative Diseases Through Raman Spectroscopy",
+      "id": "trial-NCT05498883",
+      "titleZh": "待复核翻译：Quality of Life Evaluation with the SRI Questionnaire of ALS Patient with Non-invasive Ventilation",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06875739"
+      "url": "https://clinicaltrials.gov/study/NCT05498883"
     },
     {
-      "id": "trial-NCT02118805",
-      "titleZh": "待复核翻译：Innovative Measures of Speech and Swallowing Dysfunction in Neurological Disorders",
+      "id": "trial-NCT04499963",
+      "titleZh": "Trial of Theracurmin for Patients With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02118805"
+      "url": "https://clinicaltrials.gov/study/NCT04499963"
     },
     {
-      "id": "trial-NCT05716074",
-      "titleZh": "待复核翻译：The Effect of Low-İntensity Combined Exercises in Patients With Early Stage ALS.",
+      "id": "trial-NCT03217396",
+      "titleZh": "生物标志物s of Synaptic Damage in Multiple Sclerosis",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05716074"
+      "url": "https://clinicaltrials.gov/study/NCT03217396"
     },
     {
-      "id": "trial-NCT02781454",
-      "titleZh": "Mexiletine in Sporadic 肌萎缩侧索硬化症",
+      "id": "trial-NCT03214146",
+      "titleZh": "Safety/Efficacy Study of 2nd Cycle Treatment After 6 Months of 1st Cycle HLA-haplo Matched Allogenic Bone Marrow Derived 干细胞 Treatment in ALS",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02781454"
+      "url": "https://clinicaltrials.gov/study/NCT03214146"
     },
     {
-      "id": "trial-NCT00965497",
-      "titleZh": "待复核翻译：Escitalopram (Lexapro) for Depression MS or ALS",
+      "id": "trial-NCT01486849",
+      "titleZh": "Dose Titration Study to Test Safety and Effects of CK-2017357 in Patients With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00965497"
+      "url": "https://clinicaltrials.gov/study/NCT01486849"
     },
     {
-      "id": "trial-NCT01639391",
-      "titleZh": "Creation of a Bank of Fibroblast From Patients With 肌萎缩侧索硬化症: Pilot Study",
+      "id": "trial-NCT03367650",
+      "titleZh": "Epidemiology and Genetics of the 肌萎缩侧索硬化症 in the French West Indies",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01639391"
+      "url": "https://clinicaltrials.gov/study/NCT03367650"
     },
     {
-      "id": "trial-NCT01583088",
-      "titleZh": "Early Stage 肌萎缩侧索硬化症 Phrenic Stimulation",
+      "id": "trial-NCT01879241",
+      "titleZh": "Study of Rasagiline in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01583088"
+      "url": "https://clinicaltrials.gov/study/NCT01879241"
     },
     {
-      "id": "trial-NCT00076154",
-      "titleZh": "National Registry of Veterans With 肌萎缩侧索硬化症 and DNA Bank",
+      "id": "trial-NCT02313402",
+      "titleZh": "待复核翻译：A New Eye-based Communication Device for ALS Patients",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00076154"
+      "url": "https://clinicaltrials.gov/study/NCT02313402"
     },
     {
-      "id": "trial-NCT00324454",
-      "titleZh": "Levetiracetam for Cramps, Spasticity and Neuroprotection in 运动神经元病",
+      "id": "trial-NCT01945853",
+      "titleZh": "Magnetic Resonance Imaging (MRI) in 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00324454"
-    },
-    {
-      "id": "trial-NCT00694941",
-      "titleZh": "A Phase II Multi-centre, Extension Study to Investigate the Long Term Safety of ONO-2506PO in Patients Diagnosed With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00694941"
+      "url": "https://clinicaltrials.gov/study/NCT01945853"
     }
   ],
   "removed": [
@@ -198,6 +205,20 @@
       "category": "临床试验",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42443387/"
+    },
+    {
+      "id": "epmc-MED-42436431",
+      "titleZh": "\"Straddling two worlds\": complexities of spousal caregiving in 肌萎缩侧索硬化症 during younger middle age.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12904-026-02230-w"
+    },
+    {
+      "id": "epmc-MED-42436372",
+      "titleZh": "Plasma exosomal HERV-K transcripts are increased in 肌萎缩侧索硬化症.",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12868-026-01014-5"
     },
     {
       "id": "epmc-MED-42435587",
@@ -352,19 +373,12 @@
       "category": "临床试验",
       "priority": "high",
       "url": "https://clinicaltrials.gov/study/NCT01142856"
-    },
-    {
-      "id": "trial-NCT00107770",
-      "titleZh": "Safety Study of Oral Sodium Phenylbutyrate in Subjects With ALS (肌萎缩侧索硬化症)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00107770"
     }
   ],
   "changed": [
     {
       "id": "pmid-42405014",
-      "titleZh": "肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？",
+      "titleZh": "胆固醇在肌萎缩侧索硬化症中的作用：旁观者、生物标志物还是治疗靶点？",
       "changes": [
         {
           "field": "priority",
