@@ -1,14 +1,38 @@
 {
-  "updatedAt": "2026-07-15T23:10:39.811Z",
+  "updatedAt": "2026-07-16T23:09:25.415Z",
   "period": {
     "days": 10,
-    "from": "2026-07-06",
-    "to": "2026-07-15"
+    "from": "2026-07-07",
+    "to": "2026-07-16"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 59,
+  "count": 64,
   "articles": [
+    {
+      "id": "pmid-42461445",
+      "pmid": "42461445",
+      "doi": "10.1007/s11306-026-02499-1",
+      "title": "Metabolomic analyses of amyotrophic lateral sclerosis, muscle cramps, and TJ-68 treatment.",
+      "abstract": "Most patients with amyotrophic lateral sclerosis (ALS), a fatal motor neuron disease, experience painful muscle cramps. Our recent pilot trial of the Japanese Kampo medicine TJ-68 suggested its efficacy in improving muscle cramps in patients with ALS. This study analyzed plasma metabolomic changes to identify the underlying mechanisms of muscle cramps in ALS and the effects of TJ-68. Plasma was obtained from 11 participants with ALS in the repeated crossover trial at five time points (baseline, two placebo phases, and two TJ-68 phases). Metabolites were analyzed using mass spectrometry. Linear mixed-effects models were applied to identify metabolite changes associated with muscle cramps, determine the effects of TJ-68 on metabolites, and predict which participants would respond to TJ-68. Higher glutamine/glutamate, arginine, and leucine levels were associated with more severe muscle cramps. TJ-68 treatment increased tryptophan and aconitate levels but reduced serotonin and acetylcarnitine levels. Long-chain acylcarnitine levels were correlated with muscle cramp severity, and their levels tended to decrease with treatment. Uric acid, β-aminoisobutyric acid, α-aminoadipic acid, and acetylcholine emerged as predictors of the efficacy of TJ-68. This study identified the metabolite profile of muscle cramps in ALS and the changes in metabolite levels after TJ-68 treatment. Several baseline metabolites were associated with the prediction of the response to muscle cramps following TJ-68 treatment. Uric acid might be particularly useful because of its easy measurement in standard assays. Our study affirms the value of metabolomic technology for future pharmacotherapy and studies in ALS.",
+      "journal": "Metabolomics : Official journal of the Metabolomic Society",
+      "authors": [
+        "Mitsumoto H",
+        "Cheung K",
+        "Matsumoto T",
+        "Lanza I",
+        "Oskarsson B",
+        "Johnson S",
+        "Petterson XT",
+        "Jang GE",
+        "Andrews HF"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42461445/"
+    },
     {
       "id": "pmid-42455190",
       "pmid": "42455190",
@@ -56,6 +80,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42455475/"
     },
     {
+      "id": "pmid-42458453",
+      "pmid": "42458453",
+      "doi": "10.1186/s12967-026-08562-8",
+      "title": "Extracellular vesicles as a liquid biopsy for amyotrophic lateral sclerosis: a systematic review and meta-analysis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative syndrome diagnosed clinically using standardized criteria, with neuropathological confirmation of motor neuron loss and TDP-43 aggregates in postmortem brain tissue. Extracellular vesicles (EVs) have emerged as potential minimally invasive biomarkers for ALS, but studies vary widely in methodology and reproducibility. We conducted a systematic review and meta-analysis to evaluate the diagnostic potential of EV-associated proteins and RNAs in ALS. Following PRISMA guidelines, we searched PubMed and EMBASE from inception to May 21st, 2026. Forty-one studies met inclusion criteria. Where published summary statistics were available, these were used directly; where they were not, data were reconstructed from figures or obtained from authors and re-analyzed to derive standardized effect sizes and exploratory diagnostic accuracy estimates. Random-effects models were used for continuous outcomes, and diagnostic accuracy was assessed using hierarchical summary ROC and bivariate random-effects models. Publication bias was evaluated using Begg, Egger, and funnel plots. EV-associated TDP-43 was the most frequently studied protein. Meta-analysis of five studies showed a moderate but non-significant increase in EVs from ALS vs. controls (SMD = 1.30) with high heterogeneity (I = 97.8%). Sixteen studies assessing EV-RNA biomarkers showed minimal overlap and limited independent replication. Diagnostic accuracy meta-analysis across 11 studies yielded moderate performance (AUC = 0.839). No publication bias was found across both meta-analyses. EV biomarkers for ALS show biological promise but are limited by methodological variability and insufficient replication. This work highlights the need for standardized protocols, transparent data sharing, and independent validation.",
+      "journal": "Journal of translational medicine",
+      "authors": [
+        "Bolsinger MM",
+        "Vivek N",
+        "Singh J",
+        "Challa A",
+        "Zhu A",
+        "Rothell T",
+        "Wang S",
+        "Zhang T",
+        "Zhu S",
+        "Robbins N",
+        "Fenwick L",
+        "Ruttenberg G",
+        "Bogoniewski A",
+        "Taha HB"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42458453/"
+    },
+    {
       "id": "pmid-42363684",
       "pmid": "42363684",
       "doi": "10.1096/fj.202600563R",
@@ -75,6 +129,27 @@
       ],
       "publishedAt": "2026-07-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42363684/"
+    },
+    {
+      "id": "pmid-42458576",
+      "pmid": "42458576",
+      "doi": "10.1186/s13040-026-00586-6",
+      "title": "From unlabeled to labeled: self-supervised deep learning in computational pathology.",
+      "abstract": "The advancement of decision support systems for pathology and their implementation in clinical practice have been limited by the necessity for extensive, manually annotated datasets. Self-supervised learning (SSL) automates the extraction and interpretation of histopathological features from unannotated images, facilitating efficient model development without dependence on expert labeling. In this study, we introduce the SSL-HistoNet model that learns disease-relevant morphological representations from histopathological images through self-supervised learning. We applied it to WGA-stained skeletal muscle tissues from mouse models of amyotrophic lateral sclerosis (ALS) and Type I diabetes to explore its ability to capture pathological muscle phenotypes in an annotation-free setting. Following pretraining on unlabeled data, the SSL encoder was further integrated with an attention-guided classifier to evaluate its capacity to identify pathological muscle alterations. SSL-HistoNet achieved a precision of 0.98, a recall of 0.98, and an AUC of 0.98, demonstrating performance comparable to or outperforming state-of-the-art supervised models. Alongside high discriminative performance, exploratory feature analyses demonstrated consistent class-level changes in morphology-related patterns identified through representation learning. These findings highlight the capability of SSL-HistoNet as an annotation-free framework for outlining disease-specific tissue structures, reducing manual labeling demands and mitigating inter- and intra-observer variability in histological processes. Not applicable.",
+      "journal": "BioData mining",
+      "authors": [
+        "Akan T",
+        "Aishwarya R",
+        "Bhuiyan MS",
+        "Conrad SA",
+        "Vanchiere JA",
+        "Bhuiyan MAN"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42458576/"
     },
     {
       "id": "pmid-42454435",
@@ -115,6 +190,82 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42389895/"
     },
     {
+      "id": "pmid-42458007",
+      "pmid": "42458007",
+      "doi": "10.1038/s41591-026-04491-7",
+      "title": "Oligonucleotide-siRNA conjugate for SOD1 amyotrophic lateral sclerosis: a phase 1 trial.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease partly caused by gain-of-function mutations in superoxide dismutase 1 (SOD1). Here we developed RAG-17, an siRNA-targeting SOD1, using an accessory oligonucleotide conjugate platform for enhanced central nervous system (CNS) delivery. Preclinically, RAG-17 rescued motor neuron degeneration, delayed disease progression, preserved motor function and extended survival in SOD1 G93A ALS rodents, even with advanced-stage treatment. In cynomolgus monkeys, intrathecal RAG-17 led to dose-dependent, durable reductions in SOD1 mRNA (CNS) and protein (cerebrospinal fluid (CSF)). In a first-in-human trial in patients with SOD1-ALS (n = 6), participants were assigned to two cohorts-cohort 1 (n = 3) received an initial 60 mg dose (seven doses total) and cohort 2 (n = 3) received an initial 90 mg dose (six doses total). The dose was escalated in 30 mg steps to maintenance doses of 150 mg (n = 5) or 180 mg (n = 1). Thus, the primary safety endpoint was met, showing acceptable safety and tolerability. Treatment-emergent adverse events (TEAEs) occurred in 33% of participants (two of six). All TEAEs were mild to moderate, including muscle tremor (two patients) and elevated alanine aminotransferase (one patient), all of which resolved. No serious adverse events were reported. Furthermore, no other clinically meaningful changes were observed in laboratory parameters, vital signs, the ALS Functional Rating Scale-Revised score, physical or neurological examinations or ECG. The key secondary endpoints showed CSF SOD1 reductions of 69% (cohort 1, day 240) and 56% (cohort 2, day 210), and plasma neurofilament light chain reductions of 62% (cohort 1) and 52% (cohort 2), from baseline; no patient required invasive mechanical ventilation or died by the end of the study. These results demonstrate a favorable safety outcome, supporting the continued clinical evaluation of RAG-17 for SOD1-ALS. ClinicalTrials.gov registration: NCT05903690 .",
+      "journal": "Nature medicine",
+      "authors": [
+        "Chen W",
+        "Jiang L",
+        "Duan C",
+        "Kang M",
+        "Ye J",
+        "Wang L",
+        "Pan Y",
+        "Qu H",
+        "Liao X",
+        "Zhou X",
+        "Li Y",
+        "Gan Z",
+        "Chen J",
+        "Schacht I",
+        "Place RF",
+        "Li LC",
+        "Wang Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42458007/"
+    },
+    {
+      "id": "pmid-42458512",
+      "pmid": "42458512",
+      "doi": "10.1186/s12964-026-03082-w",
+      "title": "Targeting astrocyte-mediated neurotoxicity induced by ALS/FTD-associated RNA binding proteins.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) are neurodegenerative disorders characterized by reactive astrocytes that contribute to neuronal injury through TAR DNA-binding protein 43 (TDP-43)-or fused in sarcoma (FUS)-driven neuroinflammatory signaling. Dehydrocostus lactone (DHE), a blood-brain barrier-permeable sesquiterpene lactone with established anti-inflammatory activity, represents a promising but unexplored therapeutic candidate for ALS/FTD. The therapeutic effects of DHE were evaluated in primary mouse and human astrocytes expressing ALS/FTD-associated RNA-binding protein pathology, ALS patient-derived fibroblasts, and primary cortical neurons exposed to astrocyte-conditioned medium. Drosophila models expressing mutant FUS or TDP-43 in glial cells were used to assess locomotor performance and survival. Molecular analyses examined nuclear factor kappa B (NF-κB) signaling, nuclear factor erythroid 2-related factor 2 (NRF2)-dependent antioxidant responses, protein aggregation, mitochondrial function, and inflammatory mediator production. Plasma concentrations of inflammatory cytokines and chemokines were measured in patients with sporadic ALS. DHE exerted neuroprotective effects through a dual mechanism involving suppression of NF-κB-dependent inflammatory signaling and activation of NRF2-mediated antioxidant pathways in astrocytes exhibiting FUS or TDP-43 proteinopathy. DHE attenuated astrocyte-mediated neurotoxicity and improved neuronal mitochondrial function in conditioned-medium assays. In addition, DHE reduced pathological FUS accumulation in FUS P525L-expressing astrocytes and in stress-challenged patient-derived fibroblasts. In Drosophila models, DHE significantly improved locomotor function and extended survival. Translationally, the chemokines CXCL10, CCL3, and CCL19 were elevated in plasma from patients with ALS, were induced by FUS or TDP-43 pathology in astrocytes, and were suppressed by DHE treatment, supporting the clinical relevance of the inflammatory pathways targeted by DHE. DHE mitigates astrocyte-driven neurotoxicity associated with ALS/FTD-related RNA-binding protein pathology by suppressing inflammatory signaling and enhancing antioxidant defense mechanisms. The consistent therapeutic effects observed across mouse and human cellular models, patient-derived samples, and in vivo Drosophila models support further investigation of DHE as a potential therapeutic strategy for ALS/FTD and highlight astrocyte-mediated signaling pathways as actionable targets in neurodegenerative disease.",
+      "journal": "Cell communication and signaling : CCS",
+      "authors": [
+        "Jo M",
+        "Kim S",
+        "Woo J",
+        "Park JS",
+        "Kim SH",
+        "Nahm M",
+        "Kim SR",
+        "Lee S",
+        "Kim HJ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42458512/"
+    },
+    {
+      "id": "pmid-42458498",
+      "pmid": "42458498",
+      "doi": "10.1186/s12964-026-03083-9",
+      "title": "TREM2 in neurodegenerative diseases and acute neurological injuries: mechanisms to targeted therapies.",
+      "abstract": "Triggering receptor expressed on myeloid cells 2 (TREM2) is a critical myeloid receptor expressed on the surface of central nervous system microglia, capable of integrating signals from lipids, damage-associated molecular patterns, and abnormal protein aggregates to regulate phagocytosis, metabolic adaptation, inflammatory remodeling, and pathology-associated responses. Accumulating evidence indicates that TREM2 is neither uniformly protective nor uniformly pathogenic; rather, its biological effects are highly context-dependent, governed collectively by disease stage, pathological substrates, cellular compartments, and the local microenvironment. By coupling with TYROBP/DAP12 or DAP10, TREM2 actively drives the state remodeling of pathology-associated microglia. It profoundly influences the onset and progression of neurodegenerative diseases, such as Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS), as well as acute central nervous system injuries, including ischemic stroke, spinal cord injury (SCI), and traumatic brain injury (TBI). Concurrently, soluble TREM2 (sTREM2) holds significant potential not only as a biomarker but also as a context-dependent effector molecule actively participating in pathological regulation. This review synthesizes current advancements by focusing on four core themes: the structural and signaling logic of the TREM2 axis; its regulation of disease-associated microglia (DAM) remodeling; the cross-disease significance of sTREM2; and the mechanistic basis for the divergent outcomes observed with TREM2-targeted therapies across different experimental models and disease stages. The objective is to elucidate the context-dependent roles of TREM2 by analyzing consensus mechanisms, sources of discrepancy, and translational implications, thereby providing a theoretical framework and strategic direction for more precise TREM2-targeted interventions.",
+      "journal": "Cell communication and signaling : CCS",
+      "authors": [
+        "Wang H",
+        "Wen R",
+        "Parker E",
+        "Yang L"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42458498/"
+    },
+    {
       "id": "pmid-42391458",
       "pmid": "42391458",
       "doi": "10.1093/molecular-omics/aaiag019",
@@ -132,6 +283,32 @@
       ],
       "publishedAt": "2026-07-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391458/"
+    },
+    {
+      "id": "pmid-42462180",
+      "pmid": "42462180",
+      "doi": "10.1212/NXI.0000000000200618",
+      "title": "Multiplex Panel Detects Glial and Inflammatory Biomarker Signatures in Sporadic and C9orf72-ALS.",
+      "abstract": "CSF proteomics has emerged as a valuable strategy for identifying diagnostic and prognostic biomarkers in amyotrophic lateral sclerosis (ALS). However, the limited availability and volumes of CSF samples restrict the broader clinical application of CSF-based biomarker panels. To address this challenge, we investigated whether the novel nucleic acid-linked immuno-sandwich assay (NULISA) multiplex platform-capable of quantifying multiple neural, glial, and inflammatory markers from minimal biofluid volumes-could validate previously proposed biomarkers and identify additional candidates relevant to ALS. Using this platform, we measured a targeted panel of 131 biomarkers in cohorts of patients with C9orf72-associated ALS, sporadic ALS (sALS), and matched healthy controls. The 6 markers neurofilament heavy chain (NEFH) and neurofilament light chain (NEFL), chitinases-particularly chitotriosidase-1 (CHIT1) and chitinase-3-like protein-1 (CHI3L1), and chemokines CCL2 and CCL3 were significantly elevated in both ALS groups compared with controls. These biomarkers correlated with disease progression and demonstrated strong diagnostic performance when combined into aggregate scores, as reflected by a high area under the receiver operating characteristic curve for ALS. Notably, C9orf72-ALS patients exhibited higher levels of the oxidative stress-related markers PRDX6 and ENO2, compared with sALS patients, suggesting a genotype-specific molecular signature. Overall, our findings support the use of a multiplexed panel of diverse, inflammatory, glial, and neurodegeneration-associated biomarkers as a complementary diagnostic and prognostic tool alongside established measurements of neurofilaments. This approach may enhance biomarker robustness while minimizing CSF volume requirements, thereby improving clinical feasibility in ALS research and care.",
+      "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+      "authors": [
+        "Baskar K",
+        "Steffke C",
+        "Bernsen S",
+        "Elmas Z",
+        "Hesebeck-Brinckmann J",
+        "Schuster J",
+        "Meyer T",
+        "Weydt P",
+        "Weishaupt J",
+        "Brenner D",
+        "Catanese A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462180/"
     },
     {
       "id": "pmid-42447123",
@@ -277,6 +454,28 @@
       ],
       "publishedAt": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441693/"
+    },
+    {
+      "id": "pmid-42456346",
+      "pmid": "42456346",
+      "doi": "10.1016/j.parkreldis.2026.108437",
+      "title": "Divergent presentations of anti-GAD autoimmunity: a comparative analysis of two neurodegenerative cases.",
+      "abstract": "We describe two women presenting with cortico-basal syndrome (CBS) and upper motor neuron-motor neuron disease (UMN-MND), respectively, both with high-titre GAD-Abs in serum and CSF. Both patients showed progressive motor impairment with elevated NFL levels. IVIg therapy was administered without meaningful clinical benefit, suggesting neurodegeneration as the primary phenotypic driver.",
+      "journal": "Parkinsonism & related disorders",
+      "authors": [
+        "Zanovello M",
+        "Pavan S",
+        "Petrosino A",
+        "Tuppo Rotunno V",
+        "Zoccarato M",
+        "Sorarù G",
+        "Antonini A"
+      ],
+      "publicationTypes": [
+        "Letter"
+      ],
+      "publishedAt": "2026-07-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456346/"
     },
     {
       "id": "pmid-42442754",
@@ -537,6 +736,25 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42429266/"
     },
     {
+      "id": "pmid-42460525",
+      "pmid": "42460525",
+      "doi": "10.2174/011570159X468669260626223524",
+      "title": "High Levels of Plasma Neurturin Partially Mediate the Protective Effect of Reduced Ruminococcus2 Abundance on Multiple Sclerosis: A Mendelian Randomization Study.",
+      "abstract": "Genetic evidence implicates the contribution of the gut-brain axis to neurodegenerative diseases (NDDs). Alterations in gut microbiota and inflammation are key pathophysiological contributors. Elucidating the genetic basis and the role of cytokines can provide insights into mechanisms linking gut microbial composition to neurodegeneration. Using aggregated statistics from five large-scale Genome-Wide Association Studies (GWAS) on Alzheimer's disease, Parkinson's disease, dementia with Lewy bodies, multiple sclerosis, and amyotrophic lateral sclerosis, bidirectional two-sample Mendelian Randomization (MR) was used to examine the associations. A two-step multivariable Mendelian randomization approach incorporates data from 91 cytokines to explore potential mediators. The study reveals 18 positive and 17 negative effects between gut microbiota and NDDs, as well as 10 positive and 10 negative effects between cytokines and NDDs. Remarkably, mediation analysis identified a causal pathway, with evidence that plasma neurturin levels partially mediate the association from genus Ruminococcus2 to multiple sclerosis, with a mediation proportion of 19.19% (OR = 1.038, 95% CI = 1.001-1.086, P = 0.044). No pleiotropy or heterogeneity was detected. These MR findings provide compelling evidence for a genetically anchored gutimmune-brain network in NDDs, with cytokines as intermediates. Bidirectional effects highlight disease-specific microbial signatures and inflammatory contexts. The Ruminococcus2-neurturin pathway in multiple sclerosis may offer mechanistic specificity, aligning with neurotrophic and anti-inflammatory signaling pathways. This study emphasizes the importance of gut microbiota alterations in NDDs and explores inflammation's partial intermediary role. The findings suggest potential targets for personalized neurodegeneration prevention strategies.",
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Liu Y",
+        "Yang J",
+        "Su J",
+        "Hao L"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42460525/"
+    },
+    {
       "id": "pmid-42429860",
       "pmid": "42429860",
       "doi": "10.1007/s10571-026-01773-z",
@@ -556,6 +774,27 @@
       ],
       "publishedAt": "2026-07-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42429860/"
+    },
+    {
+      "id": "pmid-42460524",
+      "pmid": "42460524",
+      "doi": "10.2174/011570159X472988260627201746",
+      "title": "Mechanisms and Therapeutic Targeting of the cGAS-STING Pathway in Central Nervous System Disorders.",
+      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) signaling pathway is a core DNA-sensing axis in innate immunity and has been increasingly implicated in the pathogenesis of multiple Central Nervous System (CNS) disorders. This review summarizes current knowledge of cGAS-STING signaling in CNS disorders and evaluates its therapeutic potential. Relevant studies on cGAS-STING signaling in CNS disorders were collected from PubMed and Web of Science, with emphasis on disease mechanisms, neuroinflammatory regulation, and pathway-targeted therapeutic strategies. In the CNS, cGAS-STING signaling exhibits marked region-, cell-, and pathology-dependent heterogeneity. Aberrant DNA sensing activates this pathway and amplifies neuroinflammation, cellular stress, and tissue injury in Alzheimer's Disease (AD), Parkinson's Disease (PD), Amyotrophic Lateral Sclerosis (ALS), ataxia-telangiectasia (A-T), and ischemic and hemorrhagic stroke. Pharmacological inhibition of cGAS, cyclic GMP-AMP (cGAMP), or STING, together with emerging delivery strategies, has shown promise in preclinical models. Clinical translation remains limited by incomplete validation of pathway specificity, limited human evidence, restricted brain delivery, and inconsistent efficacy assessment. The cGAS-STING pathway links aberrant DNA sensing to innate immune activation and CNS pathology. Clarifying its disease-, cell-, and stage-specific roles may support future targeted therapeutic strategies for CNS disorders.",
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Cai X",
+        "Bai Y",
+        "Ma F",
+        "Xu R",
+        "Xie Y",
+        "Cao X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42460524/"
     },
     {
       "id": "pmid-42430680",
@@ -680,6 +919,30 @@
       ],
       "publishedAt": "2026-07-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42430091/"
+    },
+    {
+      "id": "pmid-42460529",
+      "pmid": "42460529",
+      "doi": "10.2174/011570159X465668260629073047",
+      "title": "White Matter Functional Dysregulation in Amyotrophic Lateral Sclerosis: Machine Learning-Based Biomarkers and Transcriptomic Signatures.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor system degeneration, yet its white matter (WM) functional pathophysiology remains underexplored. This study utilized resting-state functional magnetic resonance imaging to decode WM functional abnormalities in 50 ALS patients and 55 healthy controls. Next, machine learning analysis was applied to evaluate the utility of these WM functional patterns in diagnosing ALS and predicting disease progression, and their pathophysiological mechanisms were preliminary explored through neurotransmitter mapping and imaging transcriptomics. ALS patients exhibited reduced activity in central WM regions (including bilateral corticospinal tracts), accompanied by elevated activity in anterior and posterior WM territories. The aberrant topological properties and disrupted functional connectivity are predominantly localized within bilateral precentral/postcentral WM networks. A support vector machine model incorporating these features achieved 75.24% classification accuracy and predicted the rate of disease progression (r = 0.56, p = 0.001). The spatial pattern of WM dysfunction in ALS was associated with both the spatial distribution of disease-related neurotransmitters and the expression profiles of specific genes. Our findings reveal distinct WM functional dysfunction patterns in ALS and their molecular-genetic underpinnings, providing novel insights into the pathophysiological mechanisms of ALS. ALS involves specific patterns of WM dysfunction, and these WM-centric biomarkers may facilitate the development of therapeutic monitoring frameworks for this devastating disease.",
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Chen H",
+        "Yang Z",
+        "Meng H",
+        "Hu Z",
+        "Ke Z",
+        "Ye Q",
+        "Xu Y",
+        "Wu J",
+        "Liu Z"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42460529/"
     },
     {
       "id": "pmid-42423631",
@@ -1201,185 +1464,6 @@
       ],
       "publishedAt": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41240362/"
-    },
-    {
-      "id": "pmid-42410102",
-      "pmid": "42410102",
-      "doi": "10.1038/s41431-026-02171-1",
-      "title": "A changed landscape: five-year retrospective on the paradigm shift in genetic testing practices for ALS in Canada.",
-      "abstract": "Offering genetic testing is increasingly recommended for all individuals with amyotrophic lateral sclerosis (ALS), particularly following the development of gene-targeted therapies, such as tofersen for SOD1-ALS. Historically, testing was routinely offered to those with familial ALS (fALS), but inconsistently to those with sporadic ALS (sALS). We evaluated changes in genetic testing and counseling practices among Canadian ALS physicians over a five-year period spanning pivotal clinical trial results and regulatory approval of tofersen. Members of the Canadian ALS Research Network were surveyed in 2020, 2022, and 2025 about genetic testing practices for symptomatic and asymptomatic individuals, gene panel composition, access to genetic counseling, and perceived drivers of change. Clinics offering genetic testing for sALS increased from 33% of clinics in 2020 and 57% in 2022 to 100% of respondents in 2025. Genetic testing for patients with a family history (fALS) was near-universal across all timepoints. Broader use of multi-gene panel testing increased over time, coinciding with sponsored testing availability. 61% of respondents reported that Health Canada approval of tofersen directly influenced their practice. Predictive testing offerings increased from 37% in 2020 to 61% in 2025. Genetic testing practices in Canada shifted substantially during late-stage clinical development and following regulatory approval of a gene-targeted therapy (tofersen). Proactive planning during the clinical trial phase facilitated rapid, nationwide adoption. This study captures a key turning point in ALS care, illustrating how therapeutic breakthroughs can redefine national clinical standards.",
-      "journal": "European journal of human genetics : EJHG",
-      "authors": [
-        "Binet M",
-        "Jewett G",
-        "Breiner A",
-        "Chum M",
-        "Genge A",
-        "Schellenberg K",
-        "Shoesmith C",
-        "Pfeffer G",
-        "Salmon K"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42410102/"
-    },
-    {
-      "id": "pmid-42406382",
-      "pmid": "42406382",
-      "doi": "10.1001/jamaneurol.2026.2195",
-      "title": "Antisense Oligonucleotide Tofersen Distribution in the Central Nervous System of SOD1-ALS Autopsy Tissue Donors.",
-      "abstract": "Tofersen is a disease-modifying antisense oligonucleotide therapeutic for people living with SOD1-amyotrophic lateral sclerosis (SOD1-ALS). Autopsy tissue donors have provided the first opportunity to study the distribution of intrathecally administered tofersen in human central nervous system tissues. To determine the tissue distribution of tofersen and to provide the first estimates of SOD1 reduction in human somatic motor systems tissues. This was a cross-sectional autopsy tissue case series conducted between 2018 and 2026. Autopsies were performed at 3 US academic medical institutions. Tissue samples from 8 deceased patients who lived with SOD1-ALS, participated in tofersen clinical trials (ClinicalTrials.gov Identifiers NCT02623699 [An Efficacy, Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of BIIB067 (Tofersen) in Adults With Inherited Amyotrophic Lateral Sclerosis (ALS)] and NCT03070119 [Long-Term Evaluation of BIIB067 (Tofersen)]) or the Expanded Access Program, and whose families authorized autopsies were eligible for this study. All autopsy tissue donors known at the time of this study were included (none were excluded). Analyses were conducted between August 2020 and January 2026. Participants received multiple intrathecal 20- to 100-mg tofersen doses. Tofersen tissue concentrations were measured using hybridization enzyme-linked immunosorbent assay (ELISA). SOD1 messenger RNA (mRNA) and protein reduction estimates, defined as percentage SOD1 levels in this study's recently treated autopsy tissue donors compared to a cohort of samples from tofersen-naive SOD1-ALS autopsy tissue donors, were measured using quantitative reverse transcription polymerase chain reaction (PCR) and ELISA. Histological localization of tofersen and SOD1 transcripts were studied using immunohistochemistry and in situ hybridization assays. In 8 tofersen-treated autopsy tissue donors (5 male and 3 female donors; age range, 42-66 years), spinal cord and motor cortical tissue tofersen concentrations strongly correlated with predictions based on individual dosing histories and a preclinical pharmacokinetic model. For 3 recently treated autopsy tissue donors, reductions in lumbar spinal cord tissue SOD1 mRNA and protein levels ranged from 45% to 84% despite not having been administered 1 to 2 scheduled doses before autopsy. Residual somatic motor neurons demonstrated tofersen transduction and low SOD1 mRNA probe hybridization. Misfolded SOD1 protein inclusions were detected in residual motor neurons of tofersen-naive SOD1-ALS tissue donor controls and tofersen-treated tissue donors. Meningeal and perivascular lymphocytic immune responses were observed in 5 recently treated tissue donors but were not apparent in tissue donors with remote final tofersen doses. This case series presents the first emerging autopsy tissue data confirming the predicted distribution of tofersen and robust SOD1 protein reduction in human somatic motor systems tissues.",
-      "journal": "JAMA neurology",
-      "authors": [
-        "Guise AJ",
-        "Sellon MT",
-        "Roemer SF",
-        "Monine M",
-        "Comfort Harris NT",
-        "Bartlett D",
-        "David E",
-        "Xu S",
-        "Jandreski L",
-        "Malek S",
-        "Garafalo S",
-        "Nestorov I",
-        "Ireland MD",
-        "King A",
-        "Bowser RP",
-        "Korobeynikov V",
-        "Ravits J",
-        "Shaw PJ",
-        "Highley JR",
-        "Ferguson TA",
-        "Fradette S",
-        "Graham DL",
-        "Sorenson EJ",
-        "Oskarsson B",
-        "Reichard RR",
-        "Dickson DW",
-        "Paganoni S",
-        "Babu S",
-        "Oakley DH",
-        "Frosch MP",
-        "Miller TM",
-        "Bucelli RC",
-        "Perrin RJ",
-        "Ly CV",
-        "Plowey ED"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42406382/"
-    },
-    {
-      "id": "pmid-42405987",
-      "pmid": "42405987",
-      "doi": "10.1080/21678421.2026.2696382",
-      "title": "Feasibility and sensitivity of a multimodal digital endpoint panel for amyotrophic lateral sclerosis: a prospective cohort study.",
-      "abstract": "Background : The use of digital technology may improve monitoring of amyotrophic lateral sclerosis (ALS) but a multimodal approach is likely required to capture the full disease phenotype. We evaluated the feasibility of a multimodal home monitoring protocol in ALS. Methods : We conducted a 3-month prospective cohort study at the University Medical Center Utrecht, Netherlands, with monthly home assessments of spirometry, accelerometry, speech, and questionnaires on functioning. The primary outcome was protocol adherence, defined as percentage of completed assessments. Secondary outcomes included acceptability ((totally) agree, neutral, (totally) disagree), and perceived burden, ranging from 0 (no burden) to 10 (extremely burdensome). Exploratory analyses were performed to evaluate changes in digital endpoints using linear mixed-effects models. Findings : Fifty patients with ALS were included (January 2023 - June 2025), of whom 47 (94%) completed the 3-month follow-up. Overall adherence was 83.2% (95% CI 76.9-88.6) and did not differ across modalities ( p = 0.75 ) . Adherers did not differ from non-adherers in either demographic or disease characteristics. In month 3, 93.0% to 95.3% of patients considered monthly remote assessments as acceptable, with a mean burden score of 2.0 (95% CI 1.7 to 2.3); burden was highest for speech (2.5) and the lowest for questionnaires (1.5). Digital endpoints showed significant change over 3 months (all p < 0.05). Interpretation : This study demonstrates good adherence and acceptability of a multimodal remote monitoring protocol. Digital endpoints offer an innovative approach to capturing disease progression. Future research should assess its long-term feasibility, added value, and integration alongside established clinical outcomes.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Botman LCM",
-        "van Unnik JWJ",
-        "Beelen A",
-        "Bakers JNE",
-        "van der Schoot ND",
-        "Gremmen MAP",
-        "van Helm S",
-        "van den Berg LH",
-        "van Eijk RPA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42405987/"
-    },
-    {
-      "id": "pmid-42145633",
-      "pmid": "42145633",
-      "doi": "10.64898/2026.05.04.26352054",
-      "title": "Functional Activity of TDP 43: A Direct Biomarker for ALS.",
-      "abstract": "TDP-43 dysfunction is a defining feature of amyotrophic lateral sclerosis (ALS), yet no biofluid biomarker directly measures its functional activity. We developed a serum-based homogeneous time-resolved FRET (hTR-FRET) assay that quantifies TDP-43 RNA binding activity using synthetic UU-rich RNA probes. We analyzed 1,080 serum samples from controls, sporadic ALS, and genetic subgroups (C9orf72, SOD1) across multiple biorepositories. Cross-sectionally, TDP-43 functional activity was elevated in ALS (mean 390 a.u.) versus controls (304 a.u.), yielding AUC = 0.79. Genotype means were 392 a.u. (sporadic), 382 a.u. (C9orf72), and 323 a.u. (SOD1); a 366 a.u. threshold achieved 95% specificity against controls. Longitudinally, Target ALS showed a modest but significant inverse correlation between TDP-43 activity and ALSFRS-R, while other cohorts exhibited similar non-significant trends. Elevated signal in serum likely reflects increased extracellular, probe-competent TDP-43 species. This assay provides a proof-of-concept platform for the direct functional measurement of probe-competent TDP-43 species in serum. While it demonstrates moderate group-level discrimination, individual diagnostic performance requires prospective validation. The assay may support exploratory applications in genotype stratification and progression monitoring in future clinical studies.",
-      "journal": "medRxiv : the preprint server for health sciences",
-      "authors": [
-        "Sonkar KS",
-        "D'Ancona VL",
-        "Cramp J",
-        "Shilling H",
-        "Giles E",
-        "Howell-Bray T",
-        "Fillingham B",
-        "Cudkowicz ME",
-        "Nath A",
-        "Rothstein JD",
-        "Bowser R",
-        "Borroni B",
-        "Padovani A",
-        "Berry JD",
-        "Vakili GS",
-        "Buratti E",
-        "Thrippleton IP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "publishedAt": "2026-07-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42145633/"
-    },
-    {
-      "id": "pmid-42407013",
-      "pmid": "42407013",
-      "doi": "10.1212/WNL.0000000000218273",
-      "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
-      "abstract": "The origin of fasciculation potentials (FPs) in the early stages of amyotrophic lateral sclerosis (ALS) remains a subject of debate. We investigated the role of the motor cortex in FP generation by comparing resting FP frequency in the first dorsal interosseous (FDI) muscle before and after motor cortex inhibition induced by continuous theta-burst stimulation (cTBS). We studied patients with early-stage ALS (G1) and a disease-control group (G2) comprising individuals with chronic lower motor neuron (LMN) disorders or benign fasciculation syndrome without upper motor neuron (UMN) involvement. Inclusion required a right FDI strength of MRC grade 4+ or 5. At baseline, we recorded FP frequency and amplitude in the right FDI (3 replicates) and the motor evoked potential (MEP) amplitude. These measures were repeated immediately after cTBS-induced corticomotor inhibition. Statistical significance was set at p < 0.05. Twenty-two patients with ALS (14 men; median age 65.5 years; 72.7% spinal onset) were included, with a median disease duration of 6.4 months and a mean ALSFRS-R score of 44. The control group (G2) consisted of 11 participants. Notably, 50% of the ALS cohort showed no neurogenic features on needle EMG of the right FDI at enrollment. Baseline peripheral and cortical amplitudes and left hemisphere motor thresholds were comparable between groups. After cTBS, MEP amplitudes decreased significantly in both G1 (0.93 vs 0.50 mV, p = 0.02) and G2 (1.23 vs 0.38 mV, p = 0.02). However, a significant reduction in FP frequency (39.5%) occurred only in the ALS group (0.43 vs 0.26 Hz, p < 0.001), whereas no change was observed in G2 (0.60 vs 0.77 Hz, p = 0.14). Patients with ALS with a normal FDI EMG demonstrated an even greater reduction in FP frequency (54.5%). FP amplitudes remained stable across both groups after cTBS. Our findings indicate that in early ALS, LMN excitability is significantly modulated by descending corticospinal input. The reduction in FP frequency after cortical inhibition suggests that FPs in early ALS are driven by a combination of both UMN and LMN hyperexcitability, distinguishing them from fasciculations in other neurogenic disorders.",
-      "journal": "Neurology",
-      "authors": [
-        "Oliveira Santos M",
-        "Castro J",
-        "Castro I",
-        "Swash M",
-        "de Carvalho M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42407013/"
-    },
-    {
-      "id": "pmid-42422319",
-      "pmid": "42422319",
-      "doi": "10.1136/bmjno-2026-001728",
-      "title": "Smoking and the risk of neurodegenerative diseases in a Chinese case-control study.",
-      "abstract": "While smoking is inversely associated with Parkinson's disease (PD) risk, its relationship with amyotrophic lateral sclerosis (ALS) and multiple system atrophy (MSA) remains unclear, particularly in Asian populations. We investigated these associations in a Chinese case-control study. We recruited newly diagnosed ALS (n=430), MSA (n=271), PD (n=523) cases and hospital-based controls (n=1033) in Sichuan, China. Logistic regression models were used to evaluate associations between smoking and disease risks, adjusting for demographic, lifestyle and occupational factors. Compared with never-smokers, the adjusted ORs and 95% CIs of ALS for current and former smokers were 1.00 (0.61 to 1.65) and 1.79 (1.01 to 3.17), respectively. For MSA, ORs were 1.27 (0.73 to 2.23) for current smokers and 2.54 (1.41 to 4.60) for former smokers. Individuals who quit within 4 years before diagnosis showed the highest risk of ALS (OR=1.93, 95% CI 0.96 to 3.88) and MSA (OR=2.09, 95% CI 1.11 to 3.93). For both ALS and MSA, no consistent trend was found with increasing smoking duration or pack-years. In contrast, ever-smokers had a significantly lower PD risk (OR=0.49, 95% CI 0.33 to 0.71), particularly current smokers (OR=0.30, 95% CI 0.19 to 0.48). Longer smoking duration and higher cumulative smoking were also linked to PD risk with clear negative exposure-response patterns (P trend =0.039 and 0.029, respectively). Consistent with findings in non-Asian populations, smoking was inversely associated with PD risks in the Chinese population. For ALS and MSA, we found evidence suggestive of positive relationships with cigarette smoking, but no clear exposure-response relationships were observed.",
-      "journal": "BMJ neurology open",
-      "authors": [
-        "Nie J",
-        "Peters S",
-        "Ge CB",
-        "Portengen L",
-        "Rothman N",
-        "Hu W",
-        "Ou R",
-        "Wei Q",
-        "Zhang L",
-        "Hou Y",
-        "Lan Q",
-        "Shang HF",
-        "Vermeulen R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42422319/"
     }
   ]
 }
