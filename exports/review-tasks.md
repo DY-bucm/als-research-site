@@ -1,12 +1,12 @@
 # 复核任务清单
 
-- [ ] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
+- [ ] [高优先级] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
   - https://pubmed.ncbi.nlm.nih.gov/42374626/
 - [ ] [疑似误收] [高优先级] 脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷 (pmid-42362038)
   - https://pubmed.ncbi.nlm.nih.gov/42362038/
 - [ ] [高优先级] 人类疾病中的程序性轴突退化基因变异 (pmid-42341897)
   - https://pubmed.ncbi.nlm.nih.gov/42341897/
-- [ ] [高优先级] 多重检测面板检测散发性和C9orf72-ALS中的胶质和炎症生物标志物特征 (pmid-42462180)
+- [ ] [高优先级] 多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征 (pmid-42462180)
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
 - [ ] T1加权与T2加权体积分析流程在肌萎缩侧索硬化症体内病理研究中的可互换性探讨 (pmid-42413223)
   - https://pubmed.ncbi.nlm.nih.gov/42413223/
@@ -18,27 +18,41 @@
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
 - [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究 (pmid-42441926)
   - https://pubmed.ncbi.nlm.nih.gov/42441926/
-- [ ] 神经病学®期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
+- [ ] 神经病学杂志俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
+- [ ] ALS患者肌肉骨骼疼痛的介入治疗：一项病例系列研究 (pmid-42468019)
+  - https://pubmed.ncbi.nlm.nih.gov/42468019/
 - [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供纵向护理 (pmid-42367369)
   - https://pubmed.ncbi.nlm.nih.gov/42367369/
-- [ ] [高优先级] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
+- [ ] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
   - https://pubmed.ncbi.nlm.nih.gov/42364760/
 - [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
-- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化早期疾病阶段肌束震颤产生中的作用 (pmid-42407013)
+- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用 (pmid-42407013)
   - https://pubmed.ncbi.nlm.nih.gov/42407013/
-- [ ] 教学视频神经影像：超越认知——PSEN1 c.1292C>A（哈利斯科创始人效应）变异相关的肌萎缩侧索硬化样疾病 (pmid-42319999)
-  - https://pubmed.ncbi.nlm.nih.gov/42319999/
-- [ ] SYNE1相关运动神经元病样表型伴轻度远端挛缩及24个月临床稳定性：一例病例报告 (epmc-MED-42464213)
+- [ ] 性功能对运动神经元病患者的影响 (epmc-MED-42470084)
+  - https://doi.org/10.1002/mus.70348
+- [ ] 分泌性白细胞蛋白酶抑制剂（SLPI）通过抑制TLR4/NF-κB介导的神经炎症在肌萎缩侧索硬化中发挥保护作用：一种与神经病理相关的候选分子 (epmc-MED-42469634)
+  - https://doi.org/10.1186/s10020-026-01572-8
+- [ ] [疑似误收] 超越ALS：免疫介导的运动神经病中的分裂手综合征 (epmc-MED-42469515)
+  - https://doi.org/10.1007/s00415-026-14006-6
+- [ ] [疑似误收] [高优先级] 聚焦超声血脑屏障开放用于神经退行性疾病的靶向治疗 (epmc-MED-42468901)
+  - https://doi.org/10.1016/j.biopsych.2026.07.008
+- [ ] FUS驱动的斑马鱼ALS模型鉴定三苄胺为ALS相关病理的候选调节剂 (epmc-MED-42468211)
+  - https://doi.org/10.1016/j.biopha.2026.119761
+- [ ] [疑似误收] 待复核翻译：Interventional Procedures for Musculoskeletal Pain in ALS Patients: A Case Series. (epmc-MED-42468019)
+  - https://doi.org/10.1097/phm.0000000000002964
+- [ ] [疑似误收] 待复核翻译：Resveratrol and neuroprotection: modulation of cellular dynamics and signaling networks in neurodegenerative diseases. (epmc-MED-42467293)
+  - https://doi.org/10.1007/s10787-026-02333-z
+- [ ] SYNE1-Related 运动神经元病-like phenotype with mild distal contractures and 24-month clinical stability: a case report. (epmc-MED-42464213)
   - https://doi.org/10.1186/s12883-026-05142-7
-- [ ] 作者更正：肌萎缩侧索硬化症中FUS介导的神经肌肉接头乙酰胆碱受体转录调控受损 (epmc-MED-42463858)
+- [ ] Author Correction: FUS-mediated regulation of acetylcholine receptor transcription at neuromuscular junctions is compromised in 肌萎缩侧索硬化症. (epmc-MED-42463858)
   - https://doi.org/10.1038/s41593-026-02396-9
-- [ ] 肌萎缩侧索硬化症、肌肉痉挛及TJ-68治疗的代谢组学分析 (epmc-MED-42461445)
+- [ ] Metabolomic analyses of 肌萎缩侧索硬化症, muscle cramps, and TJ-68 treatment. (epmc-MED-42461445)
   - https://doi.org/10.1007/s11306-026-02499-1
-- [ ] [高优先级] ALS蛋白SOD1的折叠、二聚化和别构景观：一个全面的突变图谱 (epmc-PPR-PPR1280385)
+- [ ] 待复核翻译：The folding, dimerization and allosteric landscapes of the ALS protein SOD1: a comprehensive mutational atlas (epmc-PPR-PPR1280385)
   - https://doi.org/10.64898/2026.07.15.738613
-- [ ] 血浆肌肉蛋白与肌萎缩侧索硬化症中不同表型的关联 (epmc-PPR-PPR1280384)
+- [ ] Muscle proteins in plasma associate to distinguished phenotypes in 肌萎缩侧索硬化症 (epmc-PPR-PPR1280384)
   - https://doi.org/10.64898/2026.07.14.26357727
 - [ ] Development and Validation of the ALS Gastrointestinal Symptom Scale (ALS-GIS): A Brief Patient-Reported Outcome Measure for 肌萎缩侧索硬化症 (epmc-PPR-PPR1280191)
   - https://doi.org/10.21203/rs.3.rs-10195114/v1
@@ -46,20 +60,6 @@
   - https://doi.org/10.21203/rs.3.rs-10307267/v1
 - [ ] [疑似误收] 待复核翻译：From unlabeled to labeled: self-supervised deep learning in computational pathology. (epmc-MED-42458576)
   - https://doi.org/10.1186/s13040-026-00586-6
-- [ ] [疑似误收] 待复核翻译：Targeting astrocyte-mediated neurotoxicity induced by ALS/FTD-associated RNA binding proteins. (epmc-MED-42458512)
-  - https://doi.org/10.1186/s12964-026-03082-w
-- [ ] [疑似误收] 待复核翻译：TREM2 in neurodegenerative diseases and acute neurological injuries: mechanisms to targeted therapies. (epmc-MED-42458498)
-  - https://doi.org/10.1186/s12964-026-03083-9
-- [ ] Extracellular vesicles as a liquid biopsy for 肌萎缩侧索硬化症: a systematic review and meta-analysis. (epmc-MED-42458453)
-  - https://doi.org/10.1186/s12967-026-08562-8
-- [ ] [高优先级] Oligonucleotide-siRNA conjugate for SOD1 肌萎缩侧索硬化症: a I 期 trial. (epmc-MED-42458007)
-  - https://doi.org/10.1038/s41591-026-04491-7
-- [ ] [疑似误收] 待复核翻译：Exosome Biology at the Interface of Neurodegeneration and Therapeutic Innovation. (epmc-MED-42455475)
-  - https://doi.org/10.1007/s12035-026-06052-y
-- [ ] Effects of respiratory muscle training on respiratory function in patients with 肌萎缩侧索硬化症: a systematic review and meta-analysis. (epmc-MED-42455190)
-  - https://doi.org/10.1007/s00415-026-13982-z
-- [ ] Moral distress in healthcare professionals working with 运动神经元病. (epmc-MED-42454435)
-  - https://doi.org/10.1017/s1478951526103058
 - [ ] [高优先级] Social Cognition in Patients With 肌萎缩侧索硬化症 (trial-NCT04406675)
   - https://clinicaltrials.gov/study/NCT04406675
 - [ ] [高优先级] 待复核翻译：Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (trial-NCT05724173)
