@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T23:09:48.165Z",
+  "updatedAt": "2026-07-19T23:10:11.475Z",
   "summary": {
     "totalItems": 45,
     "issueCount": 46
@@ -116,7 +116,7 @@
     {
       "id": "epmc-MED-42469634",
       "title": "Secretory leukocyte protease inhibitor (SLPI) attenuates TLR4/NF-κB-mediated neuroinflammation in amyotrophic lateral sclerosis: a candidate molecule associated with neuro-pathology.",
-      "titleZh": "分泌性白细胞蛋白酶抑制剂（SLPI）通过抑制TLR4/NF-κB介导的神经炎症在肌萎缩侧索硬化中发挥保护作用：一种与神经病理相关的候选分子",
+      "titleZh": "分泌性白细胞蛋白酶抑制剂（SLPI）减轻肌萎缩侧索硬化中TLR4/NF-κB介导的神经炎症：一种与神经病理相关的候选分子",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
@@ -270,17 +270,6 @@
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42374626",
-      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
-      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42374626/"
-    },
-    {
       "id": "pmid-42362038",
       "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
       "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
@@ -305,7 +294,7 @@
     {
       "id": "pmid-42462180",
       "title": "Multiplex Panel Detects Glial and Inflammatory Biomarker Signatures in Sporadic and C9orf72-ALS.",
-      "titleZh": "多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征",
+      "titleZh": "多重检测面板检测散发性和C9orf72-ALS中的胶质和炎症生物标志物特征",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 11,
@@ -316,13 +305,24 @@
     {
       "id": "pmid-42405014",
       "title": "Cholesterol in amyotrophic lateral sclerosis: a bystander, a biomarker, or a target?",
-      "titleZh": "胆固醇在肌萎缩侧索硬化症中的作用：旁观者、生物标志物还是治疗靶点？",
+      "titleZh": "肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405014/"
+    },
+    {
+      "id": "pmid-42395866",
+      "title": "The role of SUMOylation in regulating proteins that drive neuronal disease progression.",
+      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
     },
     {
       "id": "pmid-42441926",
@@ -338,7 +338,7 @@
     {
       "id": "pmid-42367369",
       "title": "Preparing Amyotrophic Lateral Sclerosis Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
-      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供纵向护理",
+      "titleZh": "准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理",
       "category": "遗传",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 15,
@@ -349,7 +349,7 @@
     {
       "id": "pmid-42407013",
       "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
-      "titleZh": "上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用",
+      "titleZh": "上运动神经元在肌萎缩侧索硬化早期疾病阶段肌束震颤产生中的作用",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
