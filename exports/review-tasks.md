@@ -10,7 +10,7 @@
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
 - [ ] T1加权与T2加权体积分析流程在肌萎缩侧索硬化症体内病理研究中的可互换性探讨 (pmid-42413223)
   - https://pubmed.ncbi.nlm.nih.gov/42413223/
-- [ ] [高优先级] 肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？ (pmid-42405014)
+- [ ] 肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？ (pmid-42405014)
   - https://pubmed.ncbi.nlm.nih.gov/42405014/
 - [ ] [高优先级] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
   - https://pubmed.ncbi.nlm.nih.gov/42395866/
@@ -18,13 +18,13 @@
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
 - [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究 (pmid-42441926)
   - https://pubmed.ncbi.nlm.nih.gov/42441926/
-- [ ] 神经病学杂志俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
+- [ ] 神经病学®期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
 - [ ] 肌萎缩侧索硬化症患者肌肉骨骼疼痛的介入治疗：一项病例系列研究 (pmid-42468019)
   - https://pubmed.ncbi.nlm.nih.gov/42468019/
-- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理 (pmid-42367369)
+- [ ] [高优先级] 准备肌萎缩侧索硬化症诊所，为携带ALS风险变异个体提供长期照护 (pmid-42367369)
   - https://pubmed.ncbi.nlm.nih.gov/42367369/
-- [ ] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
+- [ ] 阻抗失配理论：神经退行性疾病中共享能量应激途径的非平衡热力学框架 (pmid-42364760)
   - https://pubmed.ncbi.nlm.nih.gov/42364760/
 - [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
@@ -60,33 +60,33 @@
   - https://doi.org/10.21203/rs.3.rs-10307267/v1
 - [ ] [疑似误收] 待复核翻译：From unlabeled to labeled: self-supervised deep learning in computational pathology. (epmc-MED-42458576)
   - https://doi.org/10.1186/s13040-026-00586-6
-- [ ] [高优先级] Social Cognition in Patients With 肌萎缩侧索硬化症 (trial-NCT04406675)
-  - https://clinicaltrials.gov/study/NCT04406675
-- [ ] [高优先级] 待复核翻译：Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (trial-NCT05724173)
-  - https://clinicaltrials.gov/study/NCT05724173
-- [ ] [高优先级] Acamprosate in C9orf72 Hexanucleotide Repeat Expansion 肌萎缩侧索硬化症 (ACALS) (trial-NCT07204977)
-  - https://clinicaltrials.gov/study/NCT07204977
-- [ ] [高优先级] PRE-Symptomatic Studies in 肌萎缩侧索硬化症 (trial-NCT01508962)
-  - https://clinicaltrials.gov/study/NCT01508962
-- [ ] [高优先级] 待复核翻译：Expression Profile Study of Macrophages From Patients Affected by ALS or Other Related Motor Impairments (trial-NCT04816227)
-  - https://clinicaltrials.gov/study/NCT04816227
-- [ ] [高优先级] 待复核翻译：Efficacy and Safety of Tazbentetol in ALS Participants (trial-NCT07325591)
-  - https://clinicaltrials.gov/study/NCT07325591
-- [ ] [高优先级] 待复核翻译：CNS10-NPC-GDNF Delivered to the Motor Cortex for ALS (trial-NCT05306457)
-  - https://clinicaltrials.gov/study/NCT05306457
-- [ ] [高优先级] 待复核翻译：hUC-MSC-sEV-001 Nasal Drops for Neurodegenerative Diseases (trial-NCT06607900)
-  - https://clinicaltrials.gov/study/NCT06607900
-- [ ] [高优先级] 待复核翻译：Emotion Processing Among Patients With ALS (trial-NCT06566651)
-  - https://clinicaltrials.gov/study/NCT06566651
-- [ ] [高优先级] Study of AROSOD-1 in Adult Participants With 肌萎缩侧索硬化症 (ALS) (trial-NCT05949294)
-  - https://clinicaltrials.gov/study/NCT05949294
-- [ ] [高优先级] A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of BIIB100 Administered Orally to Adults With 肌萎缩侧索硬化症 (trial-NCT03945279)
-  - https://clinicaltrials.gov/study/NCT03945279
-- [ ] [高优先级] Evaluation of 小胶质细胞l Activation in ALS With [18F]PBR06 (Peripheral Benzodiazepine Receptor-06) PET (trial-NCT03876002)
-  - https://clinicaltrials.gov/study/NCT03876002
-- [ ] [高优先级] 待复核翻译：Chromatic Pupillometry to Assess the Melanopsin-Light Pathway in Progressive Supranuclear Palsy (trial-NCT03330353)
-  - https://clinicaltrials.gov/study/NCT03330353
-- [ ] [高优先级] 待复核翻译：P300 Brain Computer Interface Keyboard to Operate Assistive Technology (trial-NCT00860951)
-  - https://clinicaltrials.gov/study/NCT00860951
-- [ ] [高优先级] A Study of NP001 in Subjects With 肌萎缩侧索硬化症 (ALS) (trial-NCT01281631)
-  - https://clinicaltrials.gov/study/NCT01281631
+- [ ] [高优先级] 待复核翻译：Analysis of Human ALS Tissues and Registry of ALS Patients (trial-NCT05067179)
+  - https://clinicaltrials.gov/study/NCT05067179
+- [ ] [高优先级] 待复核翻译：Study of Home Use of the Jaco Robotic Manipulation Device by Individuals With Tetraplegia (trial-NCT07680361)
+  - https://clinicaltrials.gov/study/NCT07680361
+- [ ] [高优先级] Comprehensive 生物标志物 Profiling of the IFN-α Pathway in 肌萎缩侧索硬化症 Patient Biofluids (trial-NCT07260981)
+  - https://clinicaltrials.gov/study/NCT07260981
+- [ ] [高优先级] 待复核翻译：Efficacy and Safety of Masitinib Versus Placebo in the Treatment of ALS Patients (trial-NCT03127267)
+  - https://clinicaltrials.gov/study/NCT03127267
+- [ ] [高优先级] 线粒体l Capacity Boost in ALS (MICABO-ALS) Trial (trial-NCT04244630)
+  - https://clinicaltrials.gov/study/NCT04244630
+- [ ] [高优先级] MERIDIAN: A Study to Evaluate the Efficacy and Safety of Pegcetacoplan in Adults With 肌萎缩侧索硬化症 (ALS) (trial-NCT04579666)
+  - https://clinicaltrials.gov/study/NCT04579666
+- [ ] [高优先级] 待复核翻译：NuroSleeve Powered Brace & Stimulation System to Restore Arm Function (trial-NCT04798378)
+  - https://clinicaltrials.gov/study/NCT04798378
+- [ ] [高优先级] 待复核翻译：Early Feasibility Study of the MyoRegulator® for Treatment of ALS (trial-NCT06165172)
+  - https://clinicaltrials.gov/study/NCT06165172
+- [ ] [高优先级] Olanzapine for the Treatment of Appetite Loss in 肌萎缩侧索硬化症 (ALS) (trial-NCT00876772)
+  - https://clinicaltrials.gov/study/NCT00876772
+- [ ] [高优先级] Oral Nutritional Supplementation in 肌萎缩侧索硬化症 (ALS) Patients (trial-NCT02152449)
+  - https://clinicaltrials.gov/study/NCT02152449
+- [ ] [高优先级] Perampanel for Sporadic 肌萎缩侧索硬化症 (ALS) (trial-NCT03019419)
+  - https://clinicaltrials.gov/study/NCT03019419
+- [ ] [高优先级] Immunosuppression in 肌萎缩侧索硬化症 (ALS) (trial-NCT01884571)
+  - https://clinicaltrials.gov/study/NCT01884571
+- [ ] [高优先级] 待复核翻译：Diaphragmatic Pacer Placement: Anesthetic Management (DP) (trial-NCT02942953)
+  - https://clinicaltrials.gov/study/NCT02942953
+- [ ] [高优先级] 待复核翻译：Feasibility of Telesurveillance and Home Cough Assistance for Amyotrophic Lateral Patients (ALS) (trial-NCT00613899)
+  - https://clinicaltrials.gov/study/NCT00613899
+- [ ] [高优先级] 待复核翻译：Noninvasive Ventilation in ALS Patients With Mild Respiratory Involvement (trial-NCT00386464)
+  - https://clinicaltrials.gov/study/NCT00386464
