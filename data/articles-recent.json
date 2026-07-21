@@ -1,14 +1,110 @@
 {
-  "updatedAt": "2026-07-20T23:13:03.237Z",
+  "updatedAt": "2026-07-21T23:09:44.228Z",
   "period": {
     "days": 10,
-    "from": "2026-07-11",
-    "to": "2026-07-20"
+    "from": "2026-07-12",
+    "to": "2026-07-21"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 42,
+  "count": 41,
   "articles": [
+    {
+      "id": "pmid-42479532",
+      "pmid": "42479532",
+      "doi": "10.1109/TBME.2026.3715599",
+      "title": "A Tendon-Driven Wrist Abduction-Adduction Joint Improves Performance of a 5 DoF Upper Limb Exoskeleton - Implementation and Experimental Evaluation.",
+      "abstract": "Wrist function is essential in performing activities of daily living (ADLs). However, there is limited experimental evidence on the functional impact of wrist Abduction-Adduction (Ab-Ad) joint assistance in upper limb exoskeletons (ULEs) during ADLs. This study provides the first implementation and demonstration of a clock spring-based wrist Ab-Ad joint into a five degree of freedom (DoF) ULE, EXOTIC2 exoskeleton and evaluates its effect, to support individuals with severe motor impairments. A compact, lightweight wrist module with tendon-driven abduction and spring-driven adduction was integrated into the EXOTIC exoskeleton. Eight adults with no motor disabilities completed drinking and scratching tasks under randomized wrist-enabled and wrist-locked conditions along with a preliminary feasibility test in one individual with Amyotrophic lateral sclerosis (ALS). Kinematic and task performance metrics including wrist range of motion, task completion time, spillage and leveling metrics were assessed. Implementing the wrist Ab-Ad DoF improved task success metrics. Spill incidence during the drinking task decreased from 56% to 3%, and leveling success for scratching task improved from 28% to 75%. Integrating wrist Ab-Ad assistance improved key functional task outcomes without increasing execution time. The study provides the experimental evidence that active wrist Ab-Ad control enhances task-level performance in exoskeleton-assisted ADLs and supports the inclusion of wrist deviation in future assistive exoskeletons.",
+      "journal": "IEEE transactions on bio-medical engineering",
+      "authors": [
+        "Khan JS",
+        "Mohammadi M",
+        "Ammitzboll AL",
+        "Hagen EM",
+        "Blicher J",
+        "Obai I",
+        "Cardoso ASS",
+        "Kirtas O",
+        "Kaeseler RL",
+        "Rasmussen J",
+        "Struijk LNSA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479532/"
+    },
+    {
+      "id": "pmid-42479906",
+      "pmid": "42479906",
+      "doi": "10.1002/ana.78316",
+      "title": "Neurotransmitter-Defined Degeneration Patterns in Sporadic and C9orf72-Associated Amyotrophic Lateral Sclerosis: Predilection to GABAergic, Serotonergic, Opioid, Glutamatergic, Endocannabinoid, and Microglial Systems-Implications for Therapy Development.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) has a markedly distinctive clinical and neuroradiological signature, with the preferential involvement of specific brain networks and the apparent sparing of others. The molecular underpinnings of the strikingly selective anatomical vulnerability have not been fully elucidated to date despite the potential therapeutic relevance of characterizing neurotransmitter receptor-defined susceptibility to degeneration. A large neuroimaging study was undertaken with 258 participants to systematically evaluate topological associations between neurodegeneration and neurotransmitter expression distributions. Patients were stratified based on their genetic profile into sporadic and C90rf72 hexanucleotide repeat expansion carriers. Anatomical associations were evaluated between patterns of atrophy and topological neurotransmitter receptor distributions. Cross-sectional and longitudinal trends were comprehensively evaluated over 4 consecutive timepoints. Our analyses reveal topological associations between neurodegeneration in sporadic ALS and GABA-A receptor α5-selective component (GABAa5), serotonin 1a receptor, and kappa opioid receptor expression maps. In addition to these networks, neuronal loss in patients with GGGGCC hexanucleotide repeat expansions exhibit predilection to glutamatergic, endocannabinoid, and microglial systems. Our multi-timepoint longitudinal analyses reveal dynamic temporal associations between focal volume loss and neurotransmitter expression with increasing spatial associations with noradrenaline transporter and GABAa5, but high attrition rates preclude definite longitudinal inferences. Our data suggest the preferential vulnerability of GABAergic, serotonergic, kappa opioid mediated networks in sporadic ALS. In C9orf72-assocaited ALS, glutamatergic, endocannabinoid circuits are also susceptible and microglia-mediated neuroinflammation is also implicated. The comprehensive evaluation of neurotransmitter-receptor associations not only offer academic insights regarding pathophysiological processes in ALS, but may inform targeted therapy development strategies. ANN NEUROL 2026.",
+      "journal": "Annals of neurology",
+      "authors": [
+        "Tahedl M",
+        "Siah WF",
+        "Lope J",
+        "Hengeveld JC",
+        "Doherty MA",
+        "McLaughlin RL",
+        "Hardiman O",
+        "Tan EL",
+        "Toomey A",
+        "Kleinerova J",
+        "Bede P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479906/"
+    },
+    {
+      "id": "pmid-42476327",
+      "pmid": "42476327",
+      "doi": "10.1016/j.gene.2026.150318",
+      "title": "Exploring shared genetic pathways and gene interplay in major neurodegenerative diseases: a comprehensive review.",
+      "abstract": "Neurodegenerative diseases are progressive disorders that involve the loss and dysfunction of neurons. Alzheimer's disease, Parkinson's disease, Amyotrophic lateral sclerosis, Huntington's disease, Frontotemporal dementia are examples of diseases. While different clinically, these disorders have a common genetic, molecular and cellular basis. This review examines the common genetic pathways, along with the interactions between genes of major neurodegenerative diseases, with a focus on the key genes, such as APOE, SNCA, MAPT, TARDBP, LRRK2 and HTT. The common pathogenic mechanisms considered to play a major role in disease progression include protein misfolding and aggregation, mitochondrial dysfunction, oxidative stress, neuroinflammation, diminished autophagy, and impaired lysosomal function, as well as synaptic degeneration. The review also emphasizes the role of systems biology strategies, such as genome-wide association studies, transcriptomics, proteomics, metabolomics, interactome analysis, and multi-omics integration, to unveiling complex molecular networks in neurodegeneration. Furthermore, the emerging biomarker strategies and therapeutic strategies targeting convergence signaling pathways including NF-κB, PI3K-Akt-mTOR, MAPK and Wnt/β-catenin are summarized. The common genetic basis and the cross-connecting molecular mechanisms of the various neurodegenerative diseases could help in the discovery of new biomarkers and pan-therapeutic targets. Further advances in molecular genetics, computational biology and precision medicine are needed to enhance early detection and the creation of effective disease-modifying treatments.",
+      "journal": "Gene",
+      "authors": [
+        "Pattnaik PP",
+        "Prusty SK",
+        "Pati S",
+        "Jew KA",
+        "Bora AK",
+        "Sahoo J",
+        "Sahu PK"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476327/"
+    },
+    {
+      "id": "pmid-42477767",
+      "pmid": "42477767",
+      "doi": "10.1186/s13023-026-04503-2",
+      "title": "Unraveling the role of lipid metabolism in ALS risk: a Mendelian randomization analysis using GWAS data.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease. Lipid metabolism is closely related to neuronal function and energy homeostasis, but the genetic association between specific lipid species and ALS risk remains unclear. This study aimed to investigate the potential causal associations between genetically predicted lipid species and ALS risk using a two-sample Mendelian randomization (MR) approach. Summary-level GWAS data for 179 lipid species were obtained from 7,174 Finnish participants in the GeneRISK cohort. ALS GWAS data included 29,612 ALS cases and 122,656 controls. The inverse variance weighted (IVW) method was used as the primary MR approach, supplemented by MR-Egger, weighted median, weighted mode, and simple mode analyses. False discovery rate (FDR) correction was applied across all lipid traits based on IVW P values. Sensitivity analyses were conducted to assess heterogeneity, horizontal pleiotropy, and robustness. After FDR correction, genetically predicted higher levels of diacylglycerol (DAG) (18:1_18:1), phosphatidylcholine (PC) (16:1_18:1), PC (18:0_18:1), phosphatidylethanolamine (PE) (O-16:1_18:2), and several triacylglycerol (TAG) species were associated with increased ALS risk. Phosphatidylinositol (PI) (16:0_18:1) showed only a nominal protective association and did not remain significant after FDR correction. Sensitivity analyses did not indicate substantial heterogeneity or horizontal pleiotropy. This MR study provides genetic evidence supporting potential associations between specific lipid species and ALS risk. These findings highlight lipid metabolism as a relevant pathway in ALS susceptibility.",
+      "journal": "Orphanet journal of rare diseases",
+      "authors": [
+        "Zhang H",
+        "Li C",
+        "Yu J",
+        "Liang Y",
+        "Wu Y",
+        "Cao F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477767/"
+    },
     {
       "id": "pmid-42474734",
       "pmid": "42474734",
@@ -423,6 +519,8 @@
       ],
       "publicationTypes": [
         "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
         "Review"
       ],
       "publishedAt": "2026-07-15",
@@ -551,6 +649,23 @@
       ],
       "publishedAt": "2026-07-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42458498/"
+    },
+    {
+      "id": "pmid-42476836",
+      "pmid": "42476836",
+      "doi": "10.1016/j.jns.2026.126098",
+      "title": "When algorithms speak first: The public health risk of consumer AI in ALS diagnosis.",
+      "abstract": "Consumer AI platforms are increasingly used by patients to interpret medical reports, including ENMG results for ALS. While AI shows promise in controlled clinical settings (e.g., stroke imaging, melanoma detection), consumer-facing tools often provide overconfident, context-free diagnostic assertions (e.g., 'definitive evidence of ALS'), leading to premature and potentially harmful life-altering decisions. To highlight the clinical, ethical, and regulatory risks of unregulated AI in ALS diagnosis and propose actionable solutions. We present a case of AI-mediated misdiagnosis, analyze the limitations of consumer-facing AI (lack of clinical context, longitudinal data, and specialist oversight), and discuss the \"authority paradox\" (patients trusting AI outputs over clinicians' nuanced assessments). We propose a structured 4-step clinical approach for managing AI-mediated self-diagnoses and urge regulators to classify such tools as high-risk under the EU AI Act. The uncritical adoption of consumer AI in ALS diagnosis represents a public health risk. Clinicians, regulators, and developers must collaborate to ensure AI serves patients safely and ethically.",
+      "journal": "Journal of the neurological sciences",
+      "authors": [
+        "Mathis S",
+        "Le Masson G"
+      ],
+      "publicationTypes": [
+        "Editorial"
+      ],
+      "publishedAt": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476836/"
     },
     {
       "id": "pmid-42391458",
@@ -829,135 +944,6 @@
       ],
       "publishedAt": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42443201/"
-    },
-    {
-      "id": "pmid-42436431",
-      "pmid": "42436431",
-      "doi": "10.1186/s12904-026-02230-w",
-      "title": "\"Straddling two worlds\": complexities of spousal caregiving in amyotrophic lateral sclerosis during younger middle age.",
-      "abstract": "Family support is central to amyotrophic lateral sclerosis (ALS) care. Spouses often assume the role of primary caregiver, facing daily challenges as their partner's needs progressively increase. Younger ALS caregivers appear to have distinct experiences and needs, yet age- or life-stage variations and processes of caregiving are seldom considered in studies of ALS family caregiver experience. We undertook a qualitative study, guided by constructivist grounded theory methodology, to explore the dynamics of family caregiving following an ALS diagnosis in a younger middle-aged family member (≤55 years). Data were coded to identify psychosocial processes, including how family caregivers engage in caregiving. In-depth interviews were conducted with ten spousal caregivers between August 2023 and August 2025. Overall, our theoretical understanding of spousal caregiving for younger middle-aged adults with ALS (YMAs) was captured by the core category 'straddling two worlds,' reflecting how caregivers navigated multiple interconnected dichotomies: present and future, familiar and new norms, current and anticipated losses, and the worlds of the living and the dying. To contend with an uncertain future, caregivers anchored themselves in the present as they navigated a shifting sense of normalcy. Middle age expectations and social norms shaped how caregivers engaged in caregiving and experienced losses that were often unending and ambiguous. Caregiving for a spouse with ALS in younger middle age involves temporal, practical, emotional, and existential processes. Caregivers of YMAs may benefit from interventions that help them tolerate uncertainty, stay grounded in the present, maintain normalcy, and grieve losses throughout the caregiving trajectory.",
-      "journal": "BMC palliative care",
-      "authors": [
-        "Parks ASE",
-        "Conn LG",
-        "Abrahao A",
-        "Zinman L",
-        "Sale JEM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436431/"
-    },
-    {
-      "id": "pmid-42434808",
-      "pmid": "42434808",
-      "doi": "10.1080/17435889.2026.2698782",
-      "title": "Brain targeting and trafficking of extracellular vesicles in central nervous system diseases: a therapeutic roadmap.",
-      "abstract": "Extracellular vesicles (EVs) mediate intercellular signaling in the central nervous system (CNS) by transferring lipids, proteins, and nucleic acids among neurons, glia, endothelium, and immune cells. Brain targeting depends on a linked sequence: EV ligands and adsorbed protein coronas engage receptor modules, select endocytic routes, determine intracellular fate, and define the therapeutic readouts. These fates include lysosomal degradation, recycling, rare cytosolic delivery, or transport across the blood-brain barrier (BBB). In disease, the same pathways can disseminate proteopathic seeds and amplify neuroinflammation. Heparan sulfate proteoglycans (HSPGs) and LDL receptor family members, including low-density lipoprotein receptor-related protein 1 (LRP1), regulate tau, α-synuclein, and amyloid-β handling. Phosphatidylserine readers and complement shape myeloid sink capture and inflammatory output. Integrin, tetraspanin, and ICAM-1 nanoclusters influence avidity, organotropism, and immune suppression. At the BBB, endothelial HSPGs, LRP1, and transferrin receptor (TfR) support receptor-mediated uptake, motivating engineered ligands such as rabies virus glycoprotein-derived peptides, Angiopep-2, and TfR binders. However, endosomal escape remains a major kinetic barrier to nucleic acid delivery. We synthesize these principles across Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, glioblastoma, and demyelinating disease, and outline design and assay standards needed to translate EV biology into safe, manufacturable CNS therapeutics.",
-      "journal": "Nanomedicine (London, England)",
-      "authors": [
-        "Baker B",
-        "Emerson S",
-        "Tran T",
-        "Mohapatra N",
-        "Wang D",
-        "Zaw T",
-        "Doshi A",
-        "Lopez JM",
-        "Hassan D",
-        "Kumar P",
-        "Farmer D",
-        "Wang A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42434808/"
-    },
-    {
-      "id": "pmid-42432003",
-      "pmid": "42432003",
-      "doi": "10.1038/s41597-026-07864-2",
-      "title": "Compound muscle action potential scan dataset in adults with spinal cord injury and healthy controls.",
-      "abstract": "Certain neurological conditions, such as amyotrophic lateral sclerosis (ALS) and spinal cord injury (SCI), result in motor unit loss in muscles. The stimulus-evoked compound muscle action potential (CMAP) scan captures comprehensive information on motor unit recruitment that enables rapid and non-invasive assessment of motor unit status. However, few publicly available CMAP scan datasets exist to support research on motor unit number estimation (MUNE). To address this gap, we collected CMAP scan data from the first dorsal interosseous (FDI) muscle of 13 individuals with SCI and 13 healthy participants, and established a dedicated CMAP scan dataset. The dataset includes CMAP waveforms evoked by each nerve stimulus from which CMAP scan curve and typical parameters were extracted for direct use. All SCI participants underwent multiple clinical assessments and exhibited a spectrum of impairment severity from mild to severe, resulting in diverse CMAP features. We anticipate that this dataset will facilitate the development of advanced CMAP scan-based assessment techniques and aid in the investigation of neuromuscular impairment.",
-      "journal": "Scientific data",
-      "authors": [
-        "Chen J",
-        "Xu P",
-        "Chen M",
-        "Lu Z",
-        "Li X",
-        "Stampas A",
-        "Zong Y",
-        "Zhou P"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42432003/"
-    },
-    {
-      "id": "pmid-42436563",
-      "pmid": "42436563",
-      "doi": "10.1186/s40478-026-02376-x",
-      "title": "Context of use matters: interpreting extracellular vesicle TDP-43 as a biomarker in ALS.",
-      "abstract": "",
-      "journal": "Acta neuropathologica communications",
-      "authors": [
-        "Gregory JM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436563/"
-    },
-    {
-      "id": "pmid-42436372",
-      "pmid": "42436372",
-      "doi": "10.1186/s12868-026-01014-5",
-      "title": "Plasma exosomal HERV-K transcripts are increased in amyotrophic lateral sclerosis.",
-      "abstract": "Human endogenous retrovirus-K (HERV-K) reactivation is increasingly implicated in amyotrophic lateral sclerosis (ALS), with ongoing clinical trials investigating antiretroviral therapies. However, there is limited understanding of how HERV-K is trafficked in peripheral biofluids, and the role of exosomes, nano-sized extracellular vesicles, in this process remains largely unexplored. Exosomes offer a stable and cell-specific cargo reservoir that may reflect central pathogenic processes and serve as a minimally invasive biomarker source. In this study, we isolated plasma-derived exosomes from ALS patients (n = 21) and healthy controls (n = 16), and quantified exosomal HERV-K gag, env, and pol transcript levels using SYBR Green qPCR with RNase treatment and normalization to both traditional and exosome-enriched reference genes. HERV-K pol expression was significantly elevated in ALS, with fold-changes ranging from 1.59 to 1.85 (P = 0.037-0.051). env and gag also showed increased expression, though with greater variability. Normalization to the exosome-specific gene SOD2 provided the most consistent signal. These findings suggest that exosomal HERV-K transcripts, particularly pol, could serve as accessible biomarkers for patient stratification and treatment monitoring in HERV-K-targeted ALS trials. This work establishes proof-of-concept for using exosomal cargo to track endogenous retroviral activity in neurodegeneration and supports further investigation of liquid biopsy approaches in ALS precision medicine.",
-      "journal": "BMC neuroscience",
-      "authors": [
-        "Roy T",
-        "Ramesh M",
-        "Nizam NAA",
-        "Tandiono S",
-        "Al-Jamal KT",
-        "Al-Chalabi A",
-        "Iacoangeli A",
-        "Al Khleifat A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436372/"
-    },
-    {
-      "id": "pmid-42435587",
-      "pmid": "42435587",
-      "doi": "10.1016/j.ric.2026.100050",
-      "title": "Precision therapeutics and innovative clinical trial design in neurodegenerative diseases.",
-      "abstract": "Neurodegenerative diseases are biologically heterogeneous disorders characterized by progressive neuronal dysfunction, overlapping molecular pathologies, and limited disease-modifying therapies. Advances in biomarker development, molecular staging, and precision medicine are reshaping therapeutic strategies and clinical trial design across Parkinson's disease, Alzheimer's disease, frontotemporal dementia, amyotrophic lateral sclerosis, Huntington's disease, and related disorders. This review summarizes emerging therapeutic approaches, including monoclonal antibodies targeting protein aggregation, immune-modulating and metabolic interventions, antisense oligonucleotides, gene replacement and genome-editing strategies, stem cell-based therapies, and neurosurgical delivery platforms and neuromodulation technologies. It also examines evolving clinical trial methodologies such as biomarker-enriched recruitment, adaptive and delayed-start designs, platform trials, decentralized models, and master protocols. Additional emphasis is placed on diagnostic biomarkers, multimodal artificial-intelligence pipelines, systems-biology perspectives, network-based therapeutic strategies, and the reproducibility and interpretability requirements for computational tools. Despite recent progress, major challenges remain, including biological heterogeneity, limited translatability of preclinical models, delivery barriers, long-term safety concerns, and inequities in access to biomarker-based care and trial participation. Future directions will require combination therapies, integrated biomarker pipelines, preventive strategies, and pragmatic trial systems capable of translating biological advances into durable and equitable clinical benefit.",
-      "journal": "Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion",
-      "authors": [
-        "Domínguez-García A",
-        "Delgado-Uriarte JC",
-        "Cervantes-Arriaga A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42435587/"
     }
   ]
 }
