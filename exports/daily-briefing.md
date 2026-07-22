@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-07-21
+更新时间：2026-07-22
 
-1. **微生物组和代谢物影响ALS中的肠道和中枢神经系统**
-   - 临床试验 / 临床试验研究 / high
-   - ALS中微生物群及其代谢物可能通过肠-微生物-脑轴影响肠道和中枢神经系统，但具体机制尚未完全明确。
-   - https://pubmed.ncbi.nlm.nih.gov/42374626/
-2. **多重检测面板检测散发性和C9orf72-ALS中的胶质和炎症生物标志物特征**
+1. **多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征**
    - 生物标志物 / 观察性临床研究 / high
-   - NULISA平台可同时检测ALS患者脑脊液中多种胶质、炎症和神经退行性标志物，其中NEFL、NEFH、CHIT1、CHI3L1、CCL2和CCL3显著升高，C9orf72-ALS患者还特有PRDX6和ENO2升高。
+   - NULISA平台可同时检测131种脑脊液生物标志物，其中NEFH、NEFL、CHIT1、CHI3L1、CCL2和CCL3在ALS中显著升高，且C9orf72-ALS患者中PRDX6和ENO2水平更高。
    - https://pubmed.ncbi.nlm.nih.gov/42462180/
-3. **肌萎缩侧索硬化中的胆固醇：旁观者、生物标志物还是治疗靶点？**
-   - 治疗 / 观察性临床研究 / high
-   - 胆固醇与ALS的关系复杂：高LDL可能增加发病风险，但高脂血症与生存期延长的关联受营养状态影响；他汀类药物临床安全性良好，但动物模型效果不一，洛伐他汀可能具有保护作用。
-   - https://pubmed.ncbi.nlm.nih.gov/42405014/
-4. **ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活**
-   - 临床试验 / 动物/细胞实验 / high
-   - Sptlc1外显子2缺失导致纯合子小鼠致死，但杂合子小鼠无运动缺陷或ALS样病理，提示外显子2功能对生存不可或缺。
-   - https://pubmed.ncbi.nlm.nih.gov/42392979/
-5. **血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究**
+2. **血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究**
    - 临床试验 / 观察性临床研究 / high
    - 异常年龄校正pNfL与MND（RRR 18.47）和活动性神经病变（RRR 7.30）显著相关，区分MND与其他诊断的AUC为0.85。
    - https://pubmed.ncbi.nlm.nih.gov/42441926/
-6. **突变型超氧化物歧化酶1催化的氢疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化症**
+3. **突变超氧化物歧化酶1催化的氢疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化症**
    - 临床试验 / 动物/细胞实验 / high
-   - 口服Mg₂Si纳米片持续释放氢气，在SOD1 G93A小鼠中显著延缓ALS进展、改善运动功能并延长寿命，机制涉及清除自由基和抑制NLRP3炎症小体激活。
+   - 口服Mg₂Si纳米片通过持续释放氢气，有效清除突变SOD1产生的自由基，抑制NLRP3炎症小体，从而阻断氧化应激-神经炎症串扰，显著改善ALS小鼠的运动功能和生存期。
    - https://pubmed.ncbi.nlm.nih.gov/42398690/
-7. **准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理**
+4. **准备肌萎缩侧索硬化症诊所，为携带ALS风险变异的个体提供长期护理**
    - 遗传 / 观察性临床研究 / high
-   - 到2035年，美国无症状ALS基因携带者数量将增至约2.6万，多数州ALS诊所每年需增加100次以上就诊，现有基础设施将不足以应对。
+   - 到2035年，美国无症状ALS基因携带者数量将达26,111人，多数州ALS诊所年就诊需求将超过100次，需显著扩展基础设施。
    - https://pubmed.ncbi.nlm.nih.gov/42367369/
-8. **散发性与C9orf72相关肌萎缩侧索硬化中神经递质定义的退行模式：对GABA能、血清素能、阿片能、谷氨酸能、内源性大麻素能及小胶质细胞系统的偏好——对治疗开发的启示**
+5. **Neurotransmitter-Defined Degeneration Patterns in Sporadic and C9orf72-Associated 肌萎缩侧索硬化症: Predilection to GABAergic, Serotonergic, Opioid, Glutamatergic, Endocannabinoid, and 小胶质细胞l Systems-Implications for Therapy Development.**
    - 治疗 / 待人工判定 / high
-   - ALS中GABA能、血清素能、阿片能、谷氨酸能、内源性大麻素能及小胶质细胞系统呈现选择性退行模式，且散发性与C9orf72相关ALS之间可能存在差异。
+   - Europe PMC record found, but no abstract was available in the fetched metadata.
    - https://doi.org/10.1002/ana.78316
+6. **Astrocyte dysfunction distinguishes monozygotic twin C9orf72 expansion carriers discordant for 肌萎缩侧索硬化症.**
+   - 临床试验 / 待人工判定 / high
+   - Europe PMC record found, but no abstract was available in the fetched metadata.
+   - https://doi.org/10.64898/2026.07.15.738192
+7. **Study to Investigate the Safety of the Transplantation (by Injection) of Human Glial Restricted Progenitor Cells (hGRPs; Q-Cells®) Into Subjects With 肌萎缩侧索硬化症 (ALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT02478450
+8. **A Study to Learn More About the Long-Term Safety of Tofersen (Qalsody) in Chinese Participants With SOD-1 肌萎缩侧索硬化症 (ALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07223723
