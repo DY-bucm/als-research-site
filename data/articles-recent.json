@@ -1,14 +1,59 @@
 {
-  "updatedAt": "2026-07-22T23:14:37.019Z",
+  "updatedAt": "2026-07-23T23:09:38.487Z",
   "period": {
     "days": 10,
-    "from": "2026-07-13",
-    "to": "2026-07-22"
+    "from": "2026-07-14",
+    "to": "2026-07-23"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 50,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-42489267",
+      "pmid": "42489267",
+      "doi": "10.1002/advs.76778",
+      "title": "A Blood-Derived Factor Rescues ALS: Platelet Factor 4 Activates OPTN-Dependent Autophagy to Clear SOD1 Aggregates Independently of PINK1.",
+      "abstract": "Peripheral factors that systemically regulate amyotrophic lateral sclerosis (ALS) have remained elusive-until now. Here, by integrating population-scale epidemiology with mechanistic dissection, we identify platelet factor 4 (PF4) as the central driver of a circulating neuroprotective axis that restores proteostasis and rescues ALS. In a prospective cohort of >500 000 UK Biobank participants, platelet indices were strongly associated with ALS risk, and serum PF4 levels were significantly reduced in ALS patients. Systemic administration of recombinant PF4 in hSOD1 G93A mice produced dramatic therapeutic effects: extended survival, preserved motor function, attenuated neuroinflammation, and reduced neuromuscular junction denervation. Remarkably, this efficacy appears pathology-selective-robust in SOD1-driven models but shows no observable effect in TDP-43 or C9orf72 ALS models. Mechanistically, PF4 achieves what few molecules can: it engages the cell surface receptor LRP1 to activate the TBK1-OPTN signaling axis, restoring impaired autophagic flux through a PINK1/Parkin-independent pathway requiring ATG7, establishing a previously unrecognized peripheral platelet-autophagy-neuron axis that facilitates the co-clearance of pathological SOD1 aggregates and damaged mitochondria. This study unveils PF4 as a first-in-class circulating autophagy regulator with therapeutic potential in ALS. Beyond identifying a candidate biomarker and drug lead, it reveals that systemic factors can directly engage central proteostatic machinery-opening a new frontier for ALS therapy.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Xie Q",
+        "Zhu Y",
+        "Jiang W",
+        "Xie H",
+        "Li Y",
+        "Hu M",
+        "Li K",
+        "Yu H",
+        "Pan Y",
+        "Jiang C",
+        "Song X",
+        "Fan D",
+        "Deng B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489267/"
+    },
+    {
+      "id": "pmid-42489904",
+      "pmid": "42489904",
+      "doi": "10.1007/s00702-026-03231-y",
+      "title": "Psychiatric disorders in amyotrophic lateral sclerosis: a short note.",
+      "abstract": "Traditionally, amyotrophic lateral sclerosis (ALS) has been defined as a rapidly progressive neurodegenerative disorder that affects the large motor neurons of the brain and spinal cord. The assumption that ALS is a pure motor disorder has been increasingly challenged by accumulating evidence about an association between ALS and psychiatric disorders. They often precede the onset of motor symptoms or psychoses; hallucinations and schizophrenia may occur as concomitant changes. These non-motor disorders have a close relationship with disease onset or may be related to a larger framework of neuronal network disruptions in motor neuron disorders. The link between ALS and schizophrenia was supported by substantial genetic correlations associating the C9orf72 gene expansion with psychiatric disorders. The genetic correlation between ALS and schizophrenia was estimated to be 14.3% with frequent polygenic risk scores. Increased psychotic symptoms in C9orf72 carriers correlate with atrophy in a distributed cortical and subcortical network that includes multiple cerebral regions. ALS kindreds often present higher rates of psychiatric illnesses, and early schizophrenia is significantly associated with the development of ALS. Further studies should attempt to delineate the risk of psychiatric disorders in C9orf72 kindreds to aid in clinical decision making and genetic counseling, through collaborations between neurology and psychiatry.",
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "authors": [
+        "Jellinger KA"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489904/"
+    },
     {
       "id": "pmid-42484509",
       "pmid": "42484509",
@@ -88,6 +133,52 @@
       ],
       "publishedAt": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42484778/"
+    },
+    {
+      "id": "pmid-42487076",
+      "pmid": "42487076",
+      "doi": "10.1038/s44318-026-00874-1",
+      "title": "FUS controls muscle differentiation through phase separation-mediated recruitment of the transcription factors MEF2 and ETV5.",
+      "abstract": "FUS is an RNA-binding protein mutated in amyotrophic lateral sclerosis (ALS), a neurodegenerative disease characterized by progressive muscle weakness. We show in this work that a heterozygous knock-in mutation in the mouse Fus gene leads to cell-autonomous ultrastructural defects in skeletal muscle, with disruption of sarcomeres and mitochondria. Studies in mouse and Drosophila models demonstrate an evolutionarily conserved cell-autonomous function of FUS in muscle development. Mechanistically, FUS is required for the transcription of MEF2 target genes, binds to the promoter of genes bound by ETS transcription factors, in particular ETV5, and co-activates the transcription of MEF2-dependent genes with ETV5. FUS phase-separates with ETV5 and MEF2A, and stimulation of MEF2-dependent transcription by FUS is dependent upon its phase separation properties. Finally, Etv5 haploinsufficiency exacerbates muscle weakness and atrophy in Fus knock-in mice. Our findings establish a key role for FUS in skeletal muscle differentiation through its phase separation-dependent recruitment of ETV5 and MEF2, defining a novel pathway compromised in FUS-ALS.",
+      "journal": "The EMBO journal",
+      "authors": [
+        "Picchiarelli G",
+        "Wienand A",
+        "Megat S",
+        "Hutten S",
+        "Aly A",
+        "Been M",
+        "Weber I",
+        "Bonanno A",
+        "Mishra N",
+        "Sternburg E",
+        "Cauchy P",
+        "Dieterle S",
+        "Catinozzi M",
+        "Lobo-Mancheno J",
+        "Walgrave H",
+        "Demais V",
+        "Hener P",
+        "Kessler P",
+        "Tzeplaeff L",
+        "Huebers A",
+        "Zeuschner D",
+        "Rosenbohm A",
+        "Ludolph AC",
+        "Boutillier AL",
+        "Boeckers T",
+        "Dormann D",
+        "Demestre M",
+        "Sellier C",
+        "Lagier-Tourenne C",
+        "Storkebaum E",
+        "Dupuis L"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42487076/"
     },
     {
       "id": "pmid-42482658",
@@ -973,200 +1064,6 @@
       ],
       "publishedAt": "2026-07-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42447443/"
-    },
-    {
-      "id": "pmid-42441689",
-      "pmid": "42441689",
-      "doi": "10.1371/journal.pgen.1012230",
-      "title": "Age-based risk estimates for C9orf72RE-related diseases: Theoretical developments and added value for genetic counseling.",
-      "abstract": "The C9orf72 hexanucleotide repeat expansion is the most common genetic cause of amyotrophic lateral sclerosis (ALS) or frontotemporal dementia (FTD). In genetic counseling, children of mutation carriers are often told that they have a 50% risk of carrying the mutation, but this figure does not take into account the fact that penetrance is age-related, with a unimodal distribution of disease onset around 58 years of age. Using a Bayesian approach, we developed a theory to calculate the probability of carrying the mutation for asymptomatic relatives (children/siblings and grandchildren/niblings) as well as the probability of developing ALS/FDT within a given time frame, based on their age. Using published data on age-related penetrance, we then calculated these probabilities and developed an online simulator that makes it easy to calculate them on a case-by-case basis. The conditional probabilities obtained can be very different from Mendelian values. For example, a 70-year-old asymptomatic child born to a carrier has approximately a 6% risk of being a carrier, which is far from 50%. For grandchildren, taking into account both their age and that of their parents also leads to figures that are much lower than those obtained if only their age were considered. For consultands, the decision to undergo testing is based in part on risk estimates. In this regard, the refined estimates and simulator we propose may prove to be valuable tools for genetic counseling for families affected by ALS/FTD linked to the C9orf72RE mutation. In addition, the formulas used in this study could also be used to calculate risk estimates for other diseases caused by autosomal dominant mutations with age-dependent penetrance.",
-      "journal": "PLoS genetics",
-      "authors": [
-        "de Vienne D",
-        "de Vienne DM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42441689/"
-    },
-    {
-      "id": "pmid-42438447",
-      "pmid": "42438447",
-      "doi": "10.1017/cjn.2026.10647",
-      "title": "An intrathecal therapeutics clinic for administration of tofersen in amyotrophic lateral sclerosis: A Canadian nurse practitioner and neurologist collaborative model.",
-      "abstract": "",
-      "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
-      "authors": [
-        "Jewett G",
-        "Chan E",
-        "Jagt K",
-        "Petrillo Ballantyne J",
-        "Wesolosky J",
-        "Perera T",
-        "Karnik V",
-        "Hahn C",
-        "Luk C",
-        "Mobach T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42438447/"
-    },
-    {
-      "id": "pmid-42441926",
-      "pmid": "42441926",
-      "doi": "10.1212/WNL.0000000000218304",
-      "title": "Association of Plasma Neurofilament Light Chain With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.",
-      "abstract": "Plasma neurofilament light chain (pNfL) is a blood-based biomarker of axonal injury elevated in several neuromuscular disorders. While previous studies have compared individual diseases with healthy controls, less is known about how pNfL performs across clinically relevant neuromuscular presentations encountered in subspecialty practice, particularly in distinguishing active from inactive neuropathies. We evaluated whether abnormal age-adjusted pNfL concentrations are associated with clinically relevant diagnostic categories and whether pNfL discriminates between active and inactive neuropathies. We conducted a cross-sectional study of patients evaluated by neuromuscular specialists at Mayo Clinic (Rochester, MN) between April 2022 and April 2024, in whom pNfL was ordered as part of routine clinical care. Diagnoses were assigned to prespecified categories by consensus review, including motor neuron disease (MND), active neuropathy, inactive neuropathy, and structural etiologies. Clinically active neuropathy was defined using prespecified, diagnosis-specific operational criteria incorporating treatment status, clinical relapse or progression, time from symptom onset, and pathologic evidence of inflammation. Abnormal pNfL was defined using previously established age-adjusted 97.5th percentile reference limits. Multinomial logistic regression evaluated associations between abnormal pNfL and diagnostic category, adjusting for neuropathy impairment score and symptom duration. Receiver operating characteristic (ROC) analyses assessed discrimination between prespecified groups. Among 306 patients (mean age 62.2 years, 41.5% female), 179 (58.5%) had MND, 28 (9.1%) active neuropathy, 75 (12.1%) inactive neuropathy, and 24 (7.8%) structural etiologies. Median pNfL concentrations differed across diagnostic groups ( p < 0.0001) and were highest in MND and active neuropathy. After adjustment, abnormal pNfL was associated with a higher relative likelihood of classification as MND (relative risk ratio [RRR] 18.47, 95% CI 8.77-38.86) and active neuropathy (RRR 7.30, 95% CI 2.50-21.34) compared with inactive neuropathies. No association was observed with structural etiologies. Discrimination between active and inactive neuropathy was moderate (area under the curve [AUC] 0.79, 95% CI 0.70-0.88), and discrimination for MND vs all other diagnoses was good (AUC 0.85, 95% CI 0.80-0.90). In this cross-sectional cohort, abnormal age-adjusted pNfL concentrations were more frequently observed in diagnostic categories characterized by clinically active axonal injury than in inactive neuropathies and structural conditions. These findings suggest a potential role for pNfL as an adjunctive tool in neuromuscular diagnostic evaluation. Interpretation is limited by the cross-sectional design and convenience sampling. This study provides Class II evidence that abnormal age-adjusted pNfL distinguishes active neuropathies from inactive neuropathies with moderate diagnostic accuracy.",
-      "journal": "Neurology",
-      "authors": [
-        "Schipani ES",
-        "Jones FJS",
-        "Staff NP",
-        "Bornhorst JA",
-        "Sorenson EJ",
-        "Dubey D",
-        "Pinto MV",
-        "Mauermann ML"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42441926/"
-    },
-    {
-      "id": "pmid-42443387",
-      "pmid": "42443387",
-      "doi": "10.1038/s41582-026-01238-3",
-      "title": "Astrocytic lipid dysregulation as an early driver of neurodegeneration.",
-      "abstract": "Astrocytes have traditionally been cast as supportive glia, but they are increasingly recognized as metabolic hubs that regulate cholesterol synthesis, fatty acid detoxification, lipid droplet dynamics and redox homeostasis in the CNS. Neurons have a limited intrinsic capacity for lipid storage and detoxification and rely heavily on astrocytes to maintain a safe lipid environment. Emerging evidence indicates that dysregulation of astrocytic lipid homeostasis precedes overt neuronal degeneration in a range of neurodegenerative diseases, including Alzheimer disease, Parkinson disease, amyotrophic lateral sclerosis, frontotemporal dementia and Huntington disease. Perturbations in astrocytic lipid handling can drive maladaptive reactive states, promote oxidative stress, impair lysosomal and mitochondrial function and disrupt neuron-glia lipid exchange, collectively creating an environment that leads to neurodegeneration. Therefore, lipid dysregulation within astrocytes could trigger or amplify neuronal vulnerability. In this Review, we assess evidence that astrocytic lipid metabolism is not solely protective or pathological but has instructive physiological roles and that astrocytic lipid dysregulation is an early driver of neurodegeneration. We critically evaluate disease-specific evidence, distinguishing correlative observations from causal mechanisms. We propose that targeting of astrocytic lipid homeostasis represents a promising strategy for preventing or minimizing neurodegeneration and opens new avenues for early detection and biomarker development.",
-      "journal": "Nature reviews. Neurology",
-      "authors": [
-        "Kim WS",
-        "Halliday GM"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443387/"
-    },
-    {
-      "id": "pmid-42441693",
-      "pmid": "42441693",
-      "doi": "10.1097/CRD.0000000000001392",
-      "title": "Cardiac Autonomic Dysfunction and Sudden Cardiac Death in Amyotrophic Lateral Sclerosis: Clinical Implications and Considerations for Care.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is traditionally viewed as a motor neuron disease that progresses from muscular weakness to respiratory failure and death. Increasing evidence, however, demonstrates clinically meaningful involvement of the autonomic nervous system, particularly in cardiovascular regulation. This narrative review synthesizes current evidence on the mechanisms, clinical implications, and palliative considerations of cardiac autonomic dysfunction in ALS, with particular emphasis on its relationship to sudden cardiac death (SCD). Cardiac autonomic dysfunction is increasingly recognized as a significant contributor to disease burden in ALS, manifesting as abnormalities in heart rate variability, sympathetic overactivity, and corrected QT prolongation. These derangements may contribute to malignant arrhythmias, increasing susceptibility to SCD in combination with respiratory decline. Epidemiologic data suggest that SCD accounts for a meaningful proportion of ALS-related mortality, although it is likely underrecognized due to misclassification and lack of routine cardiac monitoring. Clinical implications include the need for improved risk stratification and earlier detection of autonomic dysfunction using accessible markers, such as electrocardiographic indices, orthostatic vital signs, and ambulatory monitoring. Emerging technologies, including wearable biosensors, may further enhance longitudinal assessment. These considerations also have direct relevance for advanced care planning, as ALS may involve unpredictable and abrupt cardiac death in addition to progressive respiratory decline. Recognizing ALS as a multisystem disorder with significant cardiac involvement supports the integration of structured cardiovascular monitoring into multidisciplinary care models and highlights the need for prospective studies to guide standardized management strategies.",
-      "journal": "Cardiology in review",
-      "authors": [
-        "Fisher K",
-        "Ligay A",
-        "Stratford M",
-        "Hirani R",
-        "Ober DT",
-        "Al-Seykal I",
-        "Frishman WH",
-        "Etienne M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42441693/"
-    },
-    {
-      "id": "pmid-42456346",
-      "pmid": "42456346",
-      "doi": "10.1016/j.parkreldis.2026.108437",
-      "title": "Divergent presentations of anti-GAD autoimmunity: a comparative analysis of two neurodegenerative cases.",
-      "abstract": "We describe two women presenting with cortico-basal syndrome (CBS) and upper motor neuron-motor neuron disease (UMN-MND), respectively, both with high-titre GAD-Abs in serum and CSF. Both patients showed progressive motor impairment with elevated NFL levels. IVIg therapy was administered without meaningful clinical benefit, suggesting neurodegeneration as the primary phenotypic driver.",
-      "journal": "Parkinsonism & related disorders",
-      "authors": [
-        "Zanovello M",
-        "Pavan S",
-        "Petrosino A",
-        "Tuppo Rotunno V",
-        "Zoccarato M",
-        "Sorarù G",
-        "Antonini A"
-      ],
-      "publicationTypes": [
-        "Letter"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456346/"
-    },
-    {
-      "id": "pmid-42442754",
-      "pmid": "42442754",
-      "doi": "10.1097/MCG.0000000000002422",
-      "title": "Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
-      "abstract": "Many patients with psychiatric and neurological diseases suffer from gastrointestinal symptoms. Our study aimed to analyze the frequency of gastrointestinal disease in patients with underlying neuropsychiatric diagnoses. The study utilized the 2018 Inpatient Standard Analytic File of the Centers for Medicare and Medicaid Services (CMS), which contains the electronic health records of 6,462,321 unique patients. The concurrence of 2 diagnoses was assessed by calculating odds ratios (OR) with their 95% CIs, adjusted for the confounding influences of demographic characteristics (age, sex, ethnicity). Dementia was most strongly associated with dysphagia (2.85, 2.83 to 2.88). Schizophrenia was associated with functional GI disorders (1.62, 1.60 to 1.64), constipation (1.67, 1.65 to 1.69), and dyspepsia (2.02, 1.88 to 2.17). Bipolar disorder was most significantly associated with irritable bowel syndrome (1.83, 1.79 to 1.87) and dyspepsia (1.88, 1.77 to 2.01). Depression was significantly associated with all types of upper and lower GI symptoms with significant ORs ranging from 1.33 to 2.14. Amyotrophic lateral sclerosis was strongly associated with complaints of functional GI disorder (2.32, 2.18 to 2.46), constipation (2.37, 2.23 to 2.51), dysphagia (11.77, 11.19 to 12.39), flatulence and bloating (2.75, 2.14 to 3.54). Parkinson disease was mostly associated with constipation (1.79, 1.77 to 1.82) and dysphagia (2.96, 2.92 to 3.00). In Alzheimer disease, only symptoms of dysphagia (2.15, 2.12 to 2.17) stood out. Multiple sclerosis was associated with most GI diagnoses (OR ranging from 1.32 to 2.06), except for abdominal pain and reflux symptoms. Concurrence of gastrointestinal and neuropsychiatric diagnoses is common. Caring for patients with neuropsychiatric diseases, physicians need to be aware of and proactively search for the presence of concurrent gastrointestinal disease.",
-      "journal": "Journal of clinical gastroenterology",
-      "authors": [
-        "Sonnenberg A",
-        "Bakis LK",
-        "Kohen R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442754/"
-    },
-    {
-      "id": "pmid-42442024",
-      "pmid": "42442024",
-      "doi": "10.1016/j.sbi.2026.103330",
-      "title": "Multimodal biophysical markers of neurodegeneration: Morphology, mechanics, and thermodynamics.",
-      "abstract": "The identification of novel noninvasive biomarkers remains a major challenge in the diagnosis of neurodegenerative diseases. Significant efforts focus on fluid biomarkers, including proteins, peptides, and miRNAs, detectable in blood plasma and peripheral blood cells. Here, we review recent findings on blood plasma and peripheral blood cells physical parameters in Alzheimer's disease, Parkinson's disease and amyotrophic lateral sclerosis emphasizing atomic force microscopy and calorimetry assay. Alterations in morphology, nanostructure, and stiffness of red blood cells and platelets, together with thermodynamic signatures of red blood cells and plasma, provide sensitive indicators of disease-related changes. These integrated biophysical parameters not only distinguish neurodegeneration from healthy states but also enable discrimination among different neurodegenerative disorders, highlighting their potential as minimally invasive diagnostic markers.",
-      "journal": "Current opinion in structural biology",
-      "authors": [
-        "Andreeva T",
-        "Tuparev N",
-        "Taneva SG"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442024/"
-    },
-    {
-      "id": "pmid-42443201",
-      "pmid": "42443201",
-      "doi": "10.1038/s41467-026-75500-z",
-      "title": "Nuclear condensates formed by truncated mutant NEK1s impede ribosomal RNA biogenesis and drive motor dysfunction.",
-      "abstract": "NIMA-related kinase 1 (NEK1), a serine/threonine kinase, is a risk variant for amyotrophic lateral sclerosis (ALS). While the full-length NEK1 is involved in diverse cellular processes, such as DNA damage response and microtubule stability, the pathogenic mechanism of NEK1 nonsense mutations in ALS remains elusive. Here, we demonstrate that three truncated forms of NEK1 derived from ALS-related NEK1 nonsense mutations translocate from the cytoplasm to the nucleus, exhibit nucleolar localization, and simultaneously form liquid-like nucleoplasmic foci. In contrast to the diffuse cytoplasmic distribution of wild-type NEK1, these nuclear-localized truncated mutants are prone to undergo liquid-liquid phase separation both in cells and in vitro. Mechanistically, the truncated NEK1s interact with the nucleolar protein FBL, thereby impairing ribosomal RNA biogenesis and translation. Transgenic flies expressing truncated mutant NEK1s display motor dysfunction and reduced survival length, and a knock-in transgenic mouse model expressing ALS-related NEK1 mutant similarly exhibits motor deficits accompanied by ribosomal RNA dysregulation. These findings suggest that ALS-related NEK1 mutants expressing truncated forms of NEK1 cause cell toxicity by interfering with ribosomal RNA metabolism and reveal a gain-of-function mechanism in ALS pathogenesis involving NEK1.",
-      "journal": "Nature communications",
-      "authors": [
-        "Wang Y",
-        "Hu W",
-        "Huang R",
-        "Wu F",
-        "Su H",
-        "Zang J",
-        "Huang X",
-        "Liu Y",
-        "Ren H",
-        "Li J",
-        "Zhang M",
-        "Zhang Y",
-        "Wang G",
-        "Hao Z"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443201/"
     }
   ]
 }
