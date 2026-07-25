@@ -6,14 +6,10 @@
   - https://pubmed.ncbi.nlm.nih.gov/42482658/
 - [ ] [疑似误收] 待复核翻译：Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy. (pmid-42362038)
   - https://pubmed.ncbi.nlm.nih.gov/42362038/
-- [ ] 待复核翻译：Programmed axon degeneration gene variants in human disease. (pmid-42341897)
-  - https://pubmed.ncbi.nlm.nih.gov/42341897/
 - [ ] Multiplex Panel Detects Glial and Inflammatory 生物标志物 Signatures in Sporadic and C9orf72-ALS. (pmid-42462180)
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
 - [ ] Are T1-weighted and T2-weighted volumetric pipelines interchangeable methodologies for investigating 肌萎缩侧索硬化症 pathology in vivo? (pmid-42413223)
   - https://pubmed.ncbi.nlm.nih.gov/42413223/
-- [ ] Cholesterol in 肌萎缩侧索硬化症: a bystander, a 生物标志物, or a target? (pmid-42405014)
-  - https://pubmed.ncbi.nlm.nih.gov/42405014/
 - [ ] 待复核翻译：The role of SUMOylation in regulating proteins that drive neuronal disease progression. (pmid-42395866)
   - https://pubmed.ncbi.nlm.nih.gov/42395866/
 - [ ] 待复核翻译：Deletion of exon 2 in ALS-linked Sptlc1 causes lethality in homozygous mice but not in heterozygotes. (pmid-42392979)
@@ -26,10 +22,16 @@
   - https://pubmed.ncbi.nlm.nih.gov/42468019/
 - [ ] [高优先级] Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk. (pmid-42398690)
   - https://pubmed.ncbi.nlm.nih.gov/42398690/
-- [ ] Preparing 肌萎缩侧索硬化症 Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants. (pmid-42367369)
-  - https://pubmed.ncbi.nlm.nih.gov/42367369/
 - [ ] 待复核翻译：The impedance mismatch theory: A non-equilibrium thermodynamic framework for a shared energetic stress pathway in neurodegeneration. (pmid-42364760)
   - https://pubmed.ncbi.nlm.nih.gov/42364760/
+- [ ] [疑似误收] 待复核翻译：Patient-Reported Symptom Burden in Individuals With Parkinson Disease. (pmid-42361332)
+  - https://pubmed.ncbi.nlm.nih.gov/42361332/
+- [ ] Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of 肌萎缩侧索硬化症. (pmid-42407013)
+  - https://pubmed.ncbi.nlm.nih.gov/42407013/
+- [ ] Proteome-wide Mendelian randomization identifies causal plasma proteins in 额颞叶痴呆. (pmid-42498838)
+  - https://pubmed.ncbi.nlm.nih.gov/42498838/
+- [ ] Palliative Care Involvement in Hospitalized 肌萎缩侧索硬化症 Patients (epmc-PPR-PPR1284443)
+  - https://doi.org/10.20944/preprints202607.1796.v1
 - [ ] Fos regulates age-dependent 神经炎症 in a VAPP58S model of 肌萎缩侧索硬化症. (epmc-MED-42237814)
   - https://doi.org/10.1242/dmm.052810
 - [ ] Troponin T and 神经丝轻链 Levels as Complementary 生物标志物s of Disease Accumulation and Aggressiveness in 肌萎缩侧索硬化症. (epmc-MED-42494173)

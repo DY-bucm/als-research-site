@@ -1,6 +1,6 @@
 # ALS 每日简报
 
-更新时间：2026-07-24
+更新时间：2026-07-25
 
 1. **Association of Plasma 神经丝轻链 With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.**
    - 临床试验 / 观察性临床研究 / high
