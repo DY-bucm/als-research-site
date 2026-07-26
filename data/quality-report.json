@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-25T23:09:24.051Z",
+  "updatedAt": "2026-07-26T23:11:48.088Z",
   "summary": {
     "totalItems": 45,
-    "issueCount": 39
+    "issueCount": 46
   },
   "sources": [
     {
@@ -25,24 +25,35 @@
     {
       "id": "pmid-42362038",
       "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
-      "titleZh": "待复核翻译：Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
+      "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42362038/"
     },
     {
       "id": "pmid-42361332",
       "title": "Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
-      "titleZh": "待复核翻译：Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
+      "titleZh": "帕金森病患者报告的症状负担",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
+    },
+    {
+      "id": "epmc-MED-42498838",
+      "title": "Proteome-wide Mendelian randomization identifies causal plasma proteins in frontotemporal dementia.",
+      "titleZh": "全蛋白质组孟德尔随机化识别额颞叶痴呆中的因果血浆蛋白。",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09249-0"
     },
     {
       "id": "epmc-PPR-PPR1284370",
@@ -81,36 +92,58 @@
   "missingIdentifiers": [],
   "missingAbstract": [
     {
+      "id": "epmc-MED-42498838",
+      "title": "Proteome-wide Mendelian randomization identifies causal plasma proteins in frontotemporal dementia.",
+      "titleZh": "全蛋白质组孟德尔随机化识别额颞叶痴呆中的因果血浆蛋白。",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09249-0"
+    },
+    {
+      "id": "epmc-MED-42498658",
+      "title": "Home mechanical ventilation for amyotrophic lateral sclerosis-a national study of survival and treatment trends across 27 years.",
+      "titleZh": "肌萎缩侧索硬化症的家庭机械通气——一项覆盖27年的全国性生存率与治疗趋势研究",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://doi.org/10.1093/annalsats/aaoag219"
+    },
+    {
       "id": "epmc-PPR-PPR1284443",
       "title": "Palliative Care Involvement in Hospitalized Amyotrophic Lateral Sclerosis Patients",
-      "titleZh": "Palliative Care Involvement in Hospitalized 肌萎缩侧索硬化症 Patients",
+      "titleZh": "住院肌萎缩侧索硬化症患者的姑息治疗参与情况",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.20944/preprints202607.1796.v1"
     },
     {
       "id": "epmc-MED-42237814",
       "title": "Fos regulates age-dependent neuroinflammation in a VAPP58S model of amyotrophic lateral sclerosis.",
-      "titleZh": "Fos regulates age-dependent 神经炎症 in a VAPP58S model of 肌萎缩侧索硬化症.",
+      "titleZh": "Fos调控肌萎缩侧索硬化症VAPP58S模型中的年龄依赖性神经炎症",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.1242/dmm.052810"
     },
     {
       "id": "epmc-MED-42494173",
       "title": "Troponin T and Neurofilament Light Chain Levels as Complementary Biomarkers of Disease Accumulation and Aggressiveness in Amyotrophic Lateral Sclerosis.",
-      "titleZh": "Troponin T and 神经丝轻链 Levels as Complementary 生物标志物s of Disease Accumulation and Aggressiveness in 肌萎缩侧索硬化症.",
+      "titleZh": "肌钙蛋白T和神经丝轻链水平作为肌萎缩侧索硬化症疾病累积和侵袭性的互补生物标志物",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.1002/acn3.70499"
     },
     {
@@ -222,35 +255,57 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.1007/s10654-026-01430-1"
-    },
-    {
-      "id": "epmc-MED-42484509",
-      "title": "An investigation of factors associated with speech intelligibility in patients with amyotrophic lateral sclerosis: Integrating acoustic and lingual motor measures.",
-      "titleZh": "An investigation of factors associated with speech intelligibility in patients with 肌萎缩侧索硬化症: Integrating acoustic and lingual motor measures.",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/02699206.2026.2704600"
-    },
-    {
-      "id": "epmc-MED-42484074",
-      "title": "SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report.",
-      "titleZh": "待复核翻译：SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report.",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1080/21678421.2026.2705142"
     }
   ],
   "highPriorityNeedsReview": [
     {
+      "id": "pmid-42374626",
+      "title": "Microbiome and metabolites impact enteric and central nervous systems in ALS.",
+      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374626/"
+    },
+    {
+      "id": "pmid-42362038",
+      "title": "Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy.",
+      "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362038/"
+    },
+    {
+      "id": "pmid-42462180",
+      "title": "Multiplex Panel Detects Glial and Inflammatory Biomarker Signatures in Sporadic and C9orf72-ALS.",
+      "titleZh": "多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462180/"
+    },
+    {
+      "id": "pmid-42395866",
+      "title": "The role of SUMOylation in regulating proteins that drive neuronal disease progression.",
+      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
+    },
+    {
       "id": "pmid-42441926",
       "title": "Association of Plasma Neurofilament Light Chain With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.",
-      "titleZh": "Association of Plasma 神经丝轻链 With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.",
+      "titleZh": "血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 6,
@@ -261,13 +316,46 @@
     {
       "id": "pmid-42398690",
       "title": "Mutant superoxide dismutase 1-catalyzed hydrogen therapy for amyotrophic lateral sclerosis achieved by intercepting oxidative stress-neuroinflammation crosstalk.",
-      "titleZh": "Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk.",
+      "titleZh": "突变超氧化物歧化酶1催化的氢疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42398690/"
+    },
+    {
+      "id": "pmid-42407013",
+      "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
+      "titleZh": "上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407013/"
+    },
+    {
+      "id": "epmc-MED-42498658",
+      "title": "Home mechanical ventilation for amyotrophic lateral sclerosis-a national study of survival and treatment trends across 27 years.",
+      "titleZh": "肌萎缩侧索硬化症的家庭机械通气——一项覆盖27年的全国性生存率与治疗趋势研究",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://doi.org/10.1093/annalsats/aaoag219"
+    },
+    {
+      "id": "epmc-MED-42494173",
+      "title": "Troponin T and Neurofilament Light Chain Levels as Complementary Biomarkers of Disease Accumulation and Aggressiveness in Amyotrophic Lateral Sclerosis.",
+      "titleZh": "肌钙蛋白T和神经丝轻链水平作为肌萎缩侧索硬化症疾病累积和侵袭性的互补生物标志物",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.1002/acn3.70499"
     },
     {
       "id": "epmc-PPR-PPR1284259",
@@ -279,17 +367,6 @@
       "relevanceFlag": "medium",
       "priority": "high",
       "url": "https://doi.org/10.64898/2026.07.21.739729"
-    },
-    {
-      "id": "epmc-MED-42484074",
-      "title": "SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report.",
-      "titleZh": "待复核翻译：SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report.",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://doi.org/10.1080/21678421.2026.2705142"
     },
     {
       "id": "trial-NCT03912987",
@@ -459,18 +536,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 5,
+    "疑似误收": 6,
     "缺标识符": 0,
     "缺摘要": 15,
-    "高优先级待复核": 19,
+    "高优先级待复核": 25,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 45
   },
   "relevanceCounts": {
-    "high": 27,
-    "low": 5,
-    "medium": 13
+    "high": 28,
+    "low": 6,
+    "medium": 11
   }
 }

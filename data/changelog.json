@@ -1,27 +1,36 @@
 {
-  "updatedAt": "2026-07-25T23:09:24.103Z",
-  "previousSnapshot": "data/archive/2026-07-24.json",
+  "updatedAt": "2026-07-26T23:11:48.143Z",
+  "previousSnapshot": "data/archive/2026-07-25.json",
   "current": "data/items.json",
   "summary": {
-    "added": 4,
+    "added": 3,
     "removed": 3,
-    "changed": 0
+    "changed": 11
   },
   "added": [
     {
-      "id": "pmid-42361332",
-      "titleZh": "待复核翻译：Patient-Reported Symptom Burden in Individuals With Parkinson Disease.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
+      "id": "pmid-42501325",
+      "titleZh": "局灶性癫痫扩展了FUS相关肌萎缩侧索硬化症的表型",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501325/"
     },
     {
-      "id": "pmid-42407013",
-      "titleZh": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42407013/"
+      "id": "epmc-MED-42498838",
+      "titleZh": "全蛋白质组孟德尔随机化识别额颞叶痴呆中的因果血浆蛋白。",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09249-0"
     },
+    {
+      "id": "epmc-MED-42498658",
+      "titleZh": "肌萎缩侧索硬化症的家庭机械通气——一项覆盖27年的全国性生存率与治疗趋势研究",
+      "category": "治疗",
+      "priority": "high",
+      "url": "https://doi.org/10.1093/annalsats/aaoag219"
+    }
+  ],
+  "removed": [
     {
       "id": "pmid-42498838",
       "titleZh": "Proteome-wide Mendelian randomization identifies causal plasma proteins in 额颞叶痴呆.",
@@ -30,35 +39,141 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42498838/"
     },
     {
-      "id": "epmc-PPR-PPR1284443",
-      "titleZh": "Palliative Care Involvement in Hospitalized 肌萎缩侧索硬化症 Patients",
+      "id": "epmc-MED-42484509",
+      "titleZh": "An investigation of factors associated with speech intelligibility in patients with 肌萎缩侧索硬化症: Integrating acoustic and lingual motor measures.",
       "category": "机制",
       "priority": "low",
-      "url": "https://doi.org/10.20944/preprints202607.1796.v1"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42341897",
-      "titleZh": "待复核翻译：Programmed axon degeneration gene variants in human disease.",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42341897/"
+      "url": "https://doi.org/10.1080/02699206.2026.2704600"
     },
     {
-      "id": "pmid-42405014",
-      "titleZh": "Cholesterol in 肌萎缩侧索硬化症: a bystander, a 生物标志物, or a target?",
+      "id": "epmc-MED-42484074",
+      "titleZh": "待复核翻译：SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report.",
       "category": "治疗",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42405014/"
-    },
-    {
-      "id": "pmid-42367369",
-      "titleZh": "Preparing 肌萎缩侧索硬化症 Clinics to Provide Longitudinal Care for Individuals Carrying ALS Risk Variants.",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42367369/"
+      "priority": "high",
+      "url": "https://doi.org/10.1080/21678421.2026.2705142"
     }
   ],
-  "changed": []
+  "changed": [
+    {
+      "id": "pmid-42374626",
+      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42362038",
+      "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42462180",
+      "titleZh": "多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42395866",
+      "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42430680",
+      "titleZh": "神经病学杂志俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42468019",
+      "titleZh": "ALS患者肌肉骨骼疼痛的介入治疗：一项病例系列研究",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42361332",
+      "titleZh": "帕金森病患者报告的症状负担",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42407013",
+      "titleZh": "上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "high"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1284443",
+      "titleZh": "住院肌萎缩侧索硬化症患者的姑息治疗参与情况",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42237814",
+      "titleZh": "Fos调控肌萎缩侧索硬化症VAPP58S模型中的年龄依赖性神经炎症",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42494173",
+      "titleZh": "肌钙蛋白T和神经丝轻链水平作为肌萎缩侧索硬化症疾病累积和侵袭性的互补生物标志物",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        }
+      ]
+    }
+  ]
 }

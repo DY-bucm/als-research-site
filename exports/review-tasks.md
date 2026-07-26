@@ -1,40 +1,44 @@
 # 复核任务清单
 
-- [ ] 待复核翻译：Microbiome and metabolites impact enteric and central nervous systems in ALS. (pmid-42374626)
+- [ ] [高优先级] 微生物组和代谢物影响ALS中的肠道和中枢神经系统 (pmid-42374626)
   - https://pubmed.ncbi.nlm.nih.gov/42374626/
-- [ ] Sex-associated differences in routine inflammatory markers and neuromuscular ultrasound measurements in 肌萎缩侧索硬化症: a retrospective cross-sectional study. (pmid-42482658)
+- [ ] 肌萎缩侧索硬化症中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
   - https://pubmed.ncbi.nlm.nih.gov/42482658/
-- [ ] [疑似误收] 待复核翻译：Persistent deficits in the motor unit following mono and dual administration of SMN up-regulators in the SmnΔ7 mouse model of spinal muscular atrophy. (pmid-42362038)
+- [ ] [疑似误收] [高优先级] 脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷 (pmid-42362038)
   - https://pubmed.ncbi.nlm.nih.gov/42362038/
-- [ ] Multiplex Panel Detects Glial and Inflammatory 生物标志物 Signatures in Sporadic and C9orf72-ALS. (pmid-42462180)
+- [ ] [高优先级] 多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征 (pmid-42462180)
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
-- [ ] Are T1-weighted and T2-weighted volumetric pipelines interchangeable methodologies for investigating 肌萎缩侧索硬化症 pathology in vivo? (pmid-42413223)
+- [ ] T1加权与T2加权体积分析流程在肌萎缩侧索硬化症体内病理研究中的可互换性探讨 (pmid-42413223)
   - https://pubmed.ncbi.nlm.nih.gov/42413223/
-- [ ] 待复核翻译：The role of SUMOylation in regulating proteins that drive neuronal disease progression. (pmid-42395866)
+- [ ] [高优先级] SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用 (pmid-42395866)
   - https://pubmed.ncbi.nlm.nih.gov/42395866/
-- [ ] 待复核翻译：Deletion of exon 2 in ALS-linked Sptlc1 causes lethality in homozygous mice but not in heterozygotes. (pmid-42392979)
+- [ ] ALS相关Sptlc1基因外显子2缺失导致纯合子小鼠致死，但杂合子小鼠存活 (pmid-42392979)
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
-- [ ] [高优先级] Association of Plasma 神经丝轻链 With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study. (pmid-42441926)
+- [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究 (pmid-42441926)
   - https://pubmed.ncbi.nlm.nih.gov/42441926/
-- [ ] Neurology ® Journal Club: Duration of Current Statin Use and 肌萎缩侧索硬化症 Risk. (pmid-42430680)
+- [ ] 神经病学杂志俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
-- [ ] 待复核翻译：Interventional Procedures for Musculoskeletal Pain in ALS Patients: A Case Series. (pmid-42468019)
+- [ ] ALS患者肌肉骨骼疼痛的介入治疗：一项病例系列研究 (pmid-42468019)
   - https://pubmed.ncbi.nlm.nih.gov/42468019/
-- [ ] [高优先级] Mutant superoxide dismutase 1-catalyzed hydrogen therapy for 肌萎缩侧索硬化症 achieved by intercepting oxidative stress-神经炎症 crosstalk. (pmid-42398690)
+- [ ] [高优先级] 突变超氧化物歧化酶1催化的氢疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化症 (pmid-42398690)
   - https://pubmed.ncbi.nlm.nih.gov/42398690/
-- [ ] 待复核翻译：The impedance mismatch theory: A non-equilibrium thermodynamic framework for a shared energetic stress pathway in neurodegeneration. (pmid-42364760)
+- [ ] 阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架 (pmid-42364760)
   - https://pubmed.ncbi.nlm.nih.gov/42364760/
-- [ ] [疑似误收] 待复核翻译：Patient-Reported Symptom Burden in Individuals With Parkinson Disease. (pmid-42361332)
+- [ ] [疑似误收] 帕金森病患者报告的症状负担 (pmid-42361332)
   - https://pubmed.ncbi.nlm.nih.gov/42361332/
-- [ ] Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of 肌萎缩侧索硬化症. (pmid-42407013)
+- [ ] [高优先级] 上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用 (pmid-42407013)
   - https://pubmed.ncbi.nlm.nih.gov/42407013/
-- [ ] Proteome-wide Mendelian randomization identifies causal plasma proteins in 额颞叶痴呆. (pmid-42498838)
-  - https://pubmed.ncbi.nlm.nih.gov/42498838/
-- [ ] Palliative Care Involvement in Hospitalized 肌萎缩侧索硬化症 Patients (epmc-PPR-PPR1284443)
+- [ ] 局灶性癫痫扩展了FUS相关肌萎缩侧索硬化症的表型 (pmid-42501325)
+  - https://pubmed.ncbi.nlm.nih.gov/42501325/
+- [ ] [疑似误收] 全蛋白质组孟德尔随机化识别额颞叶痴呆中的因果血浆蛋白。 (epmc-MED-42498838)
+  - https://doi.org/10.1007/s10072-026-09249-0
+- [ ] [高优先级] 肌萎缩侧索硬化症的家庭机械通气——一项覆盖27年的全国性生存率与治疗趋势研究 (epmc-MED-42498658)
+  - https://doi.org/10.1093/annalsats/aaoag219
+- [ ] 住院肌萎缩侧索硬化症患者的姑息治疗参与情况 (epmc-PPR-PPR1284443)
   - https://doi.org/10.20944/preprints202607.1796.v1
-- [ ] Fos regulates age-dependent 神经炎症 in a VAPP58S model of 肌萎缩侧索硬化症. (epmc-MED-42237814)
+- [ ] Fos调控肌萎缩侧索硬化症VAPP58S模型中的年龄依赖性神经炎症 (epmc-MED-42237814)
   - https://doi.org/10.1242/dmm.052810
-- [ ] Troponin T and 神经丝轻链 Levels as Complementary 生物标志物s of Disease Accumulation and Aggressiveness in 肌萎缩侧索硬化症. (epmc-MED-42494173)
+- [ ] [高优先级] 肌钙蛋白T和神经丝轻链水平作为肌萎缩侧索硬化症疾病累积和侵袭性的互补生物标志物 (epmc-MED-42494173)
   - https://doi.org/10.1002/acn3.70499
 - [ ] Site-targeted proximal complement C3 inhibition, but not C5 blockade, attenuates neurodegeneration in a mouse model of 肌萎缩侧索硬化症: Implications for failed 临床试验s. (epmc-MED-42492371)
   - https://doi.org/10.1016/j.neurot.2026.e00969
@@ -56,10 +60,6 @@
   - https://doi.org/10.1038/s44318-026-00874-1
 - [ ] [疑似误收] 待复核翻译：EPIC4ND-European Prospective Investigation into Cancer and Nutrition follow-up for neurodegenerative diseases. (epmc-MED-42484778)
   - https://doi.org/10.1007/s10654-026-01430-1
-- [ ] An investigation of factors associated with speech intelligibility in patients with 肌萎缩侧索硬化症: Integrating acoustic and lingual motor measures. (epmc-MED-42484509)
-  - https://doi.org/10.1080/02699206.2026.2704600
-- [ ] [高优先级] 待复核翻译：SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report. (epmc-MED-42484074)
-  - https://doi.org/10.1080/21678421.2026.2705142
 - [ ] [高优先级] TRIAL READY (临床试验 Readiness) (trial-NCT03912987)
   - https://clinicaltrials.gov/study/NCT03912987
 - [ ] [高优先级] Controlling 肌萎缩侧索硬化症 Motor Neuron Excitability Study (trial-NCT06649955)
