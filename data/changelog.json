@@ -1,172 +1,272 @@
 {
-  "updatedAt": "2026-07-26T23:11:48.143Z",
-  "previousSnapshot": "data/archive/2026-07-25.json",
+  "updatedAt": "2026-07-27T23:20:47.689Z",
+  "previousSnapshot": "data/archive/2026-07-26.json",
   "current": "data/items.json",
   "summary": {
-    "added": 3,
-    "removed": 3,
-    "changed": 11
+    "added": 18,
+    "removed": 18,
+    "changed": 1
   },
   "added": [
     {
-      "id": "pmid-42501325",
-      "titleZh": "局灶性癫痫扩展了FUS相关肌萎缩侧索硬化症的表型",
+      "id": "pmid-42504602",
+      "titleZh": "不衰老的大脑：神经韧性如何掩盖神经退行性变",
       "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42501325/"
-    },
-    {
-      "id": "epmc-MED-42498838",
-      "titleZh": "全蛋白质组孟德尔随机化识别额颞叶痴呆中的因果血浆蛋白。",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s10072-026-09249-0"
-    },
-    {
-      "id": "epmc-MED-42498658",
-      "titleZh": "肌萎缩侧索硬化症的家庭机械通气——一项覆盖27年的全国性生存率与治疗趋势研究",
-      "category": "治疗",
       "priority": "high",
-      "url": "https://doi.org/10.1093/annalsats/aaoag219"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42504602/"
+    },
+    {
+      "id": "pmid-42503607",
+      "titleZh": "介绍Borsantrazole：一种三功能硼基吡唑，可延长肌萎缩侧索硬化症小鼠的寿命。",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42503607/"
+    },
+    {
+      "id": "pmid-42500961",
+      "titleZh": "肌萎缩侧索硬化症中心脏自主神经功能障碍与晚期、快速进展及不良生存相关",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42500961/"
+    },
+    {
+      "id": "trial-NCT06782724",
+      "titleZh": "待复核翻译：Psilocybin Therapy for Psychological Distress in Palliative Patients",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06782724"
+    },
+    {
+      "id": "trial-NCT06513546",
+      "titleZh": "待复核翻译：A Study to Evaluate the Safety, Efficacy, and Pharmacodynamics of PLL001 in ALS Patients",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06513546"
+    },
+    {
+      "id": "trial-NCT04302870",
+      "titleZh": "运动神经元病 - Systematic Multi-Arm Adaptive Randomised Trial",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04302870"
+    },
+    {
+      "id": "trial-NCT07413718",
+      "titleZh": "待复核翻译：Inspiratory Muscle Training in Amiotrophyc Lateral Sclerosis",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07413718"
+    },
+    {
+      "id": "trial-NCT04953286",
+      "titleZh": "待复核翻译：Ocular Surface Metabolo-lipidomics in Lateral Amyotrophic Sclerosis",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04953286"
+    },
+    {
+      "id": "trial-NCT05979688",
+      "titleZh": "Yogic Breathing Exercise for People With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05979688"
+    },
+    {
+      "id": "trial-NCT04031469",
+      "titleZh": "待复核翻译：A Non-Interventional Pilot Study to Explore the Role of Gut Flora in Disease",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04031469"
+    },
+    {
+      "id": "trial-NCT06607900",
+      "titleZh": "待复核翻译：hUC-MSC-sEV-001 Nasal Drops for Neurodegenerative Diseases",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06607900"
+    },
+    {
+      "id": "trial-NCT04579666",
+      "titleZh": "MERIDIAN: A Study to Evaluate the Efficacy and Safety of Pegcetacoplan in Adults With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04579666"
+    },
+    {
+      "id": "trial-NCT00874783",
+      "titleZh": "待复核翻译：Development of IPS from Donated Somatic Cells of Patients with Neurological Diseases",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00874783"
+    },
+    {
+      "id": "trial-NCT06418646",
+      "titleZh": "待复核翻译：Patients' and Caregivers' Views of Multidimensional Care in Amyotropic Lateral Sclerosis in Germany",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06418646"
+    },
+    {
+      "id": "trial-NCT04950231",
+      "titleZh": "待复核翻译：Investigation on Home Care Needs of ALS Patients and Their Caregivers",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04950231"
+    },
+    {
+      "id": "trial-NCT00537446",
+      "titleZh": "Effect of Noninvasive Ventilation on Lung Function in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00537446"
+    },
+    {
+      "id": "trial-NCT02414230",
+      "titleZh": "F 18 T807 Tau PET Imaging in Familial 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02414230"
+    },
+    {
+      "id": "trial-NCT01786603",
+      "titleZh": "Rasagiline in Subjects With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01786603"
     }
   ],
   "removed": [
     {
-      "id": "pmid-42498838",
-      "titleZh": "Proteome-wide Mendelian randomization identifies causal plasma proteins in 额颞叶痴呆.",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498838/"
-    },
-    {
-      "id": "epmc-MED-42484509",
-      "titleZh": "An investigation of factors associated with speech intelligibility in patients with 肌萎缩侧索硬化症: Integrating acoustic and lingual motor measures.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/02699206.2026.2704600"
-    },
-    {
-      "id": "epmc-MED-42484074",
-      "titleZh": "待复核翻译：SOD1-lowering therapy for patients with wildtype &lt;i&gt;SOD1&lt;/i&gt;-ALS: a case report.",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://doi.org/10.1080/21678421.2026.2705142"
-    }
-  ],
-  "changed": [
-    {
-      "id": "pmid-42374626",
-      "titleZh": "微生物组和代谢物影响ALS中的肠道和中枢神经系统",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "high"
-        }
-      ]
-    },
-    {
       "id": "pmid-42362038",
       "titleZh": "脊髓性肌萎缩症SmnΔ7小鼠模型中单次和联合使用SMN上调剂后运动单位的持续性缺陷",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "high"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42462180",
-      "titleZh": "多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "high"
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362038/"
     },
     {
       "id": "pmid-42395866",
       "titleZh": "SUMO化修饰在调控驱动神经元疾病进展的蛋白质中的作用",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "high"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42430680",
-      "titleZh": "神经病学杂志俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "low",
-          "after": "medium"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42468019",
-      "titleZh": "ALS患者肌肉骨骼疼痛的介入治疗：一项病例系列研究",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "low",
-          "after": "medium"
-        }
-      ]
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395866/"
     },
     {
       "id": "pmid-42361332",
       "titleZh": "帕金森病患者报告的症状负担",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "low",
-          "after": "medium"
-        }
-      ]
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42361332/"
     },
     {
-      "id": "pmid-42407013",
-      "titleZh": "上运动神经元在肌萎缩侧索硬化早期阶段肌束震颤产生中的作用",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "low",
-          "after": "high"
-        }
-      ]
+      "id": "trial-NCT03912987",
+      "titleZh": "TRIAL READY (临床试验 Readiness)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03912987"
     },
     {
-      "id": "epmc-PPR-PPR1284443",
-      "titleZh": "住院肌萎缩侧索硬化症患者的姑息治疗参与情况",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "low",
-          "after": "medium"
-        }
-      ]
+      "id": "trial-NCT06649955",
+      "titleZh": "Controlling 肌萎缩侧索硬化症 Motor Neuron Excitability Study",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06649955"
     },
     {
-      "id": "epmc-MED-42237814",
-      "titleZh": "Fos调控肌萎缩侧索硬化症VAPP58S模型中的年龄依赖性神经炎症",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "low",
-          "after": "medium"
-        }
-      ]
+      "id": "trial-NCT03705390",
+      "titleZh": "A Safety and Tolerability Study of ILB® in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03705390"
     },
     {
-      "id": "epmc-MED-42494173",
-      "titleZh": "肌钙蛋白T和神经丝轻链水平作为肌萎缩侧索硬化症疾病累积和侵袭性的互补生物标志物",
+      "id": "trial-NCT05903690",
+      "titleZh": "Safety and Tolerance of RAG-17 in 肌萎缩侧索硬化症 Patients With SOD1 Gene Mutation",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05903690"
+    },
+    {
+      "id": "trial-NCT06266403",
+      "titleZh": "待复核翻译：Evaluating Verbal Communication in Structured Interactions: Theoretical and Clinical Implications",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06266403"
+    },
+    {
+      "id": "trial-NCT01277315",
+      "titleZh": "Safety and Tolerability of Anakinra in Combination With Riluzol in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01277315"
+    },
+    {
+      "id": "trial-NCT00444613",
+      "titleZh": "A Study in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00444613"
+    },
+    {
+      "id": "trial-NCT03217396",
+      "titleZh": "生物标志物s of Synaptic Damage in Multiple Sclerosis",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03217396"
+    },
+    {
+      "id": "trial-NCT03377309",
+      "titleZh": "Safety and Tolerability of Perampanel in 肌萎缩侧索硬化症 Patients",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03377309"
+    },
+    {
+      "id": "trial-NCT01746381",
+      "titleZh": "Non-invasive Ventilation in 肌萎缩侧索硬化症 (ALS) Using the iVAPS Mode",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01746381"
+    },
+    {
+      "id": "trial-NCT03076632",
+      "titleZh": "待复核翻译：Interactions Between Neurostimulation and Physical Exercise",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03076632"
+    },
+    {
+      "id": "trial-NCT01955369",
+      "titleZh": "肌萎缩侧索硬化症 Registry Rhineland-Palatinate",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01955369"
+    },
+    {
+      "id": "trial-NCT00982150",
+      "titleZh": "Extension Study of Talampanel for 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00982150"
+    },
+    {
+      "id": "trial-NCT00324454",
+      "titleZh": "Levetiracetam for Cramps, Spasticity and Neuroprotection in 运动神经元病",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00324454"
+    },
+    {
+      "id": "trial-NCT00125203",
+      "titleZh": "Study of Myobloc in the Treatment of Sialorrhea (Drooling) in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00125203"
+    }
+  ],
+  "changed": [
+    {
+      "id": "pmid-42364760",
+      "titleZh": "阻抗失配理论：神经退行性疾病中共享能量应激通路的非平衡热力学框架",
       "changes": [
         {
           "field": "priority",

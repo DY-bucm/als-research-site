@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-07-26T23:09:48.593Z",
+  "updatedAt": "2026-07-27T23:18:33.223Z",
   "period": {
     "days": 10,
-    "from": "2026-07-17",
-    "to": "2026-07-26"
+    "from": "2026-07-18",
+    "to": "2026-07-27"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 33,
+  "count": 28,
   "articles": [
+    {
+      "id": "pmid-42504602",
+      "pmid": "42504602",
+      "doi": "10.1080/21678421.2026.2705693",
+      "title": "The aging brain that doesn't fail: how neural resilience masks neurodegeneration.",
+      "abstract": "Neurodegenerative diseases such as amyotrophic lateral sclerosis, Alzheimer's disease, and Parkinson's disease are usually framed as consequences of aging-related pathogenic processes, including impaired proteostasis with protein aggregation, mitochondrial dysfunction, oxidative stress, and neuroinflammation. Yet, most individuals, even into advanced age, do not develop clinically significant neurodegenerative disease. This discrepancy suggests that the nervous system possesses robust and redundant protective mechanisms that maintain neural integrity despite cumulative molecular and cellular stress. In this perspective, we propose that neurodegenerative diseases arise not simply from the presence of pathogenic processes, but when integrated resilience systems fail to maintain homeostasis or when reserve mechanisms no longer compensate for accumulated pathology. We have synthesized a threshold-based model of disease emergence based on evidence across proteostasis, mitochondrial function, neuroimmune regulation, glial biology, network-level compensation, and barrier integrity, while integrating genetic, environmental, developmental, and stochastic modifiers. We distinguish biological resilience, which actively limits or repairs pathology, from reserve, which permits function despite pathology. We further propose that clinical disease emerges only when age-related cumulative stress exceeds the combined capacity of resilience and reserve. Reframing neurodegeneration as a failure of preservation systems offers new directions for prevention and therapeutic development.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Eisen A",
+        "Durham HD",
+        "Pioro E"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42504602/"
+    },
+    {
+      "id": "pmid-42503607",
+      "pmid": "42503607",
+      "doi": "10.1002/advs.76432",
+      "title": "Introducing Borsantrazole: A Trifunctional Boron-Based Pyrazole That Extends the Lifespan of Amyotrophic Lateral Sclerosis Mice.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is considered a highly complex, heterogeneous, fatal disease with a high unmet medical need that affects multiple pathophysiological pathways and has no known singular cause. Oxidative stress, however, is implicated as a central player in the progression of ALS and other neurodegenerative diseases. To date, only two FDA-approved drugs, Edaravone, an antioxidant, and Riluzole, an antiglutamatergic, have been widely used clinically, albeit with modest effects on the clinical course of ALS disease progression. Additionally, preclinical studies of both drugs in ALS mouse models have not shown any significant survival benefit, although some abatement in disease progression is observed and translated from preclinical animal models to clinical human studies. Using a trifunctional boron-based drug design strategy, we have synthesized a pyrazole small molecule called Borsantrazole (BSZ) and evaluated BSZ in cell-based experiments, acute and chronic toxicity models, and the SOD1-G37R ALS mouse model. We have also evaluated untargeted global proteomic and phosphoproteomic changes induced by BSZ. Borsantrazole (a small molecule that can selectively target oxidative stress) with favorable CNS drug like properties (low ER values of 0.9 and 1.0 at 1 and 10 µm, respectively, suggesting lower Pgp efflux liability and the LogD at pH 7.4 was within the range of 1.2 to 3.1, suggesting BSZ is lipophilic at pH 7.4.) shows no signs of treatment associated toxicity (acute or chronic (120 days)), significantly increases survival (whole animals, 15.1 days (p = 0.0326); males, 16.5 days; females, 13.7 days), rescued weight loss (27.1% control, 18.3% BSZ, p < 0.0001), delays symptom onset (whole animals, 24.9 days (p = 0.0011); males, 23.3 days; females, 26.4 days), delays disease onset (whole animals, 25.5 days (p = 0.0001); males, 21.1 days; females, 29.8 days) and affects global proteomic changes in the SOD1-G37R mouse model of ALS. In total, 51 proteins were found to be significantly differentially expressed (p < 0.05), including Ca3, Gan, Cplx2, Lrp4, Sqstm1, and 29 phosphorylation sites were differentially expressed and considered statistically significant, including T317 and T72 for neurofilaments light and heavy chain, respectively. Herein, we report that BSZ has demonstrated a favorable safety profile and compelling proof-of-concept efficacy in a ALS mouse model and has the potential to become a disease-modifying ALS therapeutic following further clinical development. Within a broader perspective of treatments for neurodegenerative diseases, BSZ offers a new paradigm for trifunctional small molecule targeting of oxidative stress that can mitigate neuronal deterioration and serve as a potential treatment.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Sanghai N",
+        "Kelley R",
+        "Lao Y",
+        "Madlangsakay MIR",
+        "Paul P",
+        "Llanes-Cuesta MA",
+        "Wang JF",
+        "Zahedi RP",
+        "Kong J",
+        "Tranmer GK"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42503607/"
+    },
     {
       "id": "pmid-42500961",
       "pmid": "42500961",
@@ -472,6 +516,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42479906/"
     },
     {
+      "id": "pmid-42506061",
+      "pmid": "42506061",
+      "doi": "10.3390/neurolint18070139",
+      "title": "Protein-First, but Not Protein-Only: Rethinking Neurodegenerative Diseases Through Transgenic Mouse Models.",
+      "abstract": "Neurodegenerative diseases represent a major and growing global health burden. Although these disorders are often clinically defined by symptoms and affected brain regions, many are mechanistically linked to abnormal protein accumulation, misfolding, impaired proteostasis, RNA dysregulation, mitochondrial dysfunction, and neuroinflammation. In this Perspective article, I discuss major neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, dementia with Lewy bodies, multiple system atrophy, amyotrophic lateral sclerosis, frontotemporal dementia, Huntington's disease, prion diseases, spinocerebellar ataxias, and spinal muscular atrophy, through the lens of disease-associated proteins and experimental modeling. I argue that a protein-centered framework provides a useful approach for understanding disease mechanisms and selecting transgenic mouse models, while recognizing that aging, cellular context, neuroinflammation, mitochondrial dysfunction, vascular dysfunction, and other disease modifiers also shape neurodegeneration. Transgenic and genetically engineered mouse models have been essential for dissecting the pathogenic roles of amyloid-β, tau, α-synuclein, TDP-43, SOD1, FUS, C9ORF72 -associated dipeptide repeat proteins, mutant huntingtin, prion protein, ataxins, and SMN deficiency. However, these models have important limitations, including artificial overexpression, familial mutation bias, species differences, and incomplete representation of aging-related sporadic diseases. Rather than seeking a single \"best\" model, a more productive strategy is to adopt model portfolios tailored to specific biological questions and to integrate mouse studies with human cellular models, postmortem tissue, omics approaches, and biomarker-based validation. Such an approach may improve mechanistic insight, strengthen translational relevance, and enhance the predictive value of preclinical neurodegenerative disease research.",
+      "journal": "Neurology international",
+      "authors": [
+        "Zeng CW"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42506061/"
+    },
+    {
       "id": "pmid-42481428",
       "pmid": "42481428",
       "doi": "10.1002/mus.70354",
@@ -634,185 +694,6 @@
       ],
       "publishedAt": "2026-07-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42471032/"
-    },
-    {
-      "id": "pmid-42469515",
-      "pmid": "42469515",
-      "doi": "10.1007/s00415-026-14006-6",
-      "title": "Beyond ALS: split-hand syndrome in immune-mediated motor neuropathies.",
-      "abstract": "Split-hand syndrome describes selective wasting and weakness of the abductor pollicis brevis (APB) or first dorsal interosseous (FDI) muscles with relative preservation of the abductor digiti minimi (ADM). Beyond clinical definition, two neurophysiological ratios and one index have been proposed to quantify this pattern. It is considered a potential diagnostic criterion for amyotrophic lateral sclerosis (ALS). Its occurrence in immune-mediated neuropathies, as differential diagnoses, remains unclear. We aimed to investigate clinical and electrophysiological manifestations of split-hand syndrome in multifocal motor neuropathy (MMN) and multifocal acquired demyelinating sensory and motor neuropathy (MADSAM) compared to ALS. We prospectively examined 26 MMN, 16 MADSAM, and 22 ALS patients. All underwent neurological examination and neurophysiological measurements of compound muscle action potentials (CMAP) from the APB, FDI, and ADM bilaterally after median (APB) and ulnar nerve (FDI, ADM) stimulation. Split-hand ratios (APB/ADM; FDI/ADM) and split-hand index (SI) were calculated. Clinical split-hand syndrome was present in 16/26 (62%) MMN, 7/16 (44%) MADSAM, and 12/22 (54%) ALS patients. Electrophysiological criteria (abnormal split-hand ratios or SI; ≥ 1 parameter fulfilled) were similarly frequent across groups (MMN 17/26, 65%, MADSAM 11/16, 69%, and ALS 16/22, 73%). CMAP ratios and SI did not differ between groups in the overall analysis and showed no correlation with disease duration or severity. Diagnostic models showed limited discriminatory power (area under the curve ≤ 0.61). Split-hand syndrome occurs in MMN, MADSAM, and ALS at comparable frequencies and lacks robust or consistent diagnostic discrimination across disease groups.",
-      "journal": "Journal of neurology",
-      "authors": [
-        "Kreß L",
-        "Abuzant M",
-        "Zeller D",
-        "Sommer C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42469515/"
-    },
-    {
-      "id": "pmid-42468901",
-      "pmid": "42468901",
-      "doi": "10.1016/j.biopsych.2026.07.008",
-      "title": "Focused ultrasound blood brain barrier opening for targeted therapeutics in neurodegenerative diseases.",
-      "abstract": "Therapeutic focused ultrasound (FUS) leverages the non-invasive ultrasonic waves to modify the biological tissue. When administered alongside intravenous microbubbles, low-intensity FUS enables transient, targeted disruption of the blood-brain barrier (BBB), permitting passage of systemically administered therapeutics into the central nervous system (CNS) with high spatial precision. The ability to selectively modulate BBB permeability at the disease site has the potential to substantially expand the number of therapeutics that can be utilized in treating illnesses afflicting the CNS. Herein, we review the current applications of FUS for treating neurodegenerative disorders and diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic lateral sclerosis (ALS). We discuss the research developments to date and future directions.",
-      "journal": "Biological psychiatry",
-      "authors": [
-        "Halabian N",
-        "Park C",
-        "Omoto L",
-        "Bocca LF",
-        "Palacios G",
-        "Wu K",
-        "Hamani C",
-        "Rabin J",
-        "Abrahao A",
-        "Davidson B",
-        "Lipsman N",
-        "Meng Y"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468901/"
-    },
-    {
-      "id": "pmid-42468211",
-      "pmid": "42468211",
-      "doi": "10.1016/j.biopha.2026.119761",
-      "title": "FUS-driven zebrafish model of ALS identifies tribenzylamine as a candidate modulator of ALS-associated pathology.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron loss and declining motor function; however, effective therapies remain limited. To support unbiased therapeutic discovery, we aimed to develop a high-throughput phenotypic screening platform based on a transgenic zebrafish model expressing the human ALS-associated FUS-R521C mutant (mtFUS). This model was generated using a modified QF-based binary expression system and exhibited early-onset pathological features, including elevated oxidative stress, progressive neuronal degeneration, and impaired locomotor activity, thereby recapitulating the key aspects of FUS-associated ALS. Transcriptomic profiling revealed molecular signatures resembling those reported in patient-derived motor neurons, including dysregulated neuroactive ligand-receptor signaling, immune activation, and stress-response pathway alterations. Using this platform, we identified tribenzylamine (TBA) as a candidate compound that improves locomotor performance and significantly reduces reactive oxygen species levels. Integrated transcriptomic and biochemical analyses suggested that TBA induces coordinated molecular changes, including normalization of neuronal activity-related gene expression, modulation of immune and metabolic pathways, and restoration of hormone-related signaling. TBA reversed FUS-induced reductions in key neuronally active sex steroids, including estrogen and progesterone, and increased estrogen-responsive gene expression, suggesting a partial recovery of neuronally active sex steroid homeostasis. These findings support the mtFUS zebrafish model as a useful platform for ALS drug discovery and identify TBA as a candidate modulator of ALS-associated phenotypes, with effects linked to transcriptomic remodeling and neuronally active sex steroid signaling.",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "authors": [
-        "Seo Y",
-        "Lee J",
-        "Lee Y",
-        "Kim S",
-        "Lee JS",
-        "Ro H",
-        "Cho SH",
-        "Park JS",
-        "Kim MJ",
-        "Park HC"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468211/"
-    },
-    {
-      "id": "pmid-42470084",
-      "pmid": "42470084",
-      "doi": "10.1002/mus.70348",
-      "title": "Impact of Sexuality in Patients With Motor Neuron Disease.",
-      "abstract": "Sexuality is a relevant yet understudied aspect in people living with motor neuron disease (MND). This study aimed to assess whether sexuality in people with MND is influenced by motor, cognitive, behavioral, or mood disturbances, and to explore whether being sexually active impacts caregiver burden. We conducted a cross-sectional observational study involving participants with MND and their primary caregivers from three ALS multidisciplinary units in Seville, Spain. Data were collected between October 2018 and July 2021. Functional, cognitive, behavioral, and mood assessments were conducted. Sexuality was evaluated through sex-specific questionnaires. Caregiver burden was assessed using the Zarit Burden Interview. Among 66 participants who completed the sexuality assessment, 42.9% reported sexual activity in the previous month. Of these, 70% had no sexual dysfunction, while 26.7% had moderate and 3.3% severe dysfunction. No correlation was found between sexual activity and motor function. Sexual activity was less frequent in participants with apathy (p = 0.026), depression (p = 0.021), and frontotemporal dementia (p = 0.013). Among sexually active patients, those with cognitive impairment-particularly memory dysfunction-had higher rates of orgasm difficulties (p = 0.019). No other clinical parameters were related to sexuality. Sexuality of participants with MND did not influence caregiver burden. Sexuality in MND is more associated with cognitive and mood factors than with motor disability. Addressing sexuality in clinical practice may contribute to improving quality of life and should be integrated into the multidisciplinary care of MND patients.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Morgado Linares RY",
-        "Rojas-Marcos Í",
-        "Mesa M",
-        "Martínez E",
-        "Cabrera-Serrano M",
-        "Paradas C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42470084/"
-    },
-    {
-      "id": "pmid-42468019",
-      "pmid": "42468019",
-      "doi": "10.1097/PHM.0000000000002964",
-      "title": "Interventional Procedures for Musculoskeletal Pain in ALS Patients: A Case Series.",
-      "abstract": "Many patients with amyotrophic lateral sclerosis (ALS) experience musculoskeletal pain, yet data on the safety and efficacy of interventional procedures for pain relief in this population are limited. This study aims to describe the characteristics, outcomes, and procedural considerations of pain interventions performed for musculoskeletal pain in ALS patients. A retrospective chart review was conducted of ALS patients referred for interventional pain management by a neuromuscular physiatrist at a single academic institution's interdisciplinary ALS Center between February 2021 and February 2025. Eleven patients (mean age: 57 y, 64% male) underwent 14 procedures. Shoulder pain was the most common indication (43%), followed by spine (29%) and hip (14%) pain. Procedures mostly consisted of joint and bursal injections peripherally and of epidural injections in the axial spine. Overall, 13 of 14 (93%) procedures provided at least \"good\" pain relief, and 5 patients elected to repeat their procedures. One patient experienced transient postprocedure hypertension; no major complications occurred. Interventional procedures, particularly corticosteroid injections, appear to be safe and effective for managing focal musculoskeletal pain in patients with ALS. Tailored procedural techniques and multidisciplinary coordination can enhance comfort and optimize outcomes in this complex population.",
-      "journal": "American journal of physical medicine & rehabilitation",
-      "authors": [
-        "Gou CY",
-        "Smith SE"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468019/"
-    },
-    {
-      "id": "pmid-42467293",
-      "pmid": "42467293",
-      "doi": "10.1007/s10787-026-02333-z",
-      "title": "Resveratrol and neuroprotection: modulation of cellular dynamics and signaling networks in neurodegenerative diseases.",
-      "abstract": "Progressive loss of neurons, oxidative stress, neuroinflammation, and mitochondrial dysfunction are hallmarks of neurodegenerative diseases (NDs), such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and amyotrophic lateral sclerosis (ALS). Resveratrol, a polyphenolic phytoalexin mainly found in grapes and red wine, is a promising treatment candidate due to its diverse biological effects and neuroprotective properties. This review demonstrates the regulatory effects of resveratrol on cellular signaling pathways linked to NDs and its neuroprotective mechanisms. Resveratrol enhances neuronal survival, boosts mitochondrial biogenesis, and mitigates oxidative stress by affecting key molecular pathways, including SIRT1/AMPK, PI3K/Akt, MAPK, and Nrf2/ARE. The PI3K/Akt and ERK1/2 pathways promote neuronal regeneration by modulating pro-apoptotic and anti-apoptotic factors. Resveratrol inhibits NF-κB, reducing cytokine release and microglial activation, thereby exhibiting anti-inflammatory properties. It improves cognitive function, synaptic plasticity, and neuronal survival. Despite an increasing pharmacological profile, its practical applicability is limited by inadequate bioavailability, rapid metabolism, and restricted brain penetration. This review demonstrates resveratrol's effect on interconnected signaling networks related to neurodegeneration. We critically compare evidence from preclinical and clinical studies, demonstrating both therapeutic potential and translational limitations. Emerging nanotechnology-based delivery strategies are demonstrated to overcome bioavailability and blood-brain barrier penetration challenges. These insights provide a translational perspective for the future development of resveratrol-based interventions in NDs.",
-      "journal": "Inflammopharmacology",
-      "authors": [
-        "Hassan MA",
-        "Al Amin M",
-        "Sweilam SH",
-        "Abohassan M",
-        "Krishnan K",
-        "Gupta JK",
-        "Jahnavi P",
-        "Vodeti R",
-        "Radha R",
-        "Gupta PS",
-        "Reddy KTK"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42467293/"
-    },
-    {
-      "id": "pmid-42469634",
-      "pmid": "42469634",
-      "doi": "10.1186/s10020-026-01572-8",
-      "title": "Secretory leukocyte protease inhibitor (SLPI) attenuates TLR4/NF-κB-mediated neuroinflammation in amyotrophic lateral sclerosis: a candidate molecule associated with neuro-pathology.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurodegenerative disorder driven by neuroinflammation involving activated microglia and astrocytes, which accelerates the loss of motor neurons. While Secretory leukocyte protease inhibitor (SLPI) is known for its immunomodulatory properties, its specific role in ALS pathogenesis has not been fully established. This study aimed to characterize the expression patterns and functional significance of SLPI in ALS models. The study utilized SOD1 G93A mice to analyze the spatiotemporal dynamics of SLPI expression in the gastrocnemius muscle, lumbar spinal cord, and serum across different disease stages. In vitro functional assays were conducted using siRNA-mediated knockdown of SLPI in BV2 (microglia), MA (astrocytes), and NSC-34 (motor neurons) cell lines. Additionally, recombinant SLPI protein was applied to LPS-stimulated BV2 cells to investigate its effect on the TLR4/ NF-κB signaling pathway. In SOD1 G93A mice, SLPI was significantly upregulated in the gastrocnemius muscle from the pre-symptomatic stage (60 days) through the late stage (130 days). In the lumbar spinal cord, SLPI showed a transient initial increase but declined sharply by the end-stage; a similar significant reduction was observed in late-stage serum levels. In vitro, SLPI knockdown exacerbated pro-inflammatory cytokine production in all three cell types and impaired the antioxidant capacity of NSC-34 motor neurons. Mechanistically, recombinant SLPI attenuated inflammation in BV2 cells by modulating the TLR4/NF-κB pathway. The dynamic changes in SLPI levels suggest its potential relevance as a candidate molecule for disease staging. Meanwhile, its protective effects in regulating inflammation suggest that it could be a promising therapeutic candidate for mitigating ALS-associated neuroinflammation.",
-      "journal": "Molecular medicine (Cambridge, Mass.)",
-      "authors": [
-        "Li MA",
-        "Song YZ",
-        "Li T",
-        "Wu J",
-        "Tao Y",
-        "Hu R",
-        "Qiao CM",
-        "Cui C",
-        "Zhao WJ",
-        "Shen YQ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42469634/"
-    },
-    {
-      "id": "pmid-42464213",
-      "pmid": "42464213",
-      "doi": "10.1186/s12883-026-05142-7",
-      "title": "SYNE1-Related motor neuron disease-like phenotype with mild distal contractures and 24-month clinical stability: a case report.",
-      "abstract": "SYNE1 encodes nesprin-1, a nuclear envelope protein involved in cytoskeletal linkage, nuclear positioning, and neuromuscular integrity. Biallelic SYNE1 variants cause a broad spectrum ranging from cerebellar ataxia to arthrogryposis multiplex congenita and motor neuron disease-like phenotypes. Distinguishing these entities can be difficult when subtle distal contractures coexist with neurogenic electrophysiological findings. A 22-year-old woman born to consanguineous parents presented with bilateral intrinsic hand muscle wasting, impaired fine motor performance, and mild gait difficulty. Examination showed distal hand atrophy, mild weakness of the abductor pollicis brevis and first dorsal interosseous muscles, brisk deep tendon reflexes, preserved sensation, and mild distal finger contractures. Sensory nerve conduction studies were normal. Motor studies showed reduced compound muscle action potential amplitude in the right abductor pollicis brevis and borderline-low amplitude on the left. Needle electromyography showed widespread chronic neurogenic motor unit changes affecting the upper and lower extremities, with active denervation most evident in the bilateral abductor pollicis brevis muscles. Genioglossus examination was normal. SMN1 deletion testing and selected familial amyotrophic lateral sclerosis gene testing were negative. Whole exome sequencing identified a homozygous truncating SYNE1 variant, NM_182961.4:c.21009G > A; p.(Trp7003Ter). Segregation analysis confirmed heterozygous carrier status in both parents and two unaffected siblings. At 24-month follow-up, weakness, atrophy, contractures, reflex pattern, and functional status remained clinically stable, without bulbar, cerebellar, sensory, or clinically evident respiratory involvement. This case supports classification as a SYNE1-related motor neuron disease-like phenotype with mild distal contractures rather than an isolated arthrogryposis multiplex congenita type 3 (AMC3) phenotype. The case also supports including SYNE1 in genetic testing panels for young patients with unexplained motor neuron disease-like presentations, particularly when consanguinity, normal sensory conduction, and subtle distal contractures coexist.",
-      "journal": "BMC neurology",
-      "authors": [
-        "Özbilici Z",
-        "Issı ES"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42464213/"
     }
   ]
 }
