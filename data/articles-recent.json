@@ -1,14 +1,93 @@
 {
-  "updatedAt": "2026-07-28T23:13:45.803Z",
+  "updatedAt": "2026-07-29T23:12:03.039Z",
   "period": {
     "days": 10,
-    "from": "2026-07-19",
-    "to": "2026-07-28"
+    "from": "2026-07-20",
+    "to": "2026-07-29"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 36,
+  "count": 41,
   "articles": [
+    {
+      "id": "pmid-42525906",
+      "pmid": "42525906",
+      "doi": "10.1212/WNL.0000000000218481",
+      "title": "Amyotrophic Lateral Sclerosis in the Military: A Uniform Risk?",
+      "abstract": "",
+      "journal": "Neurology",
+      "authors": [
+        "Hardiman O"
+      ],
+      "publicationTypes": [
+        "Editorial"
+      ],
+      "publishedAt": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
+    },
+    {
+      "id": "pmid-42525902",
+      "pmid": "42525902",
+      "doi": "10.1212/WNL.0000000000218303",
+      "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
+      "abstract": "Military service is one of the most consistent risk factors for the development of amyotrophic lateral sclerosis (ALS), but little is known about what aspects of military service matter. Understanding the distribution of ALS risk in military personnel may help identify key risk factors. We aimed to ascertain the association of United States (US) military branch and rank with incident ALS. We conducted a longitudinal cohort study including all veterans with a Veterans Health Administration encounter from January 1, 2000, through October 1, 2024, and more than 2 years of follow-up. Incident ALS was identified through medical records. Exposures included military branch (Army, Navy, Air Force, Marine Corps, Coast Guard, or multiple branches), military rank (officer, enlisted, or both), and length of service. Risk was estimated with Cox proportional hazards models, controlled for age, adjusted for race/ethnicity, and stratified by sex. The analytic sample comprised 9,157,938 men (13,935 incident ALS cases, mean age = 56.9 years) and 784,941 women (484 cases, mean age = 42.4 at start of follow up). Among men, compared with service in the Army, service in the Air Force (hazard ratio [HR] = 1.29, 95% CI 1.23-1.35), Navy (HR = 1.15, 95% CI 1.10-1.20), and Coast Guard (HR = 1.26, 95% CI 1.06-1.50) was associated with higher rates of ALS and service in the Marines a lower rate (HR = 0.78, 95% CI 0.68-0.88). Officers had higher rates than enlisted personnel (men, HR = 1.64, 95% CI 1.53-1.74; women, HR = 1.72, 95% CI 1.31-2.27). Longer service was associated with lower rates of ALS. In age-stratified models, differences in hazard rates between Army veterans and Air Force, Navy, and Coast Guard veterans were greatest for the youngest men (17-61 years, HR range = 1.26 to 1.51) and smallest for the oldest (>75-104 years, HR range = 0.99 to 1.12). ALS rates varied considerably by branch and rank in the US military, with larger differences among younger veterans. Officers and those serving in the Air Force, Navy, or Coast Guard may incur exposure to military environments that increase risk of ALS. It is imperative to identify relevant exposures to reduce harm to service members and, potentially, civilians with similar exposures.",
+      "journal": "Neurology",
+      "authors": [
+        "Roberts AL",
+        "Vilela Braga AD",
+        "Tang IW",
+        "Rotem RS",
+        "Moo LR",
+        "Miller DR",
+        "Shirk SD",
+        "Weisskopf MG"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
+    },
+    {
+      "id": "pmid-42521895",
+      "pmid": "42521895",
+      "doi": "10.1007/s10072-026-09248-1",
+      "title": "Suicide in neurodegenerative diseases: a systematic review.",
+      "abstract": "Suicide is a public health issue, which differs from suicidality, the continuum from suicidal ideation to the suicidal act, including suicide attempts and completed suicide. The main goal of the present study is to determine the relationship between Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), and multiple sclerosis (MS) with suicidality. This is a systematic review aiming to determine the relationship between AD, PD, ALS, and MS with suicidality following PRISMA 2020 guidelines by collecting cross-sectional, case-control, and cohort studies; case series; case reports; and retrospective and prospective studies from Google Scholar, PubMed, and Cochrane Library. The protocol of this systematic review was registered on PROSPERO; the registration number is CRD420261422354. From 2247 records identified from electronic databases, only 24 articles were included: three studies focusing on AD, nine on PD, and six studies focusing on ALS and MS, respectively. These studies exhibited moderate to low risk of bias. Despite the broad differences regarding the neurochemistry, pathophysiology, diagnosis, symptoms, and treatments of the selected diseases, patients are at a higher risk of suicidality. Depression and low social connectivity are the most prevalent risk factors. Suicidality is mainly detected during the first years post-diagnosis in PD, ALS, and MS patients, while the results in AD are confusing. Data about this topic is scarce and largely varying. Further research is required to elucidate this paradigmatic realm, fostering awareness, enhancing therapies, and providing explanations and interpretations of the mechanisms involved.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "authors": [
+        "Abidar S",
+        "Nhiri M",
+        "Bianchi V"
+      ],
+      "publicationTypes": [
+        "Systematic Review",
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521895/"
+    },
+    {
+      "id": "pmid-42383305",
+      "pmid": "42383305",
+      "doi": "10.1042/BST20260896",
+      "title": "TDP-43 proteinopathy as a biomarker and therapeutic target in amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is the most common form of adult-onset motor neuron disease, characterised by the degeneration of upper and lower motor neurons. The cytoplasmic aggregation of TDP-43 (TAR DNA-binding protein 43), an RNA-binding protein, is considered a hallmark of ALS pathology, found in nearly all postmortem cases of ALS. TDP-43 is normally primarily nuclear, where it has a widespread role in gene regulation. Mutations, extrinsic stressors, and alterations in RNA homeostasis in ALS lead to nuclear depletion of TDP-43 and the formation of cytosolic TDP-43 aggregates. This causes multiple downstream effects on neuronal function and degeneration as well as gene expression. TDP-43 is a promising target as a biomarker, as it is found to be elevated in the biofluids of ALS patients, and its cytoplasmic aggregation can also be observed in peripheral tissues; however, methodological variability and technical limitations currently preclude the establishment of TDP-43 as a standalone biomarker. There are also promising therapeutic strategies in development targeting TDP-43 pathology, but a critical challenge that remains is achieving a balance between eliminating toxic aggregates and preserving the essential functions of TDP-43. In summary, with further research, considering TDP-43 pathology in ALS gives hope for finding future novel diagnostics and therapeutics for ALS.",
+      "journal": "Biochemical Society transactions",
+      "authors": [
+        "Christoforidou E",
+        "McFagan E",
+        "McLaughlin M",
+        "Hafezparast M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383305/"
+    },
     {
       "id": "pmid-42517609",
       "pmid": "42517609",
@@ -42,6 +121,30 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42517609/"
     },
     {
+      "id": "pmid-42521602",
+      "pmid": "42521602",
+      "doi": "10.1002/mus.70364",
+      "title": "Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is associated with substantial financial burden. How financial concerns are documented or addressed in ALS multidisciplinary clinics (MDC) is unclear. We aimed to characterize financial concerns among people living with ALS (pALS) and how they are identified and documented by multidisciplinary clinic staff. We performed a retrospective electronic medical record (EMR) review for people living with ALS (pALS) attending at least two visits at the MDC, identifying documentation of financial concerns across all MDC notes throughout 2024. Semi-structured interviews with MDC staff explored experiences with financial concern discussions and documentation. Rapid qualitative analysis was used to analyze interview content. Among 67 pALS with at least 2 MDC visits, 45 (67.2%) had ≥ 1 documented financial concerns. Financial concerns were most documented in neurology physician notes and portal messages (both 77.8%) and included insurance denials, medication costs, disability/Medicare navigation, caregiving expenses, and home modifications. Social work and patient portal notes provided greater detail than other staff notes. Staff interviews highlighted insurance and equipment costs as frequent financial concerns. Four qualitative themes emerged: insurance challenges and reliance on non-insurance resources, financial barriers limiting care and quality of life, limited proactive conversations/documentation, and the central role of social work. Financial concerns are common among pALS but are inconsistently discussed and documented in the EMR, often arising through asynchronous communication or social work. Integrating financial screening and promoting proactive multidisciplinary documentation may improve identification of financial concerns and support more equitable, person-centered ALS care.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Pathapati N",
+        "Nguyen M",
+        "Ju J",
+        "Maddukuri M",
+        "Kiehl J",
+        "Kvale E",
+        "Thrift AP",
+        "Berth S",
+        "Grouls A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521602/"
+    },
+    {
       "id": "pmid-42520183",
       "pmid": "42520183",
       "doi": "10.1111/jnp.70066",
@@ -62,6 +165,29 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42520183/"
     },
     {
+      "id": "pmid-42521811",
+      "pmid": "42521811",
+      "doi": "10.1038/s41431-026-02208-5",
+      "title": "Tofersen treatment in respiratory onset amyotrophic lateral sclerosis and a variant of uncertain significance in SOD1; a case report.",
+      "abstract": "The antisense oligonucleotide tofersen is available for treating amyotrophic lateral sclerosis (ALS) caused by pathogenic SOD1 variants. However, it is unknown whether Variants of Uncertain Significance (VUS) are a viable treatment target. We assessed clinical and biomarker trajectories prior to and after initiation of tofersen in a patient with respiratory onset ALS and a novel c.234_236del p.(Glu79del) VUS in SOD1. After six months of treatment, cerebrospinal fluid (CSF) SOD1 protein decreased by 47%, CSF NfL by 55% and serum NfL by 50%, with trajectories comparable to known pathogenic variants. Functional decline on the ALSFRS-R slowed from 1.52 points per month pre-treatment to 0.52 points per month post-treatment, muscle strength remained stable, and EQ-VAS quality of life scores remained between 60 and 70. The ability to evaluate treatment response on an individual level will help to determine the clinical relevance of VUS as new gene-targeted treatments for ALS become available.",
+      "journal": "European journal of human genetics : EJHG",
+      "authors": [
+        "Willemse SW",
+        "Demaegd KC",
+        "Koole W",
+        "van Eijk RPA",
+        "van Rheenen W",
+        "Veldink JH",
+        "van den Berg LH",
+        "van Es MA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521811/"
+    },
+    {
       "id": "pmid-42508735",
       "pmid": "42508735",
       "doi": "10.1016/j.nbd.2026.107549",
@@ -69,7 +195,7 @@
       "abstract": "Neuronal loss in neurodegenerative disease is driven in part by maladaptive stress signaling and impaired adaptation to proteotoxic challenges. ENL and AF9 are YEATS-domain acyl-lysine reader proteins best characterized in leukemia, but their functions in neurons remains unclear. Here, we defined the role of the ENL/AF9 YEATS domain using complementary chemical and genetic perturbations. We applied the selective YEATS inhibitor SR-0813 in differentiated human neurons and modulated ENL/AF9 activity in Drosophila using either SR-0813 or ENL/AF9 knockdown. In flies, SR-0813 phenocopied ENL/AF9 knockdown by extending lifespan and enhancing stress tolerance. To test disease-context specificity, we performed a Drosophila genetic modifier screen across neurodegeneration models. ENL/AF9 reduction was beneficial in UBQLN2 P497H and SOD1 G94A but showed reduced efficacy or became detrimental in chronic aggregation or mitochondrial stress models such as (GGGGCC) 49 and polyQ disease. In human neurons, SR-0813 improved survival across multiple stress conditions, with the strongest protection during endoplasmic reticulum stress. Mechanistically, ENL/AF9 YEATS inhibition dampened PERK-dependent integrated stress response signaling and reduced apoptotic commitment without broadly enhancing proteostasis capacity. Together, these findings identified ENL/AF9 as modulators of neuronal stress-response dynamics and established ENL/AF9 YEATS-domain inhibition as a context-dependent strategy to enhance neuronal resilience with relevance to ALS and related proteotoxic disorders.",
       "journal": "Neurobiology of disease",
       "authors": [
-        "Piccolo LL",
+        "Lo Piccolo L",
         "Panto C",
         "Yeewa R",
         "Yubolphan R",
@@ -866,39 +992,6 @@
       ],
       "publishedAt": "2026-07-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42474734/"
-    },
-    {
-      "id": "pmid-42473039",
-      "pmid": "42473039",
-      "doi": "10.1002/ana.78300",
-      "title": "Distribution of Big Tau Isoforms in the Human Central and Peripheral Nervous System.",
-      "abstract": "Tau is widely studied in neurodegeneration, yet most work has focused on canonical brain tau isoforms. A longer isoform, \"big tau,\" produced by inclusion of exon 4a, is expressed in the peripheral nervous system (PNS) and central nervous system (CNS) regions. We sought to characterize big tau composition, anatomic distribution, and disease relevance. Mass spectrometry (MS) was used to sequence big tau and map its distribution across the human nervous system. Postmortem samples included brain tissue from Alzheimer's disease (AD), amyotrophic lateral sclerosis (ALS), and controls; spinal cord and peripheral nerves. Big and canonical (\"small\") tau isoforms were also quantified in cerebrospinal fluid (CSF) from controls and participants stratified by amyloid status and cognitive impairment. Human big tau results from insertion of either 355 or 251 amino acids encoded by exon 4a-long and exon 4a-short, respectively. Alternative splicing of exons 2, 3, and 10 generates multiple big tau isoforms. Total tau levels were approximately 1,000-fold higher in the brain than in the PNS; however, the relative abundance of big tau increased from the CNS to the PNS, comprising 50% of the total tau in the periphery and approximately 1% in the brain, primarily localized to the cerebellum. In CSF, big tau levels were unchanged by amyloid abnormalities or cognitive impairment, whereas canonical tau increased with AD pathology. Big tau represents a distinct tau population enriched in the PNS and uncoupled from disease-associated changes in brain-derived tau, suggesting that distinguishing big tau from canonical tau may improve interpretation of tau biomarkers and help differentiate CNS neurodegeneration from peripheral nerve pathology. ANN NEUROL 2026.",
-      "journal": "Annals of neurology",
-      "authors": [
-        "Koppisetti RK",
-        "Barthélemy NR",
-        "Horie K",
-        "Ly CV",
-        "Roberts KF",
-        "Koutarapu S",
-        "Perrin RJ",
-        "Franklin EE",
-        "Pedicone C",
-        "Orrick J",
-        "Melendez J",
-        "Miller TM",
-        "Sato C",
-        "Ghoshal N",
-        "Goate AM",
-        "Karch CM",
-        "Bateman RJ",
-        "Mukherjee S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42473039/"
     }
   ]
 }
