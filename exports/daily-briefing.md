@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-07-30
+更新时间：2026-07-31
 
-1. **多重检测面板检测散发性与C9orf72-ALS中的胶质和炎症生物标志物特征**
+1. **多重检测面板在散发性ALS和C9orf72-ALS中检测到胶质细胞和炎症生物标志物特征**
    - 生物标志物 / 观察性临床研究 / high
-   - NULISA多重面板可检测ALS患者脑脊液中6种显著升高的生物标志物（NEFL、NEFH、CHIT1、CHI3L1、CCL2、CCL3），且C9orf72-ALS患者特有PRDX6和ENO2升高，提示基因型特异性分子特征。
+   - NULISA平台可检测ALS脑脊液中多种炎症和胶质标志物，其中NEFL、NEFL、CHIT1、CHI3L1、CCL2、CCL3组合评分具有高诊断性能，且C9orf72-ALS患者PRDX6和ENO2水平更高。
    - https://pubmed.ncbi.nlm.nih.gov/42462180/
-2. **美国退伍军人中军种与军衔与肌萎缩侧索硬化症发病率的关联**
+2. **美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联**
    - 机制 / 观察性临床研究 / high
-   - 美国退伍军人中，空军、海军和海岸警卫队服役者ALS风险高于陆军，军官风险高于士兵，且年轻退伍军人中差异更大。
+   - 美国退伍军人中，空军、海军和海岸警卫队服役者ALS发病率显著高于陆军（HR 1.15-1.29），海军陆战队较低（HR 0.78）；军官发病率约为士兵的1.6-1.7倍；年轻退伍军人中差异最大。
    - https://pubmed.ncbi.nlm.nih.gov/42525902/
 3. **血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究**
-   - 临床试验 / 观察性临床研究 / high
-   - 年龄校正后异常pNfL浓度与MND（RRR 18.47）和活动性神经病变（RRR 7.30）显著相关，区分活动性与非活动性神经病变的AUC为0.79，区分MND与其他诊断的AUC为0.85。
+   - 临床试验 / 观察性临床研究（II级证据） / high
+   - 年龄校正后异常pNfL在MND和活动性神经病变中显著富集，区分MND与其他诊断的AUC为0.85，区分活动性与非活动性神经病变的AUC为0.79。
    - https://pubmed.ncbi.nlm.nih.gov/42441926/
-4. **极低幅度肌肉活动增加健康个体和肌萎缩侧索硬化症患者运动诱发电位的概率**
-   - 生物标志物 / 观察性临床研究 / high
-   - 低于常规排除阈值（10 µV）的极低幅度基线肌电活动，可显著增加MEP诱发概率（38%-43%），且ALS患者此类活动高于健康人。
-   - https://pubmed.ncbi.nlm.nih.gov/42402806/
-5. **突变超氧化物歧化酶1催化的氢疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化症**
-   - 临床试验 / 动物/细胞实验 / high
-   - 口服Mg₂Si纳米片通过持续释放氢气，有效清除了突变SOD1产生的自由基，抑制了NLRP3炎症小体激活，从而显著延缓了SOD1 G93A转基因小鼠的ALS进展并延长了其寿命。
-   - https://pubmed.ncbi.nlm.nih.gov/42398690/
-6. **肌萎缩侧索硬化症运动与言语变化的数字远程评估：纵向观察研究**
-   - 临床试验 / 临床试验研究 / high
-   - 数字远程评估可区分ALS患者与健康对照，并与ALS功能评定量表修订版得分强相关；ALS患者非优势手精细运动功能随时间下降。
-   - https://pubmed.ncbi.nlm.nih.gov/42531420/
-7. **迈向肌萎缩侧索硬化症的行为储备模型**
-   - 机制 / 观察性临床研究 / high
-   - 病前行为调节特质和教育-社会暴露水平与ALS患者行为障碍风险显著相关，支持行为储备模型。
-   - https://pubmed.ncbi.nlm.nih.gov/42528478/
-8. **靶向TDP-43治疗ALS：CTx1000的监管障碍、试验设计缺陷及因果证据缺口**
-   - 临床试验 / 临床试验研究 / high
-   - ALS临床试验失败源于生物学异质性、终点敏感性不足和靶点参与证据缺口；PROTAC药物CTx1000通过降解TDP-43提供新希望，但需解决试验设计缺陷。
-   - https://pubmed.ncbi.nlm.nih.gov/42526625/
+4. **Tofersen treatment in respiratory onset 肌萎缩侧索硬化症 and a variant of uncertain significance in SOD1; a case report.**
+   - 治疗 / 待人工判定 / high
+   - Europe PMC record found, but no abstract was available in the fetched metadata.
+   - https://doi.org/10.1038/s41431-026-02208-5
+5. **待复核翻译：Remote Speech and Swallowing Assessment in ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT04889898
+6. **待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT04745299
+7. **待复核翻译：UPenn Observational Research Repository on Neurodegenerative Disease**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT04715399
+8. **Efficacy, Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ZYIL1 in Patients With 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT05981040
