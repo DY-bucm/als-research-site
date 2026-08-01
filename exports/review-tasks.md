@@ -4,41 +4,49 @@
   - https://pubmed.ncbi.nlm.nih.gov/42482658/
 - [ ] [高优先级] 多重检测面板在散发性ALS和C9orf72-ALS中检测到胶质细胞和炎症生物标志物特征 (pmid-42462180)
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
-- [ ] T1加权与T2加权体积测量流程在肌萎缩侧索硬化症体内病理研究中的可互换性探讨 (pmid-42413223)
+- [ ] T1加权与T2加权体积测量流程在体内研究肌萎缩侧索硬化病理中是否可互换？ (pmid-42413223)
   - https://pubmed.ncbi.nlm.nih.gov/42413223/
-- [ ] ALS相关Sptlc1基因外显子2的缺失导致纯合小鼠致死，但杂合小鼠正常 (pmid-42392979)
+- [ ] ALS相关Sptlc1基因外显子2的缺失导致纯合小鼠致死，但杂合小鼠未见异常 (pmid-42392979)
   - https://pubmed.ncbi.nlm.nih.gov/42392979/
 - [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
 - [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联 (pmid-42525902)
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
-- [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究 (pmid-42441926)
+- [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列诊断分类的关联：一项横断面研究 (pmid-42441926)
   - https://pubmed.ncbi.nlm.nih.gov/42441926/
-- [ ] 《Neurology®》期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
+- [ ] Neurology® 期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
-- [ ] [疑似误收] 伴有I型干扰素自身抗体的重症肌无力患者发生低氧性COVID-19肺炎的风险高 (pmid-42536442)
+- [ ] [疑似误收] 重症肌无力患者中I型干扰素自身抗体与低氧性COVID-19肺炎的高风险关联 (pmid-42536442)
   - https://pubmed.ncbi.nlm.nih.gov/42536442/
+- [ ] [高优先级] 原发性侧索硬化症的早期认知与行为改变：一项基于人群的研究 (pmid-42538773)
+  - https://pubmed.ncbi.nlm.nih.gov/42538773/
+- [ ] 拉脱维亚运动神经元病全国流行病学调查（2020-2024）：发病率、患病率与临床特征 (pmid-42538750)
+  - https://pubmed.ncbi.nlm.nih.gov/42538750/
 - [ ] 肌萎缩侧索硬化症患者肌肉骨骼疼痛的介入治疗：病例系列研究 (pmid-42468019)
   - https://pubmed.ncbi.nlm.nih.gov/42468019/
+- [ ] [高优先级] 遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究 (pmid-42456683)
+  - https://pubmed.ncbi.nlm.nih.gov/42456683/
 - [ ] [高优先级] 星形胶质细胞脂质失调作为神经退行性变的早期驱动因素 (pmid-42443387)
   - https://pubmed.ncbi.nlm.nih.gov/42443387/
-- [ ] 极低幅度肌肉活动增加健康个体和肌萎缩侧索硬化症患者运动诱发电位的概率 (pmid-42402806)
-  - https://pubmed.ncbi.nlm.nih.gov/42402806/
-- [ ] 突变型超氧化物歧化酶1催化的氢气疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化 (pmid-42398690)
-  - https://pubmed.ncbi.nlm.nih.gov/42398690/
-- [ ] 低强度刺激下的F波反应与募集：手内在肌的肌肉特异性兴奋性特征 (pmid-42537332)
-  - https://pubmed.ncbi.nlm.nih.gov/42537332/
-- [ ] 立陶宛运动神经元病患者的遗传变异——一项回顾性单中心研究 (pmid-42536230)
-  - https://pubmed.ncbi.nlm.nih.gov/42536230/
+- [ ] 伴有纹状体胶质细胞胞质包涵体及运动神经元变性的额颞叶变性-TDP C型 (pmid-42427320)
+  - https://pubmed.ncbi.nlm.nih.gov/42427320/
+- [ ] [疑似误收] [高优先级] 遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究 (epmc-MED-42456683)
+  - https://doi.org/10.1016/s1474-4422(26)00197-3
+- [ ] 携带Ubiquilin2（P494L）突变的肌萎缩侧索硬化症中可溶性Ubiquilin2减少：一例尸检病例的临床病理学和生化证据 (epmc-MED-42411953)
+  - https://doi.org/10.1111/nan.70091
+- [ ] 揭示胱抑素C与Bunina小体在肌萎缩侧索硬化发病机制中的意义 (epmc-MED-42373582)
+  - https://doi.org/10.1111/nan.70083
+- [ ] 肌萎缩侧索硬化症中杂合DNAJC7突变相关的神经病理学与分子特征 (epmc-MED-42362484)
+  - https://doi.org/10.1111/nan.70086
 - [ ] [疑似误收] 有创通气 ALS 患者治疗目标转换中的伦理挑战：基于病例的专题综述 (epmc-MED-42533344)
   - https://doi.org/10.1186/s42466-026-00522-3
-- [ ] 肌萎缩侧索硬化症运动与言语变化的数字远程评估：纵向观察性研究 (epmc-MED-42531420)
+- [ ] Digital Remote Assessment of Motor and Speech Changes in 肌萎缩侧索硬化症: Longitudinal Observational Study. (epmc-MED-42531420)
   - https://doi.org/10.2196/85142
-- [ ] [疑似误收] 血清脑源性 p-tau 217 与 SV2A 减少阿尔茨海默病中的外周干扰：一项多队列研究 (epmc-PPR-PPR1288670)
+- [ ] [疑似误收] 待复核翻译：Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study (epmc-PPR-PPR1288670)
   - https://doi.org/10.64898/2026.07.28.26359122
-- [ ] 影响澳大利亚运动神经元病患者接受无创通气的因素的质性研究 (epmc-MED-42530583)
+- [ ] A qualitative investigation of the factors influencing the uptake of noninvasive ventilation among Australians with 运动神经元病. (epmc-MED-42530583)
   - https://doi.org/10.1080/09638288.2026.2704454
-- [ ] 迈向肌萎缩侧索硬化症的行为储备模型 (epmc-MED-42528478)
+- [ ] Toward a Behavioral Reserve Model in 肌萎缩侧索硬化症. (epmc-MED-42528478)
   - https://doi.org/10.1002/ana.78315
 - [ ] 待复核翻译：Targeting TDP-43 in ALS: Regulatory hurdles, trial design deficiencies, and the causal evidence gap for CTx1000. (epmc-MED-42526625)
   - https://doi.org/10.1016/j.drudis.2026.104752
@@ -50,16 +58,6 @@
   - https://doi.org/10.1007/s10072-026-09248-1
 - [ ] Cellular Logistics and Synaptic Vesicle Vulnerability in Major Depressive Disorder and 肌萎缩侧索硬化症 Comorbidity: Insights From Nicotinamide Mononucleotide Rescue and Transcriptome-Wide Association Study Integration. (epmc-MED-42529685)
   - https://doi.org/10.7759/cureus.113549
-- [ ] [疑似误收] 待复核翻译：A multi-omics characterization reveals distinct molecular signatures in the human motor cortex and lumbar spinal cord in ALS (epmc-PPR-PPR1288119)
-  - https://doi.org/10.64898/2026.07.24.740361
-- [ ] [高优先级] Tofersen treatment in respiratory onset 肌萎缩侧索硬化症 and a variant of uncertain significance in SOD1; a case report. (epmc-MED-42521811)
-  - https://doi.org/10.1038/s41431-026-02208-5
-- [ ] [疑似误收] 待复核翻译：Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic. (epmc-MED-42521602)
-  - https://doi.org/10.1002/mus.70364
-- [ ] Evidence of stage-specific cognitive reserve effects on longitudinal cognition in 肌萎缩侧索硬化症. (epmc-MED-42520183)
-  - https://doi.org/10.1111/jnp.70066
-- [ ] [疑似误收] 待复核翻译：[Minimally invasive surgery for Charcot arthropathy]. (epmc-MED-42517883)
-  - https://doi.org/10.1007/s00132-026-04860-7
 - [ ] [高优先级] 待复核翻译：Remote Speech and Swallowing Assessment in ALS (trial-NCT04889898)
   - https://clinicaltrials.gov/study/NCT04889898
 - [ ] [高优先级] 待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS (trial-NCT04745299)

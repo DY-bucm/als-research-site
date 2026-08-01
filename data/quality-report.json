@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-31T23:16:35.674Z",
+  "updatedAt": "2026-08-01T23:11:46.652Z",
   "summary": {
-    "totalItems": 45,
-    "issueCount": 43
+    "totalItems": 44,
+    "issueCount": 42
   },
   "sources": [
     {
@@ -25,13 +25,24 @@
     {
       "id": "pmid-42536442",
       "title": "High risk of hypoxemic COVID-19 pneumonia in myasthenia gravis patients with type I IFN autoantibodies.",
-      "titleZh": "伴有I型干扰素自身抗体的重症肌无力患者发生低氧性COVID-19肺炎的风险高",
+      "titleZh": "重症肌无力患者中I型干扰素自身抗体与低氧性COVID-19肺炎的高风险关联",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42536442/"
+    },
+    {
+      "id": "epmc-MED-42456683",
+      "title": "Survival estimates and their predictors in genetic frontotemporal dementia: an international, retrospective, cohort study.",
+      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/s1474-4422(26)00197-3"
     },
     {
       "id": "epmc-MED-42533344",
@@ -47,12 +58,12 @@
     {
       "id": "epmc-PPR-PPR1288670",
       "title": "Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study",
-      "titleZh": "血清脑源性 p-tau 217 与 SV2A 减少阿尔茨海默病中的外周干扰：一项多队列研究",
+      "titleZh": "待复核翻译：Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.07.28.26359122"
     },
     {
@@ -65,39 +76,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.1007/s10072-026-09248-1"
-    },
-    {
-      "id": "epmc-PPR-PPR1288119",
-      "title": "A multi-omics characterization reveals distinct molecular signatures in the human motor cortex and lumbar spinal cord in ALS",
-      "titleZh": "待复核翻译：A multi-omics characterization reveals distinct molecular signatures in the human motor cortex and lumbar spinal cord in ALS",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.07.24.740361"
-    },
-    {
-      "id": "epmc-MED-42521602",
-      "title": "Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic.",
-      "titleZh": "待复核翻译：Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1002/mus.70364"
-    },
-    {
-      "id": "epmc-MED-42517883",
-      "title": "[Minimally invasive surgery for Charcot arthropathy].",
-      "titleZh": "待复核翻译：[Minimally invasive surgery for Charcot arthropathy].",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00132-026-04860-7"
     }
   ],
   "missingIdentifiers": [],
@@ -114,6 +92,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
     },
     {
+      "id": "epmc-MED-42456683",
+      "title": "Survival estimates and their predictors in genetic frontotemporal dementia: an international, retrospective, cohort study.",
+      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/s1474-4422(26)00197-3"
+    },
+    {
+      "id": "epmc-MED-42411953",
+      "title": "Reduced Soluble Ubiquilin2 in Amyotrophic Lateral Sclerosis Carrying Ubiquilin2 (P494L) Mutation: Clinicopathological and Biochemical Evidence From an Autopsy Case.",
+      "titleZh": "携带Ubiquilin2（P494L）突变的肌萎缩侧索硬化症中可溶性Ubiquilin2减少：一例尸检病例的临床病理学和生化证据",
+      "category": "遗传",
+      "evidenceLevel": "病例报告（单一个体，待人工判定）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/nan.70091"
+    },
+    {
+      "id": "epmc-MED-42373582",
+      "title": "Unravelling the Significance of Cystatin C and Bunina Bodies in Amyotrophic Lateral Sclerosis Pathogenesis.",
+      "titleZh": "揭示胱抑素C与Bunina小体在肌萎缩侧索硬化发病机制中的意义",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/nan.70083"
+    },
+    {
+      "id": "epmc-MED-42362484",
+      "title": "Neuropathological and Molecular Features Associated With a Heterozygous DNAJC7 Mutation in Amyotrophic Lateral Sclerosis.",
+      "titleZh": "肌萎缩侧索硬化症中杂合DNAJC7突变相关的神经病理学与分子特征",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/nan.70086"
+    },
+    {
       "id": "epmc-MED-42533344",
       "title": "Ethical challenges in treatment-goal transitions in invasively ventilated ALS: a case-based topical review.",
       "titleZh": "有创通气 ALS 患者治疗目标转换中的伦理挑战：基于病例的专题综述",
@@ -127,45 +149,45 @@
     {
       "id": "epmc-MED-42531420",
       "title": "Digital Remote Assessment of Motor and Speech Changes in Amyotrophic Lateral Sclerosis: Longitudinal Observational Study.",
-      "titleZh": "肌萎缩侧索硬化症运动与言语变化的数字远程评估：纵向观察性研究",
+      "titleZh": "Digital Remote Assessment of Motor and Speech Changes in 肌萎缩侧索硬化症: Longitudinal Observational Study.",
       "category": "机制",
-      "evidenceLevel": "观察性研究（无摘要，证据等级基于研究类型推断）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.2196/85142"
     },
     {
       "id": "epmc-PPR-PPR1288670",
       "title": "Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study",
-      "titleZh": "血清脑源性 p-tau 217 与 SV2A 减少阿尔茨海默病中的外周干扰：一项多队列研究",
+      "titleZh": "待复核翻译：Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.07.28.26359122"
     },
     {
       "id": "epmc-MED-42530583",
       "title": "A qualitative investigation of the factors influencing the uptake of noninvasive ventilation among Australians with motor neurone disease.",
-      "titleZh": "影响澳大利亚运动神经元病患者接受无创通气的因素的质性研究",
+      "titleZh": "A qualitative investigation of the factors influencing the uptake of noninvasive ventilation among Australians with 运动神经元病.",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1080/09638288.2026.2704454"
     },
     {
       "id": "epmc-MED-42528478",
       "title": "Toward a Behavioral Reserve Model in Amyotrophic Lateral Sclerosis.",
-      "titleZh": "迈向肌萎缩侧索硬化症的行为储备模型",
+      "titleZh": "Toward a Behavioral Reserve Model in 肌萎缩侧索硬化症.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1002/ana.78315"
     },
     {
@@ -222,61 +244,6 @@
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://doi.org/10.7759/cureus.113549"
-    },
-    {
-      "id": "epmc-PPR-PPR1288119",
-      "title": "A multi-omics characterization reveals distinct molecular signatures in the human motor cortex and lumbar spinal cord in ALS",
-      "titleZh": "待复核翻译：A multi-omics characterization reveals distinct molecular signatures in the human motor cortex and lumbar spinal cord in ALS",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.07.24.740361"
-    },
-    {
-      "id": "epmc-MED-42521811",
-      "title": "Tofersen treatment in respiratory onset amyotrophic lateral sclerosis and a variant of uncertain significance in SOD1; a case report.",
-      "titleZh": "Tofersen treatment in respiratory onset 肌萎缩侧索硬化症 and a variant of uncertain significance in SOD1; a case report.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.1038/s41431-026-02208-5"
-    },
-    {
-      "id": "epmc-MED-42521602",
-      "title": "Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic.",
-      "titleZh": "待复核翻译：Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1002/mus.70364"
-    },
-    {
-      "id": "epmc-MED-42520183",
-      "title": "Evidence of stage-specific cognitive reserve effects on longitudinal cognition in amyotrophic lateral sclerosis.",
-      "titleZh": "Evidence of stage-specific cognitive reserve effects on longitudinal cognition in 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/jnp.70066"
-    },
-    {
-      "id": "epmc-MED-42517883",
-      "title": "[Minimally invasive surgery for Charcot arthropathy].",
-      "titleZh": "待复核翻译：[Minimally invasive surgery for Charcot arthropathy].",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00132-026-04860-7"
     }
   ],
   "highPriorityNeedsReview": [
@@ -305,13 +272,35 @@
     {
       "id": "pmid-42441926",
       "title": "Association of Plasma Neurofilament Light Chain With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.",
-      "titleZh": "血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究",
+      "titleZh": "血浆神经丝轻链与神经肌肉转诊队列诊断分类的关联：一项横断面研究",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究（II级证据）",
       "relevanceScore": 6,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441926/"
+    },
+    {
+      "id": "pmid-42538773",
+      "title": "Early Cognitive and Behavioral Changes in Primary Lateral Sclerosis: A Population-Based Study.",
+      "titleZh": "原发性侧索硬化症的早期认知与行为改变：一项基于人群的研究",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538773/"
+    },
+    {
+      "id": "pmid-42456683",
+      "title": "Survival estimates and their predictors in genetic frontotemporal dementia: an international, retrospective, cohort study.",
+      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
+      "category": "临床试验",
+      "evidenceLevel": "多中心回顾性队列研究（含外部验证）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456683/"
     },
     {
       "id": "pmid-42443387",
@@ -325,15 +314,15 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42443387/"
     },
     {
-      "id": "epmc-MED-42521811",
-      "title": "Tofersen treatment in respiratory onset amyotrophic lateral sclerosis and a variant of uncertain significance in SOD1; a case report.",
-      "titleZh": "Tofersen treatment in respiratory onset 肌萎缩侧索硬化症 and a variant of uncertain significance in SOD1; a case report.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
+      "id": "epmc-MED-42456683",
+      "title": "Survival estimates and their predictors in genetic frontotemporal dementia: an international, retrospective, cohort study.",
+      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://doi.org/10.1038/s41431-026-02208-5"
+      "url": "https://doi.org/10.1016/s1474-4422(26)00197-3"
     },
     {
       "id": "trial-NCT04889898",
@@ -503,18 +492,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 7,
+    "疑似误收": 5,
     "缺标识符": 0,
-    "缺摘要": 16,
-    "高优先级待复核": 20,
+    "缺摘要": 15,
+    "高优先级待复核": 22,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 45
+    "待复核": 44
   },
   "relevanceCounts": {
     "high": 27,
-    "medium": 11,
-    "low": 7
+    "medium": 12,
+    "low": 5
   }
 }
