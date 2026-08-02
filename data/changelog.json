@@ -1,33 +1,63 @@
 {
-  "updatedAt": "2026-08-01T23:11:46.706Z",
-  "previousSnapshot": "data/archive/2026-07-31.json",
+  "updatedAt": "2026-08-02T23:11:09.063Z",
+  "previousSnapshot": "data/archive/2026-08-01.json",
   "current": "data/items.json",
   "summary": {
-    "added": 8,
-    "removed": 9,
-    "changed": 4
+    "added": 5,
+    "removed": 4,
+    "changed": 3
   },
   "added": [
     {
-      "id": "pmid-42538773",
-      "titleZh": "原发性侧索硬化症的早期认知与行为改变：一项基于人群的研究",
+      "id": "pmid-42541645",
+      "titleZh": "靶向小胶质细胞线粒体功能障碍：治疗神经退行性疾病的新前沿",
       "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538773/"
-    },
-    {
-      "id": "pmid-42538750",
-      "titleZh": "拉脱维亚运动神经元病全国流行病学调查（2020-2024）：发病率、患病率与临床特征",
-      "category": "治疗",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538750/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541645/"
     },
     {
-      "id": "pmid-42456683",
-      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
+      "id": "pmid-42541567",
+      "titleZh": "靶向散发性肌萎缩侧索硬化症中的TDP-43",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456683/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541567/"
+    },
+    {
+      "id": "pmid-42541368",
+      "titleZh": "使用气管切开有创通气的肌萎缩侧索硬化症患者身体、心理及社会心理体验的长期轨迹：一项18年纵向研究",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541368/"
+    },
+    {
+      "id": "epmc-MED-42427320",
+      "titleZh": "额颞叶变性-TDP C型伴纹状体胶质细胞胞质包涵体及运动神经元变性",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/nan.70090"
+    },
+    {
+      "id": "epmc-MED-42536230",
+      "titleZh": "Genetic variants among patients with 运动神经元病 in Lithuania - a retrospective single-center study.",
+      "category": "遗传",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s10048-026-00926-y"
+    }
+  ],
+  "removed": [
+    {
+      "id": "pmid-42392979",
+      "titleZh": "ALS相关Sptlc1基因外显子2的缺失导致纯合小鼠致死，但杂合小鼠未见异常",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42392979/"
+    },
+    {
+      "id": "pmid-42443387",
+      "titleZh": "星形胶质细胞脂质失调作为神经退行性变的早期驱动因素",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42443387/"
     },
     {
       "id": "pmid-42427320",
@@ -37,146 +67,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42427320/"
     },
     {
-      "id": "epmc-MED-42456683",
-      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
-      "category": "遗传",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/s1474-4422(26)00197-3"
-    },
-    {
-      "id": "epmc-MED-42411953",
-      "titleZh": "携带Ubiquilin2（P494L）突变的肌萎缩侧索硬化症中可溶性Ubiquilin2减少：一例尸检病例的临床病理学和生化证据",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://doi.org/10.1111/nan.70091"
-    },
-    {
-      "id": "epmc-MED-42373582",
-      "titleZh": "揭示胱抑素C与Bunina小体在肌萎缩侧索硬化发病机制中的意义",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1111/nan.70083"
-    },
-    {
-      "id": "epmc-MED-42362484",
-      "titleZh": "肌萎缩侧索硬化症中杂合DNAJC7突变相关的神经病理学与分子特征",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://doi.org/10.1111/nan.70086"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42402806",
-      "titleZh": "极低幅度肌肉活动增加健康个体和肌萎缩侧索硬化症患者运动诱发电位的概率",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402806/"
-    },
-    {
-      "id": "pmid-42398690",
-      "titleZh": "突变型超氧化物歧化酶1催化的氢气疗法通过阻断氧化应激-神经炎症串扰治疗肌萎缩侧索硬化",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42398690/"
-    },
-    {
-      "id": "pmid-42537332",
-      "titleZh": "低强度刺激下的F波反应与募集：手内在肌的肌肉特异性兴奋性特征",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42537332/"
-    },
-    {
-      "id": "pmid-42536230",
-      "titleZh": "立陶宛运动神经元病患者的遗传变异——一项回顾性单中心研究",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42536230/"
-    },
-    {
-      "id": "epmc-PPR-PPR1288119",
-      "titleZh": "待复核翻译：A multi-omics characterization reveals distinct molecular signatures in the human motor cortex and lumbar spinal cord in ALS",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.07.24.740361"
-    },
-    {
-      "id": "epmc-MED-42521811",
-      "titleZh": "Tofersen treatment in respiratory onset 肌萎缩侧索硬化症 and a variant of uncertain significance in SOD1; a case report.",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://doi.org/10.1038/s41431-026-02208-5"
-    },
-    {
-      "id": "epmc-MED-42521602",
-      "titleZh": "待复核翻译：Capturing Financial Burden Concerns in an ALS Multidisciplinary Clinic.",
+      "id": "epmc-MED-42529685",
+      "titleZh": "Cellular Logistics and Synaptic Vesicle Vulnerability in Major Depressive Disorder and 肌萎缩侧索硬化症 Comorbidity: Insights From Nicotinamide Mononucleotide Rescue and Transcriptome-Wide Association Study Integration.",
       "category": "机制",
       "priority": "low",
-      "url": "https://doi.org/10.1002/mus.70364"
-    },
-    {
-      "id": "epmc-MED-42520183",
-      "titleZh": "Evidence of stage-specific cognitive reserve effects on longitudinal cognition in 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/jnp.70066"
-    },
-    {
-      "id": "epmc-MED-42517883",
-      "titleZh": "待复核翻译：[Minimally invasive surgery for Charcot arthropathy].",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00132-026-04860-7"
+      "url": "https://doi.org/10.7759/cureus.113549"
     }
   ],
   "changed": [
     {
-      "id": "epmc-MED-42531420",
-      "titleZh": "Digital Remote Assessment of Motor and Speech Changes in 肌萎缩侧索硬化症: Longitudinal Observational Study.",
+      "id": "pmid-42538773",
+      "titleZh": "原发性侧索硬化症的早期认知与行为改变：一项基于人群的研究",
       "changes": [
         {
           "field": "priority",
-          "before": "medium",
-          "after": "low"
-        },
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42456683",
+      "titleZh": "遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42411953",
+      "titleZh": "携带Ubiquilin2（P494L）突变的肌萎缩侧索硬化症中可溶性Ubiquilin2减少：一例尸检病例的临床病理学和生化证据",
+      "changes": [
         {
           "field": "evidenceLevel",
-          "before": "观察性研究（无摘要，证据等级基于研究类型推断）",
-          "after": "机制研究"
-        }
-      ]
-    },
-    {
-      "id": "epmc-PPR-PPR1288670",
-      "titleZh": "待复核翻译：Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42530583",
-      "titleZh": "A qualitative investigation of the factors influencing the uptake of noninvasive ventilation among Australians with 运动神经元病.",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42528478",
-      "titleZh": "Toward a Behavioral Reserve Model in 肌萎缩侧索硬化症.",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
+          "before": "病例报告（单一个体，待人工判定）",
+          "after": "病例报告（单例尸检，含生化分析）"
         }
       ]
     }

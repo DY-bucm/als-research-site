@@ -6,19 +6,23 @@
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
 - [ ] T1加权与T2加权体积测量流程在体内研究肌萎缩侧索硬化病理中是否可互换？ (pmid-42413223)
   - https://pubmed.ncbi.nlm.nih.gov/42413223/
-- [ ] ALS相关Sptlc1基因外显子2的缺失导致纯合小鼠致死，但杂合小鼠未见异常 (pmid-42392979)
-  - https://pubmed.ncbi.nlm.nih.gov/42392979/
 - [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
 - [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联 (pmid-42525902)
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
 - [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列诊断分类的关联：一项横断面研究 (pmid-42441926)
   - https://pubmed.ncbi.nlm.nih.gov/42441926/
-- [ ] Neurology® 期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
+- [ ] 《Neurology》期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
-- [ ] [疑似误收] 重症肌无力患者中I型干扰素自身抗体与低氧性COVID-19肺炎的高风险关联 (pmid-42536442)
+- [ ] [疑似误收] 伴有I型干扰素自身抗体的重症肌无力患者发生低氧性COVID-19肺炎的风险高 (pmid-42536442)
   - https://pubmed.ncbi.nlm.nih.gov/42536442/
-- [ ] [高优先级] 原发性侧索硬化症的早期认知与行为改变：一项基于人群的研究 (pmid-42538773)
+- [ ] 靶向小胶质细胞线粒体功能障碍：治疗神经退行性疾病的新前沿 (pmid-42541645)
+  - https://pubmed.ncbi.nlm.nih.gov/42541645/
+- [ ] [高优先级] 靶向散发性肌萎缩侧索硬化症中的TDP-43 (pmid-42541567)
+  - https://pubmed.ncbi.nlm.nih.gov/42541567/
+- [ ] 使用气管切开有创通气的肌萎缩侧索硬化症患者身体、心理及社会心理体验的长期轨迹：一项18年纵向研究 (pmid-42541368)
+  - https://pubmed.ncbi.nlm.nih.gov/42541368/
+- [ ] 原发性侧索硬化症的早期认知与行为改变：一项基于人群的研究 (pmid-42538773)
   - https://pubmed.ncbi.nlm.nih.gov/42538773/
 - [ ] 拉脱维亚运动神经元病全国流行病学调查（2020-2024）：发病率、患病率与临床特征 (pmid-42538750)
   - https://pubmed.ncbi.nlm.nih.gov/42538750/
@@ -26,19 +30,19 @@
   - https://pubmed.ncbi.nlm.nih.gov/42468019/
 - [ ] [高优先级] 遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究 (pmid-42456683)
   - https://pubmed.ncbi.nlm.nih.gov/42456683/
-- [ ] [高优先级] 星形胶质细胞脂质失调作为神经退行性变的早期驱动因素 (pmid-42443387)
-  - https://pubmed.ncbi.nlm.nih.gov/42443387/
-- [ ] 伴有纹状体胶质细胞胞质包涵体及运动神经元变性的额颞叶变性-TDP C型 (pmid-42427320)
-  - https://pubmed.ncbi.nlm.nih.gov/42427320/
-- [ ] [疑似误收] [高优先级] 遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究 (epmc-MED-42456683)
+- [ ] [疑似误收] 遗传性额颞叶痴呆的生存期估计及其预测因素：一项国际回顾性队列研究 (epmc-MED-42456683)
   - https://doi.org/10.1016/s1474-4422(26)00197-3
+- [ ] [疑似误收] 额颞叶变性-TDP C型伴纹状体胶质细胞胞质包涵体及运动神经元变性 (epmc-MED-42427320)
+  - https://doi.org/10.1111/nan.70090
 - [ ] 携带Ubiquilin2（P494L）突变的肌萎缩侧索硬化症中可溶性Ubiquilin2减少：一例尸检病例的临床病理学和生化证据 (epmc-MED-42411953)
   - https://doi.org/10.1111/nan.70091
 - [ ] 揭示胱抑素C与Bunina小体在肌萎缩侧索硬化发病机制中的意义 (epmc-MED-42373582)
   - https://doi.org/10.1111/nan.70083
-- [ ] 肌萎缩侧索硬化症中杂合DNAJC7突变相关的神经病理学与分子特征 (epmc-MED-42362484)
+- [ ] 肌萎缩侧索硬化中杂合DNAJC7突变相关的神经病理学与分子特征 (epmc-MED-42362484)
   - https://doi.org/10.1111/nan.70086
-- [ ] [疑似误收] 有创通气 ALS 患者治疗目标转换中的伦理挑战：基于病例的专题综述 (epmc-MED-42533344)
+- [ ] Genetic variants among patients with 运动神经元病 in Lithuania - a retrospective single-center study. (epmc-MED-42536230)
+  - https://doi.org/10.1007/s10048-026-00926-y
+- [ ] [疑似误收] 待复核翻译：Ethical challenges in treatment-goal transitions in invasively ventilated ALS: a case-based topical review. (epmc-MED-42533344)
   - https://doi.org/10.1186/s42466-026-00522-3
 - [ ] Digital Remote Assessment of Motor and Speech Changes in 肌萎缩侧索硬化症: Longitudinal Observational Study. (epmc-MED-42531420)
   - https://doi.org/10.2196/85142
@@ -56,8 +60,6 @@
   - https://doi.org/10.1212/wnl.0000000000218303
 - [ ] [疑似误收] 待复核翻译：Suicide in neurodegenerative diseases: a systematic review. (epmc-MED-42521895)
   - https://doi.org/10.1007/s10072-026-09248-1
-- [ ] Cellular Logistics and Synaptic Vesicle Vulnerability in Major Depressive Disorder and 肌萎缩侧索硬化症 Comorbidity: Insights From Nicotinamide Mononucleotide Rescue and Transcriptome-Wide Association Study Integration. (epmc-MED-42529685)
-  - https://doi.org/10.7759/cureus.113549
 - [ ] [高优先级] 待复核翻译：Remote Speech and Swallowing Assessment in ALS (trial-NCT04889898)
   - https://clinicaltrials.gov/study/NCT04889898
 - [ ] [高优先级] 待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS (trial-NCT04745299)
