@@ -1,12 +1,14 @@
 # 复核任务清单
 
-- [ ] 肌萎缩侧索硬化中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
+- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅 (pmid-42568821)
+  - https://pubmed.ncbi.nlm.nih.gov/42568821/
+- [ ] 肌萎缩侧索硬化症中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
   - https://pubmed.ncbi.nlm.nih.gov/42482658/
 - [ ] [高优先级] Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究） (pmid-42548788)
   - https://pubmed.ncbi.nlm.nih.gov/42548788/
-- [ ] ALS患者巨噬细胞对Chlorovirus ATCV-1的反应及抗体水平升高 (pmid-42480869)
+- [ ] ALS患者中巨噬细胞对Chlorovirus ATCV-1的反应及抗体水平升高 (pmid-42480869)
   - https://pubmed.ncbi.nlm.nih.gov/42480869/
-- [ ] [高优先级] 多重检测面板在散发性与C9orf72相关ALS中检测到胶质细胞和炎症生物标志物特征 (pmid-42462180)
+- [ ] [高优先级] 多重检测面板在散发性与C9orf72相关肌萎缩侧索硬化中检测到胶质细胞和炎症生物标志物特征 (pmid-42462180)
   - https://pubmed.ncbi.nlm.nih.gov/42462180/
 - [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
@@ -14,23 +16,23 @@
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
 - [ ] [高优先级] 血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究 (pmid-42441926)
   - https://pubmed.ncbi.nlm.nih.gov/42441926/
-- [ ] 《Neurology》期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
+- [ ] Neurology® 期刊俱乐部：当前他汀类药物使用持续时间与肌萎缩侧索硬化风险 (pmid-42430680)
   - https://pubmed.ncbi.nlm.nih.gov/42430680/
+- [ ] 白细胞介素-6 反式信号传导作为神经退行性变中可选择性靶向的驱动因素 (pmid-42567782)
+  - https://pubmed.ncbi.nlm.nih.gov/42567782/
 - [ ] 右颞叶为主的额颞叶痴呆：与左颞叶为主的FTD的临床比较 (pmid-42566133)
   - https://pubmed.ncbi.nlm.nih.gov/42566133/
 - [ ] [高优先级] 超声检测肌束颤动在单节段纯下运动神经元受累患者中早期诊断运动神经元病的价值 (pmid-42566069)
   - https://pubmed.ncbi.nlm.nih.gov/42566069/
-- [ ] [高优先级] 以运动神经元病样表型呈现的抗IgLON5病：在数十年睡眠症状后出现，一种可能对免疫治疗有反应的模拟病 (pmid-42566063)
+- [ ] 以运动神经元病样表型呈现的抗IgLON5病：数十年睡眠症状后的潜在免疫治疗应答性模拟病 (pmid-42566063)
   - https://pubmed.ncbi.nlm.nih.gov/42566063/
-- [ ] 运动神经元病（MND）患者临床评估与管理中的问题：澳大利亚医疗专业人员调查 (pmid-42565285)
+- [ ] 运动神经元病（MND）患者临床评估与管理中的问题：澳大利亚医疗保健专业人员调查 (pmid-42565285)
   - https://pubmed.ncbi.nlm.nih.gov/42565285/
 - [ ] [疑似误收] 实现功能独立：进行性神经肌肉疾病成人上肢辅助装置的范围综述 (pmid-42563536)
   - https://pubmed.ncbi.nlm.nih.gov/42563536/
-- [ ] [疑似误收] 蛋白质组学分析鉴定出ATE1依赖性精氨酰化在脑膜瘤分级中的失调 (pmid-42372081)
-  - https://pubmed.ncbi.nlm.nih.gov/42372081/
-- [ ] 神经干细胞来源的小细胞外囊泡改善 SOD1 G93A 肌萎缩侧索硬化小鼠模型的疾病进展 (pmid-42562776)
-  - https://pubmed.ncbi.nlm.nih.gov/42562776/
-- [ ] 一种不依赖磷酸化的单克隆抗体可改善对额颞叶变性、肌萎缩侧索硬化及边缘系统为主的年龄相关TDP-43脑病神经病理改变中TDP-43病理的检测 (epmc-MED-42562773)
+- [ ] 神经干细胞来源的小细胞外囊泡改善肌萎缩侧索硬化症SOD1 G93A小鼠模型的疾病进展 (epmc-MED-42562776)
+  - https://doi.org/10.1093/jnen/nlag013
+- [ ] 一种不依赖磷酸化的单克隆抗体改善了额颞叶变性、肌萎缩侧索硬化及边缘系统为主的年龄相关TDP-43脑病神经病理改变中TDP-43病理的检测 (epmc-MED-42562773)
   - https://doi.org/10.1093/jnen/nlag085
 - [ ] [疑似误收] ALSUntangled #84 - 伊维菌素 (epmc-MED-42561977)
   - https://doi.org/10.1080/21678421.2026.2714724
@@ -38,7 +40,7 @@
   - https://doi.org/10.1016/j.stemcr.2026.103026
 - [ ] 靶向TDP-43的胞内抗体B1在临床前ALS模型中调节神经炎症和代谢通路 (epmc-MED-42561511)
   - https://doi.org/10.1016/j.neurot.2026.e01032
-- [ ] ALS/FTD相关蛋白CHCHD10通过CHCH螺旋界面与TDP-43 C端结构域结合 (epmc-PPR-PPR1293164)
+- [ ] 待复核翻译：The ALS/FTD-linked protein CHCHD10 associates with the TDP-43 C-terminal domain through a CHCH-helix interface (epmc-PPR-PPR1293164)
   - https://doi.org/10.64898/2026.08.01.742190
 - [ ] Response to "Palpebral ptosis as the initial symptom of 肌萎缩侧索硬化症": the potential usefulness of cortical excitability and motor band sign as 生物标志物s of upper motor neuron degeneration. (epmc-MED-42560418)
   - https://doi.org/10.1007/s10072-026-09303-x

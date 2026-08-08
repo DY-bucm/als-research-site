@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-07T22:56:38.717Z",
+  "updatedAt": "2026-08-08T22:46:53.908Z",
   "summary": {
-    "totalItems": 40,
-    "issueCount": 41
+    "totalItems": 41,
+    "issueCount": 40
   },
   "sources": [
     {
@@ -32,17 +32,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42563536/"
-    },
-    {
-      "id": "pmid-42372081",
-      "title": "Proteomic Analysis Identifies ATE1-Dependent Arginylation Dysregulation across Meningioma Grades.",
-      "titleZh": "蛋白质组学分析鉴定出ATE1依赖性精氨酰化在脑膜瘤分级中的失调",
-      "category": "治疗",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42372081/"
     },
     {
       "id": "epmc-MED-42561977",
@@ -116,18 +105,29 @@
     {
       "id": "pmid-42566063",
       "title": "Anti-IgLON5 disease presenting with a motor neuron disease-like phenotype after decades of sleep symptoms: a potentially immunotherapy responsive mimic.",
-      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：在数十年睡眠症状后出现，一种可能对免疫治疗有反应的模拟病",
+      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：数十年睡眠症状后的潜在免疫治疗应答性模拟病",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42566063/"
+    },
+    {
+      "id": "epmc-MED-42562776",
+      "title": "Neural stem cell-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of amyotrophic lateral sclerosis.",
+      "titleZh": "神经干细胞来源的小细胞外囊泡改善肌萎缩侧索硬化症SOD1 G93A小鼠模型的疾病进展",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://doi.org/10.1093/jnen/nlag013"
     },
     {
       "id": "epmc-MED-42562773",
       "title": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, amyotrophic lateral sclerosis, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
-      "titleZh": "一种不依赖磷酸化的单克隆抗体可改善对额颞叶变性、肌萎缩侧索硬化及边缘系统为主的年龄相关TDP-43脑病神经病理改变中TDP-43病理的检测",
+      "titleZh": "一种不依赖磷酸化的单克隆抗体改善了额颞叶变性、肌萎缩侧索硬化及边缘系统为主的年龄相关TDP-43脑病神经病理改变中TDP-43病理的检测",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
@@ -171,9 +171,9 @@
     {
       "id": "epmc-PPR-PPR1293164",
       "title": "The ALS/FTD-linked protein CHCHD10 associates with the TDP-43 C-terminal domain through a CHCH-helix interface",
-      "titleZh": "ALS/FTD相关蛋白CHCHD10通过CHCH螺旋界面与TDP-43 C端结构域结合",
+      "titleZh": "待复核翻译：The ALS/FTD-linked protein CHCHD10 associates with the TDP-43 C-terminal domain through a CHCH-helix interface",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "medium",
@@ -241,7 +241,7 @@
       "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
       "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（多中心回顾性队列，含倾向评分匹配分析）",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
@@ -250,7 +250,7 @@
     {
       "id": "pmid-42462180",
       "title": "Multiplex Panel Detects Glial and Inflammatory Biomarker Signatures in Sporadic and C9orf72-ALS.",
-      "titleZh": "多重检测面板在散发性与C9orf72相关ALS中检测到胶质细胞和炎症生物标志物特征",
+      "titleZh": "多重检测面板在散发性与C9orf72相关肌萎缩侧索硬化中检测到胶质细胞和炎症生物标志物特征",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 11,
@@ -290,17 +290,6 @@
       "relevanceFlag": "medium",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42566069/"
-    },
-    {
-      "id": "pmid-42566063",
-      "title": "Anti-IgLON5 disease presenting with a motor neuron disease-like phenotype after decades of sleep symptoms: a potentially immunotherapy responsive mimic.",
-      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：在数十年睡眠症状后出现，一种可能对免疫治疗有反应的模拟病",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566063/"
     },
     {
       "id": "epmc-MED-42562736",
@@ -481,18 +470,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 7,
+    "疑似误收": 6,
     "缺标识符": 0,
-    "缺摘要": 12,
-    "高优先级待复核": 22,
+    "缺摘要": 13,
+    "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 40
+    "待复核": 41
   },
   "relevanceCounts": {
+    "medium": 12,
     "high": 23,
-    "medium": 10,
-    "low": 7
+    "low": 6
   }
 }
