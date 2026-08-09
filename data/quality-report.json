@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-08T22:46:53.908Z",
+  "updatedAt": "2026-08-09T22:49:35.948Z",
   "summary": {
-    "totalItems": 41,
-    "issueCount": 40
+    "totalItems": 42,
+    "issueCount": 37
   },
   "sources": [
     {
@@ -23,31 +23,42 @@
   ],
   "lowRelevance": [
     {
-      "id": "pmid-42563536",
+      "id": "pmid-42476836",
+      "title": "When algorithms speak first: The public health risk of consumer AI in ALS diagnosis.",
+      "titleZh": "当算法先开口：消费级人工智能在ALS诊断中的公共卫生风险",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476836/"
+    },
+    {
+      "id": "epmc-MED-42563536",
       "title": "Enabling Functional Independence: A Scoping Review of Upper Extremity Assistive Devices for Adults With Progressive Neuromuscular Diseases.",
-      "titleZh": "实现功能独立：进行性神经肌肉疾病成人上肢辅助装置的范围综述",
+      "titleZh": "实现功能性独立：进行性神经肌肉疾病成人上肢辅助装置的范围综述",
       "category": "临床试验",
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563536/"
+      "url": "https://doi.org/10.1002/mus.70357"
     },
     {
       "id": "epmc-MED-42561977",
       "title": "ALSUntangled #84 - ivermectin.",
-      "titleZh": "ALSUntangled #84 - 伊维菌素",
+      "titleZh": "待复核翻译：ALSUntangled #84 - ivermectin.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1080/21678421.2026.2714724"
     },
     {
       "id": "epmc-MED-42561943",
       "title": "C9orf72-associated and sporadic FTD patient iPSC-microglia show differences in phagocytosis and gene expression.",
-      "titleZh": "C9orf72相关与散发性FTD患者iPSC-小胶质细胞在吞噬作用和基因表达上存在差异",
+      "titleZh": "C9orf72-associated and sporadic FTD patient iPSC-小胶质细胞 show differences in phagocytosis and gene expression.",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
@@ -65,28 +76,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.1080/15548627.2026.2711593"
-    },
-    {
-      "id": "epmc-MED-42562736",
-      "title": "Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "titleZh": "待复核翻译：Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/j.neurot.2026.e00970"
-    },
-    {
-      "id": "epmc-MED-42556722",
-      "title": "Distinct competitive and allosteric binding modes of nanobodies targeting EphA4.",
-      "titleZh": "待复核翻译：Distinct competitive and allosteric binding modes of nanobodies targeting EphA4.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.jbc.2026.113394"
     }
   ],
   "missingIdentifiers": [],
@@ -103,15 +92,48 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
     },
     {
-      "id": "pmid-42566063",
+      "id": "epmc-MED-42566069",
+      "title": "Value of ultrasound-detected fasciculations for the early diagnosis of motor neuron disease in patients with single-segment, pure lower motor neuron involvement.",
+      "titleZh": "超声检测肌束颤动在单节段、纯下运动神经元受累患者中用于运动神经元病早期诊断的价值",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09297-6"
+    },
+    {
+      "id": "epmc-MED-42566063",
       "title": "Anti-IgLON5 disease presenting with a motor neuron disease-like phenotype after decades of sleep symptoms: a potentially immunotherapy responsive mimic.",
-      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：数十年睡眠症状后的潜在免疫治疗应答性模拟病",
+      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：在数十年睡眠症状之后出现的潜在免疫治疗应答性模仿性疾病",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566063/"
+      "url": "https://doi.org/10.1007/s10072-026-09296-7"
+    },
+    {
+      "id": "epmc-MED-42565285",
+      "title": "Issues in the clinical assessment and management of people living with motor neurone disease (MND): a survey of Australian healthcare professionals.",
+      "titleZh": "运动神经元病（MND）患者临床评估与管理中的问题：澳大利亚医疗专业人员调查",
+      "category": "机制",
+      "evidenceLevel": "调查研究（无摘要，证据等级待评估）",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/21678421.2026.2710550"
+    },
+    {
+      "id": "epmc-MED-42563536",
+      "title": "Enabling Functional Independence: A Scoping Review of Upper Extremity Assistive Devices for Adults With Progressive Neuromuscular Diseases.",
+      "titleZh": "实现功能性独立：进行性神经肌肉疾病成人上肢辅助装置的范围综述",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/mus.70357"
     },
     {
       "id": "epmc-MED-42562776",
@@ -127,29 +149,29 @@
     {
       "id": "epmc-MED-42562773",
       "title": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, amyotrophic lateral sclerosis, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
-      "titleZh": "一种不依赖磷酸化的单克隆抗体改善了额颞叶变性、肌萎缩侧索硬化及边缘系统为主的年龄相关TDP-43脑病神经病理改变中TDP-43病理的检测",
+      "titleZh": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, 肌萎缩侧索硬化症, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1093/jnen/nlag085"
     },
     {
       "id": "epmc-MED-42561977",
       "title": "ALSUntangled #84 - ivermectin.",
-      "titleZh": "ALSUntangled #84 - 伊维菌素",
+      "titleZh": "待复核翻译：ALSUntangled #84 - ivermectin.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1080/21678421.2026.2714724"
     },
     {
       "id": "epmc-MED-42561943",
       "title": "C9orf72-associated and sporadic FTD patient iPSC-microglia show differences in phagocytosis and gene expression.",
-      "titleZh": "C9orf72相关与散发性FTD患者iPSC-小胶质细胞在吞噬作用和基因表达上存在差异",
+      "titleZh": "C9orf72-associated and sporadic FTD patient iPSC-小胶质细胞 show differences in phagocytosis and gene expression.",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
@@ -160,7 +182,7 @@
     {
       "id": "epmc-MED-42561511",
       "title": "Intrabody B1 targeting TDP-43 modulates neuroinflammatory and metabolic pathways in a preclinical ALS model.",
-      "titleZh": "靶向TDP-43的胞内抗体B1在临床前ALS模型中调节神经炎症和代谢通路",
+      "titleZh": "待复核翻译：Intrabody B1 targeting TDP-43 modulates neuroinflammatory and metabolic pathways in a preclinical ALS model.",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
@@ -200,39 +222,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.1080/15548627.2026.2711593"
-    },
-    {
-      "id": "epmc-MED-42562736",
-      "title": "Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "titleZh": "待复核翻译：Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/j.neurot.2026.e00970"
-    },
-    {
-      "id": "epmc-MED-42558984",
-      "title": "The Effectiveness Based on Optimal Dose and Administration Route, and Safety Profiles of Stem Cells and Derived Products in the Treatment of Patients With Amyotrophic Lateral Sclerosis: A Systematic Review and Meta-Analysis.",
-      "titleZh": "The Effectiveness Based on Optimal Dose and Administration Route, and Safety Profiles of 干细胞s and Derived Products in the Treatment of Patients With 肌萎缩侧索硬化症: A Systematic Review and Meta-Analysis.",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1155/sci/4122493"
-    },
-    {
-      "id": "epmc-MED-42556722",
-      "title": "Distinct competitive and allosteric binding modes of nanobodies targeting EphA4.",
-      "titleZh": "待复核翻译：Distinct competitive and allosteric binding modes of nanobodies targeting EphA4.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.jbc.2026.113394"
     }
   ],
   "highPriorityNeedsReview": [
@@ -261,7 +250,7 @@
     {
       "id": "pmid-42525902",
       "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
-      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联",
+      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
@@ -279,28 +268,6 @@
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441926/"
-    },
-    {
-      "id": "pmid-42566069",
-      "title": "Value of ultrasound-detected fasciculations for the early diagnosis of motor neuron disease in patients with single-segment, pure lower motor neuron involvement.",
-      "titleZh": "超声检测肌束颤动在单节段纯下运动神经元受累患者中早期诊断运动神经元病的价值",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566069/"
-    },
-    {
-      "id": "epmc-MED-42562736",
-      "title": "Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "titleZh": "待复核翻译：Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.1016/j.neurot.2026.e00970"
     },
     {
       "id": "trial-NCT06609213",
@@ -470,18 +437,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 6,
+    "疑似误收": 5,
     "缺标识符": 0,
     "缺摘要": 13,
-    "高优先级待复核": 21,
+    "高优先级待复核": 19,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 41
+    "待复核": 42
   },
   "relevanceCounts": {
     "medium": 12,
-    "high": 23,
-    "low": 6
+    "high": 25,
+    "low": 5
   }
 }

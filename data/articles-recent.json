@@ -1,14 +1,44 @@
 {
-  "updatedAt": "2026-08-08T22:44:36.489Z",
+  "updatedAt": "2026-08-09T22:47:33.337Z",
   "period": {
     "days": 10,
-    "from": "2026-07-30",
-    "to": "2026-08-08"
+    "from": "2026-07-31",
+    "to": "2026-08-09"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 60,
+  "count": 58,
   "articles": [
+    {
+      "id": "pmid-42569815",
+      "pmid": "42569815",
+      "doi": "10.1002/mus.70374",
+      "title": "\"Abductor Sparing\": A New Selective Involvement in ALS.",
+      "abstract": "Various signs of selective muscle involvement have been reported in amyotrophic lateral sclerosis (ALS) but such studies for the lower limbs are scarce. We formed a preliminary impression that hip abductors (Ab) are often preserved in ALS. We named this phenomenon \"abductor sparing\", and this study aimed to verify our findings. Patients with a confirmed diagnosis of ALS (ALS group) and patients with pyramidal weakness other than ALS (pyramidal group) were retrospectively identified. Medical Research Council (MRC) scores of 10 muscle groups in the lower limbs were evaluated. The proportion of patients with weakness (MRC score 4 or less) was compared between different groups. We enrolled 61 patients in the ALS group and 27 patients in the pyramidal group. The most frequently weak muscle groups in both groups were big toe extensors and hip flexors. Ab was the third (70%) in the pyramidal group, whereas it was weak only in 30% of patients with ALS. This held true also for patients with ALS with shorter duration or less severity. \"The lower limb flexor pattern\", i.e., flexor muscles being weaker than extensor muscles, was observed both in ALS and pyramidal groups. Patients with ALS generally showed similar muscle weakness patterns to those with pyramidal syndrome, except for abductor sparing. The reason for the latter phenomenon is unclear. Abductor sparing may be useful for early diagnosis of ALS, although larger studies with blinded evaluators are needed to confirm these findings.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Kondo A",
+        "Hokkoku K",
+        "Kanbayashi T",
+        "Nakayama T",
+        "Sasaki T",
+        "Matsuno H",
+        "Iguchi Y",
+        "Fukutake T",
+        "Ando T",
+        "Kamiyama T",
+        "Kim P",
+        "Hasegawa T",
+        "Hatanaka Y",
+        "Kobayashi S",
+        "Sonoo M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42569815/"
+    },
     {
       "id": "pmid-42566063",
       "pmid": "42566063",
@@ -1069,6 +1099,23 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42427320/"
     },
     {
+      "id": "pmid-42570648",
+      "pmid": "42570648",
+      "doi": "10.7754/Clin.Lab.2025.250766",
+      "title": "Identification of Glycolysis-Related Diagnostic Biomarkers for Amyotrophic Lateral Sclerosis Using Machine Learning.",
+      "abstract": "Glycometabolism has been implicated in the pathogenesis of amyotrophic lateral sclerosis (ALS), yet the precise molecular mechanisms underlying this association remain poorly understood. The identification of reliable biomarkers for ALS diagnosis represents a critical unmet need in clinical practice, as early detection and intervention could significantly improve patient outcomes. We employed a comprehensive analytical approach combining two-sample Mendelian randomization analysis to investigate the causal relationship between blood glucose levels and ALS. Additionally, we integrated differential expression analysis, multiple machine learning algorithms, and correlation analyses to identify potential diagnostic biomarkers for ALS. The machine learning framework utilized gradient boosting tree methodology to construct predictive models, with performance evaluation conducted through cross-validation procedures. Mendelian randomization analysis demonstrated a significant negative causal relationship between blood glucose levels and ALS risk. Through bioinformatic analysis and machine learning approaches, we successfully identified candidate genes and constructed a high-performance predictive model using gradient boosting tree methodology, achieving an average area under the curve (AUC) of 0.8782 in cross-validation. Validation studies utilizing both bulk and single-cell RNA sequencing datasets revealed that COL5A1 and VCAN genes play significant roles in ALS pathogenesis, likely through their involvement in glycolytic pathways. Our findings provide novel insights into the molecular mechanisms linking glycometabolism and ALS, while identifying potential diagnostic biomarkers for the disease. The identified genes, COL5A1 and VCAN, represent promising targets for further investigation in ALS pathogenesis. However, the clinical translation of these findings requires validation through additional datasets and prospective clinical trials to establish their diagnostic utility and therapeutic potential.",
+      "journal": "Clinical laboratory",
+      "authors": [
+        "Ye P",
+        "Guo B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42570648/"
+    },
+    {
       "id": "pmid-42557952",
       "pmid": "42557952",
       "doi": "10.1002/jmv.71086",
@@ -1493,117 +1540,6 @@
       ],
       "publishedAt": "2026-07-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42536230/"
-    },
-    {
-      "id": "pmid-42530583",
-      "pmid": "42530583",
-      "doi": "10.1080/09638288.2026.2704454",
-      "title": "A qualitative investigation of the factors influencing the uptake of noninvasive ventilation among Australians with motor neurone disease.",
-      "abstract": "Non-invasive ventilation (NIV) improves quality of life and extends survival for people with motor neurone disease (pwMND); however, uptake in Australia remains modest. This study explored the factors that influence the uptake of NIV from the perspectives of pwMND, caregivers, and healthcare professionals. Thirty-nine semi-structured interviews were conducted with pwMND ( n = 8), family caregivers of pwMND ( n = 4), and healthcare professionals ( n = 27). A two-stage deductive-inductive analysis was performed to identify common themes that influence the uptake of NIV in MND. Twenty-six key influencing factors were identified, relating to three major themes: influences on the pwMND's decision to trial NIV; healthcare professional knowledge, beliefs and behaviors ; and inequity and lack of responsiveness in the healthcare system . Inductive analysis also identified a fourth theme, disparities in NIV uptake . Within this theme, women, older people, and First Nations Australians were acknowledged as demographic groups experiencing challenges to NIV uptake that warrant further investigation. This research identified multiple modifiable factors influencing the uptake of NIV that can inform the design of targeted interventions to reduce inequitable access to NIV, increase uptake, and optimize quality of life for pwMND. For people living with motor neurone disease (MND), non-invasive ventilation (NIV) effectively improves quality of life and increases survival.Despite the well-established benefits, the uptake of NIV by people with MND is highly variable.This study found that the barriers to accessing NIV outweighed the barriers to accepting NIV when it is offered.Strategies that empower people with MND with knowledge about NIV, skills to proactively manage their health, and connections with the MND community are crucial to improving NIV uptakeInterventions targeting healthcare professionals’ knowledge, skills, and attitudes regarding NIV are also needed, particularly for healthcare professionals who do not specialize in MND.",
-      "journal": "Disability and rehabilitation",
-      "authors": [
-        "Graco M",
-        "Russo K",
-        "Grivell N",
-        "Carey K",
-        "Zaga C",
-        "Saravanan K",
-        "Sheers NL",
-        "Berlowitz DJ",
-        "NIV in MND Stakeholder Advisory Group"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42530583/"
-    },
-    {
-      "id": "pmid-42531420",
-      "pmid": "42531420",
-      "doi": "10.2196/85142",
-      "title": "Digital Remote Assessment of Motor and Speech Changes in Amyotrophic Lateral Sclerosis: Longitudinal Observational Study.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease with an active trial landscape that relies on the sensitivity of selected clinical trial endpoints. Traditional clinical outcome assessments perform well in trials but lack strong psychometric properties and may not detect small but clinically meaningful disease progression. Digital health technologies offer a promising alternative for tracking ALS disease progression. This study assessed the feasibility of remote digital monitoring in ALS using a comprehensive battery of prescribed home-based assessments via a smartphone, a wearable device, and a computer-based mouse-clicking task. Participants completed weekly remote assessments, including motor and speech tasks via a smartphone app and a computer mouse-clicking task for 24 weeks. They also participated in 3 remote telephone visits in weeks 1, 13, and 25. Reliability, minimal detectable change, and correlations with self-reported ALS Functional Rating Scale-Revised subdomain scores were calculated for 8 features across the speech, fine motor, and gross motor smartphone app tasks and for all 32 features from the computer mouse-clicking task. Sensitivity to longitudinal change was assessed for the 8 smartphone-derived features and for a representative subset of 8 computer mouse-clicking features. Forty-two participants (19 with ALS and 23 controls) completed 10,237 smartphone assessments and 459 computer mouse-clicking sessions. Baseline discriminative models differentiated ALS from controls with AUC values of 0.75-0.92. Digital measures correlated strongly with self-reported ALS Functional Rating Scale-Revised subdomain scores. Both participants with ALS and controls demonstrated improvement in fine motor and speech measures, with the exception of nondominant-hand pegboard performance, which declined in the ALS group. Improvements were smaller in participants with ALS, leading to increasing group differences over time, although only one feature showed a statistically significant separation over the 24 weeks. Gait and balance performance declined in both groups, with greater but nonsignificant separation observed for balance measures. These findings support the feasibility of digital remote assessments in ALS, demonstrate the ability to discriminate between ALS and controls based on certain features collected from speech, fine, and gross motor tasks, and in some cases, quantify functional decline over time. Further research is necessary to explore the natural history of these features longitudinally in larger cohorts of participants with ALS over extended periods to enable their potential integration into clinical trials.",
-      "journal": "JMIR formative research",
-      "authors": [
-        "Burke KM",
-        "Brown R",
-        "Calcagno N",
-        "Gupta AS",
-        "Gajos KZ",
-        "Scheier Z",
-        "Clark A",
-        "Iyer A",
-        "Higgins MP",
-        "Keegan M",
-        "Royse TB",
-        "Remington E",
-        "Connaghan KP",
-        "Johnson SA",
-        "Chew S",
-        "Erb MK",
-        "Berry JD"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "publishedAt": "2026-07-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42531420/"
-    },
-    {
-      "id": "pmid-42533344",
-      "pmid": "42533344",
-      "doi": "10.1186/s42466-026-00522-3",
-      "title": "Ethical challenges in treatment-goal transitions in invasively ventilated ALS: a case-based topical review.",
-      "abstract": "In advanced amyotrophic lateral sclerosis (ALS), eye movements often represent the last channel for intentional communication. While oculomotor function has traditionally been considered relatively preserved, emerging evidence indicates progressive impairment in long-term survivors on tracheostomy-invasive ventilation (TIV). As a result, eye-based communication may become increasingly unreliable before complete loss, challenging clinical decision-making and advance care planning (ACP). We conducted a case-based topical review integrating clinical observation and literature to examine the trajectory of oculomotor decline, its impact on communication, and implications for treatment decisions. Three patients with ALS receiving TIV in a home-care setting illustrate key clinical and ethical challenges. Across cases and literature, oculomotor decline followed a gradual trajectory from effective eye-tracking communication to a complete locked-in syndrome. We identify a transitional phase of communicative ambiguity, in which residual ocular signals persist but can no longer be reliably attributed to intentional, patient-controlled communication. This phase is characterized by increasing inconsistency of signals and a divergence between observable responses and their interpretive certainty, creating uncertainty in assessing patient preferences. Communicative ambiguity represents a clinically underrecognized but critical threshold in advanced ALS, marking the transition from direct patient autonomy to interpretative and surrogate-based decision-making. Failure to recognize this phase risks misinterpretation of patient intent and may undermine goal-concordant care. Timely and iterative ACP, initiated before communication becomes unreliable, is essential. We further propose four clinical pathways for treatment goal conversations, highlighting their differing implications for timing, symptom burden, and ethical decision-making.",
-      "journal": "Neurological research and practice",
-      "authors": [
-        "Bublitz SK",
-        "Becker B",
-        "Demleitner AF",
-        "Dietz-Laukemann P",
-        "Lingor P",
-        "Littger B",
-        "Lorenzl S",
-        "Feddersen B"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-07-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42533344/"
-    },
-    {
-      "id": "pmid-42528478",
-      "pmid": "42528478",
-      "doi": "10.1002/ana.78315",
-      "title": "Toward a Behavioral Reserve Model in Amyotrophic Lateral Sclerosis.",
-      "abstract": "Behavioral impairment is common in amyotrophic lateral sclerosis (ALS) and strongly affects autonomy, caregiver burden, and outcomes, yet predictors of vulnerability remain unclear. We investigated whether premorbid regulatory traits and socio-educational exposures are associated with behavioral phenotypes in ALS within a behavioral reserve framework. We analyzed 965 consecutively assessed patients with ALS from a prospective tertiary-center cohort. Behavioral impairment was measured using the Frontal Systems Behavior Scale (FrSBe; family-rated before and after onset) and, in a subset (n = 633), the Edinburgh Cognitive and Behavioural ALS Screen-Carer Interview (ECAS-CI). Theory-driven hierarchical logistic regression models tested associations between behavioral outcomes and premorbid behavioral regulation, education, occupation, and a Social Interaction Index, including interaction effects. Prespecified sensitivity analyses addressed potential bias in premorbid estimates. Premorbid behavioral regulation showed the strongest associations with behavioral impairment across all FrSBe models. Higher combined educational attainment and social exposure were associated with lower odds of impairment, with a significant interaction across multiple behavioral domains. These patterns persisted in restricted sensitivity analyses. Reserve proxies were not significantly associated with ECAS-CI total impairment, although domain-specific effects were observed. These findings provide empirical support for a behavioral reserve framework in ALS, in which premorbid regulatory traits and socio-educational exposures are associated with behavioral vulnerability. Although causal inference is limited, reserve-related factors may contribute to non-motor heterogeneity in ALS and may inform future approaches to early behavioral risk stratification. ANN NEUROL 2026.",
-      "journal": "Annals of neurology",
-      "authors": [
-        "Palumbo F",
-        "Iazzolino B",
-        "Moglia C",
-        "Manera U",
-        "Matteoni E",
-        "Cabras S",
-        "Pellegrino G",
-        "Minerva E",
-        "Passidomo V",
-        "Vasta R",
-        "Mora G",
-        "D'Ovidio F",
-        "Canosa A",
-        "Calvo A",
-        "Chiò A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528478/"
     }
   ]
 }

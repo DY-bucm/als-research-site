@@ -1,82 +1,163 @@
 {
-  "updatedAt": "2026-08-08T22:46:53.959Z",
-  "previousSnapshot": "data/archive/2026-08-07.json",
+  "updatedAt": "2026-08-09T22:49:36.000Z",
+  "previousSnapshot": "data/archive/2026-08-08.json",
   "current": "data/items.json",
   "summary": {
-    "added": 3,
-    "removed": 2,
-    "changed": 3
+    "added": 8,
+    "removed": 7,
+    "changed": 4
   },
   "added": [
     {
-      "id": "pmid-42568821",
-      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅",
-      "category": "临床试验",
+      "id": "pmid-42520340",
+      "titleZh": "犬肌萎缩侧索硬化疾病模型中一般本体感觉的病理学",
+      "category": "生物标志物",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520340/"
     },
     {
-      "id": "pmid-42567782",
-      "titleZh": "白细胞介素-6 反式信号传导作为神经退行性变中可选择性靶向的驱动因素",
-      "category": "临床试验",
+      "id": "pmid-42476836",
+      "titleZh": "当算法先开口：消费级人工智能在ALS诊断中的公共卫生风险",
+      "category": "生物标志物",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567782/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476836/"
     },
     {
-      "id": "epmc-MED-42562776",
-      "titleZh": "神经干细胞来源的小细胞外囊泡改善肌萎缩侧索硬化症SOD1 G93A小鼠模型的疾病进展",
+      "id": "pmid-42542073",
+      "titleZh": "肠道微生物群与大脑健康：疾病特异性通路与新兴治疗策略",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542073/"
+    },
+    {
+      "id": "pmid-42569815",
+      "titleZh": "“外展肌保留”：ALS 中一种新的选择性受累模式",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42569815/"
+    },
+    {
+      "id": "epmc-MED-42566069",
+      "titleZh": "超声检测肌束颤动在单节段、纯下运动神经元受累患者中用于运动神经元病早期诊断的价值",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09297-6"
+    },
+    {
+      "id": "epmc-MED-42566063",
+      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：在数十年睡眠症状之后出现的潜在免疫治疗应答性模仿性疾病",
       "category": "治疗",
       "priority": "medium",
-      "url": "https://doi.org/10.1093/jnen/nlag013"
+      "url": "https://doi.org/10.1007/s10072-026-09296-7"
+    },
+    {
+      "id": "epmc-MED-42565285",
+      "titleZh": "运动神经元病（MND）患者临床评估与管理中的问题：澳大利亚医疗专业人员调查",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/21678421.2026.2710550"
+    },
+    {
+      "id": "epmc-MED-42563536",
+      "titleZh": "实现功能性独立：进行性神经肌肉疾病成人上肢辅助装置的范围综述",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/mus.70357"
     }
   ],
   "removed": [
     {
-      "id": "pmid-42372081",
-      "titleZh": "蛋白质组学分析鉴定出ATE1依赖性精氨酰化在脑膜瘤分级中的失调",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42372081/"
-    },
-    {
-      "id": "pmid-42562776",
-      "titleZh": "神经干细胞来源的小细胞外囊泡改善 SOD1 G93A 肌萎缩侧索硬化小鼠模型的疾病进展",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562776/"
-    }
-  ],
-  "changed": [
-    {
-      "id": "pmid-42548788",
-      "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "观察性临床研究（多中心回顾性队列，含倾向评分匹配分析）",
-          "after": "观察性临床研究"
-        }
-      ]
+      "id": "pmid-42566069",
+      "titleZh": "超声检测肌束颤动在单节段纯下运动神经元受累患者中早期诊断运动神经元病的价值",
+      "category": "生物标志物",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566069/"
     },
     {
       "id": "pmid-42566063",
       "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：数十年睡眠症状后的潜在免疫治疗应答性模拟病",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566063/"
+    },
+    {
+      "id": "pmid-42565285",
+      "titleZh": "运动神经元病（MND）患者临床评估与管理中的问题：澳大利亚医疗保健专业人员调查",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42565285/"
+    },
+    {
+      "id": "pmid-42563536",
+      "titleZh": "实现功能独立：进行性神经肌肉疾病成人上肢辅助装置的范围综述",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563536/"
+    },
+    {
+      "id": "epmc-MED-42562736",
+      "titleZh": "待复核翻译：Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/j.neurot.2026.e00970"
+    },
+    {
+      "id": "epmc-MED-42558984",
+      "titleZh": "The Effectiveness Based on Optimal Dose and Administration Route, and Safety Profiles of 干细胞s and Derived Products in the Treatment of Patients With 肌萎缩侧索硬化症: A Systematic Review and Meta-Analysis.",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1155/sci/4122493"
+    },
+    {
+      "id": "epmc-MED-42556722",
+      "titleZh": "待复核翻译：Distinct competitive and allosteric binding modes of nanobodies targeting EphA4.",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113394"
+    }
+  ],
+  "changed": [
+    {
+      "id": "pmid-42568821",
+      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅",
       "changes": [
         {
-          "field": "priority",
-          "before": "high",
-          "after": "medium"
+          "field": "evidenceLevel",
+          "before": "综述/专家观点",
+          "after": "综述/回顾性文章"
         }
       ]
     },
     {
-      "id": "epmc-PPR-PPR1293164",
-      "titleZh": "待复核翻译：The ALS/FTD-linked protein CHCHD10 associates with the TDP-43 C-terminal domain through a CHCH-helix interface",
+      "id": "pmid-42482658",
+      "titleZh": "肌萎缩侧索硬化中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "机制研究（预印本）",
-          "after": "机制研究"
+          "before": "观察性临床研究",
+          "after": "观察性临床研究（回顾性横断面，单中心，无健康对照）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42562773",
+      "titleZh": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, 肌萎缩侧索硬化症, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42561977",
+      "titleZh": "待复核翻译：ALSUntangled #84 - ivermectin.",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
         }
       ]
     }
