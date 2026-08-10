@@ -1,14 +1,82 @@
 {
-  "updatedAt": "2026-08-09T22:47:33.337Z",
+  "updatedAt": "2026-08-10T22:54:32.533Z",
   "period": {
     "days": 10,
-    "from": "2026-07-31",
-    "to": "2026-08-09"
+    "from": "2026-08-01",
+    "to": "2026-08-10"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 58,
+  "count": 62,
   "articles": [
+    {
+      "id": "pmid-42573824",
+      "pmid": "42573824",
+      "doi": "10.1007/s10048-026-00924-0",
+      "title": "Clinical significance of SQSTM1 variants in ALS: report of p.Arg119Cys and literature review.",
+      "abstract": "We analyzed the clinical features of a patient with amyotrophic lateral sclerosis (ALS) carrying a novel variant in the sequestosome 1 (SQSTM1) gene and explored the genotype-phenotype association of SQSTM1 gene variants in combination with previous literature. Clinical data and genetic testing results of an ALS patient treated at our hospital were collected. Whole-exome sequencing was used to screen for ALS-related genes, and candidate variants were validated by Sanger sequencing and family analysis. A systematic search was conducted in the PubMed database using the keywords (\"amyotrophic lateral sclerosis\") OR (\"motor neuron disease\") AND (\"SQSTM1\") to summarize the clinical and genetic characteristics of previously reported ALS patients with SQSTM1 variants. The patient was a 49-year-old male with progressive weakness in both lower limbs for one year and weakness in the left upper limb for the past three months. Electromyography showed extensive neurogenic damage. Genetic testing identified a novel heterozygous missense variant, c.355 C > T (p.Arg119Cys), in the SQSTM1 gene. Family verification revealed that his phenotypically normal mother carried the same variant. The literature search identified 58 cases of ALS associated with SQSTM1 variants. Missense variants were the most common type. We identified a novel SQSTM1 variant, c.355 C > T (p.Arg119Cys), in a ALS patient. Although this finding expands the variant spectrum, its pathogenicity remains uncertain and requires further functional validation and pedigree confirmation. Our literature review further shows that SQSTM1-associated ALS predominantly presents with limb onset, with a subset of patients exhibiting frontotemporal dementia or Paget's disease.",
+      "journal": "Neurogenetics",
+      "authors": [
+        "Su B",
+        "Li L",
+        "Zheng X",
+        "Ma H",
+        "Li X",
+        "Feng X"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "publishedAt": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42573824/"
+    },
+    {
+      "id": "pmid-42574250",
+      "pmid": "42574250",
+      "doi": "10.1093/hmg/ddag076",
+      "title": "CoCoRV-nf: a powerful and cost-effective tool for rare variant analysis leveraging external biobank sequence data identified new candidate predisposition genes in amyotrophic lateral sclerosis and neuroblastoma.",
+      "abstract": "Although sequencing costs have steadily decreased with advances in technology, they remain high for large scale studies. The design of traditional individual-disease sequencing studies is either case only or cases with relatively few controls, resulting in potential loss of statistical power for discovery of disease associated genes. Here we show that for a given number of sequenced cases, a large control sample size is critical to maximize power for rare variant burden analysis. Furthermore, we have developed an end-to-end workflow based tool (CoCoRV-nf) to facilitate the use of external biobank sequence resources as controls. The modules include consistent variant QC, variant annotation, ancestry population prediction, and gene based burden analysis using summary genotype information, and combined analysis from multiple independent results. The tool supports exomes and genomes from gnomAD and All of Us as controls with preprocessed datasets. We apply the tool in two rare neurological diseases: amyotrophic lateral sclerosis and neuroblastoma. For each disease, two case cohorts are paired with gnomAD and All of Us data, respectively, followed by a combined analysis. Not only did we recapture known genes, but also, we identified new candidate genes for both diseases. By leveraging multiple large external biobank sequence data, we demonstrate the feasibility of using our tool to maximize statistical power to identify new disease predisposition genes.",
+      "journal": "Human molecular genetics",
+      "authors": [
+        "Tithi SS",
+        "Cooper-Knock J",
+        "Benatar M",
+        "Wuu J",
+        "Taylor JP",
+        "Wu G",
+        "Chen W"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574250/"
+    },
+    {
+      "id": "pmid-42572514",
+      "pmid": "42572514",
+      "doi": "10.1080/17582024.2026.2705867",
+      "title": "Relationship between neck weakness in motor neurone disease and respiratory function: a retrospective study.",
+      "abstract": "The primary aim was to explore the relationship between neck weakness in people with motor neurone disease (MND) and their respiratory function. The secondary aim was to identify whether neck weakness can be a prognostic factor. This was a retrospective observational cohort study. Data was collected from patient records on MND characteristics, neck weakness, respiratory function, and noninvasive ventilation (NIV) use. Multivariate modeling explored the effect of neck weakness on respiratory variables. MND-related neck weakness was evident in 41% of 324 participants. Fifty-four percent used NIV and 17% became dependent on NIV during disease progression. The presence of neck weakness in MND was predictive of time to respiratory function decline, for respiratory outcomes (forced vital capacity (FVC) <65%, FVC <50% and NIV use) as well as having an effect on time to death. Median time from neck weakness onset to death was 8 months (IQR 10 months; range 0 to 60 months) with bulbar onset the quickest, median of 7 months (IQR 7 months, range 0 to 43 months). The presence of neck weakness is associated with a more rapid respiratory function decline in MND. In addition, neck weakness can be considered a prognostic factor in MND survival. People with motor neurone disease (MND) experience weakness in different parts of their body including muscles that are responsible for breathing. As the disease worsens, it is expected that their breathing worsens, resulting in death. To help prolong the person’s life, timely equipment that makes breathing easier is important. It is thought that there may be a relationship between weakness spreading to the neck muscles and the person’s ability to breathe and whether it could help predict how the disease will progress. To explore this further, we reviewed the medical records of 324 people with MND. We found that about 4 in 10 people had neck weakness from their MND and over half were using breathing support. We also found that those with neck weakness tended to lose their breathing function more quickly and needed breathing support sooner. People with neck weakness were also found to have a shorter survival time, with an average of 8 months once their neck weakness began, however this varied depending on the type of MND the person had.",
+      "journal": "Neurodegenerative disease management",
+      "authors": [
+        "Sheehy TP",
+        "Sia T",
+        "Morgan PE",
+        "Zhao Y",
+        "Mathieson SR",
+        "Gibb RM",
+        "Smith AA",
+        "Wools CA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572514/"
+    },
     {
       "id": "pmid-42569815",
       "pmid": "42569815",
@@ -38,6 +106,32 @@
       ],
       "publishedAt": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42569815/"
+    },
+    {
+      "id": "pmid-42572287",
+      "pmid": "42572287",
+      "doi": "10.1538/expanim.26-0040",
+      "title": "Generation of mutant human SOD1 knock-in mouse lines at the Rosa26 locus as a platform for developing genome-editing therapies for amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease characterized by the degeneration of upper and lower motor neurons, resulting in progressive paralysis and death within a few years of symptom onset. Although current treatments modestly slow the disease progression, effective disease-modifying and curative therapies remain an urgent unmet need. SOD1 mutations are one of the major genetic causes of familial ALS. The p.Leu127Ser (L126S) and p.Gly94Ser (G93S) variants are clinically relevant pathogenic variants for which appropriate animal models are needed for preclinical evaluation of gene-editing therapies. However, most existing SOD1 models rely on high copy overexpression of mutant SOD1. Therefore, animal models carrying a single copy mutant human SOD1 allele are required for evaluating the in vivo efficacy of genome editing therapies. Here, we used CRISPR/Cas9-mediated homology-directed repair to generate a knock-in mouse line at the Gt(ROSA)26Sor (Rosa26) locus carrying a single-copy, 11-kb human SOD1 genomic fragment, including all exons and introns, with the L126S mutation. The Rosa26-hSOD1 L126S mice did not develop ALS-like phenotypes during the limited observation period. However, they faithfully retained a single-copy mutant human SOD1 genomic allele, providing a valuable preclinical platform for evaluating genome-editing therapies. We also generated Rosa26-hSOD1 G93S mice carrying the SOD1 G93S mutation with comparable efficiency. Together, these mutant human SOD1 knock-in mouse lines provide a versatile and clinically relevant platform for the preclinical evaluation of genome-editing therapies targeting heterozygous SOD1 mutations.",
+      "journal": "Experimental animals",
+      "authors": [
+        "Okunomiya T",
+        "Sakasai T",
+        "Tsukita K",
+        "Shimizu R",
+        "Okusa A",
+        "Adachi M",
+        "Tomita S",
+        "Tanaka A",
+        "Kondo T",
+        "Imamura K",
+        "Inoue H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572287/"
     },
     {
       "id": "pmid-42566063",
@@ -705,6 +799,29 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42551425/"
     },
     {
+      "id": "pmid-42574200",
+      "pmid": "42574200",
+      "doi": "10.4103/aian.aian_1333_25",
+      "title": "Myofibrillar Myopathy with Pyramidal Signs Mimicking Amyotrophic Lateral Sclerosis.",
+      "abstract": "",
+      "journal": "Annals of Indian Academy of Neurology",
+      "authors": [
+        "Mirg S",
+        "Elavarasi A",
+        "Das A",
+        "Vibha D",
+        "Singh RK",
+        "Parihar J",
+        "Sharma MC",
+        "Tripathi M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574200/"
+    },
+    {
       "id": "pmid-42552132",
       "pmid": "42552132",
       "doi": "10.1136/oemed-2025-110662",
@@ -1019,6 +1136,25 @@
       ],
       "publishedAt": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42463858/"
+    },
+    {
+      "id": "pmid-42139128",
+      "pmid": "42139128",
+      "doi": "10.1109/TBME.2026.3693965",
+      "title": "ChatBCI-Assist: An Intent-Based P300 Speller With A Locally Deployed LLM and Adaptive Stopping Strategy Enabling Record Online Spelling Performance.",
+      "abstract": "P300-based speller brain computer interfaces (BCIs) provide promising communication solutions for individuals with severe motor impairments, such as those with amyotrophic lateral sclerosis (ALS). However, existing P300 spellers are constrained by slow typing speed and limited efficiency. Here, we present ChatBCI-Assist, an intent-based P300 speller that integrates a locally deployed large language model (LLM), fine-tuned for the task at hand, and a graphical user interface (GUI) designed for efficient message composition, while incorporating an adaptive stopping strategy for key selection, to achieve record online spelling performance. The LLM, trained on an ALS-specific communication corpus using low-rank adaptation (LoRA), produces context-aware, prefix-constrained word and phrase predictions in real time. The proposed GUI enables efficient, user-adaptive interaction with these predictions and facilitates semantically driven message composition, where suggestions can reflect the user's intended message. To evaluate intent-based communication, we introduce semantic spelling tasks (beyond traditional copy-spelling), where users convey intended meaning rather than reproduce text verbatim, along with metrics to assess communication based on semantic similarity. Results from online experiments show that ChatBCI-Assist achieves record performance, with an average (estimated) information transfer rate (ITR) of 105.2 bits/min, an overall character-level mutual information rate (MIR) of 52.9 bits/min, and average values of 19.7 characters per minute (CPM) in copy-spelling tasks and 30.7 CPM in semantic spelling tasks. Evaluated using semantic ITR (SITR), a metric proposed to characterize semantic communication efficiency, ChatBCI-Assist achieves an SITR of 147.1 bits/min. User experience evaluations further indicate reduced workload and improved usability compared to traditional copy-spelling paradigms. These results demonstrate that integrating locally-adapted LLMs with intent-driven design and subject-specific decoding optimization can substantially improve the speed, efficiency, and user experience of BCI-based communication systems.",
+      "journal": "IEEE transactions on bio-medical engineering",
+      "authors": [
+        "Hong J",
+        "Rao P",
+        "Wang W",
+        "Najafizadeh L"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42139128/"
     },
     {
       "id": "pmid-42551865",
@@ -1499,47 +1635,6 @@
       ],
       "publishedAt": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42373582/"
-    },
-    {
-      "id": "pmid-42537332",
-      "pmid": "42537332",
-      "doi": "10.1016/j.neucli.2026.103185",
-      "title": "F-wave responses and recruitment at low intensities: Muscle-specific excitability profiles of intrinsic hand muscles.",
-      "abstract": "F-waves are late motor responses traditionally elicited via supramaximal stimulation. However, submaximal stimulation may offer a more sensitive probe for assessing spinal motoneuron excitability. This study characterizes F-wave recruitment curves using graded submaximal stimulation across various intrinsic hand muscles. F-waves were recorded from the abductor pollicis brevis (APB), abductor digiti minimi (ADM), and first dorsal interosseous (FDI) in 15 healthy subjects (ages 35-78). Four stimulus intensities were employed-10%, 20%, 30%, and 100% of the maximal compound muscle action potential (CMAP) amplitude-with 20 stimuli delivered per intensity. Analysis focused on F-wave frequency, amplitude, and matched F-wave/CMAP ratios (F-wave/CMAPm), where the F-wave and CMAP were recorded at identical stimulus intensities. Most parameters correlated positively with stimulus intensity; however, F-wave/CMAPm consistently decreased as intensity increased. The ADM exhibited a distinct recruitment profile, with F-wave persistence rising steeply at low intensities and reaching near-saturation at 30%, while showing no significant amplitude differences between submaximal levels. In contrast, the APB and FDI displayed more linear recruitment patterns for both persistence and amplitude. Submaximal stimulation reliably elicits F-waves and reveals muscle-specific excitability profiles. The ADM's high excitability suggests a more readily recruitable motoneuron pool. Furthermore, the inverse relationship between F-wave/CMAPm and stimulus intensity suggests the early recruitment of larger, highly excitable Type II motoneurons. This refined recruitment curve approach may provide valuable insights into the \"split-hand\" phenomenon observed in amyotrophic lateral sclerosis.",
-      "journal": "Neurophysiologie clinique = Clinical neurophysiology",
-      "authors": [
-        "Silva Santos M",
-        "Castro J",
-        "de Carvalho M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42537332/"
-    },
-    {
-      "id": "pmid-42536230",
-      "pmid": "42536230",
-      "doi": "10.1007/s10048-026-00926-y",
-      "title": "Genetic variants among patients with motor neuron disease in Lithuania - a retrospective single-center study.",
-      "abstract": "Motor neuron disease (MND) comprises several clinical phenotypes, with amyotrophic lateral sclerosis (ALS) being the most common. Despite the identification of over 40 ALS-associated genes, the pathogenesis remains complex and polygenic. This study evaluated the clinical phenotypes and prevalence of genetic causes in MND patients in Lithuania. We conducted a retrospective single-center study at a tertiary care clinic on patients with MND. Clinical and molecular genetic data were analyzed. The study included 53 patients with a mean age at symptom onset of 55 years. Most patients (43/53; 77.4%) were diagnosed with ALS, and the most common onset was spinal (39/53; 73.6%). The frequency of pathogenic or likely pathogenic genetic variants was 15.7% (8/51). C9orf72 hexanucleotide repeat expansion was detected in 5.9% (3/51) of patients. Next-generation sequencing was performed in 49 patients, of whom 5 (10.2%) had pathogenic or likely pathogenic variants, including pathogenic variants in the SOD1 and NEK1 genes and likely pathogenic variants in the FUS. The most common finding was C9orf72 hexanucleotide repeat expansion, followed by variants in SOD1 and FUS genes. The genetic spectrum was broadly similar to internationally recognized MND-associated genes, though formal comparisons were not performed due to the absence of a control group. These results emphasize the importance of systematic genetic testing in clinical practice and contribute to the limited data on the genetic spectrum of MND in the Baltic region.",
-      "journal": "Neurogenetics",
-      "authors": [
-        "Naktinytė E",
-        "Vilimienė R",
-        "Valančius D",
-        "Baronas K",
-        "Zagorskienė I",
-        "Utkus A",
-        "Klimašauskienė A",
-        "Burnytė B"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-07-31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42536230/"
     }
   ]
 }
