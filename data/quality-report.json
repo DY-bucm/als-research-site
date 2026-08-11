@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-10T22:56:46.092Z",
+  "updatedAt": "2026-08-11T23:02:37.097Z",
   "summary": {
     "totalItems": 45,
-    "issueCount": 46
+    "issueCount": 49
   },
   "sources": [
     {
@@ -25,13 +25,46 @@
     {
       "id": "pmid-42476836",
       "title": "When algorithms speak first: The public health risk of consumer AI in ALS diagnosis.",
-      "titleZh": "当算法先开口：消费级AI在ALS诊断中的公共卫生风险",
+      "titleZh": "当算法先开口：消费级人工智能在ALS诊断中的公共卫生风险",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42476836/"
+    },
+    {
+      "id": "epmc-PPR-PPR1295510",
+      "title": "Oral administration of dibenzoylmethane (DBM) prevents cognitive decline in a C9ORF72-mediated FTD mouse model",
+      "titleZh": "口服二苯甲酰甲烷（DBM）可预防C9ORF72介导的额颞叶痴呆小鼠模型的认知衰退",
+      "category": "遗传",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.07.743573"
+    },
+    {
+      "id": "epmc-PPR-PPR1295480",
+      "title": "Predictive ALS survival using ALSFRS-R slope & NfL: insights from the ALS/MND Natural History Consortium data and biofluid collection",
+      "titleZh": "利用ALSFRS-R斜率与NfL预测ALS生存期：来自ALS/MND自然史联盟数据与生物样本库的见解",
+      "category": "生物标志物",
+      "evidenceLevel": "预印本（未经同行评议），待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.06.26359910"
+    },
+    {
+      "id": "epmc-PPR-PPR1294998",
+      "title": "Whose Voice? Algorithmic Smoothing and the Hybrid Authorship of BCI-Mediated End-of-Life Requests: a normative conceptual analysis",
+      "titleZh": "谁的声音？算法平滑与脑机接口介导的临终请求的混合作者身份：一项规范性概念分析",
+      "category": "机制",
+      "evidenceLevel": "规范性概念分析（非实证研究）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-10510331/v1"
     },
     {
       "id": "epmc-MED-42569815",
@@ -45,25 +78,36 @@
       "url": "https://doi.org/10.1002/mus.70374"
     },
     {
-      "id": "epmc-MED-42567782",
-      "title": "Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
-      "titleZh": "白细胞介素-6反式信号传导作为神经退行性变中可选择性靶向的驱动因素",
+      "id": "epmc-PPR-PPR1294660",
+      "title": "Gut Microbial Metabolism as a Dynamic Interface in Neurodegenerative Diseases",
+      "titleZh": "肠道微生物代谢作为神经退行性疾病中的动态界面",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
+      "url": "https://doi.org/10.20944/preprints202608.0510.v1"
+    },
+    {
+      "id": "epmc-MED-42567782",
+      "title": "Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
+      "titleZh": "待复核翻译：Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
       "url": "https://doi.org/10.1016/j.tins.2026.07.002"
     },
     {
       "id": "epmc-MED-42566133",
       "title": "Frontotemporal dementia with right temporal predominance: a clinical comparison with left-predominant FTD.",
-      "titleZh": "以右侧颞叶为主的额颞叶痴呆：与左侧为主的FTD的临床比较",
+      "titleZh": "额颞叶痴呆 with right temporal predominance: a clinical comparison with left-predominant FTD.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1007/s00415-026-14042-2"
     },
     {
@@ -98,17 +142,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.1016/j.stemcr.2026.103026"
-    },
-    {
-      "id": "epmc-MED-42560011",
-      "title": "Molecular switches of SQSTM1: the impact of post-translational modifications on autophagy and neurodegeneration.",
-      "titleZh": "待复核翻译：Molecular switches of SQSTM1: the impact of post-translational modifications on autophagy and neurodegeneration.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/15548627.2026.2711593"
     }
   ],
   "missingIdentifiers": [],
@@ -125,6 +158,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
     },
     {
+      "id": "epmc-PPR-PPR1295510",
+      "title": "Oral administration of dibenzoylmethane (DBM) prevents cognitive decline in a C9ORF72-mediated FTD mouse model",
+      "titleZh": "口服二苯甲酰甲烷（DBM）可预防C9ORF72介导的额颞叶痴呆小鼠模型的认知衰退",
+      "category": "遗传",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.07.743573"
+    },
+    {
+      "id": "epmc-PPR-PPR1295480",
+      "title": "Predictive ALS survival using ALSFRS-R slope & NfL: insights from the ALS/MND Natural History Consortium data and biofluid collection",
+      "titleZh": "利用ALSFRS-R斜率与NfL预测ALS生存期：来自ALS/MND自然史联盟数据与生物样本库的见解",
+      "category": "生物标志物",
+      "evidenceLevel": "预印本（未经同行评议），待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.06.26359910"
+    },
+    {
+      "id": "epmc-PPR-PPR1294998",
+      "title": "Whose Voice? Algorithmic Smoothing and the Hybrid Authorship of BCI-Mediated End-of-Life Requests: a normative conceptual analysis",
+      "titleZh": "谁的声音？算法平滑与脑机接口介导的临终请求的混合作者身份：一项规范性概念分析",
+      "category": "机制",
+      "evidenceLevel": "规范性概念分析（非实证研究）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-10510331/v1"
+    },
+    {
       "id": "epmc-MED-42569815",
       "title": "\"Abductor Sparing\": A New Selective Involvement in ALS.",
       "titleZh": "“外展肌保留”：ALS 中一种新的选择性受累模式。",
@@ -136,42 +202,53 @@
       "url": "https://doi.org/10.1002/mus.70374"
     },
     {
-      "id": "epmc-MED-42567782",
-      "title": "Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
-      "titleZh": "白细胞介素-6反式信号传导作为神经退行性变中可选择性靶向的驱动因素",
+      "id": "epmc-PPR-PPR1294660",
+      "title": "Gut Microbial Metabolism as a Dynamic Interface in Neurodegenerative Diseases",
+      "titleZh": "肠道微生物代谢作为神经退行性疾病中的动态界面",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
+      "url": "https://doi.org/10.20944/preprints202608.0510.v1"
+    },
+    {
+      "id": "epmc-MED-42567782",
+      "title": "Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
+      "titleZh": "待复核翻译：Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
       "url": "https://doi.org/10.1016/j.tins.2026.07.002"
     },
     {
       "id": "epmc-MED-42566133",
       "title": "Frontotemporal dementia with right temporal predominance: a clinical comparison with left-predominant FTD.",
-      "titleZh": "以右侧颞叶为主的额颞叶痴呆：与左侧为主的FTD的临床比较",
+      "titleZh": "额颞叶痴呆 with right temporal predominance: a clinical comparison with left-predominant FTD.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1007/s00415-026-14042-2"
     },
     {
       "id": "epmc-MED-42566069",
       "title": "Value of ultrasound-detected fasciculations for the early diagnosis of motor neuron disease in patients with single-segment, pure lower motor neuron involvement.",
-      "titleZh": "超声检测肌束颤动在单节段纯下运动神经元受累患者中用于运动神经元病早期诊断的价值",
+      "titleZh": "Value of ultrasound-detected fasciculations for the early diagnosis of 运动神经元病 in patients with single-segment, pure lower motor neuron involvement.",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1007/s10072-026-09297-6"
     },
     {
       "id": "epmc-MED-42566063",
       "title": "Anti-IgLON5 disease presenting with a motor neuron disease-like phenotype after decades of sleep symptoms: a potentially immunotherapy responsive mimic.",
-      "titleZh": "以运动神经元病样表型呈现的抗IgLON5病：在数十年睡眠症状之后出现的潜在免疫治疗应答性模仿疾病",
+      "titleZh": "Anti-IgLON5 disease presenting with a 运动神经元病-like phenotype after decades of sleep symptoms: a potentially immunotherapy responsive mimic.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 4,
@@ -244,50 +321,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.1016/j.stemcr.2026.103026"
-    },
-    {
-      "id": "epmc-MED-42561511",
-      "title": "Intrabody B1 targeting TDP-43 modulates neuroinflammatory and metabolic pathways in a preclinical ALS model.",
-      "titleZh": "待复核翻译：Intrabody B1 targeting TDP-43 modulates neuroinflammatory and metabolic pathways in a preclinical ALS model.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.neurot.2026.e01032"
-    },
-    {
-      "id": "epmc-PPR-PPR1293164",
-      "title": "The ALS/FTD-linked protein CHCHD10 associates with the TDP-43 C-terminal domain through a CHCH–helix interface",
-      "titleZh": "待复核翻译：The ALS/FTD-linked protein CHCHD10 associates with the TDP-43 C-terminal domain through a CHCH–helix interface",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.08.01.742190"
-    },
-    {
-      "id": "epmc-MED-42560418",
-      "title": "Response to \"Palpebral ptosis as the initial symptom of amyotrophic lateral sclerosis\": the potential usefulness of cortical excitability and motor band sign as biomarkers of upper motor neuron degeneration.",
-      "titleZh": "Response to \"Palpebral ptosis as the initial symptom of 肌萎缩侧索硬化症\": the potential usefulness of cortical excitability and motor band sign as 生物标志物s of upper motor neuron degeneration.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s10072-026-09303-x"
-    },
-    {
-      "id": "epmc-MED-42560011",
-      "title": "Molecular switches of SQSTM1: the impact of post-translational modifications on autophagy and neurodegeneration.",
-      "titleZh": "待复核翻译：Molecular switches of SQSTM1: the impact of post-translational modifications on autophagy and neurodegeneration.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/15548627.2026.2711593"
     }
   ],
   "highPriorityNeedsReview": [
@@ -305,7 +338,7 @@
     {
       "id": "pmid-42462180",
       "title": "Multiplex Panel Detects Glial and Inflammatory Biomarker Signatures in Sporadic and C9orf72-ALS.",
-      "titleZh": "多重检测面板在散发性与C9orf72相关ALS中检测到胶质细胞和炎症生物标志物特征",
+      "titleZh": "多重检测面板在散发性ALS和C9orf72-ALS中检测到胶质细胞和炎症生物标志物特征",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 11,
@@ -316,7 +349,7 @@
     {
       "id": "pmid-42525902",
       "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
-      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联",
+      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
@@ -325,37 +358,37 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
     },
     {
+      "id": "pmid-42578424",
+      "title": "Clinical and genetic characteristics of 536 young-onset amyotrophic lateral sclerosis in China: a single-center retrospective study.",
+      "titleZh": "中国536例青年起病肌萎缩侧索硬化的临床与遗传特征：单中心回顾性研究",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578424/"
+    },
+    {
+      "id": "pmid-42575772",
+      "title": "Voice Disorders as Early Biomarkers of Cognitive Decline.",
+      "titleZh": "嗓音障碍作为认知衰退的早期生物标志物",
+      "category": "临床试验",
+      "evidenceLevel": "回顾性队列研究（基于TriNetX数据库）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575772/"
+    },
+    {
       "id": "pmid-42441926",
       "title": "Association of Plasma Neurofilament Light Chain With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.",
       "titleZh": "血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（横断面，II级证据）",
+      "evidenceLevel": "观察性临床研究（II级证据）",
       "relevanceScore": 6,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441926/"
-    },
-    {
-      "id": "pmid-42572514",
-      "title": "Relationship between neck weakness in motor neurone disease and respiratory function: a retrospective study.",
-      "titleZh": "运动神经元病颈部无力与呼吸功能的关系：一项回顾性研究",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572514/"
-    },
-    {
-      "id": "pmid-42572287",
-      "title": "Generation of mutant human SOD1 knock-in mouse lines at the Rosa26 locus as a platform for developing genome-editing therapies for amyotrophic lateral sclerosis.",
-      "titleZh": "在Rosa26位点生成突变型人SOD1敲入小鼠品系，作为开发肌萎缩侧索硬化症基因组编辑疗法的平台",
-      "category": "治疗",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572287/"
     },
     {
       "id": "epmc-MED-42562776",
@@ -369,174 +402,174 @@
       "url": "https://doi.org/10.1093/jnen/nlag013"
     },
     {
-      "id": "trial-NCT04097158",
-      "title": "Biomarkers in Different Types of Amyotrophic Lateral Sclerosis (ALS) Patients Being Treated With Edaravone",
-      "titleZh": "生物标志物s in Different Types of 肌萎缩侧索硬化症 (ALS) Patients Being Treated With Edaravone",
+      "id": "trial-NCT03851302",
+      "title": "Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
+      "titleZh": "待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04097158"
+      "url": "https://clinicaltrials.gov/study/NCT03851302"
     },
     {
-      "id": "trial-NCT06429059",
-      "title": "ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Treatments",
-      "titleZh": "待复核翻译：ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Treatments",
+      "id": "trial-NCT04654689",
+      "title": "Impact of the Combined Treatment of Liposomed Polyphenols With G04CB02 on the ALS Patients",
+      "titleZh": "待复核翻译：Impact of the Combined Treatment of Liposomed Polyphenols With G04CB02 on the ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06429059"
+      "url": "https://clinicaltrials.gov/study/NCT04654689"
     },
     {
-      "id": "trial-NCT07170865",
-      "title": "Dynamic Impact of NIV on Diaphragmatic Ultrasound in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Dynamic Impact of NIV on Diaphragmatic Ultrasound in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07170865"
-    },
-    {
-      "id": "trial-NCT06849609",
-      "title": "A Study to Evaluate the Tolerability, Safety and Efficacy of VGN-R13 in Patients with ALS",
-      "titleZh": "待复核翻译：A Study to Evaluate the Tolerability, Safety and Efficacy of VGN-R13 in Patients with ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06849609"
-    },
-    {
-      "id": "trial-NCT04868994",
-      "title": "Magnetic Imaging for Diagnostic of Amyotrophic Lateral Sclerosis",
-      "titleZh": "Magnetic Imaging for Diagnostic of 肌萎缩侧索硬化症",
+      "id": "trial-NCT02039401",
+      "title": "Safety Study of VM202 to Treat Amyotrophic Lateral Sclerosis",
+      "titleZh": "Safety Study of VM202 to Treat 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04868994"
+      "url": "https://clinicaltrials.gov/study/NCT02039401"
     },
     {
-      "id": "trial-NCT06337578",
-      "title": "Advances in Telephone-based Cognitive Screening Procedures",
-      "titleZh": "待复核翻译：Advances in Telephone-based Cognitive Screening Procedures",
+      "id": "trial-NCT07093268",
+      "title": "Safety of Intrathecal Riluzole in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Safety of Intrathecal Riluzole in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07093268"
+    },
+    {
+      "id": "trial-NCT04468919",
+      "title": "Optimizing BCI-FIT: Brain Computer Interface - Functional Implementation Toolkit",
+      "titleZh": "待复核翻译：Optimizing BCI-FIT: Brain Computer Interface - Functional Implementation Toolkit",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06337578"
+      "url": "https://clinicaltrials.gov/study/NCT04468919"
     },
     {
-      "id": "trial-NCT03237741",
-      "title": "Bioavailability of GDC-0134 and the Effect of Food and Proton Pump Inhibitor on Pharmacokinetics of GDC-0134 in Healthy Female Participants",
-      "titleZh": "待复核翻译：Bioavailability of GDC-0134 and the Effect of Food and Proton Pump Inhibitor on Pharmacokinetics of GDC-0134 in Healthy Female Participants",
+      "id": "trial-NCT05866926",
+      "title": "Study to Investigate the Long-term Safety of FAB122 in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Study to Investigate the Long-term Safety of FAB122 in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03237741"
+      "url": "https://clinicaltrials.gov/study/NCT05866926"
     },
     {
-      "id": "trial-NCT02962050",
-      "title": "Delineating Swallowing Impairment and Decline in ALS",
-      "titleZh": "待复核翻译：Delineating Swallowing Impairment and Decline in ALS",
+      "id": "trial-NCT04607044",
+      "title": "Lower Extremity Fixation In Neuropathic Patients Study",
+      "titleZh": "待复核翻译：Lower Extremity Fixation In Neuropathic Patients Study",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04607044"
+    },
+    {
+      "id": "trial-NCT03868345",
+      "title": "Speech Analysis in ALS Patients",
+      "titleZh": "待复核翻译：Speech Analysis in ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02962050"
+      "url": "https://clinicaltrials.gov/study/NCT03868345"
     },
     {
-      "id": "trial-NCT01363882",
-      "title": "Polysomnography-directed Noninvasive Ventilation in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Polysomnography-directed Noninvasive Ventilation in 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT01948102",
+      "title": "Identification of Diagnostic And Prognostic Biomarkers From Amyotrophic Lateral Sclerosis (ALS) Skin and Adipose Samples",
+      "titleZh": "Identification of Diagnostic And Prognostic 生物标志物s From 肌萎缩侧索硬化症 (ALS) Skin and Adipose Samples",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01363882"
+      "url": "https://clinicaltrials.gov/study/NCT01948102"
     },
     {
-      "id": "trial-NCT04455542",
-      "title": "Peripheral Neurofilament Levels and Amyotrophic Lateral Sclerosis",
-      "titleZh": "Peripheral Neurofilament Levels and 肌萎缩侧索硬化症",
+      "id": "trial-NCT05299372",
+      "title": "Telemonitoring in NIV MND (OptNIVent)",
+      "titleZh": "待复核翻译：Telemonitoring in NIV MND (OptNIVent)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
+      "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04455542"
+      "url": "https://clinicaltrials.gov/study/NCT05299372"
     },
     {
-      "id": "trial-NCT03272503",
-      "title": "A Clinical Trial of Pimozide in Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A 临床试验 of Pimozide in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03272503"
-    },
-    {
-      "id": "trial-NCT00334516",
-      "title": "Brain Function in Primary Lateral Sclerosis and Amyotrophic Lateral Sclerosis",
-      "titleZh": "Brain Function in Primary Lateral Sclerosis and 肌萎缩侧索硬化症",
+      "id": "trial-NCT03095729",
+      "title": "Cognitive Consequences of an Activation of the Cortical Drive to Breath (VENTIPSY)",
+      "titleZh": "待复核翻译：Cognitive Consequences of an Activation of the Cortical Drive to Breath (VENTIPSY)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00334516"
+      "url": "https://clinicaltrials.gov/study/NCT03095729"
     },
     {
-      "id": "trial-NCT01366027",
-      "title": "PRISM Registry: Pseudobulbar Affect Registry Series",
-      "titleZh": "待复核翻译：PRISM Registry: Pseudobulbar Affect Registry Series",
+      "id": "trial-NCT03954600",
+      "title": "A Study to Assess the Safety, Tolerability and PK of NPT520-34 in Healthy Subjects",
+      "titleZh": "待复核翻译：A Study to Assess the Safety, Tolerability and PK of NPT520-34 in Healthy Subjects",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03954600"
+    },
+    {
+      "id": "trial-NCT03073239",
+      "title": "Amyotrophic Lateral Sclerosis: a New Paradigm",
+      "titleZh": "肌萎缩侧索硬化症: a New Paradigm",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03073239"
+    },
+    {
+      "id": "trial-NCT02487407",
+      "title": "Effects of ODM-109 on Respiratory Function in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Effects of ODM-109 on Respiratory Function in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02487407"
+    },
+    {
+      "id": "trial-NCT02645461",
+      "title": "Acetylcholine Receptors From Human Muscles as Pharmacological Target for ALS",
+      "titleZh": "待复核翻译：Acetylcholine Receptors From Human Muscles as Pharmacological Target for ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01366027"
-    },
-    {
-      "id": "trial-NCT00925847",
-      "title": "Effect of Lithium Carbonate in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Effect of Lithium Carbonate in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00925847"
-    },
-    {
-      "id": "trial-NCT00160004",
-      "title": "The Effect of Intensive Controlled Exercise in the Early Stages of Amyotrophic Lateral Sclerosis",
-      "titleZh": "The Effect of Intensive Controlled Exercise in the Early Stages of 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00160004"
+      "url": "https://clinicaltrials.gov/study/NCT02645461"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 8,
+    "疑似误收": 11,
     "缺标识符": 0,
     "缺摘要": 16,
     "高优先级待复核": 22,
@@ -546,8 +579,8 @@
     "待复核": 45
   },
   "relevanceCounts": {
-    "medium": 12,
-    "high": 25,
-    "low": 8
+    "medium": 11,
+    "high": 23,
+    "low": 11
   }
 }
