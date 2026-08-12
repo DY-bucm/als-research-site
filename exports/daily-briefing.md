@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-08-11
+更新时间：2026-08-12
 
 1. **Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）**
-   - 临床试验 / 观察性临床研究（多中心回顾性队列，含倾向评分匹配历史对照） / high
-   - Tofersen治疗12个月显著减缓SOD1-ALS患者功能衰退（ALSFRS-R进展率从0.53降至0.22点/月）并降低NfL水平（89.0降至29.2 pg/ml），且与历史队列相比死亡风险降低66%（HR=0.34）。
-   - https://pubmed.ncbi.nlm.nih.gov/42548788/
-2. **多重检测面板在散发性ALS和C9orf72-ALS中检测到胶质细胞和炎症生物标志物特征**
-   - 生物标志物 / 观察性临床研究 / high
-   - NULISA平台可检测到ALS患者脑脊液中6种显著升高的生物标志物（NEFL、NEFH、CHIT1、CHI3L1、CCL2、CCL3），且C9orf72-ALS患者有独特的氧化应激标志物升高。
-   - https://pubmed.ncbi.nlm.nih.gov/42462180/
-3. **美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联**
-   - 机制 / 观察性临床研究 / high
-   - 空军、海军和海岸警卫队服役及军官身份与较高的ALS发病率相关，且年轻退伍军人中差异更显著。
-   - https://pubmed.ncbi.nlm.nih.gov/42525902/
-4. **中国536例青年起病肌萎缩侧索硬化的临床与遗传特征：单中心回顾性研究**
    - 临床试验 / 观察性临床研究 / high
-   - 中国青年起病ALS占32%，临床进展较慢，遗传上以SOD1和FUS为主，FUS变异在青年起病中显著富集，C9orf72扩增几乎缺失。
-   - https://pubmed.ncbi.nlm.nih.gov/42578424/
-5. **血浆神经丝轻链与神经肌肉转诊队列中诊断分类的关联：一项横断面研究**
-   - 临床试验 / 观察性临床研究（II级证据） / high
-   - 年龄校正后异常pNfL在MND和活动性神经病变中显著升高，可中等准确区分活动性与非活动性神经病变（AUC 0.79），并良好区分MND与其他诊断（AUC 0.85）。
-   - https://pubmed.ncbi.nlm.nih.gov/42441926/
+   - Tofersen治疗与SOD1-ALS患者功能衰退减缓、NfL水平降低及生存期延长相关。
+   - https://pubmed.ncbi.nlm.nih.gov/42548788/
+2. **多重检测面板在散发性与C9orf72相关ALS中检测到胶质细胞和炎症生物标志物特征**
+   - 生物标志物 / 观察性临床研究 / high
+   - NULISA平台可检测ALS脑脊液中神经丝、几丁质酶和趋化因子等6种标志物显著升高，且C9orf72-ALS患者呈现PRDX6和ENO2升高的基因型特异性特征。
+   - https://pubmed.ncbi.nlm.nih.gov/42462180/
+3. **美国退伍军人中军种与军衔与肌萎缩侧索硬化发病率的关联**
+   - 机制 / 观察性临床研究 / high
+   - 军种和军衔显著影响ALS发病率：空军、海军、海岸警卫队服役者风险高于陆军（HR 1.15-1.29），海军陆战队风险较低（HR 0.78）；军官风险约为士兵的1.6-1.7倍；服役年限越长风险越低；年轻退伍军人中差异最大。
+   - https://pubmed.ncbi.nlm.nih.gov/42525902/
+4. **接受Tofersen治疗的ALS患者血液SOD1活性**
+   - 治疗 / 观察性临床研究 / high
+   - SOD1突变携带者血液SOD1活性显著降低且与突变类型相关；tofersen治疗期间SOD1活性保持稳定，疗效与SOD1活性无关。
+   - https://pubmed.ncbi.nlm.nih.gov/42581415/
+5. **LXR通路激活剂T0901317：通过抑制坏死性凋亡相关RIPK1/RIPK3/MLKL标志物，作为ALS相关认知与运动障碍的新型潜在实验策略**
+   - 临床试验 / 观察性临床研究 / high
+   - LXR激动剂T0901317通过抑制RIPK1/RIPK3/MLKL介导的坏死性凋亡和减少TDP-43聚集，改善ALS小鼠的认知和运动功能并延长生存期。
+   - https://pubmed.ncbi.nlm.nih.gov/42581247/
 6. **Neural 干细胞-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of 肌萎缩侧索硬化症.**
    - 治疗 / 动物/细胞实验 / high
    - Europe PMC record found, but no abstract was available in the fetched metadata.
    - https://doi.org/10.1093/jnen/nlag013
-7. **待复核翻译：Effects of Remote Ischemic Conditioning on Hand Use in Individuals With SCI and ALS**
+7. **HD-tDCS in 肌萎缩侧索硬化症: A Multicenter 随机 Controlled Trial**
    - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03851302
-8. **待复核翻译：Impact of the Combined Treatment of Liposomed Polyphenols With G04CB02 on the ALS Patients**
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06719947
+8. **待复核翻译：Identification of Early Markers for ALS**
    - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04654689
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07213440
