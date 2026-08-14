@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T23:01:10.309Z",
+  "updatedAt": "2026-08-14T22:39:32.205Z",
   "summary": {
     "totalItems": 45,
     "issueCount": 50
@@ -25,13 +25,24 @@
     {
       "id": "pmid-42476836",
       "title": "When algorithms speak first: The public health risk of consumer AI in ALS diagnosis.",
-      "titleZh": "当算法先开口：消费级人工智能在ALS诊断中的公共卫生风险",
+      "titleZh": "当算法先开口：消费级AI在ALS诊断中的公共卫生风险",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42476836/"
+    },
+    {
+      "id": "epmc-PPR-PPR1298010",
+      "title": "Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
+      "titleZh": "病理学定义的细胞状态揭示ALS皮层单核RNA-seq研究中可重复的转录组特征",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.07.743523"
     },
     {
       "id": "epmc-MED-42584174",
@@ -47,7 +58,7 @@
     {
       "id": "epmc-MED-42581651",
       "title": "The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration.",
-      "titleZh": "硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性疾病发病率的干预后二次分析",
+      "titleZh": "硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性病发病率的干预后二次分析",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -153,17 +164,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.1016/j.jvoice.2026.07.037"
-    },
-    {
-      "id": "epmc-MED-42576087",
-      "title": "The Amino Acid-Neurodegeneration Axis: Excitotoxicity and Oxidative Stress as Context-Dependent Amplifiers of Metabolic Dysfunction.",
-      "titleZh": "待复核翻译：The Amino Acid-Neurodegeneration Axis: Excitotoxicity and Oxidative Stress as Context-Dependent Amplifiers of Metabolic Dysfunction.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s12035-026-06121-2"
     }
   ],
   "missingIdentifiers": [],
@@ -180,26 +180,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
     },
     {
-      "id": "pmid-42592720",
-      "title": "Severe hypersensitivity reaction during tofersen therapy in amyotrophic lateral sclerosis associated with the rare SOD1 p.Val120Phe mutation.",
-      "titleZh": "伴有罕见SOD1 p.Val120Phe突变的肌萎缩侧索硬化症患者在托夫森治疗期间出现严重超敏反应",
-      "category": "治疗",
-      "evidenceLevel": "病例报告（待人工判定）",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592720/"
-    },
-    {
-      "id": "pmid-42586744",
-      "title": "Emergency Tracheostomy with Invasive Ventilation in Patients with Amyotrophic Lateral Sclerosis Increases Hospitalization Duration and Long-Term Complications.",
-      "titleZh": "肌萎缩侧索硬化患者行紧急气管切开联合有创通气增加住院时长及远期并发症",
+      "id": "pmid-42595782",
+      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
+      "titleZh": "更正：促凋亡BCL-2家族成员BIM在肌萎缩侧索硬化症模型中介导运动神经元丢失",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42595782/"
+    },
+    {
+      "id": "epmc-PPR-PPR1298010",
+      "title": "Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
+      "titleZh": "病理学定义的细胞状态揭示ALS皮层单核RNA-seq研究中可重复的转录组特征",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586744/"
+      "url": "https://doi.org/10.64898/2026.08.07.743523"
     },
     {
       "id": "epmc-MED-42584174",
@@ -215,7 +215,7 @@
     {
       "id": "epmc-MED-42581651",
       "title": "The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration.",
-      "titleZh": "硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性疾病发病率的干预后二次分析",
+      "titleZh": "硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性病发病率的干预后二次分析",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -248,7 +248,7 @@
     {
       "id": "epmc-MED-42581415",
       "title": "Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "titleZh": "接受Tofersen治疗的ALS患者血液SOD1活性",
+      "titleZh": "待复核翻译：Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 6,
@@ -354,41 +354,30 @@
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://doi.org/10.21203/rs.3.rs-10642034/v1"
-    },
-    {
-      "id": "epmc-MED-42576087",
-      "title": "The Amino Acid-Neurodegeneration Axis: Excitotoxicity and Oxidative Stress as Context-Dependent Amplifiers of Metabolic Dysfunction.",
-      "titleZh": "待复核翻译：The Amino Acid-Neurodegeneration Axis: Excitotoxicity and Oxidative Stress as Context-Dependent Amplifiers of Metabolic Dysfunction.",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s12035-026-06121-2"
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-42568821",
+      "title": "From neural development to regenerative medicine: A research journey in stem cell biology, spinal cord repair, and iPSC-based drug discovery.",
+      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅",
+      "category": "临床试验",
+      "evidenceLevel": "综述/专家观点",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/"
+    },
     {
       "id": "pmid-42548788",
       "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
       "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（多中心回顾性队列，含倾向评分匹配历史对照）",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42548788/"
-    },
-    {
-      "id": "pmid-42462180",
-      "title": "Multiplex Panel Detects Glial and Inflammatory Biomarker Signatures in Sporadic and C9orf72-ALS.",
-      "titleZh": "多重检测面板在散发性与C9orf72相关ALS中检测到胶质细胞和炎症生物标志物特征",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462180/"
     },
     {
       "id": "pmid-42525902",
@@ -402,9 +391,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
     },
     {
+      "id": "pmid-42596024",
+      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
+      "titleZh": "UNC13A 隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42596024/"
+    },
+    {
       "id": "epmc-MED-42581415",
       "title": "Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "titleZh": "接受Tofersen治疗的ALS患者血液SOD1活性",
+      "titleZh": "待复核翻译：Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 6,
@@ -413,177 +413,177 @@
       "url": "https://doi.org/10.1002/ana.78328"
     },
     {
-      "id": "trial-NCT05151471",
-      "title": "Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS",
-      "titleZh": "待复核翻译：Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 6,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05151471"
-    },
-    {
-      "id": "trial-NCT02880033",
-      "title": "Oxidative Stress and Apoptosis of Energy Metabolism by Deferiprone From the Circulating Lymphocytes",
-      "titleZh": "待复核翻译：Oxidative Stress and Apoptosis of Energy Metabolism by Deferiprone From the Circulating Lymphocytes",
+      "id": "trial-NCT05597436",
+      "title": "Intermediate-Sized Expanded Access Study",
+      "titleZh": "待复核翻译：Intermediate-Sized Expanded Access Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02880033"
+      "url": "https://clinicaltrials.gov/study/NCT05597436"
     },
     {
-      "id": "trial-NCT07407725",
-      "title": "Clinical Outcome Assessment for AT & BCI",
-      "titleZh": "待复核翻译：Clinical Outcome Assessment for AT & BCI",
+      "id": "trial-NCT06318585",
+      "title": "Creation of a Clinical Database for the Study of Phenotypic Variability in Motor Neuron Diseases",
+      "titleZh": "Creation of a Clinical Database for the Study of Phenotypic Variability in 运动神经元病s",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06318585"
+    },
+    {
+      "id": "trial-NCT06891716",
+      "title": "[18F]ACI-19626 PET in TDP-43 Proteinopathies",
+      "titleZh": "待复核翻译：[18F]ACI-19626 PET in TDP-43 Proteinopathies",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06891716"
+    },
+    {
+      "id": "trial-NCT06765564",
+      "title": "Clinical Study of Induced Pluripotent Stem Cells Derived Motor Neuron Precursor Cell Therapy for Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Clinical Study of Induced Pluripotent 干细胞s Derived Motor Neuron Precursor Cell Therapy for 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07407725"
+      "url": "https://clinicaltrials.gov/study/NCT06765564"
     },
     {
-      "id": "trial-NCT05744310",
-      "title": "Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families",
-      "titleZh": "待复核翻译：Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families",
+      "id": "trial-NCT06256107",
+      "title": "Virtual Reality in Motor Neurone Disease",
+      "titleZh": "Virtual Reality in 运动神经元病",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 17,
+      "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05744310"
+      "url": "https://clinicaltrials.gov/study/NCT06256107"
     },
     {
-      "id": "trial-NCT06596746",
-      "title": "Neurodegenerative Diseases Progression Markers (MARKERS-NDD)",
-      "titleZh": "待复核翻译：Neurodegenerative Diseases Progression Markers (MARKERS-NDD)",
+      "id": "trial-NCT05039268",
+      "title": "3K3A-APC for Treatment of Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "3K3A-APC for Treatment of 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06596746"
+      "url": "https://clinicaltrials.gov/study/NCT05039268"
     },
     {
-      "id": "trial-NCT03766321",
-      "title": "Fecal Microbiota Transplantation Effect on Amyotrophic Lateral Sclerosis Patients",
-      "titleZh": "Fecal Microbiota Transplantation Effect on 肌萎缩侧索硬化症 Patients",
+      "id": "trial-NCT04322149",
+      "title": "Multiple Doses of AT-1501-A201 in Adults With ALS",
+      "titleZh": "待复核翻译：Multiple Doses of AT-1501-A201 in Adults With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04322149"
+    },
+    {
+      "id": "trial-NCT04947436",
+      "title": "ALS and Airway Clearance (ALSAC) Therapy",
+      "titleZh": "待复核翻译：ALS and Airway Clearance (ALSAC) Therapy",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04947436"
+    },
+    {
+      "id": "trial-NCT00931944",
+      "title": "Open-Label, Safety and Tolerability Extension Study of KNS-760704 in Amyotrophic Lateral Sclerosis (ALS) (CL211)",
+      "titleZh": "Open-Label, Safety and Tolerability Extension Study of KNS-760704 in 肌萎缩侧索硬化症 (ALS) (CL211)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00931944"
+    },
+    {
+      "id": "trial-NCT04875949",
+      "title": "Anti-Cholinergic Receptors Antibodies, Autonomic Profile and Dysautonomia Symptoms in PAF, ALS and POTS (DISAUT-AB)",
+      "titleZh": "待复核翻译：Anti-Cholinergic Receptors Antibodies, Autonomic Profile and Dysautonomia Symptoms in PAF, ALS and POTS (DISAUT-AB)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04875949"
+    },
+    {
+      "id": "trial-NCT03506425",
+      "title": "A Pilot Trial of Triheptanoin for People With Amyotrophic Lateral Sclerosis (PALS)",
+      "titleZh": "A Pilot Trial of Triheptanoin for People With 肌萎缩侧索硬化症 (PALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03506425"
+    },
+    {
+      "id": "trial-NCT02987413",
+      "title": "Escalated Application of Mesenchymal Stem Cells in Amyotrophic Lateral Sclerosis Patients",
+      "titleZh": "Escalated Application of Mesenchymal 干细胞s in 肌萎缩侧索硬化症 Patients",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02987413"
+    },
+    {
+      "id": "trial-NCT02286011",
+      "title": "Intramuscular Infusion of Autologous Bone Marrow Stem Cells in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Intramuscular Infusion of Autologous Bone Marrow 干细胞s in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02286011"
+    },
+    {
+      "id": "trial-NCT00677768",
+      "title": "Validation of Biomarkers in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Validation of 生物标志物s in 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00677768"
+    },
+    {
+      "id": "trial-NCT00036413",
+      "title": "A 12-week, Multicenter, Safety and Dose-ranging Study of 3 Oral Doses of TCH346 in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "A 12-week, Multicenter, Safety and Dose-ranging Study of 3 Oral Doses of TCH346 in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03766321"
-    },
-    {
-      "id": "trial-NCT05945784",
-      "title": "Exploring Accessible Beauty for Individuals With Upper Extremity Deficits",
-      "titleZh": "待复核翻译：Exploring Accessible Beauty for Individuals With Upper Extremity Deficits",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05945784"
-    },
-    {
-      "id": "trial-NCT03020797",
-      "title": "A Clinical Trial to Evaluate the Safety and Efficacy of Fycompa in Subjects With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A 临床试验 to Evaluate the Safety and Efficacy of Fycompa in Subjects With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03020797"
-    },
-    {
-      "id": "trial-NCT04889248",
-      "title": "Inspiratory Muscle Training With Powerbreath Device in Patients With ALS",
-      "titleZh": "待复核翻译：Inspiratory Muscle Training With Powerbreath Device in Patients With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04889248"
-    },
-    {
-      "id": "trial-NCT03427086",
-      "title": "Safety and Tolerability of High Dose Biotin in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Safety and Tolerability of High Dose Biotin in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03427086"
-    },
-    {
-      "id": "trial-NCT03293394",
-      "title": "Rehabilitative Trial With tDCS in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Rehabilitative Trial With tDCS in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03293394"
-    },
-    {
-      "id": "trial-NCT01504009",
-      "title": "Muscle Training of Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Muscle Training of Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01504009"
-    },
-    {
-      "id": "trial-NCT00690118",
-      "title": "Study of Pioglitazone in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Study of Pioglitazone in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00690118"
-    },
-    {
-      "id": "trial-NCT00718016",
-      "title": "Assessment of the Cyberlink Control System for Use by the Amyotrophic Lateral Sclerosis (ALS) Patient",
-      "titleZh": "Assessment of the Cyberlink Control System for Use by the 肌萎缩侧索硬化症 (ALS) Patient",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00718016"
-    },
-    {
-      "id": "trial-NCT00204464",
-      "title": "Study of the Effects Strengthening Exercises in Individuals With ALS",
-      "titleZh": "待复核翻译：Study of the Effects Strengthening Exercises in Individuals With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00204464"
+      "url": "https://clinicaltrials.gov/study/NCT00036413"
     }
   ],
   "failedSources": [],
   "issueCounts": {
     "疑似误收": 13,
     "缺标识符": 0,
-    "缺摘要": 18,
-    "高优先级待复核": 19,
+    "缺摘要": 17,
+    "高优先级待复核": 20,
     "来源失败": 0
   },
   "reviewCounts": {
