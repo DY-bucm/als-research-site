@@ -1,23 +1,23 @@
 # ALS 每日简报
 
-更新时间：2026-08-14
+更新时间：2026-08-15
 
 1. **Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）**
-   - 临床试验 / 观察性临床研究 / high
-   - Tofersen治疗12个月显著减缓ALSFRS-R进展率并降低血浆NfL水平，且与历史队列相比延长生存期、降低死亡风险。
+   - 临床试验 / 观察性临床研究（多中心回顾性队列，含倾向评分匹配历史对照） / high
+   - Tofersen治疗12个月显著减缓ALSFRS-R进展率（0.53→0.22点/月，P=0.006）并降低NfL水平（89.0→29.2 pg/ml，P=0.004）；与历史对照相比，死亡风险降低66%（HR=0.34，P=0.03）。
    - https://pubmed.ncbi.nlm.nih.gov/42548788/
 2. **美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联**
    - 机制 / 观察性临床研究 / high
-   - 美国退伍军人中，空军、海军和海岸警卫队服役及军官身份与更高的ALS发病率相关，且年轻退伍军人中的差异更显著。
+   - 空军、海军和海岸警卫队服役及军官身份与ALS风险升高相关，而海军陆战队和较长服役年限与风险降低相关，且年轻退伍军人中差异更显著。
    - https://pubmed.ncbi.nlm.nih.gov/42525902/
-3. **UNC13A 隐蔽外显子与阿尔茨海默病认知障碍相关**
+3. **肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究**
    - 临床试验 / 观察性临床研究 / high
-   - UNC13A 隐蔽外显子 SNP 与 AD 认知衰退相关，且杏仁核中 UNC13A 隐蔽 RNA 水平是认知衰退的更强预测因子。
-   - https://pubmed.ncbi.nlm.nih.gov/42596024/
-4. **待复核翻译：Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.**
-   - 治疗 / 观察性临床研究 / high
+   - 男性、脊髓起病、%FVC < 63%和病程 < 12个月是PEG术后预后不良的独立预测因素。
+   - https://pubmed.ncbi.nlm.nih.gov/42601592/
+4. **Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation.**
+   - 治疗 / 待人工判定 / high
    - Europe PMC record found, but no abstract was available in the fetched metadata.
-   - https://doi.org/10.1002/ana.78328
+   - https://doi.org/10.5603/pjnns.113584
 5. **待复核翻译：Intermediate-Sized Expanded Access Study**
    - 临床试验 / 临床试验注册 / high
    - Status: NO_LONGER_AVAILABLE.

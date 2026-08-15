@@ -1,13 +1,11 @@
 # 复核任务清单
 
-- [ ] [高优先级] 从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅 (pmid-42568821)
+- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅 (pmid-42568821)
   - https://pubmed.ncbi.nlm.nih.gov/42568821/
 - [ ] 肌萎缩侧索硬化中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
   - https://pubmed.ncbi.nlm.nih.gov/42482658/
 - [ ] 犬肌萎缩侧索硬化疾病模型中一般本体感觉的病理学 (pmid-42520340)
   - https://pubmed.ncbi.nlm.nih.gov/42520340/
-- [ ] [疑似误收] 当算法先开口：消费级AI在ALS诊断中的公共卫生风险 (pmid-42476836)
-  - https://pubmed.ncbi.nlm.nih.gov/42476836/
 - [ ] [高优先级] Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究） (pmid-42548788)
   - https://pubmed.ncbi.nlm.nih.gov/42548788/
 - [ ] 肠道微生物群与大脑健康：疾病特异性通路与新兴治疗策略 (pmid-42542073)
@@ -16,50 +14,52 @@
   - https://pubmed.ncbi.nlm.nih.gov/42481428/
 - [ ] ALS患者中巨噬细胞对Chlorovirus ATCV-1的反应及抗体水平升高 (pmid-42480869)
   - https://pubmed.ncbi.nlm.nih.gov/42480869/
-- [ ] 性功能对运动神经元病患者的影响 (pmid-42470084)
+- [ ] 运动神经元病患者性功能的影响 (pmid-42470084)
   - https://pubmed.ncbi.nlm.nih.gov/42470084/
 - [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
 - [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联 (pmid-42525902)
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
-- [ ] COVID-19 后时期肌萎缩侧索硬化症的发病率和临床特征：伊朗伊斯法罕的一项基于人群的研究 (pmid-42599142)
-  - https://pubmed.ncbi.nlm.nih.gov/42599142/
-- [ ] [高优先级] UNC13A 隐蔽外显子与阿尔茨海默病认知障碍相关 (pmid-42596024)
-  - https://pubmed.ncbi.nlm.nih.gov/42596024/
-- [ ] 肌萎缩侧索硬化症中利鲁唑的处方与监测：新西兰健康局坎特伯雷地区回顾性队列研究 (pmid-42594365)
-  - https://pubmed.ncbi.nlm.nih.gov/42594365/
-- [ ] 更正：促凋亡BCL-2家族成员BIM在肌萎缩侧索硬化症模型中介导运动神经元丢失 (pmid-42595782)
-  - https://pubmed.ncbi.nlm.nih.gov/42595782/
-- [ ] [疑似误收] 病理学定义的细胞状态揭示ALS皮层单核RNA-seq研究中可重复的转录组特征 (epmc-PPR-PPR1298010)
+- [ ] 脑脊液外泌体 miRNA 作为神经退行性疾病生物标志物 (pmid-42162905)
+  - https://pubmed.ncbi.nlm.nih.gov/42162905/
+- [ ] 评论：关于“肌萎缩侧索硬化症全血、血浆和脑脊液中线粒体DNA指数分析”的评论 (pmid-42114311)
+  - https://pubmed.ncbi.nlm.nih.gov/42114311/
+- [ ] [高优先级] 肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究 (pmid-42601592)
+  - https://pubmed.ncbi.nlm.nih.gov/42601592/
+- [ ] 肌萎缩侧索硬化中的环状RNA (pmid-42600995)
+  - https://pubmed.ncbi.nlm.nih.gov/42600995/
+- [ ] 通过全转录组机器学习共识方法识别肌萎缩侧索硬化症候选治疗靶点以促进药物再利用 (pmid-42600917)
+  - https://pubmed.ncbi.nlm.nih.gov/42600917/
+- [ ] [疑似误收] UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关 (epmc-MED-42596024)
+  - https://doi.org/10.1186/s13195-026-02157-7
+- [ ] 肌萎缩侧索硬化症中利鲁唑的处方与监测：来自新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究 (epmc-MED-42594365)
+  - https://doi.org/10.26635/6965.7367
+- [ ] [疑似误收] 卒中后细胞分辨率脑机接口记录的长期稳定性 (epmc-PPR-PPR1298765)
+  - https://doi.org/10.64898/2026.08.09.742157
+- [ ] [疑似误收] 多组学机器学习克服转录组盲区以挽救ALS治疗靶点 (epmc-PPR-PPR1298569)
+  - https://doi.org/10.21203/rs.3.rs-9305370/v1
+- [ ] [疑似误收] DHTKD1外显子缺失与散发性小脑性共济失调相关 (epmc-PPR-PPR1298416)
+  - https://doi.org/10.21203/rs.3.rs-8807051/v1
+- [ ] Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症 (epmc-PPR-PPR1298410)
+  - https://doi.org/10.21203/rs.3.rs-10690389/v1
+- [ ] [疑似误收] 待复核翻译：Air Pollution and Human Health: A Scoping Review (epmc-PPR-PPR1298309)
+  - https://doi.org/10.21203/rs.3.rs-10681352/v1
+- [ ] Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of 肌萎缩侧索硬化症. (epmc-MED-42595782)
+  - https://doi.org/10.1038/s41418-026-01701-0
+- [ ] Associations of self-reported and objectively measured physical activity and 肌萎缩侧索硬化症 risk. (epmc-MED-42595352)
+  - https://doi.org/10.1136/jnnp-2026-339165
+- [ ] 运动神经元病 Mortality in the United States, 2010-2023: A demographic, geographic, and temporal analysis. (epmc-MED-42594043)
+  - https://doi.org/10.1159/000551599
+- [ ] The EQ-5D-5L in 肌萎缩侧索硬化症: an international longitudinal exploration as part of ALS-CarE. (epmc-MED-42592867)
+  - https://doi.org/10.1080/21678421.2026.2715921
+- [ ] [高优先级] Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation. (epmc-MED-42592720)
+  - https://doi.org/10.5603/pjnns.113584
+- [ ] Emergency Tracheostomy with Invasive Ventilation in Patients with 肌萎缩侧索硬化症 Increases Hospitalization Duration and Long-Term Complications. (epmc-MED-42586744)
+  - https://doi.org/10.1620/tjem.2026.j085
+- [ ] [疑似误收] 待复核翻译：Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies (epmc-PPR-PPR1298010)
   - https://doi.org/10.64898/2026.08.07.743523
-- [ ] [疑似误收] 基于家庭的ALS研究的系统综述带来的启示 (epmc-MED-42584174)
-  - https://doi.org/10.1080/21678421.2026.2713969
-- [ ] [疑似误收] 硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性病发病率的干预后二次分析 (epmc-MED-42581651)
-  - https://doi.org/10.1093/aje/kwag189
-- [ ] [疑似误收] cGAS-STING作为神经免疫交通分子：揭示神经系统疾病中的致病机制与治疗潜力 (epmc-MED-42581131)
-  - https://doi.org/10.1007/s11481-026-10307-9
-- [ ] [疑似误收] TDP-43缺失导致骨骼肌干细胞过早衰老和再生失败 (epmc-PPR-PPR1297313)
-  - https://doi.org/10.21203/rs.3.rs-10448636/v1
-- [ ] [高优先级] 待复核翻译：Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment. (epmc-MED-42581415)
-  - https://doi.org/10.1002/ana.78328
-- [ ] [疑似误收] 待复核翻译：LXR Pathway Activation by T0901317: A Novel Potential Experimental Strategy for ALS-Related Cognitive and Motor Impairments via Suppression of Necroptosis-associated RIPK1/RIPK3/MLKL Markers. (epmc-MED-42581247)
-  - https://doi.org/10.1007/s12035-026-06106-1
-- [ ] [疑似误收] 待复核翻译：Oxidative stress and inflammation in neurodegenerative disorders. (epmc-MED-42581113)
-  - https://doi.org/10.1007/s00204-026-04518-5
-- [ ] [疑似误收] 待复核翻译：Epigenetic Drift and LINE-1 Activation in Aging Brain: Implications for Neurodegenerative Disease. (epmc-MED-42580558)
-  - https://doi.org/10.1016/j.mad.2026.112235
-- [ ] [疑似误收] Neuron-Derived 神经炎症 in Neurodegenerative Diseases: Mechanisms and Intervention Prospects. (epmc-MED-42580389)
-  - https://doi.org/10.1016/j.phrs.2026.108383
-- [ ] [疑似误收] 待复核翻译：Mapping the Synaptome in Neurodegeneration: Emerging Clinical Applications of SV2A PET Imaging. (epmc-MED-42579090)
-  - https://doi.org/10.1007/s40291-026-00871-4
-- [ ] Clinical and genetic characteristics of 536 young-onset 肌萎缩侧索硬化症 in China: a single-center retrospective study. (epmc-MED-42578424)
-  - https://doi.org/10.1080/21678421.2026.2712723
-- [ ] [疑似误收] Myokines, Microbiota, and 神经炎症: Physical Activity Modulates the Gut-Brain Axis. (epmc-MED-42576610)
-  - https://doi.org/10.1080/08820139.2026.2689670
-- [ ] [疑似误收] Voice Disorders as Early 生物标志物s of Cognitive Decline. (epmc-MED-42575772)
-  - https://doi.org/10.1016/j.jvoice.2026.07.037
-- [ ] Critical slowing down at the neuromuscular junction: an early-warning framework for 肌萎缩侧索硬化症 (epmc-PPR-PPR1295935)
-  - https://doi.org/10.21203/rs.3.rs-10642034/v1
+- [ ] [疑似误收] 待复核翻译：Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation. (epmc-MED-42592497)
+  - https://doi.org/10.1039/d6sc03258c
 - [ ] [高优先级] 待复核翻译：Intermediate-Sized Expanded Access Study (trial-NCT05597436)
   - https://clinicaltrials.gov/study/NCT05597436
 - [ ] [高优先级] Creation of a Clinical Database for the Study of Phenotypic Variability in 运动神经元病s (trial-NCT06318585)

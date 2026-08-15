@@ -1,14 +1,53 @@
 {
-  "updatedAt": "2026-08-14T22:37:35.698Z",
+  "updatedAt": "2026-08-15T22:35:29.119Z",
   "period": {
     "days": 10,
-    "from": "2026-08-05",
-    "to": "2026-08-14"
+    "from": "2026-08-06",
+    "to": "2026-08-15"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 59,
+  "count": 54,
   "articles": [
+    {
+      "id": "pmid-42600995",
+      "pmid": "42600995",
+      "doi": "10.1016/j.nbd.2026.107574",
+      "title": "Circular RNAs in amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by the progressive loss of motor neurons, with most cases lacking a clear genetic basis. Emerging evidence highlights the involvement of non-coding RNAs, particularly circular RNAs (circRNAs), in disease onset and progression. Here, we investigated circRNAs implicated in ALS and related motor neuron diseases (MNDs). Here we provide a general overview of circular RNA metabolism and cellular functions. We then present our systematic literature review that identified ALS-associated circRNAs, followed by in silico analyses of 15 circular RNA candidates that were selected based on most compelling data regarding ALS. Our results revealed that several circular RNAs regulate ALS-related genes, such as unfolded protein response, oxidative stress, cell cycle regulation, and apoptosis. Protein-RNA interaction analysis further showed that ALS-related circRNAs can sponge 20 RNA-binding proteins. Additionally, molecular docking analysis demonstrated that ALS-associated FUS variants significantly alter its binding affinity to circular RNAs. RNA-seq data from ALS patients confirmed significant alterations in the expression of host genes of ALS-related circRNAs and hub proteins in ALS-affected CNS tissues. Collectively, our findings identify circRNAs as potential key contributors to ALS pathogenesis.",
+      "journal": "Neurobiology of disease",
+      "authors": [
+        "Ataei R",
+        "Amini J",
+        "Sanadgol N",
+        "Simon AF",
+        "Duennwald ML"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600995/"
+    },
+    {
+      "id": "pmid-42600917",
+      "pmid": "42600917",
+      "doi": "10.1016/j.neuroscience.2026.08.017",
+      "title": "Identifying candidate therapeutic targets in amyotrophic lateral sclerosis through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a heterogeneous neurodegenerative disease for which effective disease-modifying therapies remain limited. This study aimed to derive internally recurrent ALS-associated transcriptional signatures and generate directionally interpretable drug-repositioning hypotheses using a consensus machine-learning framework. Two publicly available transcriptomic datasets from motor cortex (E-MTAB-2325) and blood (E-TABM-940) were analyzed using four feature-selection methods within 100 repetitions of 4-fold cross-validation. Probes recurrently selected in models achieving an accuracy of at least 0.90 were prioritized and examined using COGENA pathway enrichment and Connectivity Map drug-signature analysis. Fifteen qualifying models were obtained for the motor-cortex dataset and 55 for the blood dataset. No exact prioritized gene or probe identifier was shared between the two top-100 signatures, but pathway-level integration identified complementary evidence involving glial and immune regulation, proteostasis and vesicle trafficking, MAPK-related stress signaling, cytoskeletal and extracellular remodeling, and RNA-related processes. The motor-cortex dataset additionally emphasized astroglial support, glutamate handling, and inclusion-body regulation, whereas the blood dataset highlighted cytokine regulation and directionally heterogeneous immune, mitochondrial, and metabolic signals. Deferoxamine and disulfiram showed the clearest reversal-compatible profiles in motor cortex, whereas yohimbic acid and atovaquone showed reversal-compatible profiles in blood. Ciprofloxacin, prochlorperazine, and a compound group led by androsterone instead showed concordant connectivity. The results provide transparent, hypothesis-generating gene, pathway, and compound priorities, but they do not establish biomarkers, therapeutic efficacy, or clinical suitability and require validation in independent cohorts and experimental ALS models.",
+      "journal": "Neuroscience",
+      "authors": [
+        "de Andrés-Galiana EJ",
+        "Fernández-Martínez JL",
+        "Morís G"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600917/"
+    },
     {
       "id": "pmid-42599142",
       "pmid": "42599142",
@@ -29,6 +68,27 @@
       ],
       "publishedAt": "2026-08-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42599142/"
+    },
+    {
+      "id": "pmid-42601592",
+      "pmid": "42601592",
+      "doi": "10.1002/mus.70378",
+      "title": "Poor Prognostic Factors After Gastrostomy in Patients With Amyotrophic Lateral Sclerosis: A Two-Center Retrospective Cohort Study.",
+      "abstract": "Percutaneous endoscopic gastrostomy (PEG) is widely used to manage dysphagia in patients with amyotrophic lateral sclerosis (ALS). However, some patients experience rapid clinical deterioration following the procedure. Prognostic factors specific to outcomes following PEG remain insufficiently defined. This two-center retrospective cohort study included 117 patients with ALS who underwent PEG prior to tracheostomy between April 2011 and June 2023. Cox proportional hazards modeling was used to identify independent prognostic factors following PEG. Explanatory variables included age, sex, onset site, percent of normal forced vital capacity (%FVC), disease duration from onset to PEG, and body mass index. Optimal cutoff values for continuous variables were determined using time-dependent receiver operating characteristic analyses. Among six examined clinical variables, four were independently associated with worse outcomes after PEG placement as follows: male sex, spinal onset, lower %FVC at the time of PEG, and shorter duration from onset to PEG. Cutoff values were determined as %FVC < 63% and disease duration < 12 months. Log-rank analyses confirmed significantly shorter post-PEG survival in patients meeting these criteria. Poorer respiratory function and shorter duration from disease onset to PEG were strongly associated with worse prognosis after PEG. Male sex emerged as an independent prognostic factor, suggesting potential biological differences in disease progression after gastrostomy. These findings underscore the importance of comprehensive clinical evaluation when considering PEG in patients with ALS.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Shijo T",
+        "Suzuki N",
+        "Warita H",
+        "Ikeda K",
+        "Kato M",
+        "Aoki M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601592/"
     },
     {
       "id": "pmid-42594365",
@@ -631,8 +691,8 @@
       "id": "pmid-42580389",
       "pmid": "42580389",
       "doi": "10.1016/j.phrs.2026.108383",
-      "title": "Neuron-Derived Neuroinflammation in Neurodegenerative Diseases: Mechanisms and Intervention Prospects.",
-      "abstract": "Neurodegenerative diseases represent a major global public health challenge, imposing substantial societal and economic burdens. Their complex pathogenesis and limited therapeutic options underscore an urgent need for new paradigms. Emerging evidence indicates that dysregulation of the brain's immune microenvironment is a critical driver of disease progression. Conventional wisdom posits that peripheral immune cells and central glial cells serve as the primary initiators of neuroimmune responses, whereas neurons are regarded merely as passive recipients of inflammatory damage. Emerging evidence suggests that upon receiving pathological signals in the central nervous system, neurons may become more vulnerable and participate in the onset of neuroimmune processes, positioning them as potential targets for early intervention in neurodegenerative diseases. This article systematically reviews the contribution of neuron-derived immune-inflammatory responses in neurodegenerative diseases and potential intervention strategies. We first outline the capacity of neurons to regulate neuroimmune responses and detail the underlying molecular mechanisms. Then we compare the specific mechanisms by which neurons with different susceptibility drive and amplify neuroinflammation in various neurodegenerative diseases such as alzheimer's disease, parkinson's disease, amyotrophic lateral sclerosis, vascular cognitive impairment, and transformed these mechanisms into intervention strategies targeting neurons,. This article aims to break through the traditional concept of passive neuronal damage, systematically integrate intervention strategies that shift from targeting peripheral immune and glial cells to regulating neuron-derived immunity, thereby providing a new theoretical framework for overcoming current clinical limitations and identifying effective therapeutic targets for the prevention and treatment of neurodegenerative diseases.",
+      "title": "Neuron-derived neuroinflammation in neurodegenerative diseases: Mechanisms and intervention prospects.",
+      "abstract": "Neurodegenerative diseases represent a major global public health challenge, imposing substantial societal and economic burdens. Their complex pathogenesis and limited therapeutic options underscore an urgent need for new paradigms. Emerging evidence indicates that dysregulation of the brain's immune microenvironment is a critical driver of disease progression. Conventional wisdom posits that peripheral immune cells and central glial cells serve as the primary initiators of neuroimmune responses, whereas neurons are regarded merely as passive recipients of inflammatory damage. Emerging evidence suggests that upon receiving pathological signals in the central nervous system, neurons may become more vulnerable and participate in the onset of neuroimmune processes, positioning them as potential targets for early intervention in neurodegenerative diseases. This article systematically reviews the contribution of neuron-derived immune-inflammatory responses in neurodegenerative diseases and potential intervention strategies. We first outline the capacity of neurons to regulate neuroimmune responses and detail the underlying molecular mechanisms. Then we compare the specific mechanisms by which neurons with different susceptibility drive and amplify neuroinflammation in various neurodegenerative diseases such as alzheimer's disease, parkinson's disease, amyotrophic lateral sclerosis, vascular cognitive impairment, and transformed these mechanisms into intervention strategies targeting neurons. This article aims to break through the traditional concept of passive neuronal damage, systematically integrate intervention strategies that shift from targeting peripheral immune and glial cells to regulating neuron-derived immunity, thereby providing a new theoretical framework for overcoming current clinical limitations and identifying effective therapeutic targets for the prevention and treatment of neurodegenerative diseases.",
       "journal": "Pharmacological research",
       "authors": [
         "Bu J",
@@ -1292,188 +1352,6 @@
       ],
       "publishedAt": "2026-08-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42598675/"
-    },
-    {
-      "id": "pmid-42556002",
-      "pmid": "42556002",
-      "doi": "10.1016/j.jocn.2026.112228",
-      "title": "Chronic neurological diseases with acute respiratory failure in a real-life cohort: insights into ICU and long-term survival-A retrospective study.",
-      "abstract": "Patients with chronic neurological diseases (CND) are at increased risk of pulmonary complications that often require ICU admission. This study aimed to identify clinical factors associated with ICU mortality and long-term survival in patients with CND who developed acute respiratory failure (ARF). This retrospective cohort study was conducted in a level III respiratory ICU. Patients with pre-existing CND admitted to the ICU with ARF were included. ICU mortality was analyzed using multivariable logistic regression. Long-term survival after ICU discharge was evaluated using Kaplan-Meier survival analysis and Cox proportional hazards models. Mortality timing was further characterized using hazard function analysis. A total of 220 patients were included; the most common neurological diagnoses were dementia (37.3%), stroke (22.7%), and amyotrophic lateral sclerosis (14.1%). ICU mortality was 33.6%. Higher APACHE II scores were independently associated with increased ICU mortality (OR 1.076 per point increase; 95% CI 1.029-1.126; p < 0.001). Long-term survival differed significantly by post-discharge respiratory support strategy, with Kaplan-Meier analysis demonstrating more favorable survival patterns among patients receiving home non-invasive mechanical ventilation (NIMV) (p = 0.003). In Cox regression analysis, age, home NIMV, and feeding modality at discharge were independently associated with long-term outcomes. Survival analyses revealed an early clustering of deaths within the first months after ICU discharge, particularly among patients with dementia. In patients with CND, acute physiological severity was the main determinant of ICU mortality, whereas long-term survival after ICU discharge was poor, with deaths clustering within the first months thereafter. Post-discharge respiratory support and nutritional management should be individualized according to the expected clinical trajectory and patient values.",
-      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-      "authors": [
-        "Tekan ÜY",
-        "Aksoy E",
-        "Kargın F",
-        "Küçük RS",
-        "Saltürk C",
-        "Çiyiltepe F",
-        "Yavuz D",
-        "Güngör G",
-        "Adıgüzel N",
-        "Karakurt Z"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556002/"
-    },
-    {
-      "id": "pmid-42556722",
-      "pmid": "42556722",
-      "doi": "10.1016/j.jbc.2026.113394",
-      "title": "Distinct competitive and allosteric binding modes of nanobodies targeting EphA4.",
-      "abstract": "EphA4 signaling is a key negative regulator of axonal regeneration and a genetic modifier of amyotrophic lateral sclerosis (ALS), making EphA4 an attractive but mechanistically underexplored therapeutic target. Although EphA4-targeting nanobodies have shown inhibitory potential, the structural principles governing their binding and inhibitory mechanisms remain largely unknown. Here, we report high-resolution crystal structures of the EphA4 ligand-binding domain (LBD) in complex with four nanobodies (Nb50, Nb53, Nb57, and Nb60), resolved at 1.34-2.21 Å. Nb50, Nb53, and Nb57 competitively engage the canonical ephrin-binding pocket through deep CDR3 insertion, directly mimicking ephrin recognition. In contrast, Nb60 adopts a previously unrecognized binding mode, contacting two EphA4 molecules at noncanonical sites in the crystal structure through framework-dominated interactions and supporting a structural model for steric and allosteric restriction of ephrin access. Integrated biophysical analyses reveal distinct thermodynamic and kinetic signatures underlying these binding mechanisms. Together, our findings uncover unexpected structural diversity in nanobody-mediated EphA4 recognition and provide a framework for rational development of EphA4-targeted modulators for ALS and related neurodegenerative conditions.",
-      "journal": "The Journal of biological chemistry",
-      "authors": [
-        "Jiang H",
-        "Ding L",
-        "Yang C",
-        "Guo G",
-        "Zhong C",
-        "Ma Z",
-        "Zhu H",
-        "Zhang J",
-        "Luo Y",
-        "Liu Z",
-        "Liu R",
-        "Ding Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556722/"
-    },
-    {
-      "id": "pmid-42554090",
-      "pmid": "42554090",
-      "doi": "10.1080/17582024.2026.2713034",
-      "title": "Evidence-based physiotherapy recommendations for the management of motor aspects in amyotrophic lateral sclerosis.",
-      "abstract": "To provide evidence-based recommendations for the physiotherapy management of Amyotrophic Lateral Sclerosis (ALS). Evidence-based recommendations were developed by a multidisciplinary team, including PhDs and master's-level researchers, physicians, and experienced physiotherapists specializing in neurological rehabilitation. After the selection process, 23 studies were included. Eighteen recommendations addressing motor aspects in ALS were formulated. Therapeutic exercise should be considered to improve or maintain ALSFRS-R scores in people with ALS. However, the effects of other interventions examined in this study remain uncertain with respect to motor aspects. Physiotherapy plays an important role in helping people with Amyotrophic Lateral Sclerosis (ALS) improve movement and manage their symptoms. Many physical therapists, however, still find it difficult to choose the best treatments based on scientific evidence. In this study, we reviewed the most up-to-date research to identify the best evidence-based physical therapy recommendations for people with ALS. We found that exercise programs designed by physical therapists may help maintain or slightly improve daily activities and physical function. However, the available scientific studies are limited and generally of low quality. This means that although exercise appears beneficial, higher-quality research is still needed to confirm these findings.",
-      "journal": "Neurodegenerative disease management",
-      "authors": [
-        "Silva STD",
-        "de Souza AA",
-        "de Melo LP",
-        "de Oliveira Cacho R",
-        "de Holanda LJ",
-        "Ortiz LDN",
-        "Dourado Júnior MET",
-        "Farias IB",
-        "Gonçalves F",
-        "Nagem DAP",
-        "de Medeiros Valentim RA",
-        "Lindquist ARR",
-        "Ribeiro TS"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42554090/"
-    },
-    {
-      "id": "pmid-42555669",
-      "pmid": "42555669",
-      "doi": "10.1371/journal.pgen.1011909",
-      "title": "Glial cell toxicity in a Drosophila C9orf72 neurodegeneration model.",
-      "abstract": "The most common genetic cause of both familial amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) is an expanded G4C2 repeat in the first intron of the gene C9orf72. The C9orf72 repeat expansion is bidirectionally transcribed into sense and anti-sense RNA foci, and also produces dipeptide repeats (DPRs) via a non-canonical translation mechanism known as repeat-associated (RAN) translation. Each of these components of the G4C2 repeat expansion cause neurodegenerative effects in animal models when expressed in neurons, but impacts from glial expression are more poorly understood. Here, we use glial cell type-specific expression of individual DPRs, of RNA repeat-only, or of the G4C2 repeat, that produces both DPRs and RNA repeats, to systematically investigate glial toxicity of each component. We find that as with neurons, the GR and G4C2 transgenes produce the highest degree of toxicity when expressed in glia. Each of these transgenes are capable to produce the GR DPR, which also is the most toxic factor in neurons. We demonstrate that both the GR and G4C2 transgenes cause activation of mdg4, an endogenous retrovirus (ERV). Such ERV expression is a hallmark of TDP-43 dysfunction that is commonly observed in C9orf72 patients. We find that glial expression of either the GR or the G4C2 transgene is toxic to glial cells, but such expression does not cause loss nearby neurons. However, blocking apoptotic signaling within glia that express either GR or G4C2 via expression of the p35 caspase inhibitor further exacerbates effects on lifespan and ablating such glia via expression of the proapoptotic reaper gene partially ameliorates these effects. Together, these results indicate that expression of toxic C9orf72 components in glia produces deleterious effects on lifespan, though potentially through different mechanisms than seen in TDP-43 models of ALS/FTD.",
-      "journal": "PLoS genetics",
-      "authors": [
-        "Hubbard I",
-        "Dubnau J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555669/"
-    },
-    {
-      "id": "pmid-42554905",
-      "pmid": "42554905",
-      "doi": "10.1007/s12640-026-00815-0",
-      "title": "Inhibition of Glutamate Decarboxylase in the Spinal Cord Induces Motor Deficits and Motor Neuron Degeneration.",
-      "abstract": "Motor neuron (MN) diseases such as amyotrophic lateral sclerosis (ALS) are characterized by the loss of cortical and spinal MNs. Although the precise mechanisms of MN degeneration are still unknown, downregulation of GABAergic circuits has been identified in both ALS patients and transgenic models of the disease. GABA synthesis depends on the activity of the enzyme glutamate decarboxylase (GAD), of which two isoforms are known: GAD65 and GAD67. To study the effects of decreased GABA synthesis on spinal cord motor function, we analyzed the effects of administering three selective inhibitors of GAD: 3-mercaptopropionic acid (MPA), a competitive inhibitor of GAD, thiosemicarbazide (TSC), and pyridoxal phosphate γ-glutamyl hydrazone (PLPGH), two GAD cofactor blockers. A single dose of any of these inhibitors did not affect motor behavior or MN morphology. However, subchronic (3 days) and chronic (10 days) administration of MPA, TSC or PLPGH in rats caused motor alterations and cellular changes, including episodic myoclonus-like movements, flaccidity in the ipsilateral phalanges, loss of 35-50% of MNs, reactive astrogliosis and decreased GAD activity. These findings suggest that chronic inhibition of GAD can lead to MN degeneration and further suggest that GABA metabolism in the spinal cord may participate in the mechanisms that cause MN death in patients with neurodegenerative diseases such as ALS.",
-      "journal": "Neurotoxicity research",
-      "authors": [
-        "Colín-Martínez E",
-        "Ramírez-Jarquín UN",
-        "Tapia R",
-        "Arias C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42554905/"
-    },
-    {
-      "id": "pmid-42554695",
-      "pmid": "42554695",
-      "doi": "10.1080/10543406.2026.2699854",
-      "title": "Randomization-based covariance analysis for hypothesis testing of treatment comparisons based on restricted mean survival time with categorized time-to-event data.",
-      "abstract": "This paper introduces randomization-based analysis of covariance (RB-ANCOVA) for hypothesis testing of restricted mean survival time (RMST) differences between two randomized treatments in trials with categorized time-to-event data. RMST treatment differences over a prespecified time period are clinically meaningful and avoid assumptions like proportional hazards. The proposed method tests the strong null hypothesis that each participant's time-to-event would remain unchanged regardless of treatment assignment. Covariate adjustment is achieved by constraining baseline covariate means to be equal across arms, which reduces variance. The follow-up period is partitioned into mutually exclusive intervals, and RMST is approximated as the area under the survival curve. Under the strong null hypothesis, the joint asymptotic covariance structure of RMST and covariate means is known and used to construct a chi-squared test statistic for the covariate-adjusted RMST difference. The method accommodates stratified trial designs and supports hypothesis testing over single or several time intervals, enabling testing within internal intervals. The difference in RMSTs over an interval can be divided by its length to yield an average survival rate difference. Additionally, the approach allows the computation of essentially exact p -values via re-randomization. We illustrate the method with data from a randomized, placebo-controlled trial evaluating a test treatment for amyotrophic lateral sclerosis. This method provides a hypothesis testing approach for RMST treatment differences that leverages RB-ANCOVA to adjust for their correlations with baseline covariate differences. Under the strong null hypothesis, it enables hypothesis testing with clear control of Type I error and reduced variance without relying on model-based assumptions.",
-      "journal": "Journal of biopharmaceutical statistics",
-      "authors": [
-        "Krajewski TJ",
-        "Koch GG"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42554695/"
-    },
-    {
-      "id": "pmid-42558984",
-      "pmid": "42558984",
-      "doi": "10.1155/sci/4122493",
-      "title": "The Effectiveness Based on Optimal Dose and Administration Route, and Safety Profiles of Stem Cells and Derived Products in the Treatment of Patients With Amyotrophic Lateral Sclerosis: A Systematic Review and Meta-Analysis.",
-      "abstract": "This systematic review and meta-analysis aimed to evaluate the effectiveness of stem cell therapies for patients with amyotrophic lateral sclerosis (ALS) based on optimal dosing and administration routes, as well as the safety profiles of stem cells and their derived products. The review followed PRISMA guidelines and involved a comprehensive literature search up to October 2025, receiving ethical approval from Tabriz University of Medical Sciences and registration in PROSPERO. It utilized international databases, including PubMed/MEDLINE, Embase, Cochrane Library, Scopus, Web of Science, ProQuest, ClinicalTrials.gov, and Science Direct. The included studies comprised randomized controlled trials (RCTs), quasi-experimental studies, and other interventional designs involving ALS patients treated with stem cell therapies. In total, 31 studies were analyzed, featuring 7 controlled trials with 370 participants and 24 non-controlled pre-post studies with 460 participants. Heterogeneity was evaluated using I 2 statistics, and subgroup analyses were conducted based on treatment duration and dosing. A pooled analysis (treatment group: n = 93; control group: n = 90) demonstrated a significant attenuation in the progression of disease severity, as measured by the ALS Functional Rating Scale (ALSFRS), in stem cell groups versus controls (weighted mean difference [WMD]: 8.89 95% CI: 4.12-13.67; p = 0.0003), which was beneficial for both the ≥10 × 10 6 and <10 × 10 6 dose sub-groups. However, a meta-analysis of single-arm studies in two control (pre-intervention) and intervention phases ( n = 88) demonstrated no significant difference in progression of ALSFRS between study phases by time: month 3 (WMD: -1.27 (-3.01 to 0.47); p = 0.15), month 6 (WMD: -2.69 (-5.62 to 0.25); p = 0.07), month 9 (WMD: -1.55 (-3.49 to 0.39); p = 0.12), and month 12 (WMD: -7.59 (-13.95 to -1.26); p = 0.02). An accelerated decline in forced vital capacity (FVC) was observed during the intervention phase, with statistically significant reductions at month 3 (WMD: -10.91; 95% CI: -16.39 to -5.43; p < 0.0001) and month 6 (WMD: -15.97; 95% CI: -28.60 to -3.33; p = 0.01) compared with the pre-intervention control phase. Nevertheless, sensitivity analyses excluding studies involving high-dose mesenchymal stem cell (MSC) therapies demonstrated that these differences were no longer statistically significant. Moreover, no significant change in progression rate was observed at month 9 (WMD: -8.10 (-18.25 to 2.06); p = 0.12). The route of MSCs administration (intrathecal [IT], intramuscular [IM], and intravenous [IV]) had no effect on the results of ALSFRS and FVC, reinforced by sensitivity analyses. Adverse events were mostly mild, with headaches most frequent in high-dose groups. Stem cell therapy for ALS appears to be safe, with preliminary evidence suggesting potential therapeutic benefit in slowing disease progression in selected patients. Nevertheless, the existing evidence base remains exploratory, and definitive conclusions regarding clinical effectiveness cannot yet be drawn. Future research should prioritize large-scale and multicenter RCTs with standardized cell manufacturing protocols and longer follow-up periods.",
-      "journal": "Stem cells international",
-      "authors": [
-        "Pourasghari M",
-        "Babaie S",
-        "Markazi-Movaghar R",
-        "Salehpour S",
-        "Eftekharsadat B",
-        "Farshbaf-Khalili A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42558984/"
-    },
-    {
-      "id": "pmid-42562736",
-      "pmid": "42562736",
-      "doi": "10.1016/j.neurot.2026.e00970",
-      "title": "Wild-type C9orf72 drives proteasomal dysfunction and mutant aggregates via a Stat1-Isg15 axis in Huntington's disease.",
-      "abstract": "Mutant C9orf72 has been extensively studied as a major genetic cause of amyotrophic lateral sclerosis and frontotemporal dementia, and is also known to generate Huntington's disease (HD)-like phenocopies. However, despite this strong disease association, the role of wild-type C9orf72 (wt-C9orf72) in neurodegeneration remains largely unexplored. HD is a neurodegenerative disease, and characterized by the accumulation of misfolded mutant Huntingtin (mHTT) and impaired proteostasis, yet the upstream mechanisms driving ubiquitin-proteasome system (UPS) dysfunction are not fully understood. Here, we identify a previously unrecognized modulatory role of wt-C9orf72 in regulating mHTT aggregation in experimental HD models. Analysis of public transcriptomic datasets reveal context-dependent C9ORF72 expression changes across HD-related human datasets, while C9orf72 levels are increased in R6/2 mouse brain lysates. Functional analyses reveal that overexpression of wt-C9orf72 increases mHTT aggregation and is accompanied by increased apoptotic signaling and reduced cell viability. Unbiased proteomic profiling identifies Stat1 as a key downstream effector. Mechanistically, wt-C9orf72 promotes Stat1 activation and nuclear translocation, leading to transcriptional upregulation of Isg15, a ubiquitin-like modifier. Elevated Isg15 disrupts UPS function, resulting in accumulation of polyubiquitinated proteins and impaired proteasomal degradation. Importantly, genetic suppression of Stat1 or Isg15 significantly attenuates C9orf72-associated mHTT aggregation, supporting a functional C9orf72-Stat1-Isg15 axis. Consistent with these cell-based findings, Stat1, phosphorylated Stat1 and Isg15 levels are elevated in the cortex and striatum of R6/2 HD mouse brains. Collectively, our findings identify a novel wt-C9orf72-Stat1-Isg15 axis that promotes proteasomal dysfunction and mHTT aggregation, providing new insights into wt-C9orf72-associated protein homeostasis.",
-      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
-      "authors": [
-        "Chan SC",
-        "Tung CW",
-        "Chang CY",
-        "Su CC",
-        "Chen YC",
-        "Wu PM",
-        "Tung CY",
-        "Chen SF",
-        "Kuo HY",
-        "Cheng PH",
-        "Chen CM",
-        "Yang SH"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562736/"
     }
   ]
 }

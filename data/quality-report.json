@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-14T22:39:32.205Z",
+  "updatedAt": "2026-08-15T22:37:33.929Z",
   "summary": {
     "totalItems": 45,
-    "issueCount": 50
+    "issueCount": 43
   },
   "sources": [
     {
@@ -23,147 +23,81 @@
   ],
   "lowRelevance": [
     {
-      "id": "pmid-42476836",
-      "title": "When algorithms speak first: The public health risk of consumer AI in ALS diagnosis.",
-      "titleZh": "当算法先开口：消费级AI在ALS诊断中的公共卫生风险",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
+      "id": "epmc-MED-42596024",
+      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
+      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s13195-026-02157-7"
+    },
+    {
+      "id": "epmc-PPR-PPR1298765",
+      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
+      "titleZh": "卒中后细胞分辨率脑机接口记录的长期稳定性",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.09.742157"
+    },
+    {
+      "id": "epmc-PPR-PPR1298569",
+      "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
+      "titleZh": "多组学机器学习克服转录组盲区以挽救ALS治疗靶点",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476836/"
+      "url": "https://doi.org/10.21203/rs.3.rs-9305370/v1"
+    },
+    {
+      "id": "epmc-PPR-PPR1298416",
+      "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
+      "titleZh": "DHTKD1外显子缺失与散发性小脑性共济失调相关",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
+    },
+    {
+      "id": "epmc-PPR-PPR1298309",
+      "title": "Air Pollution and Human Health: A Scoping Review",
+      "titleZh": "待复核翻译：Air Pollution and Human Health: A Scoping Review",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
     },
     {
       "id": "epmc-PPR-PPR1298010",
       "title": "Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
-      "titleZh": "病理学定义的细胞状态揭示ALS皮层单核RNA-seq研究中可重复的转录组特征",
+      "titleZh": "待复核翻译：Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.07.743523"
     },
     {
-      "id": "epmc-MED-42584174",
-      "title": "Lessons from a systematic review of family-based studies in ALS.",
-      "titleZh": "基于家庭的ALS研究的系统综述带来的启示",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1080/21678421.2026.2713969"
-    },
-    {
-      "id": "epmc-MED-42581651",
-      "title": "The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration.",
-      "titleZh": "硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性病发病率的干预后二次分析",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1093/aje/kwag189"
-    },
-    {
-      "id": "epmc-MED-42581131",
-      "title": "cGAS-STING as a Neuroimmune Traffic Molecule: Unraveling Pathogenic Mechanisms and Therapeutic Potential in Neurological Disorders.",
-      "titleZh": "cGAS-STING作为神经免疫交通分子：揭示神经系统疾病中的致病机制与治疗潜力",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s11481-026-10307-9"
-    },
-    {
-      "id": "epmc-PPR-PPR1297313",
-      "title": "TDP-43 loss drives premature aging and regenerative failure in skeletal muscle stem cells",
-      "titleZh": "TDP-43缺失导致骨骼肌干细胞过早衰老和再生失败",
-      "category": "治疗",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10448636/v1"
-    },
-    {
-      "id": "epmc-MED-42581247",
-      "title": "LXR Pathway Activation by T0901317: A Novel Potential Experimental Strategy for ALS-Related Cognitive and Motor Impairments via Suppression of Necroptosis-associated RIPK1/RIPK3/MLKL Markers.",
-      "titleZh": "待复核翻译：LXR Pathway Activation by T0901317: A Novel Potential Experimental Strategy for ALS-Related Cognitive and Motor Impairments via Suppression of Necroptosis-associated RIPK1/RIPK3/MLKL Markers.",
+      "id": "epmc-MED-42592497",
+      "title": "Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
+      "titleZh": "待复核翻译：Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s12035-026-06106-1"
-    },
-    {
-      "id": "epmc-MED-42581113",
-      "title": "Oxidative stress and inflammation in neurodegenerative disorders.",
-      "titleZh": "待复核翻译：Oxidative stress and inflammation in neurodegenerative disorders.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00204-026-04518-5"
-    },
-    {
-      "id": "epmc-MED-42580558",
-      "title": "Epigenetic Drift and LINE-1 Activation in Aging Brain: Implications for Neurodegenerative Disease.",
-      "titleZh": "待复核翻译：Epigenetic Drift and LINE-1 Activation in Aging Brain: Implications for Neurodegenerative Disease.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.mad.2026.112235"
-    },
-    {
-      "id": "epmc-MED-42580389",
-      "title": "Neuron-Derived Neuroinflammation in Neurodegenerative Diseases: Mechanisms and Intervention Prospects.",
-      "titleZh": "Neuron-Derived 神经炎症 in Neurodegenerative Diseases: Mechanisms and Intervention Prospects.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.phrs.2026.108383"
-    },
-    {
-      "id": "epmc-MED-42579090",
-      "title": "Mapping the Synaptome in Neurodegeneration: Emerging Clinical Applications of SV2A PET Imaging.",
-      "titleZh": "待复核翻译：Mapping the Synaptome in Neurodegeneration: Emerging Clinical Applications of SV2A PET Imaging.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s40291-026-00871-4"
-    },
-    {
-      "id": "epmc-MED-42576610",
-      "title": "Myokines, Microbiota, and Neuroinflammation: Physical Activity Modulates the Gut-Brain Axis.",
-      "titleZh": "Myokines, Microbiota, and 神经炎症: Physical Activity Modulates the Gut-Brain Axis.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/08820139.2026.2689670"
-    },
-    {
-      "id": "epmc-MED-42575772",
-      "title": "Voice Disorders as Early Biomarkers of Cognitive Decline.",
-      "titleZh": "Voice Disorders as Early 生物标志物s of Cognitive Decline.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.jvoice.2026.07.037"
+      "priority": "medium",
+      "url": "https://doi.org/10.1039/d6sc03258c"
     }
   ],
   "missingIdentifiers": [],
@@ -180,200 +114,189 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
     },
     {
-      "id": "pmid-42595782",
-      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
-      "titleZh": "更正：促凋亡BCL-2家族成员BIM在肌萎缩侧索硬化症模型中介导运动神经元丢失",
+      "id": "pmid-42114311",
+      "title": "Comment on \"profiling mitochondrial DNA indices across whole blood, plasma, and CSF in amyotrophic lateral sclerosis\".",
+      "titleZh": "评论：关于“肌萎缩侧索硬化症全血、血浆和脑脊液中线粒体DNA指数分析”的评论",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42114311/"
+    },
+    {
+      "id": "epmc-MED-42596024",
+      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
+      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s13195-026-02157-7"
+    },
+    {
+      "id": "epmc-MED-42594365",
+      "title": "Prescribing and monitoring of riluzole in amyotrophic lateral sclerosis: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury.",
+      "titleZh": "肌萎缩侧索硬化症中利鲁唑的处方与监测：来自新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.26635/6965.7367"
+    },
+    {
+      "id": "epmc-PPR-PPR1298765",
+      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
+      "titleZh": "卒中后细胞分辨率脑机接口记录的长期稳定性",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.09.742157"
+    },
+    {
+      "id": "epmc-PPR-PPR1298569",
+      "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
+      "titleZh": "多组学机器学习克服转录组盲区以挽救ALS治疗靶点",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-9305370/v1"
+    },
+    {
+      "id": "epmc-PPR-PPR1298416",
+      "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
+      "titleZh": "DHTKD1外显子缺失与散发性小脑性共济失调相关",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
+    },
+    {
+      "id": "epmc-PPR-PPR1298410",
+      "title": "Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42595782/"
+      "url": "https://doi.org/10.21203/rs.3.rs-10690389/v1"
+    },
+    {
+      "id": "epmc-PPR-PPR1298309",
+      "title": "Air Pollution and Human Health: A Scoping Review",
+      "titleZh": "待复核翻译：Air Pollution and Human Health: A Scoping Review",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
+    },
+    {
+      "id": "epmc-MED-42595782",
+      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
+      "titleZh": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1038/s41418-026-01701-0"
+    },
+    {
+      "id": "epmc-MED-42595352",
+      "title": "Associations of self-reported and objectively measured physical activity and amyotrophic lateral sclerosis risk.",
+      "titleZh": "Associations of self-reported and objectively measured physical activity and 肌萎缩侧索硬化症 risk.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1136/jnnp-2026-339165"
+    },
+    {
+      "id": "epmc-MED-42594043",
+      "title": "Motor Neuron Disease Mortality in the United States, 2010-2023: A demographic, geographic, and temporal analysis.",
+      "titleZh": "运动神经元病 Mortality in the United States, 2010-2023: A demographic, geographic, and temporal analysis.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1159/000551599"
+    },
+    {
+      "id": "epmc-MED-42592867",
+      "title": "The EQ-5D-5L in amyotrophic lateral sclerosis: an international longitudinal exploration as part of ALS-CarE.",
+      "titleZh": "The EQ-5D-5L in 肌萎缩侧索硬化症: an international longitudinal exploration as part of ALS-CarE.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2715921"
+    },
+    {
+      "id": "epmc-MED-42592720",
+      "title": "Severe hypersensitivity reaction during tofersen therapy in amyotrophic lateral sclerosis associated with the rare SOD1 p.Val120Phe mutation.",
+      "titleZh": "Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.5603/pjnns.113584"
+    },
+    {
+      "id": "epmc-MED-42586744",
+      "title": "Emergency Tracheostomy with Invasive Ventilation in Patients with Amyotrophic Lateral Sclerosis Increases Hospitalization Duration and Long-Term Complications.",
+      "titleZh": "Emergency Tracheostomy with Invasive Ventilation in Patients with 肌萎缩侧索硬化症 Increases Hospitalization Duration and Long-Term Complications.",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1620/tjem.2026.j085"
     },
     {
       "id": "epmc-PPR-PPR1298010",
       "title": "Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
-      "titleZh": "病理学定义的细胞状态揭示ALS皮层单核RNA-seq研究中可重复的转录组特征",
+      "titleZh": "待复核翻译：Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.07.743523"
     },
     {
-      "id": "epmc-MED-42584174",
-      "title": "Lessons from a systematic review of family-based studies in ALS.",
-      "titleZh": "基于家庭的ALS研究的系统综述带来的启示",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1080/21678421.2026.2713969"
-    },
-    {
-      "id": "epmc-MED-42581651",
-      "title": "The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration.",
-      "titleZh": "硒和维生素E癌症预防试验（SELECT）：关于硒补充可能增加慢性病发病率的干预后二次分析",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1093/aje/kwag189"
-    },
-    {
-      "id": "epmc-MED-42581131",
-      "title": "cGAS-STING as a Neuroimmune Traffic Molecule: Unraveling Pathogenic Mechanisms and Therapeutic Potential in Neurological Disorders.",
-      "titleZh": "cGAS-STING作为神经免疫交通分子：揭示神经系统疾病中的致病机制与治疗潜力",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s11481-026-10307-9"
-    },
-    {
-      "id": "epmc-PPR-PPR1297313",
-      "title": "TDP-43 loss drives premature aging and regenerative failure in skeletal muscle stem cells",
-      "titleZh": "TDP-43缺失导致骨骼肌干细胞过早衰老和再生失败",
-      "category": "治疗",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10448636/v1"
-    },
-    {
-      "id": "epmc-MED-42581415",
-      "title": "Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "titleZh": "待复核翻译：Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 6,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.1002/ana.78328"
-    },
-    {
-      "id": "epmc-MED-42581247",
-      "title": "LXR Pathway Activation by T0901317: A Novel Potential Experimental Strategy for ALS-Related Cognitive and Motor Impairments via Suppression of Necroptosis-associated RIPK1/RIPK3/MLKL Markers.",
-      "titleZh": "待复核翻译：LXR Pathway Activation by T0901317: A Novel Potential Experimental Strategy for ALS-Related Cognitive and Motor Impairments via Suppression of Necroptosis-associated RIPK1/RIPK3/MLKL Markers.",
+      "id": "epmc-MED-42592497",
+      "title": "Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
+      "titleZh": "待复核翻译：Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s12035-026-06106-1"
-    },
-    {
-      "id": "epmc-MED-42581113",
-      "title": "Oxidative stress and inflammation in neurodegenerative disorders.",
-      "titleZh": "待复核翻译：Oxidative stress and inflammation in neurodegenerative disorders.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00204-026-04518-5"
-    },
-    {
-      "id": "epmc-MED-42580558",
-      "title": "Epigenetic Drift and LINE-1 Activation in Aging Brain: Implications for Neurodegenerative Disease.",
-      "titleZh": "待复核翻译：Epigenetic Drift and LINE-1 Activation in Aging Brain: Implications for Neurodegenerative Disease.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.mad.2026.112235"
-    },
-    {
-      "id": "epmc-MED-42580389",
-      "title": "Neuron-Derived Neuroinflammation in Neurodegenerative Diseases: Mechanisms and Intervention Prospects.",
-      "titleZh": "Neuron-Derived 神经炎症 in Neurodegenerative Diseases: Mechanisms and Intervention Prospects.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.phrs.2026.108383"
-    },
-    {
-      "id": "epmc-MED-42579090",
-      "title": "Mapping the Synaptome in Neurodegeneration: Emerging Clinical Applications of SV2A PET Imaging.",
-      "titleZh": "待复核翻译：Mapping the Synaptome in Neurodegeneration: Emerging Clinical Applications of SV2A PET Imaging.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s40291-026-00871-4"
-    },
-    {
-      "id": "epmc-MED-42578424",
-      "title": "Clinical and genetic characteristics of 536 young-onset amyotrophic lateral sclerosis in China: a single-center retrospective study.",
-      "titleZh": "Clinical and genetic characteristics of 536 young-onset 肌萎缩侧索硬化症 in China: a single-center retrospective study.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/21678421.2026.2712723"
-    },
-    {
-      "id": "epmc-MED-42576610",
-      "title": "Myokines, Microbiota, and Neuroinflammation: Physical Activity Modulates the Gut-Brain Axis.",
-      "titleZh": "Myokines, Microbiota, and 神经炎症: Physical Activity Modulates the Gut-Brain Axis.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/08820139.2026.2689670"
-    },
-    {
-      "id": "epmc-MED-42575772",
-      "title": "Voice Disorders as Early Biomarkers of Cognitive Decline.",
-      "titleZh": "Voice Disorders as Early 生物标志物s of Cognitive Decline.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.jvoice.2026.07.037"
-    },
-    {
-      "id": "epmc-PPR-PPR1295935",
-      "title": "Critical slowing down at the neuromuscular junction: an early-warning framework for amyotrophic lateral sclerosis",
-      "titleZh": "Critical slowing down at the neuromuscular junction: an early-warning framework for 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
       "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10642034/v1"
+      "url": "https://doi.org/10.1039/d6sc03258c"
     }
   ],
   "highPriorityNeedsReview": [
-    {
-      "id": "pmid-42568821",
-      "title": "From neural development to regenerative medicine: A research journey in stem cell biology, spinal cord repair, and iPSC-based drug discovery.",
-      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅",
-      "category": "临床试验",
-      "evidenceLevel": "综述/专家观点",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/"
-    },
     {
       "id": "pmid-42548788",
       "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
       "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "观察性临床研究（多中心回顾性队列，含倾向评分匹配历史对照）",
       "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
@@ -391,26 +314,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
     },
     {
-      "id": "pmid-42596024",
-      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "UNC13A 隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "id": "pmid-42601592",
+      "title": "Poor Prognostic Factors After Gastrostomy in Patients With Amyotrophic Lateral Sclerosis: A Two-Center Retrospective Cohort Study.",
+      "titleZh": "肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601592/"
+    },
+    {
+      "id": "epmc-MED-42592720",
+      "title": "Severe hypersensitivity reaction during tofersen therapy in amyotrophic lateral sclerosis associated with the rare SOD1 p.Val120Phe mutation.",
+      "titleZh": "Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42596024/"
-    },
-    {
-      "id": "epmc-MED-42581415",
-      "title": "Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "titleZh": "待复核翻译：Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 6,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.1002/ana.78328"
+      "url": "https://doi.org/10.5603/pjnns.113584"
     },
     {
       "id": "trial-NCT05597436",
@@ -580,18 +503,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 13,
+    "疑似误收": 7,
     "缺标识符": 0,
     "缺摘要": 17,
-    "高优先级待复核": 20,
+    "高优先级待复核": 19,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 45
   },
   "relevanceCounts": {
-    "medium": 6,
-    "high": 26,
-    "low": 13
+    "medium": 10,
+    "high": 28,
+    "low": 7
   }
 }
