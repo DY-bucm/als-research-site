@@ -1,6 +1,6 @@
 # 复核任务清单
 
-- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅 (pmid-42568821)
+- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复与iPSC药物发现的研究之旅 (pmid-42568821)
   - https://pubmed.ncbi.nlm.nih.gov/42568821/
 - [ ] 肌萎缩侧索硬化中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
   - https://pubmed.ncbi.nlm.nih.gov/42482658/
@@ -20,25 +20,31 @@
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
 - [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联 (pmid-42525902)
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
+- [ ] 神经退行性疾病中精氨酸酶和精氨酸通路的失调：代谢与细胞功能障碍及治疗意义 (pmid-42156213)
+  - https://pubmed.ncbi.nlm.nih.gov/42156213/
+- [ ] TRIM16通过协调Nrf2激活和TFR1自噬降解减轻TDP43介导的氧化损伤 (pmid-42092406)
+  - https://pubmed.ncbi.nlm.nih.gov/42092406/
 - [ ] 脑脊液外泌体 miRNA 作为神经退行性疾病生物标志物 (pmid-42162905)
   - https://pubmed.ncbi.nlm.nih.gov/42162905/
-- [ ] 评论：关于“肌萎缩侧索硬化症全血、血浆和脑脊液中线粒体DNA指数分析”的评论 (pmid-42114311)
+- [ ] 评论：关于“肌萎缩侧索硬化症中全血、血浆和脑脊液线粒体DNA指数分析” (pmid-42114311)
   - https://pubmed.ncbi.nlm.nih.gov/42114311/
-- [ ] [高优先级] 肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究 (pmid-42601592)
+- [ ] 肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究 (pmid-42601592)
   - https://pubmed.ncbi.nlm.nih.gov/42601592/
-- [ ] 肌萎缩侧索硬化中的环状RNA (pmid-42600995)
-  - https://pubmed.ncbi.nlm.nih.gov/42600995/
-- [ ] 通过全转录组机器学习共识方法识别肌萎缩侧索硬化症候选治疗靶点以促进药物再利用 (pmid-42600917)
-  - https://pubmed.ncbi.nlm.nih.gov/42600917/
-- [ ] [疑似误收] UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关 (epmc-MED-42596024)
+- [ ] 肌萎缩侧索硬化中的环状RNA (epmc-MED-42600995)
+  - https://doi.org/10.1016/j.nbd.2026.107574
+- [ ] 通过全转录组机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位 (epmc-MED-42600917)
+  - https://doi.org/10.1016/j.neuroscience.2026.08.017
+- [ ] 后COVID-19时期肌萎缩侧索硬化症的发病率与临床特征：来自伊朗伊斯法罕的一项基于人群的研究 (epmc-MED-42599142)
+  - https://doi.org/10.1080/17582024.2026.2718409
+- [ ] [疑似误收] [高优先级] UNC13A隐秘外显子与阿尔茨海默病认知障碍相关 (epmc-MED-42596024)
   - https://doi.org/10.1186/s13195-026-02157-7
-- [ ] 肌萎缩侧索硬化症中利鲁唑的处方与监测：来自新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究 (epmc-MED-42594365)
+- [ ] 肌萎缩侧索硬化症中利鲁唑的处方与监测：新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究 (epmc-MED-42594365)
   - https://doi.org/10.26635/6965.7367
-- [ ] [疑似误收] 卒中后细胞分辨率脑机接口记录的长期稳定性 (epmc-PPR-PPR1298765)
+- [ ] [疑似误收] Long-term stability of cellular-resolution 脑机接口 recordings after stroke (epmc-PPR-PPR1298765)
   - https://doi.org/10.64898/2026.08.09.742157
-- [ ] [疑似误收] 多组学机器学习克服转录组盲区以挽救ALS治疗靶点 (epmc-PPR-PPR1298569)
+- [ ] [疑似误收] 待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS (epmc-PPR-PPR1298569)
   - https://doi.org/10.21203/rs.3.rs-9305370/v1
-- [ ] [疑似误收] DHTKD1外显子缺失与散发性小脑性共济失调相关 (epmc-PPR-PPR1298416)
+- [ ] [疑似误收] 待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia (epmc-PPR-PPR1298416)
   - https://doi.org/10.21203/rs.3.rs-8807051/v1
 - [ ] Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症 (epmc-PPR-PPR1298410)
   - https://doi.org/10.21203/rs.3.rs-10690389/v1
@@ -52,14 +58,6 @@
   - https://doi.org/10.1159/000551599
 - [ ] The EQ-5D-5L in 肌萎缩侧索硬化症: an international longitudinal exploration as part of ALS-CarE. (epmc-MED-42592867)
   - https://doi.org/10.1080/21678421.2026.2715921
-- [ ] [高优先级] Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation. (epmc-MED-42592720)
-  - https://doi.org/10.5603/pjnns.113584
-- [ ] Emergency Tracheostomy with Invasive Ventilation in Patients with 肌萎缩侧索硬化症 Increases Hospitalization Duration and Long-Term Complications. (epmc-MED-42586744)
-  - https://doi.org/10.1620/tjem.2026.j085
-- [ ] [疑似误收] 待复核翻译：Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies (epmc-PPR-PPR1298010)
-  - https://doi.org/10.64898/2026.08.07.743523
-- [ ] [疑似误收] 待复核翻译：Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation. (epmc-MED-42592497)
-  - https://doi.org/10.1039/d6sc03258c
 - [ ] [高优先级] 待复核翻译：Intermediate-Sized Expanded Access Study (trial-NCT05597436)
   - https://clinicaltrials.gov/study/NCT05597436
 - [ ] [高优先级] Creation of a Clinical Database for the Study of Phenotypic Variability in 运动神经元病s (trial-NCT06318585)

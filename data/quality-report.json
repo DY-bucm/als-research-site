@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-15T22:37:33.929Z",
+  "updatedAt": "2026-08-16T22:36:44.851Z",
   "summary": {
-    "totalItems": 45,
-    "issueCount": 43
+    "totalItems": 44,
+    "issueCount": 39
   },
   "sources": [
     {
@@ -25,29 +25,29 @@
     {
       "id": "epmc-MED-42596024",
       "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "titleZh": "UNC13A隐秘外显子与阿尔茨海默病认知障碍相关",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.1186/s13195-026-02157-7"
     },
     {
       "id": "epmc-PPR-PPR1298765",
       "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
-      "titleZh": "卒中后细胞分辨率脑机接口记录的长期稳定性",
+      "titleZh": "Long-term stability of cellular-resolution 脑机接口 recordings after stroke",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.09.742157"
     },
     {
       "id": "epmc-PPR-PPR1298569",
       "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "titleZh": "多组学机器学习克服转录组盲区以挽救ALS治疗靶点",
+      "titleZh": "待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
@@ -58,12 +58,12 @@
     {
       "id": "epmc-PPR-PPR1298416",
       "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
-      "titleZh": "DHTKD1外显子缺失与散发性小脑性共济失调相关",
+      "titleZh": "待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
     },
     {
@@ -76,28 +76,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
-    },
-    {
-      "id": "epmc-PPR-PPR1298010",
-      "title": "Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
-      "titleZh": "待复核翻译：Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.08.07.743523"
-    },
-    {
-      "id": "epmc-MED-42592497",
-      "title": "Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
-      "titleZh": "待复核翻译：Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1039/d6sc03258c"
     }
   ],
   "missingIdentifiers": [],
@@ -116,7 +94,7 @@
     {
       "id": "pmid-42114311",
       "title": "Comment on \"profiling mitochondrial DNA indices across whole blood, plasma, and CSF in amyotrophic lateral sclerosis\".",
-      "titleZh": "评论：关于“肌萎缩侧索硬化症全血、血浆和脑脊液中线粒体DNA指数分析”的评论",
+      "titleZh": "评论：关于“肌萎缩侧索硬化症中全血、血浆和脑脊液线粒体DNA指数分析”",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
@@ -125,20 +103,53 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42114311/"
     },
     {
+      "id": "epmc-MED-42600995",
+      "title": "Circular RNAs in amyotrophic lateral sclerosis.",
+      "titleZh": "肌萎缩侧索硬化中的环状RNA",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.nbd.2026.107574"
+    },
+    {
+      "id": "epmc-MED-42600917",
+      "title": "Identifying candidate therapeutic targets in amyotrophic lateral sclerosis through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
+      "titleZh": "通过全转录组机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.neuroscience.2026.08.017"
+    },
+    {
+      "id": "epmc-MED-42599142",
+      "title": "Incidence and clinical characteristics of amyotrophic lateral sclerosis during the post-COVID-19 Period: a population-based study from Isfahan, Iran.",
+      "titleZh": "后COVID-19时期肌萎缩侧索硬化症的发病率与临床特征：来自伊朗伊斯法罕的一项基于人群的研究",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/17582024.2026.2718409"
+    },
+    {
       "id": "epmc-MED-42596024",
       "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "titleZh": "UNC13A隐秘外显子与阿尔茨海默病认知障碍相关",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.1186/s13195-026-02157-7"
     },
     {
       "id": "epmc-MED-42594365",
       "title": "Prescribing and monitoring of riluzole in amyotrophic lateral sclerosis: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury.",
-      "titleZh": "肌萎缩侧索硬化症中利鲁唑的处方与监测：来自新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究",
+      "titleZh": "肌萎缩侧索硬化症中利鲁唑的处方与监测：新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 5,
@@ -149,18 +160,18 @@
     {
       "id": "epmc-PPR-PPR1298765",
       "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
-      "titleZh": "卒中后细胞分辨率脑机接口记录的长期稳定性",
+      "titleZh": "Long-term stability of cellular-resolution 脑机接口 recordings after stroke",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.09.742157"
     },
     {
       "id": "epmc-PPR-PPR1298569",
       "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "titleZh": "多组学机器学习克服转录组盲区以挽救ALS治疗靶点",
+      "titleZh": "待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
@@ -171,12 +182,12 @@
     {
       "id": "epmc-PPR-PPR1298416",
       "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
-      "titleZh": "DHTKD1外显子缺失与散发性小脑性共济失调相关",
+      "titleZh": "待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
     },
     {
@@ -244,50 +255,6 @@
       "relevanceFlag": "high",
       "priority": "low",
       "url": "https://doi.org/10.1080/21678421.2026.2715921"
-    },
-    {
-      "id": "epmc-MED-42592720",
-      "title": "Severe hypersensitivity reaction during tofersen therapy in amyotrophic lateral sclerosis associated with the rare SOD1 p.Val120Phe mutation.",
-      "titleZh": "Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.5603/pjnns.113584"
-    },
-    {
-      "id": "epmc-MED-42586744",
-      "title": "Emergency Tracheostomy with Invasive Ventilation in Patients with Amyotrophic Lateral Sclerosis Increases Hospitalization Duration and Long-Term Complications.",
-      "titleZh": "Emergency Tracheostomy with Invasive Ventilation in Patients with 肌萎缩侧索硬化症 Increases Hospitalization Duration and Long-Term Complications.",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1620/tjem.2026.j085"
-    },
-    {
-      "id": "epmc-PPR-PPR1298010",
-      "title": "Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
-      "titleZh": "待复核翻译：Pathology-defined cell states reveal reproducible transcriptomic signatures across ALS cortical single-nucleus RNA-seq studies",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.08.07.743523"
-    },
-    {
-      "id": "epmc-MED-42592497",
-      "title": "Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
-      "titleZh": "待复核翻译：Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1039/d6sc03258c"
     }
   ],
   "highPriorityNeedsReview": [
@@ -296,7 +263,7 @@
       "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
       "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（多中心回顾性队列，含倾向评分匹配历史对照）",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
@@ -314,26 +281,15 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
     },
     {
-      "id": "pmid-42601592",
-      "title": "Poor Prognostic Factors After Gastrostomy in Patients With Amyotrophic Lateral Sclerosis: A Two-Center Retrospective Cohort Study.",
-      "titleZh": "肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
+      "id": "epmc-MED-42596024",
+      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
+      "titleZh": "UNC13A隐秘外显子与阿尔茨海默病认知障碍相关",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42601592/"
-    },
-    {
-      "id": "epmc-MED-42592720",
-      "title": "Severe hypersensitivity reaction during tofersen therapy in amyotrophic lateral sclerosis associated with the rare SOD1 p.Val120Phe mutation.",
-      "titleZh": "Severe hypersensitivity reaction during tofersen therapy in 肌萎缩侧索硬化症 associated with the rare SOD1 p.Val120Phe mutation.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.5603/pjnns.113584"
+      "url": "https://doi.org/10.1186/s13195-026-02157-7"
     },
     {
       "id": "trial-NCT05597436",
@@ -503,18 +459,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 7,
+    "疑似误收": 5,
     "缺标识符": 0,
-    "缺摘要": 17,
-    "高优先级待复核": 19,
+    "缺摘要": 16,
+    "高优先级待复核": 18,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 45
+    "待复核": 44
   },
   "relevanceCounts": {
-    "medium": 10,
-    "high": 28,
-    "low": 7
+    "medium": 13,
+    "high": 26,
+    "low": 5
   }
 }
