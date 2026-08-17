@@ -1,14 +1,53 @@
 {
-  "updatedAt": "2026-08-16T22:34:40.186Z",
+  "updatedAt": "2026-08-17T22:37:51.834Z",
   "period": {
     "days": 10,
-    "from": "2026-08-07",
-    "to": "2026-08-16"
+    "from": "2026-08-08",
+    "to": "2026-08-17"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 46,
+  "count": 41,
   "articles": [
+    {
+      "id": "pmid-42606140",
+      "pmid": "42606140",
+      "doi": "10.1111/ahg.70052",
+      "title": "Population-Level Nucleotide Diversity and Genetic Differentiation at SOD1 Across Global Human Populations.",
+      "abstract": "The SOD1 gene encodes superoxide dismutase 1, an antioxidant enzyme in which pathogenic variants cause a subset of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Although the clinical and molecular consequences of SOD1 variants are well established, its locus-wide population genetic architecture has not been systematically characterized across global populations. To characterize patterns of genetic diversity, population differentiation, and evolutionary constraint across the SOD1 locus in worldwide human populations. We analyzed genomic variation spanning the SOD1 region in the five continental populations of the 1000 Genomes Project. Nucleotide diversity (π), fixation index (FST), and allele frequency distributions were estimated using sliding-window analyses. Bootstrap resampling was used to compare diversity within and outside the coding region. Recent positive selection was assessed using XP-nSL, and codon-based evolutionary analyses were performed using primate SOD1 orthologs. The coding region consistently exhibited a twofold to threefold reduction in nucleotide diversity relative to adjacent genomic sequences across all populations. Bootstrap analyses confirmed significantly lower diversity within the locus than in flanking regions (p < 0.05 in all populations). Population differentiation was low (mean FST ≈ 0.03) and showed no pronounced peaks within the coding interval, whereas allele frequency distributions were broadly similar across continental populations. XP-nSL analyses detected no evidence of population-specific recent selective sweeps. Codon-based analyses identified only 31 variable codons among 155 analyzed positions, six codons under negative selection, and no evidence of positive selection. The SOD1 locus exhibits reduced standing genetic variation, limited continental differentiation, and strong evolutionary conservation, consistent with sustained functional constraint. These findings provide a comprehensive population genetic framework for interpreting genetic variation at this medically important locus.",
+      "journal": "Annals of human genetics",
+      "authors": [
+        "Flores SV",
+        "Lillo P",
+        "Briceño-Moya J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606140/"
+    },
+    {
+      "id": "pmid-42606797",
+      "pmid": "42606797",
+      "doi": "10.1186/s11671-026-04820-2",
+      "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is caused by progressive degeneration of upper and lower motor neurons. The disease is late onset, and to date, no early diagnosis is possible. Patients with ALS have a 5-year survival rate since diagnosis. Though recent studies highlighted the possible mechanisms of motor neuron degeneration in ALS, the treatment options are extremely limited. This underscores the urgent need to develop effective therapeutic strategies that can prolong patient survival and ultimately slow/halt ALS progression. Extracellular vesicles released from the degenerative milieu contribute to ALS propagation and progression by shuttling misfolded proteins, proinflammatory cytokines, and neurotoxins; thus, they could serve as a biomarker for diagnosis and prognosis. The advancement of stem cell-based therapies for neurodegenerative diseases and the evolving understanding of extracellular vesicles as potential biotherapeutics provide a ray of hope for millions of patients suffering from neurological disorders/neurodegenerative diseases like ALS.",
+      "journal": "Discover nano",
+      "authors": [
+        "Raghunathan T",
+        "Parthasarathy B",
+        "Prabhu P",
+        "Mahesh P",
+        "Dhanushkodi A"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606797/"
+    },
     {
       "id": "pmid-42600995",
       "pmid": "42600995",
@@ -920,200 +959,6 @@
       ],
       "publishedAt": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42572287/"
-    },
-    {
-      "id": "pmid-42566063",
-      "pmid": "42566063",
-      "doi": "10.1007/s10072-026-09296-7",
-      "title": "Anti-IgLON5 disease presenting with a motor neuron disease-like phenotype after decades of sleep symptoms: a potentially immunotherapy responsive mimic.",
-      "abstract": "",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Vijayaraghavan A",
-        "Sreedharan SE",
-        "Poyuran R",
-        "Koshy KG"
-      ],
-      "publicationTypes": [
-        "Letter"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566063/"
-    },
-    {
-      "id": "pmid-42574885",
-      "pmid": "42574885",
-      "doi": "10.1016/j.jns.2026.126131",
-      "title": "Comment on \"Association of anti-glycolipid IgG with respiratory function decline in amyotrophic lateral sclerosis\".",
-      "abstract": "",
-      "journal": "Journal of the neurological sciences",
-      "authors": [
-        "Inan B"
-      ],
-      "publicationTypes": [
-        "Letter"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42574885/"
-    },
-    {
-      "id": "pmid-42563536",
-      "pmid": "42563536",
-      "doi": "10.1002/mus.70357",
-      "title": "Enabling Functional Independence: A Scoping Review of Upper Extremity Assistive Devices for Adults With Progressive Neuromuscular Diseases.",
-      "abstract": "Assistive technology offers an important means of compensating for lost upper extremity function in adults with progressive neuromuscular diseases (NMD), enabling participation in daily activities, supporting independence, and promoting quality of life. However, the range of available technologies and the evidence supporting their use have not been comprehensively summarized. The aim of this scoping review was to identify and characterize upper extremity assistive technologies tested in adults with NMD and to summarize the current evidence regarding their functional applications and clinical outcomes. Electronic searches for published and unpublished literature were conducted using MEDLINE, Embase.com, Web of Science, Cochrane Central, and IEEE Xplore. The search strategy incorporated controlled vocabulary and free-text synonyms for the concepts of upper extremity, rehabilitation, selected progressive neurodegenerative diseases, and assistive equipment. Following title/abstract and full-text screening, studies evaluating assistive devices tested on adults with NMD during functional task performance were included. After screening 2289 articles, 27 studies met the inclusion criteria. The studies collectively demonstrate the potential benefits and diverse range of assistive devices available to support upper extremity function. These devices ranged from low-tech solutions, such as static mobile arm supports and fabricated splints, to high-tech devices, including dynamic mobile arm supports, robotic systems, exoskeletons, and brain-computer interface systems. However, most studies were feasibility or case studies that primarily demonstrated proof of concept, with limited evidence regarding long-term effectiveness, functional outcomes, or quality of life. The findings illustrate the rapidly evolving landscape of upper extremity assistive devices for adults with NMD and their potential to improve functional performance, while highlighting the need for prospective studies that assess meaningful improvements in function, participation, and quality of life. As advances in disease-modifying therapies extend survival and preserve function for individuals with NMD, interdisciplinary collaboration among engineers, clinicians, therapists, individuals with NMD, caregivers, and regulators will be essential to develop, evaluate, and implement assistive technologies that meet users' evolving needs.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Burke KM",
-        "Johnson S",
-        "Chomko K",
-        "Escalante A",
-        "Hall KC",
-        "Lydston M",
-        "Uek C",
-        "Casagrande G",
-        "Kim HJ",
-        "Arnold J",
-        "Pont-Esteban D",
-        "Young H",
-        "Walsh C",
-        "Paganoni S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563536/"
-    },
-    {
-      "id": "pmid-42566133",
-      "pmid": "42566133",
-      "doi": "10.1007/s00415-026-14042-2",
-      "title": "Frontotemporal dementia with right temporal predominance: a clinical comparison with left-predominant FTD.",
-      "abstract": "The right-temporal variant of frontotemporal dementia (FTD) is well characterised. Whether it should be considered a distinct clinical entity, separate from other syndromes of FTD, remains an open question. The study addressed the issue through a retrospective comparison of clinical characteristics of patients with predominant atrophy in right or left anterior temporal lobe (R-ATL vs. L-ATL). Patients were identified from a clinical database, diagnosed with FTD, and reported to show temporal lobe atrophy on imaging. Fifty-one patients were selected in whom independent ratings of atrophy were greatest in right or left anterior temporal lobe. Presenting symptoms, cognitive and behavioural characteristics, neuropsychological findings, and diagnostic classification were recorded. Difficulty recognising people, impaired decision-making, perseverative preoccupations, disinhibition, and loss of empathy characterised the R-ATL group, in keeping with the previous reports. There was, however, overlap in cognitive and behavioural symptomatology in R-ATL and L-ATL, and sensitivity and specificity values were modest. Group differences diminished with disease progression. The most common clinical classification at first assessment in both groups was semantic dementia (SD), with other patients being classified as behavioural-variant FTD (bvFTD), FTD with amyotrophic lateral sclerosis or mixed FTD/SD. Not all patients with L-ATL met criteria for semantic variant primary progressive aphasia (svPPA). The data question the notion that R-ATL and L-ATL presentations are separate entities. We argue that a common diagnostic framework for the two is warranted, with classification being based on cognitive/behavioural characteristics rather than neuroradiological grounds.",
-      "journal": "Journal of neurology",
-      "authors": [
-        "Thompson JC",
-        "Kobylecki C",
-        "Jones M",
-        "Haigh J",
-        "Larbey M",
-        "Langheinrich TC",
-        "Thomasson R",
-        "Richardson AMT",
-        "Snowden JS"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566133/"
-    },
-    {
-      "id": "pmid-42567782",
-      "pmid": "42567782",
-      "doi": "10.1016/j.tins.2026.07.002",
-      "title": "Interleukin-6 trans-signalling as a selectively targetable driver of neurodegeneration.",
-      "abstract": "Interleukin-6 (IL-6) exerts protective and pathogenic effects in the central nervous system through distinct receptor-signalling modes. Classical signalling via membrane-bound IL-6 receptor (IL-6R) is often associated with homeostatic and reparative functions, whereas trans-signalling, mediated by soluble IL-6R, expands IL-6 responsiveness to gp130-expressing cells and may promote chronic inflammation. Emerging evidence implicates dysregulated IL-6 trans-signalling in amyotrophic lateral sclerosis, Alzheimer's disease, Parkinson's disease, Huntington's disease, and multiple sclerosis. Here, we review mechanisms linking IL-6 trans-signalling to immune, glial, neuronal, and vascular dysfunction in neurodegeneration. We highlight key knowledge gaps and discuss whether selective targeting of trans-signalling can limit inflammatory pathology while preserving beneficial classical IL-6 functions.",
-      "journal": "Trends in neurosciences",
-      "authors": [
-        "Risby-Jones G",
-        "Lee JD",
-        "Fung JN"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567782/"
-    },
-    {
-      "id": "pmid-42565285",
-      "pmid": "42565285",
-      "doi": "10.1080/21678421.2026.2710550",
-      "title": "Issues in the clinical assessment and management of people living with motor neurone disease (MND): a survey of Australian healthcare professionals.",
-      "abstract": "Objective : To inform the development of the Australian MND Guideline, this study aimed to identify challenges Australian healthcare professionals (HCPs) face in the clinical assessment and management of people living with MND (plwMND) including where practice varies from evidence or is underrepresented in the literature and challenges that arise when supporting non-MND specialists. Methods : An anonymous online survey was developed on Qualtrics (Provo, UT) and distributed in July 2025 to members of the Australian MND Guideline Clinical and Content Advisory Group. Demographic data were analyzed using descriptive statistics and verbatim responses were analyzed thematically to a pre-defined framework of guideline scopes and topics. Results : Fifty HCPs, predominantly allied health professionals, completed the survey (55% response rate). HCPs reported diagnostic delays, difficulties accessing timely multidisciplinary support, and challenges coordinating care, particularly outside MND clinic catchment areas. HCPs perceived uncertainty in respiratory support, nutrition, saliva management, and psychological and cognitive care. Variations from guidance reflected gaps and inconsistencies in the evidence base, the need for individualized care, and systemic constraints including funding, workforce shortages, and inequities in access. Non-MND specialists sought guidance on prognosis, referral pathways, symptom management, and end-of-life care. Conclusion : This survey identified areas of clinical practice uncertainty and variability in the clinical assessment and management of plwMND from the perspective of Australian HCPs. These findings will inform the development of the Australian MND Guideline, including prioritization of topics and questions, and consideration of areas where expert consensus is required.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Semendric I",
-        "Munn Z",
-        "Jenkins T",
-        "Edwards A",
-        "Tull V",
-        "Travlos V",
-        "Hutchinson K",
-        "Krikheli L",
-        "Sheers N",
-        "Hall LA",
-        "Chua P",
-        "Hatch N",
-        "Allcroft P",
-        "Werth B",
-        "Saffrett A",
-        "Yoong J",
-        "Cooper L",
-        "Signorelli M",
-        "Farrugia E",
-        "Devenney E",
-        "Douglas A",
-        "Gibb A",
-        "Macshane M",
-        "Gardiner M",
-        "Collins A",
-        "Yang J",
-        "Rogerson B",
-        "Schultz D",
-        "Lim D",
-        "Fisher F",
-        "Herz H",
-        "Puckering H",
-        "Swain I",
-        "Cameron J",
-        "Donnelly L",
-        "Davis L",
-        "Anderson L",
-        "Acampora M",
-        "Heatley R",
-        "Taubert S",
-        "Sheehy T",
-        "Sia T",
-        "Aiyappan V",
-        "Huynh W",
-        "Stern C",
-        "Australian MND Guideline Clinical and Content Advisory Group"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42565285/"
-    },
-    {
-      "id": "pmid-42566069",
-      "pmid": "42566069",
-      "doi": "10.1007/s10072-026-09297-6",
-      "title": "Value of ultrasound-detected fasciculations for the early diagnosis of motor neuron disease in patients with single-segment, pure lower motor neuron involvement.",
-      "abstract": "To evaluate the early diagnostic value of muscle ultrasound (US)-detected fasciculations in motor neuron disease (MND) patients presenting with single‑region, pure lower motor neuron (LMN) involvement. Prospective cohort study enrolling 60 patients with clinical LMN signs confined to one body region. All underwent standardized needle EMG and muscle US at baseline. Final diagnosis determined by follow-up. Agreement between EMG and US, and net diagnostic gain of US were analyzed. 54 MND patients (median disease duration 9 months) were analyzed. US detection rates: bulbar 38.9%-46.3%; high-grade cervical fasciculations 20.4%-37.0%. EMG-US agreement was poor to fair (kappa 0.106-0.360). US provided additional LMN evidence in EMG-negative regions in 27.8% (bulbar), 22.2% (cervical) and 9.3% (lumbosacral). Using US (≥ 2 regions with fasciculations/high-grade) as an ancillary criterion, 53.7% were diagnosed at first visit; median time to diagnosis was 5 months (range 3-8) in those otherwise missed. Muscle ultrasound is a sensitive, non-invasive complement to EMG, significantly improving early diagnosis in single-region pure LMN presentations. However, specificity estimates remain preliminary due to the limited number of non-MND controls.",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Qi M",
-        "Hu N",
-        "Tian H",
-        "Ding J",
-        "Shen D",
-        "Yang X",
-        "Cui L",
-        "Niu J",
-        "Liu M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566069/"
     }
   ]
 }
