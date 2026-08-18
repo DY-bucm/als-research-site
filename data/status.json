@@ -1,12 +1,13 @@
 {
-  "updatedAt": "2026-08-17T22:39:44.586Z",
-  "feedUpdatedAt": "2026-08-17",
-  "itemCount": 45,
+  "updatedAt": "2026-08-18T22:40:04.115Z",
+  "feedUpdatedAt": "2026-08-18",
+  "itemCount": 30,
   "sourceStatus": [
     {
       "source": "PubMed",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "terminated"
     },
     {
       "source": "Europe PMC",
@@ -19,8 +20,8 @@
       "count": 15
     }
   ],
-  "qualityIssues": 42,
-  "archiveSnapshots": 56,
+  "qualityIssues": 36,
+  "archiveSnapshots": 57,
   "activeSources": 3,
   "plannedSources": 5
 }

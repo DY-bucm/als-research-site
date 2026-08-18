@@ -1,14 +1,76 @@
 {
-  "updatedAt": "2026-08-17T22:37:51.834Z",
+  "updatedAt": "2026-08-18T22:38:41.465Z",
   "period": {
     "days": 10,
-    "from": "2026-08-08",
-    "to": "2026-08-17"
+    "from": "2026-08-09",
+    "to": "2026-08-18"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 43,
   "articles": [
+    {
+      "id": "pmid-42611011",
+      "pmid": "42611011",
+      "doi": "10.1044/2026_JSLHR-25-00740",
+      "title": "Dissociable Effects of Dysarthria Etiology and Severity on the Minimally Detectable Change of Speech Intelligibility.",
+      "abstract": "The minimally detectable change (MDC) provides a threshold for interpreting changes in outcome measures that are outside of measurement error. There is emerging evidence that dysarthria etiology and speech severity impact the MDC of speech intelligibility; however, an investigation of these factors is needed to determine the unique effects of dysarthria etiology and speech severity. The purpose of the current study was to calculate and compare MDCs of speech intelligibility across five dysarthria etiology groups and four severity levels. Speech Intelligibility Test recordings from 200 speakers were used as stimuli, including recordings from healthy controls ( n = 40) and individuals with neurodegenerative diseases such as amyotrophic lateral sclerosis ( n = 16), Huntington's disease ( n = 44), multiple sclerosis ( n = 60), and Parkinson's disease ( n = 40). Thirty inexperienced listeners provided orthographic transcriptions of 20 speakers each. MDCs were calculated, and speech severity levels were categorized based on empirically defined speech severity levels reported in Stipancic et al. (2021). Statistical analyses, including multiple linear regression, assessed the effects of etiology and severity on MDCs. Speech severity was a significant predictor of MDCs, with greater impairments to speech intelligibility resulting in higher MDCs. Dysarthria etiology was not a significant predictor of MDCs. The impact of speech severity on MDCs of intelligibility in dysarthria underscores the need to calculate and provide MDCs across severity ranges to enhance the interpretation of patient outcomes.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "authors": [
+        "Zdrowak KE",
+        "Mefferd AS",
+        "Stipancic KL"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42611011/"
+    },
+    {
+      "id": "pmid-42607915",
+      "pmid": "42607915",
+      "doi": "10.1016/j.brainres.2026.150510",
+      "title": "Annexin A1 inhibits neuronal apoptosis in amyotrophic lateral sclerosis by restraining the Hippo pathway.",
+      "abstract": "Annexin A1 (ANXA1) is a multifunctional regulatory protein involved in neuroinflammation and cellular homeostasis, but its role in amyotrophic lateral sclerosis (ALS) remains unclear. In this study, we investigated the relationship between ANXA1 and Hippo pathway signaling in ALS. Bioinformatic analysis of transcriptomic data from iPSC-derived motor neurons showed that ANXA1 expression was reduced in ALS and associated with apoptosis and Hippo pathway-related changes. Decreased ANXA1 expression was confirmed in hSOD1^G93A transgenic mice and NSC34 motor neuron-like cells. Phosphorylation levels of MST1/2, LATS1/2, and YAP1 were elevated, indicates activation of the Hippo pathway. Functional experiments showed that ANXA1 overexpression reduced Hippo pathway activation, enhanced cell viability, and decreased apoptosis, as increased Bcl-2 expression and reduced Bax and cleaved caspase-9 levels. In contrast, ANXA1 knockdown further activated Hippo pathway and aggravated apoptotic changes. These findings identify ANXA1 as an upstream regulator associated with Hippo pathway activation in ALS and suggest that the ANXA1/Hippo axis may represent a potential therapeutic target.",
+      "journal": "Brain research",
+      "authors": [
+        "Zhang Y",
+        "Dong X",
+        "Shai Y",
+        "Masood A",
+        "Han D",
+        "Hu Y",
+        "He Z",
+        "Zhou Z",
+        "Jiang H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607915/"
+    },
+    {
+      "id": "pmid-42609516",
+      "pmid": "42609516",
+      "doi": "10.1002/mco2.70915",
+      "title": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
+      "abstract": "Neurodegenerative diseases (NDs) are marked by selective neuronal vulnerability and progressive failure of neural circuits. Increasing evidence indicates that neuronal loss is not driven by a single terminal event, but emerges from interacting regulated cell death (RCD) programs. These programs are closely coupled to mitochondrial injury, proteostatic collapse, lysosomal stress, metabolic imbalance, glial state transitions, and chronic neuroinflammation. Yet, how distinct death pathways are organized across cell types, disease stages, and disease-specific microenvironments remains unresolved. This review examines RCD as an integrated pathogenic network in major NDs. Caspase and B-cell lymphoma 2 (BCL2) family signaling, receptor-interacting protein kinase 1 (RIPK1), RIPK3, and mixed lineage kinase domain-like protein activation, NOD-like receptor family pyrin domain containing 3 and gasdermin signaling, GPX4-linked lipid peroxidation control, and autophagy lysosomal failure are discussed as convergent stress response modules rather than isolated pathways. Across Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease, these modules shape neuronal fate through disease-specific interactions with mitochondrial dysfunction, iron dyshomeostasis, inflammasome activation, and microglial metabolic remodeling. We further evaluate emerging therapeutic strategies that target cell death crosstalk, restore autophagy lysosomal competence, or improve delivery to the central nervous system, highlighting the importance of molecular selectivity, cellular context, disease stage, and translational feasibility.",
+      "journal": "MedComm",
+      "authors": [
+        "Li T",
+        "Zhang Q",
+        "Wu Y",
+        "Huang R"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
+    },
     {
       "id": "pmid-42606140",
       "pmid": "42606140",
@@ -77,7 +139,7 @@
       "abstract": "Amyotrophic lateral sclerosis (ALS) is a heterogeneous neurodegenerative disease for which effective disease-modifying therapies remain limited. This study aimed to derive internally recurrent ALS-associated transcriptional signatures and generate directionally interpretable drug-repositioning hypotheses using a consensus machine-learning framework. Two publicly available transcriptomic datasets from motor cortex (E-MTAB-2325) and blood (E-TABM-940) were analyzed using four feature-selection methods within 100 repetitions of 4-fold cross-validation. Probes recurrently selected in models achieving an accuracy of at least 0.90 were prioritized and examined using COGENA pathway enrichment and Connectivity Map drug-signature analysis. Fifteen qualifying models were obtained for the motor-cortex dataset and 55 for the blood dataset. No exact prioritized gene or probe identifier was shared between the two top-100 signatures, but pathway-level integration identified complementary evidence involving glial and immune regulation, proteostasis and vesicle trafficking, MAPK-related stress signaling, cytoskeletal and extracellular remodeling, and RNA-related processes. The motor-cortex dataset additionally emphasized astroglial support, glutamate handling, and inclusion-body regulation, whereas the blood dataset highlighted cytokine regulation and directionally heterogeneous immune, mitochondrial, and metabolic signals. Deferoxamine and disulfiram showed the clearest reversal-compatible profiles in motor cortex, whereas yohimbic acid and atovaquone showed reversal-compatible profiles in blood. Ciprofloxacin, prochlorperazine, and a compound group led by androsterone instead showed concordant connectivity. The results provide transparent, hypothesis-generating gene, pathway, and compound priorities, but they do not establish biomarkers, therapeutic efficacy, or clinical suitability and require validation in independent cohorts and experimental ALS models.",
       "journal": "Neuroscience",
       "authors": [
-        "de Andrés-Galiana EJ",
+        "deAndrés-Galiana EJ",
         "Fernández-Martínez JL",
         "Morís G"
       ],
@@ -792,6 +854,33 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575772/"
     },
     {
+      "id": "pmid-42609882",
+      "pmid": "42609882",
+      "doi": "10.1093/braincomms/fcag307",
+      "title": "Altered perivascular space diffusivity dynamics in motor neuron disease.",
+      "abstract": "Converging evidence supports a key pathogenic role of the glymphatic system in the accumulation of pathological aggregates in several central nervous system proteinopathies, including amyotrophic lateral sclerosis and other motor neuron diseases. This study aimed to investigate potential glymphatic impairment using diffusion tensor imaging analysis along the perivascular space (DTI-ALPS) across motor neuron disease phenotypes, to examine its clinical correlates, and to assess its relationship with white matter damage. Fifty-seven patients with motor neuron disease and 32 age- and sex-matched healthy controls underwent a 3 Tesla brain MRI scan, including diffusion tensor imaging sequences. We obtained the DTI-ALPS index from each individual, evaluating its relationship with measures of motor and cognitive disability, site of symptom onset, cognitive status, genetic status and fractional anisotropy of white matter tracts. Comparisons between groups were evaluated using analysis of covariance adjusting for age, sex, local fractional anisotropy and white matter hyperintensity burden. Partial correlations with clinical and cognitive measures were also tested. Patients with motor neuron disease exhibited significantly lower DTI-ALPS index values relative to healthy controls ( P = 0.05). Patients with bulbar onset had lower DTI-ALPS values than those with spinal onset ( P = 0.017). Comparable DTI-ALPS values were found across patients with classical amyotrophic lateral sclerosis clinical presentation and predominant upper or lower motor neuron clinical presentations, with no effect of cognitive diagnosis or genetic status. DTI-ALPS exhibited a significant correlation with disease duration (r = -0.38, P = 0.01). Motor neuron disease patients presenting insomnia had significantly lower DTI-ALPS values compared to those without sleep disturbances ( P = 0.002). Significant positive correlations were found between ALPS index and fractional anisotropy values across major white matter tracts, including the internal and external capsules, superior longitudinal fasciculi, anterior, posterior and superior corona radiata, posterior thalamic radiation, fornix and the genu and body of the corpus callosum. This study confirms the presence of altered interstitial fluid diffusivity dynamics across motor neuron disease phenotypes, with greater impairment observed in bulbar-onset cases, patients with longer disease duration, and those experiencing more pronounced sleep disturbances. These findings may support a potential pathogenic role of glymphatic failure in the accumulation of TAR DNA-binding protein 43 proteinopathy and widespread microstructural axonal damage in motor neuron diseases.",
+      "journal": "Brain communications",
+      "authors": [
+        "Bottale I",
+        "Spinelli EG",
+        "Basaia S",
+        "Ghirelli A",
+        "Gardoni A",
+        "Russo T",
+        "Canu E",
+        "Castelnovo V",
+        "Schito P",
+        "Falzone Y",
+        "Filippi M",
+        "Agosta F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609882/"
+    },
+    {
       "id": "pmid-42573824",
       "pmid": "42573824",
       "doi": "10.1007/s10048-026-00924-0",
@@ -903,62 +992,6 @@
       ],
       "publishedAt": "2026-08-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42576087/"
-    },
-    {
-      "id": "pmid-42569815",
-      "pmid": "42569815",
-      "doi": "10.1002/mus.70374",
-      "title": "\"Abductor Sparing\": A New Selective Involvement in ALS.",
-      "abstract": "Various signs of selective muscle involvement have been reported in amyotrophic lateral sclerosis (ALS) but such studies for the lower limbs are scarce. We formed a preliminary impression that hip abductors (Ab) are often preserved in ALS. We named this phenomenon \"abductor sparing\", and this study aimed to verify our findings. Patients with a confirmed diagnosis of ALS (ALS group) and patients with pyramidal weakness other than ALS (pyramidal group) were retrospectively identified. Medical Research Council (MRC) scores of 10 muscle groups in the lower limbs were evaluated. The proportion of patients with weakness (MRC score 4 or less) was compared between different groups. We enrolled 61 patients in the ALS group and 27 patients in the pyramidal group. The most frequently weak muscle groups in both groups were big toe extensors and hip flexors. Ab was the third (70%) in the pyramidal group, whereas it was weak only in 30% of patients with ALS. This held true also for patients with ALS with shorter duration or less severity. \"The lower limb flexor pattern\", i.e., flexor muscles being weaker than extensor muscles, was observed both in ALS and pyramidal groups. Patients with ALS generally showed similar muscle weakness patterns to those with pyramidal syndrome, except for abductor sparing. The reason for the latter phenomenon is unclear. Abductor sparing may be useful for early diagnosis of ALS, although larger studies with blinded evaluators are needed to confirm these findings.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Kondo A",
-        "Hokkoku K",
-        "Kanbayashi T",
-        "Nakayama T",
-        "Sasaki T",
-        "Matsuno H",
-        "Iguchi Y",
-        "Fukutake T",
-        "Ando T",
-        "Kamiyama T",
-        "Kim P",
-        "Hasegawa T",
-        "Hatanaka Y",
-        "Kobayashi S",
-        "Sonoo M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42569815/"
-    },
-    {
-      "id": "pmid-42572287",
-      "pmid": "42572287",
-      "doi": "10.1538/expanim.26-0040",
-      "title": "Generation of mutant human SOD1 knock-in mouse lines at the Rosa26 locus as a platform for developing genome-editing therapies for amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease characterized by the degeneration of upper and lower motor neurons, resulting in progressive paralysis and death within a few years of symptom onset. Although current treatments modestly slow the disease progression, effective disease-modifying and curative therapies remain an urgent unmet need. SOD1 mutations are one of the major genetic causes of familial ALS. The p.Leu127Ser (L126S) and p.Gly94Ser (G93S) variants are clinically relevant pathogenic variants for which appropriate animal models are needed for preclinical evaluation of gene-editing therapies. However, most existing SOD1 models rely on high copy overexpression of mutant SOD1. Therefore, animal models carrying a single copy mutant human SOD1 allele are required for evaluating the in vivo efficacy of genome editing therapies. Here, we used CRISPR/Cas9-mediated homology-directed repair to generate a knock-in mouse line at the Gt(ROSA)26Sor (Rosa26) locus carrying a single-copy, 11-kb human SOD1 genomic fragment, including all exons and introns, with the L126S mutation. The Rosa26-hSOD1 L126S mice did not develop ALS-like phenotypes during the limited observation period. However, they faithfully retained a single-copy mutant human SOD1 genomic allele, providing a valuable preclinical platform for evaluating genome-editing therapies. We also generated Rosa26-hSOD1 G93S mice carrying the SOD1 G93S mutation with comparable efficiency. Together, these mutant human SOD1 knock-in mouse lines provide a versatile and clinically relevant platform for the preclinical evaluation of genome-editing therapies targeting heterozygous SOD1 mutations.",
-      "journal": "Experimental animals",
-      "authors": [
-        "Okunomiya T",
-        "Sakasai T",
-        "Tsukita K",
-        "Shimizu R",
-        "Okusa A",
-        "Adachi M",
-        "Tomita S",
-        "Tanaka A",
-        "Kondo T",
-        "Imamura K",
-        "Inoue H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572287/"
     }
   ]
 }
