@@ -1,5 +1,35 @@
 # 复核任务清单
 
+- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和iPSC药物发现的研究之旅 (pmid-42568821)
+  - https://pubmed.ncbi.nlm.nih.gov/42568821/
+- [ ] 肌萎缩侧索硬化中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
+  - https://pubmed.ncbi.nlm.nih.gov/42482658/
+- [ ] 犬肌萎缩侧索硬化疾病模型中一般本体感觉的病理学 (pmid-42520340)
+  - https://pubmed.ncbi.nlm.nih.gov/42520340/
+- [ ] [高优先级] Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究） (pmid-42548788)
+  - https://pubmed.ncbi.nlm.nih.gov/42548788/
+- [ ] [高优先级] 通过AAV递送的scFv中和致病性PC-OxPL作为肌萎缩侧索硬化症的治疗策略 (pmid-42614391)
+  - https://pubmed.ncbi.nlm.nih.gov/42614391/
+- [ ] 脑室内递送AAV9-synapsin启动子驱动的caveolin-1可减轻hSOD1 G93A小鼠的神经肌肉缺陷和神经肌肉变性 (pmid-42614372)
+  - https://pubmed.ncbi.nlm.nih.gov/42614372/
+- [ ] [高优先级] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
+  - https://pubmed.ncbi.nlm.nih.gov/42609516/
+- [ ] 肠道微生物群与大脑健康：疾病特异性通路与新兴治疗策略 (pmid-42542073)
+  - https://pubmed.ncbi.nlm.nih.gov/42542073/
+- [ ] 二腹肌前腹作为肌萎缩侧索硬化症针极肌电图检查的新靶点 (pmid-42481428)
+  - https://pubmed.ncbi.nlm.nih.gov/42481428/
+- [ ] ALS患者巨噬细胞对Chlorovirus ATCV-1的反应及抗体水平升高 (pmid-42480869)
+  - https://pubmed.ncbi.nlm.nih.gov/42480869/
+- [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
+  - https://pubmed.ncbi.nlm.nih.gov/42525906/
+- [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联 (pmid-42525902)
+  - https://pubmed.ncbi.nlm.nih.gov/42525902/
+- [ ] [疑似误收] 无标记蛋白质组学分析揭示人类周围神经轴突病变不同再生状态下的细胞外基质相关改变 (pmid-42616241)
+  - https://pubmed.ncbi.nlm.nih.gov/42616241/
+- [ ] 接受专科姑息治疗的肌萎缩侧索硬化患者中申请医疗协助死亡转诊的相关因素 (pmid-42616178)
+  - https://pubmed.ncbi.nlm.nih.gov/42616178/
+- [ ] [高优先级] 2013-2023年美国国家ALS登记处中多学科门诊就诊情况与护理模式 (pmid-42615866)
+  - https://pubmed.ncbi.nlm.nih.gov/42615866/
 - [ ] [疑似误收] ALS的再生策略：干细胞与细胞外囊泡 (epmc-MED-42606797)
   - https://doi.org/10.1186/s11671-026-04820-2
 - [ ] [疑似误收] 全球人类群体中SOD1基因的群体水平核苷酸多样性与遗传分化 (epmc-MED-42606140)
@@ -10,53 +40,53 @@
   - https://doi.org/10.1002/mus.70378
 - [ ] 肌萎缩侧索硬化中的环状RNA (epmc-MED-42600995)
   - https://doi.org/10.1016/j.nbd.2026.107574
-- [ ] 通过全转录组机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位 (epmc-MED-42600917)
+- [ ] Identifying candidate therapeutic targets in 肌萎缩侧索硬化症 through a transcriptome-wide machine-learning consensus approach for drug repurposing. (epmc-MED-42600917)
   - https://doi.org/10.1016/j.neuroscience.2026.08.017
-- [ ] 后COVID-19时期肌萎缩侧索硬化症的发病率与临床特征：来自伊朗伊斯法罕的一项基于人群的研究 (epmc-MED-42599142)
+- [ ] Incidence and clinical characteristics of 肌萎缩侧索硬化症 during the post-COVID-19 Period: a population-based study from Isfahan, Iran. (epmc-MED-42599142)
   - https://doi.org/10.1080/17582024.2026.2718409
-- [ ] [疑似误收] [高优先级] UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关 (epmc-MED-42596024)
+- [ ] [疑似误收] 待复核翻译：The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease. (epmc-MED-42596024)
   - https://doi.org/10.1186/s13195-026-02157-7
-- [ ] 肌萎缩侧索硬化症中利鲁唑的处方与监测：来自新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究 (epmc-MED-42594365)
+- [ ] Prescribing and monitoring of riluzole in 肌萎缩侧索硬化症: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury. (epmc-MED-42594365)
   - https://doi.org/10.26635/6965.7367
-- [ ] [疑似误收] 卒中后细胞分辨率脑机接口记录的长期稳定性 (epmc-PPR-PPR1298765)
+- [ ] [疑似误收] Long-term stability of cellular-resolution 脑机接口 recordings after stroke (epmc-PPR-PPR1298765)
   - https://doi.org/10.64898/2026.08.09.742157
-- [ ] [疑似误收] 多组学机器学习克服转录组盲区以挽救ALS治疗靶点 (epmc-PPR-PPR1298569)
+- [ ] [疑似误收] 待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS (epmc-PPR-PPR1298569)
   - https://doi.org/10.21203/rs.3.rs-9305370/v1
-- [ ] [疑似误收] DHTKD1外显子缺失与散发性小脑性共济失调相关 (epmc-PPR-PPR1298416)
+- [ ] [疑似误收] 待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia (epmc-PPR-PPR1298416)
   - https://doi.org/10.21203/rs.3.rs-8807051/v1
-- [ ] 肌萎缩侧索硬化症中胚胎期细胞骨架重塑程序（早数十年前已沉默）再激活的证据 (epmc-PPR-PPR1298410)
+- [ ] Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症 (epmc-PPR-PPR1298410)
   - https://doi.org/10.21203/rs.3.rs-10690389/v1
-- [ ] [疑似误收] 空气污染与人类健康：一项范围综述 (epmc-PPR-PPR1298309)
+- [ ] [疑似误收] 待复核翻译：Air Pollution and Human Health: A Scoping Review (epmc-PPR-PPR1298309)
   - https://doi.org/10.21203/rs.3.rs-10681352/v1
-- [ ] 更正：促凋亡BCL-2家族成员BIM在肌萎缩侧索硬化模型中介导运动神经元丢失 (epmc-MED-42595782)
+- [ ] Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of 肌萎缩侧索硬化症. (epmc-MED-42595782)
   - https://doi.org/10.1038/s41418-026-01701-0
-- [ ] [高优先级] 针对单例CHCHD10 ALS患者的个性化反义寡核苷酸治疗 (trial-NCT06977451)
-  - https://clinicaltrials.gov/study/NCT06977451
-- [ ] 呼气正压联合咳痰机在肌萎缩侧索硬化患者中的重要性 (trial-NCT06249412)
-  - https://clinicaltrials.gov/study/NCT06249412
-- [ ] 肌萎缩侧索硬化症感觉运动通路中的脑兴奋性与连接性 (trial-NCT03694132)
-  - https://clinicaltrials.gov/study/NCT03694132
-- [ ] 定量和重复经颅磁刺激在肌萎缩侧索硬化中的应用——第二阶段招募中 (trial-NCT05983211)
-  - https://clinicaltrials.gov/study/NCT05983211
-- [ ] 深颈部淋巴结-静脉旁路手术治疗肌萎缩侧索硬化症的有效性与安全性 (trial-NCT06351735)
-  - https://clinicaltrials.gov/study/NCT06351735
-- [ ] [高优先级] Non-invasive Spinal, Cortical, and Sensorimotor 生物标志物s in 运动神经元病 (trial-NCT06320444)
-  - https://clinicaltrials.gov/study/NCT06320444
-- [ ] [高优先级] 待复核翻译：Cervical Electrical Stimulation for ALS (trial-NCT03411863)
-  - https://clinicaltrials.gov/study/NCT03411863
-- [ ] [高优先级] 待复核翻译：T-regulatory Cells in ALS (trial-NCT04055623)
-  - https://clinicaltrials.gov/study/NCT04055623
-- [ ] [高优先级] I 期 Dose Escalation and PK Study of Cu(II)ATSM in ALS/MND (trial-NCT02870634)
-  - https://clinicaltrials.gov/study/NCT02870634
-- [ ] [高优先级] Cell Therapy for 运动神经元病/肌萎缩侧索硬化症 (trial-NCT02242071)
-  - https://clinicaltrials.gov/study/NCT02242071
-- [ ] [高优先级] Effect of Motor Rehabilitation Treatment on 肌萎缩侧索硬化症 (ALS) (trial-NCT02306109)
-  - https://clinicaltrials.gov/study/NCT02306109
-- [ ] [高优先级] A Registry-Based 临床试验 of Pimozide in Patients With Neuromuscular Junction Transmission Dysfunction Due to ALS (trial-NCT02463825)
-  - https://clinicaltrials.gov/study/NCT02463825
-- [ ] [高优先级] 待复核翻译：Noninvasive Assessment of Neuromuscular Disease Using Electrical Impedance Myography (trial-NCT01803386)
-  - https://clinicaltrials.gov/study/NCT01803386
-- [ ] [高优先级] Study of Pioglitazone in Patients With 肌萎缩侧索硬化症 (trial-NCT00690118)
-  - https://clinicaltrials.gov/study/NCT00690118
-- [ ] [高优先级] 待复核翻译：Neuromuscular Ultrasound in ALS (trial-NCT01785550)
-  - https://clinicaltrials.gov/study/NCT01785550
+- [ ] [高优先级] 待复核翻译：Clinical Outcome Assessment for AT & BCI (trial-NCT07407725)
+  - https://clinicaltrials.gov/study/NCT07407725
+- [ ] [高优先级] A Safety and Efficacy Study of ARGX-119 in Adult Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT06441682)
+  - https://clinicaltrials.gov/study/NCT06441682
+- [ ] [高优先级] 待复核翻译：UPenn Observational Research Repository on Neurodegenerative Disease (trial-NCT04715399)
+  - https://clinicaltrials.gov/study/NCT04715399
+- [ ] [高优先级] Safety, Tolerability, and Exploratory Efficacy Study of Intrathecally Administered 基因治疗 AMT-162 in Adult Participants With SOD1 肌萎缩侧索硬化症 (SOD1-ALS) (trial-NCT06100276)
+  - https://clinicaltrials.gov/study/NCT06100276
+- [ ] [高优先级] A Study to Assess the Safety, Tolerability, and Effect on Disease Progression of BIIB105 in Participants With 肌萎缩侧索硬化症 (ALS) and Participants With the ALS Ataxin-2 (ATXN2) Genetic Mutation (trial-NCT04494256)
+  - https://clinicaltrials.gov/study/NCT04494256
+- [ ] [高优先级] 待复核翻译：Home-based Remote Digital Monitoring to Assess ALS Progression (Track ALS) (trial-NCT05276349)
+  - https://clinicaltrials.gov/study/NCT05276349
+- [ ] [高优先级] 待复核翻译：Arimoclomol in Amyotropic Lateral Sclerosis - Open Label Extension Trial (trial-NCT03836716)
+  - https://clinicaltrials.gov/study/NCT03836716
+- [ ] [高优先级] Circulating 生物标志物 for 肌萎缩侧索硬化症 (ALS) (trial-NCT03088839)
+  - https://clinicaltrials.gov/study/NCT03088839
+- [ ] [高优先级] 待复核翻译：Validation Of Tidal/End -Tidal CO2 in ALS (trial-NCT03764384)
+  - https://clinicaltrials.gov/study/NCT03764384
+- [ ] [高优先级] Intrathecal Transplantation of Mesenchymal 干细胞 in Patients With ALS (trial-NCT01771640)
+  - https://clinicaltrials.gov/study/NCT01771640
+- [ ] [高优先级] EEG-Based 脑机接口 Project for Individuals With 肌萎缩侧索硬化症 (ALS) (trial-NCT00718458)
+  - https://clinicaltrials.gov/study/NCT00718458
+- [ ] [高优先级] 临床试验 Nuedexta in Subjects With ALS (trial-NCT01806857)
+  - https://clinicaltrials.gov/study/NCT01806857
+- [ ] [高优先级] Biological Treatment of 肌萎缩侧索硬化症 (trial-NCT02193893)
+  - https://clinicaltrials.gov/study/NCT02193893
+- [ ] [高优先级] Aerobic Exercise Training in 肌萎缩侧索硬化症 (trial-NCT01650818)
+  - https://clinicaltrials.gov/study/NCT01650818
+- [ ] [高优先级] G-CSF Treatment for 肌萎缩侧索硬化症: A RCT Study Assessing Clinical Response (trial-NCT00397423)
+  - https://clinicaltrials.gov/study/NCT00397423

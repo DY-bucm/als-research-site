@@ -1,15 +1,14 @@
 {
-  "updatedAt": "2026-08-18T22:40:03.968Z",
+  "updatedAt": "2026-08-19T22:40:01.050Z",
   "summary": {
-    "totalItems": 30,
-    "issueCount": 36
+    "totalItems": 45,
+    "issueCount": 45
   },
   "sources": [
     {
       "source": "PubMed",
-      "ok": false,
-      "count": 0,
-      "error": "terminated"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "Europe PMC",
@@ -23,6 +22,17 @@
     }
   ],
   "lowRelevance": [
+    {
+      "id": "pmid-42616241",
+      "title": "Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies.",
+      "titleZh": "无标记蛋白质组学分析揭示人类周围神经轴突病变不同再生状态下的细胞外基质相关改变",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42616241/"
+    },
     {
       "id": "epmc-MED-42606797",
       "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
@@ -59,31 +69,31 @@
     {
       "id": "epmc-MED-42596024",
       "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "titleZh": "待复核翻译：The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s13195-026-02157-7"
     },
     {
       "id": "epmc-PPR-PPR1298765",
       "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
-      "titleZh": "卒中后细胞分辨率脑机接口记录的长期稳定性",
+      "titleZh": "Long-term stability of cellular-resolution 脑机接口 recordings after stroke",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.09.742157"
     },
     {
       "id": "epmc-PPR-PPR1298569",
       "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "titleZh": "多组学机器学习克服转录组盲区以挽救ALS治疗靶点",
+      "titleZh": "待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（预印本，未经同行评审）",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -92,28 +102,39 @@
     {
       "id": "epmc-PPR-PPR1298416",
       "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
-      "titleZh": "DHTKD1外显子缺失与散发性小脑性共济失调相关",
+      "titleZh": "待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
     },
     {
       "id": "epmc-PPR-PPR1298309",
       "title": "Air Pollution and Human Health: A Scoping Review",
-      "titleZh": "空气污染与人类健康：一项范围综述",
+      "titleZh": "待复核翻译：Air Pollution and Human Health: A Scoping Review",
       "category": "机制",
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
     }
   ],
   "missingIdentifiers": [],
   "missingAbstract": [
+    {
+      "id": "pmid-42525906",
+      "title": "Amyotrophic Lateral Sclerosis in the Military: A Uniform Risk?",
+      "titleZh": "军人中的肌萎缩侧索硬化：一种统一的风险？",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
+    },
     {
       "id": "epmc-MED-42606797",
       "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
@@ -172,7 +193,7 @@
     {
       "id": "epmc-MED-42600917",
       "title": "Identifying candidate therapeutic targets in amyotrophic lateral sclerosis through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
-      "titleZh": "通过全转录组机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位",
+      "titleZh": "Identifying candidate therapeutic targets in 肌萎缩侧索硬化症 through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
@@ -183,29 +204,29 @@
     {
       "id": "epmc-MED-42599142",
       "title": "Incidence and clinical characteristics of amyotrophic lateral sclerosis during the post-COVID-19 Period: a population-based study from Isfahan, Iran.",
-      "titleZh": "后COVID-19时期肌萎缩侧索硬化症的发病率与临床特征：来自伊朗伊斯法罕的一项基于人群的研究",
+      "titleZh": "Incidence and clinical characteristics of 肌萎缩侧索硬化症 during the post-COVID-19 Period: a population-based study from Isfahan, Iran.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1080/17582024.2026.2718409"
     },
     {
       "id": "epmc-MED-42596024",
       "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "titleZh": "待复核翻译：The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s13195-026-02157-7"
     },
     {
       "id": "epmc-MED-42594365",
       "title": "Prescribing and monitoring of riluzole in amyotrophic lateral sclerosis: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury.",
-      "titleZh": "肌萎缩侧索硬化症中利鲁唑的处方与监测：来自新西兰健康局 - Te Whatu Ora Waitaha Canterbury 的回顾性队列研究",
+      "titleZh": "Prescribing and monitoring of riluzole in 肌萎缩侧索硬化症: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury.",
       "category": "治疗",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 5,
@@ -216,20 +237,20 @@
     {
       "id": "epmc-PPR-PPR1298765",
       "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
-      "titleZh": "卒中后细胞分辨率脑机接口记录的长期稳定性",
+      "titleZh": "Long-term stability of cellular-resolution 脑机接口 recordings after stroke",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.09.742157"
     },
     {
       "id": "epmc-PPR-PPR1298569",
       "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "titleZh": "多组学机器学习克服转录组盲区以挽救ALS治疗靶点",
+      "titleZh": "待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（预印本，未经同行评审）",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -238,42 +259,42 @@
     {
       "id": "epmc-PPR-PPR1298416",
       "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
-      "titleZh": "DHTKD1外显子缺失与散发性小脑性共济失调相关",
+      "titleZh": "待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
     },
     {
       "id": "epmc-PPR-PPR1298410",
       "title": "Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in Amyotrophic Lateral Sclerosis",
-      "titleZh": "肌萎缩侧索硬化症中胚胎期细胞骨架重塑程序（早数十年前已沉默）再激活的证据",
+      "titleZh": "Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-10690389/v1"
     },
     {
       "id": "epmc-PPR-PPR1298309",
       "title": "Air Pollution and Human Health: A Scoping Review",
-      "titleZh": "空气污染与人类健康：一项范围综述",
+      "titleZh": "待复核翻译：Air Pollution and Human Health: A Scoping Review",
       "category": "机制",
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
     },
     {
       "id": "epmc-MED-42595782",
       "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
-      "titleZh": "更正：促凋亡BCL-2家族成员BIM在肌萎缩侧索硬化模型中介导运动神经元丢失",
+      "titleZh": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of 肌萎缩侧索硬化症.",
       "category": "机制",
-      "evidenceLevel": "机制研究（更正声明）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "low",
@@ -282,159 +303,240 @@
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "epmc-MED-42596024",
-      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "UNC13A隐蔽外显子与阿尔茨海默病认知障碍相关",
+      "id": "pmid-42548788",
+      "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
+      "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究（多中心回顾性队列，含倾向评分匹配对照）",
+      "relevanceScore": 8,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548788/"
+    },
+    {
+      "id": "pmid-42614391",
+      "title": "Neutralization of pathogenic PC-OxPL by AAV-delivered scFv as a therapeutic strategy for amyotrophic lateral sclerosis.",
+      "titleZh": "通过AAV递送的scFv中和致病性PC-OxPL作为肌萎缩侧索硬化症的治疗策略",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42614391/"
+    },
+    {
+      "id": "pmid-42609516",
+      "title": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
+      "titleZh": "神经退行性疾病中的细胞死亡：分子机制与治疗靶点",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
+    },
+    {
+      "id": "pmid-42525902",
+      "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
+      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联",
       "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://doi.org/10.1186/s13195-026-02157-7"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
     },
     {
-      "id": "trial-NCT06977451",
-      "title": "Personalized Antisense Oligonucleotide for a Single Participant With CHCHD10 ALS",
-      "titleZh": "针对单例CHCHD10 ALS患者的个性化反义寡核苷酸治疗",
+      "id": "pmid-42615866",
+      "title": "Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023.",
+      "titleZh": "2013-2023年美国国家ALS登记处中多学科门诊就诊情况与护理模式",
+      "category": "临床试验",
+      "evidenceLevel": "观察性研究（基于全国登记处的横断面/回顾性分析）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42615866/"
+    },
+    {
+      "id": "trial-NCT07407725",
+      "title": "Clinical Outcome Assessment for AT & BCI",
+      "titleZh": "待复核翻译：Clinical Outcome Assessment for AT & BCI",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06977451"
+      "url": "https://clinicaltrials.gov/study/NCT07407725"
     },
     {
-      "id": "trial-NCT06320444",
-      "title": "Non-invasive Spinal, Cortical, and Sensorimotor Biomarkers in Motor Neurone Disease",
-      "titleZh": "Non-invasive Spinal, Cortical, and Sensorimotor 生物标志物s in 运动神经元病",
+      "id": "trial-NCT06441682",
+      "title": "A Safety and Efficacy Study of ARGX-119 in Adult Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "A Safety and Efficacy Study of ARGX-119 in Adult Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06441682"
+    },
+    {
+      "id": "trial-NCT04715399",
+      "title": "UPenn Observational Research Repository on Neurodegenerative Disease",
+      "titleZh": "待复核翻译：UPenn Observational Research Repository on Neurodegenerative Disease",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04715399"
+    },
+    {
+      "id": "trial-NCT06100276",
+      "title": "Safety, Tolerability, and Exploratory Efficacy Study of Intrathecally Administered Gene Therapy AMT-162 in Adult Participants With SOD1 Amyotrophic Lateral Sclerosis (SOD1-ALS)",
+      "titleZh": "Safety, Tolerability, and Exploratory Efficacy Study of Intrathecally Administered 基因治疗 AMT-162 in Adult Participants With SOD1 肌萎缩侧索硬化症 (SOD1-ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06320444"
+      "url": "https://clinicaltrials.gov/study/NCT06100276"
     },
     {
-      "id": "trial-NCT03411863",
-      "title": "Cervical Electrical Stimulation for ALS",
-      "titleZh": "待复核翻译：Cervical Electrical Stimulation for ALS",
+      "id": "trial-NCT04494256",
+      "title": "A Study to Assess the Safety, Tolerability, and Effect on Disease Progression of BIIB105 in Participants With Amyotrophic Lateral Sclerosis (ALS) and Participants With the ALS Ataxin-2 (ATXN2) Genetic Mutation",
+      "titleZh": "A Study to Assess the Safety, Tolerability, and Effect on Disease Progression of BIIB105 in Participants With 肌萎缩侧索硬化症 (ALS) and Participants With the ALS Ataxin-2 (ATXN2) Genetic Mutation",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03411863"
+      "url": "https://clinicaltrials.gov/study/NCT04494256"
     },
     {
-      "id": "trial-NCT04055623",
-      "title": "T-regulatory Cells in ALS",
-      "titleZh": "待复核翻译：T-regulatory Cells in ALS",
+      "id": "trial-NCT05276349",
+      "title": "Home-based Remote Digital Monitoring to Assess ALS Progression (Track ALS)",
+      "titleZh": "待复核翻译：Home-based Remote Digital Monitoring to Assess ALS Progression (Track ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04055623"
+      "url": "https://clinicaltrials.gov/study/NCT05276349"
     },
     {
-      "id": "trial-NCT02870634",
-      "title": "Phase 1 Dose Escalation and PK Study of Cu(II)ATSM in ALS/MND",
-      "titleZh": "I 期 Dose Escalation and PK Study of Cu(II)ATSM in ALS/MND",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02870634"
-    },
-    {
-      "id": "trial-NCT02242071",
-      "title": "Cell Therapy for Motor Neuron Disease/Amyotrophic Lateral Sclerosis",
-      "titleZh": "Cell Therapy for 运动神经元病/肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02242071"
-    },
-    {
-      "id": "trial-NCT02306109",
-      "title": "Effect of Motor Rehabilitation Treatment on Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Effect of Motor Rehabilitation Treatment on 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02306109"
-    },
-    {
-      "id": "trial-NCT02463825",
-      "title": "A Registry-Based Clinical Trial of Pimozide in Patients With Neuromuscular Junction Transmission Dysfunction Due to ALS",
-      "titleZh": "A Registry-Based 临床试验 of Pimozide in Patients With Neuromuscular Junction Transmission Dysfunction Due to ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02463825"
-    },
-    {
-      "id": "trial-NCT01803386",
-      "title": "Noninvasive Assessment of Neuromuscular Disease Using Electrical Impedance Myography",
-      "titleZh": "待复核翻译：Noninvasive Assessment of Neuromuscular Disease Using Electrical Impedance Myography",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01803386"
-    },
-    {
-      "id": "trial-NCT00690118",
-      "title": "Study of Pioglitazone in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Study of Pioglitazone in Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT03836716",
+      "title": "Arimoclomol in Amyotropic Lateral Sclerosis - Open Label Extension Trial",
+      "titleZh": "待复核翻译：Arimoclomol in Amyotropic Lateral Sclerosis - Open Label Extension Trial",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00690118"
+      "url": "https://clinicaltrials.gov/study/NCT03836716"
     },
     {
-      "id": "trial-NCT01785550",
-      "title": "Neuromuscular Ultrasound in ALS",
-      "titleZh": "待复核翻译：Neuromuscular Ultrasound in ALS",
+      "id": "trial-NCT03088839",
+      "title": "Circulating Biomarker for Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Circulating 生物标志物 for 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01785550"
-    }
-  ],
-  "failedSources": [
+      "url": "https://clinicaltrials.gov/study/NCT03088839"
+    },
     {
-      "source": "PubMed",
-      "ok": false,
-      "count": 0,
-      "error": "terminated"
+      "id": "trial-NCT03764384",
+      "title": "Validation Of Tidal/End -Tidal CO2 in ALS",
+      "titleZh": "待复核翻译：Validation Of Tidal/End -Tidal CO2 in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03764384"
+    },
+    {
+      "id": "trial-NCT01771640",
+      "title": "Intrathecal Transplantation of Mesenchymal Stem Cell in Patients With ALS",
+      "titleZh": "Intrathecal Transplantation of Mesenchymal 干细胞 in Patients With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01771640"
+    },
+    {
+      "id": "trial-NCT00718458",
+      "title": "EEG-Based Brain-Computer Interface Project for Individuals With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "EEG-Based 脑机接口 Project for Individuals With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00718458"
+    },
+    {
+      "id": "trial-NCT01806857",
+      "title": "Clinical Trial Nuedexta in Subjects With ALS",
+      "titleZh": "临床试验 Nuedexta in Subjects With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01806857"
+    },
+    {
+      "id": "trial-NCT02193893",
+      "title": "Biological Treatment of Amyotrophic Lateral Sclerosis",
+      "titleZh": "Biological Treatment of 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02193893"
+    },
+    {
+      "id": "trial-NCT01650818",
+      "title": "Aerobic Exercise Training in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Aerobic Exercise Training in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01650818"
+    },
+    {
+      "id": "trial-NCT00397423",
+      "title": "G-CSF Treatment for Amyotrophic Lateral Sclerosis: A RCT Study Assessing Clinical Response",
+      "titleZh": "G-CSF Treatment for 肌萎缩侧索硬化症: A RCT Study Assessing Clinical Response",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00397423"
     }
   ],
+  "failedSources": [],
   "issueCounts": {
-    "疑似误收": 8,
+    "疑似误收": 9,
     "缺标识符": 0,
-    "缺摘要": 15,
-    "高优先级待复核": 12,
-    "来源失败": 1
+    "缺摘要": 16,
+    "高优先级待复核": 20,
+    "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 30
+    "待复核": 45
   },
   "relevanceCounts": {
-    "low": 8,
-    "medium": 7,
-    "high": 15
+    "medium": 11,
+    "high": 25,
+    "low": 9
   }
 }
