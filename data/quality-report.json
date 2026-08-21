@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-20T22:45:00.077Z",
+  "updatedAt": "2026-08-21T22:40:36.719Z",
   "summary": {
     "totalItems": 45,
-    "issueCount": 44
+    "issueCount": 47
   },
   "sources": [
     {
@@ -23,6 +23,28 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-42627134",
+      "title": "RNA interference (RNA)-based therapeutics for treating neurodegenerative diseases.",
+      "titleZh": "基于RNA干扰（RNAi）的疗法用于治疗神经退行性疾病",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42627134/"
+    },
+    {
+      "id": "epmc-MED-42619255",
+      "title": "Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.",
+      "titleZh": "衰老相关神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/adhm.71594"
+    },
+    {
       "id": "epmc-MED-42606797",
       "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
       "titleZh": "ALS的再生策略：干细胞与细胞外囊泡",
@@ -32,17 +54,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.1186/s11671-026-04820-2"
-    },
-    {
-      "id": "epmc-MED-42606140",
-      "title": "Population-Level Nucleotide Diversity and Genetic Differentiation at SOD1 Across Global Human Populations.",
-      "titleZh": "全球人类群体中SOD1基因的群体水平核苷酸多样性与遗传分化",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1111/ahg.70052"
     },
     {
       "id": "epmc-PPR-PPR1299276",
@@ -100,15 +111,15 @@
       "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
     },
     {
-      "id": "epmc-PPR-PPR1298309",
-      "title": "Air Pollution and Human Health: A Scoping Review",
-      "titleZh": "待复核翻译：Air Pollution and Human Health: A Scoping Review",
+      "id": "epmc-MED-24340223",
+      "title": "ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
+      "titleZh": "待复核翻译：ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
       "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
+      "url": "https://doi.org/10.2478/s13380-013-0118-1"
     }
   ],
   "missingIdentifiers": [],
@@ -125,6 +136,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
     },
     {
+      "id": "pmid-42627134",
+      "title": "RNA interference (RNA)-based therapeutics for treating neurodegenerative diseases.",
+      "titleZh": "基于RNA干扰（RNAi）的疗法用于治疗神经退行性疾病",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42627134/"
+    },
+    {
+      "id": "epmc-MED-42619255",
+      "title": "Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.",
+      "titleZh": "衰老相关神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/adhm.71594"
+    },
+    {
+      "id": "epmc-MED-42619018",
+      "title": "Associations between Pre-Disease Biomarkers of Persistent Organic Pollutants and Amyotrophic Lateral Sclerosis Survival in the Danish Diet, Cancer and Health Study Cohort.",
+      "titleZh": "丹麦饮食、癌症与健康研究队列中持久性有机污染物的疾病前生物标志物与肌萎缩侧索硬化生存期的关联",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/ana.78334"
+    },
+    {
       "id": "epmc-MED-42606797",
       "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
       "titleZh": "ALS的再生策略：干细胞与细胞外囊泡",
@@ -134,17 +178,6 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.1186/s11671-026-04820-2"
-    },
-    {
-      "id": "epmc-MED-42606140",
-      "title": "Population-Level Nucleotide Diversity and Genetic Differentiation at SOD1 Across Global Human Populations.",
-      "titleZh": "全球人类群体中SOD1基因的群体水平核苷酸多样性与遗传分化",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1111/ahg.70052"
     },
     {
       "id": "epmc-PPR-PPR1299276",
@@ -162,7 +195,7 @@
       "title": "Poor Prognostic Factors After Gastrostomy in Patients With Amyotrophic Lateral Sclerosis: A Two-Center Retrospective Cohort Study.",
       "titleZh": "肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究",
       "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "观察性临床研究（双中心回顾性队列）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
@@ -171,12 +204,12 @@
     {
       "id": "epmc-MED-42600995",
       "title": "Circular RNAs in amyotrophic lateral sclerosis.",
-      "titleZh": "肌萎缩侧索硬化中的环状RNA",
+      "titleZh": "Circular RNAs in 肌萎缩侧索硬化症.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1016/j.nbd.2026.107574"
     },
     {
@@ -268,26 +301,15 @@
       "url": "https://doi.org/10.21203/rs.3.rs-10690389/v1"
     },
     {
-      "id": "epmc-PPR-PPR1298309",
-      "title": "Air Pollution and Human Health: A Scoping Review",
-      "titleZh": "待复核翻译：Air Pollution and Human Health: A Scoping Review",
+      "id": "epmc-MED-24340223",
+      "title": "ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
+      "titleZh": "待复核翻译：ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
       "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-10681352/v1"
-    },
-    {
-      "id": "epmc-MED-42595782",
-      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
-      "titleZh": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1038/s41418-026-01701-0"
+      "url": "https://doi.org/10.2478/s13380-013-0118-1"
     }
   ],
   "highPriorityNeedsReview": [
@@ -296,7 +318,7 @@
       "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
       "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（多中心回顾性队列，含倾向评分匹配）",
+      "evidenceLevel": "观察性临床研究（回顾性多中心队列，含倾向评分匹配对照）",
       "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
@@ -318,16 +340,27 @@
       "title": "Neutralization of pathogenic PC-OxPL by AAV-delivered scFv as a therapeutic strategy for amyotrophic lateral sclerosis.",
       "titleZh": "通过AAV递送的scFv中和致病性PC-OxPL作为肌萎缩侧索硬化症的治疗策略",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（患者样本）结合机制研究和动物模型验证",
+      "evidenceLevel": "观察性临床研究（患者CSF分析）结合临床前机制与干预研究",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42614391/"
     },
     {
+      "id": "pmid-42609516",
+      "title": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
+      "titleZh": "神经退行性疾病中的细胞死亡：分子机制与治疗靶点",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
+    },
+    {
       "id": "pmid-42525902",
       "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
-      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联",
+      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
@@ -340,66 +373,77 @@
       "title": "Elevated neuronal TAF15 expression induces oxidative stress and anxiety-related behavioral deficits.",
       "titleZh": "神经元TAF15表达升高诱导氧化应激和焦虑相关行为缺陷",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（患者脑组织分析）结合机制性细胞与动物实验",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42623241/"
     },
     {
-      "id": "trial-NCT07023835",
-      "title": "Usnoflast Neuromuscular Investigation for Treatment Efficacy in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症",
+      "id": "trial-NCT07674667",
+      "title": "FUNCtion ALS: Aiming to Restore UNC13A Function in People Living With ALS",
+      "titleZh": "待复核翻译：FUNCtion ALS: Aiming to Restore UNC13A Function in People Living With ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07023835"
+      "url": "https://clinicaltrials.gov/study/NCT07674667"
     },
     {
-      "id": "trial-NCT01492686",
-      "title": "Phase 3 Study of MCI-186 for Treatment of Amyotrophic Lateral Sclerosis",
-      "titleZh": "III 期 Study of MCI-186 for Treatment of 肌萎缩侧索硬化症",
+      "id": "trial-NCT07071935",
+      "title": "A Clinical Trial of Early Ventilation in Amyotrophic Lateral Sclerosis (EVENT ALS)",
+      "titleZh": "A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01492686"
+      "url": "https://clinicaltrials.gov/study/NCT07071935"
     },
     {
-      "id": "trial-NCT07571174",
-      "title": "A Substudy of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
-      "titleZh": "A Substudy of LY4256984 in Participants With Sporadic 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07571174"
-    },
-    {
-      "id": "trial-NCT07213440",
-      "title": "Identification of Early Markers for ALS",
-      "titleZh": "待复核翻译：Identification of Early Markers for ALS",
+      "id": "trial-NCT07595666",
+      "title": "Comparison of NeuroEXPLORER PET/CT Versus Standard-of-care PET/CT of the Head and Neck Region.",
+      "titleZh": "待复核翻译：Comparison of NeuroEXPLORER PET/CT Versus Standard-of-care PET/CT of the Head and Neck Region.",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07213440"
+      "url": "https://clinicaltrials.gov/study/NCT07595666"
     },
     {
-      "id": "trial-NCT06021938",
-      "title": "Alleviating Persistent Dyspnea in Amyotrophic Lateral Sclerosis Patients Treated With Non-Invasive Ventilation Through Immersive Virtual Reality",
-      "titleZh": "Alleviating Persistent Dyspnea in 肌萎缩侧索硬化症 Patients Treated With Non-Invasive Ventilation Through Immersive Virtual Reality",
+      "id": "trial-NCT07589764",
+      "title": "A Widely Inclusive, Hybrid-Decentralized Pilot Trial Utilizing β-hydroxy-β-methylbutyrate to Lower IGFBP7 Levels in People With ALS",
+      "titleZh": "待复核翻译：A Widely Inclusive, Hybrid-Decentralized Pilot Trial Utilizing β-hydroxy-β-methylbutyrate to Lower IGFBP7 Levels in People With ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06021938"
+      "url": "https://clinicaltrials.gov/study/NCT07589764"
+    },
+    {
+      "id": "trial-NCT04745299",
+      "title": "Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS",
+      "titleZh": "待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04745299"
+    },
+    {
+      "id": "trial-NCT07268833",
+      "title": "Translating Single-cell Vulnerability Into Novel ALS Biomarkers and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
+      "titleZh": "Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07268833"
     },
     {
       "id": "trial-NCT07169175",
@@ -413,119 +457,108 @@
       "url": "https://clinicaltrials.gov/study/NCT07169175"
     },
     {
-      "id": "trial-NCT05395624",
-      "title": "Safety, PK and Biodistribution of 18F-OP-801 in Patients With ALS, AD, MS, PD and Healthy Volunteers",
-      "titleZh": "待复核翻译：Safety, PK and Biodistribution of 18F-OP-801 in Patients With ALS, AD, MS, PD and Healthy Volunteers",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05395624"
-    },
-    {
-      "id": "trial-NCT05039268",
-      "title": "3K3A-APC for Treatment of Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "3K3A-APC for Treatment of 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05039268"
-    },
-    {
-      "id": "trial-NCT05292690",
-      "title": "An Assistive Powered Wheelchair: Stage 2 Trial",
-      "titleZh": "待复核翻译：An Assistive Powered Wheelchair: Stage 2 Trial",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 8,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05292690"
-    },
-    {
-      "id": "trial-NCT03613038",
-      "title": "A Systematic Investigation of Phonetic Complexity Effects on Articulatory Motor Performance in Progressive Dysarthria",
-      "titleZh": "待复核翻译：A Systematic Investigation of Phonetic Complexity Effects on Articulatory Motor Performance in Progressive Dysarthria",
+      "id": "trial-NCT05597436",
+      "title": "Intermediate-Sized Expanded Access Study",
+      "titleZh": "待复核翻译：Intermediate-Sized Expanded Access Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03613038"
+      "url": "https://clinicaltrials.gov/study/NCT05597436"
     },
     {
-      "id": "trial-NCT02365922",
-      "title": "Advancing Research and Treatment for Frontotemporal Lobar Degeneration (ARTFL)",
-      "titleZh": "待复核翻译：Advancing Research and Treatment for Frontotemporal Lobar Degeneration (ARTFL)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02365922"
-    },
-    {
-      "id": "trial-NCT03293394",
-      "title": "Rehabilitative Trial With tDCS in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Rehabilitative Trial With tDCS in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03293394"
-    },
-    {
-      "id": "trial-NCT03334786",
-      "title": "Study to Evaluate Safety & Efficacy of FLX-787-ODT to Treat Fasciculations in Tongue and Appendicular Muscle in Adult Subjects With ALS",
-      "titleZh": "待复核翻译：Study to Evaluate Safety & Efficacy of FLX-787-ODT to Treat Fasciculations in Tongue and Appendicular Muscle in Adult Subjects With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03334786"
-    },
-    {
-      "id": "trial-NCT03067857",
-      "title": "Autologous Bone Marrow-Derived Stem Cell Therapy for Motor Neuron Disease",
-      "titleZh": "Autologous Bone Marrow-Derived 干细胞 Therapy for 运动神经元病",
+      "id": "trial-NCT03487263",
+      "title": "Dose-Escalation, Safety and Pharmacokinetic Study of IC14 in Motor Neurone Disease",
+      "titleZh": "Dose-Escalation, Safety and Pharmacokinetic Study of IC14 in 运动神经元病",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03067857"
+      "url": "https://clinicaltrials.gov/study/NCT03487263"
     },
     {
-      "id": "trial-NCT00337402",
-      "title": "Effects of Gastrostomy on Amyotrophic Lateral Sclerosis",
-      "titleZh": "Effects of Gastrostomy on 肌萎缩侧索硬化症",
+      "id": "trial-NCT06228001",
+      "title": "Holter of Movement in Patients With Amyotrophic Lateral Sclerosis.",
+      "titleZh": "Holter of Movement in Patients With 肌萎缩侧索硬化症.",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00337402"
+      "url": "https://clinicaltrials.gov/study/NCT06228001"
+    },
+    {
+      "id": "trial-NCT01592552",
+      "title": "A Biospecimen and Clinical Data Study on Patients for Drug & Biomarker Discovery",
+      "titleZh": "A Biospecimen and Clinical Data Study on Patients for Drug & 生物标志物 Discovery",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01592552"
+    },
+    {
+      "id": "trial-NCT03444428",
+      "title": "The Relationship Between Arterial Stiffness and Respiratory Failure in Motor Neurone Disease",
+      "titleZh": "The Relationship Between Arterial Stiffness and Respiratory Failure in 运动神经元病",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 8,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03444428"
+    },
+    {
+      "id": "trial-NCT03367650",
+      "title": "Epidemiology and Genetics of the Amyotrophic Lateral Sclerosis in the French West Indies",
+      "titleZh": "Epidemiology and Genetics of the 肌萎缩侧索硬化症 in the French West Indies",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03367650"
+    },
+    {
+      "id": "trial-NCT02286011",
+      "title": "Intramuscular Infusion of Autologous Bone Marrow Stem Cells in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Intramuscular Infusion of Autologous Bone Marrow 干细胞s in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02286011"
+    },
+    {
+      "id": "trial-NCT00718393",
+      "title": "Compassionate Use of Ceftriaxone in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Compassionate Use of Ceftriaxone in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00718393"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 8,
+    "疑似误收": 9,
     "缺标识符": 0,
-    "缺摘要": 16,
-    "高优先级待复核": 20,
+    "缺摘要": 17,
+    "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 45
   },
   "relevanceCounts": {
-    "medium": 11,
-    "high": 26,
-    "low": 8
+    "medium": 12,
+    "high": 24,
+    "low": 9
   }
 }

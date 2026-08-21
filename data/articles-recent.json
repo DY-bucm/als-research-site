@@ -1,14 +1,52 @@
 {
-  "updatedAt": "2026-08-20T22:42:54.441Z",
+  "updatedAt": "2026-08-21T22:38:32.369Z",
   "period": {
     "days": 10,
-    "from": "2026-08-11",
-    "to": "2026-08-20"
+    "from": "2026-08-12",
+    "to": "2026-08-21"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 48,
+  "count": 41,
   "articles": [
+    {
+      "id": "pmid-42627134",
+      "pmid": "42627134",
+      "doi": "10.1080/17582024.2026.2722300",
+      "title": "RNA interference (RNA)-based therapeutics for treating neurodegenerative diseases.",
+      "abstract": "",
+      "journal": "Neurodegenerative disease management",
+      "authors": [
+        "Mahjoubin-Tehran M",
+        "Sahebkar A"
+      ],
+      "publicationTypes": [
+        "Editorial"
+      ],
+      "publishedAt": "2026-08-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42627134/"
+    },
+    {
+      "id": "pmid-41605610",
+      "pmid": "41605610",
+      "doi": "10.1136/bjo-2025-328181",
+      "title": "Corneal confocal microscopy as a paraclinical test in neurodegenerative disease: a scoping review.",
+      "abstract": "Corneal confocal microscopy (CCM) is a non-invasive imaging technique that enables quantification of the corneal sub-basal nerve plexus and has emerged as a potential surrogate biomarker for peripheral neurodegeneration. This scoping review evaluated current evidence on the use of CCM in assessing corneal nerve fibre changes across neurodegenerative diseases (NDDs) and explored its potential as a paraclinical diagnostic and monitoring tool. A comprehensive search of PubMed and Scopus was conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines to identify studies reporting quantitative CCM metrics, including corneal nerve fibre density (CNFD), corneal nerve branch density (CNBD) and corneal nerve fibre length (CNFL). Both cross-sectional and longitudinal studies of patients with NDDs were included, and findings were narratively synthesised. 50 studies were included: Parkinson's disease (n=13), multiple sclerosis (n=11), cerebrovascular accidents (n=7), post-COVID-19 neuropathy (n=5), amyotrophic lateral sclerosis (n=4), chronic inflammatory demyelinating polyneuropathy (n=4), Alzheimer's disease (n=3), Fabry disease (n=2) and neurofibromatosis type 1 (n=1). CNFL and CNFD were consistently reduced in Parkinson's disease, multiple sclerosis, cerebrovascular accidents, amyotrophic lateral sclerosis, chronic inflammatory demyelinating polyneuropathy and post-COVID-19 neuropathy, whereas CNBD results were inconsistent. The strongest evidence supported the role of CCM in Parkinson's disease and multiple sclerosis. CNFL and CNFD emerged as the most reliable CCM-derived metrics across NDDs, supporting their potential as objective biomarkers for neurodegeneration. While findings support the potential of CCM as a paraclinical diagnostic tool, methodological heterogeneity in image acquisition, analysis software and study design limited comparability. Standardised imaging and analysis protocols are needed to enable broader clinical application and validation across NDDs.",
+      "journal": "The British journal of ophthalmology",
+      "authors": [
+        "Oreskovic E",
+        "Petzold A",
+        "Petropoulos IN",
+        "Hau S"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "publishedAt": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41605610/"
+    },
     {
       "id": "pmid-42623241",
       "pmid": "42623241",
@@ -29,6 +67,26 @@
       ],
       "publishedAt": "2026-08-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42623241/"
+    },
+    {
+      "id": "pmid-42624937",
+      "pmid": "42624937",
+      "doi": "10.1038/s41598-026-66936-w",
+      "title": "Green analytical methods for quantification of a new combination therapy for amyotrophic lateral sclerosis: assessment by EPPI framework.",
+      "abstract": "Amyotrophic lateral sclerosis is a progressive neurodegenerative disorder characterized by the degeneration of upper and lower motor neurons, leading to progressive muscle weakness, paralysis, and respiratory failure. The recently proposed combination therapy consisting of celecoxib and ciprofloxacin hydrochloride has emerged as a potential treatment for amyotrophic lateral sclerosis and other neurodegenerative disorders. The present study aimed to develop and validate simple, sensitive, environmentally friendly, and cost-effective analytical methods for the simultaneous determination of celecoxib and ciprofloxacin hydrochloride in bulk powders, laboratory-prepared tablets and plasma. Two ultraviolet spectrophotometric methods were established. The first method relies on direct absorbance measurements of ciprofloxacin hydrochloride at 318 nm and celecoxib at the isosbestic point at 266 nm, while the second one employs first-derivative ratio spectrophotometry for the selective determination of ciprofloxacin hydrochloride and celecoxib at 280 nm and 254 nm, respectively. Moreover, a reversed-phase high-performance liquid chromatographic method was developed using a C18 stationary phase, an optimized mobile phase composition and both diode array and fluorescence detectors, achieving efficient separation and accurate quantification of both analytes. The developed procedures were successfully applied to laboratory-prepared tablets and plasma following optimization of the sample preparation protocol to minimize matrix interference and to improve analytes recovery. Validation results showed excellent linearity over the investigated concentration ranges together with satisfactory accuracy, precision, selectivity, and sensitivity, confirming the reliability of the proposed methods for routine quality control and bioanalytical applications. The overall analytical performance and environmental sustainability of the developed methods were further assessed using the environmental performance and practicality Index framework, demonstrating their suitability as reliable and sustainable analytical approaches for the determination of celecoxib and ciprofloxacin hydrochloride.",
+      "journal": "Scientific reports",
+      "authors": [
+        "Aboukhalil FM",
+        "Khamis EF",
+        "El-Sayed MA",
+        "Youssef RM",
+        "El-Yazbi AF"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624937/"
     },
     {
       "id": "pmid-42619018",
@@ -907,225 +965,6 @@
       ],
       "publishedAt": "2026-08-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42581651/"
-    },
-    {
-      "id": "pmid-42348198",
-      "pmid": "42348198",
-      "doi": "10.1001/jama.2026.9755",
-      "title": "Amyotrophic Lateral Sclerosis.",
-      "abstract": "This JAMA Patient Page describes how common amyotrophic lateral sclerosis (ALS) is and who is typically affected along with information about the diagnosis, treatment, and prognosis of ALS.",
-      "journal": "JAMA",
-      "authors": [
-        "Walter KL"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42348198/"
-    },
-    {
-      "id": "pmid-42581415",
-      "pmid": "42581415",
-      "doi": "10.1002/ana.78328",
-      "title": "Blood SOD1 Activity in ALS Patients Receiving Tofersen Treatment.",
-      "abstract": "The antisense oligonucleotide tofersen is the first disease-modifying drug for SOD1-related amyotrophic lateral sclerosis (ALS) and was approved because of its ability to reduce SOD1 protein and neurofilament levels. The effect of tofersen on SOD1 activity is unclear but of clinical relevance because homozygous SOD1 mutations, linked to reduced SOD1 activity, cause severe motor neuron impairment and tofersen-induced reduction could be deleterious. Therefore, monitoring of SOD1 activity is urgently needed. SOD1 activity was analyzed in blood samples from a discovery (n = 120) and a validation cohort (n = 208), including controls, patients with sporadic ALS (sALS), C9orf72 mutation carriers (c9ALS), asymptomatic (SOD1-asym), and symptomatic SOD1 mutation carriers (SOD1-ALS). SOD1 activity was characterized in 18 patients receiving tofersen treatment. SOD1 activity was significantly lower in both SOD1-asym (median = 7.5 U/mg, interquartile range [IQR] = 7.0-9.0 U/mg) and SOD1-ALS (median = 7.9 U/mg, IQR = 7.1-9.1 U/mg) relative to controls (median = 9.2 U/mg, IQR = 8.9-10.0 U/mg, p < 0.0001), c9ALS (median = 9.4 U/mg, IQR = 8.9-10.2 U/mg, p < 0.0001) and sALS (median 9.5 U/mg, IQR 8.8-9.9 U/mg, p < 0.0001). SOD1 activity was significantly lower in individuals with deleterious SOD1 variants than in individuals with neutral variants. During tofersen treatment, neurofilament and SOD1 protein levels decreased, whereas SOD1 activity remained stable. The data indicate that the positive tofersen treatment effect is independent of SOD1 activity. Lower SOD1 activity is specific to SOD1-ALS, already present in the asymptomatic phase and depends on the mutation type. Future studies should determine whether tofersen treatment affects cerebrospinal fluid (CSF) SOD1 activity. ANN NEUROL 2026.",
-      "journal": "Annals of neurology",
-      "authors": [
-        "Goehring K",
-        "Abler E",
-        "Vavra J",
-        "Mayer K",
-        "Dorst J",
-        "Elmas Z",
-        "Wiesenfarth M",
-        "Richter L",
-        "Petri S",
-        "Regensburger M",
-        "Reilich P",
-        "Bjelica B",
-        "Lumi R",
-        "Süß P",
-        "Tumani H",
-        "Otto M",
-        "Weishaupt JH",
-        "Ludolph AC",
-        "Oeckl P"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581415/"
-    },
-    {
-      "id": "pmid-42578424",
-      "pmid": "42578424",
-      "doi": "10.1080/21678421.2026.2712723",
-      "title": "Clinical and genetic characteristics of 536 young-onset amyotrophic lateral sclerosis in China: a single-center retrospective study.",
-      "abstract": "Objective: Young-onset amyotrophic lateral sclerosis (ALS), defined as symptom onset at or before 45 years, remains poorly characterized in Chinese patients. We aimed to describe its clinical and genetic features and compare them with adult-onset ALS. Methods: We retrospectively analyzed 536 young-onset ALS patients registered at Peking Union Medical College Hospital (2014-2022) alongside 1136 adult-onset patients (onset >45 years). Whole exome sequencing targeting 41 established ALS-related genes was performed in all young-onset patients. Results: Young-onset ALS accounted for 32.0% of the cohort, with a median onset age of 39.5 years (IQR 34.25-44.0). Compared with adult-onset patients, young-onset cases had less bulbar onset (14.2% vs. 19.5%, p = 0.008), more frequent predominant upper motor neuron phenotype (25.9% vs. 15.4%, p < 0.001), higher baseline ALSFRS-R scores ( p < 0.001), slower progression ( p = 0.001), and longer median survival (36 vs. 30 months, p = 0.009). Familial ALS was more common in the young-onset group (8.4% vs. 3.8%, p < 0.001). Rare variants were identified in 20.0% of young-onset patients across 32 genes; pathogenic or likely pathogenic variants were predominantly in SOD1 and FUS . Compared with adult-onset patients, SOD1 was proportionally more common in adult-onset disease, whereas FUS variants were markedly enriched among young-onset cases, suggesting age-dependent differences in genetic architecture. Conclusion: Young-onset ALS in China is characterized by a slower clinical course and a distinct genetic profile dominated by SOD1 and FUS , with near-absent C9orf72 expansions. Routine genetic testing and age-stratified trial design are warranted in this population.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Shen D",
-        "Yang X",
-        "Zhang K",
-        "Liu S",
-        "Sun X",
-        "Li J",
-        "Cai Z",
-        "Liu M",
-        "Zhang X",
-        "Liu Q",
-        "Cui L"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42578424/"
-    },
-    {
-      "id": "pmid-42580558",
-      "pmid": "42580558",
-      "doi": "10.1016/j.mad.2026.112235",
-      "title": "Epigenetic drift and LINE-1 activation in aging brain: Implications for neurodegenerative disease.",
-      "abstract": "Brain aging and age-associated neurological diseases, such as Alzheimer's Disease (AD), Parkinson's Disease (PD), and Amyotrophic Lateral Sclerosis (ALS), are largely attributed to epigenetic drift which is characterized by the gradual accumulation of alterations in neural cell methylation patterns over time. These methylation changes are particularly evident in transposable element (TE)-derived sequences such as Long interspersed element-1 (LINE-1) which comprises approximately 17% of the human genome. During aging, LINE-1 elements gradually lose their methylation, as well as the regulatory safeguard mechanisms that usually keep them inactive. This repression loss can lead to LINE-1 reactivation, contributing to harmful effects including genomic instability, neuroinflammation, and more. Together these findings indicate that impaired epigenetic maintenance, especially in repetitive genome regions, plays a key role in biological aging of neurons and glial cells. In this narrative review, we discuss the methylation dynamics and regulatory mechanisms of LINE-1 retrotransposons, their activation processes during aging, and contribution to age-associated neurological diseases. We also highlight the potential of targeting LINE-1 methylation to restore methylation homeostasis, epigenetic stability and delay brain aging.",
-      "journal": "Mechanisms of ageing and development",
-      "authors": [
-        "Armoundas AA",
-        "Piperi C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580558/"
-    },
-    {
-      "id": "pmid-42581247",
-      "pmid": "42581247",
-      "doi": "10.1007/s12035-026-06106-1",
-      "title": "LXR Pathway Activation by T0901317: A Novel Potential Experimental Strategy for ALS-Related Cognitive and Motor Impairments via Suppression of Necroptosis-associated RIPK1/RIPK3/MLKL Markers.",
-      "abstract": "To investigate the effects and mechanism of a synthetic LXR agonist, T0901317, on neuronal necroptosis-related signaling pathways in NSC-34 mouse neuronal cells transfected with the TDP-43-A315T plasmid, TDP-43-A315T transgenic mice of amyotrophic lateral sclerosis (ALS). SWATH proteinomics analysis was used to compare ALS patients with cognitive impairment (CI) and non-cognitive impairment (NOCI). TDP-43 abnormal aggregation and necroptosis-related protein expression were assessed with immunofluorescence and western blotting, while apoptosis and inflammatory cytokines were measured through TUNEL assay and ELISA, muscle and motor neuron degeneration were examined with H&E and Toluidine Blue staining. Additionally, the Y-maze and Rotarod tests were used to evaluate cognitive and motor functions. Our study indicates that the LXR pathway was more downregulated in the ALS patients with cognitive impairment. RIPK1, p-RIPK3, and p-MLKL protein levels were upregulated in the TDP-43-A315T plasmid-transfected neuron cells and the TDP-43-A315T transgenic mouse model. The LXR agonist T0901317 reduced the abnormal aggregation of TDP-43 protein and downregulated the protein levels of RIPK1, p-RIPK3, and p-MLKL in vivo and in vitro. Furthermore, T0901317 attenuated motor neuron death and ameliorated muscle degeneration in TDP-43-A315T mice. T0901317 significantly prolonged survival, ameliorated cognitive and motor deficits, and shifted microglial activation marker profiles. The beneficial effects of T0901317 were abolished by LXR antagonist GSK 2033, accompanied by upregulation of necroptotic signaling. The neuroprotective effects of activating LXR may involve the regulation of the RIPK1-RIPK3-MLKL axis and TDP-43 aggregation.",
-      "journal": "Molecular neurobiology",
-      "authors": [
-        "Zhang X",
-        "Zhang L",
-        "Chen L",
-        "Yu W",
-        "Zhao Y",
-        "Huang Y",
-        "Xu Z"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581247/"
-    },
-    {
-      "id": "pmid-42579090",
-      "pmid": "42579090",
-      "doi": "10.1007/s40291-026-00871-4",
-      "title": "Mapping the Synaptome in Neurodegeneration: Emerging Clinical Applications of SV2A PET Imaging.",
-      "abstract": "Synaptic loss is a core pathological feature of neurodegenerative disorders and closely relates to cognitive and functional decline. Positron emission tomography (PET) targeting synaptic vesicle glycoprotein 2A (SV2A) has recently emerged as a promising tool for the indirect assessment of presynaptic alterations in the living human brain. This leading article discusses the evolving clinical landscape of SV2A PET across the neurodegenerative spectrum, emphasizing its translational trajectory and emerging applications. Current evidence spans Alzheimer's disease (AD), other dementias, movement disorders, Huntington's disease (HD), and amyotrophic lateral sclerosis (ALS). The literature is currently dominated by PET with [ 11 C]UCB-J, while [ 18 F]-labeled tracers, particularly [ 18 F]SynVesT-1, are expanding clinical feasibility through longer half-life and broader distribution potential. Across disorders, PET consistently detected SV2A reductions that frequently correlated with cognition, disease severity, and complementary biomarkers, including amyloid, tau, glucose metabolism, and dopaminergic imaging. Although the field remains limited by small cohorts, heterogeneous quantification strategies, and incomplete longitudinal validation, SV2A PET is rapidly evolving into a promising translational tool for studying synaptopathies and monitoring disease progression.",
-      "journal": "Molecular diagnosis & therapy",
-      "authors": [
-        "Filippi L",
-        "Nuvoli S",
-        "Spanu A",
-        "Palumbo B"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42579090/"
-    },
-    {
-      "id": "pmid-42576610",
-      "pmid": "42576610",
-      "doi": "10.1080/08820139.2026.2689670",
-      "title": "Myokines, Microbiota, and Neuroinflammation: Physical Activity Modulates the Gut-Brain Axis.",
-      "abstract": "Neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis are increasingly recognized as disorders influenced not only by intrinsic neural pathology but also by systemic physiological networks, including the gut-brain axis. Emerging evidence highlights physical activity as a potent modulator of this bidirectional communication system, with muscle-derived signals particularly myokines, metabolites, and extracellular vesicles playing a central role. This narrative review synthesizes current knowledge on how exercise-induced molecular mediators influence gut microbiota composition, intestinal barrier integrity, immune signaling, and neuroinflammatory pathways. Findings were integrated across the disciplines of neuroscience, microbiology, and exercise physiology to evaluate mechanistic links between muscle-secreted factors and gut-mediated responses. Mechanistic links exist between muscle-secreted factors such as irisin, cathepsin B, BDNF-inducing pathways, and lactate with microbial metabolites including short-chain fatty acids. These interacting pathways demonstrate a combined impact on neuroprotection, synaptic plasticity, and the modulation of disease progression in neurodegenerative conditions. Physical activity represents a promising non-pharmacological strategy for modulating the gut-brain axis in neurodegenerative conditions. Understanding the interplay between muscle-derived signals and gut-mediated pathways may open new avenues for targeted interventions aimed at slowing or preventing neurodegenerative decline.",
-      "journal": "Immunological investigations",
-      "authors": [
-        "Yang Y",
-        "Yang Y",
-        "Tang Y",
-        "Yang W"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576610/"
-    },
-    {
-      "id": "pmid-42580389",
-      "pmid": "42580389",
-      "doi": "10.1016/j.phrs.2026.108383",
-      "title": "Neuron-derived neuroinflammation in neurodegenerative diseases: Mechanisms and intervention prospects.",
-      "abstract": "Neurodegenerative diseases represent a major global public health challenge, imposing substantial societal and economic burdens. Their complex pathogenesis and limited therapeutic options underscore an urgent need for new paradigms. Emerging evidence indicates that dysregulation of the brain's immune microenvironment is a critical driver of disease progression. Conventional wisdom posits that peripheral immune cells and central glial cells serve as the primary initiators of neuroimmune responses, whereas neurons are regarded merely as passive recipients of inflammatory damage. Emerging evidence suggests that upon receiving pathological signals in the central nervous system, neurons may become more vulnerable and participate in the onset of neuroimmune processes, positioning them as potential targets for early intervention in neurodegenerative diseases. This article systematically reviews the contribution of neuron-derived immune-inflammatory responses in neurodegenerative diseases and potential intervention strategies. We first outline the capacity of neurons to regulate neuroimmune responses and detail the underlying molecular mechanisms. Then we compare the specific mechanisms by which neurons with different susceptibility drive and amplify neuroinflammation in various neurodegenerative diseases such as alzheimer's disease, parkinson's disease, amyotrophic lateral sclerosis, vascular cognitive impairment, and transformed these mechanisms into intervention strategies targeting neurons. This article aims to break through the traditional concept of passive neuronal damage, systematically integrate intervention strategies that shift from targeting peripheral immune and glial cells to regulating neuron-derived immunity, thereby providing a new theoretical framework for overcoming current clinical limitations and identifying effective therapeutic targets for the prevention and treatment of neurodegenerative diseases.",
-      "journal": "Pharmacological research",
-      "authors": [
-        "Bu J",
-        "Nie X",
-        "Luo H",
-        "Wang J",
-        "Jiang D",
-        "Xu N",
-        "Zhuang P",
-        "Zhang Y",
-        "Yin Q"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580389/"
-    },
-    {
-      "id": "pmid-42581113",
-      "pmid": "42581113",
-      "doi": "10.1007/s00204-026-04518-5",
-      "title": "Oxidative stress and inflammation in neurodegenerative disorders.",
-      "abstract": "The brain's consumption of approximately 20% of the body's oxygen contributes to oxidative stress, a significant pathological factor in neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. This oxidative stress, linked to low levels of antioxidant enzymes, drives neuronal death by facilitating membrane peroxidation of fatty acids, proteins, and DNA. Alzheimer's disease is characterized by amyloid-beta (Aβ) plaque accumulation and hyperphosphorylated tau aggregates, both of which interact with mitochondria to generate reactive oxygen species (ROS). Aβ peptides bind metals such as iron and copper, catalyzing the formation of damaging hydroxyl radicals. Peripheral markers of oxidative damage, such as elevated malondialdehyde and protein carbonyls, are correlated with these processes in affected patients. In Parkinson's disease, the loss of dopaminergic neurons in the substantia nigra is associated with pathological iron accumulation and mitochondrial complex I dysfunction, which are worsened by misfolded α-synuclein and mutations in antioxidant genes such as PINK1 and Parkin. The autooxidation of dopamine also drives oxidative stress through the generation of hydrogen peroxide and reactive quinones. Huntington's disease involves the degeneration of medium spiny neurons in the striatum due to a polyglutamine repeat expansion in the huntingtin gene, which disrupts mitochondrial function and downregulates antioxidants, leading to excitotoxicity and ROS spikes. Amyotrophic lateral sclerosis primarily affects motor neurons due to the mutations in SOD1, which result in the production of aggregates that impair mitochondria and generate reactive nitrogen species (RNS), such as peroxynitrite. Mitigating oxidative stress in neurodegenerative disorders presents a considerable translational challenge. While low-molecular-weight antioxidant therapies for neurodegenerative disorders have shown promising results in preclinical and animal studies because they mitigate oxidative stress, their clinical efficacy is hampered by low bioavailability and difficulty in penetrating the blood‒brain barrier. To overcome these limitations, current medical research is focused on alternative delivery systems. Innovations such as nanoparticle-based drug delivery are being actively studied to help transport low-molecular-weight antioxidants across the blood‒brain barrier more safely and effectively. Several promising epidemiological trials linked high dietary intake of vitamins C and E to a reduced risk of Parkinson's disease, and plant-derived antioxidants such as polyphenols were explored for their ability to combat neuroinflammation and reduce cognitive decline. Refined oxidative stress-suppressing strategies involve the (ii) application of mitochondrial-targeted agents to preserve ATP production; (ii) boosting the Nrf2 pathway may trigger a cascade of detoxifying enzymes; (iii) supplementation with polyphenols such as quercetin, resveratrol, and curcumin can suppress oxidative stress and dampen microglial activation (neuroinflammation); (iv) and the use of substances affecting the bidirectional network linking oxidative stress and autophagy can clear ROS-generating components. Despite some promising epidemiological data, translating oral or systemic antioxidant therapy into effective clinical treatments for humans requires further effort. A survey of current knowledge of oxidative stress and antioxidant therapy in neurodegenerative diseases is the main subject of this review.",
-      "journal": "Archives of toxicology",
-      "authors": [
-        "Jomova K",
-        "Alomar SY",
-        "Valko R",
-        "Nepovimova E",
-        "Kuca K",
-        "Valko M"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581113/"
-    },
-    {
-      "id": "pmid-42575772",
-      "pmid": "42575772",
-      "doi": "10.1016/j.jvoice.2026.07.037",
-      "title": "Voice Disorders as Early Biomarkers of Cognitive Decline.",
-      "abstract": "Dementia affects greater than 57 million people worldwide. With an aging population and limited disease-curing treatments available, early identification of biomarkers is crucial. The 2020 Lancet Commission identified hearing loss as the largest modifiable risk factor for dementia globally, and a randomized controlled trial found that hearing intervention reduced 3-year cognitive change in older adults who were at increased risk for cognitive decline. Similarly, studies have found that abnormalities in acoustic measures of voice are correlated with cognitive status and can potentially predict decline. The association between hearing loss and cognitive decline might have both social and neurological mechanisms. Dysphonia might pose similar problems. Socially, voice disorders may reduce engagement in social and cognitively stimulating activities. Neurologically, one example is in Parkinson's disease in which the vagus nerve is one of the earliest sites of Lewy body pathology in Braak staging, and dysphonia and dysarthria can precede motor symptoms by years. Voice changes have been associated with different neurological conditions such as amyotrophic lateral sclerosis, multiple system atrophy, and Alzheimer's disease. Despite this, no prior large-scale study has examined whether diagnosed voice disorders are associated independently with incident cognitive decline. Our study is the first to examine this potential association, using the TriNetX US Collaborative Health Network platform to compare patients with diagnosed voice disorders and matched controls, with a hearing loss cohort as a standard of comparison given that it is the largest established modifiable risk factor for dementia, as dysphonia is also a modifiable condition. This study included 833,417 total patients in the voice disorders and control cohorts. Voice disorders were associated with a significantly elevated risk of incident cognitive decline compared to controls (HR=1.291, 95% CI 1.155-1.443, P<0.0001). Hearing loss alone was associated with a slightly lower risk of cognitive decline (HR=1.267, 95% CI 1.203-1.334, P<0.0001). Voice disorders without concurrent hearing loss were associated with an elevated risk of incident cognitive decline compared to hearing loss alone (HR=1.261, 95% CI 1.121-1.419, P=0.0001), while voice disorders with hearing loss were associated with the highest risk among all cohorts (HR=2.038 vs controls; HR=1.545 vs hearing loss). Both voice disorder subgroups did not differ when compared with each other (HR=1.088, P=0.376). The results from our study indicate that voice disorders are associated with an elevated risk of incident cognitive decline and may represent a stronger early biomarker than hearing loss alone. These findings highlight otolaryngology and family medicine/internal medicine encounters as potential entry points for cognitive assessment, and early voice treatment needs to be investigated for possible beneficial cognitive effect.",
-      "journal": "Journal of voice : official journal of the Voice Foundation",
-      "authors": [
-        "Russo AG",
-        "Hawkshaw MJ",
-        "Sataloff RT"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575772/"
     }
   ]
 }
