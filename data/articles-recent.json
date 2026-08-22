@@ -1,14 +1,30 @@
 {
-  "updatedAt": "2026-08-21T22:38:32.369Z",
+  "updatedAt": "2026-08-22T22:36:09.892Z",
   "period": {
     "days": 10,
-    "from": "2026-08-12",
-    "to": "2026-08-21"
+    "from": "2026-08-13",
+    "to": "2026-08-22"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 34,
   "articles": [
+    {
+      "id": "pmid-42628773",
+      "pmid": "42628773",
+      "doi": "10.1016/j.brainres.2026.150513",
+      "title": "A replicated astrocyte long non-coding RNA signature of Alzheimer's disease is inverted in amyotrophic lateral sclerosis.",
+      "abstract": "Reactive astrocyte transitions are central to neurological disease, yet their long non-coding RNA (lncRNA) regulators remain poorly defined, and single-nucleus studies frequently treat nuclei rather than donors as replicates. This study analyses publicly available human single-nucleus RNA sequencing from four disorders using donors as the unit of inference throughout: Alzheimer's disease (AD; middle temporal gyrus, 88 donors), C9orf72-associated amyotrophic lateral sclerosis and ALS/frontotemporal dementia (ALS; frontal cortex), multiple sclerosis (MS; cortex and white matter), and major depressive disorder (MDD; amygdala). The public MDD release pools nuclei by condition, so that arm cannot support donor-level inference and is exploratory only. Covariate-adjusted pseudobulk analysis of 70,009 CE astrocytes, controlling for sex, age at death and assay chemistry, identified 1,019 down-regulated autosomal lncRNAs after sex-chromosome transcripts were removed. This signature was not attributable to astrocyte subtype composition, which did not differ between groups, and 99.9% of members remained down-regulated within the dominant homeostatic subtype alone. The signature replicated in an independent AD cohort (32 of 41 testable members concordant; resampling P < 0.0001). Testing it outside AD gave a directional result: it was concordant in the MS discovery cohort (P < 0.0001) but inconclusive in an independent MS cohort in which the transcripts lay near the detection floor, and it was reproducibly inverted in ALS, in the C9orf72 discovery cohort and in an independent motor-cortex cohort not restricted to C9orf72 carriers. The inversion survived negative controls for global normalisation and expression level. These astrocyte lncRNA changes are therefore disorder-specific rather than pan-neuroinflammatory.",
+      "journal": "Brain research",
+      "authors": [
+        "Tani H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42628773/"
+    },
     {
       "id": "pmid-42627134",
       "pmid": "42627134",
@@ -396,7 +412,7 @@
       "pmid": "42600995",
       "doi": "10.1016/j.nbd.2026.107574",
       "title": "Circular RNAs in amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by the progressive loss of motor neurons, with most cases lacking a clear genetic basis. Emerging evidence highlights the involvement of non-coding RNAs, particularly circular RNAs (circRNAs), in disease onset and progression. Here, we investigated circRNAs implicated in ALS and related motor neuron diseases (MNDs). Here we provide a general overview of circular RNA metabolism and cellular functions. We then present our systematic literature review that identified ALS-associated circRNAs, followed by in silico analyses of 15 circular RNA candidates that were selected based on most compelling data regarding ALS. Our results revealed that several circular RNAs regulate ALS-related genes, such as unfolded protein response, oxidative stress, cell cycle regulation, and apoptosis. Protein-RNA interaction analysis further showed that ALS-related circRNAs can sponge 20 RNA-binding proteins. Additionally, molecular docking analysis demonstrated that ALS-associated FUS variants significantly alter its binding affinity to circular RNAs. RNA-seq data from ALS patients confirmed significant alterations in the expression of host genes of ALS-related circRNAs and hub proteins in ALS-affected CNS tissues. Collectively, our findings identify circRNAs as potential key contributors to ALS pathogenesis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by the progressive loss of motor neurons, with most cases lacking a clear genetic basis. Emerging evidence highlights the involvement of non-coding RNAs, particularly circular RNAs (circRNAs), in disease onset and progression. Here, we investigated circRNAs implicated in ALS and related motor neuron diseases (MNDs). Here, we provide a general overview of circular RNA metabolism and cellular functions. We then present our systematic literature review that identified ALS-associated circRNAs, followed by in silico analyses of 15 circular RNA candidates that were selected based on the most compelling data regarding ALS. Our results revealed that several circular RNAs regulate ALS-related genes, such as unfolded protein response, oxidative stress, cell cycle regulation, and apoptosis. Protein-RNA interaction analysis further showed that ALS-related circRNAs can sponge 20 RNA-binding proteins. Additionally, molecular docking analysis demonstrated that ALS-associated FUS variants significantly alter its binding affinity to circular RNAs. RNA-seq data from ALS patients confirmed significant alterations in the expression of host genes of ALS-related circRNAs and hub proteins in ALS-affected CNS tissues. Collectively, our findings identify circRNAs as potential key contributors to ALS pathogenesis.",
       "journal": "Neurobiology of disease",
       "authors": [
         "Ataei R",
@@ -763,208 +779,6 @@
       ],
       "publishedAt": "2026-08-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42592867/"
-    },
-    {
-      "id": "pmid-42586324",
-      "pmid": "42586324",
-      "doi": "10.1016/j.jpainsymman.2026.08.002",
-      "title": "Advance Care Planning in Amyotrophic Lateral Sclerosis: a retrospective population-based study.",
-      "abstract": ". In recent decades, autonomy and self-determination in Amyotrophic Lateral Sclerosis (ALS), have gained increasing attention, and Advance Care Planning (ACP) has been incorporated into ALS guidelines. In Italy, Law 219 emphasizes the role of ACP in respecting patients' healthcare preferences. However, longitudinal data on ACP prevalence and impact remain limited. . To assess the prevalence of ACP discussions in a population of ALS patients, their effectiveness in end-of-life management, and the impact of Law 219/2017. . Demographic and clinical data from the PARALS Register (2008-2020) were retrospectively examined, with particular focus on ACP discussions, tracheostomy preferences, and end-of-life outcomes. . Of 1219 ALS patients, 655 (53.7%) had ACP discussions, with 90.8% concordance between expressed choices and outcomes. The ACP prevalence increased over time from 51.6% to 61.94% (p = 0.025). Cognitive impairment, including fronto-temporal dementia and intermediate cognitive-behavioural impairment, and absence of NIMV use were negatively associated with ACP (p = 0.029 and p < 0.001). Older age was associated with tracheostomy placement (p < 0.001). ACP discussion was positively associated with gastrostomy placement, Palliative Care activation, and home death. . ACP plays a crucial role in ALS care, with high alignment between expressed choices and outcomes. Cognitive impairment reduced ACP participation, highlighting the need for earlier, tailored interventions. The ACP increase over the last decade reflects a growing emphasis on patient autonomy in Italy. Further efforts are needed to expand ACP adoption in ALS care, to support self-determination despite cognitive decline and disease progression.",
-      "journal": "Journal of pain and symptom management",
-      "authors": [
-        "Palumbo F",
-        "Iazzolino B",
-        "Canosa A",
-        "Manera U",
-        "Vasta R",
-        "Grassano M",
-        "Ilardi A",
-        "Cabras S",
-        "Matteoni E",
-        "Maccabeo A",
-        "Pede FD",
-        "De Mattei F",
-        "Pellegrino G",
-        "Minerva E",
-        "Riva-Rovedda F",
-        "Clari M",
-        "Zocco G",
-        "Pascariu D",
-        "Testa M",
-        "Arcari M",
-        "Veronese S",
-        "Chiò A",
-        "Moglia C",
-        "Calvo A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586324/"
-    },
-    {
-      "id": "pmid-42581131",
-      "pmid": "42581131",
-      "doi": "10.1007/s11481-026-10307-9",
-      "title": "cGAS-STING as a Neuroimmune Traffic Molecule: Unraveling Pathogenic Mechanisms and Therapeutic Potential in Neurological Disorders.",
-      "abstract": "The cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway is an essential cytosolic DNA-sensing system that plays an important role in the regulation of innate immune and inflammatory responses in the central nervous system (CNS). It was first discovered as a promising antiviral defense cascade and has since been shown to execute broader functions in neuroinflammation and neurodegeneration. The pathway can become hyperactive with the release of endogenous DNA from damaged nuclei, mitochondria, or genomic instability, leading to chronic production of type I interferon (TI-IFN), various pro-inflammatory cytokines, and eventually contributing to chronic neuroinflammatory diseases. Recent studies have found that dysregulated cGAS-STING signaling is associated with several neurological disorders, such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), traumatic brain injury (TBI), stroke, and age-related neurodegeneration. In the CNS, chronic activation of this pathway leads to activation of microglia, oxidative stress, breakdown of the blood-brain barrier (BBB), impaired function of the synapses, and neuronal death. Mitochondrial dysfunction and cytosolic release of mitochondrial DNA (mtDNA) further promote inflammatory signaling, thus perpetuating neurodegeneration. This review highlights the molecular and pathological mechanisms of cGAS-STING signaling in a broader aspect of neurological disorders and appraises the novel therapeutics already under development to inhibit this pathway to regulate neuroinflammation and enhance neurological outcomes.",
-      "journal": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
-      "authors": [
-        "Rahim A",
-        "Zubair SM",
-        "Ahamed M",
-        "Das S",
-        "Patel R",
-        "Debnath B",
-        "Porel P"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581131/"
-    },
-    {
-      "id": "pmid-42592497",
-      "pmid": "42592497",
-      "doi": "10.1039/d6sc03258c",
-      "title": "Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation.",
-      "abstract": "Alteration of cellular microenvironment viscosity by protein aggregation plays a crucial role as a biophysical parameter that reflects abnormal cellular behaviour, leading to neurodegenerative diseases such as Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration (FTLD), etc. Herein, we report the design and development of a series of coumarin fluorogen-based photoremovable protecting groups (PRPGs, 5a-d) with variations in substitutions tethered with a π-extended linker that integrate viscosity sensing with visible-light-triggered release of bioactive molecules. By introducing π-extended conjugation and systematic substitution, the coumarin fluorogen-based PRPGs exhibit twisted intramolecular charge transfer (TICT)-based fluorescence modulation in response to microenvironmental viscosity. Comprehensive photophysical and photochemical investigations, supported by theoretical calculations, identified PRPG 5d as the most sensitive viscosity-responsive system with green-light absorption. Under viscous conditions, restricted bond rotation suppresses nonradiative decay and photoisomerization, enabling efficient photorelease of the neuroprotective agent valproic acid. The versatility of PRPG 5d was demonstrated in biologically relevant in vitro models, including TDP-43 protein aggregation and Parkinson's disease induced SH-SY5Y neuroblastoma cells. In both extracellular and intracellular neurodegenerative environments, increased viscosity was effectively sensed, triggering light-mediated valproic acid release and subsequent defibrillation. Overall, this work establishes coumarin fluorogen-based PRPGs as a promising platform for viscosity-guided, spatiotemporally controlled drug release, offering potential applications in the diagnosis and targeted therapy of neurodegenerative diseases.",
-      "journal": "Chemical science",
-      "authors": [
-        "Pal S",
-        "Das S",
-        "Biswas S",
-        "Murugan SD",
-        "Jana NR",
-        "Chattopadhyay AP",
-        "Singh NDP"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592497/"
-    },
-    {
-      "id": "pmid-42585850",
-      "pmid": "42585850",
-      "doi": "10.1016/j.bjpt.2026.101623",
-      "title": "Falls in people with amyotrophic lateral sclerosis: A prospective study.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive muscle weakness. Falls are common and may lead to dependence, reduced quality of life, higher healthcare costs, and death. Few studies have examined falls in ALS. To investigate the frequency of falls in individuals with ALS with and without functional ambulation, and to identify predictors of falls at three and six months among those with functional ambulation. A longitudinal prospective study included 66 individuals with ALS. Falls were assessed through interviews at three- and six-month follow-ups. Demographic and clinical characteristics, functional capacity, lower limb strength, fatigue, mobility, and balance were assessed. Descriptive, bivariate, and logistic regression analyses were performed. At baseline, 42 participants were ambulatory and 24 non ambulatory (wheelchair-dependent). Among ambulatory participants, 38 were assessed at three months (18 fallers, 47%) and 37 at six months (22 fallers, 59%). Among non-ambulatory participants, 22 were assessed at three months (4 fallers, 18%) and 20 at six months (2 fallers, 10%). Losses in both groups were due to death. Predictors of falls in the ambulatory group were lower limb strength (Odds Ratio [OR]: 0.844; p = 0.016) and fatigue (OR: 7.800; p = 0.037) at three months, and lower limb strength (OR: 0.856; p = 0.009) at six months. Falls can occur across functional profiles in ALS and are most frequent among ambulatory individuals. These findings highlight the importance of assessing fall risk and considering strategies. In ambulatory participants, interventions focusing on lower limb strength and fatigue may contribute to fall prevention.",
-      "journal": "Brazilian journal of physical therapy",
-      "authors": [
-        "Alencar MA",
-        "Gonçalves JMW",
-        "D Allembert D",
-        "Rangel MFA",
-        "Gomes PCF",
-        "de Souza LC"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42585850/"
-    },
-    {
-      "id": "pmid-42584174",
-      "pmid": "42584174",
-      "doi": "10.1080/21678421.2026.2713969",
-      "title": "Lessons from a systematic review of family-based studies in ALS.",
-      "abstract": "ALS is genetically heterogeneous, with many causal genes identified through family-based gene-discovery studies. To evaluate this progress, we systematically reviewed these studies and identified unresolved genomic regions across five pedigrees. Reexamination resolved two pedigrees, nominating FUS and SYNE1 as the causal genes. The remaining three pedigrees exhibited linkage to four unresolved regions, which we reanalyzed using large-scale genetic datasets. We found no convincing evidence for new ALS-causing variants in these regions. These unresolved regions originated from complex pedigrees-consanguineous, isolated, or containing only a few affected individuals-whereas successful linkage was observed in larger, multigenerational families with ALS. Our findings confirm that family-based methods are robust in typical ALS pedigrees but lack power in small pedigrees with few affected individuals or in phenotypically heterogeneous families. Given these challenges and the rare-variant architecture of ALS, we propose a 'super-pedigree' framework to identify extended families with ALS to discover shared genetic risk factors and help develop gene-based therapies.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Wang BN",
-        "Van Der Spek RAA",
-        "Van Nispen Tot Sevenaer JDAM",
-        "Van Vugt JJFA",
-        "Munnik FA",
-        "Bakker MK",
-        "Project MinE ALS Sequencing Consortium",
-        "Van Es MA",
-        "Van Den Berg LH",
-        "Van Rheenen W",
-        "Veldink JH",
-        "List of Project MinE ALS Sequencing Consortium members:"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42584174/"
-    },
-    {
-      "id": "pmid-42586199",
-      "pmid": "42586199",
-      "doi": "10.1016/j.niox.2026.08.001",
-      "title": "Nuclear SOD1 links ATM-CHK2 signaling to ADH5/GSNOR transcription in SHSY-5Y SOD1 G93A cellular models of ALS.",
-      "abstract": "The activity of S-nitrosoglutathione reductase (ADH5/GSNOR) has been proposed being essential to limit oxidative stress and preserve mitochondrial quality control. Here we identify a redox-dependent ATM-CHK2-SOD1 signaling axis that drives ADH5/GSNOR transcription in SH-SY5Y cells expressing the ALS-associated SOD1 G93A mutant. ATM-CHK2 activation promotes the interaction of SOD1 with CHK2, leading to SOD1 nuclear translocation and binding to the ADH5 promoter. Pharmacological inhibition of ATM or CHK2 abolishes these effects. ADH5/GSNOR overexpression protects cells from SOD1 G93A -induced toxicity suggesting that the modulation of GSNOR activity may represent a potential strategy to restore redox homeostasis in ALS.",
-      "journal": "Nitric oxide : biology and chemistry",
-      "authors": [
-        "Pecorari C",
-        "Montagna C",
-        "Cozzolino M",
-        "D'Ambrosi N",
-        "Benassi B",
-        "Cirotti C",
-        "Filomeni G"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586199/"
-    },
-    {
-      "id": "pmid-42586601",
-      "pmid": "42586601",
-      "doi": "10.1136/svn-2026-005290",
-      "title": "Real-world clinical characteristics of motor disorders for personalised brain-computer interfaces: phenotypic insights from a specialised clinic.",
-      "abstract": "Motor dysfunction caused by neurological disorders such as stroke, spinal cord injury and amyotrophic lateral sclerosis has become a major global public health issue. Conventional rehabilitation approaches yield limited efficacy, highlighting the urgent need for innovative therapies. Brain-computer interface (BCI) technology offers a promising avenue for motor function restoration by decoding motor intentions and driving external devices or providing sensory feedback. However, current BCI development has predominantly emphasised technical performance metrics, lacking systematic investigation into the clinical characteristics of real-world patient populations. This disconnect between technological advancement and genuine clinical demands persists because existing studies often recruit idealised subjects while neglecting prevalent conditions like stroke and lack standardised assessments of clinically meaningful outcomes. Consequently, system designs frequently fail to align with patient-specific profiles. To address this gap, our study established a prospective BCI evaluation outpatient cohort, comprehensively collecting data from patients presenting with motor dysfunction throughout 2025. Among the total of 1641 patients with motor dysfunction, the majority were patients with chronic-phase stroke (1087, 66.24%). The cohort was primarily middle-aged, with a mean age of 45.93±11.23 years. The study further detailed patterns of muscle strength, joint range of motion and sensory impairments. The goal is to construct the first clinical profile characteristics to inform precise patient selection and guide personalised system design.",
-      "journal": "Stroke and vascular neurology",
-      "authors": [
-        "Chai X",
-        "Zheng Z",
-        "Wang N",
-        "He Q",
-        "Jia Y",
-        "Wan K",
-        "Zhu S",
-        "Zhang B",
-        "Niu H",
-        "Zhai Y",
-        "Zhao J",
-        "Yang Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586601/"
-    },
-    {
-      "id": "pmid-42581651",
-      "pmid": "42581651",
-      "doi": "10.1093/aje/kwag189",
-      "title": "The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration.",
-      "abstract": "The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in SELECT, a randomized trial conducted in North America for 7-12 years. 34 887 eligible men age 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non-Hodgkin lymphoma and Parkinson's disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long-term adverse effects of this organic selenium compound. (Registration no. NCT00006392).",
-      "journal": "American journal of epidemiology",
-      "authors": [
-        "Vinceti M",
-        "Till C",
-        "Goodman PJ",
-        "Filippini T",
-        "Rothman KJ",
-        "Thompson IM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581651/"
     }
   ]
 }

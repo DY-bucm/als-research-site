@@ -2,8 +2,6 @@
 
 - [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅 (pmid-42568821)
   - https://pubmed.ncbi.nlm.nih.gov/42568821/
-- [ ] 肌萎缩侧索硬化中常规炎症标志物与神经肌肉超声测量的性别相关差异：一项回顾性横断面研究 (pmid-42482658)
-  - https://pubmed.ncbi.nlm.nih.gov/42482658/
 - [ ] 犬肌萎缩侧索硬化疾病模型中一般本体感觉的病理学 (pmid-42520340)
   - https://pubmed.ncbi.nlm.nih.gov/42520340/
 - [ ] [高优先级] Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究） (pmid-42548788)
@@ -14,50 +12,46 @@
   - https://pubmed.ncbi.nlm.nih.gov/42614391/
 - [ ] 脑室内递送AAV9-synapsin启动子驱动的caveolin-1可减轻hSOD1 G93A小鼠的神经肌肉缺陷和神经肌肉变性 (pmid-42614372)
   - https://pubmed.ncbi.nlm.nih.gov/42614372/
-- [ ] [高优先级] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
+- [ ] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
   - https://pubmed.ncbi.nlm.nih.gov/42609516/
 - [ ] 肠道微生物群与大脑健康：疾病特异性通路与新兴治疗策略 (pmid-42542073)
   - https://pubmed.ncbi.nlm.nih.gov/42542073/
 - [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
-- [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联 (pmid-42525902)
+- [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联 (pmid-42525902)
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
-- [ ] [疑似误收] 基于RNA干扰（RNAi）的疗法用于治疗神经退行性疾病 (pmid-42627134)
+- [ ] [高优先级] 阿尔茨海默病中星形胶质细胞长链非编码RNA特征的重复验证及其在肌萎缩侧索硬化中的反向表达 (pmid-42628773)
+  - https://pubmed.ncbi.nlm.nih.gov/42628773/
+- [ ] [疑似误收] 基于RNA干扰（RNAi）的神经退行性疾病治疗策略 (pmid-42627134)
   - https://pubmed.ncbi.nlm.nih.gov/42627134/
-- [ ] 用于肌萎缩侧索硬化新联合疗法定量的绿色分析方法：EPPI框架评估 (pmid-42624937)
+- [ ] 用于肌萎缩侧索硬化新联合疗法定量分析的绿色分析方法：EPPI框架评估 (pmid-42624937)
   - https://pubmed.ncbi.nlm.nih.gov/42624937/
 - [ ] [高优先级] 神经元TAF15表达升高诱导氧化应激和焦虑相关行为缺陷 (pmid-42623241)
   - https://pubmed.ncbi.nlm.nih.gov/42623241/
 - [ ] 承担责任 (pmid-42447443)
   - https://pubmed.ncbi.nlm.nih.gov/42447443/
-- [ ] [疑似误收] 衰老相关神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力 (epmc-MED-42619255)
+- [ ] [疑似误收] 衰老性神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力 (epmc-MED-42619255)
   - https://doi.org/10.1002/adhm.71594
 - [ ] 丹麦饮食、癌症与健康研究队列中持久性有机污染物的疾病前生物标志物与肌萎缩侧索硬化生存期的关联 (epmc-MED-42619018)
   - https://doi.org/10.1002/ana.78334
-- [ ] [疑似误收] ALS的再生策略：干细胞与细胞外囊泡 (epmc-MED-42606797)
-  - https://doi.org/10.1186/s11671-026-04820-2
-- [ ] [疑似误收] 基于全基因组重测序的比较变异分析鉴定惠阳胡须鸡交叉喙表型相关候选基因 (epmc-PPR-PPR1299276)
-  - https://doi.org/10.64898/2026.08.11.744104
-- [ ] 肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究 (epmc-MED-42601592)
-  - https://doi.org/10.1002/mus.70378
-- [ ] Circular RNAs in 肌萎缩侧索硬化症. (epmc-MED-42600995)
-  - https://doi.org/10.1016/j.nbd.2026.107574
-- [ ] Identifying candidate therapeutic targets in 肌萎缩侧索硬化症 through a transcriptome-wide machine-learning consensus approach for drug repurposing. (epmc-MED-42600917)
-  - https://doi.org/10.1016/j.neuroscience.2026.08.017
-- [ ] Incidence and clinical characteristics of 肌萎缩侧索硬化症 during the post-COVID-19 Period: a population-based study from Isfahan, Iran. (epmc-MED-42599142)
-  - https://doi.org/10.1080/17582024.2026.2718409
-- [ ] [疑似误收] 待复核翻译：The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease. (epmc-MED-42596024)
-  - https://doi.org/10.1186/s13195-026-02157-7
-- [ ] Prescribing and monitoring of riluzole in 肌萎缩侧索硬化症: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury. (epmc-MED-42594365)
-  - https://doi.org/10.26635/6965.7367
-- [ ] [疑似误收] Long-term stability of cellular-resolution 脑机接口 recordings after stroke (epmc-PPR-PPR1298765)
-  - https://doi.org/10.64898/2026.08.09.742157
-- [ ] [疑似误收] 待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS (epmc-PPR-PPR1298569)
-  - https://doi.org/10.21203/rs.3.rs-9305370/v1
-- [ ] [疑似误收] 待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia (epmc-PPR-PPR1298416)
-  - https://doi.org/10.21203/rs.3.rs-8807051/v1
-- [ ] Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症 (epmc-PPR-PPR1298410)
-  - https://doi.org/10.21203/rs.3.rs-10690389/v1
+- [ ] [疑似误收] [高优先级] ALS诊断的金海岸标准：个体参与者数据荟萃分析 (epmc-MED-42618698)
+  - https://doi.org/10.1007/s00415-026-14046-y
+- [ ] [疑似误收] 高通量筛选鉴定二硫代氨基甲酸盐为一类破坏TDP-43蛋白稳态的化学物质 (epmc-PPR-PPR1301352)
+  - https://doi.org/10.64898/2026.08.14.741835
+- [ ] 全基因组分析揭示肌萎缩侧索硬化、散发性额颞叶痴呆与认知特征之间共享及独特的遗传结构 (epmc-PPR-PPR1301337)
+  - https://doi.org/10.64898/2026.08.17.26360494
+- [ ] [疑似误收] 待复核翻译：Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies. (epmc-MED-42616241)
+  - https://doi.org/10.1007/s13105-026-01219-6
+- [ ] Factors associated with requests for Medical Assistance in Dying (MAiD) referral among patients with 肌萎缩侧索硬化症 receiving specialist palliative care. (epmc-MED-42616178)
+  - https://doi.org/10.1007/s00415-026-14051-1
+- [ ] [疑似误收] 待复核翻译：Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023. (epmc-MED-42615866)
+  - https://doi.org/10.1080/21678421.2026.2717968
+- [ ] [疑似误收] 待复核翻译：PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications. (epmc-MED-42613642)
+  - https://doi.org/10.1186/s40035-026-00568-y
+- [ ] [疑似误收] Advances in the clinical application of mesenchymal 干细胞s for neurological disorders. (epmc-MED-42613627)
+  - https://doi.org/10.1186/s13287-026-05229-5
+- [ ] [疑似误收] 待复核翻译：Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances. (epmc-MED-42612795)
+  - https://doi.org/10.1016/j.trsl.2026.08.005
 - [ ] [高优先级] 待复核翻译：FUNCtion ALS: Aiming to Restore UNC13A Function in People Living With ALS (trial-NCT07674667)
   - https://clinicaltrials.gov/study/NCT07674667
 - [ ] [高优先级] A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS) (trial-NCT07071935)
@@ -88,5 +82,3 @@
   - https://clinicaltrials.gov/study/NCT02286011
 - [ ] [高优先级] Compassionate Use of Ceftriaxone in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT00718393)
   - https://clinicaltrials.gov/study/NCT00718393
-- [ ] [疑似误收] 待复核翻译：ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS. (epmc-MED-24340223)
-  - https://doi.org/10.2478/s13380-013-0118-1

@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-21T22:40:36.719Z",
+  "updatedAt": "2026-08-22T22:38:07.076Z",
   "summary": {
-    "totalItems": 45,
-    "issueCount": 47
+    "totalItems": 41,
+    "issueCount": 44
   },
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "pmid-42627134",
       "title": "RNA interference (RNA)-based therapeutics for treating neurodegenerative diseases.",
-      "titleZh": "基于RNA干扰（RNAi）的疗法用于治疗神经退行性疾病",
+      "titleZh": "基于RNA干扰（RNAi）的神经退行性疾病治疗策略",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
@@ -36,7 +36,7 @@
     {
       "id": "epmc-MED-42619255",
       "title": "Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.",
-      "titleZh": "衰老相关神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力",
+      "titleZh": "衰老性神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -45,81 +45,81 @@
       "url": "https://doi.org/10.1002/adhm.71594"
     },
     {
-      "id": "epmc-MED-42606797",
-      "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
-      "titleZh": "ALS的再生策略：干细胞与细胞外囊泡",
-      "category": "治疗",
-      "evidenceLevel": "动物/细胞实验",
+      "id": "epmc-MED-42618698",
+      "title": "Gold Coast criteria for ALS diagnosis: individual participant data meta-analysis.",
+      "titleZh": "ALS诊断的金海岸标准：个体参与者数据荟萃分析",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1007/s00415-026-14046-y"
+    },
+    {
+      "id": "epmc-PPR-PPR1301352",
+      "title": "High-Content Screening Identifies Dithiocarbamates As A Class Of Chemicals That Disrupts TDP-43 Proteostasis",
+      "titleZh": "高通量筛选鉴定二硫代氨基甲酸盐为一类破坏TDP-43蛋白稳态的化学物质",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.1186/s11671-026-04820-2"
+      "url": "https://doi.org/10.64898/2026.08.14.741835"
     },
     {
-      "id": "epmc-PPR-PPR1299276",
-      "title": "Whole-genome resequencing-based comparative variant analysis identifies candidate genes associated with cross-beak phenotype in Huiyang Bearded chickens",
-      "titleZh": "基于全基因组重测序的比较变异分析鉴定惠阳胡须鸡交叉喙表型相关候选基因",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.08.11.744104"
-    },
-    {
-      "id": "epmc-MED-42596024",
-      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "待复核翻译：The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
+      "id": "epmc-MED-42616241",
+      "title": "Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies.",
+      "titleZh": "待复核翻译：Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.1186/s13195-026-02157-7"
+      "url": "https://doi.org/10.1007/s13105-026-01219-6"
     },
     {
-      "id": "epmc-PPR-PPR1298765",
-      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
-      "titleZh": "Long-term stability of cellular-resolution 脑机接口 recordings after stroke",
+      "id": "epmc-MED-42615866",
+      "title": "Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023.",
+      "titleZh": "待复核翻译：Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023.",
       "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2717968"
+    },
+    {
+      "id": "epmc-MED-42613642",
+      "title": "PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
+      "titleZh": "待复核翻译：PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s40035-026-00568-y"
+    },
+    {
+      "id": "epmc-MED-42613627",
+      "title": "Advances in the clinical application of mesenchymal stem cells for neurological disorders.",
+      "titleZh": "Advances in the clinical application of mesenchymal 干细胞s for neurological disorders.",
+      "category": "治疗",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.08.09.742157"
-    },
-    {
-      "id": "epmc-PPR-PPR1298569",
-      "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "titleZh": "待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-9305370/v1"
+      "url": "https://doi.org/10.1186/s13287-026-05229-5"
     },
     {
-      "id": "epmc-PPR-PPR1298416",
-      "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
-      "titleZh": "待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
+      "id": "epmc-MED-42612795",
+      "title": "Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
+      "titleZh": "待复核翻译：Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
-    },
-    {
-      "id": "epmc-MED-24340223",
-      "title": "ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
-      "titleZh": "待复核翻译：ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.2478/s13380-013-0118-1"
+      "url": "https://doi.org/10.1016/j.trsl.2026.08.005"
     }
   ],
   "missingIdentifiers": [],
@@ -138,7 +138,7 @@
     {
       "id": "pmid-42627134",
       "title": "RNA interference (RNA)-based therapeutics for treating neurodegenerative diseases.",
-      "titleZh": "基于RNA干扰（RNAi）的疗法用于治疗神经退行性疾病",
+      "titleZh": "基于RNA干扰（RNAi）的神经退行性疾病治疗策略",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
@@ -149,7 +149,7 @@
     {
       "id": "epmc-MED-42619255",
       "title": "Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.",
-      "titleZh": "衰老相关神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力",
+      "titleZh": "衰老性神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -169,147 +169,103 @@
       "url": "https://doi.org/10.1002/ana.78334"
     },
     {
-      "id": "epmc-MED-42606797",
-      "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
-      "titleZh": "ALS的再生策略：干细胞与细胞外囊泡",
-      "category": "治疗",
-      "evidenceLevel": "动物/细胞实验",
+      "id": "epmc-MED-42618698",
+      "title": "Gold Coast criteria for ALS diagnosis: individual participant data meta-analysis.",
+      "titleZh": "ALS诊断的金海岸标准：个体参与者数据荟萃分析",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1007/s00415-026-14046-y"
+    },
+    {
+      "id": "epmc-PPR-PPR1301352",
+      "title": "High-Content Screening Identifies Dithiocarbamates As A Class Of Chemicals That Disrupts TDP-43 Proteostasis",
+      "titleZh": "高通量筛选鉴定二硫代氨基甲酸盐为一类破坏TDP-43蛋白稳态的化学物质",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.1186/s11671-026-04820-2"
+      "url": "https://doi.org/10.64898/2026.08.14.741835"
     },
     {
-      "id": "epmc-PPR-PPR1299276",
-      "title": "Whole-genome resequencing-based comparative variant analysis identifies candidate genes associated with cross-beak phenotype in Huiyang Bearded chickens",
-      "titleZh": "基于全基因组重测序的比较变异分析鉴定惠阳胡须鸡交叉喙表型相关候选基因",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.08.11.744104"
-    },
-    {
-      "id": "epmc-MED-42601592",
-      "title": "Poor Prognostic Factors After Gastrostomy in Patients With Amyotrophic Lateral Sclerosis: A Two-Center Retrospective Cohort Study.",
-      "titleZh": "肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究（双中心回顾性队列）",
+      "id": "epmc-PPR-PPR1301337",
+      "title": "Genome-wide analyses reveal shared and distinct genetic architecture linking amyotrophic lateral sclerosis, sporadic frontotemporal dementia and cognitive traits",
+      "titleZh": "全基因组分析揭示肌萎缩侧索硬化、散发性额颞叶痴呆与认知特征之间共享及独特的遗传结构",
+      "category": "临床试验",
+      "evidenceLevel": "预印本（未经同行评议），待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
-      "url": "https://doi.org/10.1002/mus.70378"
+      "url": "https://doi.org/10.64898/2026.08.17.26360494"
     },
     {
-      "id": "epmc-MED-42600995",
-      "title": "Circular RNAs in amyotrophic lateral sclerosis.",
-      "titleZh": "Circular RNAs in 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/j.nbd.2026.107574"
-    },
-    {
-      "id": "epmc-MED-42600917",
-      "title": "Identifying candidate therapeutic targets in amyotrophic lateral sclerosis through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
-      "titleZh": "Identifying candidate therapeutic targets in 肌萎缩侧索硬化症 through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.neuroscience.2026.08.017"
-    },
-    {
-      "id": "epmc-MED-42599142",
-      "title": "Incidence and clinical characteristics of amyotrophic lateral sclerosis during the post-COVID-19 Period: a population-based study from Isfahan, Iran.",
-      "titleZh": "Incidence and clinical characteristics of 肌萎缩侧索硬化症 during the post-COVID-19 Period: a population-based study from Isfahan, Iran.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/17582024.2026.2718409"
-    },
-    {
-      "id": "epmc-MED-42596024",
-      "title": "The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
-      "titleZh": "待复核翻译：The UNC13A cryptic exon associates with cognitive impairment in Alzheimer's disease.",
+      "id": "epmc-MED-42616241",
+      "title": "Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies.",
+      "titleZh": "待复核翻译：Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.1186/s13195-026-02157-7"
+      "url": "https://doi.org/10.1007/s13105-026-01219-6"
     },
     {
-      "id": "epmc-MED-42594365",
-      "title": "Prescribing and monitoring of riluzole in amyotrophic lateral sclerosis: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury.",
-      "titleZh": "Prescribing and monitoring of riluzole in 肌萎缩侧索硬化症: a retrospective cohort study from Health New Zealand - Te Whatu Ora Waitaha Canterbury.",
-      "category": "治疗",
+      "id": "epmc-MED-42616178",
+      "title": "Factors associated with requests for Medical Assistance in Dying (MAiD) referral among patients with amyotrophic lateral sclerosis receiving specialist palliative care.",
+      "titleZh": "Factors associated with requests for Medical Assistance in Dying (MAiD) referral among patients with 肌萎缩侧索硬化症 receiving specialist palliative care.",
+      "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.26635/6965.7367"
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s00415-026-14051-1"
     },
     {
-      "id": "epmc-PPR-PPR1298765",
-      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke",
-      "titleZh": "Long-term stability of cellular-resolution 脑机接口 recordings after stroke",
+      "id": "epmc-MED-42615866",
+      "title": "Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023.",
+      "titleZh": "待复核翻译：Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023.",
       "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2717968"
+    },
+    {
+      "id": "epmc-MED-42613642",
+      "title": "PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
+      "titleZh": "待复核翻译：PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s40035-026-00568-y"
+    },
+    {
+      "id": "epmc-MED-42613627",
+      "title": "Advances in the clinical application of mesenchymal stem cells for neurological disorders.",
+      "titleZh": "Advances in the clinical application of mesenchymal 干细胞s for neurological disorders.",
+      "category": "治疗",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.08.09.742157"
-    },
-    {
-      "id": "epmc-PPR-PPR1298569",
-      "title": "Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "titleZh": "待复核翻译：Multi-omic machine learning overcomes transcriptomic blind spots to rescue therapeutic targets in ALS",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-9305370/v1"
+      "url": "https://doi.org/10.1186/s13287-026-05229-5"
     },
     {
-      "id": "epmc-PPR-PPR1298416",
-      "title": "DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
-      "titleZh": "待复核翻译：DHTKD1 exon deletion associated with sporadic cerebellar ataxia",
+      "id": "epmc-MED-42612795",
+      "title": "Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
+      "titleZh": "待复核翻译：Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-8807051/v1"
-    },
-    {
-      "id": "epmc-PPR-PPR1298410",
-      "title": "Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Evidence for Reactivation of Embryonic Cytoskeletal Remodeling Programs, silenced decades earlier, in 肌萎缩侧索硬化症",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-10690389/v1"
-    },
-    {
-      "id": "epmc-MED-24340223",
-      "title": "ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
-      "titleZh": "待复核翻译：ASTROCYTES: EMERGING STARS IN LEUKODYSTROPHY PATHOGENESIS.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.2478/s13380-013-0118-1"
+      "url": "https://doi.org/10.1016/j.trsl.2026.08.005"
     }
   ],
   "highPriorityNeedsReview": [
@@ -318,7 +274,7 @@
       "title": "Tofersen Treatment in SOD1 -ALS: Real-World Evidence from a Retrospective Multicenter Study in France (FORSLA Study).",
       "titleZh": "Tofersen治疗SOD1-ALS：法国多中心回顾性研究的真实世界证据（FORSLA研究）",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（回顾性多中心队列，含倾向评分匹配对照）",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
@@ -340,27 +296,16 @@
       "title": "Neutralization of pathogenic PC-OxPL by AAV-delivered scFv as a therapeutic strategy for amyotrophic lateral sclerosis.",
       "titleZh": "通过AAV递送的scFv中和致病性PC-OxPL作为肌萎缩侧索硬化症的治疗策略",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（患者CSF分析）结合临床前机制与干预研究",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42614391/"
     },
     {
-      "id": "pmid-42609516",
-      "title": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
-      "titleZh": "神经退行性疾病中的细胞死亡：分子机制与治疗靶点",
-      "category": "临床试验",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
-    },
-    {
       "id": "pmid-42525902",
       "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
-      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联",
+      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 7,
@@ -369,15 +314,37 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
     },
     {
+      "id": "pmid-42628773",
+      "title": "A replicated astrocyte long non-coding RNA signature of Alzheimer's disease is inverted in amyotrophic lateral sclerosis.",
+      "titleZh": "阿尔茨海默病中星形胶质细胞长链非编码RNA特征的重复验证及其在肌萎缩侧索硬化中的反向表达",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42628773/"
+    },
+    {
       "id": "pmid-42623241",
       "title": "Elevated neuronal TAF15 expression induces oxidative stress and anxiety-related behavioral deficits.",
       "titleZh": "神经元TAF15表达升高诱导氧化应激和焦虑相关行为缺陷",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "观察性临床研究（患者组织分析）结合机制性细胞与动物实验",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42623241/"
+    },
+    {
+      "id": "epmc-MED-42618698",
+      "title": "Gold Coast criteria for ALS diagnosis: individual participant data meta-analysis.",
+      "titleZh": "ALS诊断的金海岸标准：个体参与者数据荟萃分析",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1007/s00415-026-14046-y"
     },
     {
       "id": "trial-NCT07674667",
@@ -549,15 +516,15 @@
   "issueCounts": {
     "疑似误收": 9,
     "缺标识符": 0,
-    "缺摘要": 17,
-    "高优先级待复核": 21,
+    "缺摘要": 13,
+    "高优先级待复核": 22,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 45
+    "待复核": 41
   },
   "relevanceCounts": {
-    "medium": 12,
+    "medium": 8,
     "high": 24,
     "low": 9
   }
