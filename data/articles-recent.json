@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T22:36:09.892Z",
+  "updatedAt": "2026-08-23T22:35:53.743Z",
   "period": {
     "days": 10,
-    "from": "2026-08-13",
-    "to": "2026-08-22"
+    "from": "2026-08-14",
+    "to": "2026-08-23"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 34,
+  "count": 27,
   "articles": [
     {
       "id": "pmid-42628773",
@@ -103,6 +103,26 @@
       ],
       "publishedAt": "2026-08-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624937/"
+    },
+    {
+      "id": "pmid-42630952",
+      "pmid": "42630952",
+      "doi": "10.1162/IMAG.a.1343",
+      "title": "Metabolic connectivity alterations in amyotrophic lateral sclerosis: Individual network analysis based on Wasserstein distances.",
+      "abstract": "Molecular connectivity analysis with positron emission tomography (PET) imaging offers a promising approach for characterising brain network alterations in neurodegenerative disorders. In this study, we introduce Wasserstein distance (WD) as an alternative to Kullback-Leibler divergence similarity estimation (KLSE) for constructing single-subject metabolic connectivity networks. Using 18 F-FDG PET data from 167 individuals with amyotrophic lateral sclerosis (ALS), 36 healthy volunteers (HV), and 25 ALS mimics, we generated WD- and KLSE-based connectivity matrices across 77 atlas-defined brain regions and evaluated corresponding graph theory-based nodal metrics. WD- and KLSE-derived nodal measures were strongly correlated, indicating methodological consistency. Compared with HVs, age-matched subjects in the ALS group (ALS amHV ) showed significant alterations in frontal, temporal, cerebellar, and occipital network nodes, with WD-based metrics revealing differences across more brain regions than the KLSE-based approach. Support vector machine classification of ALS amHV vs. HV demonstrated that both connectivity approaches matched voxel-wise PET performance with accuracy higher than 0.80 (yet significantly lower than voxel-wise data, p < 0.05 ), while significantly outperforming image-based classification for ALS vs. ALS mimics ( p < 0.01 ), with WD achieving the highest accuracy of 0.65 ( p < 0.001 ). These findings support WD-based metabolic connectivity as a sensitive, data-efficient framework for detecting disease-related network alterations and motivate its application to a broader range of PET tracers and cohorts.",
+      "journal": "Imaging neuroscience (Cambridge, Mass.)",
+      "authors": [
+        "Tang C",
+        "De Vocht J",
+        "Van Damme P",
+        "Van Laere K",
+        "Koole M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42630952/"
     },
     {
       "id": "pmid-42619018",
@@ -597,188 +617,6 @@
       ],
       "publishedAt": "2026-08-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42596024/"
-    },
-    {
-      "id": "pmid-42595352",
-      "pmid": "42595352",
-      "doi": "10.1136/jnnp-2026-339165",
-      "title": "Associations of self-reported and objectively measured physical activity and amyotrophic lateral sclerosis risk.",
-      "abstract": "The role of physical activity in the risk of amyotrophic lateral sclerosis (ALS) is debated. It is also unclear whether the association differs in people at high genetic risk of ALS. The strength and shape of the association between self-reported and device-measured physical activity and incident diagnosis of ALS in the UK Biobank cohort was analysed using Cox regression, adjusting for potential confounders. Cubic splines were used to assess non-linearity. Analyses were performed in the entire cohort and restricted to those with increased genetic risk due to C9ORF72 expansion carriage or C-allele homozygosity at rs12608932 in UNC13A . Among 384 836 participants with valid questionnaire data, the median age at recruitment was 57.0 years (IQR 50.0-63.0) and median follow-up was for 14.0 years (IQR 13.3-14.6), with 541 incident diagnoses of ALS. Higher self-reported physical activity was associated with a lower risk of ALS (HR high vs low =0.77, 95% CI 0.61 to 0.96). The relationship was non-linear, with lowest risk in those in the mid-range self-reported activity. Higher overall device-measured activity was also associated with a lower risk of ALS (HR per 1SD = 0.75, 95% CI 0.58 to 0.97, n=96 570, 98 ALS events) but with a linear dose-response relationship. The association of physical activity with ALS was similar in individuals with C-allele homozygosity at rs12608932 in UNC13A and directionally consistent but not statistically significant in C9ORF72- HRE carriers (n=535, 56 ALS events). Higher self-reported and device-measured overall physical activity were associated with a lower risk of ALS overall, but with a potentially non-linear dose-response relationship.",
-      "journal": "Journal of neurology, neurosurgery, and psychiatry",
-      "authors": [
-        "Gao J",
-        "Chalitsios CV",
-        "Bennett D",
-        "Doherty A",
-        "Turner MR",
-        "Thompson AG"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42595352/"
-    },
-    {
-      "id": "pmid-42595782",
-      "pmid": "42595782",
-      "doi": "10.1038/s41418-026-01701-0",
-      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
-      "abstract": "",
-      "journal": "Cell death and differentiation",
-      "authors": [
-        "Hetz C",
-        "Thielen P",
-        "Fisher J",
-        "Pasinelli P",
-        "Brown RH",
-        "Korsmeyer S",
-        "Glimcher L"
-      ],
-      "publicationTypes": [
-        "Published Erratum"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42595782/"
-    },
-    {
-      "id": "pmid-42586744",
-      "pmid": "42586744",
-      "doi": "10.1620/tjem.2026.J085",
-      "title": "Emergency Tracheostomy with Invasive Ventilation in Patients with Amyotrophic Lateral Sclerosis Increases Hospitalization Duration and Long-Term Complications.",
-      "abstract": "",
-      "journal": "The Tohoku journal of experimental medicine",
-      "authors": [
-        "Shijo T",
-        "Suzuki N",
-        "Warita H",
-        "Ikeda K",
-        "Namioka Y",
-        "Kato M",
-        "Aoki M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586744/"
-    },
-    {
-      "id": "pmid-42533617",
-      "pmid": "42533617",
-      "doi": "10.1080/15548627.2026.2711596",
-      "title": "Mitophagy in neurodegeneration: crosstalk between PRKN/parkin-dependent and PRKN-independent pathways.",
-      "abstract": "Mitochondrial quality control is essential for cellular homeostasis, particularly in neurons, where mitochondrial dysfunction is implicated in the pathogenesis of neurodegenerative diseases. Mitophagy, the selective degradation of damaged or superfluous mitochondria, plays a central role in maintaining mitochondrial integrity and metabolic balance. This review provides a comprehensive overview of the best-characterized PINK1-PRKN/parkin-dependent mitophagy pathway and the expanding repertoire of PRKN-independent mechanisms, including additional ubiquitin-dependent, receptor-mediated, and lipid-mediated pathways. We explore how these pathways intersect and compensate for one another, highlighting the complexity and adaptability of mitochondrial quality control networks. Furthermore, we discuss how dysregulated mitophagy contributes to the onset and progression of neurodegenerative diseases. By examining the interplay between mitophagy pathways and their regulation under physiological and pathological conditions, this review underscores the therapeutic potential of targeting mitophagy in neurodegeneration. Future studies should aim to decode the spatiotemporal dynamics of these pathways to uncover novel opportunities for clinical intervention. Abbreviations: AD: Alzheimer disease; ALS: amyotrophic lateral sclerosis; AMBRA1: autophagy and beclin 1 regulator 1; AMFR/GP78: autocrine motility factor receptor; AMPK: AMP-activated protein kinase; ARIH1: ariadne RBR E3 ubiquitin protein ligase 1; ATG: autophagy related; Aβ: amyloid beta; BCL2L13: BCL2 like 13; BNIP3: BCL2 interacting protein 3; BNIP3L/NIX: BCL2 interacting protein 3 like; CALCOCO2/NDP52: calcium binding and coiled-coil domain 2; CAMc: core autophagy machinery components; CSNK2/CK2: casein kinase 2; DUB: deubiquitinase; DNM1L/DRP1: dynamin 1 like; FKBP8: FKBP prolyl isomerase 8; FUNDC1: FUN14 domain containing 1; GABARAP: GABA type A receptor-associated protein; GLP-1: glucagon-like peptide 1; HD: Huntington disease; HUWE1: HECT, UBA and WWE domain containing E3 ubiquitin protein ligase 1; IMM: inner mitochondrial membrane; iPSC: induced pluripotent stem cell; LIR: LC3-interacting region; MAP1LC3/LC3: microtubule associated protein 1 light chain 3; MARCHF5: membrane associated ring-CH-type finger 5; MCL1: MCL1 apoptosis regulator, BCL2 family member; MDV: mitochondria-derived vesicle; MFN1: mitofusin 1; MFN2: mitofusin 2; MQC: mitochondrial quality control; mtDNA: mitochondrial DNA; MUL1: mitochondrial E3 ubiquitin protein ligase 1; NBR1: NBR1 autophagy cargo receptor; OMM: outer mitochondrial membrane; OMMAD: outer mitochondrial membrane-associated degradation; OPA1: OPA1 mitochondrial dynamin like GTPase; OPTN: optineurin; OXPHOS: oxidative phosphorylation; PARL: presenilin associated rhomboid like; PD: Parkinson disease; PE: phosphatidylethanolamine; PG: phagophore; PGAM5: PGAM family member 5, mitochondrial serine/threonine protein phosphatase; PINK1: PTEN induced kinase 1; PPARGC1A/PGC-1α: PPARG coactivator 1 alpha; PRKN/parkin: parkin RBR E3 ubiquitin protein ligase; PtdIns3K: phosphatidylinositol 3-kinase; RB1CC1/FIP200: RB1 inducible coiled-coil 1; RHOT1/Miro1: ras homolog family member T1; ROS: reactive oxygen species; SIAH1: siah E3 ubiquitin protein ligase 1; SMURF1: SMAD specific E3 ubiquitin protein ligase 1; SOD1: superoxide dismutase 1; SQSTM1/p62: sequestosome 1; TAX1BP1: Tax1 binding protein 1; TBK1: TANK binding kinase 1; TCA: tricarboxylic acid cycle; TFAM: transcription factor A, mitochondrial; TIMM: translocase of inner mitochondrial membrane; TOMM: translocase of outer mitochondrial membrane; Ub: ubiquitin; ULK1: unc-51 like autophagy activating kinase 1; UPRmt: mitochondrial unfolded protein response; UPS: ubiquitin-proteasome system; USP30: ubiquitin specific peptidase 30; VCP: valosin containing protein; VDAC: voltage dependent anion channel; WIPI: WD repeat domain, phosphoinositide interacting.",
-      "journal": "Autophagy",
-      "authors": [
-        "Rasmussen LK",
-        "Gomes Moreira D",
-        "Okarmus J",
-        "Simonsen A",
-        "Meyer M"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42533617/"
-    },
-    {
-      "id": "pmid-42594043",
-      "pmid": "42594043",
-      "doi": "10.1159/000551599",
-      "title": "Motor Neuron Disease Mortality in the United States, 2010-2023: A demographic, geographic, and temporal analysis.",
-      "abstract": "Our objective was to calculate age-adjusted motor-neuron disease (MND) mortality rates in the United States, 2010-2023, by year, age, sex, race, origin, period, and state. Amyotrophic lateral sclerosis makes up almost 80% of all MNDs. Multiple cause mortality data was obtained from the National Center for Health Statistics (NCHS) for years 2010-2023. Cases were included if code G12.2, the code for MND listed in the International Classification of Disease, 10th Revision (ICD-10), was listed as a cause of death. Using the direct method, cases were age-adjusted to the 2000 U.S. Standard population and mortality rates were calculated. The overall national MND associated mortality rate was 2.07 per 100,000 population (95% CI 2.06, 2.09). Rates were highest in those aged 80+ years (13.69, 95% CI 13.49, 13.89) at death, non-Hispanic (2.17, 95% CI 2.15, 2.18), and male (2.50, 95% CI 2.48, 2.52). Northern states had higher rates (2.26, 95% CI 2.23, 2.29) with a rate ratio of (1.05, (95% CI 1.04, 1.07) when compared to the middle state tier (2.14, 95% CI 2.12, 2.17, p<0.01). State rates ranged from 3.07 (95% CI 2.75, 3.42) in Vermont to 1.41 (95% CI 1.27, 1.57) in Hawaii. The average annual percentage change was -1.62, corresponding to a statistically significant negative trend. MND associated mortality rates were higher among northern states, decedents who were male, White, or non-Hispanic, which is consistent with previous studies of U.S. MND mortality. Decreasing mortality rates may indicate longer patient life spans due to increased treatment options and care access, but further research is needed.",
-      "journal": "Neuroepidemiology",
-      "authors": [
-        "Nair T",
-        "Larson T",
-        "Raymond J",
-        "Horton DK",
-        "Mehta P"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42594043/"
-    },
-    {
-      "id": "pmid-42593908",
-      "pmid": "42593908",
-      "doi": "10.1021/acs.jmedchem.6c01882",
-      "title": "Selective Brain-Penetrant TTBK1 Inhibitors Modulate TDP-43 Pathology and Rescue Cognitive Deficits in a Mouse Model of TDP-43 Proteinopathy.",
-      "abstract": "Transactive response DNA-binding protein of 43 kDa (TDP-43) is a pathological hallmark of neurodegenerative disorders, including amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Modulation of TDP-43 pathology represents a promising disease-modifying strategy. Tau tubulin kinase 1 (TTBK1) has emerged as a relevant therapeutic target; however, selectivity over the TTBK2 isoform is required to avoid ciliogenesis-related liabilities. Here, we report the discovery of selective, brain-penetrant TTBK1 inhibitors through a structure-guided medicinal chemistry program. Lead compounds exhibit potent and selective TTBK1 inhibition, no impact on ciliogenesis, and central nervous system exposure. We found that these inhibitors reduce TDP-43 phosphorylation levels in neuroblastoma cells and FTD patient-derived models. The optimized lead compound demonstrated a brain-to-plasma ratio of 3:1, a maximum tolerated dose, and a wide therapeutic window. In vivo, administration restored cognitive deficits, conferred neuroprotection in the frontal cortex, and reduced microglial activation in an FTD-TDP mouse model, supporting its therapeutic potential.",
-      "journal": "Journal of medicinal chemistry",
-      "authors": [
-        "Sanchez-Santos C",
-        "Jimenez-Amor A",
-        "Martinez-Gonzalez L",
-        "Nozal V",
-        "Martin-Morales R",
-        "Aledavood E",
-        "Bausela D",
-        "Merrigan K",
-        "Diaz-Palacios K",
-        "Zhubi R",
-        "Knapp S",
-        "Garcia-Gonzalo FR",
-        "Rodriguez-Cueto C",
-        "Gil C",
-        "de Lago E",
-        "Martinez A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593908/"
-    },
-    {
-      "id": "pmid-42592720",
-      "pmid": "42592720",
-      "doi": "10.5603/pjnns.113584",
-      "title": "Severe hypersensitivity reaction during tofersen therapy in amyotrophic lateral sclerosis associated with the rare SOD1 p.Val120Phe mutation.",
-      "abstract": "",
-      "journal": "Neurologia i neurochirurgia polska",
-      "authors": [
-        "Żur-Wyrozumska K"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592720/"
-    },
-    {
-      "id": "pmid-42592867",
-      "pmid": "42592867",
-      "doi": "10.1080/21678421.2026.2715921",
-      "title": "The EQ-5D-5L in amyotrophic lateral sclerosis: an international longitudinal exploration as part of ALS-CarE.",
-      "abstract": "The EuroQol 5-Dimension 5-Level questionnaire (EQ-5D-5L) is widely used in health outcomes research, but its longitudinal performance in amyotrophic lateral sclerosis (ALS), particularly across international cohorts, remains poorly characterized. This study examined whether the EQ-5D-5L captures clinically meaningful change over time in ALS and how national value sets influence interpretation of that change. EQ-5D-5L data from 296 patients across six European ALS centers in five countries were analyzed over 18.6 months (IQR 17.9-20.8). Baseline and follow-up assessments were compared using the Paretian Classification of Health Change and Health Profile Grids. Country-specific tariffs were applied to identical health-state transitions. Associations between EQ-5D measures and King's stage were assessed. Overall health states worsened over time, although mixed change remained common (31.0%-39.0%), reflecting simultaneous improvement and deterioration across dimensions. Pain/discomfort and anxiety/depression were the only domains showing notable improvement at later follow-up. Mean health-state ranks worsened from 619.65 at baseline to 857.20 at follow-up. However, the apparent magnitude of progression differed substantially according to national tariff selection, with pooled mean utility change ranging from -0.081 under the Dutch tariff to -0.112 under the Italian tariff. Both EQ-5D index and visual analog scale scores correlated with progression according to the King's staging system. The EQ-5D-5L captures plausible longitudinal deterioration in ALS, but interpretation is strongly influenced by valuation context. National tariffs may materially alter the apparent size of quality-of-life change in multinational ALS studies.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "McFarlane R",
-        "Anneser J",
-        "Al-Chalabi A",
-        "Chiò A",
-        "Mcdermott CJ",
-        "Meyer T",
-        "Mora G",
-        "Sermeus W",
-        "Stavroulakis T",
-        "Tappenden P",
-        "Van Den Berg LH",
-        "Winkler AS",
-        "Galvin M",
-        "Hardiman O"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592867/"
     }
   ]
 }

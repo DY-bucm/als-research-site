@@ -12,33 +12,37 @@
   - https://pubmed.ncbi.nlm.nih.gov/42614391/
 - [ ] 脑室内递送AAV9-synapsin启动子驱动的caveolin-1可减轻hSOD1 G93A小鼠的神经肌肉缺陷和神经肌肉变性 (pmid-42614372)
   - https://pubmed.ncbi.nlm.nih.gov/42614372/
-- [ ] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
+- [ ] [高优先级] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
   - https://pubmed.ncbi.nlm.nih.gov/42609516/
 - [ ] 肠道微生物群与大脑健康：疾病特异性通路与新兴治疗策略 (pmid-42542073)
   - https://pubmed.ncbi.nlm.nih.gov/42542073/
 - [ ] 军人中的肌萎缩侧索硬化：一种统一的风险？ (pmid-42525906)
   - https://pubmed.ncbi.nlm.nih.gov/42525906/
-- [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联 (pmid-42525902)
+- [ ] [高优先级] 美国退伍军人中军种和军衔与肌萎缩侧索硬化发病率的关联 (pmid-42525902)
   - https://pubmed.ncbi.nlm.nih.gov/42525902/
-- [ ] [高优先级] 阿尔茨海默病中星形胶质细胞长链非编码RNA特征的重复验证及其在肌萎缩侧索硬化中的反向表达 (pmid-42628773)
+- [ ] [高优先级] 阿尔茨海默病中星形胶质细胞长链非编码RNA特征在肌萎缩侧索硬化中呈反向表达 (pmid-42628773)
   - https://pubmed.ncbi.nlm.nih.gov/42628773/
 - [ ] [疑似误收] 基于RNA干扰（RNAi）的神经退行性疾病治疗策略 (pmid-42627134)
   - https://pubmed.ncbi.nlm.nih.gov/42627134/
+- [ ] [疑似误收] 酵母DENN结构域蛋白Avl9参与内体货物的回收与分选 (epmc-MED-42459062)
+  - https://doi.org/10.1242/jcs.264716
 - [ ] 用于肌萎缩侧索硬化新联合疗法定量分析的绿色分析方法：EPPI框架评估 (pmid-42624937)
   - https://pubmed.ncbi.nlm.nih.gov/42624937/
 - [ ] [高优先级] 神经元TAF15表达升高诱导氧化应激和焦虑相关行为缺陷 (pmid-42623241)
   - https://pubmed.ncbi.nlm.nih.gov/42623241/
-- [ ] 承担责任 (pmid-42447443)
-  - https://pubmed.ncbi.nlm.nih.gov/42447443/
-- [ ] [疑似误收] 衰老性神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力 (epmc-MED-42619255)
+- [ ] 肌萎缩侧索硬化中的代谢连接性改变：基于Wasserstein距离的个体网络分析 (epmc-MED-42630952)
+  - https://doi.org/10.1162/imag.a.1343
+- [ ] [疑似误收] 角膜共聚焦显微镜作为神经退行性疾病中的辅助检查：一项范围综述 (epmc-MED-41605610)
+  - https://doi.org/10.1136/bjo-2025-328181
+- [ ] [疑似误收] 衰老相关神经退行性疾病中的线粒体靶向纳米治疗：新兴前景与临床潜力 (epmc-MED-42619255)
   - https://doi.org/10.1002/adhm.71594
 - [ ] 丹麦饮食、癌症与健康研究队列中持久性有机污染物的疾病前生物标志物与肌萎缩侧索硬化生存期的关联 (epmc-MED-42619018)
   - https://doi.org/10.1002/ana.78334
 - [ ] [疑似误收] [高优先级] ALS诊断的金海岸标准：个体参与者数据荟萃分析 (epmc-MED-42618698)
   - https://doi.org/10.1007/s00415-026-14046-y
-- [ ] [疑似误收] 高通量筛选鉴定二硫代氨基甲酸盐为一类破坏TDP-43蛋白稳态的化学物质 (epmc-PPR-PPR1301352)
+- [ ] [疑似误收] 待复核翻译：High-Content Screening Identifies Dithiocarbamates As A Class Of Chemicals That Disrupts TDP-43 Proteostasis (epmc-PPR-PPR1301352)
   - https://doi.org/10.64898/2026.08.14.741835
-- [ ] 全基因组分析揭示肌萎缩侧索硬化、散发性额颞叶痴呆与认知特征之间共享及独特的遗传结构 (epmc-PPR-PPR1301337)
+- [ ] Genome-wide analyses reveal shared and distinct genetic architecture linking 肌萎缩侧索硬化症, sporadic 额颞叶痴呆 and cognitive traits (epmc-PPR-PPR1301337)
   - https://doi.org/10.64898/2026.08.17.26360494
 - [ ] [疑似误收] 待复核翻译：Label-free proteomic profiling identifies ECM-related alterations across regeneration states in human peripheral axonal neuropathies. (epmc-MED-42616241)
   - https://doi.org/10.1007/s13105-026-01219-6
@@ -46,12 +50,6 @@
   - https://doi.org/10.1007/s00415-026-14051-1
 - [ ] [疑似误收] 待复核翻译：Multidisciplinary clinic attendance and patterns of care in the U.S. National ALS Registry, 2013-2023. (epmc-MED-42615866)
   - https://doi.org/10.1080/21678421.2026.2717968
-- [ ] [疑似误收] 待复核翻译：PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications. (epmc-MED-42613642)
-  - https://doi.org/10.1186/s40035-026-00568-y
-- [ ] [疑似误收] Advances in the clinical application of mesenchymal 干细胞s for neurological disorders. (epmc-MED-42613627)
-  - https://doi.org/10.1186/s13287-026-05229-5
-- [ ] [疑似误收] 待复核翻译：Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances. (epmc-MED-42612795)
-  - https://doi.org/10.1016/j.trsl.2026.08.005
 - [ ] [高优先级] 待复核翻译：FUNCtion ALS: Aiming to Restore UNC13A Function in People Living With ALS (trial-NCT07674667)
   - https://clinicaltrials.gov/study/NCT07674667
 - [ ] [高优先级] A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS) (trial-NCT07071935)
@@ -62,6 +60,8 @@
   - https://clinicaltrials.gov/study/NCT07589764
 - [ ] [高优先级] 待复核翻译：Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS (trial-NCT04745299)
   - https://clinicaltrials.gov/study/NCT04745299
+- [ ] Metabolic connectivity alterations in 肌萎缩侧索硬化症: Individual network analysis based on Wasserstein distances. (pmid-42630952)
+  - https://pubmed.ncbi.nlm.nih.gov/42630952/
 - [ ] [高优先级] Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy (trial-NCT07268833)
   - https://clinicaltrials.gov/study/NCT07268833
 - [ ] [高优先级] 待复核翻译：A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS (trial-NCT07169175)
