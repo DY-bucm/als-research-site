@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T22:42:53.685Z",
+  "updatedAt": "2026-08-27T03:16:34.750Z",
   "period": {
     "days": 10,
-    "from": "2026-08-16",
-    "to": "2026-08-25"
+    "from": "2026-08-18",
+    "to": "2026-08-27"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 31,
+  "count": 29,
   "articles": [
     {
       "id": "pmid-42621714",
@@ -50,6 +50,42 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42640367/"
     },
     {
+      "id": "pmid-42641169",
+      "pmid": "42641169",
+      "doi": "10.1177/22143602261477464",
+      "title": "Biallelic SIGMAR1 variants in early-onset distal hereditary motor neuropathy: A Japanese case series.",
+      "abstract": "BackgroundDistal hereditary motor neuropathy (dHMN) is characterized by slowly progressive distal muscle weakness and amyotrophy, and it exhibits clinical overlap with Charcot-Marie-Tooth disease and amyotrophic lateral sclerosis (ALS). Biallelic variants in SIGMAR1 , encoding sigma nonopioid intracellular receptor 1, have been linked to autosomal recessive dHMN with pyramidal features. This study investigated the clinical and genetic features of patients with dHMN associated with SIGMAR1 variants in Japan.MethodsWe conducted genetic screening of Japanese patients with clinically suspected inherited peripheral neuropathies using targeted gene panels and whole-exome sequencing. SIGMAR1 variants were evaluated via segregation analysis using Sanger sequencing. Detailed clinical and electrophysiological data were systematically reviewed.ResultsBiallelic SIGMAR1 variants, including three novel variants and one previously reported variant, were identified in six patients from five unrelated families. The genotypes comprised compound heterozygous variants in four patients and homozygous variants in two patients. All patients presented with early-onset distal muscle weakness and atrophy. Enhanced tendon reflexes and pyramidal tract signs were frequently observed, whereas bulbar or respiratory involvement was absent. Nerve conduction studies consistently revealed motor-predominant axonal neuropathy with minimal sensory involvement. Disease progression was slow, and all patients remained ambulatory for years to decades after onset.ConclusionOur findings expand the clinical and genetic spectrum of SIGMAR1 -associated disease and support its classification as dHMN rather than ALS. SIGMAR1 variants should be considered in the genetic evaluation of early-onset motor neuropathies, particularly in patients with dHMN accompanied by pyramidal features.",
+      "journal": "Journal of neuromuscular diseases",
+      "authors": [
+        "Kodama K",
+        "Ando M",
+        "Higuchi Y",
+        "Yuan JH",
+        "Yoshimura A",
+        "Samukawa M",
+        "Suzuki M",
+        "Ogaya S",
+        "Kawata Y",
+        "Gamo N",
+        "Hisahara S",
+        "Yano C",
+        "Nagatomo R",
+        "Hobara T",
+        "Kojima F",
+        "Hiramatsu Y",
+        "Nozuma S",
+        "Sakiyama Y",
+        "Mitsui J",
+        "Tsuji S",
+        "Takashima H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641169/"
+    },
+    {
       "id": "pmid-42638122",
       "pmid": "42638122",
       "doi": "10.1186/s12916-026-05119-w",
@@ -78,6 +114,27 @@
       ],
       "publishedAt": "2026-08-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42638122/"
+    },
+    {
+      "id": "pmid-42641496",
+      "pmid": "42641496",
+      "doi": "10.1016/j.medcli.2026.107559",
+      "title": "Temporal trends in motor neuron disease mortality in Spain (2000-2024): Population ageing versus generational risk factors.",
+      "abstract": "To analyse temporal trends in motor neuron disease (MND) mortality in Spain (2000-2024) and disentangle the independent contributions of age, period, and birth cohort effects. A population-based ecological time-series analysis was conducted using nationwide mortality data. Age-standardised mortality rates (ASMR) were analysed using joinpoint regression (ages 0-85+). To isolate underlying drivers and mitigate random variability, age-period-cohort (A-P-C) modelling was applied to a targeted adult cohort (ages 25-84). A total of 23,663 MND deaths were recorded. Absolute annual deaths rose by 81.1% (682 in 2000 to 1235 in 2024). Men showed a steady upward ASMR trend (AAPC: 0.5%; 95% CI 0.3-0.7). Women showed an initial sharp increase (2000-2003; APC: 7.0%; 95% CI 0.7-19.1) followed by stabilisation (APC: 0.1%; 95% CI -1.3 to 0.5). The A-P-C model revealed strong cohort effects in both sexes, with an inverted U-shaped pattern peaking in the 1950-1955 cohorts, followed by marked declines. Period effects in men showed stability, whilst a moderate secular decline was observed in women. Local trends revealed declines in the younger cohorts and an increase in mortality risks limited to the older age groups (75-84 years). The rising absolute MND mortality burden in Spain is primarily driven by population ageing rather than a generalised increase in lifetime risk. Long-term trends are heavily shaped by generational birth-cohort dynamics, showing a notable risk reduction in more recent generations.",
+      "journal": "Medicina clinica",
+      "authors": [
+        "Cayuela L",
+        "Zapata-Arriaza E",
+        "de Albóniga-Chindurza A",
+        "Aguilar Pérez M",
+        "González García A",
+        "Cayuela A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641496/"
     },
     {
       "id": "pmid-42638120",
@@ -645,89 +702,6 @@
       ],
       "publishedAt": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42612795/"
-    },
-    {
-      "id": "pmid-42607915",
-      "pmid": "42607915",
-      "doi": "10.1016/j.brainres.2026.150510",
-      "title": "Annexin A1 inhibits neuronal apoptosis in amyotrophic lateral sclerosis by restraining the Hippo pathway.",
-      "abstract": "Annexin A1 (ANXA1) is a multifunctional regulatory protein involved in neuroinflammation and cellular homeostasis, but its role in amyotrophic lateral sclerosis (ALS) remains unclear. In this study, we investigated the relationship between ANXA1 and Hippo pathway signaling in ALS. Bioinformatic analysis of transcriptomic data from iPSC-derived motor neurons showed that ANXA1 expression was reduced in ALS and associated with apoptosis and Hippo pathway-related changes. Decreased ANXA1 expression was confirmed in hSOD1^G93A transgenic mice and NSC34 motor neuron-like cells. Phosphorylation levels of MST1/2, LATS1/2, and YAP1 were elevated, indicates activation of the Hippo pathway. Functional experiments showed that ANXA1 overexpression reduced Hippo pathway activation, enhanced cell viability, and decreased apoptosis, as increased Bcl-2 expression and reduced Bax and cleaved caspase-9 levels. In contrast, ANXA1 knockdown further activated Hippo pathway and aggravated apoptotic changes. These findings identify ANXA1 as an upstream regulator associated with Hippo pathway activation in ALS and suggest that the ANXA1/Hippo axis may represent a potential therapeutic target.",
-      "journal": "Brain research",
-      "authors": [
-        "Zhang Y",
-        "Dong X",
-        "Shai Y",
-        "Alam M",
-        "Han D",
-        "Hu Y",
-        "He Z",
-        "Zhou Z",
-        "Jiang H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42607915/"
-    },
-    {
-      "id": "pmid-42609516",
-      "pmid": "42609516",
-      "doi": "10.1002/mco2.70915",
-      "title": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
-      "abstract": "Neurodegenerative diseases (NDs) are marked by selective neuronal vulnerability and progressive failure of neural circuits. Increasing evidence indicates that neuronal loss is not driven by a single terminal event, but emerges from interacting regulated cell death (RCD) programs. These programs are closely coupled to mitochondrial injury, proteostatic collapse, lysosomal stress, metabolic imbalance, glial state transitions, and chronic neuroinflammation. Yet, how distinct death pathways are organized across cell types, disease stages, and disease-specific microenvironments remains unresolved. This review examines RCD as an integrated pathogenic network in major NDs. Caspase and B-cell lymphoma 2 (BCL2) family signaling, receptor-interacting protein kinase 1 (RIPK1), RIPK3, and mixed lineage kinase domain-like protein activation, NOD-like receptor family pyrin domain containing 3 and gasdermin signaling, GPX4-linked lipid peroxidation control, and autophagy lysosomal failure are discussed as convergent stress response modules rather than isolated pathways. Across Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease, these modules shape neuronal fate through disease-specific interactions with mitochondrial dysfunction, iron dyshomeostasis, inflammasome activation, and microglial metabolic remodeling. We further evaluate emerging therapeutic strategies that target cell death crosstalk, restore autophagy lysosomal competence, or improve delivery to the central nervous system, highlighting the importance of molecular selectivity, cellular context, disease stage, and translational feasibility.",
-      "journal": "MedComm",
-      "authors": [
-        "Li T",
-        "Zhang Q",
-        "Wu Y",
-        "Huang R"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
-    },
-    {
-      "id": "pmid-42606140",
-      "pmid": "42606140",
-      "doi": "10.1111/ahg.70052",
-      "title": "Population-Level Nucleotide Diversity and Genetic Differentiation at SOD1 Across Global Human Populations.",
-      "abstract": "The SOD1 gene encodes superoxide dismutase 1, an antioxidant enzyme in which pathogenic variants cause a subset of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Although the clinical and molecular consequences of SOD1 variants are well established, its locus-wide population genetic architecture has not been systematically characterized across global populations. To characterize patterns of genetic diversity, population differentiation, and evolutionary constraint across the SOD1 locus in worldwide human populations. We analyzed genomic variation spanning the SOD1 region in the five continental populations of the 1000 Genomes Project. Nucleotide diversity (π), fixation index (FST), and allele frequency distributions were estimated using sliding-window analyses. Bootstrap resampling was used to compare diversity within and outside the coding region. Recent positive selection was assessed using XP-nSL, and codon-based evolutionary analyses were performed using primate SOD1 orthologs. The coding region consistently exhibited a twofold to threefold reduction in nucleotide diversity relative to adjacent genomic sequences across all populations. Bootstrap analyses confirmed significantly lower diversity within the locus than in flanking regions (p < 0.05 in all populations). Population differentiation was low (mean FST ≈ 0.03) and showed no pronounced peaks within the coding interval, whereas allele frequency distributions were broadly similar across continental populations. XP-nSL analyses detected no evidence of population-specific recent selective sweeps. Codon-based analyses identified only 31 variable codons among 155 analyzed positions, six codons under negative selection, and no evidence of positive selection. The SOD1 locus exhibits reduced standing genetic variation, limited continental differentiation, and strong evolutionary conservation, consistent with sustained functional constraint. These findings provide a comprehensive population genetic framework for interpreting genetic variation at this medically important locus.",
-      "journal": "Annals of human genetics",
-      "authors": [
-        "Flores SV",
-        "Lillo P",
-        "Briceño-Moya J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42606140/"
-    },
-    {
-      "id": "pmid-42606797",
-      "pmid": "42606797",
-      "doi": "10.1186/s11671-026-04820-2",
-      "title": "Regenerative strategies for ALS: stem cells and extracellular vesicles.",
-      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is caused by progressive degeneration of upper and lower motor neurons. The disease is late onset, and to date, no early diagnosis is possible. Patients with ALS have a 5-year survival rate since diagnosis. Though recent studies highlighted the possible mechanisms of motor neuron degeneration in ALS, the treatment options are extremely limited. This underscores the urgent need to develop effective therapeutic strategies that can prolong patient survival and ultimately slow/halt ALS progression. Extracellular vesicles released from the degenerative milieu contribute to ALS propagation and progression by shuttling misfolded proteins, proinflammatory cytokines, and neurotoxins; thus, they could serve as a biomarker for diagnosis and prognosis. The advancement of stem cell-based therapies for neurodegenerative diseases and the evolving understanding of extracellular vesicles as potential biotherapeutics provide a ray of hope for millions of patients suffering from neurological disorders/neurodegenerative diseases like ALS.",
-      "journal": "Discover nano",
-      "authors": [
-        "Raghunathan T",
-        "Parthasarathy B",
-        "Prabhu P",
-        "Mahesh P",
-        "Dhanushkodi A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42606797/"
     }
   ]
 }
