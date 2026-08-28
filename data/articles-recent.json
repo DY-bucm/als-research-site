@@ -1,14 +1,79 @@
 {
-  "updatedAt": "2026-08-27T03:16:34.750Z",
+  "updatedAt": "2026-08-28T06:05:32.862Z",
   "period": {
     "days": 10,
-    "from": "2026-08-18",
-    "to": "2026-08-27"
+    "from": "2026-08-19",
+    "to": "2026-08-28"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 29,
+  "count": 34,
   "articles": [
+    {
+      "id": "pmid-42657487",
+      "pmid": "42657487",
+      "doi": "10.1080/17582024.2026.2713755",
+      "title": "High-dose methylcobalamin in amyotrophic lateral sclerosis: mechanistic rationale, translational evidence, and clinical implications.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurodegenerative disorder characterized by selective degeneration of upper and lower motor neurons, driven by converging mechanisms including glutamatergic excitotoxicity, mitochondrial dysfunction, oxidative stress, calcium dyshomeostasis, impaired RNA metabolism, and neuroinflammation. In the absence of effective disease-modifying therapies, high-dose methylcobalamin has emerged as a candidate intervention based on its pleiotropic neurobiological effects. A structured literature search was conducted in PubMed/MEDLINE and ScienceDirect to identify peer-reviewed studies published between January 2017 and December 2025 addressing the mechanistic, preclinical, and clinical effects of methylcobalamin in ALS. Preclinical evidence suggests that methylcobalamin modulates homocysteine metabolism, supports S-adenosylmethionine-dependent methylation pathways, preserves mitochondrial integrity, attenuates oxidative stress, and promotes axonal regeneration. Experimental and translational findings further indicate that its therapeutic effects may be strongly dose dependent, particularly under ultra-high-dose regimens capable of overcoming limitations in central nervous system delivery. Clinical trials evaluating ultra-high-dose methylcobalamin demonstrate a potential attenuation of functional decline in patients treated during early disease stages, although effects on survival and respiratory outcomes remain inconsistent. This narrative review integrates molecular mechanisms, experimental evidence, biomarker research, and clinical trial data to examine the translational relevance, stage dependency, and therapeutic implications of high-dose methylcobalamin in ALS.",
+      "journal": "Neurodegenerative disease management",
+      "authors": [
+        "da Silva AA",
+        "Pupe CCB",
+        "Dos Santos JCC"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42657487/"
+    },
+    {
+      "id": "pmid-42649384",
+      "pmid": "42649384",
+      "doi": "10.1038/s41551-026-01774-9",
+      "title": "Engineered autophagy receptors administered with extracellular vesicles eliminate pathological Tau and TDP-43.",
+      "abstract": "In neurodegenerative diseases such as frontotemporal dementia and amyotrophic lateral sclerosis, pathological forms of proteins such as Tau and TDP-43 accumulate within large heterogeneous inclusions inside cells. Current strategies to eliminate such aberrant protein species in patients encounter three main challenges: crossing the blood-brain barrier and plasma membrane, specifically recognizing pathological forms of proteins, and engaging mechanisms to eliminate large entities. Here we fuse LC3A, a central protein in the recruitment of substrates into autophagosomes, to cytoplasm-stable antibodies. These engineered autophagy receptors, targeting Tau or TDP-43, are delivered using small extracellular vesicles and reduce pathology in models, including Tau P301S adult primary mouse neurons, TDP-43 G298S iPSC-derived motor neurons and after intravenous injection in Tau P301S mice. Similarly, adeno-associated-virus-mediated delivery in TDP-43 ΔNLS mice enhances clearance of pathological TDP-43. This targeted degradation strategy allows delivery into the brain while capitalizing on the specificity of antibodies and the ability of autophagy to degrade large intracellular entities.",
+      "journal": "Nature biomedical engineering",
+      "authors": [
+        "Guo H",
+        "Savard A",
+        "Manser C",
+        "Dutta K",
+        "Taylor JA",
+        "Rousseaux MWC",
+        "Pozzi S",
+        "Julien JP",
+        "Baird S",
+        "Gibbings D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649384/"
+    },
+    {
+      "id": "pmid-42649099",
+      "pmid": "42649099",
+      "doi": "10.1002/mus.70382",
+      "title": "It's Virtually Here: Telemedicine, Virtual Care, and Neuromuscular Disease.",
+      "abstract": "The COVID-19 pandemic forced a partial shift in neuromuscular clinical practice away from in-person care to remote means. However, this shift was unexpected, abrupt, reactive to the emergency of a pandemic, and disruptive to the usual manner of care, without adequate time to adapt or study the optimal manner to provide care remotely. While traditionally associated with hub-and-spoke telemedicine models, the pandemic popularized direct-to-home virtual care, mostly unsupported by on-site examiners or standardized platforms. In chronic neuromuscular disorders such as amyotrophic lateral sclerosis (ALS) and myasthenia gravis (MG), virtual care has demonstrated feasibility, patient satisfaction, and potential cost savings, particularly for geographically or functionally disadvantaged populations. Disease-specific adaptations such as the Myasthenia Gravis Core Exam and wearable-based assessments (e.g., home spirometry, grip strength monitoring, and digital outcome measures) have enabled more structured remote evaluations. However, diagnostic accuracy may be compromised by the inability to perform detailed neurological examinations or electrodiagnostic studies. Equity concerns persist due to variability in digital literacy, internet and digital device access, and socioeconomic status. Post-pandemic, patients with disabilities may continue to benefit in a combined virtual/in-person paradigm of care. More evidence is required to evaluate the impact of virtual care on neuromuscular practice quality of care and outcomes. We outline some of the questions that require further study, hoping to spur research and quality improvement investigations of these new care models.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "AANEM",
+        "Kassardjian CD",
+        "Desai U",
+        "Živković SA",
+        "Simmons Z",
+        "Narayanaswami P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649099/"
+    },
     {
       "id": "pmid-42621714",
       "pmid": "42621714",
@@ -369,6 +434,29 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42552132/"
     },
     {
+      "id": "pmid-42648119",
+      "pmid": "42648119",
+      "doi": "10.1016/j.scr.2026.104085",
+      "title": "Generation of two iPSC lines from ALS patients harboring C9orf72 hexanucleotide repeat expansions.",
+      "abstract": "The GGGGCC hexanucleotide repeat expansion (HRE) within the C9orf72 gene constitutes the leading genetic driver of amyotrophic lateral sclerosis (ALS). This fatal neurodegenerative disorder is characterized by the systematic loss of both the upper and lower motor neurons across both the central and peripheral nervous systems. This work describes the successful reprogramming of two human induced pluripotent stem cell (iPSC) lines originating from two independent ALS patients, both of whom carry a C9orf72 HRE mutation. Validation of the two established iPSC lines confirmed the expression of pluripotency markers, normal karyotypes, and successful trilineage differentiation. Consequently, these lines provide a robust in vitro platform to model ALS and study C9orf72-mediated disease mechanisms.",
+      "journal": "Stem cell research",
+      "authors": [
+        "Wu D",
+        "Kojic A",
+        "Ross JP",
+        "Li D",
+        "Walther P",
+        "Goyal N",
+        "Sampson J",
+        "Wu JC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648119/"
+    },
+    {
       "id": "pmid-42628773",
       "pmid": "42628773",
       "doi": "10.1016/j.brainres.2026.150513",
@@ -400,6 +488,25 @@
       ],
       "publishedAt": "2026-08-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42627134/"
+    },
+    {
+      "id": "pmid-42651202",
+      "pmid": "42651202",
+      "doi": "10.3390/brainsci16080895",
+      "title": "Task-Evoked Prefrontal Hemodynamics During Cognitive Assessment in Amyotrophic Lateral Sclerosis Using fNIRS.",
+      "abstract": "Background/Objectives: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease increasingly recognized for extra-motor manifestations, including cognitive dysfunction involving frontal cortical systems. Conventional clinical assessments are primarily behavioral and may not capture subtle alterations in the neural systems that support cognitive performance. This pilot study examined whether wearable functional near-infrared spectroscopy (fNIRS) could detect task-evoked prefrontal hemodynamic differences during the King-Devick Task (KDT), a rapid oculomotor number-naming task that engages visual scanning, attention, processing speed, and verbal response production. Methods: Sixteen participants, including seven individuals with ALS and nine age-matched healthy controls (HC), completed four progressively difficult KDT conditions while prefrontal cortical activity was recorded. Results: As task difficulty increased, response times became slower across participants, while accuracy remained preserved and behavioral performance did not differ significantly between groups. Prefrontal oxygenated hemoglobin (HbO) responses increased with task difficulty across all prefrontal optodes, supporting task-evoked cortical engagement. In contrast, deoxygenated hemoglobin (HbR) responses showed a group-specific pattern in the left dorsolateral prefrontal cortex: individuals with ALS demonstrated progressively increasing HbR responses across difficulty conditions, whereas HC showed relatively stable responses, with group differences emerging at higher difficulty levels. Conclusions: These findings suggest a dissociation between preserved behavioral performance and altered prefrontal hemodynamic regulation in ALS. The observed HbR pattern may reflect differences in cortical recruitment, neurovascular coupling, oxygen extraction, vascular responsiveness, or the efficiency of cortical resource allocation during increasing cognitive-motor demands. Wearable fNIRS may therefore complement behavioral assessments by revealing task-evoked neural alterations that are not evident from performance measures alone.",
+      "journal": "Brain sciences",
+      "authors": [
+        "Alshehri S",
+        "Atabek B",
+        "Heiman-Patterson T",
+        "Ayaz H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42651202/"
     },
     {
       "id": "pmid-41605610",
@@ -484,6 +591,25 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42630952/"
     },
     {
+      "id": "pmid-42651198",
+      "pmid": "42651198",
+      "doi": "10.3390/brainsci16080890",
+      "title": "Mitochondrial Complex V Dysfunction in Neurodegeneration: Secondary Bystander or Primary Driver?",
+      "abstract": "Mitochondrial Complex V (Complex V [CX-V], or ATP synthase) is the terminal enzyme of oxidative phosphorylation and is responsible for the majority of cellular ATP production. An increasing body of evidence suggests that CX-V dysfunction may contribute to mitochondrial impairment observed in neurodegenerative disease. This review evaluated current research on the structure, regulation, and function of CX-V, examined the consequences of CX-V dysfunction, and assessed its proposed role in neurodegenerative disorders. A comprehensive review of the published literature was carried out, with emphasis on primary research investigating CX-V structure and function, inherited CX-V disorders, and experimental evidence linking CX-V dysfunction to neurodegenerative disease. The reviewed studies used a range of experimental approaches, including structural biology, biochemical studies, patient-derived cellular models, animal models and post-mortem human tissue. Current evidence demonstrates that disruption of CX-V impairs ATP production, alters mitochondrial membrane potential, and oxidative phosphorylation, and that pathogenic variants cause primary mitochondrial disease. Across Alzheimer's disease, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis/frontotemporal dementia, glaucoma and inherited optic neuropathies, alterations in CX-V activity, regulation and structural integrity are consistently associated with mitochondrial dysfunction. Direct evidence supporting CX-V as a primary driver of neurodegeneration remains very limited, with many observations originating from broader studies of general mitochondrial dysfunction. CX-V dysfunction represents a recurring feature of mitochondrial impairment across a variety of neurodegenerative disorders and may exacerbate neuronal vulnerability by disrupting cellular bioenergetics. Current evidence indicates that CX-V may serve as a common downstream target of multiple pathological pathways rather than acting as a primary pathological factor. Future studies require direct assessment of CX-V activity in clinically relevant human models and patient tissues to determine its contribution to disease progression and examine its potential as a therapeutic target.",
+      "journal": "Brain sciences",
+      "authors": [
+        "Harris KE",
+        "Lascaratos G",
+        "Chau KY"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42651198/"
+    },
+    {
       "id": "pmid-42619018",
       "pmid": "42619018",
       "doi": "10.1002/ana.78334",
@@ -502,6 +628,25 @@
       ],
       "publishedAt": "2026-08-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42619018/"
+    },
+    {
+      "id": "pmid-42653407",
+      "pmid": "42653407",
+      "doi": "10.3390/ijms27167404",
+      "title": "Combination Pharmacology for ALS: A Mechanistic Rationale.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) involves multiple converging pathogenic mechanisms, including glutamate excitotoxicity, oxidative and endoplasmic-reticulum stress, mitochondrial dysfunction, neuroinflammation, iron dysregulation, and altered microRNA processing. Expecting a single pharmacologic intervention to meaningfully alter such a complex disease has proven overly optimistic and is reflected by the modest clinical benefits of approved monotherapies. This review outlines the mechanistic foundation and translational rationale for combination pharmacology in ALS. Drawing from paradigms in oncology, infectious disease, and other neurological disorders, it explores how rational multi-target strategies, whether synergistic, complementary, or pathway-divergent, may better address the multifactorial biology of ALS. The review also discusses recent mechanistic examples and design principles for advancing this therapeutic paradigm.",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Rosenfeld J",
+        "Salomon-Zimri S",
+        "Tracik F"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42653407/"
     },
     {
       "id": "pmid-42616178",
@@ -610,98 +755,45 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42615866/"
     },
     {
-      "id": "pmid-42613627",
-      "pmid": "42613627",
-      "doi": "10.1186/s13287-026-05229-5",
-      "title": "Advances in the clinical application of mesenchymal stem cells for neurological disorders.",
-      "abstract": "Therapeutic approaches employing mesenchymal stem cells (MSCs) have emerged as a promising avenue for investigating treatments for neurological disorders. This strategy aims to capitalize on the biological properties of MSCs to support the repair of damaged neural tissue and modulate pathological processes. This review provides a comprehensive overview of the current clinical evidence regarding MSC applications in major neurological disorders, including Parkinson's disease (PD), Alzheimer's disease (AD), amyotrophic lateral sclerosis (ALS), multiple sclerosis (MS), stroke, spinal cord injury (SCI), and other pertinent disorders. Across clinical studies, MSC administration has generally demonstrated a favorable safety profile and procedural feasibility. However, therapeutic efficacy remains variable and inconsistent across trials. Importantly, differences in MSC sources, manufacturing procedures, delivery routes, dosing strategies, and patient selection contribute substantially to the heterogeneity of reported outcomes. Therefore, the current body of evidence supports the safety of MSC-based interventions, but their clinical effectiveness has not yet been consistently demonstrated. Future progress will depend largely on the standardization of cell preparation and treatment protocols, improved biomarker-driven patient stratification, and rigorously designed large-scale randomized trials.",
-      "journal": "Stem cell research & therapy",
+      "id": "pmid-42652396",
+      "pmid": "42652396",
+      "doi": "10.3390/ijerph23081081",
+      "title": "Palliative Care Involvement in Hospitalized Amyotrophic Lateral Sclerosis Patients.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease associated with significant physical, psychological, and social distress. Given its terminal nature and high symptom burden, early integration of palliative care is essential. The inpatient Palliative Care Consult Team (PCCT) provides specialist palliative care to hospitalized patients with ALS. Hospitalizations are common throughout the ALS disease trajectory, particularly as patients experience progressive functional decline, respiratory compromise, and increasing care needs, making inpatient encounters important opportunities for specialist palliative care involvement. To extend palliative care beyond the inpatient setting and facilitate earlier involvement, an ALS ambulatory clinic was established in 2018. Despite the importance of palliative care, limited data describes its involvement among hospitalized ALS patients. This retrospective review examines the relationship between the PCCT and ALS patients admitted to a tertiary care facility between 2006-2019. Data collected included patient demographics, referral indications, clinical course, and disposition. Most patients referred to the PCCT had poor functional status and a guarded prognosis at initial consultation. Symptom management and support for complex decision-making were leading reasons for referral. Approximately half of patients died in the hospital within three months of referral. Most deaths occurred within one week, underscoring the importance of timely palliative care.",
+      "journal": "International journal of environmental research and public health",
       "authors": [
-        "Jamali MC",
-        "Shafie A",
-        "Alqahtani AJ",
-        "Al-Samawi RI",
-        "Alyami HM",
-        "Ashour AA",
-        "Felemban MF",
-        "Mansuri N",
-        "Tayeb FJ",
-        "Ahmad I",
-        "Mudhafar M",
-        "Sheweita SA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613627/"
-    },
-    {
-      "id": "pmid-42611011",
-      "pmid": "42611011",
-      "doi": "10.1044/2026_JSLHR-25-00740",
-      "title": "Dissociable Effects of Dysarthria Etiology and Severity on the Minimally Detectable Change of Speech Intelligibility.",
-      "abstract": "The minimally detectable change (MDC) provides a threshold for interpreting changes in outcome measures that are outside of measurement error. There is emerging evidence that dysarthria etiology and speech severity impact the MDC of speech intelligibility; however, an investigation of these factors is needed to determine the unique effects of dysarthria etiology and speech severity. The purpose of the current study was to calculate and compare MDCs of speech intelligibility across five dysarthria etiology groups and four severity levels. Speech Intelligibility Test recordings from 200 speakers were used as stimuli, including recordings from healthy controls ( n = 40) and individuals with neurodegenerative diseases such as amyotrophic lateral sclerosis ( n = 16), Huntington's disease ( n = 44), multiple sclerosis ( n = 60), and Parkinson's disease ( n = 40). Thirty inexperienced listeners provided orthographic transcriptions of 20 speakers each. MDCs were calculated, and speech severity levels were categorized based on empirically defined speech severity levels reported in Stipancic et al. (2021). Statistical analyses, including multiple linear regression, assessed the effects of etiology and severity on MDCs. Speech severity was a significant predictor of MDCs, with greater impairments to speech intelligibility resulting in higher MDCs. Dysarthria etiology was not a significant predictor of MDCs. The impact of speech severity on MDCs of intelligibility in dysarthria underscores the need to calculate and provide MDCs across severity ranges to enhance the interpretation of patient outcomes.",
-      "journal": "Journal of speech, language, and hearing research : JSLHR",
-      "authors": [
-        "Zdrowak KE",
-        "Mefferd AS",
-        "Stipancic KL"
+        "Bhardwaj S",
+        "Chakraborty A",
+        "Mead J",
+        "Stilos K"
       ],
       "publicationTypes": [
         "Journal Article"
       ],
-      "publishedAt": "2026-08-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42611011/"
+      "publishedAt": "2026-08-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42652396/"
     },
     {
-      "id": "pmid-42613642",
-      "pmid": "42613642",
-      "doi": "10.1186/s40035-026-00568-y",
-      "title": "PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
-      "abstract": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) plays a role in hepatic cholesterol metabolism via low density lipoprotein receptor degradation. PCSK9 inhibitors have revolutionized lipid-lowering therapy, providing robust reduction of cardiovascular risk. Large-scale randomized controlled trials and long-term extensions (e.g., FOURIER and EBBINGHAUS trials) have shown no significant adverse effects of PCSK9 inhibitors on neuropsychological testing or patient-reported cognitive outcomes, even with prolonged and intensive lowering of low-density lipoproteins. Pre-clinical studies also suggest PCSK9 as a key regulator of neurobiological processes, including synaptic plasticity, amyloid-beta clearance, neuroinflammation, and blood-brain barrier integrity. Human genetic studies revealed complex, sometimes conflicting associations between PCSK9 variants and risk of Alzheimer's disease, Parkinson's disease, vascular dementia, and amyotrophic lateral sclerosis. In this review, we highlight the pathophysiologic mechanisms, emerging experimental therapeutics and clinical implications of PCSK9 inhibition in neurodegenerative disorders. Long-term adequately powered trials with robust neuropsychological, biomarker, and imaging endpoints, as well as mechanistic studies in human-derived models are needed to establish the cardiovascular and neurocognitive implications of PCSK9 inhibition and guide precision medicine strategies for those at elevated risk of neurodegeneration.",
-      "journal": "Translational neurodegeneration",
+      "id": "pmid-42650874",
+      "pmid": "42650874",
+      "doi": "10.3390/biom16081208",
+      "title": "The Prospective Regulatory Functions of lncRNAs and Their ceRNA Networks in the Development of Motor Neurons and Associated Diseases.",
+      "abstract": "Motor neurons form a highly specialized network composed of α-, β-, and γ-subtypes that coordinate skeletal muscle activity. Motor neuron diseases (MNDs), including amyotrophic lateral sclerosis (ALS) and spinal muscular atrophy (SMA), are characterized by the progressive degeneration of this network, resulting in motor dysfunction. Emerging evidence underscores the significant roles of long non-coding RNAs (lncRNAs) in motor neuron development and disease. However, only a few have been experimentally confirmed as true ceRNA regulators, highlighting the need to differentiate validated mechanisms from mere associations or predictions. This review summarizes the regulatory roles of lncRNA-associated ceRNA networks in motor neuron development, evaluates the evidence for their involvement in MNDs, and explores their potential impact on disease progression. It also addresses current challenges, knowledge gaps, and future research directions for understanding ceRNA-mediated mechanisms and developing therapeutic strategies for MNDs.",
+      "journal": "Biomolecules",
       "authors": [
-        "Wang JDJ",
-        "Teo AYT",
-        "Xiao B",
-        "Chao Y",
-        "Zhou ZD",
-        "Tan BJ",
-        "Chan LL",
-        "Rosalie E",
-        "Tan EK"
+        "Wang Z",
+        "Fu Y",
+        "Li S",
+        "Zhang Y",
+        "Sun T",
+        "Miao N"
       ],
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
-      "publishedAt": "2026-08-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613642/"
-    },
-    {
-      "id": "pmid-42612795",
-      "pmid": "42612795",
-      "doi": "10.1016/j.trsl.2026.08.005",
-      "title": "Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
-      "abstract": "In the context of global ageing, the prevalence of neurodegenerative diseases (NDDs), such as Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), is rapidly increasing. However, current symptomatic treatments have achieved limited benefits in clinical settings and fundamentally fail to reverse the progressive loss of specific neuronal populations. Halting neurodegeneration and restoring impaired cognitive, motor or visual functions through nerve regeneration and circuit reconstruction represent the clinically meaningful goals for treatments of NDDs. Regenerative medicine has emerged as a promising paradigm to address this unmet need. In this review, we trace the historical evolution of regenerative therapies for NDDs - from early exploratory cell transplantation to modern approaches involving pluripotent stem cells (PSCs) and in vivo direct reprogramming. Furthermore, we elucidate the core strategies of regenerative medicine within an integrated framework encompassing \"Replacement\", \"Regeneration\", and \"Rejuvenation\". Finally, we highlight recent advances in clinical research, particularly milestone trials in cell replacement therapy for PD, as well as the application of mesenchymal stem cells (MSCs) in AD and ALS.",
-      "journal": "Translational research : the journal of laboratory and clinical medicine",
-      "authors": [
-        "Li J",
-        "Duan H",
-        "Hao P",
-        "Zhao W",
-        "Gao Y",
-        "Yang Z",
-        "Li X"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612795/"
+      "publishedAt": "2026-08-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42650874/"
     }
   ]
 }
