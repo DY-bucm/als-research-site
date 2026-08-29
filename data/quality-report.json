@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-28T06:07:34.687Z",
+  "updatedAt": "2026-08-29T03:44:23.031Z",
   "summary": {
-    "totalItems": 39,
-    "issueCount": 38
+    "totalItems": 42,
+    "issueCount": 43
   },
   "sources": [
     {
@@ -23,15 +23,48 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-42661046",
+      "title": "Towards a systems-level view of the microtubule cytoskeleton and its functions in physiology and disease.",
+      "titleZh": "迈向微管细胞骨架及其在生理和疾病中功能的系统级视角",
+      "category": "临床试验",
+      "evidenceLevel": "综述/路线图（非原始实验数据）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661046/"
+    },
+    {
       "id": "epmc-PPR-PPR1305697",
       "title": "Corticospinal propagation of full-length TDP-43 toxicity drives brain-to-muscle pathology",
       "titleZh": "全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理",
       "category": "机制",
-      "evidenceLevel": "机制研究",
+      "evidenceLevel": "机制研究（预印本）",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "high",
       "url": "https://doi.org/10.21203/rs.3.rs-10681556/v1"
+    },
+    {
+      "id": "epmc-MED-42641169",
+      "title": "Biallelic &lt;i&gt;SIGMAR1&lt;/i&gt; variants in early-onset distal hereditary motor neuropathy: A Japanese case series.",
+      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列研究",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1177/22143602261477464"
+    },
+    {
+      "id": "epmc-MED-42640367",
+      "title": "Beyond the Ribosome: The Expanding Role of the Nucleolus in Neurodegenerative Pathways.",
+      "titleZh": "超越核糖体：核仁在神经退行性通路中不断扩展的作用",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s12035-026-06146-7"
     },
     {
       "id": "epmc-PPR-PPR1305083",
@@ -41,13 +74,24 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.64898/2026.08.21.746168"
+    },
+    {
+      "id": "epmc-MED-42638122",
+      "title": "JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
+      "titleZh": "JP1肽通过Keap1-Nrf2-ARE通路调节ALS模型小鼠的氧化应激与自噬",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12916-026-05119-w"
     },
     {
       "id": "epmc-MED-42637106",
       "title": "Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS.",
-      "titleZh": "ATXN2剪接调控作为调节ALS中Ataxin-2蛋白水平的治疗策略",
+      "titleZh": "待复核翻译：Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
@@ -107,22 +151,33 @@
       "title": "Corticospinal propagation of full-length TDP-43 toxicity drives brain-to-muscle pathology",
       "titleZh": "全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理",
       "category": "机制",
-      "evidenceLevel": "机制研究",
+      "evidenceLevel": "机制研究（预印本）",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "high",
       "url": "https://doi.org/10.21203/rs.3.rs-10681556/v1"
     },
     {
-      "id": "pmid-42525906",
-      "title": "Amyotrophic Lateral Sclerosis in the Military: A Uniform Risk?",
-      "titleZh": "军人中的肌萎缩侧索硬化：风险是否一致？",
+      "id": "epmc-MED-42641169",
+      "title": "Biallelic &lt;i&gt;SIGMAR1&lt;/i&gt; variants in early-onset distal hereditary motor neuropathy: A Japanese case series.",
+      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列研究",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1177/22143602261477464"
+    },
+    {
+      "id": "epmc-MED-42640367",
+      "title": "Beyond the Ribosome: The Expanding Role of the Nucleolus in Neurodegenerative Pathways.",
+      "titleZh": "超越核糖体：核仁在神经退行性通路中不断扩展的作用",
       "category": "机制",
       "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42525906/"
+      "url": "https://doi.org/10.1007/s12035-026-06146-7"
     },
     {
       "id": "epmc-PPR-PPR1305153",
@@ -143,24 +198,35 @@
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.64898/2026.08.21.746168"
+    },
+    {
+      "id": "epmc-MED-42638122",
+      "title": "JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
+      "titleZh": "JP1肽通过Keap1-Nrf2-ARE通路调节ALS模型小鼠的氧化应激与自噬",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12916-026-05119-w"
     },
     {
       "id": "epmc-MED-42638120",
       "title": "Bridging the gap: neuroinflammation and the dawn of precision medicine in amyotrophic lateral sclerosis.",
-      "titleZh": "弥合差距：肌萎缩侧索硬化中的神经炎症与精准医学的曙光",
+      "titleZh": "Bridging the gap: 神经炎症 and the dawn of precision medicine in 肌萎缩侧索硬化症.",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s40035-026-00572-2"
     },
     {
       "id": "epmc-MED-42637106",
       "title": "Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS.",
-      "titleZh": "ATXN2剪接调控作为调节ALS中Ataxin-2蛋白水平的治疗策略",
+      "titleZh": "待复核翻译：Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 2,
@@ -215,26 +281,15 @@
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42614391",
-      "title": "Neutralization of pathogenic PC-OxPL by AAV-delivered scFv as a therapeutic strategy for amyotrophic lateral sclerosis.",
-      "titleZh": "AAV递送的scFv中和致病性PC-OxPL作为肌萎缩侧索硬化症的治疗策略",
+      "id": "pmid-42568821",
+      "title": "From neural development to regenerative medicine: A research journey in stem cell biology, spinal cord repair, and iPSC-based drug discovery.",
+      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复与iPSC药物发现的研究之旅",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42614391/"
-    },
-    {
-      "id": "pmid-42609516",
-      "title": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
-      "titleZh": "神经退行性疾病中的细胞死亡：分子机制与治疗靶点",
-      "category": "临床试验",
-      "evidenceLevel": "综述/荟萃分析",
+      "evidenceLevel": "综述/回顾性文章（基于作者本人已发表的动物/细胞实验及早期临床试验数据）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/"
     },
     {
       "id": "pmid-42649384",
@@ -252,214 +307,214 @@
       "title": "Corticospinal propagation of full-length TDP-43 toxicity drives brain-to-muscle pathology",
       "titleZh": "全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理",
       "category": "机制",
-      "evidenceLevel": "机制研究",
+      "evidenceLevel": "机制研究（预印本）",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "high",
       "url": "https://doi.org/10.21203/rs.3.rs-10681556/v1"
     },
     {
-      "id": "pmid-42638122",
-      "title": "JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
-      "titleZh": "JP1肽通过Keap1-Nrf2-ARE通路调节ALS模型小鼠的氧化应激和自噬",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638122/"
-    },
-    {
-      "id": "pmid-42525902",
-      "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
-      "titleZh": "美国退伍军人中军种和军衔与肌萎缩侧索硬化症发病率的关联",
+      "id": "epmc-PPR-PPR1305083",
+      "title": "Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
+      "titleZh": "突触囊泡循环的破坏定义了ALS中早期且可逆的皮层发病机制",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/"
+      "url": "https://doi.org/10.64898/2026.08.21.746168"
     },
     {
-      "id": "trial-NCT07023835",
-      "title": "Usnoflast Neuromuscular Investigation for Treatment Efficacy in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症",
+      "id": "trial-NCT07193953",
+      "title": "Intravenous Immunoglobulin (IVIG) and Blood-Brain Barrier Disruption in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Intravenous Immunoglobulin (IVIG) and Blood-Brain Barrier Disruption in 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07023835"
+      "url": "https://clinicaltrials.gov/study/NCT07193953"
     },
     {
-      "id": "trial-NCT07410806",
-      "title": "HEALEY ALS Platform Trial - Regimen I NUZ-001",
-      "titleZh": "待复核翻译：HEALEY ALS Platform Trial - Regimen I NUZ-001",
+      "id": "trial-NCT02795052",
+      "title": "Neurologic Stem Cell Treatment Study",
+      "titleZh": "Neurologic 干细胞 Treatment Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07410806"
+      "url": "https://clinicaltrials.gov/study/NCT02795052"
     },
     {
-      "id": "trial-NCT02478450",
-      "title": "Study to Investigate the Safety of the Transplantation (by Injection) of Human Glial Restricted Progenitor Cells (hGRPs; Q-Cells®) Into Subjects With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Study to Investigate the Safety of the Transplantation (by Injection) of Human Glial Restricted Progenitor Cells (hGRPs; Q-Cells®) Into Subjects With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02478450"
-    },
-    {
-      "id": "trial-NCT07656714",
-      "title": "HFCWO Vest Plus Mechanical Cough Assist Versus Cough Assist Alone on Respiratory Infections in ALS: a Pilot Trial",
-      "titleZh": "待复核翻译：HFCWO Vest Plus Mechanical Cough Assist Versus Cough Assist Alone on Respiratory Infections in ALS: a Pilot Trial",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07656714"
-    },
-    {
-      "id": "trial-NCT05119387",
-      "title": "Genetic Study of Amyotrophic Lateral Sclerosis in Norway",
-      "titleZh": "Genetic Study of 肌萎缩侧索硬化症 in Norway",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05119387"
-    },
-    {
-      "id": "trial-NCT05053035",
-      "title": "A Phase 2 Study to Evaluate AL001 in C9orf72-Associated ALS",
-      "titleZh": "A II 期 Study to Evaluate AL001 in C9orf72-Associated ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05053035"
-    },
-    {
-      "id": "trial-NCT06318598",
-      "title": "Biomarker-driven Phenotypic Dissection of Amyotrophic Lateral Sclerosis",
-      "titleZh": "生物标志物-driven Phenotypic Dissection of 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06318598"
-    },
-    {
-      "id": "trial-NCT05404867",
-      "title": "Study of Structural and Functional Brain Connectivity Changes in ALS (CoALS-II)",
-      "titleZh": "待复核翻译：Study of Structural and Functional Brain Connectivity Changes in ALS (CoALS-II)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05404867"
-    },
-    {
-      "id": "trial-NCT04819555",
-      "title": "Frequency of SOD1 and C9orf72 Gene Mutations in French ALS",
-      "titleZh": "待复核翻译：Frequency of SOD1 and C9orf72 Gene Mutations in French ALS",
+      "id": "trial-NCT07233148",
+      "title": "Healing ALS Registry Observational Study (HAROS)",
+      "titleZh": "待复核翻译：Healing ALS Registry Observational Study (HAROS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 15,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04819555"
+      "url": "https://clinicaltrials.gov/study/NCT07233148"
     },
     {
-      "id": "trial-NCT05297487",
-      "title": "Evaluation of the Early Use of the Pressure Relaxer in the Respiratory Impairment of Patients With Amyotrophic Lateral Sclerosis: Multicenter Randomized Controlled Study.",
-      "titleZh": "Evaluation of the Early Use of the Pressure Relaxer in the Respiratory Impairment of Patients With 肌萎缩侧索硬化症: Multicenter 随机 Controlled Study.",
+      "id": "trial-NCT02464748",
+      "title": "Telehealth in Motor Neurone Disease",
+      "titleZh": "Telehealth in 运动神经元病",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
+      "relevanceScore": 8,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02464748"
+    },
+    {
+      "id": "trial-NCT06008249",
+      "title": "Platform Trial to Assess the Efficacy of Multiple Drugs in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Platform Trial to Assess the Efficacy of Multiple Drugs in 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06008249"
+    },
+    {
+      "id": "trial-NCT07509125",
+      "title": "Ultra-High Resolution PET in Aging, Neurodegeneration and Psychotic Disorders",
+      "titleZh": "待复核翻译：Ultra-High Resolution PET in Aging, Neurodegeneration and Psychotic Disorders",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07509125"
+    },
+    {
+      "id": "trial-NCT07401121",
+      "title": "Safety and Tolerability Study of CTx1000 In Participants With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Safety and Tolerability Study of CTx1000 In Participants With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07401121"
+    },
+    {
+      "id": "pmid-42662266",
+      "title": "The HDAC Inhibitor Butyrate Reduces SOD1 Aggregation and Improves Motor Function in C. elegans and Cellular Models of ALS.",
+      "titleZh": "待复核翻译：The HDAC Inhibitor Butyrate Reduces SOD1 Aggregation and Improves Motor Function in C. elegans and Cellular Models of ALS.",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05297487"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42662266/"
     },
     {
-      "id": "trial-NCT05959850",
-      "title": "A Double-blind Randomised, Placebo-controlled Clinical Trial to Test Ambroxol Treatment in ALS",
-      "titleZh": "A Double-blind Randomised, Placebo-controlled 临床试验 to Test Ambroxol Treatment in ALS",
+      "id": "trial-NCT07174492",
+      "title": "Efficacy and Safety of Masitinib in Combination With SoC Versus Placebo in the Treatment of ALS Patients",
+      "titleZh": "待复核翻译：Efficacy and Safety of Masitinib in Combination With SoC Versus Placebo in the Treatment of ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05959850"
+      "url": "https://clinicaltrials.gov/study/NCT07174492"
     },
     {
-      "id": "trial-NCT04559009",
-      "title": "COVID-19 Amyotrophic Lateral Sclerosis (ALS) Registry",
-      "titleZh": "COVID-19 肌萎缩侧索硬化症 (ALS) Registry",
+      "id": "trial-NCT05276349",
+      "title": "Home-based Remote Digital Monitoring to Assess ALS Progression (Track ALS)",
+      "titleZh": "待复核翻译：Home-based Remote Digital Monitoring to Assess ALS Progression (Track ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04559009"
+      "url": "https://clinicaltrials.gov/study/NCT05276349"
     },
     {
-      "id": "trial-NCT04651855",
-      "title": "The Evaluation of the Effect of Mesenchymal Stem Cells on the Immune System of Patients With ALS",
-      "titleZh": "The Evaluation of the Effect of Mesenchymal 干细胞s on the Immune System of Patients With ALS",
+      "id": "trial-NCT04505358",
+      "title": "Evaluate PU-AD in Subjects With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Evaluate PU-AD in Subjects With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04651855"
+      "url": "https://clinicaltrials.gov/study/NCT04505358"
     },
     {
-      "id": "trial-NCT03324399",
-      "title": "A Study of Protein Metabolism, Microbiome and Investigational Probiotic Use in Patients With ALS",
-      "titleZh": "待复核翻译：A Study of Protein Metabolism, Microbiome and Investigational Probiotic Use in Patients With ALS",
+      "id": "trial-NCT04240925",
+      "title": "Tolerability, Safety and Efficacy of Sigh Breaths During NIMV in Motor Neuron Disease",
+      "titleZh": "Tolerability, Safety and Efficacy of Sigh Breaths During NIMV in 运动神经元病",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04240925"
+    },
+    {
+      "id": "trial-NCT03887338",
+      "title": "Systematic Laryngoscopic Evaluation of Upper Airways in Ventilated ALS Patients in Portugal and in Norway",
+      "titleZh": "待复核翻译：Systematic Laryngoscopic Evaluation of Upper Airways in Ventilated ALS Patients in Portugal and in Norway",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03324399"
+      "url": "https://clinicaltrials.gov/study/NCT03887338"
     },
     {
-      "id": "trial-NCT00958048",
-      "title": "Effects of Nocturnal Non-invasive Ventilation in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Effects of Nocturnal Non-invasive Ventilation in Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT03272503",
+      "title": "A Clinical Trial of Pimozide in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "A 临床试验 of Pimozide in Patients With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00958048"
+      "url": "https://clinicaltrials.gov/study/NCT03272503"
+    },
+    {
+      "id": "trial-NCT02492516",
+      "title": "Intravenous Injection of Adipose Derived Mesenchymal Stem Cell for ALS",
+      "titleZh": "Intravenous Injection of Adipose Derived Mesenchymal 干细胞 for ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02492516"
+    },
+    {
+      "id": "trial-NCT01935518",
+      "title": "A Clinical Trial of Safety and Efficacy of Fasudil in Subjects With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "A 临床试验 of Safety and Efficacy of Fasudil in Subjects With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01935518"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 7,
+    "疑似误收": 11,
     "缺标识符": 0,
-    "缺摘要": 10,
-    "高优先级待复核": 21,
+    "缺摘要": 12,
+    "高优先级待复核": 20,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 39
+    "待复核": 42
   },
   "relevanceCounts": {
-    "medium": 9,
-    "high": 23,
-    "low": 7
+    "medium": 7,
+    "high": 24,
+    "low": 11
   }
 }
