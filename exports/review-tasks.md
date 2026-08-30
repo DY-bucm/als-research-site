@@ -1,44 +1,50 @@
 # 复核任务清单
 
-- [ ] [高优先级] 从神经发育到再生医学：干细胞生物学、脊髓修复与iPSC药物发现的研究之旅 (pmid-42568821)
+- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和iPSC药物发现的研究之旅 (pmid-42568821)
   - https://pubmed.ncbi.nlm.nih.gov/42568821/
+- [ ] [高优先级] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
+  - https://pubmed.ncbi.nlm.nih.gov/42666931/
 - [ ] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
   - https://pubmed.ncbi.nlm.nih.gov/42609516/
 - [ ] 神经元来源的神经炎症在神经退行性疾病中的作用：机制与干预前景 (pmid-42580389)
   - https://pubmed.ncbi.nlm.nih.gov/42580389/
+- [ ] 轴突病理与轴突-胶质细胞互作受损作为神经退行性变的早期驱动因素 (pmid-42667624)
+  - https://pubmed.ncbi.nlm.nih.gov/42667624/
+- [ ] 人参皂苷：通过抑制铁死亡在神经退行性疾病中的潜在治疗意义 (pmid-42667453)
+  - https://pubmed.ncbi.nlm.nih.gov/42667453/
+- [ ] [高优先级] BAX的对映选择性共价抑制剂在体内赋予细胞保护作用 (pmid-42665659)
+  - https://pubmed.ncbi.nlm.nih.gov/42665659/
+- [ ] [高优先级] 自组装肽形成α-螺旋纳米孔用于超灵敏生物标志物分析 (pmid-42665653)
+  - https://pubmed.ncbi.nlm.nih.gov/42665653/
 - [ ] 城市化水平与绿化程度与肌萎缩侧索硬化发病的关联：一项匹配病例对照研究 (pmid-42664170)
   - https://pubmed.ncbi.nlm.nih.gov/42664170/
 - [ ] 肌萎缩侧索硬化症呼吸功能可靠评估的探索 (pmid-42663687)
   - https://pubmed.ncbi.nlm.nih.gov/42663687/
-- [ ] 肌萎缩侧索硬化中C9orf72突变的认知和行为表现：一项年龄、教育程度和性别匹配的队列研究 (pmid-42661580)
+- [ ] 肌萎缩侧索硬化中C9orf72突变的认知与行为表现：一项年龄、教育程度和性别匹配的队列研究 (pmid-42661580)
   - https://pubmed.ncbi.nlm.nih.gov/42661580/
-- [ ] 晚期肌萎缩侧索硬化症中放射学引导下胃造口术的临床结局 (pmid-42399082)
+- [ ] 放射学引导下胃造口术在晚期肌萎缩侧索硬化症中的临床结局 (pmid-42399082)
   - https://pubmed.ncbi.nlm.nih.gov/42399082/
 - [ ] 神经退行性疾病治疗的最新进展：单酰基甘油脂肪酶抑制策略 (pmid-42285406)
   - https://pubmed.ncbi.nlm.nih.gov/42285406/
 - [ ] 肌萎缩侧索硬化症的长期生存——来自德国莱茵兰-普法尔茨州基于人群的登记数据 (pmid-42661170)
   - https://pubmed.ncbi.nlm.nih.gov/42661170/
-- [ ] [疑似误收] 迈向微管细胞骨架及其在生理和疾病中功能的系统级视角 (pmid-42661046)
-  - https://pubmed.ncbi.nlm.nih.gov/42661046/
-- [ ] 大剂量甲钴胺治疗肌萎缩侧索硬化症：机制依据、转化证据与临床意义 (pmid-42657487)
-  - https://pubmed.ncbi.nlm.nih.gov/42657487/
-- [ ] [高优先级] 工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43 (pmid-42649384)
-  - https://pubmed.ncbi.nlm.nih.gov/42649384/
-- [ ] 它实际上已经到来：远程医疗、虚拟护理与神经肌肉疾病。 (pmid-42649099)
-  - https://pubmed.ncbi.nlm.nih.gov/42649099/
+- [ ] [疑似误收] [高优先级] 工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43 (epmc-MED-42649384)
+  - https://doi.org/10.1038/s41551-026-01774-9
+- [ ] [疑似误收] 它实际上已经到来：远程医疗、虚拟护理与神经肌肉疾病。 (epmc-MED-42649099)
+  - https://doi.org/10.1002/mus.70382
 - [ ] [疑似误收] [高优先级] 全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理 (epmc-PPR-PPR1305697)
   - https://doi.org/10.21203/rs.3.rs-10681556/v1
-- [ ] 西班牙运动神经元病死亡率的时空趋势（2000-2024年）：人口老龄化与世代风险因素 (pmid-42641496)
-  - https://pubmed.ncbi.nlm.nih.gov/42641496/
-- [ ] [疑似误收] 早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列研究 (epmc-MED-42641169)
+- [ ] 西班牙运动神经元病死亡率的时序趋势（2000-2024）：人口老龄化与世代风险因素 (epmc-MED-42641496)
+  - https://doi.org/10.1016/j.medcli.2026.107559
+- [ ] [疑似误收] 早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列 (epmc-MED-42641169)
   - https://doi.org/10.1177/22143602261477464
 - [ ] [疑似误收] 超越核糖体：核仁在神经退行性通路中不断扩展的作用 (epmc-MED-42640367)
   - https://doi.org/10.1007/s12035-026-06146-7
-- [ ] 量化大型语言模型在肌萎缩侧索硬化脑机接口通信中的影响 (epmc-PPR-PPR1305153)
+- [ ] Quantifying Large Language Model Influence in Brain Computer Interface Communication for 肌萎缩侧索硬化症 (epmc-PPR-PPR1305153)
   - https://doi.org/10.64898/2026.08.20.26360941
-- [ ] [疑似误收] [高优先级] 突触囊泡循环的破坏定义了ALS中早期且可逆的皮层发病机制 (epmc-PPR-PPR1305083)
+- [ ] [疑似误收] 待复核翻译：Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS (epmc-PPR-PPR1305083)
   - https://doi.org/10.64898/2026.08.21.746168
-- [ ] [疑似误收] JP1肽通过Keap1-Nrf2-ARE通路调节ALS模型小鼠的氧化应激与自噬 (epmc-MED-42638122)
+- [ ] [疑似误收] 待复核翻译：JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice. (epmc-MED-42638122)
   - https://doi.org/10.1186/s12916-026-05119-w
 - [ ] Bridging the gap: 神经炎症 and the dawn of precision medicine in 肌萎缩侧索硬化症. (epmc-MED-42638120)
   - https://doi.org/10.1186/s40035-026-00572-2

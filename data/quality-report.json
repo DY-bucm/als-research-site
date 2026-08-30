@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T03:44:23.031Z",
+  "updatedAt": "2026-08-30T00:19:24.048Z",
   "summary": {
-    "totalItems": 42,
-    "issueCount": 43
+    "totalItems": 45,
+    "issueCount": 48
   },
   "sources": [
     {
@@ -23,15 +23,26 @@
   ],
   "lowRelevance": [
     {
-      "id": "pmid-42661046",
-      "title": "Towards a systems-level view of the microtubule cytoskeleton and its functions in physiology and disease.",
-      "titleZh": "迈向微管细胞骨架及其在生理和疾病中功能的系统级视角",
-      "category": "临床试验",
-      "evidenceLevel": "综述/路线图（非原始实验数据）",
+      "id": "epmc-MED-42649384",
+      "title": "Engineered autophagy receptors administered with extracellular vesicles eliminate pathological Tau and TDP-43.",
+      "titleZh": "工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1038/s41551-026-01774-9"
+    },
+    {
+      "id": "epmc-MED-42649099",
+      "title": "It's Virtually Here: Telemedicine, Virtual Care, and Neuromuscular Disease.",
+      "titleZh": "它实际上已经到来：远程医疗、虚拟护理与神经肌肉疾病。",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661046/"
+      "url": "https://doi.org/10.1002/mus.70382"
     },
     {
       "id": "epmc-PPR-PPR1305697",
@@ -47,7 +58,7 @@
     {
       "id": "epmc-MED-42641169",
       "title": "Biallelic &lt;i&gt;SIGMAR1&lt;/i&gt; variants in early-onset distal hereditary motor neuropathy: A Japanese case series.",
-      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列研究",
+      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
@@ -69,23 +80,23 @@
     {
       "id": "epmc-PPR-PPR1305083",
       "title": "Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
-      "titleZh": "突触囊泡循环的破坏定义了ALS中早期且可逆的皮层发病机制",
+      "titleZh": "待复核翻译：Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.21.746168"
     },
     {
       "id": "epmc-MED-42638122",
       "title": "JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
-      "titleZh": "JP1肽通过Keap1-Nrf2-ARE通路调节ALS模型小鼠的氧化应激与自噬",
+      "titleZh": "待复核翻译：JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s12916-026-05119-w"
     },
     {
@@ -147,6 +158,28 @@
   "missingIdentifiers": [],
   "missingAbstract": [
     {
+      "id": "epmc-MED-42649384",
+      "title": "Engineered autophagy receptors administered with extracellular vesicles eliminate pathological Tau and TDP-43.",
+      "titleZh": "工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://doi.org/10.1038/s41551-026-01774-9"
+    },
+    {
+      "id": "epmc-MED-42649099",
+      "title": "It's Virtually Here: Telemedicine, Virtual Care, and Neuromuscular Disease.",
+      "titleZh": "它实际上已经到来：远程医疗、虚拟护理与神经肌肉疾病。",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/mus.70382"
+    },
+    {
       "id": "epmc-PPR-PPR1305697",
       "title": "Corticospinal propagation of full-length TDP-43 toxicity drives brain-to-muscle pathology",
       "titleZh": "全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理",
@@ -158,9 +191,20 @@
       "url": "https://doi.org/10.21203/rs.3.rs-10681556/v1"
     },
     {
+      "id": "epmc-MED-42641496",
+      "title": "Temporal trends in motor neuron disease mortality in Spain (2000-2024): Population ageing versus generational risk factors.",
+      "titleZh": "西班牙运动神经元病死亡率的时序趋势（2000-2024）：人口老龄化与世代风险因素",
+      "category": "机制",
+      "evidenceLevel": "流行病学研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.medcli.2026.107559"
+    },
+    {
       "id": "epmc-MED-42641169",
       "title": "Biallelic &lt;i&gt;SIGMAR1&lt;/i&gt; variants in early-onset distal hereditary motor neuropathy: A Japanese case series.",
-      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列研究",
+      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列",
       "category": "遗传",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
@@ -182,34 +226,34 @@
     {
       "id": "epmc-PPR-PPR1305153",
       "title": "Quantifying Large Language Model Influence in Brain Computer Interface Communication for Amyotrophic Lateral Sclerosis",
-      "titleZh": "量化大型语言模型在肌萎缩侧索硬化脑机接口通信中的影响",
+      "titleZh": "Quantifying Large Language Model Influence in Brain Computer Interface Communication for 肌萎缩侧索硬化症",
       "category": "生物标志物",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.20.26360941"
     },
     {
       "id": "epmc-PPR-PPR1305083",
       "title": "Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
-      "titleZh": "突触囊泡循环的破坏定义了ALS中早期且可逆的皮层发病机制",
+      "titleZh": "待复核翻译：Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.08.21.746168"
     },
     {
       "id": "epmc-MED-42638122",
       "title": "JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
-      "titleZh": "JP1肽通过Keap1-Nrf2-ARE通路调节ALS模型小鼠的氧化应激与自噬",
+      "titleZh": "待复核翻译：JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1186/s12916-026-05119-w"
     },
     {
@@ -281,26 +325,48 @@
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42568821",
-      "title": "From neural development to regenerative medicine: A research journey in stem cell biology, spinal cord repair, and iPSC-based drug discovery.",
-      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复与iPSC药物发现的研究之旅",
+      "id": "pmid-42666931",
+      "title": "ATXN2 Spectrum Disorders: Genetic Complexity Beyond Dominant Inheritance.",
+      "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "category": "临床试验",
-      "evidenceLevel": "综述/回顾性文章（基于作者本人已发表的动物/细胞实验及早期临床试验数据）",
+      "evidenceLevel": "专家评论/观点（基于病例报告的评论文章）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
     },
     {
-      "id": "pmid-42649384",
+      "id": "pmid-42665659",
+      "title": "An enantioselective covalent inhibitor of BAX confers cytoprotection in vivo.",
+      "titleZh": "BAX的对映选择性共价抑制剂在体内赋予细胞保护作用",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665659/"
+    },
+    {
+      "id": "pmid-42665653",
+      "title": "A self-assembled peptide forms α-helical nanopores for ultrasensitive biomarker profiling.",
+      "titleZh": "自组装肽形成α-螺旋纳米孔用于超灵敏生物标志物分析",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665653/"
+    },
+    {
+      "id": "epmc-MED-42649384",
       "title": "Engineered autophagy receptors administered with extracellular vesicles eliminate pathological Tau and TDP-43.",
       "titleZh": "工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43",
-      "category": "生物标志物",
-      "evidenceLevel": "临床前研究（细胞和动物模型）",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649384/"
+      "url": "https://doi.org/10.1038/s41551-026-01774-9"
     },
     {
       "id": "epmc-PPR-PPR1305697",
@@ -312,17 +378,6 @@
       "relevanceFlag": "low",
       "priority": "high",
       "url": "https://doi.org/10.21203/rs.3.rs-10681556/v1"
-    },
-    {
-      "id": "epmc-PPR-PPR1305083",
-      "title": "Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
-      "titleZh": "突触囊泡循环的破坏定义了ALS中早期且可逆的皮层发病机制",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.08.21.746168"
     },
     {
       "id": "trial-NCT07193953",
@@ -503,18 +558,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 11,
+    "疑似误收": 12,
     "缺标识符": 0,
-    "缺摘要": 12,
-    "高优先级待复核": 20,
+    "缺摘要": 15,
+    "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 42
+    "待复核": 45
   },
   "relevanceCounts": {
-    "medium": 7,
-    "high": 24,
-    "low": 11
+    "medium": 11,
+    "high": 22,
+    "low": 12
   }
 }
