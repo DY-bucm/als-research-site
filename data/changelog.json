@@ -1,47 +1,98 @@
 {
-  "updatedAt": "2026-08-30T00:19:24.100Z",
-  "previousSnapshot": "data/archive/2026-08-29.json",
+  "updatedAt": "2026-08-31T00:36:58.850Z",
+  "previousSnapshot": "data/archive/2026-08-30.json",
   "current": "data/items.json",
   "summary": {
-    "added": 8,
-    "removed": 5,
-    "changed": 5
+    "added": 10,
+    "removed": 18,
+    "changed": 4
   },
   "added": [
     {
-      "id": "pmid-42666931",
+      "id": "pmid-42586199",
+      "titleZh": "核SOD1将ATM-CHK2信号与ALS SHSY-5Y SOD1 G93A细胞模型中的ADH5/GSNOR转录联系起来",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586199/"
+    },
+    {
+      "id": "pmid-42668676",
+      "titleZh": "经鼻高流量湿化氧疗在肌萎缩侧索硬化症患者中对无创通气不耐受的应用：病例系列研究",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668676/"
+    },
+    {
+      "id": "pmid-42667936",
+      "titleZh": "肌萎缩侧索硬化中神经丝轻链累积暴露与纵向轨迹对1年不良事件的关联：一项前瞻性队列研究",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667936/"
+    },
+    {
+      "id": "epmc-MED-42667624",
+      "titleZh": "轴突病理与轴突-胶质细胞串扰受损作为神经退行性变的早期驱动因素",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.4103/nrr.nrr-d-26-00462"
+    },
+    {
+      "id": "epmc-MED-42666931",
       "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
-      "category": "临床试验",
+      "category": "遗传",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
+      "url": "https://doi.org/10.1212/nxg.0000000000200428"
     },
     {
-      "id": "pmid-42667624",
-      "titleZh": "轴突病理与轴突-胶质细胞互作受损作为神经退行性变的早期驱动因素",
+      "id": "epmc-PPR-PPR1307923",
+      "titleZh": "大规模重建扩展家系以促进ALS基因发现的框架",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.21.26360249"
+    },
+    {
+      "id": "epmc-PPR-PPR1307921",
+      "titleZh": "吸收与共表达模块揭示神经退行性疾病中多基因与蛋白质组风险评分的分歧点",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.24.26361271"
+    },
+    {
+      "id": "epmc-MED-42662266",
+      "titleZh": "HDAC抑制剂丁酸盐减少ALS线虫和细胞模型中的SOD1聚集并改善运动功能",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667624/"
+      "url": "https://doi.org/10.1155/ijcb/3022967"
     },
     {
-      "id": "pmid-42667453",
-      "titleZh": "人参皂苷：通过抑制铁死亡在神经退行性疾病中的潜在治疗意义",
+      "id": "epmc-MED-42661170",
+      "titleZh": "Long-term survival in 肌萎缩侧索硬化症 - data from a population-based registry in Rhineland-Palatinate, Germany.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12883-026-05325-2"
+    },
+    {
+      "id": "epmc-MED-42661046",
+      "titleZh": "待复核翻译：Towards a systems-level view of the microtubule cytoskeleton and its functions in physiology and disease.",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667453/"
+      "url": "https://doi.org/10.1038/s41580-026-01011-w"
+    }
+  ],
+  "removed": [
+    {
+      "id": "pmid-42285406",
+      "titleZh": "神经退行性疾病治疗的最新进展：单酰基甘油脂肪酶抑制策略",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42285406/"
     },
     {
-      "id": "pmid-42665659",
-      "titleZh": "BAX的对映选择性共价抑制剂在体内赋予细胞保护作用",
+      "id": "pmid-42661170",
+      "titleZh": "肌萎缩侧索硬化症的长期生存——来自德国莱茵兰-普法尔茨州基于人群的登记数据",
       "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42665659/"
-    },
-    {
-      "id": "pmid-42665653",
-      "titleZh": "自组装肽形成α-螺旋纳米孔用于超灵敏生物标志物分析",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42665653/"
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661170/"
     },
     {
       "id": "epmc-MED-42649384",
@@ -58,54 +109,124 @@
       "url": "https://doi.org/10.1002/mus.70382"
     },
     {
+      "id": "epmc-PPR-PPR1305697",
+      "titleZh": "全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理",
+      "category": "机制",
+      "priority": "high",
+      "url": "https://doi.org/10.21203/rs.3.rs-10681556/v1"
+    },
+    {
       "id": "epmc-MED-42641496",
       "titleZh": "西班牙运动神经元病死亡率的时序趋势（2000-2024）：人口老龄化与世代风险因素",
       "category": "机制",
       "priority": "medium",
       "url": "https://doi.org/10.1016/j.medcli.2026.107559"
-    }
-  ],
-  "removed": [
+    },
     {
-      "id": "pmid-42661046",
-      "titleZh": "迈向微管细胞骨架及其在生理和疾病中功能的系统级视角",
-      "category": "临床试验",
+      "id": "epmc-MED-42641169",
+      "titleZh": "早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列",
+      "category": "遗传",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661046/"
+      "url": "https://doi.org/10.1177/22143602261477464"
     },
     {
-      "id": "pmid-42657487",
-      "titleZh": "大剂量甲钴胺治疗肌萎缩侧索硬化症：机制依据、转化证据与临床意义",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42657487/"
-    },
-    {
-      "id": "pmid-42649384",
-      "titleZh": "工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43",
-      "category": "生物标志物",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649384/"
-    },
-    {
-      "id": "pmid-42649099",
-      "titleZh": "它实际上已经到来：远程医疗、虚拟护理与神经肌肉疾病。",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649099/"
-    },
-    {
-      "id": "pmid-42641496",
-      "titleZh": "西班牙运动神经元病死亡率的时空趋势（2000-2024年）：人口老龄化与世代风险因素",
+      "id": "epmc-MED-42640367",
+      "titleZh": "超越核糖体：核仁在神经退行性通路中不断扩展的作用",
       "category": "机制",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42641496/"
+      "url": "https://doi.org/10.1007/s12035-026-06146-7"
+    },
+    {
+      "id": "epmc-PPR-PPR1305153",
+      "titleZh": "Quantifying Large Language Model Influence in Brain Computer Interface Communication for 肌萎缩侧索硬化症",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.08.20.26360941"
+    },
+    {
+      "id": "epmc-PPR-PPR1305083",
+      "titleZh": "待复核翻译：Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.08.21.746168"
+    },
+    {
+      "id": "epmc-MED-42638122",
+      "titleZh": "待复核翻译：JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12916-026-05119-w"
+    },
+    {
+      "id": "epmc-MED-42638120",
+      "titleZh": "Bridging the gap: 神经炎症 and the dawn of precision medicine in 肌萎缩侧索硬化症.",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s40035-026-00572-2"
+    },
+    {
+      "id": "epmc-MED-42637106",
+      "titleZh": "待复核翻译：Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS.",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.nbd.2026.107582"
+    },
+    {
+      "id": "epmc-MED-42636890",
+      "titleZh": "待复核翻译：Living drug carriers: Microbial and bioengineered platforms redefining precision therapeutic and immunomodulatory delivery.",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.115274"
+    },
+    {
+      "id": "epmc-MED-42636496",
+      "titleZh": "待复核翻译：End-of-Life Care in an Acute Neurological Ward: A Retrospective Analysis of Clinical Practices During the Last Week of Life.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1097/jnn.0000000000000906"
+    },
+    {
+      "id": "epmc-MED-42636000",
+      "titleZh": "待复核翻译：TDP-43-Associated Neurodegenerative Disease Conceptualization and Integrated Staging: A Review.",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1001/jamaneurol.2026.2812"
+    },
+    {
+      "id": "epmc-MED-42635866",
+      "titleZh": "待复核翻译：Decoding the Neuroinflammatory Potential of Non-Nutritive Sweeteners Through An Integrative Computational Approach.",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s12640-026-00822-1"
+    },
+    {
+      "id": "pmid-42662266",
+      "titleZh": "待复核翻译：The HDAC Inhibitor Butyrate Reduces SOD1 Aggregation and Improves Motor Function in C. elegans and Cellular Models of ALS.",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42662266/"
     }
   ],
   "changed": [
     {
       "id": "pmid-42568821",
-      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复和iPSC药物发现的研究之旅",
+      "titleZh": "从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "high"
+        },
+        {
+          "field": "evidenceLevel",
+          "before": "综述/回顾性文章",
+          "after": "综述/专家观点"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42666931",
+      "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "changes": [
         {
           "field": "priority",
@@ -114,52 +235,30 @@
         },
         {
           "field": "evidenceLevel",
-          "before": "综述/回顾性文章（基于作者本人已发表的动物/细胞实验及早期临床试验数据）",
-          "after": "综述/回顾性文章"
+          "before": "专家评论/观点（基于病例报告的评论文章）",
+          "after": "待人工判定"
         }
       ]
     },
     {
-      "id": "pmid-42661580",
-      "titleZh": "肌萎缩侧索硬化中C9orf72突变的认知与行为表现：一项年龄、教育程度和性别匹配的队列研究",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "观察性临床研究（匹配队列研究）",
-          "after": "观察性临床研究"
-        }
-      ]
-    },
-    {
-      "id": "epmc-PPR-PPR1305153",
-      "titleZh": "Quantifying Large Language Model Influence in Brain Computer Interface Communication for 肌萎缩侧索硬化症",
+      "id": "pmid-42609516",
+      "titleZh": "神经退行性疾病中的细胞死亡：分子机制与治疗靶点",
       "changes": [
         {
           "field": "priority",
           "before": "medium",
-          "after": "low"
+          "after": "high"
         }
       ]
     },
     {
-      "id": "epmc-PPR-PPR1305083",
-      "titleZh": "待复核翻译：Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "high",
-          "after": "low"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42638122",
-      "titleZh": "待复核翻译：JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice.",
+      "id": "pmid-42667624",
+      "titleZh": "轴突病理与轴突-胶质细胞串扰受损作为神经退行性变的早期驱动因素",
       "changes": [
         {
           "field": "priority",
           "before": "medium",
-          "after": "low"
+          "after": "high"
         }
       ]
     }

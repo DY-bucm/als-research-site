@@ -1,14 +1,38 @@
 {
-  "updatedAt": "2026-08-30T00:17:32.645Z",
+  "updatedAt": "2026-08-31T00:34:59.592Z",
   "period": {
     "days": 10,
-    "from": "2026-08-21",
-    "to": "2026-08-30"
+    "from": "2026-08-22",
+    "to": "2026-08-31"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 33,
+  "count": 32,
   "articles": [
+    {
+      "id": "pmid-42667936",
+      "pmid": "42667936",
+      "doi": "10.1016/j.nbd.2026.107584",
+      "title": "Associations of cumulative exposure and longitudinal trajectories of neurofilament light chain with 1-year adverse events in amyotrophic lateral sclerosis: A prospective cohort study.",
+      "abstract": "Baseline neurofilament light chain (NFL) predicts amyotrophic lateral sclerosis (ALS) outcomes, but it does not summarize early repeated biomarker information. We evaluated whether cumulative NFL exposure (cuNFL), calculated over an early monitoring window, and longitudinal NFL trajectory groups were associated with subsequent adverse events in a prospective cohort. This prospective study enrolled patients with ALS from 32 provinces in China between January 2024 and January 2025. Plasma NFL was measured at baseline, month 1, and month 2. We used K-means clustering to describe longitudinal NFL patterns and multivariable survival models to evaluate prognostic associations. Inverse-probability weighting and causal-forest analyses were used as exploratory, confounding-adjusted analyses of high versus low cuNFL. K-means clustering identified three longitudinal NFL groups: Low-Stable (n = 183), Moderate (n = 225), and High-Progressive (n = 100). The High-Progressive group had the shortest event-free survival (P < 0.001). Each 1-SD increment in cuNFL was associated with higher odds of adverse events (adjusted OR 1.99; 95% CI 1.52-2.60; P < 0.001). Using the manuscript-defined 127-event outcome, apparent discrimination was AUC 0.730 for cuNFL and 0.717 for baseline NFL. The paired DeLong comparison was not statistically significant (P = 0.084). Exploratory machine-learning analyses suggested heterogeneity in the association of high cuNFL with outcome by age and respiratory function. Early repeated NFL measurements summarized as cuNFL and longitudinal trajectory groups were associated with short-term adverse events in this cohort. These findings support further external validation of longitudinal NFL-based risk stratification. They do not establish a causal biological effect or a basis for routine repeated measurement.",
+      "journal": "Neurobiology of disease",
+      "authors": [
+        "Zhu J",
+        "Zhang Y",
+        "Yang B",
+        "Xiang Q",
+        "Hu S",
+        "Wei W",
+        "Zhou H",
+        "Yang G",
+        "Zhang H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667936/"
+    },
     {
       "id": "pmid-42667624",
       "pmid": "42667624",
@@ -193,6 +217,27 @@
       ],
       "publishedAt": "2026-08-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42399082/"
+    },
+    {
+      "id": "pmid-42668676",
+      "pmid": "42668676",
+      "doi": "10.1002/rcr2.70744",
+      "title": "Use of High-Flow Nasal Cannula in Amyotrophic Lateral Sclerosis Patients Intolerant to Non-Invasive Ventilation: A Case Series.",
+      "abstract": "Non-invasive ventilation (NIV) is standard respiratory support for amyotrophic lateral sclerosis (ALS), but intolerance may limit its use. High-flow nasal cannula (HFNC) has emerged as a potential alternative in selected patients, but evidence regarding its use remains scarce. We describe 18 ALS patients' management with HFNC between 2014 and 2024 after documented intolerance to NIV. Mean age at HFNC initiation was 65.1 ± 12.5 years, and 66.7% of patients were female. Partial NIV intolerance occurred in 38.9% of cases, while 33.3% tolerated intermittent combined NIV and HFNC. During follow-up, 50.0% of patients required hospitalization, 33.3% experienced respiratory infections, and 27.8% died. Arterial blood gas parameters remained stable, including PaCO 2 ( p = 0.314). Functional status declined significantly, with Barthel Index decreasing (35.0 ± 20.5 vs. 11.7 ± 11.3; p < 0.001), whereas respiratory muscle strength remained unchanged. HFNC was feasible as home-based support in ALS patients intolerant to NIV, warranting prospective comparative evaluation.",
+      "journal": "Respirology case reports",
+      "authors": [
+        "Varon-Vega F",
+        "Franco Parra CE",
+        "Adame Ochoa DF",
+        "Uricoechea N",
+        "Tuta-Quintero E",
+        "Martinez Ayala MC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668676/"
     },
     {
       "id": "pmid-42666931",
@@ -721,58 +766,6 @@
       ],
       "publishedAt": "2026-08-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42666355/"
-    },
-    {
-      "id": "pmid-42628773",
-      "pmid": "42628773",
-      "doi": "10.1016/j.brainres.2026.150513",
-      "title": "A replicated astrocyte long non-coding RNA signature of Alzheimer's disease is inverted in amyotrophic lateral sclerosis.",
-      "abstract": "Reactive astrocyte transitions are central to neurological disease, yet their long non-coding RNA (lncRNA) regulators remain poorly defined, and single-nucleus studies frequently treat nuclei rather than donors as replicates. This study analyses publicly available human single-nucleus RNA sequencing from four disorders using donors as the unit of inference throughout: Alzheimer's disease (AD; middle temporal gyrus, 88 donors), C9orf72-associated amyotrophic lateral sclerosis and ALS/frontotemporal dementia (ALS; frontal cortex), multiple sclerosis (MS; cortex and white matter), and major depressive disorder (MDD; amygdala). The public MDD release pools nuclei by condition, so that arm cannot support donor-level inference and is exploratory only. Covariate-adjusted pseudobulk analysis of 70,009 CE astrocytes, controlling for sex, age at death and assay chemistry, identified 1,019 down-regulated autosomal lncRNAs after sex-chromosome transcripts were removed. This signature was not attributable to astrocyte subtype composition, which did not differ between groups, and 99.9% of members remained down-regulated within the dominant homeostatic subtype alone. The signature replicated in an independent AD cohort (32 of 41 testable members concordant; resampling P < 0.0001). Testing it outside AD gave a directional result: it was concordant in the MS discovery cohort (P < 0.0001) but inconclusive in an independent MS cohort in which the transcripts lay near the detection floor, and it was reproducibly inverted in ALS, in the C9orf72 discovery cohort and in an independent motor-cortex cohort not restricted to C9orf72 carriers. The inversion survived negative controls for global normalisation and expression level. These astrocyte lncRNA changes are therefore disorder-specific rather than pan-neuroinflammatory.",
-      "journal": "Brain research",
-      "authors": [
-        "Tani H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42628773/"
-    },
-    {
-      "id": "pmid-42627134",
-      "pmid": "42627134",
-      "doi": "10.1080/17582024.2026.2722300",
-      "title": "RNA interference (RNA)-based therapeutics for treating neurodegenerative diseases.",
-      "abstract": "",
-      "journal": "Neurodegenerative disease management",
-      "authors": [
-        "Mahjoubin-Tehran M",
-        "Sahebkar A"
-      ],
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "publishedAt": "2026-08-21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42627134/"
-    },
-    {
-      "id": "pmid-42651202",
-      "pmid": "42651202",
-      "doi": "10.3390/brainsci16080895",
-      "title": "Task-Evoked Prefrontal Hemodynamics During Cognitive Assessment in Amyotrophic Lateral Sclerosis Using fNIRS.",
-      "abstract": "Background/Objectives: Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease increasingly recognized for extra-motor manifestations, including cognitive dysfunction involving frontal cortical systems. Conventional clinical assessments are primarily behavioral and may not capture subtle alterations in the neural systems that support cognitive performance. This pilot study examined whether wearable functional near-infrared spectroscopy (fNIRS) could detect task-evoked prefrontal hemodynamic differences during the King-Devick Task (KDT), a rapid oculomotor number-naming task that engages visual scanning, attention, processing speed, and verbal response production. Methods: Sixteen participants, including seven individuals with ALS and nine age-matched healthy controls (HC), completed four progressively difficult KDT conditions while prefrontal cortical activity was recorded. Results: As task difficulty increased, response times became slower across participants, while accuracy remained preserved and behavioral performance did not differ significantly between groups. Prefrontal oxygenated hemoglobin (HbO) responses increased with task difficulty across all prefrontal optodes, supporting task-evoked cortical engagement. In contrast, deoxygenated hemoglobin (HbR) responses showed a group-specific pattern in the left dorsolateral prefrontal cortex: individuals with ALS demonstrated progressively increasing HbR responses across difficulty conditions, whereas HC showed relatively stable responses, with group differences emerging at higher difficulty levels. Conclusions: These findings suggest a dissociation between preserved behavioral performance and altered prefrontal hemodynamic regulation in ALS. The observed HbR pattern may reflect differences in cortical recruitment, neurovascular coupling, oxygen extraction, vascular responsiveness, or the efficiency of cortical resource allocation during increasing cognitive-motor demands. Wearable fNIRS may therefore complement behavioral assessments by revealing task-evoked neural alterations that are not evident from performance measures alone.",
-      "journal": "Brain sciences",
-      "authors": [
-        "Alshehri S",
-        "Atabek B",
-        "Heiman-Patterson T",
-        "Ayaz H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651202/"
     }
   ]
 }

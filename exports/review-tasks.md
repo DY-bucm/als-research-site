@@ -1,63 +1,49 @@
 # 复核任务清单
 
-- [ ] 从神经发育到再生医学：干细胞生物学、脊髓修复和iPSC药物发现的研究之旅 (pmid-42568821)
+- [ ] [高优先级] 从神经发育到再生医学：干细胞生物学、脊髓修复和基于iPSC的药物发现研究之旅 (pmid-42568821)
   - https://pubmed.ncbi.nlm.nih.gov/42568821/
-- [ ] [高优先级] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
+- [ ] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
   - https://pubmed.ncbi.nlm.nih.gov/42666931/
-- [ ] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
+- [ ] 核SOD1将ATM-CHK2信号与ALS SHSY-5Y SOD1 G93A细胞模型中的ADH5/GSNOR转录联系起来 (pmid-42586199)
+  - https://pubmed.ncbi.nlm.nih.gov/42586199/
+- [ ] 经鼻高流量湿化氧疗在肌萎缩侧索硬化症患者中对无创通气不耐受的应用：病例系列研究 (pmid-42668676)
+  - https://pubmed.ncbi.nlm.nih.gov/42668676/
+- [ ] [高优先级] 神经退行性疾病中的细胞死亡：分子机制与治疗靶点 (pmid-42609516)
   - https://pubmed.ncbi.nlm.nih.gov/42609516/
 - [ ] 神经元来源的神经炎症在神经退行性疾病中的作用：机制与干预前景 (pmid-42580389)
   - https://pubmed.ncbi.nlm.nih.gov/42580389/
-- [ ] 轴突病理与轴突-胶质细胞互作受损作为神经退行性变的早期驱动因素 (pmid-42667624)
+- [ ] [高优先级] 肌萎缩侧索硬化中神经丝轻链累积暴露与纵向轨迹对1年不良事件的关联：一项前瞻性队列研究 (pmid-42667936)
+  - https://pubmed.ncbi.nlm.nih.gov/42667936/
+- [ ] [高优先级] 轴突病理与轴突-胶质细胞串扰受损作为神经退行性变的早期驱动因素 (pmid-42667624)
   - https://pubmed.ncbi.nlm.nih.gov/42667624/
 - [ ] 人参皂苷：通过抑制铁死亡在神经退行性疾病中的潜在治疗意义 (pmid-42667453)
   - https://pubmed.ncbi.nlm.nih.gov/42667453/
+- [ ] [疑似误收] 轴突病理与轴突-胶质细胞串扰受损作为神经退行性变的早期驱动因素 (epmc-MED-42667624)
+  - https://doi.org/10.4103/nrr.nrr-d-26-00462
 - [ ] [高优先级] BAX的对映选择性共价抑制剂在体内赋予细胞保护作用 (pmid-42665659)
   - https://pubmed.ncbi.nlm.nih.gov/42665659/
 - [ ] [高优先级] 自组装肽形成α-螺旋纳米孔用于超灵敏生物标志物分析 (pmid-42665653)
   - https://pubmed.ncbi.nlm.nih.gov/42665653/
 - [ ] 城市化水平与绿化程度与肌萎缩侧索硬化发病的关联：一项匹配病例对照研究 (pmid-42664170)
   - https://pubmed.ncbi.nlm.nih.gov/42664170/
-- [ ] 肌萎缩侧索硬化症呼吸功能可靠评估的探索 (pmid-42663687)
+- [ ] 探索肌萎缩侧索硬化症呼吸功能可靠评估方法 (pmid-42663687)
   - https://pubmed.ncbi.nlm.nih.gov/42663687/
-- [ ] 肌萎缩侧索硬化中C9orf72突变的认知与行为表现：一项年龄、教育程度和性别匹配的队列研究 (pmid-42661580)
+- [ ] 肌萎缩侧索硬化中C9orf72突变的认知和行为表现：一项年龄、教育和性别匹配的队列研究 (pmid-42661580)
   - https://pubmed.ncbi.nlm.nih.gov/42661580/
 - [ ] 放射学引导下胃造口术在晚期肌萎缩侧索硬化症中的临床结局 (pmid-42399082)
   - https://pubmed.ncbi.nlm.nih.gov/42399082/
-- [ ] 神经退行性疾病治疗的最新进展：单酰基甘油脂肪酶抑制策略 (pmid-42285406)
-  - https://pubmed.ncbi.nlm.nih.gov/42285406/
-- [ ] 肌萎缩侧索硬化症的长期生存——来自德国莱茵兰-普法尔茨州基于人群的登记数据 (pmid-42661170)
-  - https://pubmed.ncbi.nlm.nih.gov/42661170/
-- [ ] [疑似误收] [高优先级] 工程化自噬受体经细胞外囊泡递送清除病理性 Tau 和 TDP-43 (epmc-MED-42649384)
-  - https://doi.org/10.1038/s41551-026-01774-9
-- [ ] [疑似误收] 它实际上已经到来：远程医疗、虚拟护理与神经肌肉疾病。 (epmc-MED-42649099)
-  - https://doi.org/10.1002/mus.70382
-- [ ] [疑似误收] [高优先级] 全长TDP-43毒性的皮质脊髓传播驱动脑至肌肉病理 (epmc-PPR-PPR1305697)
-  - https://doi.org/10.21203/rs.3.rs-10681556/v1
-- [ ] 西班牙运动神经元病死亡率的时序趋势（2000-2024）：人口老龄化与世代风险因素 (epmc-MED-42641496)
-  - https://doi.org/10.1016/j.medcli.2026.107559
-- [ ] [疑似误收] 早发性远端遗传性运动神经病中的双等位基因SIGMAR1变异：日本病例系列 (epmc-MED-42641169)
-  - https://doi.org/10.1177/22143602261477464
-- [ ] [疑似误收] 超越核糖体：核仁在神经退行性通路中不断扩展的作用 (epmc-MED-42640367)
-  - https://doi.org/10.1007/s12035-026-06146-7
-- [ ] Quantifying Large Language Model Influence in Brain Computer Interface Communication for 肌萎缩侧索硬化症 (epmc-PPR-PPR1305153)
-  - https://doi.org/10.64898/2026.08.20.26360941
-- [ ] [疑似误收] 待复核翻译：Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS (epmc-PPR-PPR1305083)
-  - https://doi.org/10.64898/2026.08.21.746168
-- [ ] [疑似误收] 待复核翻译：JP1 peptide modulates oxidative stress and autophagy via Keap1-Nrf2-ARE in ALS model mice. (epmc-MED-42638122)
-  - https://doi.org/10.1186/s12916-026-05119-w
-- [ ] Bridging the gap: 神经炎症 and the dawn of precision medicine in 肌萎缩侧索硬化症. (epmc-MED-42638120)
-  - https://doi.org/10.1186/s40035-026-00572-2
-- [ ] [疑似误收] 待复核翻译：Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS. (epmc-MED-42637106)
-  - https://doi.org/10.1016/j.nbd.2026.107582
-- [ ] [疑似误收] 待复核翻译：Living drug carriers: Microbial and bioengineered platforms redefining precision therapeutic and immunomodulatory delivery. (epmc-MED-42636890)
-  - https://doi.org/10.1016/j.jconrel.2026.115274
-- [ ] [疑似误收] 待复核翻译：End-of-Life Care in an Acute Neurological Ward: A Retrospective Analysis of Clinical Practices During the Last Week of Life. (epmc-MED-42636496)
-  - https://doi.org/10.1097/jnn.0000000000000906
-- [ ] [疑似误收] 待复核翻译：TDP-43-Associated Neurodegenerative Disease Conceptualization and Integrated Staging: A Review. (epmc-MED-42636000)
-  - https://doi.org/10.1001/jamaneurol.2026.2812
-- [ ] [疑似误收] 待复核翻译：Decoding the Neuroinflammatory Potential of Non-Nutritive Sweeteners Through An Integrative Computational Approach. (epmc-MED-42635866)
-  - https://doi.org/10.1007/s12640-026-00822-1
+- [ ] [疑似误收] [高优先级] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (epmc-MED-42666931)
+  - https://doi.org/10.1212/nxg.0000000000200428
+- [ ] [疑似误收] 大规模重建扩展家系以促进ALS基因发现的框架 (epmc-PPR-PPR1307923)
+  - https://doi.org/10.64898/2026.08.21.26360249
+- [ ] [疑似误收] 吸收与共表达模块揭示神经退行性疾病中多基因与蛋白质组风险评分的分歧点 (epmc-PPR-PPR1307921)
+  - https://doi.org/10.64898/2026.08.24.26361271
+- [ ] HDAC抑制剂丁酸盐减少ALS线虫和细胞模型中的SOD1聚集并改善运动功能 (epmc-MED-42662266)
+  - https://doi.org/10.1155/ijcb/3022967
+- [ ] Long-term survival in 肌萎缩侧索硬化症 - data from a population-based registry in Rhineland-Palatinate, Germany. (epmc-MED-42661170)
+  - https://doi.org/10.1186/s12883-026-05325-2
+- [ ] [疑似误收] 待复核翻译：Towards a systems-level view of the microtubule cytoskeleton and its functions in physiology and disease. (epmc-MED-42661046)
+  - https://doi.org/10.1038/s41580-026-01011-w
 - [ ] [高优先级] Intravenous Immunoglobulin (IVIG) and Blood-Brain Barrier Disruption in 肌萎缩侧索硬化症 (ALS) (trial-NCT07193953)
   - https://clinicaltrials.gov/study/NCT07193953
 - [ ] [高优先级] Neurologic 干细胞 Treatment Study (trial-NCT02795052)
@@ -72,8 +58,6 @@
   - https://clinicaltrials.gov/study/NCT07509125
 - [ ] [高优先级] Safety and Tolerability Study of CTx1000 In Participants With 肌萎缩侧索硬化症 (trial-NCT07401121)
   - https://clinicaltrials.gov/study/NCT07401121
-- [ ] [高优先级] 待复核翻译：The HDAC Inhibitor Butyrate Reduces SOD1 Aggregation and Improves Motor Function in C. elegans and Cellular Models of ALS. (pmid-42662266)
-  - https://pubmed.ncbi.nlm.nih.gov/42662266/
 - [ ] [高优先级] 待复核翻译：Efficacy and Safety of Masitinib in Combination With SoC Versus Placebo in the Treatment of ALS Patients (trial-NCT07174492)
   - https://clinicaltrials.gov/study/NCT07174492
 - [ ] [高优先级] 待复核翻译：Home-based Remote Digital Monitoring to Assess ALS Progression (Track ALS) (trial-NCT05276349)
