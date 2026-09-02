@@ -1,14 +1,71 @@
 {
-  "updatedAt": "2026-09-01T01:16:41.773Z",
+  "updatedAt": "2026-09-02T00:09:38.457Z",
   "period": {
     "days": 10,
-    "from": "2026-08-23",
-    "to": "2026-09-01"
+    "from": "2026-08-24",
+    "to": "2026-09-02"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 39,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-42677823",
+      "pmid": "42677823",
+      "doi": "10.1002/ana.78348",
+      "title": "Cofilin 1 Is an Extracellular Vesicle-Associated Plasma Biomarker of Parkinson's Disease in Humans.",
+      "abstract": "Parkinson's disease (PD) lacks reliable, minimally invasive biomarkers for diagnosis. This study aimed to identify and validate PD-specific plasma extracellular vesicle (EV)-associated proteins. Plasma EVs were isolated by ultracentrifugation and characterized. Proteomic profiling of total plasma EVs from PD patients and healthy controls was performed, and a candidate protein identified after analysis was validated by enzyme-linked immunosorbent assay. Diagnostic accuracy was evaluated using receiver operating characteristic and precision-recall curve analysis. Disease specificity was examined in progressive supranuclear palsy and amyotrophic lateral sclerosis. Histochemical and immunofluorescence analyses were conducted in human and mouse PD brain tissue. Proteomic analysis identified distinct PD-specific EV proteins, including cofilin 1 (CFL1), which was significantly enriched in EVs isolated from PD. EV-CFL1 levels were significantly elevated in PD compared with healthy controls (p < 0.0001). Receiver operating characteristic analysis showed strong diagnostic performance for EV-CFL1 (area under the curve 0.87). Also, EV CFL1 levels could distinguish PD from progressive supranuclear palsy patients (area under the curve 0.914). CFL1 was enriched in L1 cell adhesion molecule-positive EVs, indicating a possible neuronal origin. CFL1 was detected in both human and mouse PD brain sections. Importantly, EV-CFL1 levels were independent of age, disease stage, and motor severity. EV-associated CFL1 represents a PD-specific, blood-based marker with strong diagnostic accuracy and can distinguish PD from atypical parkinsonism. The presence of CFL1 was confirmed in human and mouse PD brain tissue, and its accumulation in PD brain suggests a possible role in disease pathogenesis. ANN NEUROL 2026.",
+      "journal": "Annals of neurology",
+      "authors": [
+        "Chandran D",
+        "Agrawal U",
+        "Damayanthi D",
+        "Nair DT",
+        "Mandagini G",
+        "Nair SS",
+        "Narasimhaiah D",
+        "Fernandez FB",
+        "Thakur P",
+        "Raghavan CT",
+        "Krishnan S",
+        "Gopala S",
+        "Urulangodi M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677823/"
+    },
+    {
+      "id": "pmid-42677779",
+      "pmid": "42677779",
+      "doi": "10.1002/brb3.71740",
+      "title": "CSF Tau and Amyloid Biomarkers in Cognitive Impairment Across the ALS-FTD Spectrum: A Systematic Narrative Review and Evidence Map.",
+      "abstract": "Cognitive impairment is an important non-motor manifestation of amyotrophic lateral sclerosis (ALS), particularly across the ALS-frontotemporal dementia (ALS-FTD) spectrum. Cerebrospinal fluid (CSF) tau and amyloid biomarkers may reflect nonspecific neurodegenerative injury, concomitant Alzheimer disease (AD) pathology, or distinct cognitive phenotypes. However, available evidence remains limited, fragmented, and methodologically heterogeneous. This systematic narrative review and semi-quantitative evidence map was conducted according to PRISMA 2020 recommendations. PubMed, Scopus, Web of Science, and Google Scholar were searched from database inception through May 2026. Eligible observational studies reported cognition-specific associations between CSF tau, amyloid, or related neurodegenerative biomarkers and cognitive outcomes in ALS-spectrum populations. Two reviewers independently screened studies, extracted quantitative effect estimates, and assessed risk of bias using the Newcastle-Ottawa Scale. Cross-study consistency was summarized using an exploratory semi-quantitative evidence-coding framework. Four observational studies comprising 638 ALS-spectrum participants fulfilled the eligibility criteria. Total tau and p-tau181 showed the most reproducible associations with cognition. Total tau correlated with ECAS total (r = -0.398, P < 0.001) and ALS-specific cognition (r = -0.403, P < 0.001), while adjusted multicenter analyses demonstrated associations between p-tau181 and ECAS total (β = -0.03, p = 0.006) and memory performance (β = -0.04, p = 0.003). Both biomarkers received ++ evidence-map coding. Amyloid findings were more heterogeneous; lower Aβ42/Aβ40 was associated with poorer memory performance (β = 0.20, p = 0.044), but continuous amyloid-cognition associations were not consistently replicated across cohorts (± evidence). Broader CSF protein-ratio findings remained exploratory. Clinical, cognitive, assay, and analytical heterogeneity precluded meta-analysis. The available evidence, although limited and heterogeneous, suggests that total tau may primarily reflect broader neurodegenerative injury, whereas p-tau181 and Aβ42/Aβ40 may be more informative for selected cognitive phenotypes or possible AD co-pathology. These biomarkers should remain research tools until larger, standardized, longitudinal multicenter studies establish their pathological specificity, predictive value, and clinical utility.",
+      "journal": "Brain and behavior",
+      "authors": [
+        "Ali A",
+        "Arif M",
+        "Ashraf U",
+        "Elahi S",
+        "Mustafa A",
+        "Yasir MB",
+        "Sarfraz W",
+        "Ansari AU",
+        "Masood HMY",
+        "Shabbir MA",
+        "Abdullah A",
+        "Sharma MK"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677779/"
+    },
     {
       "id": "pmid-42613775",
       "pmid": "42613775",
@@ -27,6 +84,48 @@
       ],
       "publishedAt": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42613775/"
+    },
+    {
+      "id": "pmid-42677831",
+      "pmid": "42677831",
+      "doi": "10.1172/JCI199847",
+      "title": "Mitophagy in neuronal health and disease: from mechanisms to neurodegeneration.",
+      "abstract": "Regulation of mitochondrial health is critical for maintaining cellular homeostasis in the nervous system. Damaged mitochondria can have detrimental effects on neuronal health and are thought to be key contributors to the progression of neurodegenerative disorders including Parkinson's disease and amyotrophic lateral sclerosis. To mitigate this damage, multiple quality control mechanisms have evolved to eliminate aged or damaged mitochondria. One such quality control process is autophagy, a process that involves turnover of mitochondria at presynaptic sites and the axon terminal under basal conditions. This highly conserved mechanism sequesters mitochondria from the cytosol within autophagosomes followed by degradation upon fusion with a lysosome. Acute mitochondrial damage activates a selective form of autophagy called mitophagy that involves receptor-mediated engulfment and degradation of the damaged organelle. Multiple mechanisms have been shown to drive efficient mitophagy in neurons and glia, including PTEN induced kinase 1 (PINK1)/Parkin-dependent mitophagy and receptor-mediated mitophagy. Genetic, pathological, and experimental evidence all implicate defects in the removal of damaged mitochondria in the onset or progression of neurodegenerative disease. Both the initiation of PINK1/Parkin-dependent mitophagy and deficits in the removal of damaged mitochondria are linked to activation of neuroinflammatory pathways, including NF-κB and cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) signaling. In this Review, we discuss the molecular pathways governing mitophagy in neurons and glial cells and how deficits in these pathways may lead to neurodegeneration. We also highlight emerging therapeutic strategies aimed at restoring mitophagy to preserve neuronal homeostasis and function.",
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Basak B",
+        "Riley JF",
+        "Nataraj NM",
+        "Holzbaur EL"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677831/"
+    },
+    {
+      "id": "pmid-42678414",
+      "pmid": "42678414",
+      "doi": "10.1007/s00401-026-03078-3",
+      "title": "Seeds from ALS patients homozygous for the SOD1 D90A mutation transmit two types of SOD1 aggregation and motor neuron disease.",
+      "abstract": "Mutations in superoxide dismutase-1 (SOD1) are a common cause of amyotrophic lateral sclerosis (ALS). Inheritance is as a rule dominant, but in carriers of the most prevalent mutation, D90A, disease primarily develops in homozygotes. Increasing evidence suggests that prion-like propagation of SOD1 aggregation is the central pathogenic mechanism. Two structurally different strains of aggregates have been found to arise in human SOD1 (hSOD1) transgenic (Tg) mouse models of ALS. Strain A is formed by most mutants including hSOD1 G85R and homozygous hSOD1 WT Tg mice, whereas homozygous hSOD1 D90A Tg mice form a distinct strain B, but also A. Inoculation of strain A and B seed preparations from Tg mice into lumbar spinal cord of adult hSOD1 G85R mice induced templated spreading hSOD1 aggregation and premature ALS-like disease. Seeds from an ALS patient carrying the hSOD1 G127X truncation mutation likewise transmitted strain A aggregation and disease. In the present study, we investigated whether seeds prepared from spinal ventral horns from six patients homozygous for the hSOD1 D90A mutation could transmit aggregation and disease to adult hSOD1 G85R Tg mice. Despite the extensive degeneration and loss of motor neurons in the long-lived D90A patients, two of the seeds significantly shortened the survival of the Tg mice, one transmitting A and the other B-pattern hSOD1 aggregation. Nine different preparations from four human controls lacked effects. The results demonstrate that two distinct aggregate strains can arise and propagate in homozygous hSOD1 D90A ALS patients, further supporting the hypothesis that prion-like transmission of hSOD1 aggregation is the primary pathogenic mechanism in SOD1-linked ALS.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "Henne C",
+        "Sigfridsson I",
+        "Brännström T",
+        "Forsberg KME",
+        "Marklund SL",
+        "Zetterström P",
+        "Andersen PM"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678414/"
     },
     {
       "id": "pmid-42449472",
@@ -54,6 +153,25 @@
       ],
       "publishedAt": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42449472/"
+    },
+    {
+      "id": "pmid-42678590",
+      "pmid": "42678590",
+      "doi": "10.1007/s11033-026-12618-9",
+      "title": "Whole-exome sequencing reveals a novel frameshift and a recurrent nonsense SPG11 variant causing rare familial amyotrophic lateral sclerosis type 5 in two consanguineous Pakistani families.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease that affects both upper and lower motor neurons, disturbing communication between the brain and muscles. So far, few reports have been published for the SPG11-associated ALS, and this is the first documented case from Pakistan. METHODS: We report a rare subtype of ALS with an autosomal recessive mode of inheritance with juvenile onset before 25 years of age in the five affected individuals from two unrelated families. Whole-exome sequencing was performed to identify disease-causing variants, and selected variants were further prioritized based on predicted pathogenicity and similarity to clinical phenotypes. Two homozygous variants within the SPG11 gene were identified as pathogenic according to the ACMG and ClinGen Sequence Variant Interpretation (SVI) Working Group recommendations: a novel truncation (NM_025137.4:c.6738dup, p.Glu2247Ter) variant as validated by Sanger sequencing and a recurrent nonsense (NM_025137.4: c.782C>A, p.Ser261Ter) variant (rs765477482) previously reported in a family affected with autosomal recessive hereditary spastic paraplegia (ARHSP). In silico prediction tools further confirmed their pathogenicity. Five patients with juvenile-onset ALS born to consanguineous parents were found to have homozygous SPG11 gene variants. Our findings describe the overlapping phenotypes ofSPG11-related autosomal recessive juvenile ALS and ARHSP, suggesting that these disorders show a clear overlapping phenotype with common genetic defects. In clinical practice, it is challenging to distinguish between these two disorders. Additional Mendelian cases should be included to clarify further and investigate whether these represent two diverse diseases caused by variants in a single gene.",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "Ahmad R",
+        "Naeem M",
+        "Houlden H"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678590/"
     },
     {
       "id": "pmid-42604981",
@@ -117,6 +235,25 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42604981/"
     },
     {
+      "id": "pmid-42675240",
+      "pmid": "42675240",
+      "doi": "10.1007/s40120-026-01017-8",
+      "title": "Artificial Intelligence in Neuromuscular Diseases: Opportunities for a Data-Scarce Field.",
+      "abstract": "Neuromuscular diseases (NMDs) encompass over 800 distinct entities affecting approximately one in 1000 individuals worldwide, with progressive muscle weakness, atrophy, and motor impairment as primary clinical manifestations. The rarity of most NMDs creates fundamental challenges for artificial intelligence (AI) and machine learning (ML) applications that typically require large-scale datasets. In this narrative review we synthesize the literature published between 2018 and 2025 on AI applications across the NMD spectrum, organized by clinical application domain. We examine how AI has advanced diagnostic capabilities through genetic variant interpretation, muscle magnetic resonance imaging analysis, electromyography-based classification, and computational pathology. In disease monitoring and prognosis, wearable-derived digital biomarkers have achieved regulatory qualification (US Food and Drug Administration [FDA] and European Medicines Agency [EMA]) as clinical trial endpoints for Duchenne muscular dystrophy, while AI-driven survival models for amyotrophic lateral sclerosis (ALS) have been validated across 14 European centers. Proteomic and multi-omics analyses using ML have identified diagnostic panels for ALS. However, most reported models were developed and internally validated on single-center datasets, and few have undergone external or prospective validation or clinical implementation. Despite these achievements, research intensity varies dramatically across NMD subtypes, with ALS and Duchenne muscular dystrophy dominating while myotonic dystrophy, congenital myopathies, and metabolic myopathies remain virtually unexplored. Critical gaps persist in computational pathology, multi-center validation, and clinical translation. In this review, we discuss how federated learning, international collaborative networks (TREAT-NMD, Solve-RD, EURO-NMD), and foundation models can address these challenges, and propose directions for future AI-enhanced clinical studies in this data-scarce field.",
+      "journal": "Neurology and therapy",
+      "authors": [
+        "Ma S",
+        "Luo S",
+        "Zhong H"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-08-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675240/"
+    },
+    {
       "id": "pmid-42672036",
       "pmid": "42672036",
       "doi": "10.1109/TNSRE.2026.3729166",
@@ -160,6 +297,39 @@
       ],
       "publishedAt": "2026-08-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42670631/"
+    },
+    {
+      "id": "pmid-42674126",
+      "pmid": "42674126",
+      "doi": "10.1016/j.phrs.2026.108424",
+      "title": "Selective targeting of the oligodendroglial GPR17 receptor improves myelin integrity and motor function in female SOD1 G93A mice.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease with no definitive disease-modifying therapies available, underscoring the urgent need to identify novel druggable targets. The G protein-coupled receptor GPR17 is a critical regulator of oligodendrocyte maturation and has emerged as a candidate target in ALS, yet its relevance to human disease and its therapeutic potential remain unclear. Here, we demonstrate that pathological GPR17 upregulation defines a conserved, pathologically immature oligodendroglial state in human ALS that can be pharmacologically leveraged to restore myelin integrity and improve functional outcome in vivo. Publicly available transcriptomics datasets and histological analyses revealed an increased abundance of GPR17-expressing immature oligodendrocytes in post-mortem human spinal cord tissue from ALS cases. Moreover, sustained activation of GPR17 with a selective agonist induced GPR17 internalization in heterologous expression systems and promoted the differentiation of primary oligodendrocyte precursors derived from SOD1 G93A mice. Translating these findings in vivo, chronic treatment with a brain-penetrant GPR17 agonist derived from the same pharmacological class significantly extended survival, delayed body weight loss, and improved motor performance in female SOD1 G93A mice, whereas male mice showed no therapeutic benefit. These effects were associated with restored oligodendrocyte maturation, preserved myelin integrity, motor neuron survival, and attenuated reactive gliosis in the spinal cord of female SOD1 G93A mice, while milder effects were observed in males. Together, these findings establish oligodendroglial GPR17 as a conserved and pharmacologically actionable target in ALS and show that sustained in vivo GPR17 agonism can reprogram altered oligodendroglial states and slow disease progression in a sex-dependent manner.",
+      "journal": "Pharmacological research",
+      "authors": [
+        "Raffaele S",
+        "Bonifacino T",
+        "Mannella FC",
+        "Nguyen N",
+        "Torazza C",
+        "Marangon D",
+        "Chinosi EM",
+        "Schrøder HD",
+        "Hejbøl EK",
+        "Madsen K",
+        "Marchetti L",
+        "Trincavelli ML",
+        "Milanese M",
+        "Lecca D",
+        "Lambertsen KL",
+        "Bonanno G",
+        "Abbracchio MP",
+        "Fumagalli M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674126/"
     },
     {
       "id": "pmid-42669933",
@@ -917,50 +1087,6 @@
       ],
       "publishedAt": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42635322/"
-    },
-    {
-      "id": "pmid-42634270",
-      "pmid": "42634270",
-      "doi": "10.1080/21678421.2026.2721279",
-      "title": "A de novo FUS frameshift variant (p.Gly501Valfs*30) presenting with tremor and prominent extrapyramidal features in young-onset motor neuron disease: a case report.",
-      "abstract": "Fused in sarcoma ( FUS ) mutations are a recognized cause of juvenile-onset amyotrophic lateral sclerosis (ALS), typically associated with early age at onset and rapid disease progression. Here we report a 32-year-old Chinese man who presented with bilateral hand tremor as the initial symptom, followed by progressive dysarthria, bradykinesia, and multi-segment upper and lower motor neuron involvement. Whole-exome sequencing identified a de novo heterozygous FUS frameshift (p.Gly501Valfs*30), confirmed absent in both parents. Electromyography revealed predominantly chronic neurogenic changes. At approximately 2.5 years from symptom onset, the patient remains ambulatory with a walking frame, with a notably milder course than the previously reported frameshift at the same Gly501 codon. This case expands the phenotypic spectrum of FUS -associated motor neuron disease and highlights tremor and extrapyramidal features as potential early manifestations in adult patients.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Shen D",
-        "Ding J",
-        "Zhai F",
-        "Shi J",
-        "Liu M",
-        "Liu Q",
-        "Cui L"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42634270/"
-    },
-    {
-      "id": "pmid-42552132",
-      "pmid": "42552132",
-      "doi": "10.1136/oemed-2025-110662",
-      "title": "Occupational exposure to pesticides increases the risk of amyotrophic lateral sclerosis: a systematic review and meta-analysis.",
-      "abstract": "To systematically review the evidence on the association between occupational exposure to pesticides and the risk of amyotrophic lateral sclerosis (ALS). A systematic search, conducted in eight bibliographic databases for publications between 1990 and 2025, identified observational studies estimating the risk of ALS after occupational pesticide exposure. Study quality was assessed using the WHO Risk of Bias (RoB) assessment instrument for systematic reviews, with the ROBINS-E (RoB in non-randomised studies of exposure) tool domains of bias. Pooled risk estimates were produced using random-effects models with restricted maximum likelihood, heterogeneity was assessed with I² statistics, and meta-regressions and publication bias explored with funnel plots and Egger's test. Eight case-control studies (1734 cases) were retained for meta-analysis from 767 initially screened articles. 'Ever' occupational exposure to pesticides was associated with an increased risk of ALS (n=6 studies, pooled OR (pOR)=1.6; 95% CI 1.1, 2.2; I²=57%), for combined sexes. The risk for exposure to herbicides was slightly greater (pOR=1.7, I 2 =0.0%) than for exposure to insecticides or fungicides (pORs=1.6, I 2 =0.0%). Based on three studies, ever exposure to high levels of pesticides was associated with a higher risk (pOR=2.7; 95% CI=1.4, 5.0) than exposure to low levels (pOR=1.9; 95% CI=1.0, 3.7). Self-reported exposure assessment methods and older publication dates (<2015) were statistically significant predictors of the effect size. Despite the small number of studies and some heterogeneity, our results add to the evidence suggesting that occupational exposure to pesticides may increase the risk of ALS.",
-      "journal": "Occupational and environmental medicine",
-      "authors": [
-        "Labrèche F",
-        "Prud'homme P",
-        "Gagnon M",
-        "Dupré N",
-        "Gravel S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "publishedAt": "2026-08-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42552132/"
     }
   ]
 }

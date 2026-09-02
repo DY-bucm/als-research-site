@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-09-01
+更新时间：2026-09-02
 
-1. **多重面板检测散发性和C9orf72-ALS中的胶质和炎症生物标志物特征**
-   - 生物标志物 / 观察性临床研究 / high
-   - NULISA平台可检测ALS患者脑脊液中6种显著升高的生物标志物（NEFH、NEFL、CHIT1、CHI3L1、CCL2、CCL3），且C9orf72-ALS患者显示PRDX6和ENO2水平更高，提示基因型特异性特征。
-   - https://pubmed.ncbi.nlm.nih.gov/42462180/
-2. **肌萎缩侧索硬化中神经丝轻链累积暴露与纵向轨迹对1年不良事件的关联：一项前瞻性队列研究**
-   - 生物标志物 / 观察性临床研究 / high
-   - NfL的累积暴露和纵向轨迹与ALS患者1年不良事件相关（具体效应量需查阅全文）。
-   - https://doi.org/10.1016/j.nbd.2026.107584
-3. **Psychological Management by Meditation of Full COnscience in Virtual REality of People With 肌萎缩侧索硬化症: Effects on Cognition, Behavior, Quality of Life and Psychological Well-being**
+1. **SOD1 D90A纯合突变ALS患者的种子可传播两种类型的SOD1聚集及运动神经元疾病**
+   - 临床试验 / 观察性临床研究 / high
+   - 来自SOD1 D90A纯合患者的种子可传播两种不同构象的SOD1聚集（A型和B型），并缩短转基因小鼠生存期。
+   - https://pubmed.ncbi.nlm.nih.gov/42678414/
+2. **神经元健康与疾病中的线粒体自噬：从机制到神经退行性变**
+   - 临床试验 / 综述/荟萃分析 / high
+   - 线粒体自噬缺陷通过PINK1/Parkin和受体介导通路及神经炎症（NF-κB、cGAS-STING）促进神经退行性变，恢复线粒体自噬是潜在治疗策略。
+   - https://pubmed.ncbi.nlm.nih.gov/42677831/
+3. **Study on the Safety and Efficacy of RAG-21 in the Treatment of 肌萎缩侧索硬化症 Patients With FUS Gene Mutations**
    - 临床试验 / 临床试验注册 / high
-   - Status: WITHDRAWN.
-   - https://clinicaltrials.gov/study/NCT05409508
-4. **A Study to Learn More About the Long-Term Safety of Tofersen (Qalsody) in Participants With Superoxide Dismutase 1 (SOD-1) 肌萎缩侧索硬化症 (ALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07259980
-5. **Study to Assess the Effects of PTC857 Treatment in Participants With 肌萎缩侧索硬化症 ALS**
-   - 临床试验 / 临床试验注册 / high
-   - Status: TERMINATED.
-   - https://clinicaltrials.gov/study/NCT05349721
-6. **待复核翻译：RAPA-501 Therapy for ALS**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04220190
-7. **待复核翻译：High-Tech Rehabilitation Pathway for Chronic Adult Neuromuscular Diseases - Fit4MedRob-Chronic MND Project**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06881979
-8. **待复核翻译：A First in Human Study of ORT247 in Healthy Volunteers**
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07080801
+4. **An Open Label Extension Study of Monepantel in Individuals With 运动神经元病**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT06769620
+   - https://clinicaltrials.gov/study/NCT06177431
+5. **待复核翻译：Clinical Characteristics, Natural History, Health Care Measures, and Genetic Screening in Patients With ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT05852405
+6. **Olanzapine for the Treatment of Appetite Loss in 肌萎缩侧索硬化症 (ALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT00876772
+7. **A Safety and 生物标志物 Study of ALZT-OP1a in Subjects With Mild-Moderate ALS Disease**
+   - 临床试验 / 临床试验注册 / high
+   - Status: TERMINATED.
+   - https://clinicaltrials.gov/study/NCT04428775
+8. **待复核翻译：ALS and Airway Clearance (ALSAC) Therapy**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT04947436

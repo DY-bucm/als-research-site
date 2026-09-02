@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "snapshots": [
+    {
+      "date": "2026-09-02",
+      "path": "data/archive/2026-09-02.json",
+      "count": 30,
+      "sources": [
+        {
+          "source": "PubMed",
+          "ok": true,
+          "count": 15
+        },
+        {
+          "source": "Europe PMC",
+          "ok": false,
+          "count": 0,
+          "error": "www.ebi.ac.uk returned HTTP 504"
+        },
+        {
+          "source": "ClinicalTrials.gov",
+          "ok": true,
+          "count": 15
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "path": "data/archive/2026-09-01.json",
