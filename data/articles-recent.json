@@ -1,14 +1,61 @@
 {
-  "updatedAt": "2026-09-02T00:09:38.457Z",
+  "updatedAt": "2026-09-03T00:12:18.387Z",
   "period": {
     "days": 10,
-    "from": "2026-08-24",
-    "to": "2026-09-02"
+    "from": "2026-08-25",
+    "to": "2026-09-03"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 44,
+  "count": 42,
   "articles": [
+    {
+      "id": "pmid-42681595",
+      "pmid": "42681595",
+      "doi": "10.1097/CND.0000000000000567",
+      "title": "Proteomic and Functional Signatures of Phenoconversion in Presymptomatic Amyotrophic Lateral Sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) likely has a prolonged presymptomatic phase. Identifying blood biomarkers that predict phenoconversion is critical for early intervention. We analyzed baseline serum proteomics in 270 UK Biobank participants who later developed ALS. A prespecified 19-protein panel was evaluated in relation to time-to-diagnosis. C9orf72 risk was proxied using rs10757668 genotype. Neurofilament light rose sharply in the 2-3 years preceding diagnosis (r = -0.37, P < 0.001). Muscle-stress markers, including EDA2R and MYL3, increased earlier, up to 4-6 years before onset. Higher EDA2R levels were associated with reduced grip strength at baseline. A combined 19-protein panel plus genotype predicted phenoconversion within 3 years with an area under the receiver operating characteristic curve of 0.77, outperforming neurofilament light alone. ALS exhibits a measurable molecular prodrome detectable in blood years before diagnosis. Integrated proteomic and genetic profiling may support early identification and trial enrichment strategies.",
+      "journal": "Journal of clinical neuromuscular disease",
+      "authors": [
+        "Lehrer S",
+        "Rheinstein PH"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681595/"
+    },
+    {
+      "id": "pmid-42681667",
+      "pmid": "42681667",
+      "doi": "10.1186/s40478-026-02415-7",
+      "title": "A standardized framework resolves ambiguity in motor neuron loss across neurodegenerative diseases.",
+      "abstract": "Motor neuron (MN) loss is a hallmark of neurodegenerative disorders, yet its assessment remains variable, confounding mechanistic and therapeutic interpretation. To address this, we conducted a systematic review and meta-analysis of spinal muscular atrophy (SMA) mouse studies, revealing 60% variability in reported MN loss, for which spinal cord sampling emerged as a major contributor. Using a whole-segment approach with tissue clearing, MN tracing, and multimodal imaging, we confirmed segment-dependent differences in MN counts. Common MN markers (SMI-32, Nissl) lacked specificity, whereas choline acetyltransferase (ChAT) provided robust labeling in murine and human spinal cords. Deep learning-based whole-mount segmentation enabled unbiased MN quantification and validated manual counts. Integrating analysis with computational modeling established segment sampling as a key driver of variability and revealed degeneration patterns: widespread MN loss in amyotrophic lateral sclerosis (ALS), selective MN loss in severe SMA, and preservation in mild SMA models. These findings establish a framework for reproducible MN quantification.",
+      "journal": "Acta neuropathologica communications",
+      "authors": [
+        "Sowoidnich L",
+        "Norman AL",
+        "Gerstner F",
+        "Siemund JK",
+        "Buettner JM",
+        "Pagiazitis JG",
+        "Dreilich V",
+        "Pilz K",
+        "Tian D",
+        "Sumner CJ",
+        "Paradis A",
+        "Mentis GZ",
+        "Simon CM"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681667/"
+    },
     {
       "id": "pmid-42677823",
       "pmid": "42677823",
@@ -104,6 +151,33 @@
       ],
       "publishedAt": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42677831/"
+    },
+    {
+      "id": "pmid-42681642",
+      "pmid": "42681642",
+      "doi": "10.1186/s12910-026-01586-1",
+      "title": "Organ donation and brain preservation after assisted dying: case report and considerations for a potential pathway.",
+      "abstract": "Protecting life and restoring health have been at the core of the conception of medical care since antiquity, for health professionals and the public alike. Assisted dying represents a practice that appears to challenge this traditional conception. In jurisdictions where assisted dying is condoned, the question remains as to whether the practice should be medicalized or deferred to non-medical actors. Irrespective of the divisive controversy surrounding assisted dying and its medicalization per se, the practice gives rise to high-stakes ethical, legal and organizational challenges when intersecting with organ transplantation, tissue banking, and Structural Brain Preservation or cryonics. In this narrative account, we describe the contextual framework and outline our experience and operational scope for addressing them at a university hospital in Germany. Based on this description we propose a structured pathway for increasing donation and preservation options for terminal patients while retaining ethical integrity and professional accountability.",
+      "journal": "BMC medical ethics",
+      "authors": [
+        "German A",
+        "Grotemeyer A",
+        "Koller K",
+        "Eckstein M",
+        "Wolff H",
+        "Rampp S",
+        "Süß P",
+        "Müller VC",
+        "Birnbacher D",
+        "Winkler J",
+        "Regensburger M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "publishedAt": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681642/"
     },
     {
       "id": "pmid-42678414",
@@ -271,6 +345,24 @@
       ],
       "publishedAt": "2026-08-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42672036/"
+    },
+    {
+      "id": "pmid-42682963",
+      "pmid": "42682963",
+      "doi": "10.1002/ccr3.73447",
+      "title": "Possible Paraneoplastic Amyotrophic Lateral Sclerosis Presenting as Respiratory Failure in a Breast Cancer Patient: A Case Report.",
+      "abstract": "A 63-year-old female with metastatic breast cancer presented with acute hypercapnic respiratory failure secondary to severe diaphragmatic dysfunction and mixed upper and lower motor neuron signs. Serum onconeural and neural surface antibody panels were negative, and initial cerebrospinal fluid analysis revealed albuminocytologic dissociation. Immunotherapy with intravenous immunoglobulin (IVIG) produced no clinical improvement, necessitating invasive mechanical ventilation and gastrostomy. Applying the 2021 PNS-Care consensus criteria, the case fulfills criteria for possible paraneoplastic amyotrophic lateral sclerosis (ALS), although coincidental sporadic disease cannot be excluded. A markedly elevated erythrocyte sedimentation rate (ESR) was observed, largely attributable to skeletal metastases and localized pulmonary collapse. Clinicians must maintain a high index of suspicion for motor neuron disease in cancer patients with unexplained hypoventilation.",
+      "journal": "Clinical case reports",
+      "authors": [
+        "Albaji M",
+        "Ashkboos K",
+        "Bagherzadeh K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682963/"
     },
     {
       "id": "pmid-42670631",
@@ -796,6 +888,27 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42621714/"
     },
     {
+      "id": "pmid-42680205",
+      "pmid": "42680205",
+      "doi": "10.1093/hmg/ddag084",
+      "title": "A mouse model of autosomal dominant spastic ataxia and myopathy caused by a mutation in Tuba4a.",
+      "abstract": "Hereditary ataxias are a heterogeneous group of neurodegenerative disorders characterized by impaired balance and coordination, often due to cerebellar dysfunction. Despite advances in identifying genetic causes, animal models remain essential for dissecting underlying mechanisms and testing therapeutic strategies. Here we describe a mouse model of spastic ataxia and myopathy caused by a missense mutation in Tuba4a (n.A626C, p.Gln176Pro). In an ENU mutagenesis screen, a male C57BL/6 J mouse exhibiting muscle wasting and an intention tremor starting at approximately 4 weeks-of-age was identified. The male was bred by in vitro fertilization to BALB/cByJ oocyte donors. Genetic mapping determined dominant inheritance and localized the mutation to Chromosome 1. Genome sequencing revealed single nucleotide polymorphisms (SNPs) in serine threonine kinase 36 (Stk36Y1003N) and alpha-tubulin 4A (Tuba4aQ176P) in the mapping interval. These SNPs were CRISPR-engineered into C57BL/6 J mice, which confirmed the Tuba4aQ176P variant as the causative mutation. Mutant mice are normal at 3 weeks, except for decrement in muscle response following repetitive nerve stimulation. However, by 30 days these mice have overt ataxia, Purkinje neuron degeneration, and extensive skeletal muscle defects, which contribute to a decreased lifespan. Dominant TUBA4A mutations in humans are associated with spastic ataxia type 11 (SPAX11), congenital myopathy type 26 (CMYO26), and frontotemporal dementia/amyotrophic lateral sclerosis type 9 (FTDALS9). Our mice exhibit hallmark features of SPAX11 and CMYO26, but do not show motor neuron degeneration. This specificity makes this model a valuable tool for studying cell-type selective effects of TUBA4A mutations in neurodegeneration and myopathy.",
+      "journal": "Human molecular genetics",
+      "authors": [
+        "Hines TJ",
+        "Funke JR",
+        "Pratt SL",
+        "Rice AD",
+        "Twiss JL",
+        "Burgess RW"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-08-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680205/"
+    },
+    {
       "id": "pmid-42640367",
       "pmid": "42640367",
       "doi": "10.1007/s12035-026-06146-7",
@@ -899,194 +1012,6 @@
       ],
       "publishedAt": "2026-08-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42641496/"
-    },
-    {
-      "id": "pmid-42638120",
-      "pmid": "42638120",
-      "doi": "10.1186/s40035-026-00572-2",
-      "title": "Bridging the gap: neuroinflammation and the dawn of precision medicine in amyotrophic lateral sclerosis.",
-      "abstract": "Neuroinflammation is no longer a secondary feature of amyotrophic lateral sclerosis (ALS), but rather a disease-modifying process that actively shapes the motor neuron vulnerability from the earliest stages of pathology. Central and peripheral immune cells, including microglia, astrocytes, and infiltrating T lymphocytes, adopt context-dependent states that can be neuroprotective or neurotoxic depending on disease stage and genetic background. These states are driven by discrete molecular programs, such as cGAS-STING-mediated innate immune sensing, NLRP3 inflammasome activation, and RIPK1-dependent necroptotic signaling, which represent tractable therapeutic targets. The repeated failure of broad-spectrum immunosuppressive trials reflects a fundamental mismatch between the non-selective interventions and the mechanistically distinct immune states of diseases. Converging transcriptomic, genetic, and immunophenotypic evidence supports the existence of putative neuroimmune endotypes in ALS, though this framework remains a working hypothesis pending prospective validation in biomarker-stratified cohorts. Advances in the following three domains are needed for realizing precision immunotherapy: standardized biomarker panels (including cerebrospinal fluid chitinases and TSPO-PET) to stratify patients by inflammatory subtype; pharmacodynamic readouts to confirm target engagement before interpreting clinical outcomes; and adaptive platform trial designs capable of evaluating mechanism-matching interventions in defined subgroups. This review integrates ALS-associated neuroinflammation with emerging precision medicine strategies, arguing that the central translational question is no longer whether or not to target neuroinflammation, but how, when, and in whom neuroinflammation should be targeted.",
-      "journal": "Translational neurodegeneration",
-      "authors": [
-        "Tang L",
-        "Fan D"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638120/"
-    },
-    {
-      "id": "pmid-42635866",
-      "pmid": "42635866",
-      "doi": "10.1007/s12640-026-00822-1",
-      "title": "Decoding the Neuroinflammatory Potential of Non-Nutritive Sweeteners Through An Integrative Computational Approach.",
-      "abstract": "Non-nutritive sweeteners (NNS) are commonly used in the beverage, food, and pharmaceutical industries, however, their possible link to neuroinflammation remains a contentious issue. Hence, to investigate this potential association and identify the molecular pathways involved, targets of the most frequently consumed NNSs, namely sucralose, aspartame, acesulfame, cyclamate, and saccharin, were extracted from the STITCH, Super-PRED, STP, SEA and CTD databases, while neuroinflammatory targets were extracted from GeneCards, OMIM, and NCBI databases. A total of 124 targets were obtained by overlapping NNS and neuroinflammatory targets, of which 20 key targets, including CASP3, PPARγ, MTOR, and MMP9, were identified for further analysis. KEGG enrichment analysis suggested a significant association of these targets with pathways related to Alzheimer's disease and neuroactive ligand-receptor interaction. Gene Ontology analysis revealed enrichment in biological processes associated with inflammatory response and reactive oxygen species. The associated cellular components were primarily localised in the axon, dendrite, and synaptic membrane. Molecular docking followed by molecular dynamics simulations was performed to evaluate the stability of the NNS-key target complexes, revealing favourable binding affinities and stable interaction profiles. Gene expression analysis of these key targets predicted their differential regulation across four majorly recognised neuroinflammatory disorders, including Alzheimer's disease, multiple sclerosis, Parkinson's disease, and amyotrophic lateral sclerosis, with a significant up or downregulation of these key targets. Results of this study suggest that NNS may be associated with neuroinflammatory processes through these key targets and identified pathways, highlighting the need for improving the standards in food safety.",
-      "journal": "Neurotoxicity research",
-      "authors": [
-        "Chakraborty S",
-        "Manickam V"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42635866/"
-    },
-    {
-      "id": "pmid-42636496",
-      "pmid": "42636496",
-      "doi": "10.1097/JNN.0000000000000906",
-      "title": "End-of-Life Care in an Acute Neurological Ward: A Retrospective Analysis of Clinical Practices During the Last Week of Life.",
-      "abstract": "The care of patients with neurological diseases near the end of life (EOL) is challenging and often complicated by prognostic uncertainty. Difficulty recognizing the terminal phase may delay transitions to EOL care, leading to continued use of diagnostic procedures and medical interventions with a limited focus on comfort. This retrospective observational study included medical records of 209 deceased patients with neurological diseases who died in an acute hospital ward. Diagnostic procedures and medical and supportive interventions delivered during the final 7 days of life were extracted. Patients were categorized into 2 groups: acute neurological diseases (ischemic stroke and hemorrhagic stroke) and progressive neurological diseases (Parkinson disease or extrapyramidal and movement disorders, and amyotrophic lateral sclerosis). Frequencies of interventions were compared between diagnostic groups and according to documented EOL decision status. In both groups, documented EOL decisions were associated with reduced use of diagnostic procedures and increased use of support measures. Medication administration and supportive care patterns differed between the acute and progressive disease groups and were related to documented EOL decisions. The most frequently administered interventions were oral suctioning (97%), intravenous fluids (70%), antibiotics (45%), pain relief medications (98%), and benzodiazepines (93%). Patients with progressive neurological diseases received more respiratory support interventions than those with acute neurological diseases. Our findings suggest that documenting EOL decisions was related to comfort-focused care, although the frequency varied by disease group. Neurological disease-specific EOL guidelines should be implemented to identify the terminal phase in alignment with the goals of comfort-focused care in a timely manner.",
-      "journal": "The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses",
-      "authors": [
-        "Jonsdottir G",
-        "Vilhjalmsson R",
-        "Sigurdardottir V",
-        "Hjaltason H",
-        "Klinke ME",
-        "Jonsdottir H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636496/"
-    },
-    {
-      "id": "pmid-42636890",
-      "pmid": "42636890",
-      "doi": "10.1016/j.jconrel.2026.115274",
-      "title": "Living drug carriers: Microbial and bioengineered platforms redefining precision therapeutic and immunomodulatory delivery.",
-      "abstract": "Microbial living therapeutics are a new class of drug-delivery materials that combine synthetic biology, immunomodulation, and advanced formulations to achieve controllable therapeutic effects in space and time. In the broad field of living drug-delivery systems, therapeutic platforms include engineered microorganisms, mammalian immune cells, stem cells, viral vectors, extracellular-vesicle-producing cells, and hybrid bioengineered living materials. This review focuses on engineered microbial living drug carriers, including genetically modified bacteria and probiotic platforms, because these systems uniquely integrate programmable biosensing, in situ therapeutic synthesis, adaptive immunomodulation, and controllable drug delivery within a single living chassis. Designed microbes and consortia possess other unique functions, such as microenvironment sensing, programmed control of gene expression, and long-lasting in situ manufacturing of therapeutic payloads not available with small-molecule or biologic drugs. Recent progress in microbial chassis engineering, genetic circuit design, and biocontainment has enabled fine-tuning of immune responses, metabolic pathways, and tissue-specific signaling in a wide range of diseases from cancer to autoimmune and inflammatory diseases, to metabolic and endocrine disorders, neuro-immunological conditions (e.g., amyotrophic lateral sclerosis), infectious diseases including infectious threats without existing approved vaccines (Zika virus) as well as rare genetic disorders. Advances in formulation science, including encapsulation technologies, biomaterial-microbe hybrids, and stimuli-responsive release platforms, have enabled overcoming key translation challenges concerning microbial viability, biodistribution, safety, and controlled activation in complex physiological milieus like the gut (for enteric pathogens), tumor microenvironment (for oncolytic organisms), or injured tissues (for tissue-targeting organisms). Increasing numbers of clinical-stage LBP studies are now conducted under good manufacturing practice, standardized QC, and clinical conditions, ranging from emerging PK, biodistribution, and biomarker-driven studies to those adapted to living entities. The addition of host microbiome profiling, multi-omics analysis, and computational modeling is anticipated to increase therapeutic predictability and patient stratification. Taken together, these advances position live microbial therapeutics as programmable biological medicines with the potential for adaptive, context-specific administration and warrant further clinical development and increased integration within precision medicine-informed therapeutic approaches.",
-      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
-      "authors": [
-        "Guha L",
-        "Malik JA",
-        "Bose B"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636890/"
-    },
-    {
-      "id": "pmid-42637106",
-      "pmid": "42637106",
-      "doi": "10.1016/j.nbd.2026.107582",
-      "title": "Splicing modulation of ATXN2 as a therapeutic strategy to regulate Ataxin-2 protein levels in ALS.",
-      "abstract": "ATXN2 is associated with an increased risk of Amyotrophic Lateral Sclerosis (ALS), while down-regulation of ATXN2 has been shown to mitigate TDP-43 proteinopathy in ALS models. In this study, we demonstrated that Ataxin-2 protein levels were upregulated in rNLS8 mice following doxycycline withdrawal, which coincided with TDP-43 overexpression, phosphorylation, and aggregation. To reduce Ataxin-2 protein levels, we explored the approach of splicing modulation at the RNA level. Through bioinformatical analysis, we identified an alternative 5' splicing site of ATXN2 in intron 8. This alternative splicing results in an additional 47 base pairs at the 3' end after Exon 8. The insertion of the extra nucleotides causes a frameshift that leads to reduced mRNA production and, consequently, protein levels. Following the discovery of this alternative splicing site, we conducted an antisense oligonucleotide (ASO) micro-walk to screen ASOs targeting this region. We identified ASOs that specifically modulate this splicing, including those that either enhance or inhibit alternative splicing. We validated that the ASOs that promote alternative splicing and reduce constitutive splicing can lower Ataxin-2 protein levels, which in turn decreases TDP-43 aggregation and stress granule formation in a cell-based model of TDP-43 toxicity. Furthermore, we confirmed that reducing Ataxin-2 levels via previously validated ASO delivery ameliorated TDP-43 pathology in rNLS8 mice. The discovery of ATXN2 alternative splicing, along with the confirmation of splicing modulation using ASOs in human cell-based assays, provides evidence for a proof-of-principle strategy to modulate Ataxin-2 protein levels for the treatment of ALS.",
-      "journal": "Neurobiology of disease",
-      "authors": [
-        "Heinsinger N",
-        "Wang Y",
-        "Grauer S",
-        "Zhang Z",
-        "Wong J",
-        "Simov V",
-        "Bukhtiyarova M",
-        "Ai X",
-        "Parish C",
-        "Klein RM",
-        "Uslaner J",
-        "Smith S",
-        "Tian Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42637106/"
-    },
-    {
-      "id": "pmid-42636000",
-      "pmid": "42636000",
-      "doi": "10.1001/jamaneurol.2026.2812",
-      "title": "TDP-43-Associated Neurodegenerative Disease Conceptualization and Integrated Staging: A Review.",
-      "abstract": "Classifying disease based on underlying pathobiology rather than clinical phenotype has implications for the development of biomarkers and therapy development. Transactive response DNA-binding protein 43 kDa (TDP-43) pathology is observed across a range of clinically defined neurodegenerative disorders including limbic predominant age-related encephalopathy (LATE), most cases of amyotrophic lateral sclerosis (ALS), inclusion body myositis, multisystem proteinopathy, and approximately half the cases of frontotemporal dementia (FTD). Despite this shared biology, the current nosology for these neurodegenerative disorders is based on their distinct clinical phenotypes. An alternative approach recognizes the central role of TDP-43 pathology in disease pathogenesis, reserving the use of clinical terms like ALS, FTD, or LATE to describe phenotypic manifestations of underlying pathobiology. This approach also recognizes the converging biomarker and neuropathological data indicating that pathology begins presymptomatically, before the overt clinical manifestations of disease appear. In proposing a pathobiological definition of disease, the goal is to provide a road map for developing biomarkers that accurately reflect the underlying pathobiology of disease and for advancing therapeutic candidates that effectively target fundamental disease mechanisms.",
-      "journal": "JAMA neurology",
-      "authors": [
-        "Benatar M",
-        "Barmada S",
-        "Jicha GA",
-        "Lagier-Tourenne C",
-        "Gregory J",
-        "Al-Chalabi A",
-        "Boeve BF",
-        "Jack CR",
-        "Seeley WW",
-        "Maragakis NJ",
-        "Wuu J",
-        "Zeier Z",
-        "Onyike C",
-        "Lewcock J",
-        "Hovinga C",
-        "Jafar-Nejad P",
-        "Uspenskaya O",
-        "Simmons A",
-        "Browne SE",
-        "Rohrer J",
-        "Petrucelli L",
-        "Shapiro J",
-        "Scharper D",
-        "Boxer A",
-        "Ostrow LW",
-        "Staffaroni AM",
-        "Dacks P",
-        "Turner MR",
-        "Dave KD",
-        "de Majo M",
-        "Mitic L",
-        "Fradette S",
-        "Budd Haeberlein S",
-        "Simuni T",
-        "Dunn B",
-        "McMillan CT",
-        "Lee EB"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636000/"
-    },
-    {
-      "id": "pmid-42635322",
-      "pmid": "42635322",
-      "doi": "10.1080/21678421.2026.2694499",
-      "title": "Theory of mind impairment related to C9orf72 repeat expansion in amyotrophic lateral sclerosis: a case-control study.",
-      "abstract": "Objective : To investigate cognitive and affective theory of mind (ToM) in amyotrophic lateral sclerosis (ALS) patients carrying the C9orf72 repeat expansion (C9orf72+), compared with matched non-mutated (C9orf72-) ALS patients and healthy controls (HCs). Methods : We assessed 34 C9orf72+ ALS patients, 34 C9orf72- ALS patients matched for sex, age, education, and cognitive category, and 34 HC matched for sex, age, and education. Participants underwent neuropsychological evaluation, including the Story-Based Empathy Task (SET), assessing cognitive ToM (Intention Attribution, IA), affective ToM (Emotion Attribution, EA), and Causal Inference (CI). Results : C9orf72+ patients showed lower SET-global score than C9orf72- patients ( p = 0.028). Compared with HC, C9orf72+ showed lower score in SET-global score and all SET subtests (all p < 0.05). C9orf72+ cognitively normal differed from HC in SET-global score, IA, and EA (all p < 0.038), whereas C9orf72- cognitively normal did not differ from HC. Multiple linear regression analyses indicated that ALS-specific cognitive domains only explained ∼25% of ToM variance, with no association with demographic, clinical, or behavioral variables. Cluster analysis identified three cognitive profiles based on SET performance, with the most impaired cluster showing the highest proportion of C9orf72+ patients (68%). Conclusion: C9orf72 -mutated ALS patients showed more pronounced impairment in cognitive and affective ToM than non-mutated ALS patients, independent of demographic, clinical, and cognitive features. These findings, although requiring confirmation on larger samples, suggest that ToM dysfunction may represent a sensitive marker of cognitive involvement in ALS- C9orf72 -associated disease, particularly in its affective component.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Palumbo F",
-        "Iazzolino B",
-        "Canosa A",
-        "Manera U",
-        "Vasta R",
-        "Grassano M",
-        "Matteoni E",
-        "Cabras S",
-        "Maccabeo A",
-        "Pellegrino G",
-        "Giai Merlera F",
-        "Dei Giudici A",
-        "Callegaro S",
-        "Balz L",
-        "Moglia C",
-        "Chiò A",
-        "Calvo A",
-        "Lulé D"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42635322/"
     }
   ]
 }
