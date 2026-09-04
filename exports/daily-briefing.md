@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-09-03
+更新时间：2026-09-04
 
-1. **天然自调控下的TDP-43持续输出偏向将不溶性积累与核功能障碍联系起来**
+1. **修复肌萎缩侧索硬化临床试验的可信度缺口**
+   - 临床试验 / 观点/评论 / high
+   - ALS早期试验中普遍存在夸大疗效宣称的现象，原因包括不当激励、方法学缺陷和过度乐观解读，需通过严格标准和科学怀疑主义加以纠正。
+   - https://pubmed.ncbi.nlm.nih.gov/42685299/
+2. **专业化护理的实施可改善肌萎缩侧索硬化症患者的生存率**
+   - 生物标志物 / 观察性临床研究 / high
+   - 专业多学科护理队列的中位生存期（40个月）显著长于普通护理队列（27个月），差异主要由脊髓起病患者驱动。
+   - https://pubmed.ncbi.nlm.nih.gov/42687189/
+3. **C9orf72相关poly-GR在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩**
    - 临床试验 / 动物/细胞实验 / high
-   - 持续输出偏向使TARDBP自调控变为适应不良：补偿性转录增加无法恢复核功能，反而促进不溶性TDP-43积累。
-   - https://pubmed.ncbi.nlm.nih.gov/42551655/
-2. **标准化框架消除神经退行性疾病中运动神经元丢失评估的模糊性**
+   - 骨骼肌特异性表达poly-GR足以引起肌肉萎缩和NMJ缺陷，机制涉及MuSK降解和ISR激活；ISRIB或MuSK激动剂抗体可改善这些缺陷。
+   - https://pubmed.ncbi.nlm.nih.gov/42427030/
+4. **标准化框架消除神经退行性疾病中运动神经元丢失评估的模糊性**
    - 治疗 / 综述/荟萃分析 / high
-   - 脊髓取样节段是运动神经元丢失报告变异性的主要来源；ChAT标记结合深度学习分割可实现无偏倚定量；ALS呈广泛运动神经元丢失，SMA呈选择性丢失。
+   - 脊髓节段取样是MN丢失评估变异性的主要来源；ChAT标记和深度学习分割可实现可靠定量；ALS显示广泛MN丢失，SMA显示选择性丢失。
    - https://pubmed.ncbi.nlm.nih.gov/42681667/
-3. **症状前肌萎缩侧索硬化症表型转化的蛋白质组学和功能特征**
-   - 临床试验 / 观察性队列研究（中等） / high
-   - 在ALS确诊前4-6年即可检测到肌肉应激蛋白（EDA2R、MYL3）升高，而NfL在确诊前2-3年才急剧上升；19蛋白组合加基因型预测3年内发病的AUC为0.77。
-   - https://pubmed.ncbi.nlm.nih.gov/42681595/
-4. **来自SOD1 D90A纯合突变ALS患者的种子可传播两种类型的SOD1聚集和运动神经元疾病**
-   - 临床试验 / 观察性临床研究 / high
-   - 来自SOD1 D90A纯合突变ALS患者的脊髓种子可传播两种不同构象的SOD1聚集（A型和B型），并缩短hSOD1 G85R转基因小鼠的生存期。
-   - https://pubmed.ncbi.nlm.nih.gov/42678414/
-5. **神经元健康与疾病中的线粒体自噬：从机制到神经退行性变**
-   - 临床试验 / 综述/荟萃分析 / high
-   - 线粒体自噬缺陷（特别是PINK1/Parkin通路）与神经炎症（NF-κB和cGAS-STING）相互作用，促进ALS等疾病进展；恢复线粒体自噬是潜在治疗策略。
-   - https://pubmed.ncbi.nlm.nih.gov/42677831/
-6. **Mechanical Insufflation in the Philadelphia 肌萎缩侧索硬化症 Cohort (MI-PALS) Study**
+5. **Social Cognition in Patients With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT06119087
-7. **Psychological Management by Meditation of Full COnscience in Virtual REality of People With 肌萎缩侧索硬化症: Effects on Cognition, Behavior, Quality of Life and Psychological Well-being**
+   - https://clinicaltrials.gov/study/NCT04406675
+6. **Telehealth in 运动神经元病**
    - 临床试验 / 临床试验注册 / high
-   - Status: WITHDRAWN.
-   - https://clinicaltrials.gov/study/NCT05409508
-8. **Genetic Study of 肌萎缩侧索硬化症 in Norway**
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT02464748
+7. **Satisfaction of Patients With 肌萎缩侧索硬化症 Regarding Home Assisted Teleconsultation**
    - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT05119387
+   - Status: TERMINATED.
+   - https://clinicaltrials.gov/study/NCT05621213
+8. **Polish Version Dyspnea in 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07178574
