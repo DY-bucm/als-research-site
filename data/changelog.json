@@ -1,16 +1,51 @@
 {
-  "updatedAt": "2026-09-05T00:03:14.887Z",
+  "updatedAt": "2026-09-05T23:54:26.814Z",
   "previousSnapshot": "data/archive/2026-09-04.json",
   "current": "data/items.json",
   "summary": {
-    "added": 21,
-    "removed": 21,
-    "changed": 5
+    "added": 29,
+    "removed": 31,
+    "changed": 1
   },
   "added": [
     {
+      "id": "pmid-42698276",
+      "titleZh": "肌萎缩侧索硬化-额颞叶谱系障碍生物型生物标志物谱的进展",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698276/"
+    },
+    {
+      "id": "pmid-42698124",
+      "titleZh": "商业ECLIA平台检测肌萎缩侧索硬化症患者血清神经丝轻链和GFAP",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698124/"
+    },
+    {
+      "id": "pmid-42697520",
+      "titleZh": "神经退行性疾病中微生物群衍生代谢物与GPCR信号传导",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697520/"
+    },
+    {
+      "id": "pmid-42697379",
+      "titleZh": "神经退行性疾病中的细胞外囊泡：诊断与治疗的新前沿",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697379/"
+    },
+    {
+      "id": "pmid-42697152",
+      "titleZh": "LXR激动剂T0901317的药理学调节减轻SOD1 G93A ALS小鼠模型的运动病理",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697152/"
+    },
+    {
       "id": "pmid-42696048",
-      "titleZh": "家族性、神经病理学和细胞学分析将 ARPP21 确定为法国队列中一个主要的肌萎缩侧索硬化相关基因",
+      "titleZh": "家族性、神经病理学和细胞学分析将 ARPP21 鉴定为法国队列中主要的肌萎缩侧索硬化相关基因",
       "category": "生物标志物",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42696048/"
@@ -31,10 +66,24 @@
     },
     {
       "id": "pmid-42385702",
-      "titleZh": "主要神经退行性疾病共享的TOP1介导神经元基因组损伤的复发模式",
+      "titleZh": "主要神经退行性疾病共享的 TOP1 介导神经元基因组损伤的复发模式",
       "category": "遗传",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42385702/"
+    },
+    {
+      "id": "epmc-MED-20301649",
+      "titleZh": "多系统蛋白病",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20301649/"
+    },
+    {
+      "id": "epmc-MED-42687189",
+      "titleZh": "实施专科护理可提高肌萎缩侧索硬化症患者的生存率",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s42466-026-00528-x"
     },
     {
       "id": "epmc-MED-42684942",
@@ -44,11 +93,18 @@
       "url": "https://doi.org/10.1177/03000605261476190"
     },
     {
-      "id": "epmc-MED-42681667",
-      "titleZh": "一个标准化框架解决了神经退行性疾病中运动神经元丢失的模糊性。",
+      "id": "epmc-MED-42684486",
+      "titleZh": "待复核翻译：Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
       "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1186/s40478-026-02415-7"
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s10561-026-10249-9"
+    },
+    {
+      "id": "epmc-MED-42698373",
+      "titleZh": "Protein 生物标志物s in Risk and Prognosis of 肌萎缩侧索硬化症.",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://doi.org/10.1111/ene.70741"
     },
     {
       "id": "trial-NCT07023835",
@@ -165,6 +221,34 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42556002/"
     },
     {
+      "id": "pmid-42690718",
+      "titleZh": "NABi作为SOD1G93A聚集选择性抑制剂的机制表征：ALS的结构基础与治疗意义",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690718/"
+    },
+    {
+      "id": "pmid-42687189",
+      "titleZh": "专业化护理的实施可改善肌萎缩侧索硬化症患者的生存率",
+      "category": "生物标志物",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687189/"
+    },
+    {
+      "id": "pmid-42684486",
+      "titleZh": "新型人类神经系统组织库的建立：德布勒森大学组织库介绍及回顾性数据分析",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684486/"
+    },
+    {
+      "id": "pmid-42427030",
+      "titleZh": "C9orf72相关poly-GR在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42427030/"
+    },
+    {
       "id": "pmid-42684942",
       "titleZh": "骨桥蛋白在衰老相关神经系统疾病中的情境依赖性作用",
       "category": "临床试验",
@@ -184,6 +268,48 @@
       "category": "治疗",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42681667/"
+    },
+    {
+      "id": "epmc-PPR-PPR1311104",
+      "titleZh": "SOD1G93A ALS小鼠模型发病时背根神经节感觉神经元功能障碍与过度兴奋性",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.27.747263"
+    },
+    {
+      "id": "epmc-MED-42681642",
+      "titleZh": "协助死亡后的器官捐献与脑保存：病例报告及潜在路径的考量",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12910-026-01586-1"
+    },
+    {
+      "id": "epmc-MED-42678590",
+      "titleZh": "全外显子组测序在两个巴基斯坦近亲家系中揭示导致罕见家族性肌萎缩侧索硬化症5型的新型移码和复发性无义SPG11变异",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11033-026-12618-9"
+    },
+    {
+      "id": "epmc-PPR-PPR1310135",
+      "titleZh": "SOD1变体的微秒级分子动力学提示ALS临床结局差异的结构基础",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.08.29.747999"
+    },
+    {
+      "id": "epmc-MED-42678414",
+      "titleZh": "Seeds from ALS patients homozygous for the SOD1 D90A mutation transmit two types of SOD1 aggregation and 运动神经元病.",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s00401-026-03078-3"
+    },
+    {
+      "id": "epmc-MED-42677831",
+      "titleZh": "待复核翻译：Mitophagy in neuronal health and disease: from mechanisms to neurodegeneration.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1172/jci199847"
     },
     {
       "id": "epmc-MED-42677823",
@@ -307,57 +433,13 @@
   ],
   "changed": [
     {
-      "id": "pmid-42685299",
-      "titleZh": "修复肌萎缩侧索硬化临床试验的可信度缺口",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "观点/评论",
-          "after": "观点/评论文章"
-        }
-      ]
-    },
-    {
       "id": "pmid-42666931",
       "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "changes": [
         {
           "field": "evidenceLevel",
           "before": "待人工判定",
-          "after": "专家评论/观点"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42183747",
-      "titleZh": "累积环境负担与神经退行性疾病死亡率：美国全国生态学研究",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "生态学研究（III级证据）",
-          "after": "生态学研究（机制研究）"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42687189",
-      "titleZh": "专业化护理的实施可改善肌萎缩侧索硬化症患者的生存率",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "观察性临床研究",
-          "after": "观察性临床研究（回顾性队列）"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42678590",
-      "titleZh": "Whole-exome sequencing reveals a novel frameshift and a recurrent nonsense SPG11 variant causing rare familial 肌萎缩侧索硬化症 type 5 in two consanguineous Pakistani families.",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
+          "after": "评论/观点（基于病例报告的二次文献）"
         }
       ]
     }

@@ -8,46 +8,42 @@
   - https://pubmed.ncbi.nlm.nih.gov/42666931/
 - [ ] 肌萎缩侧索硬化中的环状RNA (pmid-42600995)
   - https://pubmed.ncbi.nlm.nih.gov/42600995/
-- [ ] 核SOD1将ATM-CHK2信号与ALS SHSY-5Y SOD1 G93A细胞模型中的ADH5/GSNOR转录联系起来 (pmid-42586199)
+- [ ] 核SOD1在ALS的SHSY-5Y SOD1 G93A细胞模型中连接ATM-CHK2信号与ADH5/GSNOR转录 (pmid-42586199)
   - https://pubmed.ncbi.nlm.nih.gov/42586199/
-- [ ] [高优先级] 家族性、神经病理学和细胞学分析将 ARPP21 确定为法国队列中一个主要的肌萎缩侧索硬化相关基因 (pmid-42696048)
+- [ ] [高优先级] 肌萎缩侧索硬化-额颞叶谱系障碍生物型生物标志物谱的进展 (pmid-42698276)
+  - https://pubmed.ncbi.nlm.nih.gov/42698276/
+- [ ] [高优先级] 商业ECLIA平台检测肌萎缩侧索硬化症患者血清神经丝轻链和GFAP (pmid-42698124)
+  - https://pubmed.ncbi.nlm.nih.gov/42698124/
+- [ ] 神经退行性疾病中微生物群衍生代谢物与GPCR信号传导 (pmid-42697520)
+  - https://pubmed.ncbi.nlm.nih.gov/42697520/
+- [ ] 神经退行性疾病中的细胞外囊泡：诊断与治疗的新前沿 (pmid-42697379)
+  - https://pubmed.ncbi.nlm.nih.gov/42697379/
+- [ ] LXR激动剂T0901317的药理学调节减轻SOD1 G93A ALS小鼠模型的运动病理 (pmid-42697152)
+  - https://pubmed.ncbi.nlm.nih.gov/42697152/
+- [ ] [高优先级] 家族性、神经病理学和细胞学分析将 ARPP21 鉴定为法国队列中主要的肌萎缩侧索硬化相关基因 (pmid-42696048)
   - https://pubmed.ncbi.nlm.nih.gov/42696048/
 - [ ] [疑似误收] 2025年海报摘要P1–P18 (epmc-PMC-PMC12329820)
   - https://europepmc.org/article/PMC/PMC12329820
 - [ ] 补体及补体靶向治疗在神经系统疾病中的作用 (pmid-42693185)
   - https://pubmed.ncbi.nlm.nih.gov/42693185/
-- [ ] [高优先级] 主要神经退行性疾病共享的TOP1介导神经元基因组损伤的复发模式 (pmid-42385702)
+- [ ] [高优先级] 主要神经退行性疾病共享的 TOP1 介导神经元基因组损伤的复发模式 (pmid-42385702)
   - https://pubmed.ncbi.nlm.nih.gov/42385702/
 - [ ] 累积环境负担与神经退行性疾病死亡率：美国全国生态学研究 (pmid-42183747)
   - https://pubmed.ncbi.nlm.nih.gov/42183747/
-- [ ] 症状前肌萎缩侧索硬化症表型转化中的蛋白质组学和功能特征。 (epmc-MED-42681595)
+- [ ] 症状前肌萎缩侧索硬化症表型转化中的蛋白质组学和功能特征 (epmc-MED-42681595)
   - https://doi.org/10.1097/cnd.0000000000000567
-- [ ] NABi作为SOD1G93A聚集选择性抑制剂的机制表征：ALS的结构基础与治疗意义 (pmid-42690718)
-  - https://pubmed.ncbi.nlm.nih.gov/42690718/
-- [ ] [高优先级] 专业化护理的实施可改善肌萎缩侧索硬化症患者的生存率 (pmid-42687189)
-  - https://pubmed.ncbi.nlm.nih.gov/42687189/
-- [ ] 新型人类神经系统组织库的建立：德布勒森大学组织库介绍及回顾性数据分析 (pmid-42684486)
-  - https://pubmed.ncbi.nlm.nih.gov/42684486/
-- [ ] [高优先级] C9orf72相关poly-GR在骨骼肌中导致神经肌肉接头缺陷和肌肉萎缩 (pmid-42427030)
-  - https://pubmed.ncbi.nlm.nih.gov/42427030/
+- [ ] [疑似误收] 多系统蛋白病 (epmc-MED-20301649)
+  - https://pubmed.ncbi.nlm.nih.gov/20301649/
+- [ ] 实施专科护理可提高肌萎缩侧索硬化症患者的生存率 (epmc-MED-42687189)
+  - https://doi.org/10.1186/s42466-026-00528-x
 - [ ] 弥合肌萎缩侧索硬化临床试验的可信度差距 (epmc-MED-42685299)
   - https://doi.org/10.1212/wnl.0000000000218471
 - [ ] [疑似误收] 骨桥蛋白在衰老相关神经系统疾病中的情境依赖性作用 (epmc-MED-42684942)
   - https://doi.org/10.1177/03000605261476190
-- [ ] SOD1G93A ALS小鼠模型发病早期背根神经节感觉神经元功能障碍与过度兴奋性 (epmc-PPR-PPR1311104)
-  - https://doi.org/10.64898/2026.08.27.747263
-- [ ] [疑似误收] 一个标准化框架解决了神经退行性疾病中运动神经元丢失的模糊性。 (epmc-MED-42681667)
-  - https://doi.org/10.1186/s40478-026-02415-7
-- [ ] [疑似误收] 协助死亡后的器官捐献与脑保存：病例报告及潜在路径的考量 (epmc-MED-42681642)
-  - https://doi.org/10.1186/s12910-026-01586-1
-- [ ] Whole-exome sequencing reveals a novel frameshift and a recurrent nonsense SPG11 variant causing rare familial 肌萎缩侧索硬化症 type 5 in two consanguineous Pakistani families. (epmc-MED-42678590)
-  - https://doi.org/10.1007/s11033-026-12618-9
-- [ ] 待复核翻译：Microsecond molecular dynamics of SOD1 variants suggest a structural basis for divergent ALS clinical outcomes (epmc-PPR-PPR1310135)
-  - https://doi.org/10.64898/2026.08.29.747999
-- [ ] Seeds from ALS patients homozygous for the SOD1 D90A mutation transmit two types of SOD1 aggregation and 运动神经元病. (epmc-MED-42678414)
-  - https://doi.org/10.1007/s00401-026-03078-3
-- [ ] [疑似误收] 待复核翻译：Mitophagy in neuronal health and disease: from mechanisms to neurodegeneration. (epmc-MED-42677831)
-  - https://doi.org/10.1172/jci199847
+- [ ] [疑似误收] 待复核翻译：Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis. (epmc-MED-42684486)
+  - https://doi.org/10.1007/s10561-026-10249-9
+- [ ] Protein 生物标志物s in Risk and Prognosis of 肌萎缩侧索硬化症. (epmc-MED-42698373)
+  - https://doi.org/10.1111/ene.70741
 - [ ] [高优先级] Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症 (trial-NCT07023835)
   - https://clinicaltrials.gov/study/NCT07023835
 - [ ] [高优先级] Effects of Probiotics in 肌萎缩侧索硬化症-额颞叶痴呆 Spectrum Disorder (ALS-FTDSD) Patients (trial-NCT06051123)
