@@ -1,14 +1,71 @@
 {
-  "updatedAt": "2026-09-04T00:02:48.099Z",
+  "updatedAt": "2026-09-05T00:01:25.353Z",
   "period": {
     "days": 10,
-    "from": "2026-08-26",
-    "to": "2026-09-04"
+    "from": "2026-08-27",
+    "to": "2026-09-05"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
   "count": 43,
   "articles": [
+    {
+      "id": "pmid-42696048",
+      "pmid": "42696048",
+      "doi": "10.1007/s00401-026-03075-6",
+      "title": "Familial, neuropathological and cellular analysis identify ARPP21 as a major amyotrophic lateral sclerosis associated gene in French cohorts.",
+      "abstract": "ARPP21 has recently emerged as a new amyotrophic lateral sclerosis (ALS) associated gene but its pathogenic role remains unclear. In this study we performed familial, clinical, neuropathological and cellular analyses to characterize the recurrent p.P529L and p.P713L variants (also known as p.P563L variant and p.P747L variant, respectively) in our French ALS cohort of 1190 ALS cases and 50 additional family members available for segregation analysis, resulting in the description of 29 ARPP21-linked patients. ARPP21 emerged as the most frequent rare ALS-associated gene in France after exclusion of the four major ALS genes, accounting for 2.7% of familial cases (fALS) and 0.1% of sporadic cases. Age-dependent penetrance reached 45% by age 50 and increased only modestly thereafter, remaining incomplete even at advanced ages. In cellular models, the p.P713L mutant showed aggregation associated with protein hyperphosphorylation and colocalization with the autophagic marker p62. Neuropathological examination of tissue from a p.P529L carrier revealed typical cytoplasmic TDP-43 pathology, together with heterogeneous ARPP21-positive deposits. As ARPP21 antibody also stained granulovacuolar degenerations, ARPP21-positive deposits may reflect neuronal stress rather than mutant ARPP21-specific pathology. Nevertheless, together with previous studies, our findings support ARPP21 as an important ALS-associated gene, and indicate that both p.P529L/p.P563L and p.P713L/p.P747L should be considered pathogenic ALS-causing variants. Incorporating ARPP21 into the routine genetic testing panels for fALS could improve diagnostic yield.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "de Bertier S",
+        "Amador MD",
+        "Guissart C",
+        "Miki T",
+        "Boillée S",
+        "Lobsiger CS",
+        "Bohl D",
+        "Fauret-Amsellem AL",
+        "Bohic A",
+        "Brainbank Neuro-CEB neuropathology network",
+        "Giguet-Valard AG",
+        "Bellance R",
+        "Beauvais K",
+        "Meininger V",
+        "Bruneteau G",
+        "Salachas F",
+        "Vial C",
+        "Camu W",
+        "Esselin F",
+        "de la Cruz E",
+        "Bernard E",
+        "Seilhean D",
+        "Millecamps S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696048/"
+    },
+    {
+      "id": "pmid-42694829",
+      "pmid": "42694829",
+      "doi": "10.1049/htl2.70097",
+      "title": "ALSGate: An Efficient Gated Mixture-of-Experts Model for Reliable ALS Detection Using EMG Signals.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder affecting motor neurons, resulting in neuromuscular weakness and paralysis. Electromyography (EMG) is of vital importance for the detection of ALS. In this paper, a refined mixture of experts is proposed that automatically discriminates ALS patients from non-ALS cases using clinical EMG signals from the N2001 EMGLAB open-access dataset. The architecture consists of a 1D convolutional neural network, a temporal convolutional network and a spectrogram-based CNN to collectively learn localised temporal, long-range temporal and spectral features from EMG activity. A gating mechanism dynamically weights expert contributions and performs significantly better than equal-weight fusion. Training with focal loss and exponential moving average stabilisation addresses class imbalance and improves convergence. The proposed approach reached an AUROC of 0.9992, an F1-score of 0.9903 and a balanced accuracy of 0.9905, demonstrating strong discriminative performance and potential for real-time clinical applications.",
+      "journal": "Healthcare technology letters",
+      "authors": [
+        "Chowdhury S",
+        "Pramanik S",
+        "Bhattacharjee S",
+        "Billah M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694829/"
+    },
     {
       "id": "pmid-42183747",
       "pmid": "42183747",
@@ -46,6 +103,24 @@
       ],
       "publishedAt": "2026-09-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42681595/"
+    },
+    {
+      "id": "pmid-42693185",
+      "pmid": "42693185",
+      "doi": "10.1038/s41582-026-01261-4",
+      "title": "Role of complement and complement-targeted therapeutics in neurological diseases.",
+      "abstract": "Complement comprises a group of plasma and membrane proteins that provide an effective bridging function for innate and adaptive humoral immunity. Understanding complement pathophysiology is fundamental given that inappropriate complement function in host defence can lead to infectious diseases and inefficient disposal of altered, damaged or senescent cells can lead to or enhance autoimmune neurological processes. Although the rising number of approved drugs targeting complement pathways remains primarily focused on diseases with complement-fixing pathogenic antibodies (such as myasthenia gravis and neuromyelitis optica spectrum disorder), a robust pipeline of emerging treatments holds promise for expanding complement-targeted therapies to a broader spectrum of autoimmune neurological diseases, such as multiple sclerosis and even neurodegenerative diseases such as Alzheimer disease or amyotrophic lateral sclerosis. This Review presents insights into complement biology as it relates to the development or initiation of autoimmune and possibly degenerative diseases affecting the central and peripheral nervous systems or muscle. The effects, merits, risks and challenges of marketed drugs or biologic agents in ongoing phase I-III clinical trials engineered to inhibit proximal or distal components of the complement cascade are also discussed. Anti-complement therapeutics are destined to change the treatment of autoimmune neurologic conditions in which the therapeutic landscape is now becoming crowded with biologic agents targeting other key autoimmunity factors.",
+      "journal": "Nature reviews. Neurology",
+      "authors": [
+        "Dalakas MC",
+        "Lünemann JD"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693185/"
     },
     {
       "id": "pmid-42684942",
@@ -966,73 +1041,6 @@
       ],
       "publishedAt": "2026-08-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42662266/"
-    },
-    {
-      "id": "pmid-42649384",
-      "pmid": "42649384",
-      "doi": "10.1038/s41551-026-01774-9",
-      "title": "Engineered autophagy receptors administered with extracellular vesicles eliminate pathological Tau and TDP-43.",
-      "abstract": "In neurodegenerative diseases such as frontotemporal dementia and amyotrophic lateral sclerosis, pathological forms of proteins such as Tau and TDP-43 accumulate within large heterogeneous inclusions inside cells. Current strategies to eliminate such aberrant protein species in patients encounter three main challenges: crossing the blood-brain barrier and plasma membrane, specifically recognizing pathological forms of proteins, and engaging mechanisms to eliminate large entities. Here we fuse LC3A, a central protein in the recruitment of substrates into autophagosomes, to cytoplasm-stable antibodies. These engineered autophagy receptors, targeting Tau or TDP-43, are delivered using small extracellular vesicles and reduce pathology in models, including Tau P301S adult primary mouse neurons, TDP-43 G298S iPSC-derived motor neurons and after intravenous injection in Tau P301S mice. Similarly, adeno-associated-virus-mediated delivery in TDP-43 ΔNLS mice enhances clearance of pathological TDP-43. This targeted degradation strategy allows delivery into the brain while capitalizing on the specificity of antibodies and the ability of autophagy to degrade large intracellular entities.",
-      "journal": "Nature biomedical engineering",
-      "authors": [
-        "Guo H",
-        "Savard A",
-        "Manser C",
-        "Dutta K",
-        "Taylor JA",
-        "Rousseaux MWC",
-        "Pozzi S",
-        "Julien JP",
-        "Baird S",
-        "Gibbings D"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649384/"
-    },
-    {
-      "id": "pmid-42649099",
-      "pmid": "42649099",
-      "doi": "10.1002/mus.70382",
-      "title": "It's Virtually Here: Telemedicine, Virtual Care, and Neuromuscular Disease.",
-      "abstract": "The COVID-19 pandemic forced a partial shift in neuromuscular clinical practice away from in-person care to remote means. However, this shift was unexpected, abrupt, reactive to the emergency of a pandemic, and disruptive to the usual manner of care, without adequate time to adapt or study the optimal manner to provide care remotely. While traditionally associated with hub-and-spoke telemedicine models, the pandemic popularized direct-to-home virtual care, mostly unsupported by on-site examiners or standardized platforms. In chronic neuromuscular disorders such as amyotrophic lateral sclerosis (ALS) and myasthenia gravis (MG), virtual care has demonstrated feasibility, patient satisfaction, and potential cost savings, particularly for geographically or functionally disadvantaged populations. Disease-specific adaptations such as the Myasthenia Gravis Core Exam and wearable-based assessments (e.g., home spirometry, grip strength monitoring, and digital outcome measures) have enabled more structured remote evaluations. However, diagnostic accuracy may be compromised by the inability to perform detailed neurological examinations or electrodiagnostic studies. Equity concerns persist due to variability in digital literacy, internet and digital device access, and socioeconomic status. Post-pandemic, patients with disabilities may continue to benefit in a combined virtual/in-person paradigm of care. More evidence is required to evaluate the impact of virtual care on neuromuscular practice quality of care and outcomes. We outline some of the questions that require further study, hoping to spur research and quality improvement investigations of these new care models.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "AANEM",
-        "Kassardjian CD",
-        "Desai U",
-        "Živković SA",
-        "Simmons Z",
-        "Narayanaswami P"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-08-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649099/"
-    },
-    {
-      "id": "pmid-42670527",
-      "pmid": "42670527",
-      "doi": "10.2147/IJN.S628071",
-      "title": "Mesenchymal Stem Cells and Extracellular Vesicles for Neurodegenerative Diseases: Therapeutic Advances and Challenges.",
-      "abstract": "Mesenchymal stem cells (MSCs), as a type of adult stem cells, exhibit robust self-renewal, multi-lineage differentiation, paracrine and immunomodulatory capacities, demonstrating broad application prospects in the treatment of neurodegenerative diseases. This review systematically summarizes the mechanisms of action, therapeutic advances and comparative analyses of various MSCs and their derived extracellular vesicles (EVs) in Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS), and discusses the optimization effects of gene modification and pretreatment on therapeutic efficacy. This article not only highlights the advantages of various MSCs and their corresponding EVs, but also provides unique insights into their differentiated therapeutic potential and mechanism of action, which have not been fully elucidated in previous studies. Meanwhile, although current research results are encouraging, this paper also critically points out that existing studies suffer from insufficient elucidation of mechanisms and lack of large-scale clinical trials. Finally, the article prospects future directions of MSC-based therapeutic strategies, including mechanism deepening, treatment optimization and standardization system construction, to promote their translation into clinical application. However, most of the current evidence is still preclinical, and the recognized clinical efficacy in humans is still limited. This is a narrative review. Literature was screened from Web of Science and PubMed by thematic relevance and research quality, without systematic review protocol or meta-analysis.",
-      "journal": "International journal of nanomedicine",
-      "authors": [
-        "Pan L",
-        "Liu B",
-        "Xu J",
-        "Mu X",
-        "Fan L"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-08-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42670527/"
     }
   ]
 }
