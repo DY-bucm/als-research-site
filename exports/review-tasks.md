@@ -2,56 +2,54 @@
 
 - [ ] 重新审视运动神经元病中的体感诱发电位：来自大型队列的神经生理学见解 (pmid-42612409)
   - https://pubmed.ncbi.nlm.nih.gov/42612409/
-- [ ] [高优先级] 修复肌萎缩侧索硬化临床试验的可信度缺口 (pmid-42685299)
+- [ ] [高优先级] 弥合肌萎缩侧索硬化临床试验的可信度差距 (pmid-42685299)
   - https://pubmed.ncbi.nlm.nih.gov/42685299/
 - [ ] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
   - https://pubmed.ncbi.nlm.nih.gov/42666931/
+- [ ] [高优先级] 肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究 (pmid-42601592)
+  - https://pubmed.ncbi.nlm.nih.gov/42601592/
 - [ ] 肌萎缩侧索硬化中的环状RNA (pmid-42600995)
   - https://pubmed.ncbi.nlm.nih.gov/42600995/
-- [ ] 核SOD1在ALS的SHSY-5Y SOD1 G93A细胞模型中连接ATM-CHK2信号与ADH5/GSNOR转录 (pmid-42586199)
+- [ ] 核SOD1将ATM-CHK2信号与ALS SHSY-5Y SOD1 G93A细胞模型中的ADH5/GSNOR转录联系起来 (pmid-42586199)
   - https://pubmed.ncbi.nlm.nih.gov/42586199/
+- [ ] 一例纯合TBK1激酶结构域截短患儿的临床与免疫学特征 (pmid-42704422)
+  - https://pubmed.ncbi.nlm.nih.gov/42704422/
+- [ ] [高优先级] 追踪症状前C9orf72重复扩增携带者的社会情感脑变化：一项为期2年的纵向结构与功能磁共振成像研究 (pmid-42703939)
+  - https://pubmed.ncbi.nlm.nih.gov/42703939/
+- [ ] [高优先级] 肌萎缩侧索硬化症的急症处理 (pmid-42702895)
+  - https://pubmed.ncbi.nlm.nih.gov/42702895/
+- [ ] 过量叶酸在SOD1-G93A小鼠中促进神经炎症、氧化应激和细胞凋亡的作用 (pmid-42701881)
+  - https://pubmed.ncbi.nlm.nih.gov/42701881/
 - [ ] [高优先级] 肌萎缩侧索硬化-额颞叶谱系障碍生物型生物标志物谱的进展 (pmid-42698276)
   - https://pubmed.ncbi.nlm.nih.gov/42698276/
-- [ ] [高优先级] 商业ECLIA平台检测肌萎缩侧索硬化症患者血清神经丝轻链和GFAP (pmid-42698124)
+- [ ] [疑似误收] SOD1(G93A) 突变小鼠在疾病症状期及出生后早期少突胶质细胞生成过程中 LINGO1 表达的失调 (epmc-PPR-PPR1313174)
+  - https://doi.org/10.64898/2026.09.03.749143
+- [ ] [疑似误收] 内源性 TDP-43 A315T 突变的人类神经元细胞模型揭示蛋白质动力学改变与疾病相关的细胞功能障碍 (epmc-PPR-PPR1313162)
+  - https://doi.org/10.64898/2026.09.02.745749
+- [ ] [疑似误收] 急性起病吞咽困难：肌无力危象的一种罕见表现 (pmid-42700970)
+  - https://pubmed.ncbi.nlm.nih.gov/42700970/
+- [ ] 以延髓麻痹和Tapia综合征为首发表现的高级别B细胞淋巴瘤：病例报告 (pmid-42700027)
+  - https://pubmed.ncbi.nlm.nih.gov/42700027/
+- [ ] [高优先级] 商业 ECLIA 平台上肌萎缩侧索硬化症患者的血清神经丝轻链和 GFAP (pmid-42698124)
   - https://pubmed.ncbi.nlm.nih.gov/42698124/
-- [ ] 神经退行性疾病中微生物群衍生代谢物与GPCR信号传导 (pmid-42697520)
+- [ ] 神经退行性疾病中的微生物群衍生代谢物-GPCR信号传导 (pmid-42697520)
   - https://pubmed.ncbi.nlm.nih.gov/42697520/
-- [ ] 神经退行性疾病中的细胞外囊泡：诊断与治疗的新前沿 (pmid-42697379)
-  - https://pubmed.ncbi.nlm.nih.gov/42697379/
-- [ ] LXR激动剂T0901317的药理学调节减轻SOD1 G93A ALS小鼠模型的运动病理 (pmid-42697152)
-  - https://pubmed.ncbi.nlm.nih.gov/42697152/
-- [ ] [高优先级] 家族性、神经病理学和细胞学分析将 ARPP21 鉴定为法国队列中主要的肌萎缩侧索硬化相关基因 (pmid-42696048)
-  - https://pubmed.ncbi.nlm.nih.gov/42696048/
 - [ ] [疑似误收] 2025年海报摘要P1–P18 (epmc-PMC-PMC12329820)
   - https://europepmc.org/article/PMC/PMC12329820
-- [ ] 补体及补体靶向治疗在神经系统疾病中的作用 (pmid-42693185)
-  - https://pubmed.ncbi.nlm.nih.gov/42693185/
-- [ ] [高优先级] 主要神经退行性疾病共享的 TOP1 介导神经元基因组损伤的复发模式 (pmid-42385702)
-  - https://pubmed.ncbi.nlm.nih.gov/42385702/
-- [ ] 累积环境负担与神经退行性疾病死亡率：美国全国生态学研究 (pmid-42183747)
-  - https://pubmed.ncbi.nlm.nih.gov/42183747/
-- [ ] 症状前肌萎缩侧索硬化症表型转化中的蛋白质组学和功能特征 (epmc-MED-42681595)
-  - https://doi.org/10.1097/cnd.0000000000000567
-- [ ] [疑似误收] 多系统蛋白病 (epmc-MED-20301649)
-  - https://pubmed.ncbi.nlm.nih.gov/20301649/
-- [ ] 实施专科护理可提高肌萎缩侧索硬化症患者的生存率 (epmc-MED-42687189)
-  - https://doi.org/10.1186/s42466-026-00528-x
-- [ ] 弥合肌萎缩侧索硬化临床试验的可信度差距 (epmc-MED-42685299)
-  - https://doi.org/10.1212/wnl.0000000000218471
-- [ ] [疑似误收] 骨桥蛋白在衰老相关神经系统疾病中的情境依赖性作用 (epmc-MED-42684942)
-  - https://doi.org/10.1177/03000605261476190
-- [ ] [疑似误收] 待复核翻译：Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis. (epmc-MED-42684486)
-  - https://doi.org/10.1007/s10561-026-10249-9
-- [ ] Protein 生物标志物s in Risk and Prognosis of 肌萎缩侧索硬化症. (epmc-MED-42698373)
-  - https://doi.org/10.1111/ene.70741
+- [ ] 突触-核信号传导缺陷导致SOD1-ALS运动神经元易损性 (epmc-PPR-PPR1312984)
+  - https://doi.org/10.64898/2026.09.01.748568
+- [ ] [疑似误收] 神经退行性疾病中的细胞外囊泡：诊断与治疗的新前沿 (epmc-MED-42697379)
+  - https://doi.org/10.1016/j.bbr.2026.116455
+- [ ] 待复核翻译：Pharmacological modulation with the LXR agonist T0901317 attenuates motor pathology in the SOD1&lt;sup&gt;G93A&lt;/sup&gt; mouse model of ALS. (epmc-MED-42697152)
+  - https://doi.org/10.1016/j.neurot.2026.e01062
+- [ ] Familial, neuropathological and cellular analysis identify ARPP21 as a major 肌萎缩侧索硬化症 associated gene in French cohorts. (epmc-MED-42696048)
+  - https://doi.org/10.1007/s00401-026-03075-6
 - [ ] [高优先级] Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症 (trial-NCT07023835)
   - https://clinicaltrials.gov/study/NCT07023835
 - [ ] [高优先级] Effects of Probiotics in 肌萎缩侧索硬化症-额颞叶痴呆 Spectrum Disorder (ALS-FTDSD) Patients (trial-NCT06051123)
   - https://clinicaltrials.gov/study/NCT06051123
 - [ ] [高优先级] Efficacy and Tolerability of Beta Hydroxybutyrate Ester in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT04820478)
   - https://clinicaltrials.gov/study/NCT04820478
-- [ ] 待复核翻译：ALSGate: An Efficient Gated Mixture-of-Experts Model for Reliable ALS Detection Using EMG Signals. (pmid-42694829)
-  - https://pubmed.ncbi.nlm.nih.gov/42694829/
 - [ ] [高优先级] 待复核翻译：Trial on the Biological and Clinical Effects of Acetyl-L-carnitine in ALS (trial-NCT06126315)
   - https://clinicaltrials.gov/study/NCT06126315
 - [ ] [高优先级] Effects of L-Carnitine in 肌萎缩侧索硬化症 Patients With CHCHD10 Mutations (trial-NCT06849115)

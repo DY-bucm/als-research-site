@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-05T23:54:26.760Z",
+  "updatedAt": "2026-09-08T00:23:54.386Z",
   "summary": {
-    "totalItems": 38,
-    "issueCount": 33
+    "totalItems": 37,
+    "issueCount": 34
   },
   "sources": [
     {
@@ -23,6 +23,39 @@
   ],
   "lowRelevance": [
     {
+      "id": "epmc-PPR-PPR1313174",
+      "title": "Dysregulation of LINGO1 expression in the SOD1(G93A) mutant mice during symptomatic stages of the disease and early postnatal oligodendrogenesis",
+      "titleZh": "SOD1(G93A) 突变小鼠在疾病症状期及出生后早期少突胶质细胞生成过程中 LINGO1 表达的失调",
+      "category": "遗传",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.03.749143"
+    },
+    {
+      "id": "epmc-PPR-PPR1313162",
+      "title": "A Human Neuronal Cell Model of Endogenous TDP-43 A315T Reveals Altered Protein Dynamics and Disease-Relevant Cellular Dysfunction",
+      "titleZh": "内源性 TDP-43 A315T 突变的人类神经元细胞模型揭示蛋白质动力学改变与疾病相关的细胞功能障碍",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.02.745749"
+    },
+    {
+      "id": "pmid-42700970",
+      "title": "Acute-onset dysphagia: an uncommon presentation of myasthenia crisis.",
+      "titleZh": "急性起病吞咽困难：肌无力危象的一种罕见表现",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究（个案报告）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700970/"
+    },
+    {
       "id": "epmc-PMC-PMC12329820",
       "title": "2025 Poster Abstracts P1–P18",
       "titleZh": "2025年海报摘要P1–P18",
@@ -34,37 +67,15 @@
       "url": "https://europepmc.org/article/PMC/PMC12329820"
     },
     {
-      "id": "epmc-MED-20301649",
-      "title": "Multisystem Proteinopathy",
-      "titleZh": "多系统蛋白病",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
+      "id": "epmc-MED-42697379",
+      "title": "Extracellular Vesicles in Neurodegenerative Diseases: A New Frontier in Diagnosis and Therapy.",
+      "titleZh": "神经退行性疾病中的细胞外囊泡：诊断与治疗的新前沿",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/20301649/"
-    },
-    {
-      "id": "epmc-MED-42684942",
-      "title": "Context-dependent roles of osteopontin in aging-related neurological disorders.",
-      "titleZh": "骨桥蛋白在衰老相关神经系统疾病中的情境依赖性作用",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1177/03000605261476190"
-    },
-    {
-      "id": "epmc-MED-42684486",
-      "title": "Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
-      "titleZh": "待复核翻译：Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s10561-026-10249-9"
+      "url": "https://doi.org/10.1016/j.bbr.2026.116455"
     }
   ],
   "missingIdentifiers": [
@@ -82,6 +93,28 @@
   ],
   "missingAbstract": [
     {
+      "id": "epmc-PPR-PPR1313174",
+      "title": "Dysregulation of LINGO1 expression in the SOD1(G93A) mutant mice during symptomatic stages of the disease and early postnatal oligodendrogenesis",
+      "titleZh": "SOD1(G93A) 突变小鼠在疾病症状期及出生后早期少突胶质细胞生成过程中 LINGO1 表达的失调",
+      "category": "遗传",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.03.749143"
+    },
+    {
+      "id": "epmc-PPR-PPR1313162",
+      "title": "A Human Neuronal Cell Model of Endogenous TDP-43 A315T Reveals Altered Protein Dynamics and Disease-Relevant Cellular Dysfunction",
+      "titleZh": "内源性 TDP-43 A315T 突变的人类神经元细胞模型揭示蛋白质动力学改变与疾病相关的细胞功能障碍",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.02.745749"
+    },
+    {
       "id": "epmc-PMC-PMC12329820",
       "title": "2025 Poster Abstracts P1–P18",
       "titleZh": "2025年海报摘要P1–P18",
@@ -93,94 +126,94 @@
       "url": "https://europepmc.org/article/PMC/PMC12329820"
     },
     {
-      "id": "epmc-MED-42681595",
-      "title": "Proteomic and Functional Signatures of Phenoconversion in Presymptomatic Amyotrophic Lateral Sclerosis.",
-      "titleZh": "症状前肌萎缩侧索硬化症表型转化中的蛋白质组学和功能特征",
-      "category": "临床试验",
+      "id": "epmc-PPR-PPR1312984",
+      "title": "Defective synapto-nuclear signaling contributes to motoneuron vulnerability in SOD1-ALS",
+      "titleZh": "突触-核信号传导缺陷导致SOD1-ALS运动神经元易损性",
+      "category": "遗传",
       "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "medium",
-      "url": "https://doi.org/10.1097/cnd.0000000000000567"
+      "url": "https://doi.org/10.64898/2026.09.01.748568"
     },
     {
-      "id": "epmc-MED-20301649",
-      "title": "Multisystem Proteinopathy",
-      "titleZh": "多系统蛋白病",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
+      "id": "epmc-MED-42697379",
+      "title": "Extracellular Vesicles in Neurodegenerative Diseases: A New Frontier in Diagnosis and Therapy.",
+      "titleZh": "神经退行性疾病中的细胞外囊泡：诊断与治疗的新前沿",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/20301649/"
+      "url": "https://doi.org/10.1016/j.bbr.2026.116455"
     },
     {
-      "id": "epmc-MED-42687189",
-      "title": "Implementation of specialised care improves survival in patients with amyotrophic lateral sclerosis.",
-      "titleZh": "实施专科护理可提高肌萎缩侧索硬化症患者的生存率",
+      "id": "epmc-MED-42697152",
+      "title": "Pharmacological modulation with the LXR agonist T0901317 attenuates motor pathology in the SOD1&lt;sup&gt;G93A&lt;/sup&gt; mouse model of ALS.",
+      "titleZh": "待复核翻译：Pharmacological modulation with the LXR agonist T0901317 attenuates motor pathology in the SOD1&lt;sup&gt;G93A&lt;/sup&gt; mouse model of ALS.",
+      "category": "遗传",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.neurot.2026.e01062"
+    },
+    {
+      "id": "epmc-MED-42696048",
+      "title": "Familial, neuropathological and cellular analysis identify ARPP21 as a major amyotrophic lateral sclerosis associated gene in French cohorts.",
+      "titleZh": "Familial, neuropathological and cellular analysis identify ARPP21 as a major 肌萎缩侧索硬化症 associated gene in French cohorts.",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1186/s42466-026-00528-x"
-    },
-    {
-      "id": "epmc-MED-42685299",
-      "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
-      "titleZh": "弥合肌萎缩侧索硬化临床试验的可信度差距",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1212/wnl.0000000000218471"
-    },
-    {
-      "id": "epmc-MED-42684942",
-      "title": "Context-dependent roles of osteopontin in aging-related neurological disorders.",
-      "titleZh": "骨桥蛋白在衰老相关神经系统疾病中的情境依赖性作用",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1177/03000605261476190"
-    },
-    {
-      "id": "epmc-MED-42684486",
-      "title": "Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
-      "titleZh": "待复核翻译：Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.1007/s10561-026-10249-9"
-    },
-    {
-      "id": "epmc-MED-42698373",
-      "title": "Protein Biomarkers in Risk and Prognosis of Amyotrophic Lateral Sclerosis.",
-      "titleZh": "Protein 生物标志物s in Risk and Prognosis of 肌萎缩侧索硬化症.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/ene.70741"
+      "url": "https://doi.org/10.1007/s00401-026-03075-6"
     }
   ],
   "highPriorityNeedsReview": [
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
-      "titleZh": "修复肌萎缩侧索硬化临床试验的可信度缺口",
+      "titleZh": "弥合肌萎缩侧索硬化临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "观点/评论",
+      "evidenceLevel": "专家观点/评论",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685299/"
+    },
+    {
+      "id": "pmid-42601592",
+      "title": "Poor Prognostic Factors After Gastrostomy in Patients With Amyotrophic Lateral Sclerosis: A Two-Center Retrospective Cohort Study.",
+      "titleZh": "肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究（双中心回顾性队列）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601592/"
+    },
+    {
+      "id": "pmid-42703939",
+      "title": "Tracking Socio-emotional Brain Changes in Premanifest C9orf72 Repeat Expansion Carriers: A Structural and Functional 2-Year Longitudinal Magnetic Resonance Imaging Study.",
+      "titleZh": "追踪症状前C9orf72重复扩增携带者的社会情感脑变化：一项为期2年的纵向结构与功能磁共振成像研究",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703939/"
+    },
+    {
+      "id": "pmid-42702895",
+      "title": "Emergencies in Amyotrophic Lateral Sclerosis.",
+      "titleZh": "肌萎缩侧索硬化症的急症处理",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702895/"
     },
     {
       "id": "pmid-42698276",
@@ -196,35 +229,13 @@
     {
       "id": "pmid-42698124",
       "title": "Serum Neurofilament Light Chain and GFAP in Amyotrophic Lateral Sclerosis on a Commercial ECLIA Platform.",
-      "titleZh": "商业ECLIA平台检测肌萎缩侧索硬化症患者血清神经丝轻链和GFAP",
+      "titleZh": "商业 ECLIA 平台上肌萎缩侧索硬化症患者的血清神经丝轻链和 GFAP",
       "category": "临床试验",
       "evidenceLevel": "观察性临床研究（单中心回顾性，n=58）",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42698124/"
-    },
-    {
-      "id": "pmid-42696048",
-      "title": "Familial, neuropathological and cellular analysis identify ARPP21 as a major amyotrophic lateral sclerosis associated gene in French cohorts.",
-      "titleZh": "家族性、神经病理学和细胞学分析将 ARPP21 鉴定为法国队列中主要的肌萎缩侧索硬化相关基因",
-      "category": "生物标志物",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696048/"
-    },
-    {
-      "id": "pmid-42385702",
-      "title": "Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders.",
-      "titleZh": "主要神经退行性疾病共享的 TOP1 介导神经元基因组损伤的复发模式",
-      "category": "遗传",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385702/"
     },
     {
       "id": "trial-NCT07023835",
@@ -394,18 +405,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 4,
+    "疑似误收": 5,
     "缺标识符": 1,
-    "缺摘要": 8,
-    "高优先级待复核": 20,
+    "缺摘要": 7,
+    "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 38
+    "待复核": 37
   },
   "relevanceCounts": {
-    "high": 26,
-    "medium": 8,
-    "low": 4
+    "high": 25,
+    "medium": 7,
+    "low": 5
   }
 }

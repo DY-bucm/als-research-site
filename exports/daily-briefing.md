@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-09-05
+更新时间：2026-09-08
 
-1. **修复肌萎缩侧索硬化临床试验的可信度缺口**
-   - 临床试验 / 观点/评论 / high
-   - ALS早期试验中的夸大宣称源于激励错位和科学推理谬误，需通过严格标准和2期项目筛选来修复可信度。
+1. **弥合肌萎缩侧索硬化临床试验的可信度差距**
+   - 临床试验 / 专家观点/评论 / high
+   - ALS早期临床试验中的夸大宣称和不当激励导致3期失败率高，需加强方法学严谨性和结果报告标准。
    - https://pubmed.ncbi.nlm.nih.gov/42685299/
-2. **肌萎缩侧索硬化-额颞叶谱系障碍生物型生物标志物谱的进展**
+2. **肌萎缩侧索硬化患者胃造口术后不良预后因素：一项双中心回顾性队列研究**
+   - 临床试验 / 观察性临床研究（双中心回顾性队列） / high
+   - 男性、脊髓起病、PEG时%FVC<63%、起病至PEG病程<12个月是ALS患者胃造口术后预后不良的独立预测因素。
+   - https://pubmed.ncbi.nlm.nih.gov/42601592/
+3. **追踪症状前C9orf72重复扩增携带者的社会情感脑变化：一项为期2年的纵向结构与功能磁共振成像研究**
+   - 临床试验 / 待人工判定 / high
+   - 症状前C9orf72携带者在基线即存在社会情感网络的结构与功能异常，且这些异常在2年内呈进行性发展，但行为表现保持稳定。
+   - https://pubmed.ncbi.nlm.nih.gov/42703939/
+4. **肌萎缩侧索硬化症的急症处理**
+   - 临床试验 / 待人工判定 / high
+   - ALS急症（如跌倒、呼吸衰竭、误吸、感染等）是疾病进展的常见表现，需要高度警惕和主动管理，且管理策略与普通人群不同；急症出现时应及时讨论护理目标。
+   - https://pubmed.ncbi.nlm.nih.gov/42702895/
+5. **肌萎缩侧索硬化-额颞叶谱系障碍生物型生物标志物谱的进展**
    - 临床试验 / 综述/荟萃分析 / high
-   - 尚无单一生物标志物可预测ALS或FTD，但多模式生物型生物标志物谱（结合遗传和衰老指标）有望在表型转化前检测病理过程。
+   - 尚无单一生物标志物能预测ALS或FTD，但多模态生物型生物标志物谱（结合遗传风险和衰老标志物）有望在表型转化前检测病理过程。
    - https://pubmed.ncbi.nlm.nih.gov/42698276/
-3. **商业ECLIA平台检测肌萎缩侧索硬化症患者血清神经丝轻链和GFAP**
+6. **商业 ECLIA 平台上肌萎缩侧索硬化症患者的血清神经丝轻链和 GFAP**
    - 临床试验 / 观察性临床研究（单中心回顾性，n=58） / high
-   - 商业ECLIA平台检测的血清NfL在非结构化临床采样条件下与ALS进展速率强相关（r=0.704），快速进展者NfL显著升高，而GFAP和S-100B无额外预后价值。
+   - 在商业 ECLIA 平台上，血清 NfL 与 ALS 患者 ALSFRS-R 下降速率强相关（r=0.704-0.809），快速进展者 NfL 显著升高，但 NfL 与疾病分期无关；GFAP 和 S-100B 无额外预后价值。
    - https://pubmed.ncbi.nlm.nih.gov/42698124/
-4. **家族性、神经病理学和细胞学分析将 ARPP21 鉴定为法国队列中主要的肌萎缩侧索硬化相关基因**
-   - 生物标志物 / 观察性临床研究 / high
-   - ARPP21 变异在法国 fALS 中占 2.7%，p.P529L 和 p.P713L 被证实为致病性，且与 TDP-43 病理共存。
-   - https://pubmed.ncbi.nlm.nih.gov/42696048/
-5. **主要神经退行性疾病共享的 TOP1 介导神经元基因组损伤的复发模式**
-   - 遗传 / 动物/细胞实验 / high
-   - ALS、FTD 和 AD 神经元中均存在 TOP1 相关插入/缺失突变特征（ID4），且 TOP1-DNA 共价复合物增加，提示 TOP1 介导的基因组损伤是共享机制。
-   - https://pubmed.ncbi.nlm.nih.gov/42385702/
-6. **Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症**
+7. **Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
    - https://clinicaltrials.gov/study/NCT07023835
-7. **Effects of Probiotics in 肌萎缩侧索硬化症-额颞叶痴呆 Spectrum Disorder (ALS-FTDSD) Patients**
+8. **Effects of Probiotics in 肌萎缩侧索硬化症-额颞叶痴呆 Spectrum Disorder (ALS-FTDSD) Patients**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
    - https://clinicaltrials.gov/study/NCT06051123
-8. **Efficacy and Tolerability of Beta Hydroxybutyrate Ester in Patients With 肌萎缩侧索硬化症 (ALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04820478
