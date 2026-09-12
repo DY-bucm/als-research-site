@@ -1,14 +1,72 @@
 {
-  "updatedAt": "2026-09-11T00:07:13.496Z",
+  "updatedAt": "2026-09-12T00:14:51.930Z",
   "period": {
     "days": 10,
-    "from": "2026-09-02",
-    "to": "2026-09-11"
+    "from": "2026-09-03",
+    "to": "2026-09-12"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 36,
+  "count": 38,
   "articles": [
+    {
+      "id": "pmid-42722039",
+      "pmid": "42722039",
+      "doi": "10.1016/j.neures.2026.105119",
+      "title": "Anti-LAG-3 antibody treatment initiated after symptom onset extends survival in ALS model mice.",
+      "abstract": "Immune checkpoint molecules have emerged as regulators of microglial function in neurodegenerative diseases. We previously demonstrated that LAG-3 shapes disease-associated microglial phenotypes in ALS and that germline LAG-3 deletion in SOD1 G93A mice accelerated disease onset but extended duration, leaving survival unchanged. Here, we investigated the therapeutic efficacy of anti-LAG-3 antibody treatment starting after symptom onset. Anti-LAG-3 treatment extended survival, slowed neurological and motor decline, preserved body weight and motor neurons, and reduced microgliosis. Within microglia, the Axl + phagocytic-module fraction increased while the Dectin-1 + inflammatory-module fraction decreased. These findings indicate that post-onset LAG-3 inhibition is a promising therapeutic strategy for ALS.",
+      "journal": "Neuroscience research",
+      "authors": [
+        "Morisaki Y",
+        "Nomura N",
+        "Matsuda M",
+        "Ohshima M",
+        "Fukuda R",
+        "Komine O",
+        "Okuda T",
+        "Yamanaka K",
+        "Misawa H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722039/"
+    },
+    {
+      "id": "pmid-42722112",
+      "pmid": "42722112",
+      "doi": "10.1016/j.nbd.2026.107601",
+      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ~90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnostic delay, enable patient stratification, and assess treatment efficacy in clinical trials. Astrocyte-derived extracellular vesicles (ADEVs) represent promising CNS liquid biopsy biomarkers, given astrocyte involvement in ALS pathogenesis and the ability of ADEVs to cross the blood-brain barrier and carry TDP-43. Here, we assessed the diagnostic performance of TDP-43 and its hyperphosphorylated pathological form, phospho-Ser409 (pTDP-43), quantified in ADEVs, for distinguishing ALS cases from matched healthy controls. ADEVs were immunoisolated from whole blood (n = 76) and plasma (n = 86) across three ALS biorepositories/cohorts. ADEV quality and enrichment were validated in accordance with minimal information for studies of extracellular vesicles guidelines, and protein levels were normalized by ratio to tetraspanin cluster of differentiation 81 (CD81). Diagnostic accuracy was evaluated by logistic regression and random forest models with cross-validation, adjusting for age and sex across 100 random seeds. Plasma ADEV pTDP-43/CD81 ratio best predicted ALS case status, with a mean AUC of 0.89 (95% CI: 0.75-0.99) from logistic models, corresponding to a mean sensitivity and specificity of 87% and 89%, respectively, and a mean AUC of 0.86 (95% CI: 0.82-0.90) from random forest models. Although the specificity of ADEV pTDP-43 relative to disease mimics and associations with disease progression require further investigation, these findings support its potential as a biomarker candidate for ALS and for patient stratification in TDP-43-targeted clinical trials.",
+      "journal": "Neurobiology of disease",
+      "authors": [
+        "Butt TH",
+        "Strait M",
+        "Marcinczyk L",
+        "Katz G",
+        "Kalia V",
+        "Jaafar C",
+        "Saxena R",
+        "Divjan A",
+        "Saglimbeni B",
+        "Munoz Umanes ME",
+        "Tipps E",
+        "Han M",
+        "Mehta P",
+        "Lee I",
+        "Mitsumoto H",
+        "Factor-Litvak P",
+        "Shneider NA",
+        "Kioumourtzoglou MA",
+        "Re DB"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
+    },
     {
       "id": "pmid-42720086",
       "pmid": "42720086",
@@ -106,6 +164,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42721110/"
     },
     {
+      "id": "pmid-42723096",
+      "pmid": "42723096",
+      "doi": "10.1186/s13024-026-00971-z",
+      "title": "Retromer-targeted therapy for neurodegenerative diseases.",
+      "abstract": "Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic Lateral Sclerosis (ALS) are neurodegenerative diseases characterized by dysfunction of the endosomal-lysosomal system (ELS). Four shared neurodegenerative mechanisms across ALS, PD and AD are regulated by the ELS, namely proteostasis and related protein misfolding, mitochondrial function, neurotransmission and neuroinflammation. These mechanisms are interconnected, contributing to neurodegeneration in a \"snowball\" manner. The retromer, a multimeric, evolutionarily conserved protein complex involved in intracellular protein trafficking, is at the crossroad of these neurodegenerative processes. This narrative review focuses on exploring the retromer structure, function as a master regulator of the ELS, and how this impacts proteostasis, mitochondrial biogenesis and homeostasis, neurotransmission and neuroinflammation across neurodegenerative diseases. We explore how alterations in retromer function can play an important role in neurodegeneration and discuss the impact of genetic and pharmacological manipulations of VPS35, one of the main retromer subunits. In vitro and in vivo studies have identified that the retromer enhances the activity of protein degradation pathways via the ELS, namely macroautophagy, chaperone-mediated autophagy, and the ELS itself, with concomitant reduction in misfolded protein levels. Also, in some model systems, when the retromer role is enhanced or restored, mitochondrial function is rescued, dysfunctional neurotransmission is restored, and the damaging effects of neuroinflammation are dampened. Lastly, we highlight the role of a novel pharmacological class of agents that enhance retromer function as a strategy for potentially slowing the progression of these neurodegenerative diseases in in vivo models of PD and ALS. We discuss the challenges in targeting the retromer, current limitations and potential off-target effects of retromer enhancement. Overall, the retromer regulates shared mechanisms across neurodegenerative diseases and retromer enhancers could represent a novel disease-modifying strategy in AD, PD and ALS.",
+      "journal": "Molecular neurodegeneration",
+      "authors": [
+        "Persico M",
+        "Tuithung S",
+        "Lorenzo A",
+        "Crawford D",
+        "Eleuteri S",
+        "Simon DK"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723096/"
+    },
+    {
       "id": "pmid-42701881",
       "pmid": "42701881",
       "doi": "10.1080/10715762.2026.2729677",
@@ -181,6 +261,27 @@
       ],
       "publishedAt": "2026-09-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42708447/"
+    },
+    {
+      "id": "pmid-42721706",
+      "pmid": "42721706",
+      "doi": "10.1016/j.jns.2026.126168",
+      "title": "Dysfunction of the blood-brain barrier and neurovascular unit in amyotrophic lateral sclerosis - From advanced human models to treatments.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder, characterized by the degeneration of motor neurons, resulting in progressive and eventually complete loss of motor function. The phenotypical heterogeneity of ALS poses a challenge to early diagnosis and treatment, with currently available therapeutics only capable of relieving symptoms and slowing progression. While ALS is classified as a motor neuron disease (MND), research has identified significant impairment to the blood-brain barrier (BBB) and neurovascular unit (NVU) of ALS patients. The BBB along with supporting cells of the NVU selectively control the entry of substances into the central nervous system (CNS) and maintain brain homeostasis, with its many cellular components demonstrating impaired function, specifically relating to inflammation, oxidative stress and TDP-43 proteinopathy. The advent of more advanced in vitro techniques as well as use of patient-derived BBB cells has presented a promising alternative to recreate the in vivo structure of the BBB/NVU in a highly controlled platform. Such approaches have ranged from simple 2-dimensional (2D) cell culture to intricate 3-dimensional (3D) co-culture systems, as well as microfluidic systems and organoids, with a potential to investigate ALS associated BBB/NVU dysfunction and drug discovery. This review provides a comprehensive assessment of known BBB/NVU dysfunction in ALS and methods of investigating this using in vitro and in vivo platforms with a focus on inflammation, oxidative stress and pathological TDP-43 expression. This review also presents a future perspective to overcoming barriers to treatment of ALS using new patient-derived BBB/NVU model systems.",
+      "journal": "Journal of the neurological sciences",
+      "authors": [
+        "Viljoen S",
+        "Chaves JCS",
+        "Peall I",
+        "White AR",
+        "Oikari LE"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721706/"
     },
     {
       "id": "pmid-42709218",
@@ -383,6 +484,32 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42709336/"
     },
     {
+      "id": "pmid-42725432",
+      "pmid": "42725432",
+      "doi": "10.1093/nar/gkag880",
+      "title": "Altered neuronal start codon stringency favors cap-independent repeat-associated non-AUG translation.",
+      "abstract": "Intronic GGGGCC repeat expansions in C9orf72 cause amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). This expansion supports a non-canonical form of translational initiation known as repeat-associated non-AUG (RAN) translation to produce toxic dipeptide repeat proteins that contribute to neurodegeneration. Here, we find that the efficiency of RAN translation and its dependency on the 5' 7-methylguanosine mRNA cap are variable across cell types, with both rodent neurons and human iNeurons favoring cap-independent RAN translation from two distinct repeats (CGG and GGGGCC) across multiple reading frames. Treatment with an eIF4E inhibitor that blocks cap-dependent translation enhances RAN translation specifically in neurons. Intriguingly, cap-independent RAN translation exhibits less reliance on near-cognate codons for initiation than cap-dependent RAN translation. This finding led us to identify a surprising global alteration in neuronal start codon stringency as a contributor to the relatively higher cap-independent RAN translation in this cell type. This effect correlates with cytoplasmic redistribution of eIF1 in neurons and is reversed with overexpression of the eukaryotic initiation factor eIF5, which relaxes start codon stringency and preferentially enhances cap-dependent RAN translation. Together, these findings reveal several neuron-specific features of translational regulation that favor cap-independent RAN translation with implications for nucleotide repeat expansion disorder pathogenesis.",
+      "journal": "Nucleic acids research",
+      "authors": [
+        "Wieland CM",
+        "Wright SE",
+        "Willey S",
+        "Purwar I",
+        "Grudzien SJ",
+        "Krans A",
+        "Laimon EL",
+        "Asher MJ",
+        "Isaacs AM",
+        "Garner AL",
+        "Todd PK"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725432/"
+    },
+    {
       "id": "pmid-42704422",
       "pmid": "42704422",
       "doi": "10.1007/s12026-026-09838-3",
@@ -504,6 +631,26 @@
       ],
       "publishedAt": "2026-09-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42702895/"
+    },
+    {
+      "id": "pmid-42725023",
+      "pmid": "42725023",
+      "doi": "10.2147/JIR.S613821",
+      "title": "P2X7 Receptor in Rare Diseases: Shared Molecular Mechanisms and Therapeutic Implications.",
+      "abstract": "Rare diseases (RDs) are individually uncommon but collectively affect a large global population, and the vast majority still lack effective disease-modifying therapies. With advances in genomics and data-sharing platforms, research has increasingly shifted from a single-disease perspective to the search for convergent molecular pathways that might be shared across clinically distinct entities. In this context, the purinergic P2X7 receptor (P2X7R) has emerged as a putative \"shared molecular platform\" due to its central role in inflammation amplification, cell death and immune regulation. P2X7R is an ATP-gated ion channel with unique structural and functional features: under high extracellular ATP, it not only forms a non-selective cation channel but can also dilate into a \"large pore\" permeable to macromolecules, thereby triggering Ca 2+ overload, NLRP3 inflammasome assembly, reactive oxygen species (ROS) production and apoptotic/necrotic-like cell death. This review briefly outlines the epidemiology of RDs and the structural-functional characteristics of P2X7R, then systematically summarizes current evidence linking P2X7R to multiple rare diseases, including Charcot-Marie-Tooth disease, Guillain-Barré syndrome, amyotrophic lateral sclerosis, Huntington's disease, multiple sclerosis, and selected inflammatory and metabolic RDs (CAPS, familial Mediterranean fever, Systemic sclerosis, Dravet syndrome and Gaucher disease). By comparing P2X7R expression and functional alterations, downstream signaling pathways and pharmacological data from animal models across these conditions, we propose that a P2X7R-dependent network centered on a \"Ca 2+ -NLRP3-inflammation/cell death axis\" may constitute a common pathogenic backbone for diverse RDs. At the same time, disease-specific spatiotemporal expression patterns of P2X7R in central vs peripheral nervous systems and in immune vs target organ cells confer marked context dependence and \"double-edged sword\" properties. Finally, we discuss opportunities and challenges for P2X7R-targeted strategies, including the impact of disease stage and sex differences on therapeutic efficacy, and key bottlenecks in translating preclinical findings into clinical benefit. A deeper understanding of both shared and disease-specific roles of P2X7R may provide a conceptual framework and therapeutic entry point for precision stratification and multi-target interventions in rare diseases.",
+      "journal": "Journal of inflammation research",
+      "authors": [
+        "Xiao X",
+        "Cao G",
+        "Hou S",
+        "Yin H"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725023/"
     },
     {
       "id": "pmid-42698276",
@@ -756,112 +903,6 @@
       ],
       "publishedAt": "2026-09-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42693185/"
-    },
-    {
-      "id": "pmid-42684486",
-      "pmid": "42684486",
-      "doi": "10.1007/s10561-026-10249-9",
-      "title": "Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
-      "abstract": "Human brain tissues obtained from autopsies, as well as muscle and nerve samples derived from biopsies, constitute indispensable resources for translational research investigating the pathomechanisms of neuropsychiatric disorders. In this study, we introduce the Nervous System Tissue Bank of University of Debrecen, which contains formalin-preserved and formalin-fixed paraffin-embedded (FFPE) brain samples, as well as frozen nerve and muscle biopsy specimens. Database was established containing clinical and pathological parameters. For autopsy cases, the following variables were recorded: sex, age, number of hospitalization days, admission diagnosis, comorbidities, cause of death, post-mortem interval, general autopsy findings, and macro- and microscopic brain pathology diagnoses. For biopsy samples, we recorded: sex, age, biopsy site, and microscopic and molecular genetic diagnoses. Based on the recorded parameters and their temporal changes, retrospective statistical analyses were performed. Formalin-fixed brain samples and FFPE blocks were available from 2425 deceased individuals, and nerve/muscle samples from 257 patients. The brain samples originate from the period between 1990 and 2012. The most frequent admission diagnoses included ischemic stroke (n = 1070), hemorrhagic stroke (n = 462), subarachnoid hemorrhage (n = 102), epilepsy (n = 103), brain metastasis (n = 70), primary brain tumor (n = 60), parkinsonism (n = 28), dementia (n = 21), and amyotrophic lateral sclerosis (n = 21). Prevalence of hypertension (67.6%) and diabetes mellitus (20.1%) showed a significant increase over time (p < 0.001), whereas the prevalence of malignancies, dementia, parkinsonism, and psychiatric disorders remained stable. Our tissue bank represents the largest nervous system collection in Hungary, providing well-characterized brain, muscle, and nerve samples linked to nearly three decades of clinical data. Samples are made available to researchers.",
-      "journal": "Cell and tissue banking",
-      "authors": [
-        "Bencs V",
-        "Hortobágyi T",
-        "Nagy AC",
-        "Kozák M",
-        "Méhes G",
-        "Oláh L",
-        "Csiba L"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684486/"
-    },
-    {
-      "id": "pmid-42687189",
-      "pmid": "42687189",
-      "doi": "10.1186/s42466-026-00528-x",
-      "title": "Implementation of specialised care improves survival in patients with amyotrophic lateral sclerosis.",
-      "abstract": "Access to multidisciplinary care influences survival in patients with amyotrophic lateral sclerosis (pwALS). However, real-world data comparing structured specialised care with general neurological management remain limited. We aimed to assess the influence of implementing a specialised outpatient clinic on survival in pwALS. This retrospective cohort study included pwALS meeting the Gold Coast criteria who were treated at the Department of Neurology of the Medical University of Vienna between January 2009 and July 2023. Demographic and clinical parameters and survival data were obtained from the local ALS registry, the Austrian Federation of Social Insurance databases, and the national mortality database of Statistik Austria. Data were censored in December 2024. Outcomes were compared between patients managed before (general care cohort) and after the establishment of a specialised ALS outpatient clinic in 2018 (specialised care cohort). A total of 242 pwALS were included (47.5% female), of whom 43.8% received general neurological care and 56.2% specialised care. Spinal onset ALS was observed in 65.1% and 70.6%, respectively. Baseline demographic and clinical characteristics were comparable between both cohorts. Median survival time was 27.0 months (95% CI 23.0-35.0) in the general care cohort and 40.0 months (95% CI 32.0-47.0) in specialised care cohort (p = 0.0173). This survival difference was driven by patients with spinal onset ALS, whereas no benefit was observed in those with bulbar onset disease. Specialised care was associated with improved survival in this real-world ALS cohort, likely reflecting the cumulative effect of coordinated multidisciplinary management rather than individual interventions.",
-      "journal": "Neurological research and practice",
-      "authors": [
-        "Keritam O",
-        "Bormann D",
-        "Haimberger F",
-        "Gharib D",
-        "Sener M",
-        "Gruber F",
-        "Antoniewicz L",
-        "Fedak I",
-        "Renner A",
-        "Fasching B",
-        "Ullrich S",
-        "Paternostro R",
-        "Dolak W",
-        "Masel EK",
-        "Schuhfried O",
-        "Rath J",
-        "Zulehner G",
-        "Krenn M",
-        "Zimprich F",
-        "Cetin H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687189/"
-    },
-    {
-      "id": "pmid-42690718",
-      "pmid": "42690718",
-      "doi": "10.1021/acschemneuro.5c00977",
-      "title": "Mechanistic Characterization of NABi as a Selective Inhibitor of SOD1G93A Aggregation: Structural Basis and Therapeutic Implications for ALS.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease characterized by the progressive loss of motor neurons, with familial ALS (fALS) frequently caused by mutations in Cu/Zn superoxide dismutase (SOD1). The G93A mutation, one of the most aggressive forms, promotes the formation of cytotoxic protein aggregates through cross-β-sheet structures, leading to neuronal dysfunction and death. In this study, we investigated the therapeutic potential of NABi (natural Aβ binder and Aβ-aggregation inhibitor), a stable small engineered protein composed of the N-terminal 90 amino acids of SOD1, originally developed to target amyloid-β aggregation in Alzheimer's disease. Given the shared β-sheet-rich aggregation mechanisms between amyloid-β and mutant SOD1 proteins, we hypothesized that NABi could serve as a dual-action therapeutic for both diseases. Through an integrated approach involving structural, biochemical, and cellular analyses, we demonstrate that NABi exhibits a 4-fold greater binding affinity for SOD1G93A compared to SOD1WT, selectively targeting the mutant protein via specific hydrophobic interactions. Structural modeling using AlphaFold2 reveals that the G93A mutation exposes hydrophobic residues that create an optimal binding interface for NABi. Functionally, NABi effectively inhibits SOD1G93A aggregation, as demonstrated by filter trap assays and immunofluorescence microscopy, while maintaining the protein in a soluble, nontoxic state. Importantly, coexpression of NABi reduces SOD1G93A-induced cytotoxicity by approximately 4-fold, significantly enhancing neuronal survival. These findings establish NABi as a promising therapeutic candidate for SOD1G93A-associated familial ALS, demonstrating its capacity to selectively target pathological protein conformations while preserving normal cellular function. Our results support the development of NABi as an innovative pan-therapeutic approach targeting shared aggregation pathways across multiple neurodegenerative diseases.",
-      "journal": "ACS chemical neuroscience",
-      "authors": [
-        "Nam MK",
-        "Oh Y",
-        "Choi Y",
-        "Lee J",
-        "Jeong GH",
-        "Park S",
-        "Yoo SA",
-        "Kim M",
-        "Kang S",
-        "Rhim H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690718/"
-    },
-    {
-      "id": "pmid-42685299",
-      "pmid": "42685299",
-      "doi": "10.1212/WNL.0000000000218471",
-      "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
-      "abstract": "There is a long history of early- and mid-phase amyotrophic lateral sclerosis (ALS) clinical trial data being used to make claims of clinical benefit that fail to translate into successful phase 3 outcomes. It is suggested that fallacious scientific reasoning is being encouraged by perverse incentives arising from a \"clinical trial industrial complex\" that greatly influences trial design, data interpretation, and results communication. Recurring fallacies include false premises underlying outcome comparisons, misuse and incorrect interpretation of biomarkers, mismatches between study design and stated objectives, selective reporting of outcomes, over-reliance on post hoc analyses and open-label extension data, and overly optimistic framing of inconclusive data. We argue that these practices, reinforced by misaligned incentives across industry and academia, lead to premature claims of therapeutic promise and tangible harm to patients. To address the resulting ALS clinical trial credibility gap, we call for rigorous adherence to established standards for reporting clinical trial results, clearer distinction between hypothesis generation and hypothesis testing, more measured description of trial results, and more disciplined triage of phase 2 programs. A cultural shift toward scientific skepticism and methodological rigor is essential to accelerate the development of genuinely effective ALS therapies.",
-      "journal": "Neurology",
-      "authors": [
-        "Benatar M",
-        "Rothstein JD",
-        "Snow K",
-        "Sethi N",
-        "Taylor DM",
-        "Dave KD",
-        "McDermott CJ",
-        "Cochrane TI"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685299/"
     }
   ]
 }
