@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:14:51.930Z",
+  "updatedAt": "2026-09-12T23:59:05.441Z",
   "period": {
     "days": 10,
     "from": "2026-09-03",
@@ -7,8 +7,52 @@
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 38,
+  "count": 40,
   "articles": [
+    {
+      "id": "pmid-42727824",
+      "pmid": "42727824",
+      "doi": "10.1016/j.taap.2026.118034",
+      "title": "Exploring the toxicological impact of BDE-209 on neurodegenerative diseases through network toxicology, molecular docking, molecular dynamics simulation and in-vitro study.",
+      "abstract": "Decabromodiphenyl ether (BDE-209) is a persistent flame retardant associated with neurotoxicity, but its potential links to neurodegenerative diseases remain unclear. We integrated network toxicology, molecular docking, molecular dynamics (MD) simulations, and in vitro experiments to investigate BDE-209 in Parkinson's disease (PD), Alzheimer's disease (AD), and amyotrophic lateral sclerosis (ALS). Network analysis identified 90 shared targets, enriched in lipid metabolism, oxidative stress, and inflammatory pathways, including IL-17 and TNF signaling. Docking prioritized the FKBP12-mTOR complex as a candidate binding system, with a score of -8.6 kcal/mol. MD simulations supported the stability of the predicted pose, which was dominated by van der Waals and hydrophobic interactions involving PHE-128 and TRP-190. In differentiated PC12 cells, BDE-209 increased p-mTOR at 10 μM and IL-1β at 20 μM without overt cytotoxicity. Rapamycin attenuated the p-mTOR response, supporting mTOR involvement, although mTOR dependence of IL-1β induction was not established. At 40 μM, BDE-209 reduced viability, potentially confounded by precipitation or aggregation. These findings implicate mTOR dysregulation in BDE-209 cellular responses, but direct binding, chronic exposure, and in vivo disease relevance require further validation.",
+      "journal": "Toxicology and applied pharmacology",
+      "authors": [
+        "Li X",
+        "Zhang S",
+        "Liu Y",
+        "Yu X",
+        "Han L",
+        "Liu Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727824/"
+    },
+    {
+      "id": "pmid-42727710",
+      "pmid": "42727710",
+      "doi": "10.1016/j.brainresbull.2026.112111",
+      "title": "Selective Neuroprotection in the ALS-FTD Spectrum: Mechanisms of Neuronal Resilience and Translational Perspectives.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is increasingly recognized as part of a broader clinico-pathological continuum encompassing frontotemporal dementia (FTD). Despite progressive degeneration across motor and cognitive neural systems associated with TDP-43 pathology, specific neuronal populations-including the oculomotor and abducens nuclei, Onuf's nucleus, and sensory dorsal column pathways-remain relatively preserved. Selectively preserved neuronal structures in ALS have largely been described as isolated neuropathological observations without sufficient mechanistic integration. This review aims to synthesize candidate intrinsic and microenvironmental mechanisms that may contribute to selective neuronal preservation and propose a translational framework for understanding neuronal resilience in the ALS-FTD spectrum. We conducted a comprehensive critical review of the literature addressing selective neuronal vulnerability and resistance in ALS-FTD, integrating comparative observations from related neurodegenerative and neuromuscular disorders. Particular emphasis was placed on candidate mechanisms associated with neuronal resilience, including Nrf2/ARE signaling, calcium homeostasis, glutamatergic receptor composition, glial-mediated neurotrophic support, and emerging transcriptomic evidence relevant to selective neuronal vulnerability. Selective preservation of specific neuronal populations represents a distinctive biological characteristic of the ALS-FTD spectrum. Current evidence suggests that enhanced antioxidant defense, tightly regulated intracellular calcium dynamics, protective microenvironmental interactions, and other stress-response pathways may collectively contribute to resistance against TDP-43 proteinopathy. These findings may provide a mechanistic framework for understanding selective neuronal resilience and suggest potential avenues for future neuroprotective therapeutic development. Integrating mechanisms of selective neuroprotection with translational neurobiological perspectives may provide a conceptual framework for ALS research. Leveraging preserved neural systems may not only inform biologically grounded supportive care strategies but also help identify mechanistically relevant targets for future disease-modifying interventions.",
+      "journal": "Brain research bulletin",
+      "authors": [
+        "Inoue Y",
+        "Tanaka M",
+        "Oguchi T",
+        "Sasaki A",
+        "Saito K",
+        "Inoue A",
+        "Otsuka N"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727710/"
+    },
     {
       "id": "pmid-42722039",
       "pmid": "42722039",

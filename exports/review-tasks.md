@@ -2,7 +2,7 @@
 
 - [ ] 重新审视运动神经元病中的体感诱发电位：来自大型队列的神经生理学洞见 (pmid-42612409)
   - https://pubmed.ncbi.nlm.nih.gov/42612409/
-- [ ] 通过转录组范围机器学习共识方法识别肌萎缩侧索硬化候选治疗靶点以用于药物重定位 (pmid-42600917)
+- [ ] 通过转录组范围机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位 (pmid-42600917)
   - https://pubmed.ncbi.nlm.nih.gov/42600917/
 - [ ] [高优先级] 弥合肌萎缩侧索硬化症临床试验的可信度差距 (pmid-42685299)
   - https://pubmed.ncbi.nlm.nih.gov/42685299/
@@ -14,36 +14,36 @@
   - https://pubmed.ncbi.nlm.nih.gov/42601592/
 - [ ] 肌萎缩侧索硬化中的环状RNA (pmid-42600995)
   - https://pubmed.ncbi.nlm.nih.gov/42600995/
-- [ ] [高优先级] 靶向逆转录体的神经退行性疾病治疗 (pmid-42723096)
+- [ ] 通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响 (pmid-42727824)
+  - https://pubmed.ncbi.nlm.nih.gov/42727824/
+- [ ] [高优先级] ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景 (pmid-42727710)
+  - https://pubmed.ncbi.nlm.nih.gov/42727710/
+- [ ] [疑似误收] KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷 (pmid-42727616)
+  - https://pubmed.ncbi.nlm.nih.gov/42727616/
+- [ ] [疑似误收] 相对神经退行性组织易感性的分形不变性：一个在TDP-43谱系上验证的本体-系统发育场 (epmc-PPR-PPR1317458)
+  - https://doi.org/10.21203/rs.3.rs-10989289/v1
+- [ ] [高优先级] 靶向逆转录体治疗神经退行性疾病 (pmid-42723096)
   - https://pubmed.ncbi.nlm.nih.gov/42723096/
-- [ ] [高优先级] 星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症的血源性生物标志物 (pmid-42722112)
+- [ ] [高优先级] 星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症血液生物标志物 (pmid-42722112)
   - https://pubmed.ncbi.nlm.nih.gov/42722112/
-- [ ] [高优先级] 症状出现后启动抗LAG-3抗体治疗可延长ALS模型小鼠的生存期 (pmid-42722039)
+- [ ] [高优先级] 症状发作后启动抗LAG-3抗体治疗可延长ALS模型小鼠的生存期 (pmid-42722039)
   - https://pubmed.ncbi.nlm.nih.gov/42722039/
 - [ ] [高优先级] 肌萎缩侧索硬化症中的无创脑刺激：经颅直流电刺激与经颅磁刺激的系统综述与荟萃分析 (pmid-42721110)
   - https://pubmed.ncbi.nlm.nih.gov/42721110/
 - [ ] ALS治疗中处于临床开发阶段的创新疗法。第2部分：生物制品与天然产物 (pmid-42720979)
   - https://pubmed.ncbi.nlm.nih.gov/42720979/
-- [ ] [高优先级] 肌萎缩侧索硬化与额颞叶痴呆中认知和行为的统一概念化 (pmid-42720086)
-  - https://pubmed.ncbi.nlm.nih.gov/42720086/
-- [ ] SOD1G93A小鼠骨骼肌中失调的microRNA-mRNA网络揭示ALS代谢损伤 (pmid-42717683)
-  - https://pubmed.ncbi.nlm.nih.gov/42717683/
-- [ ] 过量叶酸在SOD1-G93A小鼠中促进神经炎症、氧化应激和细胞凋亡的作用 (pmid-42701881)
-  - https://pubmed.ncbi.nlm.nih.gov/42701881/
-- [ ] [疑似误收] Cfap410a 与 Cby 协同作用并以组织特异性需求构建果蝇纤毛过渡区 (epmc-PPR-PPR1316861)
+- [ ] [疑似误收] 与ALS相关的exitron剪接产生具有不同特性的UBQLN2异构体 (epmc-PPR-PPR1317822)
+  - https://doi.org/10.64898/2026.09.08.750250
+- [ ] 澳大利亚农村地区的运动神经元病：一项基于人群的流行病学、临床特征及区域差异观察性研究 (epmc-PPR-PPR1317714)
+  - https://doi.org/10.64898/2026.09.08.26362473
+- [ ] [疑似误收] Cfap410a与Cby协同作用并具有组织特异性需求以构建果蝇纤毛过渡区 (epmc-PPR-PPR1316861)
   - https://doi.org/10.64898/2026.09.08.749861
-- [ ] [疑似误收] 克隆性CD8 T细胞连接ALS4进展中的外周与鞘内免疫：一个ALS多组学参考 (epmc-PPR-PPR1315672)
-  - https://doi.org/10.21203/rs.3.rs-10810896/v1
-- [ ] 肌萎缩侧索硬化中血脑屏障与神经血管单元的功能障碍——从先进人类模型到治疗 (epmc-MED-42721706)
-  - https://doi.org/10.1016/j.jns.2026.126168
-- [ ] [疑似误收] 为衰老大脑工程化mRNA-LNP药物：神经退行性疾病的机遇与挑战 (epmc-MED-42713005)
-  - https://doi.org/10.1002/exp2.70223
-- [ ] [疑似误收] JAK2变异与帕金森综合征：巧合还是病理生理学联系？ (epmc-MED-42712083)
-  - https://doi.org/10.1002/mdc3.70815
-- [ ] [疑似误收] 待复核翻译：Neuroanatomy education through the years: Revisiting the teaching slides used by Sir Wilfrid Edward Le Gros Clark. (epmc-MED-42711836)
-  - https://doi.org/10.1111/joa.70235
-- [ ] Evaluation of a self-administered version of the Revised 肌萎缩侧索硬化症 Functional Rating Scale (ALSFRS-R). (epmc-MED-42710846)
-  - https://doi.org/10.1055/s-0046-1827063
+- [ ] 肌萎缩侧索硬化与额颞叶痴呆中认知与行为的概念化 (epmc-MED-42720086)
+  - https://doi.org/10.1093/brain/awag300
+- [ ] 待复核翻译：Dysregulated microRNA-mRNA networks in SOD1G93A mouse skeletal muscle reveal metabolic impairments in ALS. (epmc-MED-42717683)
+  - https://doi.org/10.1242/dmm.052963
+- [ ] [疑似误收] The role of overdose folic acid in promoting 神经炎症, oxidative stress, and apoptosis in SOD1-G93A mice. (epmc-MED-42701881)
+  - https://doi.org/10.1080/10715762.2026.2729677
 - [ ] [高优先级] Efficacy and Safety Study of MCI-186 for Treatment of 肌萎缩侧索硬化症 (ALS) Who Met Severity Classification III (trial-NCT00415519)
   - https://clinicaltrials.gov/study/NCT00415519
 - [ ] [高优先级] Personalized 反义寡核苷酸 Therapy for A Single Patient With CHCHD10 ALS (nL18576) (trial-NCT07423494)
