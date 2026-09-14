@@ -1,54 +1,112 @@
 {
-  "updatedAt": "2026-09-13T00:00:47.544Z",
-  "previousSnapshot": "data/archive/2026-09-12.json",
+  "updatedAt": "2026-09-14T00:10:53.896Z",
+  "previousSnapshot": "data/archive/2026-09-13.json",
   "current": "data/items.json",
   "summary": {
     "added": 9,
-    "removed": 9,
+    "removed": 8,
     "changed": 8
   },
   "added": [
     {
-      "id": "pmid-42727824",
-      "titleZh": "通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响",
-      "category": "生物标志物",
+      "id": "pmid-42259394",
+      "titleZh": "天然单体化合物在神经退行性疾病中的作用：靶向铁死亡与神经炎症",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727824/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259394/"
     },
     {
-      "id": "pmid-42727710",
-      "titleZh": "ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景",
-      "category": "临床试验",
+      "id": "pmid-42730941",
+      "titleZh": "动脉粥样硬化性心血管疾病使ALS风险增加82%，而理想心血管健康可使其减半：一项50万人前瞻性队列研究",
+      "category": "机制",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727710/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730941/"
     },
     {
-      "id": "pmid-42727616",
-      "titleZh": "KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727616/"
+      "id": "epmc-MED-42732224",
+      "titleZh": "尸检证实的正常压力脑积水（NPH）表现为皮质基底节综合征",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/ccr3.73479"
     },
     {
-      "id": "epmc-PPR-PPR1317458",
-      "titleZh": "相对神经退行性组织易感性的分形不变性：一个在TDP-43谱系上验证的本体-系统发育场",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10989289/v1"
-    },
-    {
-      "id": "epmc-PPR-PPR1317822",
-      "titleZh": "与ALS相关的exitron剪接产生具有不同特性的UBQLN2异构体",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.08.750250"
-    },
-    {
-      "id": "epmc-PPR-PPR1317714",
-      "titleZh": "澳大利亚农村地区的运动神经元病：一项基于人群的流行病学、临床特征及区域差异观察性研究",
+      "id": "epmc-MED-42729937",
+      "titleZh": "重新利用抗菌药物实现神经保护：机制、临床潜力与挑战",
       "category": "机制",
       "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.08.26362473"
+      "url": "https://doi.org/10.1002/nep3.70042"
+    },
+    {
+      "id": "pmid-42720086",
+      "titleZh": "肌萎缩侧索硬化与额颞叶痴呆中认知和行为的统一概念化",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720086/"
+    },
+    {
+      "id": "pmid-42717683",
+      "titleZh": "SOD1G93A小鼠骨骼肌中失调的microRNA-mRNA网络揭示ALS代谢损伤",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717683/"
+    },
+    {
+      "id": "epmc-MED-42729732",
+      "titleZh": "行为变异型额颞叶变性中mGluR5密度与结构退变的空间协变",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.1162/imag.a.1358"
+    },
+    {
+      "id": "epmc-MED-42725885",
+      "titleZh": "不止于一种特征：声音作为临床生物标志物",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://doi.org/10.2196/111088"
+    },
+    {
+      "id": "epmc-MED-42723086",
+      "titleZh": "待复核翻译：Virobiome-mediated regulation of microbiota-gut-brain axis signaling and neuroimmune homeostasis.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s12964-026-03067-9"
+    }
+  ],
+  "removed": [
+    {
+      "id": "pmid-42612409",
+      "titleZh": "重新审视运动神经元病中的体感诱发电位：来自大型队列的神经生理学洞见",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612409/"
+    },
+    {
+      "id": "pmid-42600917",
+      "titleZh": "通过转录组范围机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600917/"
+    },
+    {
+      "id": "pmid-42601592",
+      "titleZh": "肌萎缩侧索硬化患者胃造瘘术后的不良预后因素：一项双中心回顾性队列研究",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601592/"
+    },
+    {
+      "id": "pmid-42600995",
+      "titleZh": "肌萎缩侧索硬化中的环状RNA",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600995/"
+    },
+    {
+      "id": "epmc-PPR-PPR1316861",
+      "titleZh": "Cfap410a与Cby协同作用并具有组织特异性需求以构建果蝇纤毛过渡区",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.09.08.749861"
     },
     {
       "id": "epmc-MED-42720086",
@@ -72,71 +130,6 @@
       "url": "https://doi.org/10.1080/10715762.2026.2729677"
     }
   ],
-  "removed": [
-    {
-      "id": "pmid-42720086",
-      "titleZh": "肌萎缩侧索硬化与额颞叶痴呆中认知和行为的统一概念化",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720086/"
-    },
-    {
-      "id": "pmid-42717683",
-      "titleZh": "SOD1G93A小鼠骨骼肌中失调的microRNA-mRNA网络揭示ALS代谢损伤",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717683/"
-    },
-    {
-      "id": "pmid-42701881",
-      "titleZh": "过量叶酸在SOD1-G93A小鼠中促进神经炎症、氧化应激和细胞凋亡的作用",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701881/"
-    },
-    {
-      "id": "epmc-PPR-PPR1315672",
-      "titleZh": "克隆性CD8 T细胞连接ALS4进展中的外周与鞘内免疫：一个ALS多组学参考",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10810896/v1"
-    },
-    {
-      "id": "epmc-MED-42721706",
-      "titleZh": "肌萎缩侧索硬化中血脑屏障与神经血管单元的功能障碍——从先进人类模型到治疗",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.jns.2026.126168"
-    },
-    {
-      "id": "epmc-MED-42713005",
-      "titleZh": "为衰老大脑工程化mRNA-LNP药物：神经退行性疾病的机遇与挑战",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/exp2.70223"
-    },
-    {
-      "id": "epmc-MED-42712083",
-      "titleZh": "JAK2变异与帕金森综合征：巧合还是病理生理学联系？",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/mdc3.70815"
-    },
-    {
-      "id": "epmc-MED-42711836",
-      "titleZh": "待复核翻译：Neuroanatomy education through the years: Revisiting the teaching slides used by Sir Wilfrid Edward Le Gros Clark.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1111/joa.70235"
-    },
-    {
-      "id": "epmc-MED-42710846",
-      "titleZh": "Evaluation of a self-administered version of the Revised 肌萎缩侧索硬化症 Functional Rating Scale (ALSFRS-R).",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://doi.org/10.1055/s-0046-1827063"
-    }
-  ],
   "changed": [
     {
       "id": "pmid-42685299",
@@ -144,19 +137,19 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "专家观点/评论文章（非原始临床试验数据）",
-          "after": "专家评论/方法学述评"
+          "before": "专家评论/方法学述评",
+          "after": "专家观点/评论文章（非原始临床试验）"
         }
       ]
     },
     {
       "id": "pmid-42719214",
-      "titleZh": "草药纳米颗粒治疗神经退行性疾病：从分子机制到治疗转化",
+      "titleZh": "草药纳米颗粒在神经退行性疾病治疗中的应用：从分子机制到治疗转化",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "综述（非原始临床试验）",
-          "after": "综述（非原始临床试验或基础研究）"
+          "before": "综述（非原始临床试验或基础研究）",
+          "after": "综述（非原始临床试验，非动物或细胞原始研究）"
         }
       ]
     },
@@ -166,41 +159,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "专家评论/综述",
-          "after": "专家评论/综述（基于家系报道的分析）"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42723096",
-      "titleZh": "靶向逆转录体治疗神经退行性疾病",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "叙述性综述（临床前证据为主）",
-          "after": "综述/荟萃分析"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42722112",
-      "titleZh": "星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症血液生物标志物",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "临床试验研究（多队列生物标志物诊断性能研究）",
-          "after": "临床试验研究"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42721110",
-      "titleZh": "肌萎缩侧索硬化症中的无创脑刺激：经颅直流电刺激与经颅磁刺激的系统综述与荟萃分析",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "系统综述与荟萃分析（纳入随机对照试验）",
-          "after": "系统综述与荟萃分析（纳入研究以随机对照试验为主）"
+          "before": "专家评论/综述（基于家系报道的分析）",
+          "after": "专家评论/综述（基于家族病例报道的机制讨论）"
         }
       ]
     },
@@ -210,14 +170,47 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "综述（系统梳理临床试验注册信息）",
-          "after": "综述（系统梳理注册临床试验）"
+          "before": "综述（系统梳理注册临床试验）",
+          "after": "综述（系统梳理临床试验注册信息）"
         }
       ]
     },
     {
-      "id": "epmc-PPR-PPR1316861",
-      "titleZh": "Cfap410a与Cby协同作用并具有组织特异性需求以构建果蝇纤毛过渡区",
+      "id": "pmid-42727710",
+      "titleZh": "ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1317458",
+      "titleZh": "相对神经退行性组织易感性的分形不变性：一个在TDP-43谱系上验证的本体-系统发育场",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "预印本，未经同行评审；抓取元数据未提供摘要，具体证据等级待人工判定。",
+          "after": "预印本，摘要缺失，证据等级待人工判定"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1317822",
+      "titleZh": "待复核翻译：ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "待人工判定（仅有题名和登记字段，无摘要，无法判断研究类型与证据等级）",
+          "after": "待人工判定"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1317714",
+      "titleZh": "运动神经元病 in rural Australia: a population-based observational study of epidemiology, clinical characteristics and regional variation",
       "changes": [
         {
           "field": "priority",
@@ -226,8 +219,8 @@
         },
         {
           "field": "evidenceLevel",
-          "before": "机制研究（果蝇模型）",
-          "after": "机制研究（果蝇遗传学，预印本，无摘要）"
+          "before": "观察性研究（基于人群的流行病学研究；原始记录未提供摘要，无法进一步评估）",
+          "after": "机制研究"
         }
       ]
     }

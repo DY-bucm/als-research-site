@@ -1,14 +1,60 @@
 {
-  "updatedAt": "2026-09-12T23:59:05.441Z",
+  "updatedAt": "2026-09-14T00:09:24.534Z",
   "period": {
     "days": 10,
-    "from": "2026-09-03",
-    "to": "2026-09-12"
+    "from": "2026-09-05",
+    "to": "2026-09-14"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 40,
+  "count": 32,
   "articles": [
+    {
+      "id": "pmid-42730941",
+      "pmid": "42730941",
+      "doi": "10.1002/ana.78321",
+      "title": "Atherosclerotic Cardiovascular Diseases Increase ALS Risk by 82% While Optimal Cardiovascular Health Halves It: A 0.5-Million Prospective Cohort Study.",
+      "abstract": "The objective of this study was to determine whether prevalent atherosclerotic cardiovascular diseases (ASCVDs) increase the risk of amyotrophic lateral sclerosis (ALS) and whether high cardiovascular health (CVH) can offset this risk. We prospectively analyzed 502,279 UK Biobank participants (37-73 years) with linked electronic health records. Prevalent ASCVD (coronary artery disease [CAD], ischemic stroke [IS], and peripheral artery disease [PAD]) was ascertained at baseline. CVH was quantified using Life's Essential 8 and categorized as low, moderate, or high. Cox models, joint analyses, and Mendelian randomization were applied. Over a median follow-up of 13.74 years, 675 incident ALS cases were documented. A history of ASCVD was associated with a 43% higher risk of ALS (hazard ratio [HR] = 1.43, 95% confidence interval [CI] = 1.16-1.78, p = 0.001), primarily driven by CAD and IS. Conversely, high CVH was associated with a lower risk of ALS compared with low CVH (HR = 0.52, 95% CI = 0.33-0.81, p = 0.004). Joint analysis revealed that individuals with low CVH and pre-existing ASCVD exhibited the highest ALS risk. Mendelian randomization analyses provided supportive evidence consistent with the observational associations among CAD, IS, and ALS. The inverse association between CVH and ALS risk was most pronounced among participants aged ≤65 years. Prevalent ASCVD was associated with a higher risk of ALS, whereas high CVH was associated with a lower risk of ALS. These findings support a potential link between CVH and ALS susceptibility, particularly among individuals aged ≤65 years. ANN NEUROL 2026.",
+      "journal": "Annals of neurology",
+      "authors": [
+        "Xie J",
+        "Xie H",
+        "Li Y",
+        "Jiang W",
+        "Wang X",
+        "Xie Q",
+        "Song X",
+        "Fan D",
+        "Li HF",
+        "Deng B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730941/"
+    },
+    {
+      "id": "pmid-42720979",
+      "pmid": "42720979",
+      "doi": "10.1080/13543784.2026.2729512",
+      "title": "Innovative therapies under clinical development for ALS treatment. Part 2: biologics and natural products.",
+      "abstract": "The clinical trial landscape for Amyotrophic Lateral Sclerosis (ALS) is rapidly expanding despite ongoing translational challenges. Following our 2022 analysis and as a continuation of Part 1, which focused on small molecules, this review provides a structured overview of biologics and natural products in the ALS clinical pipeline. Particular emphasis is placed on candidates that entered, advanced through, or completed clinical evaluation between 2022 and the end of 2025. Clinical trials for ALS registered in the United States (ClinicalTrials.gov) and the European Union (EU Clinical Trials Register/CTIS) were systematically reviewed and are summarized in this report. Modern biotechnology, ethnopharmacology, and classical pharmacology are increasingly converging in ALS therapeutic development, making this one of the most active areas of neurodegenerative disease research. Nevertheless, major challenges remain, including central nervous system (CNS) penetration, long-term safety, interpatient variability, limited clinical evidence, and the need for reliable biomarkers. Emerging technologies, such as big data analytics and artificial intelligence, may help accelerate and optimize therapeutic development, as well as improve patient recruitment and stratification.",
+      "journal": "Expert opinion on investigational drugs",
+      "authors": [
+        "Huang CS",
+        "Sanchez-Santos C",
+        "Martinez-Gonzalez L",
+        "Gil C",
+        "Martinez A"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720979/"
+    },
     {
       "id": "pmid-42727824",
       "pmid": "42727824",
@@ -163,27 +209,6 @@
       ],
       "publishedAt": "2026-09-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717683/"
-    },
-    {
-      "id": "pmid-42720979",
-      "pmid": "42720979",
-      "doi": "10.1080/13543784.2026.2729512",
-      "title": "Innovative therapies under clinical development for ALS treatment. Part 2: biologics and natural products.",
-      "abstract": "The clinical trial landscape for Amyotrophic Lateral Sclerosis (ALS) is rapidly expanding despite ongoing translational challenges. Following our 2022 analysis and as a continuation of Part 1, which focused on small molecules, this review provides a structured overview of biologics and natural products in the ALS clinical pipeline. Particular emphasis is placed on candidates that entered, advanced through, or completed clinical evaluation between 2022 and the end of 2025. Clinical trials for ALS registered in the United States (ClinicalTrials.gov) and the European Union (EU Clinical Trials Register/CTIS) were systematically reviewed and are summarized in this report. Modern biotechnology, ethnopharmacology, and classical pharmacology are increasingly converging in ALS therapeutic development, making this one of the most active areas of neurodegenerative disease research. Nevertheless, major challenges remain, including central nervous system (CNS) penetration, long-term safety, interpatient variability, limited clinical evidence, and the need for reliable biomarkers. Emerging technologies, such as big data analytics and artificial intelligence, may help accelerate and optimize therapeutic development, as well as improve patient recruitment and stratification.",
-      "journal": "Expert opinion on investigational drugs",
-      "authors": [
-        "Huang CS",
-        "Sanchez-Santos C",
-        "Martinez-Gonzalez L",
-        "Gil C",
-        "Martinez A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720979/"
     },
     {
       "id": "pmid-42721110",
@@ -731,222 +756,23 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42698276/"
     },
     {
-      "id": "pmid-42700970",
-      "pmid": "42700970",
-      "doi": "10.1136/bcr-2025-265182",
-      "title": "Acute-onset dysphagia: an uncommon presentation of myasthenia crisis.",
-      "abstract": "Myasthenia crisis is a lethal complication of myasthenia gravis, and about 20% of patients with myasthenia gravis may present for the first time in crisis. We present a case in which underlying, undiagnosed myasthenia gravis presented in crisis as acute-onset dysphagia. We would like to discuss the role of acute exacerbation of chronic rhinosinusitis and the administration of high-dose oral corticosteroids in the precipitation of the myasthenia crisis in this patient.",
-      "journal": "BMJ case reports",
+      "id": "pmid-42729071",
+      "pmid": "42729071",
+      "doi": "10.21769/BioProtoc.5801",
+      "title": "Quantitative Analysis of Axonal Degeneration and TDP-43 Aggregation in Compartmentalized Human iPSC-Derived Motor Neuron-Myotube Co-cultures.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is characterized by early and spatially restricted pathology in motor axons, including distal degeneration and accumulation of aggregation-prone proteins such as TDP-43. However, a major limitation in the field has been the lack of approaches that enable robust, quantitative, and compartment-specific analysis of these early axonal events, particularly in human-relevant systems. Here, we describe an integrated experimental and analytical framework that enables quantitative dissection of axonal degeneration and protein aggregation, specifically within distal motor axons. By combining compartmentalized human co-cultures with a dedicated image analysis strategy, this approach enables selective and quantitative analysis of pathological processes specifically within axons, independent of surrounding tissues such as muscle and other cellular compartments. This framework captures both structural degeneration and protein aggregation dynamics at subcellular resolution, enabling spatially resolved quantitative analysis of disease-relevant changes along axons. Importantly, the analytical framework is not limited to TDP-43 but is broadly applicable to diverse aggregation-prone proteins, thereby providing a generalizable platform to study axonal pathology across neurodegenerative diseases. Together, this work provides a scalable approach for investigating axonal pathology as an early and measurable feature of neurodegeneration, with potential applications in mechanistic studies and therapeutic targeting in ALS and related disorders. Key features • Compartmentalized human induced pluripotent stem cell (iPSC)-derived motor neuron-myotube co-cultures for modeling distal axonal pathology. • Microfluidic separation of somatic and distal axonal compartments enabling spatial perturbation and analysis. • Quantitative imaging of neurofilament heavy chain (NFH)-associated axonal degeneration and pTDP-43 accumulation. • Semi-automated workflow for a reproducible, scalable, and modular pipeline for image quantification.",
+      "journal": "Bio-protocol",
       "authors": [
-        "Kishore NL",
-        "Chiramal LD",
-        "Varghese L"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700970/"
-    },
-    {
-      "id": "pmid-42697379",
-      "pmid": "42697379",
-      "doi": "10.1016/j.bbr.2026.116455",
-      "title": "Extracellular vesicles in neurodegenerative diseases: A new frontier in diagnosis and therapy.",
-      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease are among the progressive disorders of the nervous system that are characterized by the gradual destruction of neurons, the accumulation of misfolded proteins, and the limited effective therapeutic options. In recent years, numerous lines of evidence have emphasized the important role of extracellular vesicles (EVs) in the formation and progression of these diseases. These vesicles are membrane-bound nanoscale structures that are secreted by almost all cell types and play a role in cell-cell communication through the transfer of molecules such as proteins, lipids, and nucleic acids. In neurodegenerative disorders, EVs can facilitate the transport and dissemination of disease-related proteins, including amyloid-β, tau, α-synuclein, mutant huntingtin, SOD1, and TDP-43, thus contributing to the spread of pathological processes in different parts of the nervous system. On the other hand, the ability of these vesicles to cross the blood-brain barrier and reflect molecular changes occurring in the central nervous system makes them valuable candidates for the development of minimally invasive biomarkers. This review reviews the biogenesis, classification, isolation methods, and molecular content of EVs, and analyzes their role in the pathogenesis, diagnosis, and treatment of the most important neurodegenerative diseases. Also, the importance of EV-associated proteins, RNAs, and lipids as emerging diagnostic biomarkers, as well as the therapeutic potential of natural and engineered vesicles as drug delivery systems and regulators of neuroinflammation and neurodegenerative processes, is discussed.",
-      "journal": "Behavioural brain research",
-      "authors": [
-        "Mohammad SI",
-        "Vasudevan A",
-        "Oriquat G",
-        "Gajjar TB",
-        "Hanumanthayya M",
-        "Shukla SK",
-        "Tailor NK",
-        "Baig MR",
-        "Fadaam O",
-        "Abdul AS"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697379/"
-    },
-    {
-      "id": "pmid-42696048",
-      "pmid": "42696048",
-      "doi": "10.1007/s00401-026-03075-6",
-      "title": "Familial, neuropathological and cellular analysis identify ARPP21 as a major amyotrophic lateral sclerosis associated gene in French cohorts.",
-      "abstract": "ARPP21 has recently emerged as a new amyotrophic lateral sclerosis (ALS) associated gene but its pathogenic role remains unclear. In this study we performed familial, clinical, neuropathological and cellular analyses to characterize the recurrent p.P529L and p.P713L variants (also known as p.P563L variant and p.P747L variant, respectively) in our French ALS cohort of 1190 ALS cases and 50 additional family members available for segregation analysis, resulting in the description of 29 ARPP21-linked patients. ARPP21 emerged as the most frequent rare ALS-associated gene in France after exclusion of the four major ALS genes, accounting for 2.7% of familial cases (fALS) and 0.1% of sporadic cases. Age-dependent penetrance reached 45% by age 50 and increased only modestly thereafter, remaining incomplete even at advanced ages. In cellular models, the p.P713L mutant showed aggregation associated with protein hyperphosphorylation and colocalization with the autophagic marker p62. Neuropathological examination of tissue from a p.P529L carrier revealed typical cytoplasmic TDP-43 pathology, together with heterogeneous ARPP21-positive deposits. As ARPP21 antibody also stained granulovacuolar degenerations, ARPP21-positive deposits may reflect neuronal stress rather than mutant ARPP21-specific pathology. Nevertheless, together with previous studies, our findings support ARPP21 as an important ALS-associated gene, and indicate that both p.P529L/p.P563L and p.P713L/p.P747L should be considered pathogenic ALS-causing variants. Incorporating ARPP21 into the routine genetic testing panels for fALS could improve diagnostic yield.",
-      "journal": "Acta neuropathologica",
-      "authors": [
-        "de Bertier S",
-        "Amador MD",
-        "Guissart C",
-        "Miki T",
-        "Boillée S",
-        "Lobsiger CS",
-        "Bohl D",
-        "Fauret-Amsellem AL",
-        "Bohic A",
-        "Brainbank Neuro-CEB neuropathology network",
-        "Giguet-Valard AG",
-        "Bellance R",
-        "Beauvais K",
-        "Meininger V",
-        "Bruneteau G",
-        "Salachas F",
-        "Vial C",
-        "Camu W",
-        "Esselin F",
-        "de la Cruz E",
-        "Bernard E",
-        "Seilhean D",
-        "Millecamps S"
+        "Subramaniam AG",
+        "de Andrade Gensas LK",
+        "Gradus-Pery T",
+        "Perlson E"
       ],
       "publicationTypes": [
         "Journal Article"
       ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696048/"
-    },
-    {
-      "id": "pmid-42700027",
-      "pmid": "42700027",
-      "doi": "10.1097/MD.0000000000050500",
-      "title": "High-grade B-cell lymphoma presenting with bulbar palsy and Tapia syndrome: A case report.",
-      "abstract": "Bulbar palsy and Tapia syndrome (ipsilateral recurrent laryngeal and hypoglossal nerve palsy) are rarely the initial manifestations of lymphoma. Motor neuron disease is often the primary consideration in such cases, potentially leading to diagnostic delay. A 46-year-old male was admitted to the hospital on April 16, 2020, with the chief complaint of \"dysphagia for 7 days.\" High-grade B-cell lymphoma. The patient received swallowing function rehabilitation training after admission. On May 12, 2020, a biopsy of a painful mass in the right mandibular area was performed. On May 20, 2020, systemic anti-tumor therapy was administered based on immunohistochemistry and FISH results. At the 2-month follow-up, the patient showed further weight loss, extensive extranodal and multi-organ involvement, indicating a poor prognosis. Lymphoma can present with isolated bulbar palsy and Tapia syndrome, mimicking motor neuron disease. Recognizing B symptoms and atypical neuroimaging findings is essential for early diagnosis. Furthermore, the etiology of carotid stenosis in lymphoma patients is often multifactorial, and treatment decisions must balance stroke prevention against bleeding and other tumor-related risks.",
-      "journal": "Medicine",
-      "authors": [
-        "Luo H",
-        "Zhao Z",
-        "Liu B"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700027/"
-    },
-    {
-      "id": "pmid-42697520",
-      "pmid": "42697520",
-      "doi": "10.1016/j.neuroscience.2026.09.001",
-      "title": "Microbiota-derived metabolite-GPCR signalling in neurodegeneration.",
-      "abstract": "The gut microbiome acts as a primary regulator of host homeostasis, influencing the entire body through bidirectional communication along the gut-brain axis (GBA). Dysbiosis, which is defined as a state of microbial imbalance involving alterations in community composition and function, can disrupt the synthesis of important microbiota-derived metabolites, such as short-chain fatty acids (SCFAs), bile acids and neurotransmitter precursors. This can lead to impaired essential host signalling pathways. There is growing evidence that metabolic alterations associated with dysbiosis contribute to the onset and progression of neurodegenerative disorders (NDDs), including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), multiple sclerosis (MS) and amyotrophic lateral sclerosis (ALS). In this context, G protein-coupled receptors (GPCRs) act as essential molecular transducers that link microbial metabolites to intracellular signalling networks. Aberrant GPCR activation, driven by altered metabolite profiles, modulates key downstream pathways including cAMP, MAPK, PI3K/Akt, NF-κB and Ca2 + signalling. This promotes neuroinflammation, oxidative stress, mitochondrial dysfunction and pathological protein aggregation - hallmark processes underlying neurodegeneration. By identifying convergent and disease-specific signalling pathways, the review highlights mechanistic nodes of therapeutic relevance and discusses GPCR-centric emerging and other microbiome-targeted strategies aimed at restoring metabolic and signalling homeostasis in neurodegenerative disorders.",
-      "journal": "Neuroscience",
-      "authors": [
-        "Sharma A",
-        "Jatana N"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697520/"
-    },
-    {
-      "id": "pmid-42697152",
-      "pmid": "42697152",
-      "doi": "10.1016/j.neurot.2026.e01062",
-      "title": "Pharmacological modulation with the LXR agonist T0901317 attenuates motor pathology in the SOD1 G93A mouse model of ALS.",
-      "abstract": "Dysregulation of cholesterol metabolism and neuroinflammation are critical drivers of Amyotrophic Lateral Sclerosis (ALS) pathology. Liver X receptors (LXRs) are master regulators of cholesterol homeostasis and immune responses. Here, we evaluated the therapeutic potential of chronic pharmacological modulation using the potent synthetic agonist T0901317 (T0) in the hSOD1 G93A mouse model. To assess both long-term functional outcomes and the underlying molecular mechanisms, T0 was administered via two distinct experimental designs. In a longitudinal cohort treated from postnatal day 60 (P60) until the humane endpoint, T0-treated SOD1G93A mice exhibited delayed body weight loss and sustained improvements in neuromuscular strength and motor coordination. Critically, this continuous treatment preserved functional motor unit connectivity, delayed overall clinical progression, and significantly extended median lifespan. While protective in both sexes, the survival benefit was slightly more pronounced in females. Molecular characterization revealed that the early systemic T0 administration successfully engaged canonical LXR targets in the spinal cord, driving a significant transcriptional upregulation of cholesterol efflux pathways and suppressing pro-inflammatory signaling cascades. This response induced a lipid partitioning, evidenced by a significant accumulation of cholesterol esters within the central nervous system, potentially mitigating lipotoxicity. Taken together, these findings demonstrate that T0901317 treatment exerts a significant beneficial effect, highlighting the pharmacological modulation of these lipid and inflammatory networks as a promising therapeutic strategy for ALS.",
-      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
-      "authors": [
-        "Fernández-Beltrán LC",
-        "García-Toledo I",
-        "Javaloyes García K",
-        "Jiménez-Coca I",
-        "Jiménez-Rodríguez J",
-        "Fernández-Bernal A",
-        "Godoy-Corchuelo JM",
-        "Portero-Otín M",
-        "Corrochano S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697152/"
-    },
-    {
-      "id": "pmid-42698124",
-      "pmid": "42698124",
-      "doi": "10.1002/mus.70397",
-      "title": "Serum Neurofilament Light Chain and GFAP in Amyotrophic Lateral Sclerosis on a Commercial ECLIA Platform.",
-      "abstract": "In amyotrophic lateral sclerosis (ALS), SIMOA-based studies show that baseline serum neurofilament light chain (NfL) predicts the revised ALS Functional Rating Scale (ALSFRS-R) decline rate and survival. The Roche Elecsys electrochemiluminescence immunoassay (ECLIA) reports values approximately six-fold lower; cross-platform comparison confirms comparable performance, but serial clinical-practice data remain limited. We assessed whether ECLIA NfL correlates with the ALSFRS-R decline rate under the sampling conditions of clinical practice, and whether GFAP or S-100B adds prognostic or disease-specific information. We retrospectively analyzed 58 patients with medical-record-confirmed ALS at an academic center (2022-2026). Serum NfL, GFAP, and S-100B were measured on the Roche Elecsys ECLIA. The NfL-ALSFRS-R correlation was assessed within matching windows; serial NfL was examined in patients with repeat draws. First-per-patient NfL median was 7.06 pg/mL (IQR 4.06-17.30). NfL correlated strongly with the ALSFRS-R decline rate (Spearman r = 0.704, n = 31; r = 0.809 within 90 days, n = 17; both p < 0.0001). Fast progressors had 3.7-fold higher mean NfL than slow progressors (17.10 vs. 4.64 pg/mL). NfL showed no correlation with King's clinical stage (r = 0.00). GFAP correlated with age but not with progression rate or disease duration; S-100B showed no association with progression. Serum NfL on a commercial ECLIA platform retained its strong correlation with progression rate despite unstructured sampling, replicating SIMOA-based findings at platform-specific values. NfL tracked the rate of decline rather than the accumulated disease state; GFAP and S-100B added no prognostic or disease-specific information.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Streicher NS"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-04",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698124/"
-    },
-    {
-      "id": "pmid-42694829",
-      "pmid": "42694829",
-      "doi": "10.1049/htl2.70097",
-      "title": "ALSGate: An Efficient Gated Mixture-of-Experts Model for Reliable ALS Detection Using EMG Signals.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder affecting motor neurons, resulting in neuromuscular weakness and paralysis. Electromyography (EMG) is of vital importance for the detection of ALS. In this paper, a refined mixture of experts is proposed that automatically discriminates ALS patients from non-ALS cases using clinical EMG signals from the N2001 EMGLAB open-access dataset. The architecture consists of a 1D convolutional neural network, a temporal convolutional network and a spectrogram-based CNN to collectively learn localised temporal, long-range temporal and spectral features from EMG activity. A gating mechanism dynamically weights expert contributions and performs significantly better than equal-weight fusion. Training with focal loss and exponential moving average stabilisation addresses class imbalance and improves convergence. The proposed approach reached an AUROC of 0.9992, an F1-score of 0.9903 and a balanced accuracy of 0.9905, demonstrating strong discriminative performance and potential for real-time clinical applications.",
-      "journal": "Healthcare technology letters",
-      "authors": [
-        "Chowdhury S",
-        "Pramanik S",
-        "Bhattacharjee S",
-        "Billah M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694829/"
-    },
-    {
-      "id": "pmid-42183747",
-      "pmid": "42183747",
-      "doi": "10.1093/aje/kwag114",
-      "title": "Cumulative environmental burden and neurodegenerative disease mortality: a national ecological study in the United States.",
-      "abstract": "Neurodegenerative diseases (NDDs) represent a growing cause of mortality and disability among aging populations worldwide. However, the relationship between cumulative, multidomain environmental exposures, and NDD mortality remains poorly characterized. This study aimed to examine the association between comprehensive environmental quality and NDD mortality in the United States. We used the environmental quality index (EQI) from 2000 to 2005 to characterize cumulative environmental exposure. Associations between EQI quintiles and NDD mortality, including dementia, Parkinson's disease (PD), amyotrophic lateral sclerosis, and Huntington's disease, were examined using Bayesian interval-censored mixed-effects models. During 2006-2020, among 3.66 million NDD deaths, poorer environmental quality (Q5 vs Q1) was associated with mortality rate differences of 24.72 (95% credible intervals [CrI]: 22.43, 27.06) per 100 000 at 5-year lag, 26.74 (95% CrI: 24.34, 29.21) at 10-year lag, and 22.74 (95% CrI: 20.49, 25.13) at 15-year lag. Within each lag period, a clear dose-response pattern was consistently observed across EQI quintiles. Furthermore, associations were most pronounced for the air quality, followed by sociodemographic disadvantage. In addition, demographic and geographic heterogeneity was observed across sex, race, census regions, urbanicity, climate zone, and county economic type. These findings underscore the need for integrated, place-based environmental health policies targeting neurodegeneration prevention.",
-      "journal": "American journal of epidemiology",
-      "authors": [
-        "Ma G",
-        "Shi Y",
-        "Qiu J",
-        "Ren C",
-        "Shao K",
-        "Shu X"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42183747/"
-    },
-    {
-      "id": "pmid-42693185",
-      "pmid": "42693185",
-      "doi": "10.1038/s41582-026-01261-4",
-      "title": "Role of complement and complement-targeted therapeutics in neurological diseases.",
-      "abstract": "Complement comprises a group of plasma and membrane proteins that provide an effective bridging function for innate and adaptive humoral immunity. Understanding complement pathophysiology is fundamental given that inappropriate complement function in host defence can lead to infectious diseases and inefficient disposal of altered, damaged or senescent cells can lead to or enhance autoimmune neurological processes. Although the rising number of approved drugs targeting complement pathways remains primarily focused on diseases with complement-fixing pathogenic antibodies (such as myasthenia gravis and neuromyelitis optica spectrum disorder), a robust pipeline of emerging treatments holds promise for expanding complement-targeted therapies to a broader spectrum of autoimmune neurological diseases, such as multiple sclerosis and even neurodegenerative diseases such as Alzheimer disease or amyotrophic lateral sclerosis. This Review presents insights into complement biology as it relates to the development or initiation of autoimmune and possibly degenerative diseases affecting the central and peripheral nervous systems or muscle. The effects, merits, risks and challenges of marketed drugs or biologic agents in ongoing phase I-III clinical trials engineered to inhibit proximal or distal components of the complement cascade are also discussed. Anti-complement therapeutics are destined to change the treatment of autoimmune neurologic conditions in which the therapeutic landscape is now becoming crowded with biologic agents targeting other key autoimmunity factors.",
-      "journal": "Nature reviews. Neurology",
-      "authors": [
-        "Dalakas MC",
-        "Lünemann JD"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-03",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693185/"
+      "publishedAt": "2026-09-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42729071/"
     }
   ]
 }

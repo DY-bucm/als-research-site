@@ -1,49 +1,51 @@
 # 复核任务清单
 
-- [ ] 重新审视运动神经元病中的体感诱发电位：来自大型队列的神经生理学洞见 (pmid-42612409)
-  - https://pubmed.ncbi.nlm.nih.gov/42612409/
-- [ ] 通过转录组范围机器学习共识方法识别肌萎缩侧索硬化症的候选治疗靶点以用于药物重定位 (pmid-42600917)
-  - https://pubmed.ncbi.nlm.nih.gov/42600917/
 - [ ] [高优先级] 弥合肌萎缩侧索硬化症临床试验的可信度差距 (pmid-42685299)
   - https://pubmed.ncbi.nlm.nih.gov/42685299/
-- [ ] 草药纳米颗粒治疗神经退行性疾病：从分子机制到治疗转化 (pmid-42719214)
+- [ ] 草药纳米颗粒在神经退行性疾病治疗中的应用：从分子机制到治疗转化 (pmid-42719214)
   - https://pubmed.ncbi.nlm.nih.gov/42719214/
 - [ ] [高优先级] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
   - https://pubmed.ncbi.nlm.nih.gov/42666931/
-- [ ] 肌萎缩侧索硬化患者胃造瘘术后的不良预后因素：一项双中心回顾性队列研究 (pmid-42601592)
-  - https://pubmed.ncbi.nlm.nih.gov/42601592/
-- [ ] 肌萎缩侧索硬化中的环状RNA (pmid-42600995)
-  - https://pubmed.ncbi.nlm.nih.gov/42600995/
+- [ ] 天然单体化合物在神经退行性疾病中的作用：靶向铁死亡与神经炎症 (pmid-42259394)
+  - https://pubmed.ncbi.nlm.nih.gov/42259394/
+- [ ] [高优先级] 动脉粥样硬化性心血管疾病使ALS风险增加82%，而理想心血管健康可使其减半：一项50万人前瞻性队列研究 (pmid-42730941)
+  - https://pubmed.ncbi.nlm.nih.gov/42730941/
+- [ ] ALS治疗中处于临床开发阶段的创新疗法。第2部分：生物制品与天然产物 (pmid-42720979)
+  - https://pubmed.ncbi.nlm.nih.gov/42720979/
 - [ ] 通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响 (pmid-42727824)
   - https://pubmed.ncbi.nlm.nih.gov/42727824/
-- [ ] [高优先级] ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景 (pmid-42727710)
+- [ ] ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景 (pmid-42727710)
   - https://pubmed.ncbi.nlm.nih.gov/42727710/
 - [ ] [疑似误收] KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷 (pmid-42727616)
   - https://pubmed.ncbi.nlm.nih.gov/42727616/
+- [ ] [疑似误收] 尸检证实的正常压力脑积水（NPH）表现为皮质基底节综合征 (epmc-MED-42732224)
+  - https://doi.org/10.1002/ccr3.73479
+- [ ] [疑似误收] 重新利用抗菌药物实现神经保护：机制、临床潜力与挑战 (epmc-MED-42729937)
+  - https://doi.org/10.1002/nep3.70042
 - [ ] [疑似误收] 相对神经退行性组织易感性的分形不变性：一个在TDP-43谱系上验证的本体-系统发育场 (epmc-PPR-PPR1317458)
   - https://doi.org/10.21203/rs.3.rs-10989289/v1
-- [ ] [高优先级] 靶向逆转录体治疗神经退行性疾病 (pmid-42723096)
+- [ ] [高优先级] 靶向逆转录体的神经退行性疾病治疗 (pmid-42723096)
   - https://pubmed.ncbi.nlm.nih.gov/42723096/
 - [ ] [高优先级] 星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症血液生物标志物 (pmid-42722112)
   - https://pubmed.ncbi.nlm.nih.gov/42722112/
-- [ ] [高优先级] 症状发作后启动抗LAG-3抗体治疗可延长ALS模型小鼠的生存期 (pmid-42722039)
+- [ ] [高优先级] 症状出现后启动抗LAG-3抗体治疗可延长ALS模型小鼠的生存期 (pmid-42722039)
   - https://pubmed.ncbi.nlm.nih.gov/42722039/
-- [ ] [高优先级] 肌萎缩侧索硬化症中的无创脑刺激：经颅直流电刺激与经颅磁刺激的系统综述与荟萃分析 (pmid-42721110)
+- [ ] [高优先级] 肌萎缩侧索硬化中的无创脑刺激：经颅直流电刺激与经颅磁刺激的系统综述与荟萃分析 (pmid-42721110)
   - https://pubmed.ncbi.nlm.nih.gov/42721110/
-- [ ] ALS治疗中处于临床开发阶段的创新疗法。第2部分：生物制品与天然产物 (pmid-42720979)
-  - https://pubmed.ncbi.nlm.nih.gov/42720979/
-- [ ] [疑似误收] 与ALS相关的exitron剪接产生具有不同特性的UBQLN2异构体 (epmc-PPR-PPR1317822)
+- [ ] [高优先级] 肌萎缩侧索硬化与额颞叶痴呆中认知和行为的统一概念化 (pmid-42720086)
+  - https://pubmed.ncbi.nlm.nih.gov/42720086/
+- [ ] SOD1G93A小鼠骨骼肌中失调的microRNA-mRNA网络揭示ALS代谢损伤 (pmid-42717683)
+  - https://pubmed.ncbi.nlm.nih.gov/42717683/
+- [ ] [疑似误收] 行为变异型额颞叶变性中mGluR5密度与结构退变的空间协变 (epmc-MED-42729732)
+  - https://doi.org/10.1162/imag.a.1358
+- [ ] [疑似误收] 不止于一种特征：声音作为临床生物标志物 (epmc-MED-42725885)
+  - https://doi.org/10.2196/111088
+- [ ] [疑似误收] 待复核翻译：ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties (epmc-PPR-PPR1317822)
   - https://doi.org/10.64898/2026.09.08.750250
-- [ ] 澳大利亚农村地区的运动神经元病：一项基于人群的流行病学、临床特征及区域差异观察性研究 (epmc-PPR-PPR1317714)
+- [ ] 运动神经元病 in rural Australia: a population-based observational study of epidemiology, clinical characteristics and regional variation (epmc-PPR-PPR1317714)
   - https://doi.org/10.64898/2026.09.08.26362473
-- [ ] [疑似误收] Cfap410a与Cby协同作用并具有组织特异性需求以构建果蝇纤毛过渡区 (epmc-PPR-PPR1316861)
-  - https://doi.org/10.64898/2026.09.08.749861
-- [ ] 肌萎缩侧索硬化与额颞叶痴呆中认知与行为的概念化 (epmc-MED-42720086)
-  - https://doi.org/10.1093/brain/awag300
-- [ ] 待复核翻译：Dysregulated microRNA-mRNA networks in SOD1G93A mouse skeletal muscle reveal metabolic impairments in ALS. (epmc-MED-42717683)
-  - https://doi.org/10.1242/dmm.052963
-- [ ] [疑似误收] The role of overdose folic acid in promoting 神经炎症, oxidative stress, and apoptosis in SOD1-G93A mice. (epmc-MED-42701881)
-  - https://doi.org/10.1080/10715762.2026.2729677
+- [ ] [疑似误收] 待复核翻译：Virobiome-mediated regulation of microbiota-gut-brain axis signaling and neuroimmune homeostasis. (epmc-MED-42723086)
+  - https://doi.org/10.1186/s12964-026-03067-9
 - [ ] [高优先级] Efficacy and Safety Study of MCI-186 for Treatment of 肌萎缩侧索硬化症 (ALS) Who Met Severity Classification III (trial-NCT00415519)
   - https://clinicaltrials.gov/study/NCT00415519
 - [ ] [高优先级] Personalized 反义寡核苷酸 Therapy for A Single Patient With CHCHD10 ALS (nL18576) (trial-NCT07423494)
