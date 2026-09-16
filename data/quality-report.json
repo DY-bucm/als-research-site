@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-15T00:37:12.764Z",
+  "updatedAt": "2026-09-16T00:17:11.134Z",
   "summary": {
     "totalItems": 38,
-    "issueCount": 35
+    "issueCount": 41
   },
   "sources": [
     {
@@ -23,192 +23,226 @@
   ],
   "lowRelevance": [
     {
-      "id": "pmid-42727616",
-      "title": "Motor coordination and behavioural deficits in a mouse model of KMT2B-related dystonia.",
-      "titleZh": "KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷",
-      "category": "遗传",
+      "id": "epmc-PMC-PMC13574146",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice",
+      "titleZh": "UA-30通过RalA介导的线粒体自噬改善ALS小鼠的运动缺陷",
+      "category": "机制",
       "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727616/"
-    },
-    {
-      "id": "epmc-MED-42732224",
-      "title": "Autopsy Confirmed Normal Pressure Hydrocephalus (NPH) Presenting With Corticobasal Syndrome.",
-      "titleZh": "尸检证实的正常压力脑积水（NPH）表现为皮质基底节综合征",
-      "category": "机制",
-      "evidenceLevel": "病例报告（单例，尸检确诊）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1002/ccr3.73479"
-    },
-    {
-      "id": "epmc-MED-42729937",
-      "title": "Repurposing antimicrobial agents for neuroprotection: Mechanisms, clinical potential, and challenges.",
-      "titleZh": "重新定位抗菌药物用于神经保护：机制、临床潜力与挑战",
-      "category": "机制",
-      "evidenceLevel": "机制研究（综述）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/nep3.70042"
-    },
-    {
-      "id": "epmc-PPR-PPR1317458",
-      "title": "Fractal invariance of relative neurodegenerative tissue vulnerability: An onto-phylogenetic field validated on the TDP-43 spectrum",
-      "titleZh": "相对神经退行性组织易感性的分形不变性：一个在TDP-43谱系上验证的本体-系统发育场",
-      "category": "遗传",
-      "evidenceLevel": "预印本，摘要缺失，证据等级待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10989289/v1"
+      "url": "https://europepmc.org/article/PMC/PMC13574146"
     },
     {
-      "id": "epmc-MED-42729732",
-      "title": "Spatial covariance of mGluR5 density and structural degeneration in behavioral variant frontotemporal degeneration.",
-      "titleZh": "行为变异型额颞叶变性中mGluR5密度与结构退变的空间协变",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
+      "id": "epmc-PMC-PMC13573258",
+      "title": "Discovery of Novel Bicyclic Pyrazole Amides as Potent Neuronal KV7 Potassium Channel Openers with Strong Preclinical Antiseizure Activity",
+      "titleZh": "新型双环吡唑酰胺类化合物的发现：强效神经元KV7钾通道开放剂，具有显著的临床前抗癫痫活性",
+      "category": "机制",
+      "evidenceLevel": "机制研究（临床前药物化学与药理学研究）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.1162/imag.a.1358"
+      "url": "https://europepmc.org/article/PMC/PMC13573258"
     },
     {
-      "id": "epmc-MED-42725885",
-      "title": "More Than a Signature: Voice as a Clinical Biomarker.",
-      "titleZh": "不止于一种特征：声音作为临床生物标志物",
+      "id": "epmc-PMC-PMC13572653",
+      "title": "A validated workflow for paired total and small RNA sequencing from low-input submandibular gland biopsy specimens in de novo Parkinson’s disease patients",
+      "titleZh": "一种用于新发帕金森病患者低起始量下颌下腺活检标本配对总RNA和小RNA测序的验证工作流程",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13572653"
+    },
+    {
+      "id": "epmc-MED-42741938",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice.",
+      "titleZh": "UA-30 通过 RalA 介导的线粒体自噬改善 ALS 小鼠的运动缺陷",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1172/jci202787"
+    },
+    {
+      "id": "epmc-MED-42732528",
+      "title": "Longitudinal plasma neurofilament light chain and patient-reported outcomes as complementary markers of vincristine-associated peripheral neuropathy in adults with lymphoma: a cohort study.",
+      "titleZh": "Longitudinal plasma 神经丝轻链 and patient-reported outcomes as complementary markers of vincristine-associated peripheral neuropathy in adults with lymphoma: a cohort study.",
       "category": "生物标志物",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.2196/111088"
-    },
-    {
-      "id": "epmc-PPR-PPR1317822",
-      "title": "ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties",
-      "titleZh": "待复核翻译：ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.08.750250"
-    },
-    {
-      "id": "epmc-MED-42723096",
-      "title": "Retromer-targeted therapy for neurodegenerative diseases.",
-      "titleZh": "待复核翻译：Retromer-targeted therapy for neurodegenerative diseases.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1186/s13024-026-00971-z"
+      "url": "https://doi.org/10.1007/s00415-026-14096-2"
     }
   ],
-  "missingIdentifiers": [],
+  "missingIdentifiers": [
+    {
+      "id": "epmc-PMC-PMC13572260",
+      "title": "Prevalence of and associated factors for sleep disorders in patients with amyotrophic lateral sclerosis: a systematic review and meta-analysis",
+      "titleZh": "肌萎缩侧索硬化患者睡眠障碍的患病率及相关因素：系统综述与荟萃分析",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究（系统综述与荟萃分析）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13572260"
+    },
+    {
+      "id": "epmc-PMC-PMC13572641",
+      "title": "The spectrum of C9orf72 repeat lengths in Portuguese frontotemporal dementia and amyotrophic lateral sclerosis patients: from pathogenic expansions to intermediate alleles",
+      "titleZh": "葡萄牙额颞叶痴呆和肌萎缩侧索硬化患者中C9orf72重复长度的谱系：从致病性扩增到中间等位基因",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13572641"
+    },
+    {
+      "id": "epmc-PMC-PMC13574146",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice",
+      "titleZh": "UA-30通过RalA介导的线粒体自噬改善ALS小鼠的运动缺陷",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13574146"
+    },
+    {
+      "id": "epmc-PMC-PMC13573258",
+      "title": "Discovery of Novel Bicyclic Pyrazole Amides as Potent Neuronal KV7 Potassium Channel Openers with Strong Preclinical Antiseizure Activity",
+      "titleZh": "新型双环吡唑酰胺类化合物的发现：强效神经元KV7钾通道开放剂，具有显著的临床前抗癫痫活性",
+      "category": "机制",
+      "evidenceLevel": "机制研究（临床前药物化学与药理学研究）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13573258"
+    },
+    {
+      "id": "epmc-PMC-PMC13572653",
+      "title": "A validated workflow for paired total and small RNA sequencing from low-input submandibular gland biopsy specimens in de novo Parkinson’s disease patients",
+      "titleZh": "一种用于新发帕金森病患者低起始量下颌下腺活检标本配对总RNA和小RNA测序的验证工作流程",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13572653"
+    }
+  ],
   "missingAbstract": [
     {
-      "id": "epmc-MED-42732224",
-      "title": "Autopsy Confirmed Normal Pressure Hydrocephalus (NPH) Presenting With Corticobasal Syndrome.",
-      "titleZh": "尸检证实的正常压力脑积水（NPH）表现为皮质基底节综合征",
+      "id": "epmc-PMC-PMC13572260",
+      "title": "Prevalence of and associated factors for sleep disorders in patients with amyotrophic lateral sclerosis: a systematic review and meta-analysis",
+      "titleZh": "肌萎缩侧索硬化患者睡眠障碍的患病率及相关因素：系统综述与荟萃分析",
       "category": "机制",
-      "evidenceLevel": "病例报告（单例，尸检确诊）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1002/ccr3.73479"
-    },
-    {
-      "id": "epmc-MED-42729937",
-      "title": "Repurposing antimicrobial agents for neuroprotection: Mechanisms, clinical potential, and challenges.",
-      "titleZh": "重新定位抗菌药物用于神经保护：机制、临床潜力与挑战",
-      "category": "机制",
-      "evidenceLevel": "机制研究（综述）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
+      "evidenceLevel": "观察性临床研究（系统综述与荟萃分析）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
       "priority": "medium",
-      "url": "https://doi.org/10.1002/nep3.70042"
+      "url": "https://europepmc.org/article/PMC/PMC13572260"
     },
     {
-      "id": "epmc-PPR-PPR1317458",
-      "title": "Fractal invariance of relative neurodegenerative tissue vulnerability: An onto-phylogenetic field validated on the TDP-43 spectrum",
-      "titleZh": "相对神经退行性组织易感性的分形不变性：一个在TDP-43谱系上验证的本体-系统发育场",
+      "id": "epmc-PMC-PMC13572641",
+      "title": "The spectrum of C9orf72 repeat lengths in Portuguese frontotemporal dementia and amyotrophic lateral sclerosis patients: from pathogenic expansions to intermediate alleles",
+      "titleZh": "葡萄牙额颞叶痴呆和肌萎缩侧索硬化患者中C9orf72重复长度的谱系：从致病性扩增到中间等位基因",
       "category": "遗传",
-      "evidenceLevel": "预印本，摘要缺失，证据等级待人工判定",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13572641"
+    },
+    {
+      "id": "epmc-PMC-PMC13574146",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice",
+      "titleZh": "UA-30通过RalA介导的线粒体自噬改善ALS小鼠的运动缺陷",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-10989289/v1"
+      "url": "https://europepmc.org/article/PMC/PMC13574146"
     },
     {
-      "id": "epmc-MED-42729732",
-      "title": "Spatial covariance of mGluR5 density and structural degeneration in behavioral variant frontotemporal degeneration.",
-      "titleZh": "行为变异型额颞叶变性中mGluR5密度与结构退变的空间协变",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
+      "id": "epmc-PMC-PMC13573258",
+      "title": "Discovery of Novel Bicyclic Pyrazole Amides as Potent Neuronal KV7 Potassium Channel Openers with Strong Preclinical Antiseizure Activity",
+      "titleZh": "新型双环吡唑酰胺类化合物的发现：强效神经元KV7钾通道开放剂，具有显著的临床前抗癫痫活性",
+      "category": "机制",
+      "evidenceLevel": "机制研究（临床前药物化学与药理学研究）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.1162/imag.a.1358"
+      "url": "https://europepmc.org/article/PMC/PMC13573258"
     },
     {
-      "id": "epmc-MED-42725885",
-      "title": "More Than a Signature: Voice as a Clinical Biomarker.",
-      "titleZh": "不止于一种特征：声音作为临床生物标志物",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
+      "id": "epmc-PMC-PMC13572653",
+      "title": "A validated workflow for paired total and small RNA sequencing from low-input submandibular gland biopsy specimens in de novo Parkinson’s disease patients",
+      "titleZh": "一种用于新发帕金森病患者低起始量下颌下腺活检标本配对总RNA和小RNA测序的验证工作流程",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.2196/111088"
+      "url": "https://europepmc.org/article/PMC/PMC13572653"
     },
     {
-      "id": "epmc-PPR-PPR1317822",
-      "title": "ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties",
-      "titleZh": "待复核翻译：ALS-associated exitron splicing produces UBQLN2 isoforms with distinct properties",
-      "category": "临床试验",
-      "evidenceLevel": "待人工判定",
+      "id": "epmc-MED-42741938",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice.",
+      "titleZh": "UA-30 通过 RalA 介导的线粒体自噬改善 ALS 小鼠的运动缺陷",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.08.750250"
+      "url": "https://doi.org/10.1172/jci202787"
     },
     {
-      "id": "epmc-PPR-PPR1317714",
-      "title": "Motor neuron disease in rural Australia: a population-based observational study of epidemiology, clinical characteristics and regional variation",
-      "titleZh": "运动神经元病 in rural Australia: a population-based observational study of epidemiology, clinical characteristics and regional variation",
+      "id": "epmc-PPR-PPR1319131",
+      "title": "ARPP21 defines a TDP-43-independent aggregation pathway in amyotrophic lateral sclerosis",
+      "titleZh": "ARPP21 defines a TDP-43-independent aggregation pathway in 肌萎缩侧索硬化症",
       "category": "机制",
       "evidenceLevel": "机制研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.09.08.26362473"
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.08.750091"
     },
     {
-      "id": "epmc-MED-42723096",
-      "title": "Retromer-targeted therapy for neurodegenerative diseases.",
-      "titleZh": "待复核翻译：Retromer-targeted therapy for neurodegenerative diseases.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
+      "id": "epmc-MED-42732528",
+      "title": "Longitudinal plasma neurofilament light chain and patient-reported outcomes as complementary markers of vincristine-associated peripheral neuropathy in adults with lymphoma: a cohort study.",
+      "titleZh": "Longitudinal plasma 神经丝轻链 and patient-reported outcomes as complementary markers of vincristine-associated peripheral neuropathy in adults with lymphoma: a cohort study.",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.1186/s13024-026-00971-z"
+      "url": "https://doi.org/10.1007/s00415-026-14096-2"
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-42740795",
+      "title": "Base editing rescues a hereditary motor neuron disease in mouse and patient-derived iPSC organoid models.",
+      "titleZh": "碱基编辑在小鼠和患者来源的iPSC类器官模型中挽救遗传性运动神经元病",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42740795/"
+    },
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
       "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "专家观点/评论文章（非原始临床试验数据）",
+      "evidenceLevel": "专家评论/观点文章",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
@@ -219,214 +253,247 @@
       "title": "ATXN2 Spectrum Disorders: Genetic Complexity Beyond Dominant Inheritance.",
       "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "category": "临床试验",
-      "evidenceLevel": "专家评论/综述",
+      "evidenceLevel": "综述/评论",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
     },
     {
+      "id": "pmid-42742812",
+      "title": "Peripheral TDP-43 pathology in amyotrophic lateral sclerosis: toward a systemic proteinopathy.",
+      "titleZh": "肌萎缩侧索硬化中的外周TDP-43病理：迈向系统性蛋白病",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究（综述性证据，基于小型且方法学异质的队列）",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742812/"
+    },
+    {
+      "id": "pmid-42741938",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice.",
+      "titleZh": "UA-30通过RalA介导的线粒体自噬改善ALS小鼠的运动缺陷",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42741938/"
+    },
+    {
+      "id": "pmid-42736600",
+      "title": "The diagnostic biomarker problem in amyotrophic lateral sclerosis.",
+      "titleZh": "肌萎缩侧索硬化中的诊断生物标志物问题",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736600/"
+    },
+    {
+      "id": "pmid-42735682",
+      "title": "N-of-1 investigational study of a novel antisense oligonucleotide drug in CHCHD10-related ALS shows early signs of efficacy.",
+      "titleZh": "一种新型反义寡核苷酸药物治疗CHCHD10相关ALS的N-of-1探索性研究显示早期疗效迹象",
+      "category": "临床试验",
+      "evidenceLevel": "N-of-1开放标签探索性研究，描述性分析，无对照组，证据等级低，需人工判定",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735682/"
+    },
+    {
       "id": "pmid-42734068",
       "title": "Hyperactive KIF5A in Neurodegeneration.",
       "titleZh": "神经退行性疾病中过度活跃的KIF5A",
       "category": "遗传",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "专家观点/综述（基于遗传学、动物模型及细胞研究的观察性证据）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42734068/"
     },
     {
-      "id": "pmid-42730941",
-      "title": "Atherosclerotic Cardiovascular Diseases Increase ALS Risk by 82% While Optimal Cardiovascular Health Halves It: A 0.5-Million Prospective Cohort Study.",
-      "titleZh": "动脉粥样硬化性心血管疾病使ALS风险增加82%，而最佳心血管健康可使其减半：一项50万人前瞻性队列研究",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730941/"
-    },
-    {
-      "id": "trial-NCT07204977",
-      "title": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion Amyotrophic Lateral Sclerosis (ACALS)",
-      "titleZh": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion 肌萎缩侧索硬化症 (ACALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07204977"
-    },
-    {
-      "id": "trial-NCT07743268",
-      "title": "Personalized Antisense Oligonucleotide Therapy for Participants With TARDBP ALS",
-      "titleZh": "Personalized 反义寡核苷酸 Therapy for Participants With TARDBP ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07743268"
-    },
-    {
-      "id": "trial-NCT02795052",
-      "title": "Neurologic Stem Cell Treatment Study",
-      "titleZh": "Neurologic 干细胞 Treatment Study",
+      "id": "trial-NCT07698496",
+      "title": "Evaluation of the Feasibility and Efficacy of a Chronic Brain-computer Interface for Speech Rehabilitation in Patients With Locked-in-syndrome (LIS)",
+      "titleZh": "Evaluation of the Feasibility and Efficacy of a Chronic 脑机接口 for Speech Rehabilitation in Patients With Locked-in-syndrome (LIS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02795052"
+      "url": "https://clinicaltrials.gov/study/NCT07698496"
     },
     {
-      "id": "trial-NCT06008249",
-      "title": "Platform Trial to Assess the Efficacy of Multiple Drugs in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Platform Trial to Assess the Efficacy of Multiple Drugs in 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT03174938",
+      "title": "The Swedish BioFINDER 2 Study",
+      "titleZh": "待复核翻译：The Swedish BioFINDER 2 Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06008249"
+      "url": "https://clinicaltrials.gov/study/NCT03174938"
     },
     {
-      "id": "trial-NCT07491484",
-      "title": "Impact of Physical Functioning on Patient-Reported Outcomes in ALS Patients at TidalHealth",
-      "titleZh": "待复核翻译：Impact of Physical Functioning on Patient-Reported Outcomes in ALS Patients at TidalHealth",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07491484"
-    },
-    {
-      "id": "trial-NCT06215755",
-      "title": "A Study of VRG50635 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A Study of VRG50635 in Participants With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT04816227",
+      "title": "Expression Profile Study of Macrophages From Patients Affected by ALS or Other Related Motor Impairments",
+      "titleZh": "待复核翻译：Expression Profile Study of Macrophages From Patients Affected by ALS or Other Related Motor Impairments",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06215755"
+      "url": "https://clinicaltrials.gov/study/NCT04816227"
     },
     {
-      "id": "trial-NCT06165172",
-      "title": "Early Feasibility Study of the MyoRegulator® for Treatment of ALS",
-      "titleZh": "待复核翻译：Early Feasibility Study of the MyoRegulator® for Treatment of ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06165172"
-    },
-    {
-      "id": "trial-NCT03579017",
-      "title": "Edinburgh Cognitive and Behavioural Amyotrophic Lateral Sclerosis Screen in Norway: A Validation Study",
-      "titleZh": "Edinburgh Cognitive and Behavioural 肌萎缩侧索硬化症 Screen in Norway: A Validation Study",
+      "id": "trial-NCT07221240",
+      "title": "Study to Evaluate Safety, Tolerability, and Pharmacokinetics of Amisodin in Healthy Adult Subjects With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Study to Evaluate Safety, Tolerability, and Pharmacokinetics of Amisodin in Healthy Adult Subjects With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03579017"
+      "url": "https://clinicaltrials.gov/study/NCT07221240"
     },
     {
-      "id": "trial-NCT04332198",
-      "title": "Neurobiological and Immunological Mechanisms of Dyspnea in ALS (BIOPNEA)",
-      "titleZh": "待复核翻译：Neurobiological and Immunological Mechanisms of Dyspnea in ALS (BIOPNEA)",
+      "id": "trial-NCT01874808",
+      "title": "From Movement Preparation to Gait Execution in ALS",
+      "titleZh": "待复核翻译：From Movement Preparation to Gait Execution in ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04332198"
+      "url": "https://clinicaltrials.gov/study/NCT01874808"
     },
     {
-      "id": "trial-NCT04090684",
-      "title": "Ciprofloxacin/Celecoxib Combination in Patients With ALS",
-      "titleZh": "待复核翻译：Ciprofloxacin/Celecoxib Combination in Patients With ALS",
+      "id": "trial-NCT04233099",
+      "title": "Salivary Biomarker Discovery by Raman Spectroscopy in ALS (SalivALS)",
+      "titleZh": "Salivary 生物标志物 Discovery by Raman Spectroscopy in ALS (SalivALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04090684"
+      "url": "https://clinicaltrials.gov/study/NCT04233099"
     },
     {
-      "id": "trial-NCT04952155",
-      "title": "Low Dose IL-2 in the Treatment of Immune-associated ALS Syndrome",
-      "titleZh": "待复核翻译：Low Dose IL-2 in the Treatment of Immune-associated ALS Syndrome",
+      "id": "trial-NCT03520517",
+      "title": "Open-label Study to Evaluate Safety, Tolerability and PK of BHV-0223 in ALS",
+      "titleZh": "待复核翻译：Open-label Study to Evaluate Safety, Tolerability and PK of BHV-0223 in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03520517"
+    },
+    {
+      "id": "trial-NCT02238626",
+      "title": "Ibudilast (MN-166) in Subjects With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Ibudilast (MN-166) in Subjects With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04952155"
+      "url": "https://clinicaltrials.gov/study/NCT02238626"
     },
     {
-      "id": "trial-NCT04140136",
-      "title": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT02450552",
+      "title": "Clinical Trial of Ezogabine (Retigabine) in ALS Subjects",
+      "titleZh": "临床试验 of Ezogabine (Retigabine) in ALS Subjects",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04140136"
+      "url": "https://clinicaltrials.gov/study/NCT02450552"
     },
     {
-      "id": "trial-NCT02493491",
-      "title": "Neurogenic Dysphonia/Dysphagia Registry",
-      "titleZh": "待复核翻译：Neurogenic Dysphonia/Dysphagia Registry",
+      "id": "trial-NCT02242071",
+      "title": "Cell Therapy for Motor Neuron Disease/Amyotrophic Lateral Sclerosis",
+      "titleZh": "Cell Therapy for 运动神经元病/肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02493491"
+      "url": "https://clinicaltrials.gov/study/NCT02242071"
     },
     {
-      "id": "trial-NCT01759784",
-      "title": "Intraventricular Transplantation of Mesenchymal Stem Cell in Patients With ALS",
-      "titleZh": "Intraventricular Transplantation of Mesenchymal 干细胞 in Patients With ALS",
+      "id": "trial-NCT00573443",
+      "title": "Safety and Efficacy of AVP-923 in PBA Patients With ALS or MS",
+      "titleZh": "待复核翻译：Safety and Efficacy of AVP-923 in PBA Patients With ALS or MS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00573443"
+    },
+    {
+      "id": "trial-NCT02881489",
+      "title": "Autologous Bone Marrow Mesenchymal Stem Cells in the Treatment of Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Autologous Bone Marrow Mesenchymal 干细胞s in the Treatment of Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02881489"
+    },
+    {
+      "id": "trial-NCT00372879",
+      "title": "Clinical Trial of Vitamin E to Treat Muscular Cramps in Patients With ALS",
+      "titleZh": "临床试验 of Vitamin E to Treat Muscular Cramps in Patients With ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01759784"
+      "url": "https://clinicaltrials.gov/study/NCT00372879"
     },
     {
-      "id": "trial-NCT00386464",
-      "title": "Noninvasive Ventilation in ALS Patients With Mild Respiratory Involvement",
-      "titleZh": "待复核翻译：Noninvasive Ventilation in ALS Patients With Mild Respiratory Involvement",
+      "id": "trial-NCT00718003",
+      "title": "Noninvasive Examination of the Work of Breathing in Patients With Amyotrophic Lateral Sclerosis (ALS).",
+      "titleZh": "Noninvasive Examination of the Work of Breathing in Patients With 肌萎缩侧索硬化症 (ALS).",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
+      "relevanceScore": 15,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00386464"
+      "url": "https://clinicaltrials.gov/study/NCT00718003"
+    },
+    {
+      "id": "trial-NCT00302198",
+      "title": "Amyotrophic Lateral Sclerosis Web Based Patient Care Database: ALSConnection.Org",
+      "titleZh": "肌萎缩侧索硬化症 Web Based Patient Care Database: ALSConnection.Org",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00302198"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 8,
-    "缺标识符": 0,
+    "疑似误收": 5,
+    "缺标识符": 5,
     "缺摘要": 8,
-    "高优先级待复核": 19,
+    "高优先级待复核": 23,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 38
   },
   "relevanceCounts": {
-    "high": 24,
-    "medium": 6,
-    "low": 8
+    "high": 29,
+    "medium": 4,
+    "low": 5
   }
 }

@@ -1,14 +1,118 @@
 {
-  "updatedAt": "2026-09-15T00:35:58.247Z",
+  "updatedAt": "2026-09-16T00:15:43.888Z",
   "period": {
     "days": 10,
-    "from": "2026-09-06",
-    "to": "2026-09-15"
+    "from": "2026-09-07",
+    "to": "2026-09-16"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 33,
+  "count": 38,
   "articles": [
+    {
+      "id": "pmid-42736322",
+      "pmid": "42736322",
+      "doi": "10.1038/s10038-026-01513-7",
+      "title": "Characterising the motif composition and allele length distribution of ZFHX3 GGC repeat expansions in amyotrophic lateral sclerosis.",
+      "abstract": "A pathogenic GGC repeat expansion in zinc finger homeobox 3 (ZFHX3), encoding a pure polyglycine (polyG) tract, causes spinocerebellar ataxia type 4 (SCA4). Intermediate expansions of other SCA loci have been implicated in amyotrophic lateral sclerosis (ALS), while repeat motif composition is recognised to influence pathogenicity in neurodegenerative diseases. Given the genetic pleiotropy between ALS and SCA, we evaluated whether ZFHX3 GGC expansions are associated with ALS and characterised repeat motif composition. ZFHX3 GGC repeat sizes were genotyped using ExpansionHunter in short-read whole-genome sequencing data from ALS cases and healthy controls of European ancestry. Repeat sizes were visually inspected using REViewer, and motif configurations were manually derived from a subset. Receiver operating characteristic analysis and Youden's J statistic identified a candidate repeat size threshold. Logistic regression tested associations of repeat length and motif composition with ALS, while regression models assessed clinical phenotypes. Across 5785 ALS cases and 7982 controls, no association was observed between ZFHX3 expansions and ALS risk. Longer alleles showed a nominal association with later disease onset, however this did not remain significant after Bonferroni correction. Among 802 ALS cases and 800 controls, 50 distinct motif compositions were identified, including 11 encoding pure polyG tracts characteristic of pathogenic SCA4 expansions; none were associated with ALS. Although no association with ALS was observed, this study established the dynamic nature of ZFHX3 repeat motif composition and configuration. Variation within and between repeat sizes, including pure polyG repeats, supports consideration of motif composition alongside allele length when evaluating neurodegenerative disease risk.",
+      "journal": "Journal of human genetics",
+      "authors": [
+        "Zussa ZN",
+        "Smith AN",
+        "van Vugt JJFA",
+        "O'Shaughnessy DS",
+        "Grima N",
+        "Chan Moi Fat S",
+        "Blair IP",
+        "Rowe DB",
+        "Pamphlett R",
+        "Nicholson GA",
+        "Kiernan MC",
+        "van Rheenen W",
+        "Veldink J",
+        "Project MinE ALS sequencing consortium",
+        "Williams KL",
+        "Henden L"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736322/"
+    },
+    {
+      "id": "pmid-42742812",
+      "pmid": "42742812",
+      "doi": "10.1007/s00401-026-03086-3",
+      "title": "Peripheral TDP-43 pathology in amyotrophic lateral sclerosis: toward a systemic proteinopathy.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive degeneration of upper and lower motor neurons. Cytoplasmic accumulation of phosphorylated TAR DNA-binding protein 43 (pTDP-43) is the pathological hallmark of most ALS cases. While ALS has traditionally been viewed as a disease confined to the brain, spinal cord and motor nerves, recent studies have reported pTDP-43 pathology in multiple other tissues (skeletal and cardiac muscle, skin, minor salivary glands, gastrointestinal tract and lymph nodes), referred to as peripheral pathology. The detection of pTDP-43 beyond the nervous system suggests that ALS-associated TDP-43 proteinopathy may be more widespread than previously recognized and raises fundamental questions regarding the spatial and temporal landscape of ALS pathology. Peripheral pTDP-43 accumulation may reflect a systemic biological susceptibility affecting multiple tissues, propagation of pathological TDP-43 species between anatomical compartments, or a combination of both mechanisms. While its biological significance is yet to be determined, the presence of pTDP-43 in peripheral tissues broadens the current conceptual framework of ALS. It may also provide new opportunities for pathology-based biomarkers, therapeutic monitoring, and mechanistic studies aimed at understanding disease initiation and progression. However, current evidence is derived from small and methodologically heterogeneous cohorts, and peripheral pTDP-43 pathology is not restricted to ALS, emphasizing the need for larger standardized studies.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "Codron P",
+        "Miranda M",
+        "Garnier M",
+        "He S",
+        "Gouju J",
+        "Cassereau J",
+        "Leblanc P",
+        "Letournel F"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742812/"
+    },
+    {
+      "id": "pmid-42736600",
+      "pmid": "42736600",
+      "doi": "10.1093/brain/awag313",
+      "title": "The diagnostic biomarker problem in amyotrophic lateral sclerosis.",
+      "abstract": "In the effort to reduce the long diagnostic delay in amyotrophic lateral sclerosis, an often overlooked problem derives from confusion around the concept of diagnostic biomarkers and the type of data required to develop such tools. A useful diagnostic biomarker is one that can correctly differentiate individuals with, from those without, the disease of interest - and importantly, at a point in time when the diagnosis is otherwise uncertain. This requires a test with a high positive predictive value (the proportion of positive test results that are true positives), a high negative predictive value (the proportion of negative test results that are true negatives), or ideally both. Critically, positive and negative predictive values depend on the context of use for the diagnostic, which determines the prevalence of disease in the population in which the diagnostic test will be used. Almost all diagnostic biomarker studies in amyotrophic lateral sclerosis get this wrong - focusing on data and samples from patients for whom there is no diagnostic uncertainty. This Update distinguishes disease state biomarkers from diagnostic biomarkers; highlights the data required to clinically validate a diagnostic biomarker; underscores the critical importance of understanding the clinical context in which the diagnostic biomarker will be used; and outlines potential strategies for developing diagnostic biomarkers that might be clinically useful.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Benatar M",
+        "Wuu J",
+        "Turner MR",
+        "Macklin EA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736600/"
+    },
+    {
+      "id": "pmid-42741938",
+      "pmid": "42741938",
+      "doi": "10.1172/JCI202787",
+      "title": "UA-30 ameliorates motor deficits through RalA-mediated mitophagy in ALS mice.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive motor neuron loss, skeletal muscle atrophy, paralysis, and eventually death. Mitochondrial dysfunction plays a pivotal role in ALS pathogenesis, although the precise pathogenic mechanisms remain elusive, and effective therapeutic strategies are extremely limited. In this study, we developed a small-molecule inhibitor, UA-30, which directly targets RalA, and explored its potential for the treatment of ALS. We found that when administered via oral gavage for 6 weeks following the onset of motor deficit, UA-30 extended lifespan and improved motor function of SOD1G93A mice, a model of ALS. UA-30 ameliorated motor neuron loss, neuroinflammation, fibrosis, and mitochondrial dysfunction, as evidenced by energy recovery, decreased oxidative stress, and enhanced mitophagy. Mechanistically, UA-30 inhibited RalA activity and thereby modulated ERK/FOXO3a signaling, which inhibited FOXO3a degradation via the ubiquitin-proteasome pathway; enhanced FOXO3a stability; and upregulated the expression of mitophagy-related genes in this ALS mouse model. The beneficial effects of UA-30 in ALS were abolished by overexpression of the constitutively active form of RalA (RalAG23V) or Mdivi-1 treatment. These findings support RalA inhibition as a therapeutic strategy for enhancing mitophagy and mitigating ALS-like pathology and support UA-30 as an orally active candidate for further preclinical development.",
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Zhang B",
+        "He Y",
+        "Su T",
+        "Li X",
+        "Zhang X",
+        "Liu R",
+        "Han X",
+        "Zhang R",
+        "Yang C",
+        "Liu X",
+        "Hou Q",
+        "Zhang Z",
+        "Xie Y",
+        "Liu G",
+        "Yang X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42741938/"
+    },
     {
       "id": "pmid-42734657",
       "pmid": "42734657",
@@ -48,6 +152,39 @@
       ],
       "publishedAt": "2026-09-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42734068/"
+    },
+    {
+      "id": "pmid-42735682",
+      "pmid": "42735682",
+      "doi": "10.1016/j.medj.2026.101295",
+      "title": "N-of-1 investigational study of a novel antisense oligonucleotide drug in CHCHD10-related ALS shows early signs of efficacy.",
+      "abstract": "Pathogenic CHCHD10 variants cause a rare, dominantly inherited form of amyotrophic lateral sclerosis (ALS). Non-allele-selective CHCHD10 knockdown may mitigate a toxic gain-of-function mechanism. We evaluated nL-CHCHD-001 in one participant with the p.Arg15Leu variant. In this open-label N-of-1 study, 320-gapmer antisense oligonucleotides (ASOs) were screened, and a lead candidate was selected according to specificity and non-clinical safety criteria. Six intrathecal doses were administered over 12 months (three 50-mg doses followed by three 75-mg doses). Prespecified primary outcomes were 12-month changes in functional, cognitive, quality-of-life, respiratory, neurofilament light (NfL), and survival measures; secondary outcomes assessed were safety and tolerability. Analyses were descriptive. No serious adverse events occurred. Post-dose headache and fatigue were mild to moderate, and cerebrospinal fluid safety results were unremarkable. Plasma NfL decreased by approximately 50% from a mildly elevated pretreatment baseline and entered the laboratory reference range. The Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised score increased from 33 to 36, vital capacity increased from 48% to 55% (as predicted), cognitive and quality-of-life scores remained stable, and the participant was alive at 12 months. Individualized CHCHD10-directed treatment was feasible and well tolerated and was temporally associated with biomarker and clinical stability or improvement. This N-of-1 study demonstrates the feasibility of developing individualized ASO therapy for CHCHD10-related ALS and provides preliminary evidence of biomarker and clinical benefit. These findings support further evaluation of nL-CHCHD-001 and highlight NfL as a practical treatment-response biomarker for personalized therapeutics in ALS. gov: NCT06392126. This study was supported by the n-Lorem Foundation, National Institutes of Health grants U01NS134684 and KL2 TR002379, and the Kevin Merszei Career Development Award.",
+      "journal": "Med (New York, N.Y.)",
+      "authors": [
+        "Cousin MA",
+        "Dagli AI",
+        "Mignon L",
+        "Shah JS",
+        "Prudencio M",
+        "Gendron TF",
+        "Jain A",
+        "Udine E",
+        "van Blitterswijk M",
+        "Middlebrooks EH",
+        "Donahue MH",
+        "Dagher JE",
+        "Watzlawik JO",
+        "Springer W",
+        "Parekh T",
+        "McEachin ZT",
+        "Petrucelli L",
+        "Oskarsson B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735682/"
     },
     {
       "id": "pmid-42734825",
@@ -167,7 +304,7 @@
       "id": "pmid-42727710",
       "pmid": "42727710",
       "doi": "10.1016/j.brainresbull.2026.112111",
-      "title": "Selective Neuroprotection in the ALS-FTD Spectrum: Mechanisms of Neuronal Resilience and Translational Perspectives.",
+      "title": "Selective neuroprotection in the ALS-FTD spectrum: Mechanisms of neuronal resilience and translational perspectives.",
       "abstract": "Amyotrophic lateral sclerosis (ALS) is increasingly recognized as part of a broader clinico-pathological continuum encompassing frontotemporal dementia (FTD). Despite progressive degeneration across motor and cognitive neural systems associated with TDP-43 pathology, specific neuronal populations-including the oculomotor and abducens nuclei, Onuf's nucleus, and sensory dorsal column pathways-remain relatively preserved. Selectively preserved neuronal structures in ALS have largely been described as isolated neuropathological observations without sufficient mechanistic integration. This review aims to synthesize candidate intrinsic and microenvironmental mechanisms that may contribute to selective neuronal preservation and propose a translational framework for understanding neuronal resilience in the ALS-FTD spectrum. We conducted a comprehensive critical review of the literature addressing selective neuronal vulnerability and resistance in ALS-FTD, integrating comparative observations from related neurodegenerative and neuromuscular disorders. Particular emphasis was placed on candidate mechanisms associated with neuronal resilience, including Nrf2/ARE signaling, calcium homeostasis, glutamatergic receptor composition, glial-mediated neurotrophic support, and emerging transcriptomic evidence relevant to selective neuronal vulnerability. Selective preservation of specific neuronal populations represents a distinctive biological characteristic of the ALS-FTD spectrum. Current evidence suggests that enhanced antioxidant defense, tightly regulated intracellular calcium dynamics, protective microenvironmental interactions, and other stress-response pathways may collectively contribute to resistance against TDP-43 proteinopathy. These findings may provide a mechanistic framework for understanding selective neuronal resilience and suggest potential avenues for future neuroprotective therapeutic development. Integrating mechanisms of selective neuroprotection with translational neurobiological perspectives may provide a conceptual framework for ALS research. Leveraging preserved neural systems may not only inform biologically grounded supportive care strategies but also help identify mechanistically relevant targets for future disease-modifying interventions.",
       "journal": "Brain research bulletin",
       "authors": [
@@ -468,7 +605,7 @@
       "pmid": "42710553",
       "doi": "10.1016/j.toxlet.2026.113188",
       "title": "Edaravone as an antioxidant adjuvant to attenuate clozapine toxicity in vitro.",
-      "abstract": "Despite being the gold-standard therapy for treatment-resistant schizophrenia, clozapine use remains constrained by the risk of rare but serious adverse drug reactions, including severe neutropenia and agranulocytosis. Neutrophil myeloperoxidase (MPO)-mediated bioactivation of clozapine to reactive metabolites has long been implicated in agranulocytosis. Although clozapine is metabolized by MPO, there are numerous other compounds that can also be metabolized by this enzyme. Edaravone is a drug used to treat amyotrophic lateral sclerosis and has potent antioxidant activity; we have previously shown that edaravone is metabolized by MPO. Therefore, we hypothesized that edaravone can attenuate early toxicological events associated with clozapine through MPO modulation. Using purified human MPO, MPO-rich human promyelocytic leukemia (HL-60) cells, and isolated human neutrophils, we evaluated clozapine oxidation, competitive intracellular uptake, protein adduct formation, and cytotoxicity. UV-visible spectroscopy demonstrated concentration-dependent inhibition of MPO-catalyzed clozapine oxidation by edaravone, with 100µM edaravone producing suppression comparable to 100µM 4-aminobenzoic acid hydrazide. LC-MS analysis showed that MPO/H₂O₂ reduced clozapine levels to 26.7 ± 2.9% of control, whereas co-incubation with edaravone preserved clozapine to 67.9 ± 16.2%. Under the same conditions, edaravone was almost completely consumed (0.03 ± 0.02% remaining), consistent with its sacrificial antioxidant activity. In HL-60 cells, edaravone attenuated MPO activity and did not significantly alter clozapine uptake after 30minutes (97.2 ± 7.6% of clozapine alone). Immunoblotting revealed that edaravone reduced clozapine-protein adduct formation in purified MPO, HL-60 cells, and neutrophils. Clozapine (75µM) induced marked HL-60 cytotoxicity after 24hours, whereas edaravone concentration-dependently restored viability, with 200µM fully preventing toxicity. These findings provide proof-of-concept that edaravone mitigates multiple mechanistic events linked to clozapine-induced hematological toxicity and may represent a potential strategy to improve clozapine safety.",
+      "abstract": "Despite being the gold-standard therapy for treatment-resistant schizophrenia, clozapine use remains constrained by the risk of rare but serious adverse drug reactions, including severe neutropenia and agranulocytosis. Neutrophil myeloperoxidase (MPO)-mediated bioactivation of clozapine to reactive metabolites has long been implicated in agranulocytosis. Although clozapine is metabolized by MPO, there are numerous other compounds that can also be metabolized by this enzyme. Edaravone is a drug used to treat amyotrophic lateral sclerosis and has potent antioxidant activity; we have previously shown that edaravone is metabolized by MPO. Therefore, we hypothesized that edaravone can attenuate early toxicological events associated with clozapine through MPO modulation. Using purified human MPO, MPO-rich human promyelocytic leukemia (HL-60) cells, and isolated human neutrophils, we evaluated clozapine oxidation, competitive intracellular uptake, protein adduct formation, and cytotoxicity. UV-visible spectroscopy demonstrated concentration-dependent inhibition of MPO-catalyzed clozapine oxidation by edaravone, with 100 µM edaravone producing suppression comparable to 100 µM 4-aminobenzoic acid hydrazide. LC-MS analysis showed that MPO/H₂O₂ reduced clozapine levels to 26.7 ± 2.9% of control, whereas co-incubation with edaravone preserved clozapine to 67.9 ± 16.2%. Under the same conditions, edaravone was almost completely consumed (0.03 ± 0.02% remaining), consistent with its sacrificial antioxidant activity. In HL-60 cells, edaravone attenuated MPO activity and did not significantly alter clozapine uptake after 30 min (97.2 ± 7.6% of clozapine alone). Immunoblotting revealed that edaravone reduced clozapine-protein adduct formation in purified MPO, HL-60 cells, and neutrophils. Clozapine (75 µM) induced marked HL-60 cytotoxicity after 24 h, whereas edaravone concentration-dependently restored viability, with 200 µM fully preventing toxicity. These findings provide proof-of-concept that edaravone mitigates multiple mechanistic events linked to clozapine-induced hematological toxicity and may represent a potential strategy to improve clozapine safety.",
       "journal": "Toxicology letters",
       "authors": [
         "Babu D",
@@ -696,6 +833,30 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42704422/"
     },
     {
+      "id": "pmid-42737854",
+      "pmid": "42737854",
+      "doi": "10.3390/ijms27177958",
+      "title": "Cognitive and Behavioural Profile of SOD1-ALS Across the ALS-FTD Spectrum: A Systematic Review.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is increasingly recognized as a multisystem disorder. However, SOD1 -associated ALS has traditionally been regarded as an exclusively motor phenotype. This systematic review challenges that paradigm by characterizing the cognitive and behavioural profiles of SOD1 mutation-related ALS. Following PRISMA guidelines, a systematic PubMed search identified 17 eligible studies. Across the included studies, encompassing 222 patients with SOD1 variants, three of the analyzed subjects fulfilled the diagnostic criteria for frontotemporal dementia (FTD), and a larger proportion exhibited multidomain cognitive deficits, including executive dysfunction, language impairment, and working memory decline. Behavioural disturbances, such as apathy, emotional lability, and mental rigidity, were also prominent. The historical assumption that SOD1 mutations completely spare cognitive networks likely reflects an under-recognition of subtle manifestations, compounded by the limited sensitivity of earlier screening tools. These findings indicate that cognitive and behavioural involvement can occur in SOD1 -ALS, highlighting a highly heterogeneous phenotype. Encompassing varying degrees of severity-from subtle differences in neuropsychological test scores to formal FTD diagnoses-the current evidence points towards possible variant-specific phenotypes rather than a uniform cognitive syndrome. Routine multidomain cognitive screening is crucial in this population. Properly characterizing these non-motor features allows for more accurate disease staging, better monitoring of clinical progression, and the implementation of truly personalized care strategies.",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Ginanni F",
+        "Nicoletti F",
+        "Meoni C",
+        "Becattini L",
+        "Mancuso M",
+        "Carlesi C",
+        "Bianchi F"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "publishedAt": "2026-09-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42737854/"
+    },
+    {
       "id": "pmid-42719426",
       "pmid": "42719426",
       "doi": "10.1177/26323524261474107",
@@ -761,32 +922,6 @@
       ],
       "publishedAt": "2026-09-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42703939/"
-    },
-    {
-      "id": "pmid-42702895",
-      "pmid": "42702895",
-      "doi": "10.1002/mus.70398",
-      "title": "Emergencies in Amyotrophic Lateral Sclerosis.",
-      "abstract": "Emergencies are frequent in people living with amyotrophic lateral sclerosis (pALS), especially as the disease progresses, and can necessitate urgent evaluation and intervention. Progressive weakness in ALS inevitably increases fall risk, making discussion of fall prevention strategies integral to caring for pALS. Thromboembolic events and respiratory failure may present insidiously in ALS, requiring a high index of clinical suspicion, and management strategies differ from those for individuals without ALS. Bulbar impairment in ALS can give rise to aspiration, laryngospasm, and malnutrition leading to emergency department (ED) visits, underscoring the need for early consideration of gastrostomy tube placement. PALS face an increased risk of serious infections, making vigilant monitoring for any acute change essential. Tracheostomy and gastrostomy, although life-sustaining measures in ALS, may require ED care when complications arise. Proactive assessment and management are critical to prevent complications related to constipation, urinary dysfunction, cognitive and behavioral issues. Although serious adverse events from ALS treatments are very rare, potential immune-mediated neurologic complications are a consideration with tofersen use. Importantly, ALS emergencies should be viewed as potential indicators of disease progression, prompting timely serious illness discussions and reassessment of goals of care. Anticipation of potential complications and emergencies, combined with an understanding of appropriate evaluation and evidence-based management, constitute critical components of caring for pALS. Early recognition and proactive management of these emergencies can improve safety, reduce avoidable hospitalizations, and support goal-concordant, patient-centered care.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Uysal SP",
-        "Dudley KA",
-        "Sullivan S",
-        "Brizzi KT",
-        "Burke KM",
-        "Hall S",
-        "Pease K",
-        "Goldstein JN",
-        "Berry JD",
-        "Ho DT"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702895/"
     }
   ]
 }
