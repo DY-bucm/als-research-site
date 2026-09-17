@@ -1,14 +1,54 @@
 {
-  "updatedAt": "2026-09-16T00:15:43.888Z",
+  "updatedAt": "2026-09-17T00:27:31.973Z",
   "period": {
     "days": 10,
-    "from": "2026-09-07",
-    "to": "2026-09-16"
+    "from": "2026-09-08",
+    "to": "2026-09-17"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 38,
+  "count": 40,
   "articles": [
+    {
+      "id": "pmid-42747163",
+      "pmid": "42747163",
+      "doi": "10.5826/mrm.2026.1088",
+      "title": "Noninvasive ventilation in patients with amyotrophic lateral sclerosis: Is home sleep apnea testing a useful tool for initiating noninvasive ventilation?",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease characterized by motor neuron degeneration and eventual respiratory failure, often first manifesting during sleep. Timely detection of nocturnal respiratory impairment is critical for initiating noninvasive ventilation (NIV), one of the few therapies proven to improve survival. Although polysomnography (PSG) is the reference standard, it is not always readily available in clinical practice. We describe a 62-year-old man with spinal-onset ALS who underwent home sleep apnea testing (HSAT) for respiratory assessment. Although standard metrics were within normal limits, careful manual analysis of respiratory signals revealed diaphragmatic dysfunction through position-dependent desaturation and paradoxical breathing. NIV was initiated, resulting in improvements in sleep quality and daytime functioning. This case illustrates the value of HSAT as a pragmatic and accessible tool for early detection of respiratory involvement in ALS, particularly when combined with detailed waveform inspection in setting where PSG is unavailable. Additionally, it emphasizes the importance of individualized NIV titration and interface optimization to ensure adherence and therapeutic benefit.",
+      "journal": "Multidisciplinary respiratory medicine",
+      "authors": [
+        "Sanna C",
+        "Sanna M",
+        "Borghero G",
+        "Redolfi S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747163/"
+    },
+    {
+      "id": "pmid-42747562",
+      "pmid": "42747562",
+      "doi": "10.1007/s11011-026-01987-6",
+      "title": "Unraveling the regulatory nexus of aggrephagy in ALS: identification of novel candidate biomarkers and molecular triggers.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and ultimately fatal neurodegenerative disorder involving multiple systems, with motor neuron degeneration as its primary feature. This disease can be classified into sporadic and familial types. Genes such as SOD1, C9orf72, FUS, and TDP-43 have been identified as the main causative genes for familial ALS. Multiple bioinformatics tools combined with an experimental verification strategy have helped in understanding the association of a selective autophagy pathway called aggrephagy with the disease. The transcriptome data of spinal cord tissue from SOD1-G93A mice was obtained from the Gene Expression Omnibus (GEO) database. Based on the GSE281064 dataset, we investigated aggrephagy-related transcriptional alterations in the SOD1-G93A mouse model of ALS. After comparison with the aggrephagy-related genes (AGGRGs) set included in the GeneCards database, 49 candidate genes closely related to the autophagy process were obtained. Functional enrichment analysis showed these genes participate in extracellular matrix remodeling, hyaluronic acid and glycosaminoglycan metabolism, tumor necrosis factor regulation, and lysosomal function, indicating central roles in inflammation, apoptosis, and metabolic disorders. Based on feature selection algorithms, this study employed machine learning methods such as random forest (RF), extreme gradient boosting (XGBoost), and Boruta to conduct multi-angle screening of candidate genes. The intersection of the results ultimately identified three key genes: Ctsb, Kif11, and S100a6. In both the training data and external validation data, Ctsb and S100a6 showed significant upregulation and demonstrated excellent discriminatory capabilities. The nomogram constructed based on Ctsb and S100a6 expression showed potential for distinguishing SOD1-G93A model samples from nontransgenic controls. The predicted probability demonstrated the potential of these two as candidate biomarkers. Meanwhile, further validation is needed in larger independent population cohorts in the future. The SOD1-G93A mouse model and SOD1-G93A-expressing NSC34 cell model showed expression patterns of Ctsb and S100a6 consistent with the bioinformatics findings. Through S100a6 overexpression and knockdown experiments in an NSC34 motor neuron-like ALS model, we found that S100a6 impaired autophagy and promoted SOD1 aggregation. These findings further validate its potential as a biomarker and provide new insights into the pathogenesis of ALS.",
+      "journal": "Metabolic brain disease",
+      "authors": [
+        "Zhang Y",
+        "Wei K",
+        "Lin H",
+        "Guo Z",
+        "Lu Y",
+        "Ma T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747562/"
+    },
     {
       "id": "pmid-42736322",
       "pmid": "42736322",
@@ -39,6 +79,70 @@
       ],
       "publishedAt": "2026-09-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42736322/"
+    },
+    {
+      "id": "pmid-41617608",
+      "pmid": "41617608",
+      "doi": "10.1136/thorax-2025-223974",
+      "title": "Health trajectories of patients with amyotrophic lateral sclerosis before and after initiation of non-invasive ventilation: a French nationwide database analysis.",
+      "abstract": "Management of amyotrophic lateral sclerosis (ALS) is complicated by heterogeneous presentation and unpredictable disease course. This study described disease trajectories before and after initiation of non-invasive ventilation (NIV) therapy in individuals with ALS, examined the relationship between NIV initiation timing and survival and analysed health trajectory clusters. Data were extracted from the French national health insurance reimbursement system database for individuals with ≥1 reimbursement for NIV from January 2015 to December 2019, and ≥1 ALS disease code. Health trajectory clusters were determined using time sequence analysis through K-clustering. We analysed data from 3443 individuals with ALS (58% male, median age 67 years). The median (IQR) time from ALS diagnosis to NIV initiation was 10.8 (4.5-22.2) months and death occurred 21.5 (12.8-33.9) months after diagnosis. Tracheostomy/gastrostomy was performed in 3.9%/33.4% of patients, respectively. Unsupervised machine learning clustering identified four distinct patient groups. NIV initiation was late in two Clusters (A and B); these individuals were younger, had fewer comorbidities and more physiotherapy sessions before/after NIV. Survival after NIV initiation was longer in Clusters B and C; these individuals had lower rates of depression/anxiety, more prescription of mechanical in/exsufflation therapy and fewer home and emergency hospitalisations. Cluster B was unique, showing late NIV initiation and long post-NIV survival. This cluster was more likely to have spinal onset, a higher rate of obstructive sleep apnoea and fewer comorbidities. There was marked heterogeneity between patients with ALS and their care trajectories. Our data do not support a universal benefit for early initiation of NIV therapy.",
+      "journal": "Thorax",
+      "authors": [
+        "Tankéré P",
+        "Bernard E",
+        "Herquelot E",
+        "Denis H",
+        "Sfeir L",
+        "Saint-Raymond C",
+        "Mallaret M",
+        "Lavergne F",
+        "Baillieul S",
+        "Peter-Derex L",
+        "Tamisier R",
+        "Pépin JL"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41617608/"
+    },
+    {
+      "id": "pmid-42744283",
+      "pmid": "42744283",
+      "doi": "10.1016/j.jmoldx.2026.04.007",
+      "title": "Parallel analysis of repeat expansions: an updated Clin-CATS workflow for nanopore R10 flow cells.",
+      "abstract": "Hereditary ataxias, caused by expansions of short tandem repeats, are difficult to diagnose using traditional PCR and Southern blot methods, which struggle to detect complex repeat expansions and cannot assess repeat interruptions or methylation. We present an updated Clinical Nanopore Cas9-Targeted Sequencing (Clin-CATS) workflow for analyzing repeat expansions, now compatible with the Oxford Nanopore Technologies R10 flow cell. The workflow incorporates the ONT wf-human-variation Epi2Me workflow, including the Straglr tool to analyze basecalled reads, ensuring compatibility with past, current, and future sequencing chemistries. It expands the number of genes analyzed from 10 to 27 and introduces new gene panels for ataxia, myopathy, neurodegeneration, and ALS/motor neuron disease. Validated with Coriell reference and clinical samples, this method improves the analysis of pathogenic repeat expansions, providing deeper insights into repeat structures while addressing the limitations of traditional approaches. In this work, we also explored the use of multiplexing, Flongle flow cells, and single-gene targeting as alternatives to panel-based approaches in the Clin-CATS workflow, finding that only single-gene targeting provides compatibility and reliable performance.",
+      "journal": "The Journal of molecular diagnostics : JMD",
+      "authors": [
+        "Scholz V",
+        "Schönrock V",
+        "Erdmann H",
+        "Prokosch V",
+        "Schoedel M",
+        "Almus M",
+        "Sauer M",
+        "Mayer V",
+        "Breithausen E",
+        "van Buren I",
+        "Dineiger C",
+        "Golibrzuch M",
+        "Montero-Hernández M",
+        "Lischka A",
+        "Eggermann K",
+        "Heintz C",
+        "Hallermayr A",
+        "Neuhann T",
+        "Holinski-Feder E",
+        "Abicht A",
+        "Benet-Pagès A",
+        "Lucas MC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744283/"
     },
     {
       "id": "pmid-42742812",
@@ -82,6 +186,57 @@
       ],
       "publishedAt": "2026-09-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42736600/"
+    },
+    {
+      "id": "pmid-42744617",
+      "pmid": "42744617",
+      "doi": "10.1101/gad.353720.126",
+      "title": "The hnRNPA1 D262V amyotrophic lateral sclerosis (ALS) mutation is linked to mitochondrial dysfunction.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder marked by motor neuron loss and has been genetically linked to mutations in RNA-binding proteins. A mutation D262V in the RNA-binding protein hnRNPA1, found in a subset of ALS patients, causes widespread splicing pattern changes. Cells expressing this hnRNPA1 mutation exhibit aggregation, reduced proliferation, altered stress granules and abnormal neuronal growth. To further elucidate how a single amino acid substitution in a splicing factor might impact cell growth, we employed ribosome profiling to study translational dynamics across the transcriptome in hnRNPA1 mutant cells. Differential ribosome occupancy was observed for a small number of transcripts linked to synaptic organization and GTPase functions, as well as disrupted codon usage and a global stalling of translation. This downregulation of translation coincided with suppression of the mTOR/AKT signaling pathway. RNA splicing changes in transcripts from genes linked to cilia/cell projections, GTPase cycles and glutamate signaling were also observed. Importantly, major mitochondrial dysfunction and mitochondrial fragmentation were found in hnRNPA1 D262V mutant cells. Overall, this study demonstrates how a single amino acid change in an RNA binding protein can contribute to disrupting cell growth and mitochondrial function related to defects linked to neuronal death in ALS.",
+      "journal": "Genes & development",
+      "authors": [
+        "Lee YJ",
+        "Shen K",
+        "Dillin A",
+        "Rio DC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744617/"
+    },
+    {
+      "id": "pmid-42745510",
+      "pmid": "42745510",
+      "doi": "10.1080/08923973.2026.2733883",
+      "title": "Thioperamide, a histamine H3 receptor antagonist, attenuates neuroimmune activation and inflammation in the SOD1 G93A mouse model of amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder of unknown cause that gradually affects upper and lower motor neurons in the motor cortex, brainstem, and spinal cord. The histamine H3 receptor (H3R), a presynaptic autoreceptor, regulates histamine release through feedback mechanisms. H3R is highly expressed in neurons and microglia, where it influences inflammatory responses. This study examined the effects of thioperamide, an H3R antagonist, on T cell-mediated immune responses in the SOD1 G93A transgenic mouse model of ALS. Mice received daily thioperamide injections (5 mg/kg) for four weeks, beginning at the onset of illness (week 15). Flow cytometry analyzed splenic CD3 + T cells for cytokine and marker expression, including IL-1α, IL-6, IFN-γ, TNF-α, IL-17A, RORγt, iNOS, GM-CSF, TGF-β1, and Foxp3. RT-PCR measured mRNA levels in brain tissue. Results showed that thioperamide significantly decreased CD3 + IL-1α + , CD3 + IL-6 + , CD3 + IFN-γ + , CD3 + TNF-α + , CD3 + IL-17A + , CD3 + RORγt + , CD3 + iNOS + , and CD3 + GM-CSF + cells in the spleen, while increasing regulatory CD3 + TGF-β1 + and CD3 + Foxp3 + cells. Similarly, brain tissue showed decreased mRNA levels of IL-1α, IL-6, IFN-γ, TNF-α, IL-17A, RORγt, iNOS, and GM-CSF, with higher TGF-β1 and Foxp3 expression. These findings suggest that thioperamide helps reestablish immune balance in SOD1 G93A mice by influencing both inflammatory and regulatory T cell pathways.",
+      "journal": "Immunopharmacology and immunotoxicology",
+      "authors": [
+        "Aldossari AA",
+        "Alsaad AMS",
+        "Nadeem A",
+        "Ansari MA",
+        "Attia SM",
+        "Bakheet SA",
+        "Al-Mazroua HA",
+        "Almutairi MM",
+        "Alhamami HN",
+        "Sarawi WS",
+        "Alomar HA",
+        "Algonaiah MA",
+        "Alshamrani AA",
+        "Alanteet AA",
+        "Hussein MH",
+        "Mahmoud MA",
+        "Ahmad SF"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745510/"
     },
     {
       "id": "pmid-42741938",
@@ -301,6 +456,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42727824/"
     },
     {
+      "id": "pmid-42746532",
+      "pmid": "42746532",
+      "doi": "10.1016/j.adro.2026.102135",
+      "title": "Radiation Therapy for Sialorrhea in Patients With Amyotrophic Lateral Sclerosis: A Case Series and Critical Review.",
+      "abstract": "Radiation therapy (RT) for sialorrhea has historically used 3-dimensional techniques that broadly irradiate both major and minor salivary glands. However, some reports indicate that treatment of minor salivary glands may contribute to excessive xerostomia. In this retrospective case series, we assessed the efficacy and tolerability of oral-cavity-sparing volumetric modulated arc therapy (VMAT) and bilateral electron field radiation for sialorrhea in patients with amyotrophic lateral sclerosis (ALS) and reviewed the relevant literature. From 2014 to 2025, 6 patients with bulbar-onset ALS and medically refractory sialorrhea were treated with RT to the parotid and submandibular glands (20 Gy in 5 fractions) at a single institution. Five patients received VMAT with 6 MV photons, and one received bilateral 16 MeV electrons. Clinical response, medication use, toxicity, and dosimetry were assessed. A PubMed search using \"sialorrhea,\" \"RT,\" and \"amyotrophic lateral sclerosis\" was performed for the literature review. At a median follow-up of 15.05 months (range, 3.0-61.7 months), 5 of 6 patients (83.3%) achieved symptomatic improvement, with an average 60% patient-reported reduction in salivation and ≥2 point improvement in ALS Functional Rating Scale saliva subscore. Two discontinued anticholinergics, and 1 achieved complete resolution for 3 years. Acute toxicities with VMAT were mild and self-limiting, most commonly parotitis and thickened secretions. The patient treated with electrons developed grade 2 mucositis, not observed with VMAT. Late toxicities, including xerostomia, were minimal and transient. Dosimetry showed higher larynx and oral cavity doses with electrons, whereas VMAT delivered slightly higher spinal cord doses. Critical literature review supported RT as an effective and well-tolerated intervention. RT provides durable relief of refractory sialorrhea in ALS with manageable toxicity. VMAT response is comparable with historical outcomes and may offer dosimetric advantages that correlate with reduced acute toxicities, although its clinical benefit and cost-effectiveness warrant further validation.",
+      "journal": "Advances in radiation oncology",
+      "authors": [
+        "Zhang E",
+        "Oh P",
+        "Shamas T",
+        "Patwa HS",
+        "Johung KL"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746532/"
+    },
+    {
       "id": "pmid-42727710",
       "pmid": "42727710",
       "doi": "10.1016/j.brainresbull.2026.112111",
@@ -322,6 +497,28 @@
       ],
       "publishedAt": "2026-09-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42727710/"
+    },
+    {
+      "id": "pmid-42746632",
+      "pmid": "42746632",
+      "doi": "10.29374/2527-2179.bjvm005526",
+      "title": "SOD1:c.118G>A mutation in the Cimarrón Uruguayo dog: prevalence, drift dynamics, and structural effects.",
+      "abstract": "Canine degenerative myelopathy (DM) is associated with a missense mutation in the SOD1 gene (c.118G>A), which results in the E40K amino acid substitution and promotes protein aggregation mechanisms similar to those described in human amyotrophic lateral sclerosis. The present study estimated the frequency of the SOD1:c.118G>A mutation in the Cimarrón Uruguayo dog and evaluated its structural and population implications. A total of 82 dogs were genotyped. The mutant allele was detected at a frequency within the range of common variants (q = 0.177), and genotype distribution did not deviate from Hardy-Weinberg equilibrium. Wright-Fisher simulations showed that stochastic processes alone may substantially influence allele-frequency trajectories over time. Additionally, a high-resolution melting (HRM) assay was optimized and enabled clear discrimination of the three genotypes, supporting its use as a rapid genotyping approach. Sanger sequencing of SOD1 exons 2-5 was performed in a subset of individuals to identify additional coding variants. Sequencing revealed no additional non-synonymous variants, except for a synonymous substitution in exon 4. Structural inspection indicated that the E40K substitution does not alter the local hydrogen-bonding pattern but produces a charge inversion that modifies the electrostatic environment surrounding residues 40 and 91. These findings support the hypothesis that electrostatic alterations in this region may contribute to an increased aggregation propensity of mutant SOD1 and provide new insights into the molecular and population context of this mutation in the Cimarrón Uruguayo breed. A mielopatia degenerativa canina (DM) está associada a uma mutação missense no gene SOD1 (c.118G>A), que resulta na substituição do aminoácido E40K e promove mecanismos de agregação proteica semelhantes aos descritos na esclerose lateral amiotrófica humana. O presente estudo estimou a frequência da mutação SOD1:c.118G>A no cão Cimarrón Uruguayo e avaliou suas implicações estruturais e populacionais. Um total de 82 cães foi genotipado. O alelo mutante foi detectado em uma frequência dentro da faixa de variantes comuns (q = 0,177), e a distribuição genotípica não diferiu do esperado sob equilíbrio de Hardy–Weinberg. Simulações de Wright–Fisher mostraram que processos estocásticos podem influenciar substancialmente as trajetórias de frequência alélica ao longo do tempo. Adicionalmente, um ensaio de high-resolution melting (HRM) foi otimizado e permitiu clara discriminação dos três genótipos, apoiando seu uso como uma abordagem rápida de genotipagem. O sequenciamento por Sanger dos éxons 2–5 do gene SOD1 foi realizado em um subconjunto de indivíduos para identificar variantes adicionais na região codificante. O sequenciamento não revelou variantes não sinônimas adicionais, exceto por uma substituição sinônima no éxon 4. A inspeção estrutural indicou que a substituição E40K não altera o padrão local de ligações de hidrogênio, mas produz uma inversão de carga que modifica o ambiente eletrostático ao redor dos resíduos 40 e 91. Esses achados sustentam a hipótese de que alterações eletrostáticas nessa região podem contribuir para um aumento da propensão à agregação da SOD1 mutante e fornecem novos insights sobre o contexto molecular e populacional dessa mutação na raça Cimarrón Uruguayo.",
+      "journal": "Brazilian journal of veterinary medicine",
+      "authors": [
+        "Artigas R",
+        "Menchaca C",
+        "Jara E",
+        "Mondino A",
+        "Vázquez N",
+        "Branda Sica A",
+        "Llambí S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746632/"
     },
     {
       "id": "pmid-42722039",
@@ -775,153 +972,6 @@
       ],
       "publishedAt": "2026-09-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42709336/"
-    },
-    {
-      "id": "pmid-42725432",
-      "pmid": "42725432",
-      "doi": "10.1093/nar/gkag880",
-      "title": "Altered neuronal start codon stringency favors cap-independent repeat-associated non-AUG translation.",
-      "abstract": "Intronic GGGGCC repeat expansions in C9orf72 cause amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). This expansion supports a non-canonical form of translational initiation known as repeat-associated non-AUG (RAN) translation to produce toxic dipeptide repeat proteins that contribute to neurodegeneration. Here, we find that the efficiency of RAN translation and its dependency on the 5' 7-methylguanosine mRNA cap are variable across cell types, with both rodent neurons and human iNeurons favoring cap-independent RAN translation from two distinct repeats (CGG and GGGGCC) across multiple reading frames. Treatment with an eIF4E inhibitor that blocks cap-dependent translation enhances RAN translation specifically in neurons. Intriguingly, cap-independent RAN translation exhibits less reliance on near-cognate codons for initiation than cap-dependent RAN translation. This finding led us to identify a surprising global alteration in neuronal start codon stringency as a contributor to the relatively higher cap-independent RAN translation in this cell type. This effect correlates with cytoplasmic redistribution of eIF1 in neurons and is reversed with overexpression of the eukaryotic initiation factor eIF5, which relaxes start codon stringency and preferentially enhances cap-dependent RAN translation. Together, these findings reveal several neuron-specific features of translational regulation that favor cap-independent RAN translation with implications for nucleotide repeat expansion disorder pathogenesis.",
-      "journal": "Nucleic acids research",
-      "authors": [
-        "Wieland CM",
-        "Wright SE",
-        "Willey S",
-        "Purwar I",
-        "Grudzien SJ",
-        "Krans A",
-        "Laimon EL",
-        "Asher MJ",
-        "Isaacs AM",
-        "Garner AL",
-        "Todd PK"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725432/"
-    },
-    {
-      "id": "pmid-42704422",
-      "pmid": "42704422",
-      "doi": "10.1007/s12026-026-09838-3",
-      "title": "Clinical and immunological characterization of a child with a homozygous TBK1 kinase-domain truncation.",
-      "abstract": "TBK1 is a serine-tyrosine kinase protein that transmits signals from pattern recognition receptors to the NF-κB pathway leading to production of Type 1 Interferons. Mutations in this protein have been associated with arthritis, vasculitis, herpes simplex encephalitis and amyotrophic lateral sclerosis. In the current study, we characterized the functional consequences of a TBK1-variant bearing a truncation in exon 4 and 5 in a patient with poly arthritis resembling juvenile idiopathic arthritis and necrotizing encephalitis. The truncation was associated with reduced TBK1 protein abundance and altered phosphorylation. The variant was associated with increased basal/and or Poly-I: C induced IL-6, TNFα, IL-1β and IL-18 and type 1 Interferon ex vivo. Our findings expand the phenotypic spectrum of TBK1 loss-of-function variants and may provide insight into the management of immune dysregulation in affected patients.",
-      "journal": "Immunologic research",
-      "authors": [
-        "Demir BS",
-        "Cicek SO",
-        "Houran MA",
-        "Azizoglu ZB",
-        "Asan M",
-        "Bas H",
-        "Cetin BS",
-        "Gumus H",
-        "Erdem S",
-        "Canatan H",
-        "Unal E",
-        "Hsieh EW",
-        "Kısaarslan AP",
-        "Eken A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publishedAt": "2026-09-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704422/"
-    },
-    {
-      "id": "pmid-42737854",
-      "pmid": "42737854",
-      "doi": "10.3390/ijms27177958",
-      "title": "Cognitive and Behavioural Profile of SOD1-ALS Across the ALS-FTD Spectrum: A Systematic Review.",
-      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is increasingly recognized as a multisystem disorder. However, SOD1 -associated ALS has traditionally been regarded as an exclusively motor phenotype. This systematic review challenges that paradigm by characterizing the cognitive and behavioural profiles of SOD1 mutation-related ALS. Following PRISMA guidelines, a systematic PubMed search identified 17 eligible studies. Across the included studies, encompassing 222 patients with SOD1 variants, three of the analyzed subjects fulfilled the diagnostic criteria for frontotemporal dementia (FTD), and a larger proportion exhibited multidomain cognitive deficits, including executive dysfunction, language impairment, and working memory decline. Behavioural disturbances, such as apathy, emotional lability, and mental rigidity, were also prominent. The historical assumption that SOD1 mutations completely spare cognitive networks likely reflects an under-recognition of subtle manifestations, compounded by the limited sensitivity of earlier screening tools. These findings indicate that cognitive and behavioural involvement can occur in SOD1 -ALS, highlighting a highly heterogeneous phenotype. Encompassing varying degrees of severity-from subtle differences in neuropsychological test scores to formal FTD diagnoses-the current evidence points towards possible variant-specific phenotypes rather than a uniform cognitive syndrome. Routine multidomain cognitive screening is crucial in this population. Properly characterizing these non-motor features allows for more accurate disease staging, better monitoring of clinical progression, and the implementation of truly personalized care strategies.",
-      "journal": "International journal of molecular sciences",
-      "authors": [
-        "Ginanni F",
-        "Nicoletti F",
-        "Meoni C",
-        "Becattini L",
-        "Mancuso M",
-        "Carlesi C",
-        "Bianchi F"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ],
-      "publishedAt": "2026-09-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42737854/"
-    },
-    {
-      "id": "pmid-42719426",
-      "pmid": "42719426",
-      "doi": "10.1177/26323524261474107",
-      "title": "Living with Amyotrophic Lateral Sclerosis: Exploring what matters to patients and caregivers through their experiences.",
-      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a rare neurodegenerative disease the causes of which are not fully understood, that leads to early death. From the diagnosis, ALS significantly impacts the quality of life (QoL) for patients and their caregivers due to its unique characteristics. Both patients and their caregivers, formal and informal, increasingly feel the need to share their experiences, communicate their needs, and talk about what living with ALS entails. Given the few studies available in the literature on this topic, the study's aim is to explore the significance of ALS for patients and caregivers through their testimonies and to identify the collective representations and symbolic categories that influence their lives. A total of 118 spontaneous written texts (67 produced by women) (81.752 tokens, TTR index=0.145; H% index=54.6%) collected from the web, from 67 ALS patients, 41 informal and 10 formal caregivers, were analyzed using the Emotional Text Mining (ETM) technique, with the T-Lab Software. Four communication axes were identified: management of the disease (34.25%; physical vs. emotional), care (26.58%; technological vs. relational), support (21.39%; self-directed vs. social), and effort (17.78%; personal and institutional). The five clusters positioned in this factorial space relate to disease onset (12.29%), difficulties (30.78%), medical examinations (29.39%), coping strategies (14.79%), and needs (18.75%). There are differences between genders and groups. The interpretation of the results enables an understanding of the cultural-symbolic system of ALS patients and caregivers, as well as the impact of the disease on their QoL. Through this, personalized interventions can be designed to promote resources and psychological well-being. Amyotrophic Lateral Sclerosis (ALS) is a rare, neurodegenerative disease with unknown causes, leading to early death. From diagnosis, ALS significantly impacts the quality of life (QoL) of both patients and caregivers, who increasingly want to share their experiences, communicate their needs, and discuss living with the condition. There are few studies on this topic. This study explores the significance of ALS for patients and caregivers through testimonies and identifies the representations and categories that influence their lives. A total of 118 spontaneous written texts (67 produced by women) (81.752 tokens, TTR index=0.145; H% index=54.6%) collected from the web, from 67 ALS patients, 41 informal and 10 formal caregivers, were analyzed using the Emotional Text Mining (ETM) technique, with the T-Lab Software. There are four communication axes: management of the disease (34.25% physical vs. emotional), care (26.58% technological vs. relational), support (21.39% self-directed vs. social), and effort (17.78% personal and institutional). The five clusters positioned in this factorial space relate to disease onset (12.29%), difficulties (30.78%), medical examinations (29.39%), coping strategies (14.79%), and needs (18.75%). There are differences between genders and groups. Interpreting the results helps to understand ALS patients' and caregivers' cultural and symbolic needs, and the impact of the disease on their quality of life. This information can be used to create personalised support plans to help with resources and well-being.",
-      "journal": "Palliative care and social practice",
-      "authors": [
-        "Zambetti E",
-        "Belli S",
-        "Mucci C",
-        "Greco A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42719426/"
-    },
-    {
-      "id": "pmid-42706741",
-      "pmid": "42706741",
-      "doi": "10.1002/mus.70395",
-      "title": "Online Crowdfunding Campaigns for People Living With ALS Demonstrate Financial Burden and Unmet Needs.",
-      "abstract": "People living with amyotrophic lateral sclerosis (ALS; pALS) have extensive care needs, from wheelchairs to feeding tubes to caregiving support. The financial impact of these needs on pALS and their caregivers (cALS) has not been fully explored. We aimed to explore the types of expenses for which pALS and cALS crowdfund, and the financial circumstances that lead them to resort to crowdfunding. We randomly selected 320 ALS-related crowdfunding campaigns posted on the GoFundMe platform from 2010-2020. We conducted a summative content analysis to categorize the expenses for which campaigns requested money and descriptions of financial burden. We included 266 campaigns. Most campaigns were written by people who were not the pALS or cALS, such as children or coworkers (85.3%). Most campaigns fundraised for medication and treatment costs (21.4%), equipment (25.2%), accessibility needs for home (24.0%), and transportation (19.5%), and in-home caregiving services (18%). Multiple campaigns (22.9%) requested assistance with nonmedical expenses ranging from rent and utilities to personal travel and hobby goals. Many campaign writers (47.7%) described financial burden related to the pALS' diagnosis, including medical debt (4.5%) and job loss of the pALS (30.5%) and/or cALS (6.8%). Our analysis of ALS-related crowdfunding campaigns highlights the breadth of medical and nonmedical care needs and quality of life goals for which people request additional financial support throughout the disease course. These findings provide important insights for ALS care teams into the expenses of pALS.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Grouls A",
-        "Ubel PA",
-        "Nguyen M",
-        "Pathapati N",
-        "Doerstling S",
-        "Sloan CE"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42706741/"
-    },
-    {
-      "id": "pmid-42703939",
-      "pmid": "42703939",
-      "doi": "10.1002/ana.78355",
-      "title": "Tracking Socio-emotional Brain Changes in Premanifest C9orf72 Repeat Expansion Carriers: A Structural and Functional 2-Year Longitudinal Magnetic Resonance Imaging Study.",
-      "abstract": "The C9orf72 hexanucleotide repeat expansion (C9RE) is the most frequent genetic cause of frontotemporal dementia and amyotrophic lateral sclerosis. Although structural alterations have been reported decades before symptom onset, the longitudinal evolution of socioemotional network dysfunction in premanifest C9RE carriers remains poorly understood. In this multimodal 2-year longitudinal study, we examined 21 premanifest C9RE carriers and 24 controls using structural magnetic resonance imaging (MRI), resting-state, and task-based functional MRI (fMRI), and multivariate pattern analysis. Participants completed facial emotion processing tasks during fMRI scanning, alongside behavioral assessments. We assessed regional activation, network connectivity, and voxel-wise structural integrity at baseline and follow up. At baseline, premanifest C9RE carriers showed reduced emotion recognition efficiency, accompanied by bilateral thalamic atrophy, decreased activation in the anterior and posterior cingulate cortex, and increased activation in the posterior cerebellum, along with altered multivoxel activity patterns in the anterior cingulate and posterior cerebellum. Resting-state fMRI revealed decreased functional connectivity involving the thalamus, anterior, and posterior cingulate cortex. Longitudinal analyses indicated declining emotion-evoked responses in the posterior cingulate cortex and cerebellum, alongside further thalamic volume loss, whereas functional connectivity showed no significant change over time. Despite these progressive neural alterations, behavioral performance remained stable. Socioemotional circuit dysfunction emerges early in C9RE carriers and progresses over time, preceding overt clinical symptoms. Functional imaging, especially task-based fMRI combined with multivariate pattern analysis, captures early circuit-level alterations that may serve as sensitive biomarkers for premanifest neurodegeneration. ANN NEUROL 2026.",
-      "journal": "Annals of neurology",
-      "authors": [
-        "Sun J",
-        "Vocht J",
-        "Laroy M",
-        "Stam D",
-        "Lien CH",
-        "Lamaire N",
-        "D'Hondt A",
-        "Peeters R",
-        "Sunaert S",
-        "Van Damme P",
-        "Vandenbulcke M",
-        "Van den Stock J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42703939/"
     }
   ]
 }
