@@ -1,14 +1,81 @@
 {
-  "updatedAt": "2026-09-19T00:17:32.960Z",
+  "updatedAt": "2026-09-20T00:08:04.313Z",
   "period": {
     "days": 10,
-    "from": "2026-09-10",
-    "to": "2026-09-19"
+    "from": "2026-09-11",
+    "to": "2026-09-20"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 36,
+  "count": 32,
   "articles": [
+    {
+      "id": "pmid-42760704",
+      "pmid": "42760704",
+      "doi": "10.1097/MD.0000000000050769",
+      "title": "Causal relationship between metabolites, cerebral volume, and amyotrophic lateral sclerosis: A 2-step Mendelian randomization analysis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron degeneration. Although metabolic abnormalities have been implicated in ALS, the causal relationships between circulating metabolites and ALS remain unclear. This study aimed to investigate the potential causal associations between plasma metabolites and ALS risk and to explore the mediating role of cerebral volume. A 2-sample Mendelian randomization (MR) study was conducted using publicly available genome-wide association study summary statistics. Genetic instruments for plasma metabolites were obtained from metabolomic GWAS datasets, and ALS-associated genetic data were used as the outcome. The inverse-variance weighted method was used as the primary analysis, with sensitivity analyses performed using MR-Egger regression, weighted median analysis, MR-PRESSO, heterogeneity testing, and leave-one-out analysis. A 2-step MR analysis was further conducted to evaluate whether cerebral volume mediated the associations between metabolites and ALS. Six metabolites showed significant associations with ALS risk. Genetically predicted higher levels of N,N-dimethylalanine, Behenylcarnitine (C22), and deoxycarnitine were associated with increased ALS risk, whereas higher levels of (N(1) + N(8))-acetylspermidine, Betaine, and tetradecadienedioate (C14:2-DC) were associated with decreased ALS risk. Sensitivity analyses supported the robustness of the findings. Two-step MR analysis suggested that cerebral volume did not significantly mediate the associations between these metabolites and ALS risk. This study identified 6 circulating metabolites genetically associated with ALS risk. These findings provide insights into the potential metabolic pathways involved in ALS and suggest that the observed associations are unlikely to be mediated through cerebral volume changes.",
+      "journal": "Medicine",
+      "authors": [
+        "Liu Y",
+        "Chen S",
+        "Wu Y",
+        "Zhou W",
+        "Shang H",
+        "Ou R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760704/"
+    },
+    {
+      "id": "pmid-42759848",
+      "pmid": "42759848",
+      "doi": "10.1016/j.nbd.2026.107610",
+      "title": "Cellular senescence is an early feature and therapeutic target in amyotrophic lateral sclerosis TDP-43 Q331K mice.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive motor neuron degeneration in the motor cortex and spinal cord. Aging is a key risk factor for ALS, and cellular senescence - a hallmark of aging marked by irreversible cell-cycle arrest and a pro-inflammatory senescence-associated secretory phenotype - has been implicated in neurodegeneration, yet its role in ALS progression remains incompletely understood. Here, we show that molecular markers of cellular senescence emerge in the motor cortex and spinal cord alongside declines in neural and neuromuscular function in TDP-43 Q331K ALS mice, supporting senescence as an early feature of ALS pathology. To test whether reduced senescence ameliorates ALS pathology, we evaluated longitudinal senolytic treatment with dasatinib and quercetin (D&Q) in TDP-43 Q331K mice. D&Q treatment improved motor behavior, neuromuscular function, and reduced axonal damage as measured by plasma neurofilament light chain, accompanied by robust improvements in motor cortex excitability and preservation of layer V neuron counts. At the cellular level, cortical microglia were implicated as a potential mediator of senolytic benefits based on reduced microglial TDP-43 burden and senescence markers. Together, these findings identify cellular senescence as an early, disease-relevant, and modifiable feature of ALS pathology.",
+      "journal": "Neurobiology of disease",
+      "authors": [
+        "Viteri JA",
+        "Kerr NR",
+        "Brennan CD",
+        "Kick GR",
+        "Wang M",
+        "Ketabforoush A",
+        "Snyder HJ",
+        "Moore PJ",
+        "Darvishi FB",
+        "Dashtmian AR",
+        "Ayyagari SN",
+        "Rich K",
+        "Zhu Y",
+        "Nishimune H",
+        "Arnold WD"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
+    },
+    {
+      "id": "pmid-42760307",
+      "pmid": "42760307",
+      "doi": "10.1038/d41586-026-02945-z",
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
+      "abstract": "",
+      "journal": "Nature",
+      "authors": [
+        "Fieldhouse R"
+      ],
+      "publicationTypes": [
+        "News"
+      ],
+      "publishedAt": "2026-09-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
+    },
     {
       "id": "pmid-42758722",
       "pmid": "42758722",
@@ -707,184 +774,6 @@
       ],
       "publishedAt": "2026-09-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42746632/"
-    },
-    {
-      "id": "pmid-42722039",
-      "pmid": "42722039",
-      "doi": "10.1016/j.neures.2026.105119",
-      "title": "Anti-LAG-3 antibody treatment initiated after symptom onset extends survival in ALS model mice.",
-      "abstract": "Immune checkpoint molecules have emerged as regulators of microglial function in neurodegenerative diseases. We previously demonstrated that LAG-3 shapes disease-associated microglial phenotypes in ALS and that germline LAG-3 deletion in SOD1 G93A mice accelerated disease onset but extended duration, leaving survival unchanged. Here, we investigated the therapeutic efficacy of anti-LAG-3 antibody treatment starting after symptom onset. Anti-LAG-3 treatment extended survival, slowed neurological and motor decline, preserved body weight and motor neurons, and reduced microgliosis. Within microglia, the Axl + phagocytic-module fraction increased while the Dectin-1 + inflammatory-module fraction decreased. These findings indicate that post-onset LAG-3 inhibition is a promising therapeutic strategy for ALS.",
-      "journal": "Neuroscience research",
-      "authors": [
-        "Morisaki Y",
-        "Nomura N",
-        "Matsuda M",
-        "Ohshima M",
-        "Fukuda R",
-        "Komine O",
-        "Okuda T",
-        "Yamanaka K",
-        "Misawa H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722039/"
-    },
-    {
-      "id": "pmid-42722112",
-      "pmid": "42722112",
-      "doi": "10.1016/j.nbd.2026.107601",
-      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ∼90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnostic delay, enable patient stratification, and assess treatment efficacy in clinical trials. Astrocyte-derived extracellular vesicles (ADEVs) represent promising CNS liquid biopsy biomarkers, given astrocyte involvement in ALS pathogenesis and the ability of ADEVs to cross the blood-brain barrier and carry TDP-43. Here, we assessed the diagnostic performance of TDP-43 and its hyperphosphorylated pathological form, phospho-Ser409 (pTDP-43), quantified in ADEVs, for distinguishing ALS cases from matched healthy controls. ADEVs were immunoisolated from whole blood (n = 76) and plasma (n = 86) across three ALS biorepositories/cohorts. ADEV quality and enrichment were validated in accordance with minimal information for studies of extracellular vesicles guidelines, and protein levels were normalized by ratio to tetraspanin cluster of differentiation 81 (CD81). Diagnostic accuracy was evaluated by logistic regression and random forest models with cross-validation, adjusting for age and sex across 100 random seeds. Plasma ADEV pTDP-43/CD81 ratio best predicted ALS case status, with a mean AUC of 0.89 (95% CI: 0.75-0.99) from logistic models, corresponding to a mean sensitivity and specificity of 87% and 89%, respectively, and a mean AUC of 0.86 (95% CI: 0.82-0.90) from random forest models. Although the specificity of ADEV pTDP-43 relative to disease mimics and associations with disease progression require further investigation, these findings support its potential as a biomarker candidate for ALS and for patient stratification in TDP-43-targeted clinical trials.",
-      "journal": "Neurobiology of disease",
-      "authors": [
-        "Butt TH",
-        "Strait M",
-        "Marcinczyk L",
-        "Katz G",
-        "Kalia V",
-        "Jaafar C",
-        "Saxena R",
-        "Divjan A",
-        "Saglimbeni B",
-        "Munoz Umanes ME",
-        "Tipps E",
-        "Han M",
-        "Mehta P",
-        "Lee I",
-        "Mitsumoto H",
-        "Factor-Litvak P",
-        "Shneider NA",
-        "Kioumourtzoglou MA",
-        "Re DB"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
-    },
-    {
-      "id": "pmid-42720086",
-      "pmid": "42720086",
-      "doi": "10.1093/brain/awag300",
-      "title": "Conceptualizing cognition and behaviour across amyotrophic lateral sclerosis and frontotemporal dementia.",
-      "abstract": "Cognitive and behavioral dysfunction in frontotemporal dementia (FTD) evolves along a clinical continuum from a clinically silent stage of disease, through a prodromal period, often referred to as mild cognitive impairment (MCI) and/or mild behavioral impairment (MBI), and into a clinically manifest stage recognized by the syndromes of behavioral variant FTD and primary progressive aphasia (PPA). Similar cognitive and behavioral manifestations of varying severity are also encountered in individuals with amyotrophic lateral sclerosis (ALS). Notwithstanding this phenotypic overlap as well as a degree of shared genetic risk and underlying pathology, the approach to phenotypic characterization and description meaningfully differs between the ALS and FTD communities. The problem is particularly evident within the ALS community when describing impairment in the prodromal vs. clinically manifest disease stages. Pertinent considerations include the nature of cognitive and behavioral assessments, the nosology used to describe symptoms identified including those encompassed by the terms 'behavioral' and 'neuropsychiatric', the operationalized criteria that define prodromal syndromes and clinically manifest disease, and the extent to which these criteria rely on longitudinal (vs. cross-sectional) data. A multi-stakeholder workshop, held in London, Ontario (May 12-14, 2025), brought together neurologists, psychiatrists, neuropsychologists, neuropathologists, neuroscientists, and neurogeneticists studying ALS and FTD, to promote inter-disciplinary dialogue and to define a research agenda that might be jointly tackled to address these critical issues. A new nosology for classifying frontotemporal-related behavioral and neuropsychiatric dysfunction, which could be used to support empirical evidence collection, is proposed alongside a list of cognitive, language, behavioral and neuropsychiatric symptoms to be considered in the evaluation of individuals with ALS. Research priorities for each of the ALS and FTD communities, as well as initiatives that should be undertaken jointly, are highlighted. The long-term goal is to harmonize approaches to phenotypic characterization, the nosology used to describe symptoms, and the criteria used to define landmark stages along the clinical continua of the motor neuron and frontotemporal axes irrespective of clinical stage.",
-      "journal": "Brain : a journal of neurology",
-      "authors": [
-        "Benatar M",
-        "Huey ED",
-        "Onyike CU",
-        "McHutchison C",
-        "Tartaglia MC",
-        "Barker MS",
-        "Abrahams S",
-        "De Vocht J",
-        "Rhodes E",
-        "Pijnenburg YA",
-        "Turner MR",
-        "van Damme P",
-        "Lee EB",
-        "Wuu J",
-        "Benussi A",
-        "Boeve BF",
-        "McMillan CT",
-        "Strong MJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720086/"
-    },
-    {
-      "id": "pmid-42717683",
-      "pmid": "42717683",
-      "doi": "10.1242/dmm.052963",
-      "title": "Dysregulated microRNA-mRNA networks in SOD1G93A mouse skeletal muscle reveal metabolic impairments in ALS.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a multi-system disease in which skeletal muscle actively contributes to pathology, yet the regulatory circuits that drive muscle dysfunction remain unclear. We examined microRNA (miRNA)-messenger RNA (mRNA) interactions in the gastrocnemius of hSOD1G93A mice across presymptomatic, early- and late-symptomatic stages, using RNA-seq, bioinformatics, and RT-qPCR. Compared with hSOD1WT and non-transgenic controls, hSOD1G93A muscle showed mutation-specific transcriptome reprogramming: 48 dysregulated miRNAs and 558 mRNAs at presymptomatic, and 64 miRNAs and 685 mRNAs at late-symptomatic stages. Functional enrichment pinpointed carbohydrate-handling pathways (glycolysis/gluconeogenesis, pentose-phosphate, fructose-mannose metabolism) as the dominant downregulated gene sets. Network analysis revealed clusters in which upregulated miRNAs converged on, and showed inverse expression patterns relative to metabolic transcripts. RT-qPCR confirmed inverse expression of 10 candidate miRNAs and 11 metabolic mRNAs, substantiating miRNA-guided repression of glycolytic enzymes and energy-sensing nodes. Collectively, we show that SOD1G93A drives an early, sustained miRNA signature that dampens glycolysis gene expression, which could promote the fast-to-slow fibre-type transition and exacerbate energy deficit in ALS muscle. Targeting these circuits offers a strategy to restore metabolic balance and slow disease progression.",
-      "journal": "Disease models & mechanisms",
-      "authors": [
-        "Moody L",
-        "Christoforidou E",
-        "Joilin G",
-        "Dilley A",
-        "Hafezparast M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717683/"
-    },
-    {
-      "id": "pmid-42721110",
-      "pmid": "42721110",
-      "doi": "10.1080/17582024.2026.2731195",
-      "title": "Non-invasive brain stimulation in amyotrophic lateral sclerosis: a systematic review and meta-analysis of transcranial direct current stimulation and transcranial magnetic stimulation.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder with limited disease-modifying treatments. Noninvasive brain stimulation techniques have been investigated as potential neuromodulatory interventions targeting cortical hyperexcitability in ALS. To systematically evaluate the clinical efficacy, neurophysiological effects, and safety of tDCS and TMS-based interventions in ALS. A systematic review and meta-analysis was conducted following PRISMA guidelines. PubMed, Scopus, Web of Science, and Cochrane Library were searched from inception to March 2026. Thirty studies involving ALS patients were included. Pooled analyses showed no significant difference between active stimulation and sham in ALSFRS-R at 6 months (MD = 0.58, 95% CI - 0.16 to 1.31) or at end of follow-up (MD = 0.20, 95% CI - 0.49 to 0.89). No significant effect was observed for manual muscle testing. Considerable heterogeneity was noted across studies. However, several studies demonstrated modulation of cortical excitability and intracortical inhibitory circuits, particularly with repeated stimulation protocols. Both tDCS and TMS were consistently safe and well tolerated, with no serious adverse events reported. Noninvasive brain stimulation in ALS does not significantly improve functional outcomes, but induces measurable neurophysiological changes with a strong safety profile. Further studies should optimize protocols and identify responsive subgroups. Amyotrophic lateral sclerosis (ALS) is a progressive disease that damages the nerve cells responsible for controlling muscles. As the disease advances, people gradually lose the ability to move, speak, swallow, and breathe. Current treatments provide only limited benefits, so researchers continue to explore new approaches that may help slow disease progression or improve quality of life. This study reviewed and analyzed published research on two noninvasive brain stimulation techniques: transcranial direct current stimulation (tDCS) and transcranial magnetic stimulation (TMS). These techniques use electrical or magnetic stimulation applied through the scalp to influence brain activity. Researchers have proposed that they may help reduce abnormal brain activity that is thought to contribute to ALS. We identified 30 studies that evaluated these techniques in people with ALS. When the results of comparable studies were combined, neither tDCS nor TMS showed a significant improvement in overall functional ability or muscle strength compared with sham (placebo) stimulation. However, several studies reported changes in measures of brain activity, suggesting that these techniques can influence the nervous system in meaningful ways. Importantly, both tDCS and TMS were generally safe and well tolerated, with only mild and temporary side effects such as tingling, itching, or discomfort. Overall, current evidence suggests that noninvasive brain stimulation is safe but does not yet provide clear evidence of improving disease progression or physical function in ALS. Future research should focus on optimizing stimulation methods, identifying which patients may benefit most, and determining whether these techniques could be used alongside other treatments.",
-      "journal": "Neurodegenerative disease management",
-      "authors": [
-        "Alrabadi B",
-        "Matar HI",
-        "Bandak N",
-        "Yaseen S",
-        "Badwan A",
-        "Alomari O"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721110/"
-    },
-    {
-      "id": "pmid-42723096",
-      "pmid": "42723096",
-      "doi": "10.1186/s13024-026-00971-z",
-      "title": "Retromer-targeted therapy for neurodegenerative diseases.",
-      "abstract": "Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic Lateral Sclerosis (ALS) are neurodegenerative diseases characterized by dysfunction of the endosomal-lysosomal system (ELS). Four shared neurodegenerative mechanisms across ALS, PD and AD are regulated by the ELS, namely proteostasis and related protein misfolding, mitochondrial function, neurotransmission and neuroinflammation. These mechanisms are interconnected, contributing to neurodegeneration in a \"snowball\" manner. The retromer, a multimeric, evolutionarily conserved protein complex involved in intracellular protein trafficking, is at the crossroad of these neurodegenerative processes. This narrative review focuses on exploring the retromer structure, function as a master regulator of the ELS, and how this impacts proteostasis, mitochondrial biogenesis and homeostasis, neurotransmission and neuroinflammation across neurodegenerative diseases. We explore how alterations in retromer function can play an important role in neurodegeneration and discuss the impact of genetic and pharmacological manipulations of VPS35, one of the main retromer subunits. In vitro and in vivo studies have identified that the retromer enhances the activity of protein degradation pathways via the ELS, namely macroautophagy, chaperone-mediated autophagy, and the ELS itself, with concomitant reduction in misfolded protein levels. Also, in some model systems, when the retromer role is enhanced or restored, mitochondrial function is rescued, dysfunctional neurotransmission is restored, and the damaging effects of neuroinflammation are dampened. Lastly, we highlight the role of a novel pharmacological class of agents that enhance retromer function as a strategy for potentially slowing the progression of these neurodegenerative diseases in in vivo models of PD and ALS. We discuss the challenges in targeting the retromer, current limitations and potential off-target effects of retromer enhancement. Overall, the retromer regulates shared mechanisms across neurodegenerative diseases and retromer enhancers could represent a novel disease-modifying strategy in AD, PD and ALS.",
-      "journal": "Molecular neurodegeneration",
-      "authors": [
-        "Persico M",
-        "Tuithung S",
-        "Lorenzo A",
-        "Crawford D",
-        "Eleuteri S",
-        "Simon DK"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723096/"
-    },
-    {
-      "id": "pmid-42701881",
-      "pmid": "42701881",
-      "doi": "10.1080/10715762.2026.2729677",
-      "title": "The role of overdose folic acid in promoting neuroinflammation, oxidative stress, and apoptosis in SOD1-G93A mice.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative condition that involves the targeted degeneration of motor neurons. The precise pathogenetic mechanisms are still largely unclear. In this study, we utilized the SOD1-G93A mouse model of ALS to investigate the effects of folic acid (FA), an important factor involved in homocysteine metabolism. Our results indicated that a little FA prolonged the lifespan of the SOD1-G93A mice and medium and high-dose FA significantly shortened the lifespan of the SOD1-G93A mice. Furthermore, we observed that an overdose of FA significantly elevated inflammation levels in the cerebellum, as evidenced by increased concentrations of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), cluster of differentiation 68 (CD68), cluster of differentiation 86 (CD86), and monocyte chemoattractant protein-1 (MCP-1), facilitating microglial activation. The low-dose FA effects were the opposite of the overdose FA. Additionally, high-dose FA increased the levels of phosphorylated p65 (p-p65)/p65, thereby promoting the NF-κB signaling pathway. Conversely, high-dose FA inhibited the expression of total superoxide dismutase (T-SOD) while increasing the level of malondialdehyde (MDA) in the cerebellum; these effects were not observed in muscle tissue. Moreover, high-dose FA elevated the levels of Bax2/Bcl-2. Concurrently, high-dose FA induced increased apoptosis in SOD1-G93A mice, as demonstrated by TUNEL staining. Notably, the brain iron content of SOD1-G93A mice remained unchanged following FA treatment. These findings provide evidence that an overdose of FA supplementation may exert pro-inflammatory effects by promoting the NF-κB pathway, oxidative stress, and apoptosis in the context of ALS.",
-      "journal": "Free radical research",
-      "authors": [
-        "Zhu Y",
-        "Zhang Y",
-        "Yan T",
-        "Li Y",
-        "Du H",
-        "Zhang S",
-        "Zhang T",
-        "Zhou W"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701881/"
     }
   ]
 }

@@ -2,52 +2,46 @@
 
 - [ ] [高优先级] 碱基编辑在小鼠和患者来源的iPSC类器官模型中挽救遗传性运动神经元病 (pmid-42740795)
   - https://pubmed.ncbi.nlm.nih.gov/42740795/
-- [ ] [高优先级] 胸腺是肌萎缩侧索硬化病理生理学的靶器官和维持者 (pmid-42756835)
+- [ ] [高优先级] 胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者 (pmid-42756835)
   - https://pubmed.ncbi.nlm.nih.gov/42756835/
 - [ ] [高优先级] 弥合肌萎缩侧索硬化症临床试验的可信度差距 (pmid-42685299)
   - https://pubmed.ncbi.nlm.nih.gov/42685299/
-- [ ] 从愿景到验证：托夫生治疗超氧化物歧化酶1基因相关肌萎缩侧索硬化症的历程 (pmid-42751043)
+- [ ] 从愿景到验证：托夫生（Tofersen）在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程 (pmid-42751043)
   - https://pubmed.ncbi.nlm.nih.gov/42751043/
-- [ ] 草药纳米颗粒治疗神经退行性疾病：从分子机制到治疗转化 (pmid-42719214)
+- [ ] 草药纳米颗粒在神经退行性疾病治疗中的应用：从分子机制到治疗转化 (pmid-42719214)
   - https://pubmed.ncbi.nlm.nih.gov/42719214/
 - [ ] [高优先级] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
   - https://pubmed.ncbi.nlm.nih.gov/42666931/
+- [ ] 代谢物、脑容量与肌萎缩侧索硬化之间的因果关系：一项两步孟德尔随机化分析 (pmid-42760704)
+  - https://pubmed.ncbi.nlm.nih.gov/42760704/
+- [ ] [疑似误收] [高优先级] RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善 (pmid-42760307)
+  - https://pubmed.ncbi.nlm.nih.gov/42760307/
+- [ ] [高优先级] 细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点 (pmid-42759848)
+  - https://pubmed.ncbi.nlm.nih.gov/42759848/
 - [ ] [疑似误收] [高优先级] ALS运动表型测量的是什么？基于人群的预后维度分解研究 (pmid-42758317)
   - https://pubmed.ncbi.nlm.nih.gov/42758317/
-- [ ] 组胺H3受体拮抗剂硫丙咪胺减轻肌萎缩侧索硬化SOD1 G93A小鼠模型中的神经免疫激活和炎症 (pmid-42745510)
+- [ ] 组胺H3受体拮抗剂硫丙拉明可减轻肌萎缩侧索硬化SOD1 G93A小鼠模型中的神经免疫激活和炎症 (pmid-42745510)
   - https://pubmed.ncbi.nlm.nih.gov/42745510/
-- [ ] [疑似误收] 元认知信念在帕金森病冲动控制障碍和成瘾样行为中的作用：一项探索性研究 (epmc-PMC-PMC13582548)
-  - https://europepmc.org/article/PMC/PMC13582548
-- [ ] [疑似误收] KAT5：中枢神经系统疾病的表观遗传调控因子 (epmc-PMC-PMC13583670)
-  - https://europepmc.org/article/PMC/PMC13583670
-- [ ] [疑似误收] 超急性和急性中枢神经系统损伤犬的脑脊液样本中载脂蛋白E（ApoE）可检测性升高 (epmc-PMC-PMC13584952)
-  - https://europepmc.org/article/PMC/PMC13584952
-- [ ] [疑似误收] 一例年轻成人中与潜在遗传变异相关的复发性严重病毒诱导性横纹肌溶解症：病例报告 (epmc-PMC-PMC13581944)
-  - https://europepmc.org/article/PMC/PMC13581944
-- [ ] [疑似误收] 早发性痴呆的临床特征与神经精神表现：泰国北部一家三级医疗中心的回顾性横断面研究 (epmc-PMC-PMC13582472)
-  - https://europepmc.org/article/PMC/PMC13582472
-- [ ] [疑似误收] 不宁腿综合征中的多维铁代谢异常与肠-脑轴相互作用：从外周缺乏到中枢失调 (epmc-PMC-PMC13583189)
-  - https://europepmc.org/article/PMC/PMC13583189
+- [ ] [高优先级] 恢复多个TDP-43隐性靶标而非仅Unc13a可挽救运动神经元疾病 (epmc-PPR-PPR1322482)
+  - https://doi.org/10.64898/2026.09.11.751082
 - [ ] [疑似误收] 多聚谷氨酰胺扩展的ataxin-3与Machado-Joseph病中的线粒体改变相关 (epmc-MED-42755372)
   - https://doi.org/10.1242/dmm.052757
 - [ ] 运动神经元病中窒息的管理：患者与公众参与共同制定的混合方法研究方案 (pmid-42754903)
   - https://pubmed.ncbi.nlm.nih.gov/42754903/
-- [ ] 全氟和多氟烷基物质（PFAS）暴露及消防经历与既往与肌萎缩侧索硬化（ALS）相关的微小RNA特征之间的关联：一项针对现役市政和机场消防员的横断面分析 (pmid-42753929)
+- [ ] 全氟和多氟烷基物质（PFAS）暴露及消防员经历与既往与肌萎缩侧索硬化（ALS）相关的微小RNA特征之间的关联：一项针对现役市政和机场消防员的横断面分析 (pmid-42753929)
   - https://pubmed.ncbi.nlm.nih.gov/42753929/
-- [ ] 神经治疗药物开发中的新方法学 (pmid-42753291)
-  - https://pubmed.ncbi.nlm.nih.gov/42753291/
-- [ ] [高优先级] 肌萎缩侧索硬化中语言与执行功能衰退的不同细胞表型 (pmid-42551425)
-  - https://pubmed.ncbi.nlm.nih.gov/42551425/
 - [ ] [疑似误收] 血小板因子4在认知、免疫和造血衰老中的作用：新出现的证据与转化挑战 (epmc-PMC-PMC13579907)
   - https://europepmc.org/article/PMC/PMC13579907
-- [ ] [疑似误收] 待复核翻译：Neuromotor Compromise as a Presenting Symptom in Advanced Lower Extremity Soft Tissue Sarcoma: A Case Series (epmc-PMC-PMC13581332)
+- [ ] [疑似误收] 神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列 (epmc-PMC-PMC13581332)
   - https://europepmc.org/article/PMC/PMC13581332
+- [ ] [疑似误收] 通过血浆蛋白质组学识别具有不同生存结局的ALS患者分子亚群 (epmc-PPR-PPR1322647)
+  - https://doi.org/10.64898/2026.09.16.26362998
+- [ ] [疑似误收] 脑机接口中的人工智能代理：将推理与控制分离 (epmc-PPR-PPR1322637)
+  - https://doi.org/10.64898/2026.09.13.26362955
+- [ ] [疑似误收] 神经治疗药物开发中的新方法学 (epmc-MED-42753291)
+  - https://doi.org/10.1016/j.neurot.2026.e01056
 - [ ] [疑似误收] Protein expression is amplified by stabilizing mRNA using gene-specific 反义寡核苷酸s (epmc-PPR-PPR1321758)
   - https://doi.org/10.64898/2026.09.14.749961
-- [ ] [疑似误收] 待复核翻译：Measuring motor intent for BCI control-A comparative analysis of signal quality of simultaneously recorded vECoG and scalp EEG. (epmc-MED-42750660)
-  - https://doi.org/10.1088/1741-2552/ae9eef
-- [ ] 待复核翻译：Non-invasive ventilation (NIV) and high-flow nasal therapy (HFNT) in palliative care: a critical narrative review. (pmid-42749468)
-  - https://pubmed.ncbi.nlm.nih.gov/42749468/
 - [ ] [高优先级] 待复核翻译：iBCI Optimization for Veterans With Paralysis (trial-NCT05470478)
   - https://clinicaltrials.gov/study/NCT05470478
 - [ ] [高优先级] Ph1 T-Regulatory Cells in 肌萎缩侧索硬化症 (trial-NCT03241784)
