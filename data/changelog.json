@@ -1,33 +1,49 @@
 {
-  "updatedAt": "2026-09-20T00:09:25.055Z",
-  "previousSnapshot": "data/archive/2026-09-19.json",
+  "updatedAt": "2026-09-21T00:16:05.094Z",
+  "previousSnapshot": "data/archive/2026-09-20.json",
   "current": "data/items.json",
   "summary": {
-    "added": 7,
-    "removed": 10,
-    "changed": 6
+    "added": 4,
+    "removed": 12,
+    "changed": 11
   },
   "added": [
     {
-      "id": "pmid-42760704",
-      "titleZh": "代谢物、脑容量与肌萎缩侧索硬化之间的因果关系：一项两步孟德尔随机化分析",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760704/"
-    },
-    {
-      "id": "pmid-42760307",
-      "titleZh": "RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
-    },
-    {
-      "id": "pmid-42759848",
-      "titleZh": "细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点",
+      "id": "pmid-42674126",
+      "titleZh": "选择性靶向少突胶质细胞GPR17受体改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674126/"
+    },
+    {
+      "id": "pmid-42763025",
+      "titleZh": "TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763025/"
+    },
+    {
+      "id": "pmid-42762936",
+      "titleZh": "ATP13A2-ITCH-ALIX信号缺陷损害腔内囊泡生成并增加神经元易感性",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762936/"
+    },
+    {
+      "id": "pmid-42762093",
+      "titleZh": "致病性ERBB4变异与肌萎缩侧索硬化症的关联较弱",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762093/"
+    }
+  ],
+  "removed": [
+    {
+      "id": "pmid-42740795",
+      "titleZh": "碱基编辑在小鼠和患者来源的iPSC类器官模型中挽救遗传性运动神经元病",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42740795/"
     },
     {
       "id": "epmc-PPR-PPR1322482",
@@ -35,6 +51,41 @@
       "category": "机制",
       "priority": "high",
       "url": "https://doi.org/10.64898/2026.09.11.751082"
+    },
+    {
+      "id": "epmc-MED-42755372",
+      "titleZh": "多聚谷氨酰胺扩展的ataxin-3与Machado-Joseph病中的线粒体改变相关",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.1242/dmm.052757"
+    },
+    {
+      "id": "pmid-42754903",
+      "titleZh": "运动神经元病中窒息的管理：患者与公众参与共同制定的混合方法研究方案",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754903/"
+    },
+    {
+      "id": "pmid-42753929",
+      "titleZh": "全氟和多氟烷基物质（PFAS）暴露及消防员经历与既往与肌萎缩侧索硬化（ALS）相关的微小RNA特征之间的关联：一项针对现役市政和机场消防员的横断面分析",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753929/"
+    },
+    {
+      "id": "epmc-PMC-PMC13579907",
+      "titleZh": "血小板因子4在认知、免疫和造血衰老中的作用：新出现的证据与转化挑战",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13579907"
+    },
+    {
+      "id": "epmc-PMC-PMC13581332",
+      "titleZh": "神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13581332"
     },
     {
       "id": "epmc-PPR-PPR1322647",
@@ -56,89 +107,31 @@
       "category": "治疗",
       "priority": "medium",
       "url": "https://doi.org/10.1016/j.neurot.2026.e01056"
-    }
-  ],
-  "removed": [
-    {
-      "id": "epmc-PMC-PMC13582548",
-      "titleZh": "元认知信念在帕金森病冲动控制障碍和成瘾样行为中的作用：一项探索性研究",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13582548"
     },
     {
-      "id": "epmc-PMC-PMC13583670",
-      "titleZh": "KAT5：中枢神经系统疾病的表观遗传调控因子",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13583670"
-    },
-    {
-      "id": "epmc-PMC-PMC13584952",
-      "titleZh": "超急性和急性中枢神经系统损伤犬的脑脊液样本中载脂蛋白E（ApoE）可检测性升高",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13584952"
-    },
-    {
-      "id": "epmc-PMC-PMC13581944",
-      "titleZh": "一例年轻成人中与潜在遗传变异相关的复发性严重病毒诱导性横纹肌溶解症：病例报告",
-      "category": "遗传",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13581944"
-    },
-    {
-      "id": "epmc-PMC-PMC13582472",
-      "titleZh": "早发性痴呆的临床特征与神经精神表现：泰国北部一家三级医疗中心的回顾性横断面研究",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13582472"
-    },
-    {
-      "id": "epmc-PMC-PMC13583189",
-      "titleZh": "不宁腿综合征中的多维铁代谢异常与肠-脑轴相互作用：从外周缺乏到中枢失调",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13583189"
-    },
-    {
-      "id": "pmid-42753291",
-      "titleZh": "神经治疗药物开发中的新方法学",
+      "id": "epmc-PPR-PPR1321758",
+      "titleZh": "Protein expression is amplified by stabilizing mRNA using gene-specific 反义寡核苷酸s",
       "category": "治疗",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42753291/"
+      "url": "https://doi.org/10.64898/2026.09.14.749961"
     },
     {
-      "id": "pmid-42551425",
-      "titleZh": "肌萎缩侧索硬化中语言与执行功能衰退的不同细胞表型",
+      "id": "pmid-42756552",
+      "titleZh": "待复核翻译：Metabolic alterations in the absence of a neuromuscular phenotype in humanized SOD1 A5V mice.",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551425/"
-    },
-    {
-      "id": "epmc-MED-42750660",
-      "titleZh": "待复核翻译：Measuring motor intent for BCI control-A comparative analysis of signal quality of simultaneously recorded vECoG and scalp EEG.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1088/1741-2552/ae9eef"
-    },
-    {
-      "id": "pmid-42749468",
-      "titleZh": "待复核翻译：Non-invasive ventilation (NIV) and high-flow nasal therapy (HFNT) in palliative care: a critical narrative review.",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749468/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756552/"
     }
   ],
   "changed": [
     {
-      "id": "pmid-42685299",
-      "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
+      "id": "pmid-42756835",
+      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
       "changes": [
         {
-          "field": "evidenceLevel",
-          "before": "专家评论/观点文章",
-          "after": "专家观点/评论文章（非原始临床试验）"
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
         }
       ]
     },
@@ -148,8 +141,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "待人工判定",
-          "after": "待人工判定（综述/述评，无摘要，无法评估证据等级）"
+          "before": "待人工判定（综述/述评，无摘要，无法评估证据等级）",
+          "after": "待人工判定（原始元数据未提供摘要及研究设计信息，无法判定证据等级）"
         }
       ]
     },
@@ -159,41 +152,101 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "综述/评论",
-          "after": "专家评论/综述（基于家族病例报道的评论文章）"
+          "before": "专家评论/综述（基于家族病例报道的评论文章）",
+          "after": "专家评论/综述"
         }
       ]
     },
     {
-      "id": "pmid-42754903",
-      "titleZh": "运动神经元病中窒息的管理：患者与公众参与共同制定的混合方法研究方案",
+      "id": "pmid-42760704",
+      "titleZh": "代谢物、脑容量与肌萎缩侧索硬化之间的因果关系：一项两步孟德尔随机化分析",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "研究方案（混合方法、多中心、PPI共同设计），非干预性疗效试验",
-          "after": "研究方案（患者与公众参与共同设计的混合方法研究方案）"
+          "before": "遗传关联研究（孟德尔随机化）",
+          "after": "遗传关联研究（孟德尔随机化），证据等级待人工判定"
         }
       ]
     },
     {
-      "id": "pmid-42753929",
-      "titleZh": "全氟和多氟烷基物质（PFAS）暴露及消防员经历与既往与肌萎缩侧索硬化（ALS）相关的微小RNA特征之间的关联：一项针对现役市政和机场消防员的横断面分析",
+      "id": "pmid-42760307",
+      "titleZh": "RNA疗法的首例：一名罕见运动神经元病患者治疗后病情改善",
       "changes": [
         {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        },
+        {
           "field": "evidenceLevel",
-          "before": "横断面观察性研究（人群关联分析）",
-          "after": "横断面观察性研究（待人工判定）"
+          "before": "待人工判定（现有元数据仅为新闻报道题名，无摘要、无试验登记信息，无法进行证据分级）",
+          "after": "新闻/简讯类报道，无摘要与试验登记信息，证据等级待人工判定"
         }
       ]
     },
     {
-      "id": "epmc-PMC-PMC13581332",
-      "titleZh": "神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列",
+      "id": "trial-NCT05470478",
+      "titleZh": "面向瘫痪退伍军人的植入式脑机接口优化",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "trial-NCT03241784",
+      "titleZh": "1期调节性T细胞治疗肌萎缩侧索硬化",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "trial-NCT02164253",
+      "titleZh": "早期ALS（肌萎缩侧索硬化）患者脑区局灶性铁蓄积",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "trial-NCT07091799",
+      "titleZh": "测量血液单核细胞上的P2X4受体作为肌萎缩侧索硬化诊断标志物的价值：P2X4作为ALS诊断生物标志物",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "trial-NCT06199284",
+      "titleZh": "Atalante外骨骼在肌萎缩侧索硬化患者康复中的应用",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42758722",
+      "titleZh": "常规血液检测中的血清钠-氯差值可反映肌萎缩侧索硬化患者的二氧化碳潴留",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "机制研究",
-          "after": "病例系列（机制研究标签，但原始来源未提供摘要）"
+          "before": "观察性临床研究",
+          "after": "观察性临床研究（单中心回顾性队列，诊断准确性分析）"
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T00:09:25.006Z",
+  "updatedAt": "2026-09-21T00:16:05.045Z",
   "summary": {
-    "totalItems": 38,
-    "issueCount": 45
+    "totalItems": 30,
+    "issueCount": 21
   },
   "sources": [
     {
@@ -12,8 +12,9 @@
     },
     {
       "source": "Europe PMC",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "www.ebi.ac.uk returned HTTP 500"
     },
     {
       "source": "ClinicalTrials.gov",
@@ -25,12 +26,12 @@
     {
       "id": "pmid-42760307",
       "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
-      "titleZh": "RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善",
+      "titleZh": "RNA疗法的首例：一名罕见运动神经元病患者治疗后病情改善",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（现有元数据仅为新闻报道题名，无摘要、无试验登记信息，无法进行证据分级）",
+      "evidenceLevel": "新闻/简讯类报道，无摘要与试验登记信息，证据等级待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
     },
     {
@@ -43,116 +44,16 @@
       "relevanceFlag": "low",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42758317/"
-    },
-    {
-      "id": "epmc-MED-42755372",
-      "title": "PolyQ-expanded ataxin-3 is associated with mitochondrial alterations in Machado-Joseph disease.",
-      "titleZh": "多聚谷氨酰胺扩展的ataxin-3与Machado-Joseph病中的线粒体改变相关",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1242/dmm.052757"
-    },
-    {
-      "id": "epmc-PMC-PMC13579907",
-      "title": "Platelet factor 4 in cognitive, immune and hematopoietic aging: emerging evidence and translational challenges",
-      "titleZh": "血小板因子4在认知、免疫和造血衰老中的作用：新出现的证据与转化挑战",
-      "category": "机制",
-      "evidenceLevel": "机制研究（综述）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13579907"
-    },
-    {
-      "id": "epmc-PMC-PMC13581332",
-      "title": "Neuromotor Compromise as a Presenting Symptom in Advanced Lower Extremity Soft Tissue Sarcoma: A Case Series",
-      "titleZh": "神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列",
-      "category": "机制",
-      "evidenceLevel": "病例系列（机制研究标签，但原始来源未提供摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13581332"
-    },
-    {
-      "id": "epmc-PPR-PPR1322647",
-      "title": "Molecular subgroups of ALS patients with distinct survival outcomes identified through plasma proteomics",
-      "titleZh": "通过血浆蛋白质组学识别具有不同生存结局的ALS患者分子亚群",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.16.26362998"
-    },
-    {
-      "id": "epmc-PPR-PPR1322637",
-      "title": "AI agents at the brain-computer interface: separating inference from control",
-      "titleZh": "脑机接口中的人工智能代理：将推理与控制分离",
-      "category": "机制",
-      "evidenceLevel": "机制研究（预印本，无摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.13.26362955"
-    },
-    {
-      "id": "epmc-MED-42753291",
-      "title": "New approach methodologies in neurotherapeutics development.",
-      "titleZh": "神经治疗药物开发中的新方法学",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.neurot.2026.e01056"
-    },
-    {
-      "id": "epmc-PPR-PPR1321758",
-      "title": "Protein expression is amplified by stabilizing mRNA using gene-specific antisense oligonucleotides",
-      "titleZh": "Protein expression is amplified by stabilizing mRNA using gene-specific 反义寡核苷酸s",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.14.749961"
     }
   ],
-  "missingIdentifiers": [
-    {
-      "id": "epmc-PMC-PMC13579907",
-      "title": "Platelet factor 4 in cognitive, immune and hematopoietic aging: emerging evidence and translational challenges",
-      "titleZh": "血小板因子4在认知、免疫和造血衰老中的作用：新出现的证据与转化挑战",
-      "category": "机制",
-      "evidenceLevel": "机制研究（综述）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13579907"
-    },
-    {
-      "id": "epmc-PMC-PMC13581332",
-      "title": "Neuromotor Compromise as a Presenting Symptom in Advanced Lower Extremity Soft Tissue Sarcoma: A Case Series",
-      "titleZh": "神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列",
-      "category": "机制",
-      "evidenceLevel": "病例系列（机制研究标签，但原始来源未提供摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13581332"
-    }
-  ],
+  "missingIdentifiers": [],
   "missingAbstract": [
     {
       "id": "pmid-42751043",
       "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
       "titleZh": "从愿景到验证：托夫生（Tofersen）在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（综述/述评，无摘要，无法评估证据等级）",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要及研究设计信息，无法判定证据等级）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "medium",
@@ -161,126 +62,16 @@
     {
       "id": "pmid-42760307",
       "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
-      "titleZh": "RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善",
+      "titleZh": "RNA疗法的首例：一名罕见运动神经元病患者治疗后病情改善",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（现有元数据仅为新闻报道题名，无摘要、无试验登记信息，无法进行证据分级）",
+      "evidenceLevel": "新闻/简讯类报道，无摘要与试验登记信息，证据等级待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
-    },
-    {
-      "id": "epmc-PPR-PPR1322482",
-      "title": "Restoring multiple TDP-43 cryptic targets, but not solely Unc13a, rescues motor neuron disease",
-      "titleZh": "恢复多个TDP-43隐性靶标而非仅Unc13a可挽救运动神经元疾病",
-      "category": "机制",
-      "evidenceLevel": "机制研究（预印本，无摘要）",
-      "relevanceScore": 6,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.09.11.751082"
-    },
-    {
-      "id": "epmc-MED-42755372",
-      "title": "PolyQ-expanded ataxin-3 is associated with mitochondrial alterations in Machado-Joseph disease.",
-      "titleZh": "多聚谷氨酰胺扩展的ataxin-3与Machado-Joseph病中的线粒体改变相关",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1242/dmm.052757"
-    },
-    {
-      "id": "epmc-PMC-PMC13579907",
-      "title": "Platelet factor 4 in cognitive, immune and hematopoietic aging: emerging evidence and translational challenges",
-      "titleZh": "血小板因子4在认知、免疫和造血衰老中的作用：新出现的证据与转化挑战",
-      "category": "机制",
-      "evidenceLevel": "机制研究（综述）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13579907"
-    },
-    {
-      "id": "epmc-PMC-PMC13581332",
-      "title": "Neuromotor Compromise as a Presenting Symptom in Advanced Lower Extremity Soft Tissue Sarcoma: A Case Series",
-      "titleZh": "神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列",
-      "category": "机制",
-      "evidenceLevel": "病例系列（机制研究标签，但原始来源未提供摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13581332"
-    },
-    {
-      "id": "epmc-PPR-PPR1322647",
-      "title": "Molecular subgroups of ALS patients with distinct survival outcomes identified through plasma proteomics",
-      "titleZh": "通过血浆蛋白质组学识别具有不同生存结局的ALS患者分子亚群",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.16.26362998"
-    },
-    {
-      "id": "epmc-PPR-PPR1322637",
-      "title": "AI agents at the brain-computer interface: separating inference from control",
-      "titleZh": "脑机接口中的人工智能代理：将推理与控制分离",
-      "category": "机制",
-      "evidenceLevel": "机制研究（预印本，无摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.13.26362955"
-    },
-    {
-      "id": "epmc-MED-42753291",
-      "title": "New approach methodologies in neurotherapeutics development.",
-      "titleZh": "神经治疗药物开发中的新方法学",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.neurot.2026.e01056"
-    },
-    {
-      "id": "epmc-PPR-PPR1321758",
-      "title": "Protein expression is amplified by stabilizing mRNA using gene-specific antisense oligonucleotides",
-      "titleZh": "Protein expression is amplified by stabilizing mRNA using gene-specific 反义寡核苷酸s",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.14.749961"
     }
   ],
   "highPriorityNeedsReview": [
-    {
-      "id": "pmid-42740795",
-      "title": "Base editing rescues a hereditary motor neuron disease in mouse and patient-derived iPSC organoid models.",
-      "titleZh": "碱基编辑在小鼠和患者来源的iPSC类器官模型中挽救遗传性运动神经元病",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42740795/"
-    },
-    {
-      "id": "pmid-42756835",
-      "title": "The thymus gland is a target and maintainer of amyotrophic lateral sclerosis pathophysiology.",
-      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756835/"
-    },
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
@@ -293,26 +84,37 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685299/"
     },
     {
+      "id": "pmid-42674126",
+      "title": "Selective targeting of the oligodendroglial GPR17 receptor improves myelin integrity and motor function in female SOD1 G93A mice.",
+      "titleZh": "选择性靶向少突胶质细胞GPR17受体改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674126/"
+    },
+    {
       "id": "pmid-42666931",
       "title": "ATXN2 Spectrum Disorders: Genetic Complexity Beyond Dominant Inheritance.",
       "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "category": "临床试验",
-      "evidenceLevel": "专家评论/综述（基于家族病例报道的评论文章）",
+      "evidenceLevel": "专家评论/综述",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
     },
     {
-      "id": "pmid-42760307",
-      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
-      "titleZh": "RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定（现有元数据仅为新闻报道题名，无摘要、无试验登记信息，无法进行证据分级）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
+      "id": "pmid-42763025",
+      "title": "TBK1 overexpression reduces neuronal loss in the P497S UBQLN2 mouse model of ALS/FTD.",
+      "titleZh": "TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763025/"
     },
     {
       "id": "pmid-42759848",
@@ -335,83 +137,6 @@
       "relevanceFlag": "low",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42758317/"
-    },
-    {
-      "id": "epmc-PPR-PPR1322482",
-      "title": "Restoring multiple TDP-43 cryptic targets, but not solely Unc13a, rescues motor neuron disease",
-      "titleZh": "恢复多个TDP-43隐性靶标而非仅Unc13a可挽救运动神经元疾病",
-      "category": "机制",
-      "evidenceLevel": "机制研究（预印本，无摘要）",
-      "relevanceScore": 6,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://doi.org/10.64898/2026.09.11.751082"
-    },
-    {
-      "id": "trial-NCT05470478",
-      "title": "iBCI Optimization for Veterans With Paralysis",
-      "titleZh": "待复核翻译：iBCI Optimization for Veterans With Paralysis",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05470478"
-    },
-    {
-      "id": "trial-NCT03241784",
-      "title": "Ph1 T-Regulatory Cells in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Ph1 T-Regulatory Cells in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03241784"
-    },
-    {
-      "id": "trial-NCT02164253",
-      "title": "Focal Accumulation of Iron in Cerebral Regions in Early ALS (Amyotrophic Lateral Sclerosis) Patients",
-      "titleZh": "Focal Accumulation of Iron in Cerebral Regions in Early ALS (肌萎缩侧索硬化症) Patients",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02164253"
-    },
-    {
-      "id": "trial-NCT07091799",
-      "title": "Interest of Measuring P2X4 Receptors on Blood Monocytes as a Diagnostic Marker in Amyotrophic Lateral Sclerosis: P2X4 as a Diagnostic Biomarker for ALS",
-      "titleZh": "Interest of Measuring P2X4 Receptors on Blood Monocytes as a Diagnostic Marker in 肌萎缩侧索硬化症: P2X4 as a Diagnostic 生物标志物 for ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07091799"
-    },
-    {
-      "id": "trial-NCT06199284",
-      "title": "Atalante Exoskeleton in the Rehabilitation of Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Atalante Exoskeleton in the Rehabilitation of Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06199284"
-    },
-    {
-      "id": "pmid-42756552",
-      "title": "Metabolic alterations in the absence of a neuromuscular phenotype in humanized SOD1 A5V mice.",
-      "titleZh": "待复核翻译：Metabolic alterations in the absence of a neuromuscular phenotype in humanized SOD1 A5V mice.",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756552/"
     },
     {
       "id": "trial-NCT07268833",
@@ -524,20 +249,27 @@
       "url": "https://clinicaltrials.gov/study/NCT00047723"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    {
+      "source": "Europe PMC",
+      "ok": false,
+      "count": 0,
+      "error": "www.ebi.ac.uk returned HTTP 500"
+    }
+  ],
   "issueCounts": {
-    "疑似误收": 9,
-    "缺标识符": 2,
-    "缺摘要": 10,
-    "高优先级待复核": 24,
-    "来源失败": 0
+    "疑似误收": 2,
+    "缺标识符": 0,
+    "缺摘要": 2,
+    "高优先级待复核": 16,
+    "来源失败": 1
   },
   "reviewCounts": {
-    "待复核": 38
+    "待复核": 30
   },
   "relevanceCounts": {
     "high": 26,
-    "medium": 3,
-    "low": 9
+    "medium": 2,
+    "low": 2
   }
 }

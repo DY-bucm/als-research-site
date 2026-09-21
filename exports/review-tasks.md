@@ -1,8 +1,6 @@
 # 复核任务清单
 
-- [ ] [高优先级] 碱基编辑在小鼠和患者来源的iPSC类器官模型中挽救遗传性运动神经元病 (pmid-42740795)
-  - https://pubmed.ncbi.nlm.nih.gov/42740795/
-- [ ] [高优先级] 胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者 (pmid-42756835)
+- [ ] 胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者 (pmid-42756835)
   - https://pubmed.ncbi.nlm.nih.gov/42756835/
 - [ ] [高优先级] 弥合肌萎缩侧索硬化症临床试验的可信度差距 (pmid-42685299)
   - https://pubmed.ncbi.nlm.nih.gov/42685299/
@@ -10,11 +8,19 @@
   - https://pubmed.ncbi.nlm.nih.gov/42751043/
 - [ ] 草药纳米颗粒在神经退行性疾病治疗中的应用：从分子机制到治疗转化 (pmid-42719214)
   - https://pubmed.ncbi.nlm.nih.gov/42719214/
+- [ ] [高优先级] 选择性靶向少突胶质细胞GPR17受体改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能 (pmid-42674126)
+  - https://pubmed.ncbi.nlm.nih.gov/42674126/
 - [ ] [高优先级] ATXN2 谱系疾病：超越显性遗传的遗传复杂性 (pmid-42666931)
   - https://pubmed.ncbi.nlm.nih.gov/42666931/
+- [ ] [高优先级] TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失 (pmid-42763025)
+  - https://pubmed.ncbi.nlm.nih.gov/42763025/
+- [ ] ATP13A2-ITCH-ALIX信号缺陷损害腔内囊泡生成并增加神经元易感性 (pmid-42762936)
+  - https://pubmed.ncbi.nlm.nih.gov/42762936/
+- [ ] 致病性ERBB4变异与肌萎缩侧索硬化症的关联较弱 (pmid-42762093)
+  - https://pubmed.ncbi.nlm.nih.gov/42762093/
 - [ ] 代谢物、脑容量与肌萎缩侧索硬化之间的因果关系：一项两步孟德尔随机化分析 (pmid-42760704)
   - https://pubmed.ncbi.nlm.nih.gov/42760704/
-- [ ] [疑似误收] [高优先级] RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善 (pmid-42760307)
+- [ ] [疑似误收] RNA疗法的首例：一名罕见运动神经元病患者治疗后病情改善 (pmid-42760307)
   - https://pubmed.ncbi.nlm.nih.gov/42760307/
 - [ ] [高优先级] 细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点 (pmid-42759848)
   - https://pubmed.ncbi.nlm.nih.gov/42759848/
@@ -22,40 +28,18 @@
   - https://pubmed.ncbi.nlm.nih.gov/42758317/
 - [ ] 组胺H3受体拮抗剂硫丙拉明可减轻肌萎缩侧索硬化SOD1 G93A小鼠模型中的神经免疫激活和炎症 (pmid-42745510)
   - https://pubmed.ncbi.nlm.nih.gov/42745510/
-- [ ] [高优先级] 恢复多个TDP-43隐性靶标而非仅Unc13a可挽救运动神经元疾病 (epmc-PPR-PPR1322482)
-  - https://doi.org/10.64898/2026.09.11.751082
-- [ ] [疑似误收] 多聚谷氨酰胺扩展的ataxin-3与Machado-Joseph病中的线粒体改变相关 (epmc-MED-42755372)
-  - https://doi.org/10.1242/dmm.052757
-- [ ] 运动神经元病中窒息的管理：患者与公众参与共同制定的混合方法研究方案 (pmid-42754903)
-  - https://pubmed.ncbi.nlm.nih.gov/42754903/
-- [ ] 全氟和多氟烷基物质（PFAS）暴露及消防员经历与既往与肌萎缩侧索硬化（ALS）相关的微小RNA特征之间的关联：一项针对现役市政和机场消防员的横断面分析 (pmid-42753929)
-  - https://pubmed.ncbi.nlm.nih.gov/42753929/
-- [ ] [疑似误收] 血小板因子4在认知、免疫和造血衰老中的作用：新出现的证据与转化挑战 (epmc-PMC-PMC13579907)
-  - https://europepmc.org/article/PMC/PMC13579907
-- [ ] [疑似误收] 神经运动功能受损作为晚期下肢软组织肉瘤的首发症状：病例系列 (epmc-PMC-PMC13581332)
-  - https://europepmc.org/article/PMC/PMC13581332
-- [ ] [疑似误收] 通过血浆蛋白质组学识别具有不同生存结局的ALS患者分子亚群 (epmc-PPR-PPR1322647)
-  - https://doi.org/10.64898/2026.09.16.26362998
-- [ ] [疑似误收] 脑机接口中的人工智能代理：将推理与控制分离 (epmc-PPR-PPR1322637)
-  - https://doi.org/10.64898/2026.09.13.26362955
-- [ ] [疑似误收] 神经治疗药物开发中的新方法学 (epmc-MED-42753291)
-  - https://doi.org/10.1016/j.neurot.2026.e01056
-- [ ] [疑似误收] Protein expression is amplified by stabilizing mRNA using gene-specific 反义寡核苷酸s (epmc-PPR-PPR1321758)
-  - https://doi.org/10.64898/2026.09.14.749961
-- [ ] [高优先级] 待复核翻译：iBCI Optimization for Veterans With Paralysis (trial-NCT05470478)
+- [ ] 面向瘫痪退伍军人的植入式脑机接口优化 (trial-NCT05470478)
   - https://clinicaltrials.gov/study/NCT05470478
-- [ ] [高优先级] Ph1 T-Regulatory Cells in 肌萎缩侧索硬化症 (trial-NCT03241784)
+- [ ] 1期调节性T细胞治疗肌萎缩侧索硬化 (trial-NCT03241784)
   - https://clinicaltrials.gov/study/NCT03241784
-- [ ] [高优先级] Focal Accumulation of Iron in Cerebral Regions in Early ALS (肌萎缩侧索硬化症) Patients (trial-NCT02164253)
+- [ ] 早期ALS（肌萎缩侧索硬化）患者脑区局灶性铁蓄积 (trial-NCT02164253)
   - https://clinicaltrials.gov/study/NCT02164253
-- [ ] [高优先级] Interest of Measuring P2X4 Receptors on Blood Monocytes as a Diagnostic Marker in 肌萎缩侧索硬化症: P2X4 as a Diagnostic 生物标志物 for ALS (trial-NCT07091799)
+- [ ] 测量血液单核细胞上的P2X4受体作为肌萎缩侧索硬化诊断标志物的价值：P2X4作为ALS诊断生物标志物 (trial-NCT07091799)
   - https://clinicaltrials.gov/study/NCT07091799
-- [ ] [高优先级] Atalante Exoskeleton in the Rehabilitation of Patients With 肌萎缩侧索硬化症 (trial-NCT06199284)
+- [ ] Atalante外骨骼在肌萎缩侧索硬化患者康复中的应用 (trial-NCT06199284)
   - https://clinicaltrials.gov/study/NCT06199284
-- [ ] Serum Na-Cl value from routine blood tests reflects CO2 retention in 肌萎缩侧索硬化症. (pmid-42758722)
+- [ ] 常规血液检测中的血清钠-氯差值可反映肌萎缩侧索硬化患者的二氧化碳潴留 (pmid-42758722)
   - https://pubmed.ncbi.nlm.nih.gov/42758722/
-- [ ] [高优先级] 待复核翻译：Metabolic alterations in the absence of a neuromuscular phenotype in humanized SOD1 A5V mice. (pmid-42756552)
-  - https://pubmed.ncbi.nlm.nih.gov/42756552/
 - [ ] [高优先级] Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy (trial-NCT07268833)
   - https://clinicaltrials.gov/study/NCT07268833
 - [ ] [高优先级] II 期 Study for SAR443820 in Participants With 肌萎缩侧索硬化症 (ALS) (trial-NCT05237284)
