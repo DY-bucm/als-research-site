@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-21T00:16:05.185Z",
-  "feedUpdatedAt": "2026-09-21",
-  "itemCount": 30,
+  "updatedAt": "2026-09-22T00:49:43.873Z",
+  "feedUpdatedAt": "2026-09-22",
+  "itemCount": 38,
   "sourceStatus": [
     {
       "source": "PubMed",
@@ -10,9 +10,8 @@
     },
     {
       "source": "Europe PMC",
-      "ok": false,
-      "count": 0,
-      "error": "www.ebi.ac.uk returned HTTP 500"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "ClinicalTrials.gov",
@@ -20,8 +19,8 @@
       "count": 15
     }
   ],
-  "qualityIssues": 21,
-  "archiveSnapshots": 87,
+  "qualityIssues": 40,
+  "archiveSnapshots": 88,
   "activeSources": 3,
   "plannedSources": 5
 }

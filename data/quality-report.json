@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T00:16:05.045Z",
+  "updatedAt": "2026-09-22T00:49:43.727Z",
   "summary": {
-    "totalItems": 30,
-    "issueCount": 21
+    "totalItems": 38,
+    "issueCount": 40
   },
   "sources": [
     {
@@ -12,9 +12,8 @@
     },
     {
       "source": "Europe PMC",
-      "ok": false,
-      "count": 0,
-      "error": "www.ebi.ac.uk returned HTTP 500"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "ClinicalTrials.gov",
@@ -24,60 +23,226 @@
   ],
   "lowRelevance": [
     {
+      "id": "epmc-PMC-PMC13585726",
+      "title": "CSF peptidomics reveals an IGF2-derived peptide as a candidate biomarker for neurosyphilis diagnosis",
+      "titleZh": "脑脊液肽组学揭示一种IGF2衍生肽可作为神经梅毒诊断的候选生物标志物",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（原始来源未提供摘要，无法评估研究类型与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13585726"
+    },
+    {
+      "id": "epmc-PPR-PPR1323336",
+      "title": "Genetically Predicted Blood DNA Methylation Reveals Putative Regulatory Signals Associated with ALS Risk",
+      "titleZh": "遗传预测的血液DNA甲基化揭示与ALS风险相关的推定调控信号",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定（预印本，仅有题名，无摘要）",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.17.26363319"
+    },
+    {
+      "id": "epmc-PPR-PPR1323291",
+      "title": "Loss of TDP-43 function drives cryptic circular RNAs in neurodegenerative diseases",
+      "titleZh": "TDP-43功能缺失驱动神经退行性疾病中的隐蔽环状RNA",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定（Europe PMC预印本，无摘要，研究类型与证据等级无法从现有元数据确认）",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.17.752169"
+    },
+    {
       "id": "pmid-42760307",
       "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
       "titleZh": "RNA疗法的首例：一名罕见运动神经元病患者治疗后病情改善",
       "category": "治疗",
-      "evidenceLevel": "新闻/简讯类报道，无摘要与试验登记信息，证据等级待人工判定",
+      "evidenceLevel": "新闻/简讯类报道，PubMed元数据无摘要；具体研究设计与证据等级待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
     },
     {
-      "id": "pmid-42758317",
-      "title": "What do ALS motor phenotypes measure? A population-based decomposition of their prognostic dimensions.",
-      "titleZh": "ALS运动表型测量的是什么？基于人群的预后维度分解研究",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
+      "id": "epmc-MED-42761588",
+      "title": "Uncovering the Novel Genetic Determinants of Primary Congenital Glaucoma in Pakistani Families.",
+      "titleZh": "揭示巴基斯坦家系中原发性先天性青光眼的新遗传决定因素",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定；当前仅有题名与登记字段，无摘要，无法判断研究类型与证据强度",
+      "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42758317/"
+      "priority": "low",
+      "url": "https://doi.org/10.1155/humu/1806353"
+    },
+    {
+      "id": "epmc-MED-42760290",
+      "title": "Toward actionable biomarkers in psychiatry: a collaborative roadmap for precision clinical trials. An ACNP position paper.",
+      "titleZh": "Toward actionable 生物标志物s in psychiatry: a collaborative roadmap for precision 临床试验s. An ACNP position paper.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s44277-026-00069-w"
+    },
+    {
+      "id": "epmc-MED-42758369",
+      "title": "Using Brain Organoids to Explore Human Neurobiology.",
+      "titleZh": "待复核翻译：Using Brain Organoids to Explore Human Neurobiology.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s10571-026-01808-5"
     }
   ],
-  "missingIdentifiers": [],
+  "missingIdentifiers": [
+    {
+      "id": "epmc-PMC-PMC13585726",
+      "title": "CSF peptidomics reveals an IGF2-derived peptide as a candidate biomarker for neurosyphilis diagnosis",
+      "titleZh": "脑脊液肽组学揭示一种IGF2衍生肽可作为神经梅毒诊断的候选生物标志物",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（原始来源未提供摘要，无法评估研究类型与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13585726"
+    }
+  ],
   "missingAbstract": [
     {
       "id": "pmid-42751043",
       "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
       "titleZh": "从愿景到验证：托夫生（Tofersen）在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要及研究设计信息，无法判定证据等级）",
+      "evidenceLevel": "待人工判定（综述/述评，无摘要，无法评估证据等级）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42751043/"
     },
     {
+      "id": "epmc-PMC-PMC13585726",
+      "title": "CSF peptidomics reveals an IGF2-derived peptide as a candidate biomarker for neurosyphilis diagnosis",
+      "titleZh": "脑脊液肽组学揭示一种IGF2衍生肽可作为神经梅毒诊断的候选生物标志物",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（原始来源未提供摘要，无法评估研究类型与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13585726"
+    },
+    {
+      "id": "epmc-PPR-PPR1323336",
+      "title": "Genetically Predicted Blood DNA Methylation Reveals Putative Regulatory Signals Associated with ALS Risk",
+      "titleZh": "遗传预测的血液DNA甲基化揭示与ALS风险相关的推定调控信号",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定（预印本，仅有题名，无摘要）",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.17.26363319"
+    },
+    {
+      "id": "epmc-PPR-PPR1323291",
+      "title": "Loss of TDP-43 function drives cryptic circular RNAs in neurodegenerative diseases",
+      "titleZh": "TDP-43功能缺失驱动神经退行性疾病中的隐蔽环状RNA",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定（Europe PMC预印本，无摘要，研究类型与证据等级无法从现有元数据确认）",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.17.752169"
+    },
+    {
+      "id": "epmc-PPR-PPR1323289",
+      "title": "TDP-43 dysfunction induces cryptic circular RNAs in ALS/FTD",
+      "titleZh": "TDP-43功能障碍在ALS/FTD中诱导隐性环状RNA",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定（仅题名/登记字段，无摘要；预印本，未经同行评议）",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.17.752342"
+    },
+    {
+      "id": "epmc-PPR-PPR1323166",
+      "title": "The role of hsa-miR-21-5p, hsa-miR-210-3p, hsa-miR-197-3p, hsa-miR-125a-5p and hsa-miR-206-3p as circulating microRNA signatures in amyotrophic lateral sclerosis",
+      "titleZh": "hsa-miR-21-5p、hsa-miR-210-3p、hsa-miR-197-3p、hsa-miR-125a-5p 和 hsa-miR-206-3p 作为肌萎缩侧索硬化循环 microRNA 特征的作用",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-10921793/v1"
+    },
+    {
       "id": "pmid-42760307",
       "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
       "titleZh": "RNA疗法的首例：一名罕见运动神经元病患者治疗后病情改善",
       "category": "治疗",
-      "evidenceLevel": "新闻/简讯类报道，无摘要与试验登记信息，证据等级待人工判定",
+      "evidenceLevel": "新闻/简讯类报道，PubMed元数据无摘要；具体研究设计与证据等级待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
+    },
+    {
+      "id": "epmc-MED-42761588",
+      "title": "Uncovering the Novel Genetic Determinants of Primary Congenital Glaucoma in Pakistani Families.",
+      "titleZh": "揭示巴基斯坦家系中原发性先天性青光眼的新遗传决定因素",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定；当前仅有题名与登记字段，无摘要，无法判断研究类型与证据强度",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1155/humu/1806353"
+    },
+    {
+      "id": "epmc-MED-42760290",
+      "title": "Toward actionable biomarkers in psychiatry: a collaborative roadmap for precision clinical trials. An ACNP position paper.",
+      "titleZh": "Toward actionable 生物标志物s in psychiatry: a collaborative roadmap for precision 临床试验s. An ACNP position paper.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s44277-026-00069-w"
+    },
+    {
+      "id": "epmc-MED-42758369",
+      "title": "Using Brain Organoids to Explore Human Neurobiology.",
+      "titleZh": "待复核翻译：Using Brain Organoids to Explore Human Neurobiology.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s10571-026-01808-5"
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-42756835",
+      "title": "The thymus gland is a target and maintainer of amyotrophic lateral sclerosis pathophysiology.",
+      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756835/"
+    },
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
       "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "专家观点/评论文章（非原始临床试验）",
+      "evidenceLevel": "专家观点/评论文章",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
@@ -86,7 +251,7 @@
     {
       "id": "pmid-42674126",
       "title": "Selective targeting of the oligodendroglial GPR17 receptor improves myelin integrity and motor function in female SOD1 G93A mice.",
-      "titleZh": "选择性靶向少突胶质细胞GPR17受体改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
+      "titleZh": "选择性靶向少突胶质细胞GPR17受体可改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 9,
@@ -99,16 +264,27 @@
       "title": "ATXN2 Spectrum Disorders: Genetic Complexity Beyond Dominant Inheritance.",
       "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "category": "临床试验",
-      "evidenceLevel": "专家评论/综述",
+      "evidenceLevel": "专家综述/评论",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
     },
     {
+      "id": "pmid-42764383",
+      "title": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "titleZh": "从携带TARDBP突变的iPSC来源运动神经元中我们能学到什么关于ALS病理生理学的知识：一项系统综述",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
+    },
+    {
       "id": "pmid-42763025",
       "title": "TBK1 overexpression reduces neuronal loss in the P497S UBQLN2 mouse model of ALS/FTD.",
-      "titleZh": "TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失",
+      "titleZh": "TBK1过表达减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
@@ -128,148 +304,185 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
     },
     {
-      "id": "pmid-42758317",
-      "title": "What do ALS motor phenotypes measure? A population-based decomposition of their prognostic dimensions.",
-      "titleZh": "ALS运动表型测量的是什么？基于人群的预后维度分解研究",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42758317/"
-    },
-    {
-      "id": "trial-NCT07268833",
-      "title": "Translating Single-cell Vulnerability Into Novel ALS Biomarkers and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
-      "titleZh": "Translating Single-cell Vulnerability Into Novel ALS 生物标志物s and Therapeutic Targets: Towards a Liquid Nerve Biopsy",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07268833"
-    },
-    {
-      "id": "trial-NCT05237284",
-      "title": "Phase 2 Study for SAR443820 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "II 期 Study for SAR443820 in Participants With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05237284"
-    },
-    {
-      "id": "trial-NCT04719403",
-      "title": "Determining Feasibility and Acceptability of Sharing Video Recordings With Patients With ALS and Caregivers",
-      "titleZh": "待复核翻译：Determining Feasibility and Acceptability of Sharing Video Recordings With Patients With ALS and Caregivers",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04719403"
-    },
-    {
-      "id": "trial-NCT05286372",
-      "title": "An Intermediate Size Expanded Access Protocol of AMX0035 for ALS",
-      "titleZh": "待复核翻译：An Intermediate Size Expanded Access Protocol of AMX0035 for ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05286372"
-    },
-    {
-      "id": "trial-NCT04960540",
-      "title": "Multimodal Brain Imaging Study",
-      "titleZh": "待复核翻译：Multimodal Brain Imaging Study",
+      "id": "trial-NCT06209515",
+      "title": "Sociodemographic Factors and Criminal Behaviour Preceding Neurodegenerative Disease - Retrospective Register Study",
+      "titleZh": "待复核翻译：Sociodemographic Factors and Criminal Behaviour Preceding Neurodegenerative Disease - Retrospective Register Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04960540"
+      "url": "https://clinicaltrials.gov/study/NCT06209515"
     },
     {
-      "id": "trial-NCT02000713",
-      "title": "Cervical Spinal Cord Metabolism and Microstructure in Amyotrophic Lateral Sclerosis(ALS)",
-      "titleZh": "Cervical Spinal Cord Metabolism and Microstructure in 肌萎缩侧索硬化症(ALS)",
+      "id": "trial-NCT06735014",
+      "title": "Multicenter ALS Imaging Study",
+      "titleZh": "待复核翻译：Multicenter ALS Imaging Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02000713"
+      "url": "https://clinicaltrials.gov/study/NCT06735014"
     },
     {
-      "id": "trial-NCT01786174",
-      "title": "Gilenya in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Gilenya in 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT05204017",
+      "title": "Comprehensive Analysis Platform To Understand, Remedy and Eliminate ALS",
+      "titleZh": "待复核翻译：Comprehensive Analysis Platform To Understand, Remedy and Eliminate ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01786174"
+      "url": "https://clinicaltrials.gov/study/NCT05204017"
     },
     {
-      "id": "trial-NCT00213824",
-      "title": "A Study of the Expression of Nogo and Reticulon Genes in Skeletal Muscle of Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "A Study of the Expression of Nogo and Reticulon Genes in Skeletal Muscle of Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT06849609",
+      "title": "A Study to Evaluate the Tolerability, Safety and Efficacy of VGN-R13 in Patients with ALS",
+      "titleZh": "待复核翻译：A Study to Evaluate the Tolerability, Safety and Efficacy of VGN-R13 in Patients with ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00213824"
+      "url": "https://clinicaltrials.gov/study/NCT06849609"
     },
     {
-      "id": "trial-NCT00560287",
-      "title": "Non-Invasive Ventilation in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Non-Invasive Ventilation in 肌萎缩侧索硬化症",
+      "id": "trial-NCT06541873",
+      "title": "Gait Patterns in Dual-task Conditions in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Gait Patterns in Dual-task Conditions in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00560287"
+      "url": "https://clinicaltrials.gov/study/NCT06541873"
     },
     {
-      "id": "trial-NCT00047723",
-      "title": "Minocycline to Treat Amyotrophic Lateral Sclerosis",
-      "titleZh": "Minocycline to Treat 肌萎缩侧索硬化症",
+      "id": "trial-NCT05581771",
+      "title": "Factors Associated With Success of NIPPV in ALS Patients",
+      "titleZh": "待复核翻译：Factors Associated With Success of NIPPV in ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00047723"
+      "url": "https://clinicaltrials.gov/study/NCT05581771"
+    },
+    {
+      "id": "trial-NCT05716074",
+      "title": "The Effect of Low-İntensity Combined Exercises in Patients With Early Stage ALS.",
+      "titleZh": "待复核翻译：The Effect of Low-İntensity Combined Exercises in Patients With Early Stage ALS.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05716074"
+    },
+    {
+      "id": "trial-NCT04557410",
+      "title": "Open Label Study: Treatment of ALS Fatigue With PolyMVA",
+      "titleZh": "待复核翻译：Open Label Study: Treatment of ALS Fatigue With PolyMVA",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04557410"
+    },
+    {
+      "id": "trial-NCT02365922",
+      "title": "Advancing Research and Treatment for Frontotemporal Lobar Degeneration (ARTFL)",
+      "titleZh": "待复核翻译：Advancing Research and Treatment for Frontotemporal Lobar Degeneration (ARTFL)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02365922"
+    },
+    {
+      "id": "trial-NCT04391361",
+      "title": "The Safety and Effectiveness of Cholinergic Receptor Block Therapy in the Treatment of ALS",
+      "titleZh": "待复核翻译：The Safety and Effectiveness of Cholinergic Receptor Block Therapy in the Treatment of ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04391361"
+    },
+    {
+      "id": "trial-NCT03272802",
+      "title": "Treatment Effect of Edaravone in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Treatment Effect of Edaravone in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03272802"
+    },
+    {
+      "id": "trial-NCT01051882",
+      "title": "Autologous Cultured Mesenchymal Bone Marrow Stromal Cells Secreting Neurotrophic Factors (MSC-NTF), in ALS Patients.",
+      "titleZh": "待复核翻译：Autologous Cultured Mesenchymal Bone Marrow Stromal Cells Secreting Neurotrophic Factors (MSC-NTF), in ALS Patients.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01051882"
+    },
+    {
+      "id": "trial-NCT01825551",
+      "title": "The Effect of GCSF in the Treatment of ALS Patients",
+      "titleZh": "待复核翻译：The Effect of GCSF in the Treatment of ALS Patients",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01825551"
+    },
+    {
+      "id": "trial-NCT00580593",
+      "title": "Trial of Early Noninvasive Ventilation for Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Trial of Early Noninvasive Ventilation for 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00580593"
+    },
+    {
+      "id": "trial-NCT00696332",
+      "title": "Talampanel for Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Talampanel for 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00696332"
     }
   ],
-  "failedSources": [
-    {
-      "source": "Europe PMC",
-      "ok": false,
-      "count": 0,
-      "error": "www.ebi.ac.uk returned HTTP 500"
-    }
-  ],
+  "failedSources": [],
   "issueCounts": {
-    "疑似误收": 2,
-    "缺标识符": 0,
-    "缺摘要": 2,
-    "高优先级待复核": 16,
-    "来源失败": 1
+    "疑似误收": 7,
+    "缺标识符": 1,
+    "缺摘要": 10,
+    "高优先级待复核": 22,
+    "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 30
+    "待复核": 38
   },
   "relevanceCounts": {
-    "high": 26,
-    "medium": 2,
-    "low": 2
+    "high": 27,
+    "medium": 4,
+    "low": 7
   }
 }
