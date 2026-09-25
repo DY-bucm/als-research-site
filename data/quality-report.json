@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-24T00:29:53.594Z",
+  "updatedAt": "2026-09-25T00:33:23.278Z",
   "summary": {
-    "totalItems": 38,
-    "issueCount": 40
+    "totalItems": 44,
+    "issueCount": 50
   },
   "sources": [
     {
@@ -41,7 +41,7 @@
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13590551"
     },
     {
@@ -49,21 +49,21 @@
       "title": "Myosteatosis in type 1 diabetes: immunometabolic mechanisms, biomarkers, and therapeutic targets",
       "titleZh": "1型糖尿病中的肌脂肪变性：免疫代谢机制、生物标志物与治疗靶点",
       "category": "治疗",
-      "evidenceLevel": "待人工判定；当前仅有题名和来源信息，无摘要，无法判断研究类型与证据等级",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13591146"
     },
     {
       "id": "epmc-PPR-PPR1324649",
       "title": "ALS as a Multivariable Feedback Instability System: Three‑Variable Dynamical Model, Phase‑Space Analysis, and Optimal Control",
-      "titleZh": "ALS作为多变量反馈不稳定系统：三变量动力学模型、相空间分析与最优控制",
+      "titleZh": "待复核翻译：ALS as a Multivariable Feedback Instability System: Three‑Variable Dynamical Model, Phase‑Space Analysis, and Optimal Control",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，无摘要）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-11104563/v1"
     },
     {
@@ -78,6 +78,17 @@
       "url": "https://europepmc.org/article/PMC/PMC13591226"
     },
     {
+      "id": "epmc-MED-42768102",
+      "title": "Convergent TBK1 loss of function drives gasdermin E dependent pyroptosis and motor neuron degeneration across ALS genotypes.",
+      "titleZh": "待复核翻译：Convergent TBK1 loss of function drives gasdermin E dependent pyroptosis and motor neuron degeneration across ALS genotypes.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41418-026-01874-8"
+    },
+    {
       "id": "epmc-PPR-PPR1324286",
       "title": "VCP is a critical component for TDP-43 disaggregase activity in skeletal muscle",
       "titleZh": "待复核翻译：VCP is a critical component for TDP-43 disaggregase activity in skeletal muscle",
@@ -87,6 +98,39 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.09.14.751559"
+    },
+    {
+      "id": "epmc-PMC-PMC13585726",
+      "title": "CSF peptidomics reveals an IGF2-derived peptide as a candidate biomarker for neurosyphilis diagnosis",
+      "titleZh": "CSF peptidomics reveals an IGF2-derived peptide as a candidate 生物标志物 for neurosyphilis diagnosis",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13585726"
+    },
+    {
+      "id": "epmc-PMC-PMC13591021",
+      "title": "Extracellular Vesicles: Classification, Biological Functions, Diseases, and Therapeutic Opportunities",
+      "titleZh": "待复核翻译：Extracellular Vesicles: Classification, Biological Functions, Diseases, and Therapeutic Opportunities",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13591021"
+    },
+    {
+      "id": "epmc-MED-42764383",
+      "title": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "titleZh": "待复核翻译：What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "category": "遗传",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s40035-026-00580-2"
     }
   ],
   "missingIdentifiers": [
@@ -109,13 +153,13 @@
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13590551"
     },
     {
       "id": "epmc-PMC-PMC13591974",
       "title": "Caregivers in amyotrophic lateral sclerosis (ALS): preliminary results between paid care and family care",
-      "titleZh": "肌萎缩侧索硬化症（ALS）中的照护者：有偿照护与家庭照护之间的初步结果",
+      "titleZh": "肌萎缩侧索硬化（ALS）中的照护者：有偿照护与家庭照护之间的初步结果",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 7,
@@ -128,10 +172,10 @@
       "title": "Myosteatosis in type 1 diabetes: immunometabolic mechanisms, biomarkers, and therapeutic targets",
       "titleZh": "1型糖尿病中的肌脂肪变性：免疫代谢机制、生物标志物与治疗靶点",
       "category": "治疗",
-      "evidenceLevel": "待人工判定；当前仅有题名和来源信息，无摘要，无法判断研究类型与证据等级",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13591146"
     },
     {
@@ -144,6 +188,28 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13591226"
+    },
+    {
+      "id": "epmc-PMC-PMC13585726",
+      "title": "CSF peptidomics reveals an IGF2-derived peptide as a candidate biomarker for neurosyphilis diagnosis",
+      "titleZh": "CSF peptidomics reveals an IGF2-derived peptide as a candidate 生物标志物 for neurosyphilis diagnosis",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13585726"
+    },
+    {
+      "id": "epmc-PMC-PMC13591021",
+      "title": "Extracellular Vesicles: Classification, Biological Functions, Diseases, and Therapeutic Opportunities",
+      "titleZh": "待复核翻译：Extracellular Vesicles: Classification, Biological Functions, Diseases, and Therapeutic Opportunities",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13591021"
     }
   ],
   "missingAbstract": [
@@ -152,7 +218,7 @@
       "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
       "titleZh": "从愿景到验证：托夫生治疗超氧化物歧化酶1基因相关肌萎缩侧索硬化症的历程",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法评估研究设计及证据等级）",
+      "evidenceLevel": "待人工判定（PubMed元数据未提供摘要，无法判断研究类型与证据等级）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "medium",
@@ -177,13 +243,13 @@
       "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13590551"
     },
     {
       "id": "epmc-PMC-PMC13591974",
       "title": "Caregivers in amyotrophic lateral sclerosis (ALS): preliminary results between paid care and family care",
-      "titleZh": "肌萎缩侧索硬化症（ALS）中的照护者：有偿照护与家庭照护之间的初步结果",
+      "titleZh": "肌萎缩侧索硬化（ALS）中的照护者：有偿照护与家庭照护之间的初步结果",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 7,
@@ -196,10 +262,10 @@
       "title": "Myosteatosis in type 1 diabetes: immunometabolic mechanisms, biomarkers, and therapeutic targets",
       "titleZh": "1型糖尿病中的肌脂肪变性：免疫代谢机制、生物标志物与治疗靶点",
       "category": "治疗",
-      "evidenceLevel": "待人工判定；当前仅有题名和来源信息，无摘要，无法判断研究类型与证据等级",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究类型与证据等级）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13591146"
     },
     {
@@ -207,7 +273,7 @@
       "title": "The value of a family history to distinguish monogenic from polygenic amyotrophic lateral sclerosis",
       "titleZh": "家族史在区分单基因型与多基因型肌萎缩侧索硬化中的价值",
       "category": "机制",
-      "evidenceLevel": "机制研究",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
@@ -216,13 +282,24 @@
     {
       "id": "epmc-PPR-PPR1324649",
       "title": "ALS as a Multivariable Feedback Instability System: Three‑Variable Dynamical Model, Phase‑Space Analysis, and Optimal Control",
-      "titleZh": "ALS作为多变量反馈不稳定系统：三变量动力学模型、相空间分析与最优控制",
+      "titleZh": "待复核翻译：ALS as a Multivariable Feedback Instability System: Three‑Variable Dynamical Model, Phase‑Space Analysis, and Optimal Control",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，无摘要）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-11104563/v1"
+    },
+    {
+      "id": "epmc-MED-42769571",
+      "title": "Autonomic Storm in a Patient With Amyotrophic Lateral Sclerosis in a Home-Care Setting.",
+      "titleZh": "Autonomic Storm in a Patient With 肌萎缩侧索硬化症 in a Home-Care Setting.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/jgf2.70182"
     },
     {
       "id": "epmc-PMC-PMC13591226",
@@ -236,6 +313,17 @@
       "url": "https://europepmc.org/article/PMC/PMC13591226"
     },
     {
+      "id": "epmc-MED-42768102",
+      "title": "Convergent TBK1 loss of function drives gasdermin E dependent pyroptosis and motor neuron degeneration across ALS genotypes.",
+      "titleZh": "待复核翻译：Convergent TBK1 loss of function drives gasdermin E dependent pyroptosis and motor neuron degeneration across ALS genotypes.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41418-026-01874-8"
+    },
+    {
       "id": "epmc-PPR-PPR1324286",
       "title": "VCP is a critical component for TDP-43 disaggregase activity in skeletal muscle",
       "titleZh": "待复核翻译：VCP is a critical component for TDP-43 disaggregase activity in skeletal muscle",
@@ -245,26 +333,59 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.09.14.751559"
+    },
+    {
+      "id": "epmc-PPR-PPR1323927",
+      "title": "rAAV‑mediated Hsp70 gene delivery alleviates FUS‑associated ALS‑like pathology",
+      "titleZh": "待复核翻译：rAAV‑mediated Hsp70 gene delivery alleviates FUS‑associated ALS‑like pathology",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.21203/rs.3.rs-10968247/v1"
+    },
+    {
+      "id": "epmc-PMC-PMC13585726",
+      "title": "CSF peptidomics reveals an IGF2-derived peptide as a candidate biomarker for neurosyphilis diagnosis",
+      "titleZh": "CSF peptidomics reveals an IGF2-derived peptide as a candidate 生物标志物 for neurosyphilis diagnosis",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13585726"
+    },
+    {
+      "id": "epmc-PMC-PMC13591021",
+      "title": "Extracellular Vesicles: Classification, Biological Functions, Diseases, and Therapeutic Opportunities",
+      "titleZh": "待复核翻译：Extracellular Vesicles: Classification, Biological Functions, Diseases, and Therapeutic Opportunities",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13591021"
+    },
+    {
+      "id": "epmc-MED-42764383",
+      "title": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "titleZh": "待复核翻译：What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "category": "遗传",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s40035-026-00580-2"
     }
   ],
   "highPriorityNeedsReview": [
-    {
-      "id": "pmid-42756835",
-      "title": "The thymus gland is a target and maintainer of amyotrophic lateral sclerosis pathophysiology.",
-      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756835/"
-    },
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
       "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "专家观点/评论文章",
+      "evidenceLevel": "专家评论/观点文章",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
@@ -273,7 +394,7 @@
     {
       "id": "pmid-42674126",
       "title": "Selective targeting of the oligodendroglial GPR17 receptor improves myelin integrity and motor function in female SOD1 G93A mice.",
-      "titleZh": "选择性靶向少突胶质细胞GPR17受体改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
+      "titleZh": "选择性靶向少突胶质细胞GPR17受体可改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 9,
@@ -286,203 +407,192 @@
       "title": "ATXN2 Spectrum Disorders: Genetic Complexity Beyond Dominant Inheritance.",
       "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
       "category": "临床试验",
-      "evidenceLevel": "叙述性综述/评论",
+      "evidenceLevel": "综述/评论",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
     },
     {
-      "id": "pmid-42770300",
-      "title": "Mitochonic acid 5 alleviates amyotrophic lateral sclerosis phenotypes via mitochondrial augmentation.",
-      "titleZh": "线粒体酸5通过增强线粒体功能缓解肌萎缩侧索硬化表型",
-      "category": "临床试验",
-      "evidenceLevel": "临床前研究（果蝇模型、患者来源成纤维细胞及iPSC来源运动神经元）",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770300/"
-    },
-    {
-      "id": "pmid-42768102",
-      "title": "Convergent TBK1 loss of function drives gasdermin E dependent pyroptosis and motor neuron degeneration across ALS genotypes.",
-      "titleZh": "趋同的TBK1功能缺失驱动gasdermin E依赖性细胞焦亡及跨ALS基因型的运动神经元变性",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（含患者来源细胞及动物模型机制验证）",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768102/"
-    },
-    {
-      "id": "trial-NCT01508962",
-      "title": "PRE-Symptomatic Studies in Amyotrophic Lateral Sclerosis",
-      "titleZh": "PRE-Symptomatic Studies in 肌萎缩侧索硬化症",
+      "id": "trial-NCT06609213",
+      "title": "Oral Intake of Enteral Nutrition Formula Preceding Placement and Feeding Via GTube and Its Impact on Formula Intolerance in pALS",
+      "titleZh": "待复核翻译：Oral Intake of Enteral Nutrition Formula Preceding Placement and Feeding Via GTube and Its Impact on Formula Intolerance in pALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01508962"
+      "url": "https://clinicaltrials.gov/study/NCT06609213"
     },
     {
-      "id": "trial-NCT03293069",
-      "title": "Conservative Iron Chelation as a Disease-modifying Strategy in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Conservative Iron Chelation as a Disease-modifying Strategy in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03293069"
-    },
-    {
-      "id": "trial-NCT06973629",
-      "title": "Efficacy and Safety of MSC-NTF (NurOwn) in Participants With Early Symptomatic ALS and Moderate Disease Presentation in ALS (ENDURANCE STUDY)",
-      "titleZh": "待复核翻译：Efficacy and Safety of MSC-NTF (NurOwn) in Participants With Early Symptomatic ALS and Moderate Disease Presentation in ALS (ENDURANCE STUDY)",
+      "id": "trial-NCT05842941",
+      "title": "HEALEY ALS Platform Trial - Regimen G DNL343",
+      "titleZh": "待复核翻译：HEALEY ALS Platform Trial - Regimen G DNL343",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06973629"
+      "url": "https://clinicaltrials.gov/study/NCT05842941"
     },
     {
-      "id": "trial-NCT06885918",
-      "title": "ALS Research Collaborative",
-      "titleZh": "待复核翻译：ALS Research Collaborative",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06885918"
-    },
-    {
-      "id": "trial-NCT06566651",
-      "title": "Emotion Processing Among Patients With ALS",
-      "titleZh": "待复核翻译：Emotion Processing Among Patients With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06566651"
-    },
-    {
-      "id": "trial-NCT04681118",
-      "title": "Expanded Access Protocol: Repeated Administration of Nurown® (Autologous MSC-NTF Cells) for the Treatment of ALS",
-      "titleZh": "待复核翻译：Expanded Access Protocol: Repeated Administration of Nurown® (Autologous MSC-NTF Cells) for the Treatment of ALS",
+      "id": "trial-NCT04562831",
+      "title": "The NO-ALS Study: A Trial of Nicotinamide/Pterostilbene Supplement in ALS.",
+      "titleZh": "待复核翻译：The NO-ALS Study: A Trial of Nicotinamide/Pterostilbene Supplement in ALS.",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04681118"
+      "url": "https://clinicaltrials.gov/study/NCT04562831"
     },
     {
-      "id": "trial-NCT00956488",
-      "title": "Supported Treadmill Ambulation Training (STAT) for Patients Diagnosed With Amyotrophic Lateral Aclerosis",
-      "titleZh": "待复核翻译：Supported Treadmill Ambulation Training (STAT) for Patients Diagnosed With Amyotrophic Lateral Aclerosis",
+      "id": "trial-NCT06889857",
+      "title": "Safety and Efficacy of Intravenous Administration of SHED-CM for ALS",
+      "titleZh": "待复核翻译：Safety and Efficacy of Intravenous Administration of SHED-CM for ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06889857"
+    },
+    {
+      "id": "trial-NCT04436510",
+      "title": "HEALEY ALS Platform Trial - Regimen B Verdiperstat",
+      "titleZh": "待复核翻译：HEALEY ALS Platform Trial - Regimen B Verdiperstat",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04436510"
+    },
+    {
+      "id": "trial-NCT03811301",
+      "title": "[BrainConnexion] - Neurodevice Phase I Trial",
+      "titleZh": "待复核翻译：[BrainConnexion] - Neurodevice Phase I Trial",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00956488"
+      "url": "https://clinicaltrials.gov/study/NCT03811301"
     },
     {
-      "id": "trial-NCT02528071",
-      "title": "Prognostic Value of a Diaphragmatic Endurance Test in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Prognostic Value of a Diaphragmatic Endurance Test in Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT03520517",
+      "title": "Open-label Study to Evaluate Safety, Tolerability and PK of BHV-0223 in ALS",
+      "titleZh": "待复核翻译：Open-label Study to Evaluate Safety, Tolerability and PK of BHV-0223 in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03520517"
+    },
+    {
+      "id": "trial-NCT04950231",
+      "title": "Investigation on Home Care Needs of ALS Patients and Their Caregivers",
+      "titleZh": "待复核翻译：Investigation on Home Care Needs of ALS Patients and Their Caregivers",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02528071"
+      "url": "https://clinicaltrials.gov/study/NCT04950231"
     },
     {
-      "id": "trial-NCT03034317",
-      "title": "NeuRx Diaphram Pacing System (DPS) Use in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "NeuRx Diaphram Pacing System (DPS) Use in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03034317"
-    },
-    {
-      "id": "trial-NCT01786174",
-      "title": "Gilenya in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Gilenya in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01786174"
-    },
-    {
-      "id": "trial-NCT01424176",
-      "title": "Dexpramipexole Renal PK Study",
-      "titleZh": "待复核翻译：Dexpramipexole Renal PK Study",
+      "id": "trial-NCT04446325",
+      "title": "Venous Disease Thromboembolic and Amyotrophic Lateral Sclerosis",
+      "titleZh": "Venous Disease Thromboembolic and 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01424176"
+      "url": "https://clinicaltrials.gov/study/NCT04446325"
     },
     {
-      "id": "trial-NCT00076154",
-      "title": "National Registry of Veterans With Amyotrophic Lateral Sclerosis and DNA Bank",
-      "titleZh": "National Registry of Veterans With 肌萎缩侧索硬化症 and DNA Bank",
+      "id": "trial-NCT02891629",
+      "title": "Safety and Feasibility of the EyeControl Device",
+      "titleZh": "待复核翻译：Safety and Feasibility of the EyeControl Device",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00076154"
+      "url": "https://clinicaltrials.gov/study/NCT02891629"
     },
     {
-      "id": "trial-NCT00818389",
-      "title": "Study to Investigate the Safety and Efficacy of Lithium in Volunteers With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Study to Investigate the Safety and Efficacy of Lithium in Volunteers With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00818389"
-    },
-    {
-      "id": "trial-NCT00563537",
-      "title": "Molecular Imaging Modality by Positron Emission Tomography Using 18F-X : Study of Microglial Activation in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Molecular Imaging Modality by Positron Emission Tomography Using 18F-X : Study of 小胶质细胞l Activation in 肌萎缩侧索硬化症",
+      "id": "trial-NCT02572479",
+      "title": "Evaluating the Potential of the Diet as Disease Modifier in Amyotrophic Lateral Sclerosis (JERN_ALS)",
+      "titleZh": "Evaluating the Potential of the Diet as Disease Modifier in 肌萎缩侧索硬化症 (JERN_ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00563537"
+      "url": "https://clinicaltrials.gov/study/NCT02572479"
+    },
+    {
+      "id": "trial-NCT03604822",
+      "title": "Music Therapy Protocol to Support Bulbar and Respiratory Functions in ALS",
+      "titleZh": "待复核翻译：Music Therapy Protocol to Support Bulbar and Respiratory Functions in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03604822"
+    },
+    {
+      "id": "trial-NCT03330353",
+      "title": "Chromatic Pupillometry to Assess the Melanopsin-Light Pathway in Progressive Supranuclear Palsy",
+      "titleZh": "待复核翻译：Chromatic Pupillometry to Assess the Melanopsin-Light Pathway in Progressive Supranuclear Palsy",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03330353"
+    },
+    {
+      "id": "trial-NCT00855400",
+      "title": "Clinical Trial on the Use of Autologous Bone Marrow Stem Cells in Amyotrophic Lateral Sclerosis",
+      "titleZh": "临床试验 on the Use of Autologous Bone Marrow 干细胞s in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00855400"
+    },
+    {
+      "id": "trial-NCT00337402",
+      "title": "Effects of Gastrostomy on Amyotrophic Lateral Sclerosis",
+      "titleZh": "Effects of Gastrostomy on 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00337402"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 6,
-    "缺标识符": 5,
-    "缺摘要": 9,
-    "高优先级待复核": 20,
+    "疑似误收": 10,
+    "缺标识符": 7,
+    "缺摘要": 15,
+    "高优先级待复核": 18,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 38
+    "待复核": 44
   },
   "relevanceCounts": {
     "high": 29,
-    "medium": 3,
-    "low": 6
+    "medium": 5,
+    "low": 10
   }
 }
