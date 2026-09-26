@@ -1,14 +1,142 @@
 {
-  "updatedAt": "2026-09-25T00:32:02.189Z",
+  "updatedAt": "2026-09-26T00:36:32.505Z",
   "period": {
     "days": 10,
-    "from": "2026-09-16",
-    "to": "2026-09-25"
+    "from": "2026-09-17",
+    "to": "2026-09-26"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-42789481",
+      "pmid": "42789481",
+      "doi": "10.1093/brain/awag326",
+      "title": "Identity-by-descent to resolve reduced penetrance and advance gene discovery in neurodegenerative disease.",
+      "abstract": "Advances in sequencing technologies have transformed human genetics and accelerated disease gene discovery. Yet a causal mutation remains to be identified for many families with an inherited disease. Incomplete penetrance, genetic heterogeneity, and limited family history can complicate the binary classification of familial and sporadic disease. These challenges are amplified in late-onset diseases such as amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), where obscured inheritance patterns limit gene discovery opportunities and can confound clinical risk assessment. We evaluated whether identity-by-descent (IBD) analysis can uncover cryptic relatedness and mitigate the impact of incomplete penetrance on disease gene mapping and clinical interpretation. Genome-wide IBD inference was performed in an integrated cross-continent cohort of 3,524 individuals of European ancestry spanning the ALS-FTD neurodegenerative spectrum. IBD identified 793 pairs of 1st-6th degree relatives (siblings to second cousins once removed), of which 31.5% were previously unrecognised and 15.8% had differing clinical diagnoses. Among individuals recorded as \"sporadic\", 5.5% of ALS and 15.9% of FTD were genetically related to another affected individual in the cohort, demonstrating that reduced penetrance masks a substantial proportion of heritable disease. Affected individuals with known ALS/FTD-associated genetic variants had balanced male-to-female ratios, irrespective of reported family history or IBD-inferred relatedness, whereas those without an identified disease-linked genetic variant retained the expected male predominance in ALS/FTD cohorts. IBD analysis identified multiple cross-continent founder networks for known ALS disease genes, including SOD1 and C9orf72, and created 73 new IBD-defined pedigrees from apparently unrelated probands, providing a framework for disease variant discovery in otherwise underpowered families. Using SOD1 mutation-positive families as a positive-control framework, we demonstrated that IBD-based pedigree expansion retained the known disease locus in distant relatives while reducing genome-wide candidate regions, supporting its application to unresolved ALS/FTD pedigrees. In an IBD-identified extended pedigree comprising five affected individuals, genome-wide variant filtering identified three rare variants within a chromosome 13q21.33 candidate locus shared IBD by four individuals and supported by multipoint linkage analysis. IBD-based detection of cryptic relatedness reveals genetic links between familial and apparent sporadic neurodegenerative disease, helping to resolve penetrance-related inheritance misclassification. By reconstructing extended pedigrees using IBD, this approach strengthens gene discovery and supporting variant pathogenicity while providing clinicians with clearer context for inherited risk and genetic counselling.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Henden L",
+        "Chan Moi Fat S",
+        "Smith A",
+        "Li I",
+        "Nicholas TJ",
+        "Mrkela M",
+        "O'Shaughnessy D",
+        "Zussa Z",
+        "Grima N",
+        "McCann EP",
+        "Fifita JA",
+        "Topp SD",
+        "Iacoangeli A",
+        "Rowe DB",
+        "Nicholson GA",
+        "Dobson-Stone C",
+        "Kwok JB",
+        "Piguet O",
+        "Halliday GM",
+        "Troakes C",
+        "Al-Chalabi A",
+        "Shaw CE",
+        "Roxburgh RH",
+        "Kiernan MC",
+        "Pamphlett R",
+        "Liquet B",
+        "McRae AF",
+        "Lin T",
+        "Laing NG",
+        "Needham M",
+        "Schultz D",
+        "Mathers S",
+        "Vucic S",
+        "Henderson R",
+        "McCombe P",
+        "Henders A",
+        "Quinlan AR",
+        "Scotter EL",
+        "Smith BN",
+        "Blair IP",
+        "Williams KL",
+        "SALSA-SGC consortium"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789481/"
+    },
+    {
+      "id": "pmid-42789089",
+      "pmid": "42789089",
+      "doi": "10.1007/s00401-026-03084-5",
+      "title": "Integrative synaptosome multi-omics reveals disrupted synapse organization and localized cryptic transcripts in C9ORF72-frontotemporal dementia.",
+      "abstract": "Frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS) are linked neurodegenerative diseases characterized by both synaptic dysfunction and TDP-43 pathology. A hexanucleotide repeat expansion (HRE) in the C9ORF72 (C9) gene represents the most common genetic cause of FTD and ALS, yet the synapse-specific mechanisms underlying disease pathogenesis remain poorly understood. Here, we performed integrated multi-omic profiling of synaptosomes enriched from postmortem frontal cortex and patient-derived induced pluripotent stem cell (iPSC)-cortical neurons to define molecular alterations associated with C9-FTD-mediated synaptic dysfunction. Proteomic profiling of frontal cortex-derived synaptosomes identified 1,324 differentially abundant proteins (p<0.05) enriched in pathways regulating synaptic vesicle transport and synapse organization, while synaptosomal RNA sequencing revealed 2,835 differentially expressed protein-coding genes. C9-FTD iPSC-cortical neurons exhibited reductions in excitatory and inhibitory postsynaptic markers, accompanied by progressive impairment of neuronal network activity, supporting both structural and functional deficits. iPSC-derived synaptosomes recapitulated key molecular pathways observed in patient brain, revealing convergent dysregulation of synaptic signaling pathways. Comparative analyses revealed divergence between protein and RNA alterations, consistent with the disruption of regulatory processes that link RNA and protein abundance in diseased synapses. Consistent with TDP-43 loss-of-function pathology we identified cryptic exon (CE)-containing transcripts within C9-FTD frontal cortex-derived synaptosomes, including KALRN and STMN2, providing evidence that aberrantly spliced RNAs localize to synaptic compartments. Together, these findings define convergent molecular pathways underlying synapse vulnerability in both C9-FTD model systems and identify synaptic localization of CE-containing transcripts as a previously unrecognized feature of TDP-43 proteinopathy.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "Spillman AM",
+        "Alsop EB",
+        "Gittings LM",
+        "Garcia-Mansfield K",
+        "Piras I",
+        "Bonfitto A",
+        "Martinez MN",
+        "Sharma R",
+        "Preller KR",
+        "Huentelman M",
+        "Pirrotte P",
+        "Van Keuren-Jensen K",
+        "Sattler R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/"
+    },
+    {
+      "id": "pmid-42785576",
+      "pmid": "42785576",
+      "doi": "10.1016/j.jpainsymman.2026.09.025",
+      "title": "A Qualitative Study of Team-Based Serious Illness Communication in ALS.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a terminal neurodegenerative disease with an illness trajectory requiring repeated, high-stakes decisions and ongoing serious illness communication (SIC). While multidisciplinary team care is best practice in ALS, how interprofessional teams operationalize SIC, and how team culture shapes this work, remain poorly understood. To examine how team culture influences SIC delivery within an interprofessional ALS clinic. We conducted a qualitative study using semi-structured interviews and a focus group with interprofessional clinicians from a multidisciplinary ALS clinic at an academic medical center. Data explored clinicians' perceptions of interprofessional roles, team culture, facilitators, and barriers related to SIC. Transcripts were analyzed using thematic analysis with a combined deductive-inductive approach. Analysis identified interpersonal facilitators, systems-level facilitators, and structural barriers shaping team-based SIC. Clinicians described shared responsibility for SIC, with conversations unfolding cumulatively over time across roles and clinical encounters. Interpersonal facilitators included mutual respect, psychological safety, role flexibility, and a shared commitment to reducing patient harm. Systems-level facilitators included frequent multimodal communication, structured documentation, leadership support, and use of adverse outcomes as opportunities for practice improvement. Structural barriers included time constraints, care transitions, regulatory limitations, and variability in comfort with SIC language. In this multidisciplinary ALS clinic, strong team culture enabled SIC to function as a longitudinal, interprofessional process rather than a single clinician-led event. Findings highlight the importance of psychological safety, teamwork, and supportive systems in delivering high-quality SIC and inform future clinical practice, training, and research.",
+      "journal": "Journal of pain and symptom management",
+      "authors": [
+        "Shameklis J",
+        "Drutchas A",
+        "Keeney T",
+        "Rowland M",
+        "Dow L",
+        "Sawicki D",
+        "Ho D",
+        "Paladino J",
+        "Lindenberger E"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785576/"
+    },
+    {
+      "id": "pmid-42782389",
+      "pmid": "42782389",
+      "doi": "10.1007/s10072-026-09412-7",
+      "title": "Dysregulation of mitochondrial bioenergetics, RNA processing, and cellular stress responses in FUS-ALS: a multi-dataset transcriptomic perspective.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron (MN) degeneration. Mutations in the FUS gene, particularly the aggressive P525L variant, disrupt nuclear localization of the FUS RNA-binding protein, resulting in cytoplasmic accumulation, altered RNA metabolism, and toxic aggregation. Astrocytes also contribute to disease progression through non-cell-autonomous mechanisms. To identify shared and cell-type-specific molecular mechanisms underlying FUS-associated ALS through integrated transcriptomic analysis of human induced pluripotent stem cell (hiPSC)-derived motor neurons and astrocytes. Five publicly available RNA-sequencing datasets from hiPSC-derived motor neurons and astrocytes carrying FUS mutations were analyzed. Differential gene expression and Gene Ontology enrichment analyses were performed to identify dysregulated genes and pathways. Both cell types showed convergent dysregulation of mitochondrial/bioenergetic pathways (oxidative phosphorylation, ATP metabolism, translation, membrane potential). Pathway analysis across motor neuron datasets identified largely MN-specific enrichment in cell-cycle regulation, intracellular trafficking, and stimulus response, while only four pathways were shared with astrocytes, most notably NADH dehydrogenase complex assembly, enriched across all datasets and both cell types, marking mitochondrial complex I as the strongest convergent signature. RNA processing/splicing pathways were also enriched, consistent with FUS function. Shared DEGs included upregulated COMT, TXNRD2, and PCDHGB4, and downregulated PCDH17 and C11orf87, implicating neurotransmitter metabolism, antioxidant defenses, and adhesion. Stress pathways (oxidative stress, autophagy, heat-shock, ER stress/UPR) were broadly altered, with UPR genes mainly upregulated and inflammatory genes downregulated. FUS-ALS involves shared mitochondrial complex I and stress-response disturbances layered onto MN-intrinsic cell-cycle and trafficking dysregulation, reflecting convergent and cell-type-specific mechanisms.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "authors": [
+        "Walden F",
+        "Reihani Y",
+        "Peters A",
+        "Sepehrimanesh M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782389/"
+    },
     {
       "id": "pmid-42778785",
       "pmid": "42778785",
@@ -35,6 +163,57 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778785/"
     },
     {
+      "id": "pmid-42788121",
+      "pmid": "42788121",
+      "doi": "10.1212/NXG.0000000000200440",
+      "title": "LRP12 CGG Repeat Expansions in Patients With Adult-Onset Non-5q Spinal Muscular Atrophy.",
+      "abstract": "Non-5q spinal muscular atrophy (SMA) is genetically heterogeneous, yet many adult-onset cases remain molecularly undiagnosed. CGG repeat expansions in the 5' untranslated region of LRP12 , originally identified in oculopharyngodistal myopathy, have also been implicated in amyotrophic lateral sclerosis (ALS) and inherited peripheral neuropathy. The aim of this study was to determine whether LRP12 CGG repeat expansions occur in patients with adult-onset proximal-predominant non-5q SMA and characterize the associated clinical presentations. In this observational case series, we enrolled 8 consecutive, genetically unresolved families that met prespecified criteria for adult-onset non-5q SMA after exclusion of known genetic causes of SMA and familial ALS by comprehensive genetic evaluation, including whole-exome sequencing. LRP12 CGG repeat expansions were screened by repeat-primed PCR and then confirmed and sized by Oxford Nanopore long-read sequencing. LRP12 CGG repeat expansions were also screened in 496 unrelated ALS cases and 1,000 controls. Monoallelic LRP12 CGG repeat expansions were identified in 6 of the 8 non-5q SMA probands (75%). Five of the 6 positive families were consistent with autosomal-dominant inheritance. Expanded alleles ranged from 58 to 92 repeat units. Affected individuals showed adult-onset, slowly progressive, proximal-predominant pure lower motor neuron weakness with preserved bulbar and sensory function and no upper motor neuron signs. Expansions were rare in ALS cases (2/496, 0.40%) and controls (2/1,000, 0.20%). We identified LRP12 CGG repeat expansions in a substantial proportion of patients with slowly progressive, proximal-predominant pure lower motor neuron weakness not linked to 5q-SMA. These findings broaden the clinical spectrum of LRP12 -related disease and support inclusion of LRP12 repeat-expansion analysis in the evaluation of genetically unresolved adult-onset lower motor neuron syndromes.",
+      "journal": "Neurology. Genetics",
+      "authors": [
+        "Naruse H",
+        "Mitsui J",
+        "Ishiura H",
+        "Okubo S",
+        "Yoshida C",
+        "Mitsutake A",
+        "Maruta K",
+        "Uchida Y",
+        "Nobuhara Y",
+        "Okabe H",
+        "Nakamura Y",
+        "Suzuki R",
+        "Hotta Y",
+        "Matsukawa T",
+        "Tsukamoto H",
+        "Kawamura Y",
+        "Hara K",
+        "Takado Y",
+        "Kanzaki M",
+        "Uesaka Y",
+        "Ishii A",
+        "Kitamura A",
+        "Urushitani M",
+        "Takahashi Y",
+        "Kubota A",
+        "Maeda M",
+        "Shimizu J",
+        "Shirota Y",
+        "Hamada M",
+        "Satake W",
+        "Katagiri T",
+        "Takahama S",
+        "Yamamoto T",
+        "Tsuji S",
+        "Nakamura Y",
+        "Toda T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/"
+    },
+    {
       "id": "pmid-42778113",
       "pmid": "42778113",
       "doi": "10.1016/j.aanat.2026.153381",
@@ -55,6 +234,30 @@
       ],
       "publishedAt": "2026-09-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778113/"
+    },
+    {
+      "id": "pmid-42786852",
+      "pmid": "42786852",
+      "doi": "10.2174/011570159X500937260908042834",
+      "title": "Therapeutic Implications of Cell Death Pathways Across the Course of Amyotrophic Lateral Sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron loss, resulting in paralysis and limited survival. Multiple regulated cell death pathways, including apoptosis, necroptosis, ferroptosis, pyroptosis, lysosomal cell death, autophagy-dependent cell death, NETosis, and other emerging cell death modalities, have been implicated in ALS, but their mechanistic interactions and relative contributions remain poorly understood. This knowledge gap has hindered the development of effective therapies. Better experimental models are needed to dissect these pathways. This review summarizes current knowledge on the roles of cell death pathways in ALS. A tiered framework (M1-M4) is applied to critically evaluate data from human postmortem tissue, patient-derived cells, and animal models, ranking studies according to their relevance to human disease. Potential crosstalk among these pathways is further examined. It is also proposed that the relative contribution of specific cell death pathways may shift with disease progression, although this hypothesis requires longitudinal validation. To integrate this dynamic perspective, cell death pathway activities are hypothetically aligned with the King's clinical staging system. This stage-informed framework is presented as a conceptual model intended to generate hypotheses rather than to serve as a validated clinical algorithm. The model distinguishes established therapies from preclinical and exploratory strategies. Future research should prioritize the development of human-relevant model systems, the identification of longitudinal biomarkers of cell death, and the implementation of rigorously designed combination trials. These efforts may ultimately enable more precise, stage-appropriate therapeutic strategies for ALS.",
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Yu J",
+        "Xie D",
+        "Zeng X",
+        "Zhang S",
+        "Xiao B",
+        "Zhang J",
+        "Fang M",
+        "Zhu Q",
+        "Yao C"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786852/"
     },
     {
       "id": "pmid-42763209",
@@ -269,6 +472,24 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768102/"
     },
     {
+      "id": "pmid-42782811",
+      "pmid": "42782811",
+      "doi": "10.3390/cells15181710",
+      "title": "ERBB4 and Neurodegeneration: Association Between Hypothalamic-Pituitary-Adrenal (HPA) Axis: Associated Neurodegenerative Pathogenesis.",
+      "abstract": "The hypothalamic-pituitary-adrenal (HPA) axis is the central neuroendocrine system that controls physiological stress responses and maintains homeostasis through the coordinated interactions among the hypothalamus, pituitary gland, and adrenal cortex. Dysregulation of the HPA axis is associated with stress-related psychiatric conditions and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Chronic stress creates a detrimental environment in the brain, inducing structural changes and accelerating brain aging and the loss of neurons. Receptor tyrosine-protein kinase ERBB4 (ERBB4), a member of the epidermal growth factor receptor (EGFR) family, is activated primarily by neuregulin ligands and plays an essential role in neuronal development, synaptic plasticity, and cell survival. Emerging evidence suggests that ERBB4 signaling influences neuroendocrine regulation and stress responsivity. While further studies are needed to provide direct mechanistic evidence linking ERBB4-mediated HPA axis dysregulation to neurodegenerative cell death, this manuscript critically evaluated the preclinical models and proposes a possible feed-forward framework wherein ERBB4 served as a permissive homeostatic modulator at the intersection of stress endocrinology and neuroinflammation. Furthermore, the impact of ERBB4 dysregulation and its mutations on neurodegenerative diseases has been presented, focusing on potential mechanisms of oxidative stress, synaptic dysfunction, and neuronal apoptosis. Taken together, ERBB4 represents an important molecular interface between stress signaling and neurodegenerative pathology. Understanding the regulation of ERBB4 in the HPA axis has provided new insights into the mechanisms underlying neurodegenerative diseases and could identify novel therapeutic targets for stress-associated neurological disorders.",
+      "journal": "Cells",
+      "authors": [
+        "Bagyinszky E",
+        "An SSA"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782811/"
+    },
+    {
       "id": "pmid-42780028",
       "pmid": "42780028",
       "doi": "10.64898/2026.09.17.26363319",
@@ -423,6 +644,24 @@
       ],
       "publishedAt": "2026-09-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
+    },
+    {
+      "id": "pmid-42782801",
+      "pmid": "42782801",
+      "doi": "10.3390/cells15181701",
+      "title": "AUG-Dependent Translation of Antisense Repeat Transcripts Contributes to Dipeptide Repeat Protein Production in C9ORF72 Expansion Carriers.",
+      "abstract": "A hexanucleotide repeat expansion in C9ORF72 is the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Bidirectional transcription of the repeat expansion generates sense and antisense RNAs that are translated into dipeptide repeat (DPR) proteins, but the mechanisms of translation initiation remain incompletely understood. Here, we used CRISPR-Cas9 genome editing and steric-blocking antisense oligonucleotides (ASOs) to investigate the role of AUG codons within the antisense repeat RNA. Deletion of an AUG-containing region upstream of the antisense repeats markedly reduced poly(GP) production without affecting antisense RNA levels, demonstrating that this sequence is required for efficient poly(GP) synthesis. We further found that unspliced sense transcripts containing the repeat expansion likely serve as templates for poly(GA) and poly(GR) production in motor neurons. Finally, ASOs targeting the antisense AUG-containing region reduced poly(PR) and poly(GP) levels without altering repeat RNA abundance, supporting a role for AUG-dependent translation of the antisense repeat RNA. These findings provide new insights into the mechanisms of DPR production and suggest that translation-blocking ASOs may represent a therapeutic strategy for C9ORF72 -associated ALS/FTD.",
+      "journal": "Cells",
+      "authors": [
+        "Almeida S",
+        "Gu Y",
+        "Kankel MW"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782801/"
     },
     {
       "id": "pmid-42769968",
@@ -886,108 +1125,6 @@
       ],
       "publishedAt": "2026-09-17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42753291/"
-    },
-    {
-      "id": "pmid-42749235",
-      "pmid": "42749235",
-      "doi": "10.1016/j.neubiorev.2026.106982",
-      "title": "From systems to cells: Metabolic mechanisms underlying risk divergence in Alzheimer's disease and amyotrophic lateral sclerosis.",
-      "abstract": "Epidemiological studies show an inverse relationship between metabolic disorders and two major neurodegenerative diseases, Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS). Obesity, type 2 diabetes (T2DM), and reduced physical activity increase AD risk, whereas in ALS cardiometabolic factors, particularly T2DM, show inverse, age-dependent associations with disease risk. This review integrates epidemiological, clinical, and experimental evidence to suggest that cell-type-specific energy metabolism underlies these contrasting risk profiles. Neurons and skeletal muscle differ in metabolic organization, substrate use, and redox capacity. Neurons rely mainly on glucose and lactate and have limited fatty acid oxidation, making them vulnerable to lipid overload, insulin resistance, and oxidative stress, hallmarks of AD. In contrast, skeletal muscle is metabolically flexible, efficiently oxidizes fatty acids, and has strong antioxidant defenses, which may protect against ALS. These cell-type-specific metabolic profiles are proposed to causally shape disease susceptibility: neuronal lipid overload and impaired redox homeostasis promote amyloid and tau pathology in AD, whereas preserved muscle fatty acid oxidation and antioxidant capacity support neuromuscular junction stability and delay motor neuron degeneration in ALS. Hypermetabolism, hypothalamic dysfunction, glial-neuronal coupling and lactate shuttling may further shape disease susceptibility. Overall, these patterns likely reflect distinct cellular responses to metabolic stress.",
-      "journal": "Neuroscience and biobehavioral reviews",
-      "authors": [
-        "Knezovic A",
-        "Krsnik A",
-        "Homolak J",
-        "Babic Perhoc A",
-        "Deskin A",
-        "Virag D",
-        "Salkovic-Petrisic M",
-        "Osmanovic Barilar J"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749235/"
-    },
-    {
-      "id": "pmid-42749468",
-      "pmid": "42749468",
-      "doi": "10.1136/spcare-2026-006580",
-      "title": "Non-invasive ventilation (NIV) and high-flow nasal therapy (HFNT) in palliative care: a critical narrative review.",
-      "abstract": "Dyspnoea is a prevalent, debilitating symptom in advanced life-limiting illnesses. While opioids and non-pharmacological measures remain foundational, refractory breathlessness presents a major palliative challenge. To critically appraise the evidence regarding patient selection, comparative tolerability, adverse effects and ethical considerations of non-invasive ventilation (NIV) and high-flow nasal therapy (HFNT) in palliative care. A comprehensive narrative review of literature from PubMed, Embase and Cochrane Library (from inception to June 2026) and major clinical guidelines was conducted. NIV is best supported in hypercapnic respiratory failure (PaCO >45 mm Hg), showing benefits in chronic obstructive pulmonary disease exacerbations, pulmonary oedema and amyotrophic lateral sclerosis (ALS). In advanced cancer, NIV reduces dyspnoea primarily in hypercapnic patients but mask discomfort and communication barriers limit tolerability. Conversely, HFNT has emerged as a superiorly tolerated option in hypoxemic failure-particularly in end-stage interstitial lung disease (ILD) and advanced cancer-providing significant dyspnoea relief while preserving oral intake and verbal communication until the end of life. Time-limited trials (<1 hour for NIV; 2 hours for HFNT) help identify early responders. Ethical challenges include potential overtreatment and support withdrawal complexities. Respiratory support selection should be guided by respiratory physiology (hypercapnic vs hypoxemic), explicit goals of care and tolerability. NIV remains optimal for hypercapnic failure, whereas HFNT offers superior comfort and preserves communication in hypoxaemic patients. Robust randomised trials are needed.",
-      "journal": "BMJ supportive & palliative care",
-      "authors": [
-        "Mercadante S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749468/"
-    },
-    {
-      "id": "pmid-42747163",
-      "pmid": "42747163",
-      "doi": "10.5826/mrm.2026.1088",
-      "title": "Noninvasive ventilation in patients with amyotrophic lateral sclerosis: Is home sleep apnea testing a useful tool for initiating noninvasive ventilation?",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease characterized by motor neuron degeneration and eventual respiratory failure, often first manifesting during sleep. Timely detection of nocturnal respiratory impairment is critical for initiating noninvasive ventilation (NIV), one of the few therapies proven to improve survival. Although polysomnography (PSG) is the reference standard, it is not always readily available in clinical practice. We describe a 62-year-old man with spinal-onset ALS who underwent home sleep apnea testing (HSAT) for respiratory assessment. Although standard metrics were within normal limits, careful manual analysis of respiratory signals revealed diaphragmatic dysfunction through position-dependent desaturation and paradoxical breathing. NIV was initiated, resulting in improvements in sleep quality and daytime functioning. This case illustrates the value of HSAT as a pragmatic and accessible tool for early detection of respiratory involvement in ALS, particularly when combined with detailed waveform inspection in setting where PSG is unavailable. Additionally, it emphasizes the importance of individualized NIV titration and interface optimization to ensure adherence and therapeutic benefit.",
-      "journal": "Multidisciplinary respiratory medicine",
-      "authors": [
-        "Sanna C",
-        "Sanna M",
-        "Borghero G",
-        "Redolfi S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747163/"
-    },
-    {
-      "id": "pmid-42769109",
-      "pmid": "42769109",
-      "doi": "10.2147/JIR.S622530",
-      "title": "The Dual Role of Exosome-Mediated Central-Peripheral Immune Dialogue in Amyotrophic Lateral Sclerosis-Associated Neuroinflammation.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is increasingly viewed as a multisystem disorder in which central-peripheral immune communication may modify neuroinflammation. Exosomes, an endosome-derived subset of extracellular vesicles (EVs), have been proposed as mediators of this communication, but the strength and disease specificity of the evidence require critical evaluation. PubMed/MEDLINE, Web of Science Core Collection, and Scopus were searched from database inception to July 20, 2026, with supplementary citation tracking through Google Scholar and reference lists. Evidence was categorized as human ALS evidence, ALS-specific cellular or animal evidence, evidence from non-ALS neuroinflammatory models, or review-level background evidence. Human studies have identified ALS-associated proteins and altered miRNA profiles in circulating EV-containing preparations, but their cellular origin, direction of transfer, and causal relevance remain uncertain. ALS-specific cellular and animal models support the possibility that EVs participate in intercellular protein transfer and modify glial inflammatory, phagocytic, antioxidant, and trophic responses. Some proposed mechanisms, including miR-216a-5p-mediated microglial regulation, are derived mainly from other neurological injury models and should be considered hypothesis-generating. Single-cell studies further indicate that ALS microglia occupy heterogeneous and overlapping states; therefore, M1/M2 terminology is used only as a simplified descriptive framework. Circulating EV cargo remains under investigation as a biomarker source, whereas the additional value of EV-associated neurofilament light chain and the diagnostic utility of TDP-43, SOD1, or miRNAs require independent validation. Therapeutic evidence remains predominantly preclinical, with only small, early, non-confirmatory human studies. EVs may participate in central-peripheral immune communication in ALS, but their causal role, cellular origin, in vivo trafficking, and clinical utility remain incompletely established. Standardized methods and rigorous mechanistic and clinical validation are required before EV-based biomarkers or therapies can be translated into practice.",
-      "journal": "Journal of inflammation research",
-      "authors": [
-        "Jin T",
-        "Yang B",
-        "Cai Z",
-        "Zhang H",
-        "Wang T"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42769109/"
-    },
-    {
-      "id": "pmid-42747562",
-      "pmid": "42747562",
-      "doi": "10.1007/s11011-026-01987-6",
-      "title": "Unraveling the regulatory nexus of aggrephagy in ALS: identification of novel candidate biomarkers and molecular triggers.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and ultimately fatal neurodegenerative disorder involving multiple systems, with motor neuron degeneration as its primary feature. This disease can be classified into sporadic and familial types. Genes such as SOD1, C9orf72, FUS, and TDP-43 have been identified as the main causative genes for familial ALS. Multiple bioinformatics tools combined with an experimental verification strategy have helped in understanding the association of a selective autophagy pathway called aggrephagy with the disease. The transcriptome data of spinal cord tissue from SOD1-G93A mice was obtained from the Gene Expression Omnibus (GEO) database. Based on the GSE281064 dataset, we investigated aggrephagy-related transcriptional alterations in the SOD1-G93A mouse model of ALS. After comparison with the aggrephagy-related genes (AGGRGs) set included in the GeneCards database, 49 candidate genes closely related to the autophagy process were obtained. Functional enrichment analysis showed these genes participate in extracellular matrix remodeling, hyaluronic acid and glycosaminoglycan metabolism, tumor necrosis factor regulation, and lysosomal function, indicating central roles in inflammation, apoptosis, and metabolic disorders. Based on feature selection algorithms, this study employed machine learning methods such as random forest (RF), extreme gradient boosting (XGBoost), and Boruta to conduct multi-angle screening of candidate genes. The intersection of the results ultimately identified three key genes: Ctsb, Kif11, and S100a6. In both the training data and external validation data, Ctsb and S100a6 showed significant upregulation and demonstrated excellent discriminatory capabilities. The nomogram constructed based on Ctsb and S100a6 expression showed potential for distinguishing SOD1-G93A model samples from nontransgenic controls. The predicted probability demonstrated the potential of these two as candidate biomarkers. Meanwhile, further validation is needed in larger independent population cohorts in the future. The SOD1-G93A mouse model and SOD1-G93A-expressing NSC34 cell model showed expression patterns of Ctsb and S100a6 consistent with the bioinformatics findings. Through S100a6 overexpression and knockdown experiments in an NSC34 motor neuron-like ALS model, we found that S100a6 impaired autophagy and promoted SOD1 aggregation. These findings further validate its potential as a biomarker and provide new insights into the pathogenesis of ALS.",
-      "journal": "Metabolic brain disease",
-      "authors": [
-        "Zhang Y",
-        "Wei K",
-        "Lin H",
-        "Guo Z",
-        "Lu Y",
-        "Ma T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747562/"
     }
   ]
 }
