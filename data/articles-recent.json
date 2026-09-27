@@ -1,14 +1,34 @@
 {
-  "updatedAt": "2026-09-26T00:36:32.505Z",
+  "updatedAt": "2026-09-27T00:32:45.709Z",
   "period": {
     "days": 10,
-    "from": "2026-09-17",
-    "to": "2026-09-26"
+    "from": "2026-09-18",
+    "to": "2026-09-27"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
   "count": 44,
   "articles": [
+    {
+      "id": "pmid-42791439",
+      "pmid": "42791439",
+      "doi": "10.1007/s10072-026-09425-2",
+      "title": "C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
+      "abstract": "",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "authors": [
+        "Moradi K",
+        "Pillay Y",
+        "Azevedo CJ",
+        "Darki L",
+        "Beydoun SR"
+      ],
+      "publicationTypes": [
+        "Letter"
+      ],
+      "publishedAt": "2026-09-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791439/"
+    },
     {
       "id": "pmid-42789481",
       "pmid": "42789481",
@@ -93,6 +113,24 @@
       ],
       "publishedAt": "2026-09-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/"
+    },
+    {
+      "id": "pmid-42790799",
+      "pmid": "42790799",
+      "doi": "10.1016/j.bbapap.2026.141183",
+      "title": "Intrinsically disordered proteins and liquid-liquid phase separation: Molecular grammar, condensate physiology, and disease-relevant phase transitions.",
+      "abstract": "Intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs) of proteins constitute a substantial and functionally critical fraction of the eukaryotic proteome. Through multivalent, low-affinity interactions encoded in their low-complexity domains (LCDs), IDPs drive liquid-liquid phase separation (LLPS)-a physicochemical process that produces membraneless biomolecular condensates serving as dynamic reaction hubs within cells. Recent advances have substantially refined the conceptual framework governing condensate biophysics: the phase separation coupled to percolation (PSCP) model now recognizes that condensates are viscoelastic network fluids arising from the synergy between density transitions and connectivity (percolation) transitions, rather than simple LLPS alone. This updated mechanistic understanding, combined with proteome-wide computational tools and AI-driven prediction models, is rapidly transforming the field. Physiologically, condensates regulate transcription at super-enhancers, modulate RNA metabolism in stress granules, and orchestrate ribosome biogenesis in the nucleolus. Pathologically, aberrant liquid-to-solid transitions of disease-associated IDPs-including TDP-43 and FUS in amyotrophic lateral sclerosis and frontotemporal dementia, tau in Alzheimer's disease, and α-synuclein in Parkinson's disease-represent a convergent pathomechanism across neurodegenerative proteinopathies. Post-translational modifications, particularly phosphorylation, arginine methylation, and ubiquitination, function as a dynamic regulatory code controlling condensate assembly and dissolution. The emerging paradigm of condensate-modifying therapeutics (c-mods) identifies biomolecular condensates as druggable entities and proposes four mechanistic strategies-dissolvers, inducers, localizers, and morphers-to restore normal phase behavior in disease. This review integrates the most current molecular, cellular, and biomedical insights into IDP-driven phase separation, highlighting open questions and translational opportunities.",
+      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "authors": [
+        "Abinawanto",
+        "Sophian A"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790799/"
     },
     {
       "id": "pmid-42785576",
@@ -212,6 +250,35 @@
       ],
       "publishedAt": "2026-09-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/"
+    },
+    {
+      "id": "pmid-42790169",
+      "pmid": "42790169",
+      "doi": "10.1016/j.ejmech.2026.119360",
+      "title": "Phytocannabinoid cannabidiol (CBD) in neurodegenerative diseases: From polypharmacology to drug development.",
+      "abstract": "Cannabidiol (CBD) is a non-intoxicating phytocannabinoid that has attracted interest as a multi-target neurotherapeutic candidate for neurodegenerative diseases. CBD is a lipophilic terpenophenolic chemotype whose phenolic redox chemistry, membrane partitioning, cytochrome P450-mediated metabolism, and formulation-dependent exposure are central to its biological activity and translational limitations. In addition, CBD engages a broad target network relevant to neurodegeneration. Major components include cannabinoid receptors, transient receptor potential channels, peroxisome proliferator-activated receptor-γ, adenosine and serotonin signaling systems, voltage-gated calcium channels, and redox-regulatory pathways. These mechanisms converge on neuroinflammation, excitotoxicity, mitochondrial dysfunction, impaired proteostasis, and synaptic injury. Preclinical studies across models of Alzheimer's disease, Parkinson's disease, multiple sclerosis, Huntington's disease, and amyotrophic lateral sclerosis consistently support CBD's anti-inflammatory, antioxidant, mitochondria-protective, and neuroprotective pharmacology. The magnitude of these effects depends on dose, treatment timing, model system, and route of administration. Clinical evidence remains preliminary and is mainly symptomatic, with signals in agitation, sleep disturbance, spasticity, quality of life, and neuropsychiatric symptoms rather than proven disease modification. Key barriers to development include low and variable oral bioavailability, incomplete brain exposure data, uncertain active metabolite contributions, limited target-engagement biomarkers, and insufficient exposure-response definition. Future development of CBD and optimized cannabinoid-derived analogues will require medicinal chemistry strategies to improve potency, selectivity, metabolic stability, CNS exposure, and formulation performance. Parallel biomarker-driven clinical trials are needed to define pharmacokinetic-pharmacodynamic relationships and evaluate disease-modifying potential.",
+      "journal": "European journal of medicinal chemistry",
+      "authors": [
+        "Zhang B",
+        "Nan J",
+        "Zhang Y",
+        "Zhang B",
+        "Ke C",
+        "Wang W",
+        "Wu T",
+        "Xia J",
+        "Yang F",
+        "He M",
+        "Tian L",
+        "Yang Z",
+        "Liang C"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790169/"
     },
     {
       "id": "pmid-42778113",
@@ -440,6 +507,23 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42769571/"
     },
     {
+      "id": "pmid-42793425",
+      "pmid": "42793425",
+      "doi": "10.3390/brainsci16090999",
+      "title": "Beyond Biomarkers: Reclaiming the Central Role of Clinical Neurophysiology in Neuromuscular Disorders.",
+      "abstract": "Over the past two decades, advances in molecular genetics, immunology, neuroimaging, fluid biomarkers, and artificial intelligence have substantially transformed the diagnosis, classification, and treatment of neuromuscular disorders. However, increasing biological precision has also highlighted an important distinction between identifying disease mechanisms and characterizing their functional expression. Clinical neurophysiology occupies a specific position within this evolving diagnostic landscape by directly assessing nervous system function and providing objective information on impulse conduction, neuromuscular transmission, motor unit integrity, physiological reserve, and disease activity. Consequently, neurophysiological assessment contributes not only to diagnosis but also to differential diagnosis, longitudinal monitoring, prognostic assessment, and therapeutic evaluation. In this critical review, I examine the factors that have progressively shifted clinical neurophysiology from an interpretative clinical discipline toward a more procedural role. Using representative examples from myasthenia gravis, immune-mediated neuropathies, myopathies, and amyotrophic lateral sclerosis, I discuss how physiological information complements molecular, serological, imaging, and other biological biomarkers. I further examine the emerging role of artificial intelligence, including its potential for automated signal analysis and quantitative assessment, as well as current limitations related to generalizability, validation, and overreliance on pattern recognition. I propose a complementary conceptual framework in which biological and molecular approaches characterize disease mechanisms, while clinical neurophysiology defines their functional expression and clinical relevance in the individual patient. Within this framework, clinical neurophysiology should not be considered an alternative to precision medicine, but an integrated physiological dimension of it, connecting biological characterization with clinically actionable functional information.",
+      "journal": "Brain sciences",
+      "authors": [
+        "Mangiardi M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42793425/"
+    },
+    {
       "id": "pmid-42768102",
       "pmid": "42768102",
       "doi": "10.1038/s41418-026-01874-8",
@@ -470,6 +554,24 @@
       ],
       "publishedAt": "2026-09-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768102/"
+    },
+    {
+      "id": "pmid-42791964",
+      "pmid": "42791964",
+      "doi": "10.3390/bioengineering13091092",
+      "title": "Demographic Shortcuts Account for Most of the Apparent Accuracy of Four-Class Gait-Based Differential Diagnosis in Neurodegenerative Disease: An Interpretability-Driven Audit of Machine Learning on a Public Gait Benchmark.",
+      "abstract": "Machine-learning gait studies often report high accuracy for separating neurodegenerative diseases, but rarely test whether this reflects pathology or the demographic differences that accompany disease in convenience cohorts. We audited the PhysioNet Gait in Neurodegenerative Disease Database (63 subjects: controls, Parkinson's disease [PD], Huntington's disease [HD], amyotrophic lateral sclerosis [ALS]), classifying 37 stride-rhythm features under subject-disjoint nested leave-one-subject-out cross-validation. A random forest reached a macro-averaged one-vs-rest AUROC of 0.832 (95% CI 0.759-0.904; permutation p = 0.001). Four complementary audits-demographic-only baselines, confound adjustment, feature-family ablation, and age matching-show that this overstates gait-specific discrimination: five anthropometric variables alone reached an AUROC of 0.812, statistically indistinguishable from the gait model ( p = 0.701), and the de-confounded gait model (0.755) fell further to 0.585 once age was matched across groups. HD was the exception, essentially unaffected by adjustment (0.812 → 0.804) and carried by variability and long-range-correlation measures. In an independent, age-matched cohort recorded with a different sensor ( n = 110, PD versus control only), the same vulnerability reappeared through a different variable: the gait model (0.828) showed no statistically significant difference from walking speed alone (0.746, p = 0.11), while age and anthropometry fell to chance; this cohort contained no HD subjects, so the HD finding remains externally unvalidated. The shortcut vulnerability generalises across cohorts; the demographic variable that drives it does not. Four-class differential diagnosis is not demonstrated on this benchmark; HD gait arrhythmicity is the one signal that withstands internal sensitivity analysis. We recommend that accuracy claims from small, demographically imbalanced gait cohorts be accompanied by this kind of audit.",
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "authors": [
+        "Wang Z",
+        "Xia Y",
+        "Zhang G"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791964/"
     },
     {
       "id": "pmid-42782811",
@@ -845,6 +947,32 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
     },
     {
+      "id": "pmid-42792233",
+      "pmid": "42792233",
+      "doi": "10.3390/antiox15091194",
+      "title": "Effects of Dietary Supplementation with Conjugated Linoleic Acid on Redox Marker Profiles and Neuroaxonal Degeneration in Amyotrophic Lateral Sclerosis.",
+      "abstract": "The revised ALS Functional Rating Scale (ALSFRS-R) and the blood plasma accumulation of neurofilament light chain (NfL) are key markers for tracking amyotrophic lateral sclerosis (ALS) progression. Based on recent studies indicating that dietary supplementation with conjugated linoleic acid (CLA) may boost antioxidant enzyme activity in ALS patients, in this study, ALSFRS-R scores (and subscores), NfL and thiol-bound protein (P-SH) levels, and intracellular activity of antioxidant enzymes (G6PD and GSR) were measured in ALS patients after 6 months (T6) of treatment with riluzole (R) or riluzole + CLA (R + CLA); we also investigated the correlations between these markers. At baseline (T0), G6PD activity in the R group was positively correlated with ALSFRS-R score ( p < 0.001), whereas plasma P-SH levels in the R + CLA group were inversely correlated with ALSFRS-R score ( p = 0.033). No significant baseline association was found between NfL levels and total ALSFRS-R score in the R group. At six months (T6), GSR and G6PD activities in the R + CLA group were significantly higher than in the R group ( p < 0.05). Furthermore, a significant inverse correlation between plasma NfL levels and ALSFRS-R total score emerged at T6 exclusively in the R group ( p = 0.002). Subscore analysis at T6 showed that plasma NfL levels negatively correlated with bulbar function in both groups (R: p = 0.010; R + CLA: p = 0.020) and with fine motor function in the R group ( p = 0.031); whereas no significant correlation was observed for the respiratory subscore in either treatment group. These findings are consistent with an enhanced antioxidant activity associated with CLA supplementation. Overall, these preliminary exploratory results suggest that systemic redox biomarkers and plasma NfL may provide complementary, non-redundant information on distinct aspects of ALS pathobiology, though their precise temporal and mechanistic interactions require confirmation by dedicated longitudinal studies. The need for the combined use of neurodegeneration and oxidative-stress biomarkers for monitoring the progression of ALS is highlighted.",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Sharbafshaaer M",
+        "Pepe R",
+        "Cortini E",
+        "Biscardi T",
+        "Notariale R",
+        "Mesini N",
+        "Zucchi E",
+        "Mandrioli J",
+        "Tessitore A",
+        "Bergamo P",
+        "Trojsi F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42792233/"
+    },
+    {
       "id": "pmid-42760307",
       "pmid": "42760307",
       "doi": "10.1038/d41586-026-02945-z",
@@ -992,139 +1120,6 @@
       ],
       "publishedAt": "2026-09-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42758317/"
-    },
-    {
-      "id": "pmid-42753929",
-      "pmid": "42753929",
-      "doi": "10.1016/j.neuro.2026.103577",
-      "title": "Associations of per- and polyfluoroalkyl substances (PFAS) exposures and firefighting experience with microRNA signatures previously linked to Amyotrophic Lateral Sclerosis (ALS): a cross-sectional analysis of active-duty municipal and airport firefighters.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder with unclear etiology in sporadic cases. Blood microRNA (miRNA) expression varies between individuals with and without ALS. Firefighters may face elevated ALS risks due to occupational exposures, including elevated serum per- and polyfluoroalkyl substances (PFAS) concentrations. This study investigates the association between occupational firefighter characteristics (years of experience, incumbent status (binary; 1=incumbent, 0=recruit), serum PFAS) and ALS-relevant miRNA expression in U.S. firefighters across 10 states. MiRNA expression was quantified from blood collected from 608 firefighters. Serum PFAS concentrations were available for a subset of 302 participants. We identified 19 ALS-related miRNAs using miRWalk's Disease Ontology. Adjusted linear regression models estimated associations between exposures and miRNA expression, controlling for demographic and occupational factors. In analyses of firefighter occupational characteristics (n=608), incumbent firefighters had significantly altered expression in ten ALS-related miRNAs compared to new recruits (p<0.05) and all remained significant after false discovery rate (FDR) adjustment for multiple testing (q<0.20). Years of firefighting was associated with lower expression of multiple miRNAs, including hsa-miR-23a-3p (β = -11.276, 95% CI: -18.870, -3.682), and this association remained significant after FDR correction. In PFAS analyses (n=302), higher serum PFAS concentrations were associated with 13 significant PFAS-miRNA associations (p<0.05) involving ALS-related miRNAs, including Sm-PFOS and hsa-let-7i-5p (β = -0.169, 95% CI: -0.287, -0.052), hsa-let-7c-5p (β = -0.128, 95% CI: -0.218, -0.037), and hsa-let-7e-5p (β = -0.113, 95% CI: -0.210, -0.017); PFNA and hsa-let-7c-5p (β = -0.126, 95% CI: -0.214, -0.037); and PFHxS and hsa-let-7i-5p (β = -0.126, 95% CI: -0.223, -0.029). Six remained significant after FDR adjustment (q < 0.20). Hsa-let-7e-5p was significantly lower in firefighters with higher Sm-PFOS, n-PFOS, and in incumbent firefighters. Significant associations between PFAS exposure, firefighting status, and ALS-related miRNAs suggest that PFAS exposure and firefighting characteristics are associated with miRNA expression patterns previously linked to ALS, warranting further investigation into potential biological pathways.",
-      "journal": "Neurotoxicology",
-      "authors": [
-        "Hawkes BA",
-        "Goodrich JM",
-        "Beitel SC",
-        "Porter C",
-        "Burgess JL",
-        "Jung AM",
-        "Furlong MA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42753929/"
-    },
-    {
-      "id": "pmid-42770357",
-      "pmid": "42770357",
-      "doi": "10.2174/0113895575494157260901095536",
-      "title": "Designing Multi-functional Antioxidants for Neurodegenerative Disorders.",
-      "abstract": "Neurodegenerative disorders (NDs), including Alzheimer's disease, Parkinson's disease (PD), Amyotrophic Lateral Sclerosis (ALS), Huntington's disease (HD) and Multiple Sclerosis (MS), pose a major global health threat due to complex pathology, increased prevalence, and lack of effective therapies. Numerous findings have indicated that oxidative stress (OS) is a central and unifying pathological mechanism driving neuronal dysfunction and degeneration across these disorders. Excessive reactive oxygen species (ROS) and nitrogen species (RNS) generation, coupled with impaired endogenous antioxidant defenses, leads to lipid peroxidation, protein misfolding, nucleic acid damage, mitochondrial dysfunction, neuroinflammation, metal dyshomeostasis, and disruption of the blood-brain barrier (BBB). These interconnected processes form self-perpetuating pathogenic cycles that accelerate synaptic failure and neuronal loss. This review is a compilation of thoroughly searched literature from the last 20 years (2006-2026) on OS-mediated neurodegeneration and emerging antioxidant-based therapeutic strategies for neurodegenerative disorders, sourced from PubMed, Scopus, ScienceDirect, Google Scholar, and Web of Science. Relevant articles were selected using specific keywords \"Neurodegenerative Disorders\", Neurodegenerative disorders and antioxidants\", \"Alzheimer's Disease and Oxidative Stress\", \"Parkinson's Disease and Oxidative Stress\", \"Alzheimer's Disease and Multi-functional Antioxidants\", \"Parkinson's Disease and Multifunctional Antioxidants\", \"Neurodegenerative Disorders and Antioxidant therapies\". Despite strong mechanistic support, conventional antioxidant-based therapies have demonstrated limited clinical success, largely due to poor bioavailability, inadequate BBB penetration, and failure to address the multifactorial nature of neurodegeneration. Consequently, there is a paradigm shift toward the development of multi-functional antioxidants capable of simultaneously targeting multiple redoxdriven pathways. Such agents are designed to combine free-radical scavenging, metal chelation, mitochondrial protection, modulation of redox-sensitive signaling pathways, and regulation of neuroinflammatory responses within a single therapeutic framework. By restoring redox homeostasis while preserving physiological redox signaling, multi-functional antioxidants offer a rational and promising disease-modifying strategy. This review critically examines OS-mediated mechanisms underlying major NDs and emphasizes the therapeutic potential of designed multi-functional antioxidants as next-generation neuroprotective agents.",
-      "journal": "Mini reviews in medicinal chemistry",
-      "authors": [
-        "Sahu K",
-        "Sahu R",
-        "Mishra M",
-        "Chhabra N",
-        "Tiwari S",
-        "Kaur K",
-        "Rathore H",
-        "Lodhi R",
-        "Sulakhiya K"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770357/"
-    },
-    {
-      "id": "pmid-42770359",
-      "pmid": "42770359",
-      "doi": "10.2174/0115672026502165260904054005",
-      "title": "Ferroptosis in Neurodegenerative Diseases: Iron Dysregulation, GPX4/FSP1 Signaling, and Emerging Neuroprotective Strategies.",
-      "abstract": "Neurodegenerative Diseases (NDDs), including Alzheimer's Disease (AD), Parkinson's Disease (PD), Amyotrophic Lateral Sclerosis (ALS), Huntington's Disease (HD), and Multiple Sclerosis (MS), are increasingly associated with ferroptosis, a regulated irondependent form of cell death characterised by the excessive accumulation of lipid peroxides. This review examines the molecular underpinnings of ferroptosis, focusing on dysregulation in iron homeostasis, increased vulnerability of polyunsaturated fatty acids in neuronal membranes, and impairment of antioxidant defence systems, particularly the Glutathione-GPX4 and FSP1-CoQ10-NADPH pathways. Relevant literature was critically analysed to explore mechanistic insights and therapeutic implications. Pathological hallmarks such as amyloid-β, tau, and α-synuclein were found to disrupt iron metabolism, thereby exacerbating oxidative stress and mitochondrial dysfunction across various NDDs. These alterations significantly contribute to neuronal damage and disease progression through ferroptosis-related mechanisms. Emerging therapeutic strategies, including radical-trapping antioxidants, iron chelators, and nanotechnology-based delivery systems, show potential in targeting ferroptosis. However, challenges in clinical translation persist. Artificial intelligence and personalised medicine approaches may address these issues by enabling patient stratification, biomarker discovery, and optimisation of therapeutic interventions. Ferroptosis represents a promising therapeutic target for mitigating oxidative and metal-induced neurotoxicity in neurodegenerative disorders. Future research integrating multiomics profiling, longitudinal clinical data, and advanced computational modelling is essential to validate the efficacy of ferroptosis-targeted interventions and facilitate their successful translation into precision neurotherapeutics.",
-      "journal": "Current neurovascular research",
-      "authors": [
-        "Kumari N",
-        "Dwivedi S",
-        "Yadav S",
-        "Kosey S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770359/"
-    },
-    {
-      "id": "pmid-42754903",
-      "pmid": "42754903",
-      "doi": "10.1186/s40900-026-00974-6",
-      "title": "Management of choking in Motor Neuron Disease: patient and public involvement in a co-produced mixed-methods study protocol.",
-      "abstract": "Up to 70% of people living with Motor Neuron Disease (plwMND) report distressing episodes of choking (a feeling of suffocation or airways blockage) due to involvement of bulbar muscles. There is an evidence gap on management of choking in plwMND, which is mirrored by the absence of guidance and training for healthcare professionals. Choking in plwMND is associated with other signs of bulbar involvement, such as communication difficulties due to dysarthria, which can be a barrier to effective participation in research. In this study protocol, we describe an innovative approach to meaningful involvement of plwMND, to co-produce a research project on management of choking tailored to their needs and aligning with their priorities. Phase 1 (Patient and public involvement co-design meeting): We first engaged in a meeting with plwMND, carers and healthcare professionals, to identify their priorities in relation to improving management of choking in MND. To ensure inclusive participation, we used the Theory of Change framework; people with communication difficulties were supported by a Speech and Language Therapist through their chosen augmentative and alternative communication aids. A key priority identified was the need to produce evidence-based guidance for management of choking tailored to the needs of plwMND. Phase 2 (Healthcare research study protocol on management of choking): based on the outcome of Phase 1, a multidisciplinary team (including individuals with lived experience) designed a mixed-methods, multi-centre research project based on four work packages (WPs). WP1: systematic review of the existing scientific literature on management of choking; WP2: interviews and focus groups with people with lived experience of choking in MND; WP3: co-design of a clinical algorithm detailing interventions to manage choking, based on WP1 and 2; WP4: algorithm development and dissemination with continuous involvement and input from people with lived experience through a Patient and Public Involvement co-applicant and patients' representatives. In plwMND and choking, barriers to inclusion in PPI and research range from reduced accessibility due to physical disabilities, to discriminatory sampling due to communication issues. Through inclusive engagement at the outset, plwMND highlighted a mismatch between their priorities (gaining knowledge about choking and feeling empowered to manage it at home) and available evidence (lack of guidance and training for healthcare professionals). This research project aligns with what matters to most affected patients, their carers and healthcare professionals, aiming to fill an evidence gap through new guidance to manage choking tailored to their needs. Motor Neuron Disease (MND) is a life-limiting condition that damages nerve cells in the brain and spinal cord. It gets worse over time and cannot be cured. As the disease progresses, muscles become weaker, including those used for breathing, swallowing, coughing and speaking. People with MND often have trouble keeping their airways clear. Food, drinks or saliva can go down the wrong way and block the airway. This can cause choking. In people with MND, choking can happen more often, be more severe, and last longer than in other people. It can also happen outside of mealtimes. Choking is frightening for both patients and carers. It can lead to emergency calls, hospital visits and urgent medical treatment. Knowing what to do during a choking episode is important for patients, carers and healthcare professionals. However, there is currently no specific guidance or training designed for people with MND and those who care for them. Communication can also become difficult for people with MND, which can make it harder for them to take part in research and have their voice heard. In this project, people with lived experience of MND and episodes of choking have worked together to identify new research outcomes and set the path for next stages of research in this field. Together we will: (1) review and summarise the best available evidence on how to manage choking in MND, and identify gaps in knowledge; (2) talk to people with MND, their carers and healthcare professionals, to understand their experiences and needs; (3) use this information to develop practical guidance on how to manage choking; (4) share this guidance with the MND community and healthcare professionals.",
-      "journal": "Research involvement and engagement",
-      "authors": [
-        "Moffatt D",
-        "Hinton L",
-        "Spurway L",
-        "Martin A",
-        "Drinkwater N",
-        "Noonan D",
-        "Rose C",
-        "Mazzucco S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754903/"
-    },
-    {
-      "id": "pmid-42756552",
-      "pmid": "42756552",
-      "doi": "10.1093/braincomms/fcag302",
-      "title": "Metabolic alterations in the absence of a neuromuscular phenotype in humanized SOD1 A5V mice.",
-      "abstract": "Amyotrophic lateral sclerosis caused by mutations in superoxide dismutase 1 ( SOD1 ) accounts for 15-30% of familial cases and is typically autosomal dominant. How single amino acid changes in this small protein cause neurodegeneration is unknown. In North America, SOD1 A5V is the most common familial SOD1 mutation and results in an aggressive form of amyotrophic lateral sclerosis. Here, we present a novel genomically humanized mouse model of SOD1 A5V , in which the mouse Sod1 locus has been replaced by the human SOD1 gene, with intact genomic architecture of exons and introns, but bearing an A5 V mutation. In agreement with previously reported human genomic knock-in mice, the phenotype is mild; however, transcriptomic and metabolomic profiling reveal significant dysregulation of glycolysis, the tricarboxylic acid cycle, and lipid metabolism. These changes suggest an early bioenergetic imbalance that precedes neuromuscular impairment. Our findings support metabolic dysfunction as an early event in amyotrophic lateral sclerosis pathogenesis. This freely available SOD1 A5V model provides a valuable tool for studying amyotrophic lateral sclerosis progression and identifying therapeutic targets for pre-symptomatic treatment.",
-      "journal": "Brain communications",
-      "authors": [
-        "Thompson D",
-        "Williams C",
-        "Price G",
-        "Tosolini AP",
-        "Falker-Gieske C",
-        "Gilthorpe JD",
-        "Schiavo G",
-        "Fisher EMC",
-        "Cunningham TJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756552/"
-    },
-    {
-      "id": "pmid-42753291",
-      "pmid": "42753291",
-      "doi": "10.1016/j.neurot.2026.e01056",
-      "title": "New approach methodologies in neurotherapeutics development.",
-      "abstract": "New Approach Methodologies (NAMs) offer substantial opportunities to transform neurotherapeutics discovery, optimization, and development, reducing the timeline to translate central nervous system (CNS) innovations to patients. Strategically deployed, NAMs enhance the predictive value of preclinical studies for human outcomes while reducing reliance on animal models. Current scientific community interest focuses particularly on human-based and -derived systems, in silico and AI-driven models, and advanced microphysiological platforms, reflecting a shift toward human-centric drug development paradigms. Despite this momentum, significant challenges remain, including NAM reproducibility and validation, the establishment of standardized performance criteria, data sharing, and the evolution of regulatory frameworks needed to enable consistent adoption across the neurotherapeutics continuum. Nevertheless, there is a rich history of developing and adopting methodologies, particularly for improving the prediction of neurotherapeutic safety profiles while reducing animal use, and for advancing understanding of drug delivery across the blood-brain barrier, and the assessment of adverse neurological effects. These advances have begun to influence regulatory decision-making and are increasingly reflected in guidance and review practices. Furthermore, NAMs are showing concrete impact in neurological disorders, including Epilepsy, Amyotrophic lateral sclerosis (ALS), Alzheimer's disease, and Parkinson's disease, where human-relevant models and computational approaches support more precise characterization of disease mechanisms and therapeutic responses. In this paper, we examine the current and emerging roles of NAMs in neurotherapeutics development from government, academia, and industry perspectives, highlight key opportunities and limitations, and discuss the scientific, technical, and regulatory steps required to fully realize their potential in accelerating safe and effective CNS therapies.",
-      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
-      "authors": [
-        "Tamiz AP",
-        "Baran SW",
-        "Hartung T",
-        "Wu WW"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42753291/"
     }
   ]
 }
