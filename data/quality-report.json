@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-27T00:34:08.761Z",
+  "updatedAt": "2026-09-28T00:43:12.029Z",
   "summary": {
     "totalItems": 40,
-    "issueCount": 41
+    "issueCount": 39
   },
   "sources": [
     {
@@ -23,14 +23,25 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-42799589",
+      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
+      "titleZh": "以血清阴性重症肌无力为表现的核黄素转运体缺乏症的生物标志物引导诊断：来自一个近亲婚配家庭的简短报告",
+      "category": "临床试验",
+      "evidenceLevel": "病例报告（单例，近亲婚配家庭）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799589/"
+    },
+    {
       "id": "epmc-PPR-PPR1325305",
       "title": "Parkinson’s Disease Onset in Light of Acquired Irreversible Piezo2 Channelopathy",
-      "titleZh": "从获得性不可逆Piezo2通道病看帕金森病的起病",
+      "titleZh": "从获得性不可逆Piezo2通道病看帕金森病的发病",
       "category": "机制",
       "evidenceLevel": "机制研究（预印本，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.20944/preprints202609.1965.v1"
     },
     {
@@ -38,7 +49,7 @@
       "title": "RNA Editing of DEGS1 Links Genetic Risk to Ceramide Dysregulation and Astrocyte Toxicity in ALS",
       "titleZh": "DEGS1的RNA编辑将遗传风险与ALS中的神经酰胺失调及星形胶质细胞毒性联系起来",
       "category": "遗传",
-      "evidenceLevel": "待人工判定（来源仅提供题名与登记字段，无摘要，无法判断研究类型与证据等级）",
+      "evidenceLevel": "预印本，摘要缺失，证据等级待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -83,12 +94,12 @@
     {
       "id": "pmid-42751043",
       "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
-      "titleZh": "从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
+      "titleZh": "从愿景到验证：托夫生治疗超氧化物歧化酶1基因相关肌萎缩侧索硬化的历程",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（综述/评论，原始记录未提供摘要）",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42751043/"
     },
     {
@@ -96,21 +107,21 @@
       "title": "C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
       "titleZh": "一例继发进展型多发性硬化合并夫妻同患ALS患者的C9ORF72相关延髓起病型肌萎缩侧索硬化",
       "category": "遗传",
-      "evidenceLevel": "病例报告（单例），证据等级低；原始来源未提供摘要，具体方法学与数据无法评估。",
+      "evidenceLevel": "个案报道（病例报告）；原始元数据未提供摘要，证据等级待人工判定",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791439/"
     },
     {
       "id": "epmc-PPR-PPR1325305",
       "title": "Parkinson’s Disease Onset in Light of Acquired Irreversible Piezo2 Channelopathy",
-      "titleZh": "从获得性不可逆Piezo2通道病看帕金森病的起病",
+      "titleZh": "从获得性不可逆Piezo2通道病看帕金森病的发病",
       "category": "机制",
       "evidenceLevel": "机制研究（预印本，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.20944/preprints202609.1965.v1"
     },
     {
@@ -118,7 +129,7 @@
       "title": "RNA Editing of DEGS1 Links Genetic Risk to Ceramide Dysregulation and Astrocyte Toxicity in ALS",
       "titleZh": "DEGS1的RNA编辑将遗传风险与ALS中的神经酰胺失调及星形胶质细胞毒性联系起来",
       "category": "遗传",
-      "evidenceLevel": "待人工判定（来源仅提供题名与登记字段，无摘要，无法判断研究类型与证据等级）",
+      "evidenceLevel": "预印本，摘要缺失，证据等级待人工判定",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -140,7 +151,7 @@
       "title": "Phenotype-Related Characteristics of Tongue Motor Function in Amyotrophic Lateral Sclerosis: A Retrospective Comparative Study of Static and Dynamic Acoustic Measures.",
       "titleZh": "肌萎缩侧索硬化中与表型相关的舌运动功能特征：静态与动态声学测量的回顾性比较研究",
       "category": "临床试验",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法评估研究设计与证据强度）",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法评估研究设计与证据强度；来源为回顾性比较研究）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
@@ -230,38 +241,16 @@
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
       "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "专家观点/评论文章（非原始临床试验）",
+      "evidenceLevel": "专家评论/方法学述评",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685299/"
     },
     {
-      "id": "pmid-42788121",
-      "title": "LRP12 CGG Repeat Expansions in Patients With Adult-Onset Non-5q Spinal Muscular Atrophy.",
-      "titleZh": "成人起病非5q型脊髓性肌萎缩症患者中的LRP12 CGG重复扩增",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/"
-    },
-    {
-      "id": "pmid-42751043",
-      "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
-      "titleZh": "从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定（综述/评论，原始记录未提供摘要）",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751043/"
-    },
-    {
       "id": "pmid-42675240",
       "title": "Artificial Intelligence in Neuromuscular Diseases: Opportunities for a Data-Scarce Field.",
-      "titleZh": "人工智能在神经肌肉疾病中的应用：一个数据稀缺领域的机遇",
+      "titleZh": "人工智能在神经肌肉疾病中的应用：数据稀缺领域的机遇",
       "category": "临床试验",
       "evidenceLevel": "叙述性综述",
       "relevanceScore": 7,
@@ -301,17 +290,6 @@
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42789481/"
-    },
-    {
-      "id": "pmid-42789089",
-      "title": "Integrative synaptosome multi-omics reveals disrupted synapse organization and localized cryptic transcripts in C9ORF72-frontotemporal dementia.",
-      "titleZh": "整合性突触体多组学揭示C9ORF72-额颞叶痴呆中突触组织破坏及局部隐蔽转录本",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/"
     },
     {
       "id": "trial-NCT07796776",
@@ -481,18 +459,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 5,
+    "疑似误收": 6,
     "缺标识符": 0,
     "缺摘要": 12,
-    "高优先级待复核": 24,
+    "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 40
   },
   "relevanceCounts": {
-    "high": 28,
-    "medium": 7,
-    "low": 5
+    "high": 26,
+    "medium": 8,
+    "low": 6
   }
 }

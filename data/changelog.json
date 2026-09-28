@@ -1,53 +1,81 @@
 {
-  "updatedAt": "2026-09-27T00:34:08.809Z",
-  "previousSnapshot": "data/archive/2026-09-26.json",
+  "updatedAt": "2026-09-28T00:43:12.085Z",
+  "previousSnapshot": "data/archive/2026-09-27.json",
   "current": "data/items.json",
   "summary": {
-    "added": 2,
-    "removed": 2,
-    "changed": 9
+    "added": 4,
+    "removed": 4,
+    "changed": 8
   },
   "added": [
     {
-      "id": "pmid-42791439",
-      "titleZh": "一例继发进展型多发性硬化合并夫妻同患ALS患者的C9ORF72相关延髓起病型肌萎缩侧索硬化",
-      "category": "遗传",
-      "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791439/"
+      "id": "pmid-42800647",
+      "titleZh": "多胺在神经退行性蛋白病中的作用",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800647/"
     },
     {
-      "id": "pmid-42790799",
-      "titleZh": "内在无序蛋白与液-液相分离：分子语法、凝聚体生理学及疾病相关相变",
+      "id": "pmid-42799915",
+      "titleZh": "神经影像在运动神经元病中的潜在作用",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799915/"
+    },
+    {
+      "id": "pmid-42799858",
+      "titleZh": "从肌萎缩侧索硬化/额颞叶痴呆的视角洞察X连锁肌张力障碍-帕金森综合征与脊髓小脑共济失调36型",
       "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42790799/"
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799858/"
+    },
+    {
+      "id": "pmid-42799589",
+      "titleZh": "以血清阴性重症肌无力为表现的核黄素转运体缺乏症的生物标志物引导诊断：来自一个近亲婚配家庭的简短报告",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799589/"
     }
   ],
   "removed": [
     {
-      "id": "pmid-42666931",
-      "titleZh": "ATXN2 谱系疾病：超越显性遗传的遗传复杂性",
+      "id": "pmid-42789089",
+      "titleZh": "整合性突触体多组学揭示C9ORF72-额颞叶痴呆中突触组织破坏及局部隐蔽转录本",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42666931/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/"
     },
     {
-      "id": "pmid-42786852",
-      "titleZh": "细胞死亡通路在肌萎缩侧索硬化全病程中的治疗意义",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42786852/"
+      "id": "pmid-42785576",
+      "titleZh": "ALS中基于团队的严重疾病沟通的定性研究",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785576/"
+    },
+    {
+      "id": "pmid-42782389",
+      "titleZh": "FUS-ALS中线粒体生物能量学、RNA加工和细胞应激反应的失调：多数据集转录组学视角",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42782389/"
+    },
+    {
+      "id": "pmid-42778785",
+      "titleZh": "中国441例延髓起病型运动神经元病（MND）的自然史：一项单中心回顾性研究",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778785/"
     }
   ],
   "changed": [
     {
-      "id": "pmid-42756835",
-      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
+      "id": "pmid-42721706",
+      "titleZh": "肌萎缩侧索硬化中血脑屏障与神经血管单元的功能障碍——从先进人类模型到治疗",
       "changes": [
         {
-          "field": "priority",
-          "before": "medium",
-          "after": "high"
+          "field": "evidenceLevel",
+          "before": "综述（非原始临床研究）",
+          "after": "综述"
         }
       ]
     },
@@ -57,57 +85,62 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "专家评论/方法学述评",
-          "after": "专家观点/评论文章（非原始临床试验）"
+          "before": "专家观点/评论文章（非原始临床试验）",
+          "after": "专家评论/方法学述评"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42788121",
+      "titleZh": "成人起病非5q型脊髓性肌萎缩症患者中的LRP12 CGG重复扩增",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "high",
+          "after": "medium"
         }
       ]
     },
     {
       "id": "pmid-42751043",
-      "titleZh": "从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
+      "titleZh": "从愿景到验证：托夫生治疗超氧化物歧化酶1基因相关肌萎缩侧索硬化的历程",
       "changes": [
         {
           "field": "priority",
-          "before": "medium",
-          "after": "high"
+          "before": "high",
+          "after": "medium"
         },
         {
           "field": "evidenceLevel",
-          "before": "待人工判定（原文未提供摘要，无法评估研究设计与证据等级）",
-          "after": "待人工判定（综述/评论，原始记录未提供摘要）"
+          "before": "待人工判定（综述/评论，原始记录未提供摘要）",
+          "after": "待人工判定"
         }
       ]
     },
     {
-      "id": "pmid-42719214",
-      "titleZh": "草药纳米颗粒治疗神经退行性疾病：从分子机制到治疗转化",
+      "id": "pmid-42791439",
+      "titleZh": "一例继发进展型多发性硬化合并夫妻同患ALS患者的C9ORF72相关延髓起病型肌萎缩侧索硬化",
       "changes": [
         {
-          "field": "evidenceLevel",
-          "before": "综述（非原始临床试验）",
-          "after": "综述（非原始临床试验，非动物或细胞原始研究）"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42785576",
-      "titleZh": "ALS中基于团队的严重疾病沟通的定性研究",
-      "changes": [
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        },
         {
           "field": "evidenceLevel",
-          "before": "定性研究（低级别证据，用于生成假设）",
-          "after": "定性研究（半结构化访谈与焦点小组，主题分析）"
+          "before": "病例报告（单例），证据等级低；原始来源未提供摘要，具体方法学与数据无法评估。",
+          "after": "个案报道（病例报告）；原始元数据未提供摘要，证据等级待人工判定"
         }
       ]
     },
     {
       "id": "epmc-PPR-PPR1325305",
-      "titleZh": "从获得性不可逆Piezo2通道病看帕金森病的起病",
+      "titleZh": "从获得性不可逆Piezo2通道病看帕金森病的发病",
       "changes": [
         {
           "field": "priority",
-          "before": "medium",
-          "after": "low"
+          "before": "low",
+          "after": "medium"
         }
       ]
     },
@@ -117,19 +150,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "预印本，摘要缺失，证据等级待人工判定",
-          "after": "待人工判定（来源仅提供题名与登记字段，无摘要，无法判断研究类型与证据等级）"
-        }
-      ]
-    },
-    {
-      "id": "epmc-MED-42773049",
-      "titleZh": "神经退行性变中的脂噬与脂滴",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "机制研究（综述类，摘要缺失，无法进一步分级）",
-          "after": "机制研究（综述）"
+          "before": "待人工判定（来源仅提供题名与登记字段，无摘要，无法判断研究类型与证据等级）",
+          "after": "预印本，摘要缺失，证据等级待人工判定"
         }
       ]
     },
@@ -139,8 +161,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "待人工判定（仅题录信息，无摘要，无法评估研究质量与证据等级）",
-          "after": "待人工判定（原始元数据未提供摘要，无法评估研究设计与证据强度）"
+          "before": "待人工判定（原始元数据未提供摘要，无法评估研究设计与证据强度）",
+          "after": "待人工判定（原始元数据未提供摘要，无法评估研究设计与证据强度；来源为回顾性比较研究）"
         }
       ]
     }
