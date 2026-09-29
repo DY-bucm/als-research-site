@@ -1,14 +1,93 @@
 {
-  "updatedAt": "2026-09-28T00:41:46.865Z",
+  "updatedAt": "2026-09-29T01:53:51.587Z",
   "period": {
     "days": 10,
-    "from": "2026-09-19",
-    "to": "2026-09-28"
+    "from": "2026-09-20",
+    "to": "2026-09-29"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 39,
+  "count": 37,
   "articles": [
+    {
+      "id": "pmid-42802700",
+      "pmid": "42802700",
+      "doi": "10.1080/07391102.2026.2735392",
+      "title": "Conformational insights into the unfolding pathway of RNA recognition motif (RRM) domain of TAF15 associated with amyotrophic lateral sclerosis.",
+      "abstract": "The RNA recognition motif (RRM) domain of TAF15 protein plays an essential role in RNA binding and regulation of diverse cellular processes. However, the molecular mechanism underlying its structural stability and folding behaviour associated with disease state remains poorly understood. Herein, we performed an extensive molecular dynamics (MD) simulations study to investigate the conformational dynamics and unfolding pathway of the TAF15-RRM domain in 8 M urea. The elevated temperatures (300-500 K) were employed to accelerate the unfolding and capture different conformational states. The results from 3 μs cumulative MD simulations revealed that unfolding proceeds through stable, denaturant/temperature-accelerated partially unfolded intermediate ensembles. The native conformation of TAF15-RRM largely confined to marginal perturbation in urea at 300-350 K. The major conformational changes occurred in urea at 400-450 K, revealing distinct conformational ensembles corresponding to native (N), intermediate (I), and unfolded (U) populations. Whereas the native structure of protein was lost abruptly within ∼0-50 ns, at 500 K. At 400 K, the unfolding dynamics restricted to I-state with the loss of ∼55% native contacts. All three (N, I and U) stages are captured more distinctly in urea at 450 K. Furthermore, the secondary structure analyses demonstrated a higher susceptibility of β-sheets toward urea-induced unfolding, accompanied by the transient structures of non-native extended β-conformations and helical intermediates. FELs analyses suggest that the I-state populations are heterogeneous in nature which are largely stabilized by the partial retention and rearrangement of native H-bonds. These results thus highlight conformational signatures of unfolding intermediates that, by analogy with aggregation-prone intermediates characterized in other proteins, may be relevant to TAF15 self-assembly.",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "authors": [
+        "Chaudhary V",
+        "Kataria P",
+        "Yadav K",
+        "Kumar V",
+        "Prakash A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802700/"
+    },
+    {
+      "id": "pmid-42803299",
+      "pmid": "42803299",
+      "doi": "10.1093/brain/awag334",
+      "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis is a fatal neurodegenerative disease characterized by the cytoplasmic mislocalization, aberrant phosphorylation and pathological aggregation of TDP-43, a nuclear RNA-binding protein essential for RNA metabolism. Despite its central involvement in ALS pathogenesis, the molecular mechanisms that govern TDP-43 proteostasis remain incompletely understood. Here, we investigated the role of LRSAM1, an E3 ubiquitin ligase, in regulating TDP-43 localization and degradation. Postmortem spinal cord tissues from five patients with sporadic amyotrophic lateral sclerosis and five healthy controls were examined. Immunohistochemical analyses revealed that LRSAM1 preferentially colocalized with diffusely mislocalized cytoplasmic TDP-43 but not with dense cytoplasmic aggregates, suggesting a potential role in early-stage pathological processing. To model these effects in vitro, induced pluripotent stem cell-derived motor neurons from three patients with amyotrophic lateral sclerosis and four healthy control participants were used. Knockdown of LRSAM1 in induced pluripotent stem cell-derived motor neurons from patients with amyotrophic lateral sclerosis significantly increased cytoplasmic TDP-43 accumulation and phosphorylation, as measured by immunofluorescence imaging. Moreover, STMN2 mRNA splicing, a well-established TDP-43 functional readout, was disrupted upon LRSAM1 depletion. Conversely, overexpression of LRSAM1 ameliorated stress-induced TDP-43 mislocalization and phosphorylation in induced pluripotent stem cell-derived motor neurons from patients with amyotrophic lateral sclerosis but had minimal impact in control cells, indicating disease-specific vulnerability. Mechanistically, LRSAM1 interacted directly with the aggregation-prone C-terminal fragments of TDP-43 via the RRM2 domain of TDP-43 and promoted their proteasomal degradation. This selective interaction reduced the accumulation of toxic TDP-43 species and supported cytoplasmic proteostasis, particularly under conditions of cellular stress. In summary, our study identifies LRSAM1 as a novel modulator of cytoplasmic TDP-43 dynamics in amyotrophic lateral sclerosis. By facilitating degradation of pathogenic TDP-43 fragments, LRSAM1 preserves neuronal RNA processing and mitigates molecular hallmarks of amyotrophic lateral sclerosis. These findings enhance our understanding of post-translational control of TDP-43 and highlight LRSAM1 as a promising therapeutic target for modifying disease progression in amyotrophic lateral sclerosis.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Shirakawa T",
+        "Mikuriya S",
+        "Inoue Y",
+        "Murasaki K",
+        "Salinas F",
+        "Takegawa-Araki T",
+        "Tamura M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803299/"
+    },
+    {
+      "id": "pmid-42804712",
+      "pmid": "42804712",
+      "doi": "10.1097/NRL.0000000000000694",
+      "title": "Neuroepigenetics of the Environmental Exposome: Molecular and Clinical Implications in Neurodegeneration.",
+      "abstract": "Neuroepigenetics studies the molecular mechanisms that regulate gene expression in the nervous system without altering the DNA sequence. The environmental exposome has emerged as a key factor influencing neuronal plasticity and brain homeostasis, contributing to vulnerability to neurodegeneration. This narrative review analyzes the role of neuroepigenetic reprogramming as a central mechanism linking chronic environmental exposures with neurodegenerative diseases. Evidence indicates that alterations in DNA methylation, histone remodeling, and microRNA regulation contribute to mitochondrial dysfunction, oxidative stress, and chronic neuroinflammation. These mechanisms are critically involved in the pathogenesis of Alzheimer disease, Parkinson disease, and amyotrophic lateral sclerosis. Neuroepigenetics represents a central mechanistic axis in neurodegeneration by integrating environmental exposures with intrinsic biological processes. This framework offers new opportunities for the development of early biomarkers and targeted preventive and therapeutic strategies.",
+      "journal": "The neurologist",
+      "authors": [
+        "Avendaño-Arango E",
+        "Salom-Palacio I",
+        "Castillo-Támara EE",
+        "Palacio-Villalba B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804712/"
+    },
+    {
+      "id": "pmid-42804741",
+      "pmid": "42804741",
+      "doi": "10.1093/qjmed/hcag270",
+      "title": "REM-associated nocturnal hypercapnia in amyotrophic lateral sclerosis.",
+      "abstract": "",
+      "journal": "QJM : monthly journal of the Association of Physicians",
+      "authors": [
+        "Ishihara K",
+        "Naito H",
+        "Maruyama H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804741/"
+    },
     {
       "id": "pmid-42799589",
       "pmid": "42799589",
@@ -693,13 +772,13 @@
       "pmid": "42780028",
       "doi": "10.64898/2026.09.17.26363319",
       "title": "Genetically Predicted Blood DNA Methylation Reveals Putative Regulatory Signals Associated with ALS Risk.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder whose genetic architecture and underlying molecular mechanisms remain incompletely understood, particularly in sporadic disease. To investigate whether genetically regulated DNA methylation may help interpret ALS susceptibility, we conducted a methylome-wide association study (MWAS) of genetically predicted blood DNA methylation using the PrediXcan framework. CpG-specific prediction models developed in the ARIES and Understanding Society cohorts were applied to ALS genome-wide association study (GWAS) summary statistics from 27,205 cases and 110,881 controls of European ancestry. In total, genetically predicted methylation at 192,378 unique CpG sites was evaluated using S-PrediXcan. At a nominal threshold of p < 0.05, 3,741 CpGs were associated with ALS risk using ARIES models and 13,127 using Understanding Society models. After Bonferroni correction, 25 CpGs across eight genomic regions remained significantly associated with ALS risk. These included signals near established ALS and ALS-frontotemporal dementia genes and loci, including C9orf72, TBK1, SCFD1, and MOB3B, as well as three CpGs mapping to WHAMM at 15q25.2, a region not previously implicated in ALS by GWAS. Predicted methylation was positively associated with ALS risk at 18 CpGs and inversely associated at seven. Complementary transcriptome-wide association analyses using GTEx v8 whole-blood gene-expression prediction models identified 11 genes associated with ALS risk after Bonferroni correction, including convergent methylation and expression signals at C9orf72. These findings add a regulatory dimension to ALS genetic studies by prioritizing CpG sites, genes, and genomic regions through which inherited variation may influence disease susceptibility. PrediXcan-based MWAS therefore provides a complementary strategy for refining genetic association signals into biologically testable candidates and identifying regulatory mechanisms for further functional investigation.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder whose genetic architecture and underlying molecular mechanisms remain incompletely understood, particularly in sporadic disease. To investigate whether genetically regulated DNA methylation may help interpret ALS susceptibility, we conducted a methylome-wide association study (MWAS) of genetically predicted blood DNA methylation using the PrediXcan framework. CpG-specific prediction models developed in the ARIES and Understanding Society cohorts were applied to ALS genome-wide association study (GWAS) summary statistics from 27,205 cases and 110,881 controls of European ancestry. In total, genetically predicted methylation at 192,378 unique CpG sites was evaluated using S-PrediXcan. At a nominal threshold of p < 0.05, 3,741 CpGs were associated with ALS risk using ARIES models and 13,127 using Understanding Society models. After Bonferroni correction, 25 CpGs across eight genomic regions remained significantly associated with ALS risk. These included signals near established ALS and ALS-frontotemporal dementia genes and loci, including C9orf72 , TBK1 , SCFD1 , and MOB3B , as well as three CpGs mapping to WHAMM at 15q25.2, a region not previously implicated in ALS by GWAS. Predicted methylation was positively associated with ALS risk at 18 CpGs and inversely associated at seven. Complementary transcriptome-wide association analyses using GTEx v8 whole-blood gene-expression prediction models identified 11 genes associated with ALS risk after Bonferroni correction, including convergent methylation and expression signals at C9orf72 . These findings add a regulatory dimension to ALS genetic studies by prioritizing CpG sites, genes, and genomic regions through which inherited variation may influence disease susceptibility. PrediXcan-based MWAS therefore provides a complementary strategy for refining genetic association signals into biologically testable candidates and identifying regulatory mechanisms for further functional investigation.",
       "journal": "medRxiv : the preprint server for health sciences",
       "authors": [
         "Zhao T",
-        "Hoffman MM",
+        "Hoffman M",
         "Wu G",
-        "Belzil VV"
+        "Belzil V"
       ],
       "publicationTypes": [
         "Journal Article",
@@ -843,133 +922,6 @@
       ],
       "publishedAt": "2026-09-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
-    },
-    {
-      "id": "pmid-42782801",
-      "pmid": "42782801",
-      "doi": "10.3390/cells15181701",
-      "title": "AUG-Dependent Translation of Antisense Repeat Transcripts Contributes to Dipeptide Repeat Protein Production in C9ORF72 Expansion Carriers.",
-      "abstract": "A hexanucleotide repeat expansion in C9ORF72 is the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Bidirectional transcription of the repeat expansion generates sense and antisense RNAs that are translated into dipeptide repeat (DPR) proteins, but the mechanisms of translation initiation remain incompletely understood. Here, we used CRISPR-Cas9 genome editing and steric-blocking antisense oligonucleotides (ASOs) to investigate the role of AUG codons within the antisense repeat RNA. Deletion of an AUG-containing region upstream of the antisense repeats markedly reduced poly(GP) production without affecting antisense RNA levels, demonstrating that this sequence is required for efficient poly(GP) synthesis. We further found that unspliced sense transcripts containing the repeat expansion likely serve as templates for poly(GA) and poly(GR) production in motor neurons. Finally, ASOs targeting the antisense AUG-containing region reduced poly(PR) and poly(GP) levels without altering repeat RNA abundance, supporting a role for AUG-dependent translation of the antisense repeat RNA. These findings provide new insights into the mechanisms of DPR production and suggest that translation-blocking ASOs may represent a therapeutic strategy for C9ORF72 -associated ALS/FTD.",
-      "journal": "Cells",
-      "authors": [
-        "Almeida S",
-        "Gu Y",
-        "Kankel MW"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42782801/"
-    },
-    {
-      "id": "pmid-42769968",
-      "pmid": "42769968",
-      "doi": "10.1080/21642850.2026.2709184",
-      "title": "Caregivers in amyotrophic lateral sclerosis (ALS): preliminary results between paid care and family care.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a rare neurodegenerative disease affecting about 6,000 people in Italy. Caring for ALS impacts the quality of life and mental health of formal and informal caregivers, but few studies have explored this. This research analyzes experiences of 9 formal caregivers (FC; 8 women) with an average age of 49.29 years ( SD = 3.861) and 6.58 years of average length of service ( SD = 5.975), and 11 informal caregivers (iFC; 9 women) with an average age of 48.30 years ( SD = 13.500) and who have been caring for relatives for 3.29 years ( SD = 2.500). All participants were recruited from an Italian healthcare residence. We assessed psychological well-being, burnout (for FC), and burden (for iFC), and included testimonies retrieved from online sources. Data were analyzed using mixed-methods analysis, including nonparametric tests, Emotional Text Mining, and discourse analysis. The results showed both groups had high psychological well-being ( Mfc = 85.86; SDfc = 9.026; Mifc = 83.10; SDifc = 11.435). FC had low emotional exhaustion ( M = 16.67; SD = 10.087) and depersonalization ( M = 2.56; SD = 2.186), and a moderate level of personal gratification ( M = 29.11; SD = 11.667; M = 27.43; SD = 11.238). iFC experienced a higher burden when the patient is in a healthcare residence than when he/she was at home. FC discussed patient and family challenges, emphasizing the necessity of research and new therapies; iFC focused on social and emotional needs, seeing themselves as adaptors out of necessity. The study highlights the psychological impact of caregiving and preliminary qualitative differences between paid and family caregivers. Further analysis could explore these distinctions, aiding the development of targeted interventions to promote caregivers' well-being.",
-      "journal": "Health psychology and behavioral medicine",
-      "authors": [
-        "Zambetti E",
-        "Baronchelli I",
-        "Belli S",
-        "Mucci C",
-        "Greco A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42769968/"
-    },
-    {
-      "id": "pmid-42762936",
-      "pmid": "42762936",
-      "doi": "10.1016/j.cellsig.2026.112897",
-      "title": "Defective ATP13A2-ITCH-ALIX signaling impairs intraluminal vesicle biogenesis and increases neuronal vulnerability.",
-      "abstract": "ATP13A2 is a lysosomal P5B-type ATPase whose loss-of-function mutations are associated with a spectrum of neurodegenerative disorders, including early-onset Parkinson's disease, Kufor-Rakeb syndrome, neuronal ceroid lipofuscinosis, hereditary spastic paraplegia, and amyotrophic lateral sclerosis. Although ATP13A2 is known to contribute to lysosomal homeostasis and, thereby, to neuronal degeneration, emerging evidence suggests that it may also influence exosome biology. However, the mechanisms by which endogenous ATP13A2 regulates exosome biogenesis and the relevance of this process to neuronal vulnerability remain unclear. In the present study, using multiple ATP13A2-deficient human cell models, we demonstrated that ATP13A2 deficiency impairs intraluminal vesicle (ILV) biogenesis and reduces exosome secretion across diverse cellular contexts. Loss of ATP13A2 did not markedly affect endocytosis, early endosome abundance, or multivesicular body formation, but it consistently reduced ILV density within multivesicular bodies. Mechanistically, ATP13A2 deficiency promoted lysosome-associated accumulation of the E3 ubiquitin ligase ITCH, which enhanced ubiquitin-proteasome-dependent degradation of ALG-2-interacting protein X (ALIX), a critical adaptor of the endosomal sorting complex required for transport machinery that mediates ILV membrane remodeling. Restoration of ALIX expression or reduction of Itchy E3 ubiquitin-protein ligase (ITCH) activity rescued the ILV biogenesis defects in ATP13A2-deficient neuronal cells. Furthermore, dysregulation of the ATP13A2-ITCH-ALIX pathway increased neuronal susceptibility to mitochondrial stress, whereas restoration of ALIX or reduction of ITCH activity markedly improved neuronal survival. Together, these results identify an ATP13A2-ITCH-ALIX signaling axis linking lysosomal dysfunction to impaired ILV biogenesis and exosome regulation. Our study suggests that defective ILV biogenesis contributes to neuronal vulnerability and that modulation of the ATP13A2-ITCH-ALIX pathway may represent a therapeutic strategy for ATP13A2-associated neurodegeneration.",
-      "journal": "Cellular signalling",
-      "authors": [
-        "Luo L",
-        "Chen W",
-        "Luo S",
-        "Ma S",
-        "Liu K",
-        "Gong Q",
-        "Huang B",
-        "Chen Z",
-        "He Y",
-        "Wang D"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762936/"
-    },
-    {
-      "id": "pmid-42767135",
-      "pmid": "42767135",
-      "doi": "10.1016/j.compbiolchem.2026.109395",
-      "title": "Elucidating the molecular nexus between dental developmental anomalies and chronic inflammatory diseases: A computational systems biology analysis of genomic sequence homology using matrix factorization.",
-      "abstract": "This entirely in silico, exploratory study investigates potential sequence-level links between periodontal disease, developmental dental anomalies such as molar-incisor hypomineralization (MIH), and selected systemic conditions including leukemias, amyotrophic lateral sclerosis, and Alzheimer's disease. To identify annotation-independent signatures, we applied Non-negative Matrix Tri-Factorization (NMTF) to k-mer/tf-idf representations of disease-associated gene and protein sequences compiled from OMIM, GeneCards, and PubMed for eleven curated disease groups; similarity values denote the proportion of the total between-cluster interaction (S-matrix) captured by a cluster. To guard against trivial explanations, we applied a composition-preserving sequence-shuffling test of the similarity magnitude and a degree-preserving (curveball) permutation test of the disease co-clustering that accounts for the dependence introduced by isoform records and shared genes, repeating the latter across a 1890-configuration parameter grid. At the gene level the dominant cluster was governed by the largest disease group (MIH) rather than by disease identity, whereas at the protein level periodontitis, dental anomalies, and leukemia subtypes co-clustered. The magnitude of the shares did not exceed a composition-preserving null (gene p=0.66; protein p=0.082), and under the degree-preserving null co-clustering was not significant at the gene level (p=0.36) but was significant, modest, and grid-robust at the protein level (p=0.033); canonical k-mer and coding-sequence controls confirmed that the gene-level weakness is intrinsic to nucleotide k-mers. These results delineate the protein level as the informative scale for annotation-independent cross-disease screening and identify the dental-leukemia axis as the candidate relationship for targeted follow-up. The findings are hypothesis-generating: the disease-associated gene sets were compiled with a non-systematic, literature-guided procedure, magnitudes do not exceed composition baselines, neither experimental or clinical validation nor quantitative benchmarking against alternative computational frameworks was performed, and any translational implication requires future validation.",
-      "journal": "Computational biology and chemistry",
-      "authors": [
-        "Alemdağ B",
-        "Siyah B",
-        "Alemdağ İN",
-        "Berber T",
-        "Güdük ÖF"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767135/"
-    },
-    {
-      "id": "pmid-42763025",
-      "pmid": "42763025",
-      "doi": "10.1016/j.nbd.2026.107611",
-      "title": "TBK1 overexpression reduces neuronal loss in the P497S UBQLN2 mouse model of ALS/FTD.",
-      "abstract": "Missense mutations in UBQLN2 are linked to dominant inheritance of amyotrophic lateral sclerosis (ALS) which is frequently accompanied by frontotemporal dementia (FTD). The encoded UBQLN2 protein functions to maintain proteostasis, collapse of which is increasingly being realized as the cause of many neurodegenerative diseases. During investigations of our UBQLN2 mouse models of ALS/FTD, we observed a significant decline in Tank-binding kinase 1 (TBK1) protein in end-stage mice. The decline could be significant, as haploinsufficiency of TBK1 expression is linked to ALS/FTD. To determine whether the reduction in TBK1 levels is responsible for driving pathogenesis, we crossed P497S UBQLN2 transgenic (Tg) mice with BacTBK1 Tg mice that overexpress TBK1 and analyzed the progeny for signs of pathology. The analysis revealed that double transgenic mice had a significant reduction in neurodegeneration in both the brain and spinal cord (SC) compared to P497S single-Tg mice. Double immunofluorescence staining of P497S mouse tissue revealed TBK1 colocalizes with UBQLN2 aggregates in spinal motor neurons. Biochemical extraction studies of mouse brain tissue revealed increased enrichment of TBK1 along with wild type and mutant UBQLN2 proteins in detergent-insoluble material, suggesting TBK1 gets sequestered by UBQLN2 aggregates. GST-pulldown assays revealed that UBQLN2 binds directly with TBK1, but paradoxically the P497S mutation was found to reduce TBK1 binding. Turnover studies indicated that loss of UBQLN2 destabilizes TBK1, providing another route for its reduction. These findings lead us to propose that efforts directed toward increasing TBK1 expression may provide a therapeutic approach for treating ALS/FTD caused by UBQLN2 mutations.",
-      "journal": "Neurobiology of disease",
-      "authors": [
-        "Wang S",
-        "Dolce MA",
-        "Burkett AM",
-        "Collis VL",
-        "Fuller PE",
-        "Blanco GA",
-        "Le NTT",
-        "Fingert JH",
-        "Monteiro MJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763025/"
-    },
-    {
-      "id": "pmid-42762093",
-      "pmid": "42762093",
-      "doi": "10.1080/17582024.2026.2736021",
-      "title": "Weak association of pathogenic ERBB4 variants with amyotrophic lateral sclerosis.",
-      "abstract": "ERBB4 variants were reported to cause amyotrophic lateral sclerosis (ALS). However, gene burden analyses did not find an enrichment of rare variants in patients, leaving the pathogenic role of ERBB4 in ALS unclear. Therefore, this study aimed to reassess the association of ERBB4 variants with ALS. Next-generation sequencing was performed in 250 ALS and 714 non-ALS patients. Low-frequency, deleterious non-synonymous ERBB4 variants were filtered, and their allele frequencies were compared between groups. In total, 42 low-frequency and deleterious ERBB4 variants were identified in patients and normal controls, with three variants in all groups. There was no significant difference in allele frequencies between ALS and non-ALS groups. Additionally, four reported pathogenic variants (c.158A > G, c.284G > A, c.965T > A, and c.1624G > A) were observed in patients with neuromuscular disease or leukoencephalopathy, as well as normal controls. Based on the evidence from this study, c.284G > A was reclassified as a likely benign variant, while the others were reclassified as uncertain significance according to the American College of Medical Genetics and Genomics Guidelines. These results suggest a modest association between ERBB4 variants and ALS, underscoring the need for clinicians to conduct more careful molecular diagnosis and genetic consultations for ALS patients with ERBB4 variants.",
-      "journal": "Neurodegenerative disease management",
-      "authors": [
-        "Wang PS",
-        "Zou SM",
-        "Wei Q",
-        "Wu ZY",
-        "Li HF"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762093/"
     }
   ]
 }
