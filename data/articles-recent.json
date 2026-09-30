@@ -1,14 +1,53 @@
 {
-  "updatedAt": "2026-09-29T01:53:51.587Z",
+  "updatedAt": "2026-09-30T01:16:30.565Z",
   "period": {
     "days": 10,
-    "from": "2026-09-20",
-    "to": "2026-09-29"
+    "from": "2026-09-21",
+    "to": "2026-09-30"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 37,
+  "count": 32,
   "articles": [
+    {
+      "id": "pmid-42807601",
+      "pmid": "42807601",
+      "doi": "10.1002/ccr3.73635",
+      "title": "Anesthetic Management and Perioperative Outcome of Emergency Laparotomy in a Patient With Advanced Motor Neurone Disease: A Case Report.",
+      "abstract": "Motor neurone disease (MND) presents significant perioperative challenges due to progressive respiratory muscle weakness, bulbar dysfunction, autonomic instability, and altered sensitivity to anesthetic agents. Emergency surgery further limits opportunities for optimisation and advance planning. We report the perioperative and anesthetic management of a patient with advanced MND undergoing emergency laparotomy for small bowel obstruction. A total intravenous anesthetic with cautious use of neuromuscular blockade was employed, and the patient was successfully extubated postoperatively. Despite an initially uncomplicated postoperative course, the patient subsequently developed progressive respiratory failure in the context of ongoing intra-abdominal pathology. Following multidisciplinary discussion and shared decision-making, care was transitioned to a comfort-focused approach. This case highlights the limitations of perioperative intervention in advanced MND and emphasizes the importance of goal-concordant care in emergency surgical settings.",
+      "journal": "Clinical case reports",
+      "authors": [
+        "Elmahgoub S",
+        "Elshawa A",
+        "Flannery S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807601/"
+    },
+    {
+      "id": "pmid-42807842",
+      "pmid": "42807842",
+      "doi": "10.1183/23120541.00283-2026",
+      "title": "Clinical and economic effectiveness of telehealth in home mechanical ventilation.",
+      "abstract": "The number of patients requiring home mechanical ventilation is rising, while in-person follow-up is increasingly burdensome for patients and health systems. Telehealth may maintain clinical stability and improve care efficiency. This systematic review examined the clinical and economic effectiveness of telehealth in the management of home mechanical ventilation. The study protocol was registered a priori in PROSPERO. A systematic search was conducted in MEDLINE, Embase and Web of Science. The reporting of the systematic review was aligned with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. We included quantitative studies comparing telehealth-supported home ventilation with standard care, reporting clinical or economic outcomes. From 356 identified studies, 11 met the inclusion criteria: nine randomised controlled trials, one cohort study and one retrospective analysis, mostly conducted in Europe, with a total of 1458 participants. The study populations included patients with, e.g. COPD, amyotrophic lateral sclerosis and obesity hypoventilation syndrome. Interventions involved telehealth-supported home ventilation management. Across studies, telehealth-supported care achieved clinical outcomes comparable to those of standard care. Arterial carbon dioxide tension ( P aCO 2 ) control and health-related quality of life were similar between groups, with one study reporting greater P aCO 2 reduction with telemonitoring. Evidence on the number of hospitalisations and exacerbations was mixed. Mortality and survival rates showed nonsignificant trends towards benefit; one cohort study reported improved first-year survival. Economic outcomes varied: home initiation reduced costs, while long-term follow-up results were heterogeneous. elehealth-supported home ventilation appears to be a comparable alternative to in-hospital management and often provides economic advantages. Future research should focus on standardised outcome measures, longer follow-up and health-system-specific cost-effectiveness analyses to guide sustainable implementation.",
+      "journal": "ERJ open research",
+      "authors": [
+        "Filser PJ",
+        "Münchenberg PS",
+        "Berger E",
+        "Busse R",
+        "Garcia C",
+        "Kurth T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807842/"
+    },
     {
       "id": "pmid-42802700",
       "pmid": "42802700",
@@ -501,6 +540,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42763209/"
     },
     {
+      "id": "pmid-42808007",
+      "pmid": "42808007",
+      "doi": "10.1002/gin2.70088",
+      "title": "Comment on 'The Values and Preferences of People Living With Motor Neurone Disease (MND): A Systematic Review and Meta-Analysis'.",
+      "abstract": "",
+      "journal": "Clinical and public health guidelines",
+      "authors": [
+        "Rohtagi R",
+        "Ratnakar PJ",
+        "Sati DM",
+        "Srinivasan H"
+      ],
+      "publicationTypes": [
+        "Letter",
+        "Comment"
+      ],
+      "publishedAt": "2026-09-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808007/"
+    },
+    {
       "id": "pmid-42771220",
       "pmid": "42771220",
       "doi": "10.1007/s11033-026-12774-y",
@@ -730,198 +789,6 @@
       ],
       "publishedAt": "2026-09-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768102/"
-    },
-    {
-      "id": "pmid-42791964",
-      "pmid": "42791964",
-      "doi": "10.3390/bioengineering13091092",
-      "title": "Demographic Shortcuts Account for Most of the Apparent Accuracy of Four-Class Gait-Based Differential Diagnosis in Neurodegenerative Disease: An Interpretability-Driven Audit of Machine Learning on a Public Gait Benchmark.",
-      "abstract": "Machine-learning gait studies often report high accuracy for separating neurodegenerative diseases, but rarely test whether this reflects pathology or the demographic differences that accompany disease in convenience cohorts. We audited the PhysioNet Gait in Neurodegenerative Disease Database (63 subjects: controls, Parkinson's disease [PD], Huntington's disease [HD], amyotrophic lateral sclerosis [ALS]), classifying 37 stride-rhythm features under subject-disjoint nested leave-one-subject-out cross-validation. A random forest reached a macro-averaged one-vs-rest AUROC of 0.832 (95% CI 0.759-0.904; permutation p = 0.001). Four complementary audits-demographic-only baselines, confound adjustment, feature-family ablation, and age matching-show that this overstates gait-specific discrimination: five anthropometric variables alone reached an AUROC of 0.812, statistically indistinguishable from the gait model ( p = 0.701), and the de-confounded gait model (0.755) fell further to 0.585 once age was matched across groups. HD was the exception, essentially unaffected by adjustment (0.812 → 0.804) and carried by variability and long-range-correlation measures. In an independent, age-matched cohort recorded with a different sensor ( n = 110, PD versus control only), the same vulnerability reappeared through a different variable: the gait model (0.828) showed no statistically significant difference from walking speed alone (0.746, p = 0.11), while age and anthropometry fell to chance; this cohort contained no HD subjects, so the HD finding remains externally unvalidated. The shortcut vulnerability generalises across cohorts; the demographic variable that drives it does not. Four-class differential diagnosis is not demonstrated on this benchmark; HD gait arrhythmicity is the one signal that withstands internal sensitivity analysis. We recommend that accuracy claims from small, demographically imbalanced gait cohorts be accompanied by this kind of audit.",
-      "journal": "Bioengineering (Basel, Switzerland)",
-      "authors": [
-        "Wang Z",
-        "Xia Y",
-        "Zhang G"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791964/"
-    },
-    {
-      "id": "pmid-42782811",
-      "pmid": "42782811",
-      "doi": "10.3390/cells15181710",
-      "title": "ERBB4 and Neurodegeneration: Association Between Hypothalamic-Pituitary-Adrenal (HPA) Axis: Associated Neurodegenerative Pathogenesis.",
-      "abstract": "The hypothalamic-pituitary-adrenal (HPA) axis is the central neuroendocrine system that controls physiological stress responses and maintains homeostasis through the coordinated interactions among the hypothalamus, pituitary gland, and adrenal cortex. Dysregulation of the HPA axis is associated with stress-related psychiatric conditions and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Chronic stress creates a detrimental environment in the brain, inducing structural changes and accelerating brain aging and the loss of neurons. Receptor tyrosine-protein kinase ERBB4 (ERBB4), a member of the epidermal growth factor receptor (EGFR) family, is activated primarily by neuregulin ligands and plays an essential role in neuronal development, synaptic plasticity, and cell survival. Emerging evidence suggests that ERBB4 signaling influences neuroendocrine regulation and stress responsivity. While further studies are needed to provide direct mechanistic evidence linking ERBB4-mediated HPA axis dysregulation to neurodegenerative cell death, this manuscript critically evaluated the preclinical models and proposes a possible feed-forward framework wherein ERBB4 served as a permissive homeostatic modulator at the intersection of stress endocrinology and neuroinflammation. Furthermore, the impact of ERBB4 dysregulation and its mutations on neurodegenerative diseases has been presented, focusing on potential mechanisms of oxidative stress, synaptic dysfunction, and neuronal apoptosis. Taken together, ERBB4 represents an important molecular interface between stress signaling and neurodegenerative pathology. Understanding the regulation of ERBB4 in the HPA axis has provided new insights into the mechanisms underlying neurodegenerative diseases and could identify novel therapeutic targets for stress-associated neurological disorders.",
-      "journal": "Cells",
-      "authors": [
-        "Bagyinszky E",
-        "An SSA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42782811/"
-    },
-    {
-      "id": "pmid-42780028",
-      "pmid": "42780028",
-      "doi": "10.64898/2026.09.17.26363319",
-      "title": "Genetically Predicted Blood DNA Methylation Reveals Putative Regulatory Signals Associated with ALS Risk.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder whose genetic architecture and underlying molecular mechanisms remain incompletely understood, particularly in sporadic disease. To investigate whether genetically regulated DNA methylation may help interpret ALS susceptibility, we conducted a methylome-wide association study (MWAS) of genetically predicted blood DNA methylation using the PrediXcan framework. CpG-specific prediction models developed in the ARIES and Understanding Society cohorts were applied to ALS genome-wide association study (GWAS) summary statistics from 27,205 cases and 110,881 controls of European ancestry. In total, genetically predicted methylation at 192,378 unique CpG sites was evaluated using S-PrediXcan. At a nominal threshold of p < 0.05, 3,741 CpGs were associated with ALS risk using ARIES models and 13,127 using Understanding Society models. After Bonferroni correction, 25 CpGs across eight genomic regions remained significantly associated with ALS risk. These included signals near established ALS and ALS-frontotemporal dementia genes and loci, including C9orf72 , TBK1 , SCFD1 , and MOB3B , as well as three CpGs mapping to WHAMM at 15q25.2, a region not previously implicated in ALS by GWAS. Predicted methylation was positively associated with ALS risk at 18 CpGs and inversely associated at seven. Complementary transcriptome-wide association analyses using GTEx v8 whole-blood gene-expression prediction models identified 11 genes associated with ALS risk after Bonferroni correction, including convergent methylation and expression signals at C9orf72 . These findings add a regulatory dimension to ALS genetic studies by prioritizing CpG sites, genes, and genomic regions through which inherited variation may influence disease susceptibility. PrediXcan-based MWAS therefore provides a complementary strategy for refining genetic association signals into biologically testable candidates and identifying regulatory mechanisms for further functional investigation.",
-      "journal": "medRxiv : the preprint server for health sciences",
-      "authors": [
-        "Zhao T",
-        "Hoffman M",
-        "Wu G",
-        "Belzil V"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42780028/"
-    },
-    {
-      "id": "pmid-41482475",
-      "pmid": "41482475",
-      "doi": "10.1136/pn-2025-004950",
-      "title": "Hereditary transthyretin amyloidosis with hand weakness and bulbar involvement.",
-      "abstract": "A 76-year-old man developed progressive motor weakness, bulbar symptoms and hand muscle atrophy, initially suspected to be due to motor neurone disease. Unexpected findings on cardiological evaluation identified amyloidosis, and genetic testing confirmed the TTR p.Val50Met mutation, indicating late-onset hereditary transthyretin amyloidosis with a mixed neuropathic and cardiac phenotype. The diagnosis was delayed and complicated by minimal sensory symptoms and the atypical presentation.",
-      "journal": "Practical neurology",
-      "authors": [
-        "Bernsen S",
-        "Weydt P"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41482475/"
-    },
-    {
-      "id": "pmid-42780048",
-      "pmid": "42780048",
-      "doi": "10.64898/2026.09.17.752169",
-      "title": "Loss of TDP-43 function drives cryptic circular RNAs in neurodegenerative diseases.",
-      "abstract": "TAR DNA-binding protein 43 (TDP-43) is a key pathological hallmark of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) and a critical regulator of RNA splicing. While loss of TDP-43 induces aberrant splicing in linear transcripts, its impact on circular RNA (circRNA) biogenesis remains unexplored. Here, we show that TDP-43 depletion in human neurons induces widespread circRNA changes, especially upregulation of a distinct class of cryptic circRNAs that arise specifically upon loss of TDP-43. Some of these cryptic circRNAs incorporate cryptic exons derived from intronic sequences. Notably, these cryptic circRNAs exhibit greater stability than their corresponding linear RNA isoforms and accumulate progressively in neurons. Moreover, cryptic circRNAs are elevated in postmortem brain tissues from ALS, FTD and Alzheimer's disease (AD) patients. These findings reveal a previously unrecognized role for TDP-43 in repressing cryptic circRNA formation and establish these circRNAs as stable molecular signatures of TDP-43 dysfunction.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "authors": [
-        "Zhu C",
-        "Zhao Z",
-        "Song B",
-        "Chen YM",
-        "Xiao Y",
-        "Zhang Z",
-        "Ye Y",
-        "Xu N",
-        "Zhang R",
-        "Huang Y",
-        "Troncoso JC",
-        "He C",
-        "Sun S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42780048/"
-    },
-    {
-      "id": "pmid-42781313",
-      "pmid": "42781313",
-      "doi": "10.21769/BioProtoc.5815",
-      "title": "Protecting Against Cytoplasmic Protein Aggregates With Cytoplasmic PML Variants.",
-      "abstract": "Cytoplasmic protein aggregation is a defining feature of multiple neurodegenerative diseases, including amyotrophic lateral sclerosis, frontotemporal dementia, Huntington's disease, and certain forms of motor neuron disease. Recent evidence indicates that promyelocytic leukemia protein (PML) and engineered PML-derived variants can act as versatile aggregate-remodeling factors. In particular, cytoplasmically redirected PML variants recognize pathological cytoplasmic inclusions and promote their clearance. Here, we describe a protocol to generate and validate two engineered cytoplasmic PML variants: full-length mPML, which is redirected to the cytoplasm by disruption of its nuclear localization sequence, and the truncated mPML ΔRBC variant, which lacks the RING, B-box, and coiled-coil domain but retains aggregate-reducing activity. The protocol integrates fluorescence-based imaging, bimolecular fluorescence complementation, detergent-soluble/insoluble fractionation, and validation in primary rat cortical neurons. This workflow provides a practical platform for assessing cytoplasmic aggregate burden and for comparing the aggregate-remodeling activities of PML-derived constructs. It can also be adapted to other disease-associated aggregation-prone proteins, including TDP-43, SOD1, FUS, tau, polyGA, and polyQ-expanded proteins. Key features • Describes the generation and validation of two complementary cytoplasmic PML variants: full-length mPML and truncated mPML ΔRBC . • Provides fluorescence-based and BiFC-based assays to visualize pathological cytoplasmic protein assemblies. • Includes detergent-soluble/insoluble fractionation for biochemical assessment of aggregate burden. • Establishes a primary rat cortical neuron workflow to evaluate the effect of mPML on TDP-43-CTF aggregates. • Can be adapted to other aggregation-prone proteins and additional PML-derived aggregate-remodeling candidates.",
-      "journal": "Bio-protocol",
-      "authors": [
-        "Zhu JX",
-        "Xia Y",
-        "Liu J",
-        "Cao L",
-        "Hou SX",
-        "Wang Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781313/"
-    },
-    {
-      "id": "pmid-42779765",
-      "pmid": "42779765",
-      "doi": "10.64898/2026.09.17.752342",
-      "title": "TDP-43 dysfunction induces cryptic circular RNAs in ALS/FTD.",
-      "abstract": "Nuclear depletion of TDP-43 is a defining pathological feature of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), leading to widespread RNA misprocessing, including the formation of cryptic exons. Here, we identified TDP-43 as a regulator of circular RNA (circRNA) biogenesis in multiple human neuronal cell models, and showed that its dysfunction induces the de novo formation of cryptic circular RNAs (c-circRNAs). Analysis of post-mortem brain transcriptomic data identified a subset of c-circRNAs which are specific for ALS and FTD cases with TDP-43 pathology. Further, we developed highly sensitive rolling-circle amplification-based circRNA detection assays that allow to distinguish TDP-43 pathology in human CNS tissues with a 0.99 AUC. We found that c-circRNAs can co-occur with cryptic linear splicing events, uncovering complex RNA misprocessing hotspots that induce loss of disease-relevant proteins, including RPTOR and EHMT1. Notably, one of these c-circRNAs originates from UNC13A, a gene whose cryptic exon has previously been linked to one of the major GWAS hits in ALS/FTD and that is being pursued as a therapeutic target through splice-switching ASOs. We showed that c-circUNC13A is co-regulated with the linear cryptic transcript and suppression of UNC13A cryptic exon results in c-circUNC13A reduction in cultured neurons and in vivo, highlighting its potential as a target engagement biomarker for emerging UNC13A-directed therapies. Overall, this work identifies a novel molecular mechanism for TDP-43 dysfunction, opening novel avenues for understanding disease pathogenesis and developing much needed pathology biomarkers.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "authors": [
-        "Dattilo D",
-        "Pellegrini F",
-        "Barattucci S",
-        "Brown AL",
-        "Vargas JNS",
-        "Gatt A",
-        "Morrie R",
-        "Miller G",
-        "Bachmutsky I",
-        "McEachin Z",
-        "Chung M",
-        "Keuss MJ",
-        "Ryadnov E",
-        "Zanovello M",
-        "Mehta PR",
-        "Mattedi F",
-        "Barioglio M",
-        "Kamath S",
-        "Kargbo-Hill SE",
-        "Palade J",
-        "Kowal I",
-        "Glass J",
-        "Gearing M",
-        "Lee EB",
-        "Murray ME",
-        "Dickson DW",
-        "NYGC ALS Consortium",
-        "Green EM",
-        "Seyfried NT",
-        "Chandriani S",
-        "Ward M",
-        "Fratta P"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42779765/"
-    },
-    {
-      "id": "pmid-42764383",
-      "pmid": "42764383",
-      "doi": "10.1186/s40035-026-00580-2",
-      "title": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
-      "abstract": "The degenerating motor neurons of amyotrophic lateral sclerosis (ALS) patients are characterized by the accumulation of cytoplasmic aggregates, specifically enriched in ubiquitinated TDP-43. Expressed mainly in the nucleus and partially in the cytoplasm to execute its role in RNA metabolism, the exact mechanisms that bring TDP-43 to aggregate in disease have yet to be described. Unfolding these processes could bring us closer to effective drug development that is drastically lacking in the ALS research field. Induced pluripotent stem cells (iPSCs) offer a promising platform for studying ALS pathogenesis directly in the relevant human genetic backgrounds of ALS patients. Since 2012, more than 30 published studies have investigated altered cellular and subcellular features in iPSC-derived motor neurons from ALS patients harbouring mutations in the TARDBP gene (encoding for TDP-43 protein). However, there are discrepancies in the obtained results, which call into question the relevance of this model for ALS disease modelling and its use for drug development efforts. Thus, there is a need in the field for a clear and detailed layout and summary of all the published data on ALS modelling using TARDBP mutant iPSC-derived motor neurons. In this systematic review, we analyse all phenotypic assessments that have been done on iPSC-derived motor neurons derived from TARDBP ALS patients on the morphology, functionality and the viability of these cells. We also analyse if this model recapitulates ALS pathology in vitro by comparing studies that looked at TDP-43 and neurofilament aggregation, as well as stress granule dynamics. Importantly, we compare the technical details of all the discussed studies, such as differentiation protocol, age and purity of the used motor neurons and quantification method, in order to discuss how all of these parameters affect the observed phenotypes. Lastly, we also expand our review to all other different cell types that have been differentiated from TARDBP iPSCs, highlighting non-cell autonomous mechanisms of TDP-43-ALS pathophysiology. By integrating findings across studies, this review identifies commonalities and discrepancies, discusses methodological advancements and limitations, and highlights potential therapeutic targets revealed through TARDBP iPSC-derived models.",
-      "journal": "Translational neurodegeneration",
-      "authors": [
-        "Pasho E",
-        "Catanese A",
-        "Kabashi E",
-        "Ciura S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "publishedAt": "2026-09-20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-29T01:55:16.618Z",
+  "updatedAt": "2026-09-30T01:17:42.761Z",
   "summary": {
-    "totalItems": 30,
-    "issueCount": 20
+    "totalItems": 44,
+    "issueCount": 53
   },
   "sources": [
     {
@@ -12,9 +12,8 @@
     },
     {
       "source": "Europe PMC",
-      "ok": false,
-      "count": 0,
-      "error": "www.ebi.ac.uk returned HTTP 503"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "ClinicalTrials.gov",
@@ -22,18 +21,196 @@
       "count": 15
     }
   ],
-  "lowRelevance": [],
-  "missingIdentifiers": [],
+  "lowRelevance": [
+    {
+      "id": "epmc-PPR-PPR1329420",
+      "title": "Discovery of the Honeycomb Synapse in Spinal Motor Circuits",
+      "titleZh": "脊髓运动回路中蜂窝状突触的发现",
+      "category": "机制",
+      "evidenceLevel": "机制研究（预印本，仅有标题，无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.22.753133"
+    },
+    {
+      "id": "epmc-MED-42801574",
+      "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
+      "titleZh": "基质刚度通过细胞骨架至细胞核信号传导及三维空间-表观基因组重塑为小胶质细胞炎症反应提供力学预置",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/advs.77736"
+    },
+    {
+      "id": "epmc-MED-42801562",
+      "title": "Extracellular Vesicle Packaged TDP43 Derived From ECs Exacerbates Cigarette Tar-Related Atherosclerosis Progression via Enhancing Macrophage Extracellular Traps.",
+      "titleZh": "内皮细胞来源的细胞外囊泡包裹的TDP43通过增强巨噬细胞胞外诱捕网加剧焦油相关动脉粥样硬化进展",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/advs.78001"
+    },
+    {
+      "id": "epmc-PMC-PMC13612334",
+      "title": "Supporting frontline staff in frontotemporal degeneration research",
+      "titleZh": "支持额颞叶变性研究中的一线工作人员",
+      "category": "机制",
+      "evidenceLevel": "机制研究（仅题名与来源元数据，无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13612334"
+    },
+    {
+      "id": "epmc-MED-42800647",
+      "title": "Polyamines across neurodegenerative proteinopathies.",
+      "titleZh": "多胺在神经退行性蛋白病中的作用",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.nbd.2026.107629"
+    },
+    {
+      "id": "epmc-MED-42799589",
+      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
+      "titleZh": "生物标志物-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1177/19450265261493084"
+    },
+    {
+      "id": "epmc-MED-42799586",
+      "title": "Correction.",
+      "titleZh": "待复核翻译：Correction.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2740377"
+    },
+    {
+      "id": "epmc-PMC-PMC13600866",
+      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "titleZh": "待复核翻译：Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13600866"
+    },
+    {
+      "id": "epmc-PMC-PMC13601219",
+      "title": "The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
+      "titleZh": "待复核翻译：The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13601219"
+    },
+    {
+      "id": "epmc-PMC-PMC13600999",
+      "title": "Dynamic serum tumor-marker and immune-inflammatory biomarker changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
+      "titleZh": "Dynamic serum tumor-marker and immune-inflammatory 生物标志物 changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
+      "category": "生物标志物",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13600999"
+    }
+  ],
+  "missingIdentifiers": [
+    {
+      "id": "epmc-PMC-PMC13612334",
+      "title": "Supporting frontline staff in frontotemporal degeneration research",
+      "titleZh": "支持额颞叶变性研究中的一线工作人员",
+      "category": "机制",
+      "evidenceLevel": "机制研究（仅题名与来源元数据，无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13612334"
+    },
+    {
+      "id": "epmc-PMC-PMC13600866",
+      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "titleZh": "待复核翻译：Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13600866"
+    },
+    {
+      "id": "epmc-PMC-PMC13601219",
+      "title": "The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
+      "titleZh": "待复核翻译：The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13601219"
+    },
+    {
+      "id": "epmc-PMC-PMC13600999",
+      "title": "Dynamic serum tumor-marker and immune-inflammatory biomarker changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
+      "titleZh": "Dynamic serum tumor-marker and immune-inflammatory 生物标志物 changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
+      "category": "生物标志物",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13600999"
+    }
+  ],
   "missingAbstract": [
+    {
+      "id": "pmid-42808007",
+      "title": "Comment on 'The Values and Preferences of People Living With Motor Neurone Disease (MND): A Systematic Review and Meta-Analysis'.",
+      "titleZh": "对《运动神经元病患者的价值与偏好：一项系统综述与荟萃分析》的评论",
+      "category": "机制",
+      "evidenceLevel": "评论（针对系统综述/荟萃分析）",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808007/"
+    },
+    {
+      "id": "pmid-42807585",
+      "title": "Response to: Comment on 'The Values and Preferences of People Living With Motor Neurone Disease (MND): A Systematic Review and Meta-Analysis'.",
+      "titleZh": "对《运动神经元病患者的价值与偏好：系统综述与荟萃分析》评论的回应",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析（评论回应）",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807585/"
+    },
     {
       "id": "pmid-42751043",
       "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
-      "titleZh": "从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
+      "titleZh": "从愿景到验证：托夫生（Tofersen）在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（综述，无摘要）",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确定研究类型与证据等级）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "priority": "high",
+      "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42751043/"
     },
     {
@@ -41,20 +218,185 @@
       "title": "REM-associated nocturnal hypercapnia in amyotrophic lateral sclerosis.",
       "titleZh": "肌萎缩侧索硬化中与快速眼动睡眠相关的夜间高碳酸血症",
       "category": "机制",
-      "evidenceLevel": "机制研究（仅题名，无摘要；具体研究设计与证据强度无法评估）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42804741/"
+    },
+    {
+      "id": "epmc-PPR-PPR1329420",
+      "title": "Discovery of the Honeycomb Synapse in Spinal Motor Circuits",
+      "titleZh": "脊髓运动回路中蜂窝状突触的发现",
+      "category": "机制",
+      "evidenceLevel": "机制研究（预印本，仅有标题，无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.22.753133"
+    },
+    {
+      "id": "epmc-MED-42802700",
+      "title": "Conformational insights into the unfolding pathway of RNA recognition motif (RRM) domain of TAF15 associated with amyotrophic lateral sclerosis.",
+      "titleZh": "与肌萎缩侧索硬化相关的TAF15 RNA识别基序（RRM）结构域去折叠途径的构象研究",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/07391102.2026.2735392"
+    },
+    {
+      "id": "epmc-MED-42801574",
+      "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
+      "titleZh": "基质刚度通过细胞骨架至细胞核信号传导及三维空间-表观基因组重塑为小胶质细胞炎症反应提供力学预置",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/advs.77736"
+    },
+    {
+      "id": "epmc-MED-42801562",
+      "title": "Extracellular Vesicle Packaged TDP43 Derived From ECs Exacerbates Cigarette Tar-Related Atherosclerosis Progression via Enhancing Macrophage Extracellular Traps.",
+      "titleZh": "内皮细胞来源的细胞外囊泡包裹的TDP43通过增强巨噬细胞胞外诱捕网加剧焦油相关动脉粥样硬化进展",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/advs.78001"
+    },
+    {
+      "id": "epmc-PMC-PMC13612334",
+      "title": "Supporting frontline staff in frontotemporal degeneration research",
+      "titleZh": "支持额颞叶变性研究中的一线工作人员",
+      "category": "机制",
+      "evidenceLevel": "机制研究（仅题名与来源元数据，无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13612334"
+    },
+    {
+      "id": "epmc-MED-42800647",
+      "title": "Polyamines across neurodegenerative proteinopathies.",
+      "titleZh": "多胺在神经退行性蛋白病中的作用",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.nbd.2026.107629"
+    },
+    {
+      "id": "epmc-MED-42799915",
+      "title": "Potential Roles of Neuroimaging in Motor Neuron Disease.",
+      "titleZh": "Potential Roles of Neuroimaging in 运动神经元病.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s11910-026-01524-z"
+    },
+    {
+      "id": "epmc-MED-42799858",
+      "title": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of Amyotrophic Lateral Sclerosis/Frontotemporal Dementia.",
+      "titleZh": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of 肌萎缩侧索硬化症/额颞叶痴呆.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1007/s12035-026-06209-9"
+    },
+    {
+      "id": "epmc-MED-42799589",
+      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
+      "titleZh": "生物标志物-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1177/19450265261493084"
+    },
+    {
+      "id": "epmc-MED-42799586",
+      "title": "Correction.",
+      "titleZh": "待复核翻译：Correction.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1080/21678421.2026.2740377"
+    },
+    {
+      "id": "epmc-MED-42791439",
+      "title": "C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
+      "titleZh": "待复核翻译：C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s10072-026-09425-2"
+    },
+    {
+      "id": "epmc-PMC-PMC13600866",
+      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "titleZh": "待复核翻译：Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13600866"
+    },
+    {
+      "id": "epmc-PMC-PMC13601219",
+      "title": "The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
+      "titleZh": "待复核翻译：The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13601219"
+    },
+    {
+      "id": "epmc-PMC-PMC13600999",
+      "title": "Dynamic serum tumor-marker and immune-inflammatory biomarker changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
+      "titleZh": "Dynamic serum tumor-marker and immune-inflammatory 生物标志物 changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
+      "category": "生物标志物",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13600999"
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-42756835",
+      "title": "The thymus gland is a target and maintainer of amyotrophic lateral sclerosis pathophysiology.",
+      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756835/"
+    },
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
       "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "专家观点/评论文章（非原始临床试验）",
+      "evidenceLevel": "专家观点/评论",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
@@ -70,17 +412,6 @@
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/"
-    },
-    {
-      "id": "pmid-42751043",
-      "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
-      "titleZh": "从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定（综述，无摘要）",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751043/"
     },
     {
       "id": "pmid-42675240",
@@ -107,156 +438,194 @@
     {
       "id": "pmid-42803299",
       "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
-      "titleZh": "LRSAM1，一种E3泛素连接酶，调控肌萎缩侧索硬化中TDP-43的蛋白稳态",
+      "titleZh": "LRSAM1作为一种E3泛素连接酶在肌萎缩侧索硬化中调控TDP-43蛋白稳态",
       "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（含患者组织与iPSC来源运动神经元机制实验）",
+      "evidenceLevel": "观察性临床研究结合体外细胞模型机制研究",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42803299/"
     },
     {
-      "id": "trial-NCT04875416",
-      "title": "Phenotype, Genotype and Biomarkers 2",
-      "titleZh": "表型、基因型与生物标志物 2",
+      "id": "trial-NCT06209515",
+      "title": "Sociodemographic Factors and Criminal Behaviour Preceding Neurodegenerative Disease - Retrospective Register Study",
+      "titleZh": "待复核翻译：Sociodemographic Factors and Criminal Behaviour Preceding Neurodegenerative Disease - Retrospective Register Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04875416"
+      "url": "https://clinicaltrials.gov/study/NCT06209515"
     },
     {
-      "id": "trial-NCT06605612",
-      "title": "Development and Validation of the FBIndex to Determine the Risk of Falls for Patients With Neuromuscular Disorders",
-      "titleZh": "待复核翻译：Development and Validation of the FBIndex to Determine the Risk of Falls for Patients With Neuromuscular Disorders",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06605612"
-    },
-    {
-      "id": "trial-NCT05619783",
-      "title": "Extension Study Evaluating The Safety And Tolerability of AMX0035",
-      "titleZh": "待复核翻译：Extension Study Evaluating The Safety And Tolerability of AMX0035",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05619783"
-    },
-    {
-      "id": "trial-NCT03948178",
-      "title": "Effects of Oral Levosimendan on Respiratory Function in Patients With Amyotrophic Lateral Sclerosis (ALS): Open-Label Extension",
-      "titleZh": "Effects of Oral Levosimendan on Respiratory Function in Patients With 肌萎缩侧索硬化症 (ALS): Open-Label Extension",
+      "id": "trial-NCT07737977",
+      "title": "Developing a Comprehensive Biomarker Panel for Monitoring Progression and Early Detection in ALS Patients",
+      "titleZh": "Developing a Comprehensive 生物标志物 Panel for Monitoring Progression and Early Detection in ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03948178"
+      "url": "https://clinicaltrials.gov/study/NCT07737977"
     },
     {
-      "id": "trial-NCT01854294",
-      "title": "GM604 Phase 2A Randomized Double-blind Placebo Controlled Pilot Trial in Amyotrophic Lateral Disease (ALS)",
-      "titleZh": "GM604 II 期A 随机 Double-blind Placebo Controlled Pilot Trial in Amyotrophic Lateral Disease (ALS)",
+      "id": "trial-NCT07095686",
+      "title": "Personalized Antisense Oligonucleotide for Participants With CHCHD10 ALS",
+      "titleZh": "Personalized 反义寡核苷酸 for Participants With CHCHD10 ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01854294"
+      "url": "https://clinicaltrials.gov/study/NCT07095686"
     },
     {
-      "id": "trial-NCT03293394",
-      "title": "Rehabilitative Trial With tDCS in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Rehabilitative Trial With tDCS in 肌萎缩侧索硬化症",
+      "id": "trial-NCT05829330",
+      "title": "Ambulatory Versus Inpatient Initiation of Home Mechanical Ventilation",
+      "titleZh": "待复核翻译：Ambulatory Versus Inpatient Initiation of Home Mechanical Ventilation",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03293394"
+      "url": "https://clinicaltrials.gov/study/NCT05829330"
     },
     {
-      "id": "trial-NCT02852278",
-      "title": "A Patient Centric Motor Neuron Disease Activities of Daily Living Scale",
-      "titleZh": "A Patient Centric 运动神经元病 Activities of Daily Living Scale",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02852278"
-    },
-    {
-      "id": "trial-NCT03076632",
-      "title": "Interactions Between Neurostimulation and Physical Exercise",
-      "titleZh": "待复核翻译：Interactions Between Neurostimulation and Physical Exercise",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03076632"
-    },
-    {
-      "id": "trial-NCT02463825",
-      "title": "A Registry-Based Clinical Trial of Pimozide in Patients With Neuromuscular Junction Transmission Dysfunction Due to ALS",
-      "titleZh": "A Registry-Based 临床试验 of Pimozide in Patients With Neuromuscular Junction Transmission Dysfunction Due to ALS",
+      "id": "trial-NCT07292545",
+      "title": "Video-Based Proprioceptive Exercise Program in ALS",
+      "titleZh": "待复核翻译：Video-Based Proprioceptive Exercise Program in ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02463825"
+      "url": "https://clinicaltrials.gov/study/NCT07292545"
     },
     {
-      "id": "trial-NCT00596115",
-      "title": "Treating Amyotrophic Lateral Sclerosis (ALS) With R(+) Pramipexole Dihydrochloride Monohydrate at 60 mg/Day",
-      "titleZh": "Treating 肌萎缩侧索硬化症 (ALS) With R(+) Pramipexole Dihydrochloride Monohydrate at 60 mg/Day",
+      "id": "trial-NCT07169175",
+      "title": "A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS",
+      "titleZh": "待复核翻译：A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00596115"
+      "url": "https://clinicaltrials.gov/study/NCT07169175"
     },
     {
-      "id": "trial-NCT00355576",
-      "title": "Combination Therapy Selection Trial in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Combination Therapy Selection Trial in 肌萎缩侧索硬化症",
+      "id": "trial-NCT05979688",
+      "title": "Yogic Breathing Exercise for People With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Yogic Breathing Exercise for People With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00355576"
+      "url": "https://clinicaltrials.gov/study/NCT05979688"
+    },
+    {
+      "id": "trial-NCT06829212",
+      "title": "Research on Wireless Brain Implant System for General Control of External Devices",
+      "titleZh": "待复核翻译：Research on Wireless Brain Implant System for General Control of External Devices",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06829212"
+    },
+    {
+      "id": "trial-NCT02118805",
+      "title": "Innovative Measures of Speech and Swallowing Dysfunction in Neurological Disorders",
+      "titleZh": "待复核翻译：Innovative Measures of Speech and Swallowing Dysfunction in Neurological Disorders",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02118805"
+    },
+    {
+      "id": "trial-NCT05742828",
+      "title": "Virtual Seating Coach on Power Wheelchairs of Persons With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Virtual Seating Coach on Power Wheelchairs of Persons With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05742828"
+    },
+    {
+      "id": "trial-NCT05031351",
+      "title": "NF-κB Inhibition in Amyotrophic Lateral Sclerosis",
+      "titleZh": "NF-κB Inhibition in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05031351"
+    },
+    {
+      "id": "trial-NCT03427086",
+      "title": "Safety and Tolerability of High Dose Biotin in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Safety and Tolerability of High Dose Biotin in Patients With 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03427086"
+    },
+    {
+      "id": "trial-NCT02469675",
+      "title": "Brain and Nerve Stimulation for Hand Muscles in Spinal Cord Injury and ALS",
+      "titleZh": "待复核翻译：Brain and Nerve Stimulation for Hand Muscles in Spinal Cord Injury and ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02469675"
+    },
+    {
+      "id": "trial-NCT02383654",
+      "title": "Compassionate Treatment : An Exploratory Clinical Trial to Assess Treatment of Amyotrophic Lateral Sclerosis",
+      "titleZh": "Compassionate Treatment : An Exploratory 临床试验 to Assess Treatment of 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02383654"
+    },
+    {
+      "id": "trial-NCT01511029",
+      "title": "Study to Evaluate the QTC Interval in Healthy Volunteers Dosed With Dexpramipexole (QTC = Electrocardiogram (ECG) Interval Measured From the Onset of the QRS Complex to the End of the T Wave Corrected for Heart Rate)",
+      "titleZh": "待复核翻译：Study to Evaluate the QTC Interval in Healthy Volunteers Dosed With Dexpramipexole (QTC = Electrocardiogram (ECG) Interval Measured From the Onset of the QRS Complex to the End of the T Wave Corrected for Heart Rate)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01511029"
     }
   ],
-  "failedSources": [
-    {
-      "source": "Europe PMC",
-      "ok": false,
-      "count": 0,
-      "error": "www.ebi.ac.uk returned HTTP 503"
-    }
-  ],
+  "failedSources": [],
   "issueCounts": {
-    "疑似误收": 0,
-    "缺标识符": 0,
-    "缺摘要": 2,
-    "高优先级待复核": 17,
-    "来源失败": 1
+    "疑似误收": 10,
+    "缺标识符": 4,
+    "缺摘要": 18,
+    "高优先级待复核": 21,
+    "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 30
+    "待复核": 44
   },
   "relevanceCounts": {
-    "high": 25,
-    "medium": 5
+    "high": 23,
+    "medium": 11,
+    "low": 10
   }
 }
