@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-30T01:17:42.761Z",
+  "updatedAt": "2026-10-01T01:17:21.894Z",
   "summary": {
-    "totalItems": 44,
-    "issueCount": 53
+    "totalItems": 43,
+    "issueCount": 50
   },
   "sources": [
     {
@@ -23,169 +23,146 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-42760307",
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
+      "titleZh": "RNA疗法首例：罕见运动神经元病患者治疗后病情改善",
+      "category": "治疗",
+      "evidenceLevel": "个案报道/新闻通讯（无摘要，待人工判定）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
+    },
+    {
+      "id": "epmc-MED-42775689",
+      "title": "Motor Cortex Hyperexcitability Is Coupled to Neuromuscular Dysfunction in Aged Mice.",
+      "titleZh": "衰老小鼠中运动皮层过度兴奋与神经肌肉功能障碍相耦合",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/acel.70731"
+    },
+    {
+      "id": "epmc-MED-42762468",
+      "title": "Ginsenosides Rb1 and Rg1 Suppress Lipopolysaccharide-Induced Inflammatory Gene Expression in Microglia and Astrocytes, Unlike Rb2.",
+      "titleZh": "人参皂苷Rb1和Rg1抑制脂多糖诱导的小胶质细胞和星形胶质细胞炎症基因表达，而Rb2无此作用",
+      "category": "生物标志物",
+      "evidenceLevel": "临床前研究（细胞实验）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/prp2.70324"
+    },
+    {
+      "id": "epmc-MED-42716045",
+      "title": "Fluid biomarkers in the evolving care landscape of Alzheimer's disease and related disorders.",
+      "titleZh": "阿尔茨海默病及相关疾病不断演变的诊疗格局中的体液生物标志物",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（综述/述评类文章，原始元数据未提供摘要，无法判定具体证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/s1474-4422(26)00246-2"
+    },
+    {
+      "id": "epmc-MED-42648719",
+      "title": "Astrocyte-Predominant Tau Pathology in a Patient With VCP R191Q Variant.",
+      "titleZh": "一例携带VCP R191Q变异的患者中以星形胶质细胞为主的tau蛋白病理",
+      "category": "遗传",
+      "evidenceLevel": "病例报告（单例神经病理学观察）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/neup.70075"
+    },
+    {
+      "id": "epmc-MED-42627337",
+      "title": "Crosstalk Between Oligodendrocyte Lineage Cells and CNS-Resident and Peripheral Immune Cells Governs Demyelination and Remyelination in Multiple Sclerosis.",
+      "titleZh": "待复核翻译：Crosstalk Between Oligodendrocyte Lineage Cells and CNS-Resident and Peripheral Immune Cells Governs Demyelination and Remyelination in Multiple Sclerosis.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/glia.70211"
+    },
+    {
+      "id": "epmc-MED-42627292",
+      "title": "Cell Type-Specific Extracellular Vesicles in Mouse Brain: Proteomic Signatures Highlight Astrocytic GlialCAM Network and GPCR Enrichment.",
+      "titleZh": "待复核翻译：Cell Type-Specific Extracellular Vesicles in Mouse Brain: Proteomic Signatures Highlight Astrocytic GlialCAM Network and GPCR Enrichment.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/glia.70212"
+    },
+    {
+      "id": "epmc-MED-42552722",
+      "title": "Predicting Relevant Microglia-Associated Cell-Cell Communication Pathways in Alzheimer's Disease: A Role for SPP1.",
+      "titleZh": "Predicting Relevant 小胶质细胞-Associated Cell-Cell Communication Pathways in Alzheimer's Disease: A Role for SPP1.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/glia.70210"
+    },
+    {
+      "id": "epmc-MED-42522225",
+      "title": "Impaired Motor Function in a Zebrafish Stathmin-2 Knockout Model.",
+      "titleZh": "待复核翻译：Impaired Motor Function in a Zebrafish Stathmin-2 Knockout Model.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/dneu.70054"
+    },
+    {
+      "id": "epmc-MED-42442754",
+      "title": "Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
+      "titleZh": "待复核翻译：Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1097/mcg.0000000000002422"
+    },
+    {
+      "id": "epmc-MED-42084927",
+      "title": "Report of the FDA's expert panel on hormone therapy.",
+      "titleZh": "待复核翻译：Report of the FDA's expert panel on hormone therapy.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1097/gme.0000000000002768"
+    },
+    {
       "id": "epmc-PPR-PPR1329420",
       "title": "Discovery of the Honeycomb Synapse in Spinal Motor Circuits",
-      "titleZh": "脊髓运动回路中蜂窝状突触的发现",
+      "titleZh": "待复核翻译：Discovery of the Honeycomb Synapse in Spinal Motor Circuits",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，仅有标题，无摘要）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.09.22.753133"
-    },
-    {
-      "id": "epmc-MED-42801574",
-      "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
-      "titleZh": "基质刚度通过细胞骨架至细胞核信号传导及三维空间-表观基因组重塑为小胶质细胞炎症反应提供力学预置",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/advs.77736"
-    },
-    {
-      "id": "epmc-MED-42801562",
-      "title": "Extracellular Vesicle Packaged TDP43 Derived From ECs Exacerbates Cigarette Tar-Related Atherosclerosis Progression via Enhancing Macrophage Extracellular Traps.",
-      "titleZh": "内皮细胞来源的细胞外囊泡包裹的TDP43通过增强巨噬细胞胞外诱捕网加剧焦油相关动脉粥样硬化进展",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/advs.78001"
-    },
-    {
-      "id": "epmc-PMC-PMC13612334",
-      "title": "Supporting frontline staff in frontotemporal degeneration research",
-      "titleZh": "支持额颞叶变性研究中的一线工作人员",
-      "category": "机制",
-      "evidenceLevel": "机制研究（仅题名与来源元数据，无摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13612334"
-    },
-    {
-      "id": "epmc-MED-42800647",
-      "title": "Polyamines across neurodegenerative proteinopathies.",
-      "titleZh": "多胺在神经退行性蛋白病中的作用",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.nbd.2026.107629"
-    },
-    {
-      "id": "epmc-MED-42799589",
-      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
-      "titleZh": "生物标志物-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1177/19450265261493084"
-    },
-    {
-      "id": "epmc-MED-42799586",
-      "title": "Correction.",
-      "titleZh": "待复核翻译：Correction.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/21678421.2026.2740377"
-    },
-    {
-      "id": "epmc-PMC-PMC13600866",
-      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
-      "titleZh": "待复核翻译：Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13600866"
-    },
-    {
-      "id": "epmc-PMC-PMC13601219",
-      "title": "The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
-      "titleZh": "待复核翻译：The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13601219"
-    },
-    {
-      "id": "epmc-PMC-PMC13600999",
-      "title": "Dynamic serum tumor-marker and immune-inflammatory biomarker changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
-      "titleZh": "Dynamic serum tumor-marker and immune-inflammatory 生物标志物 changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
-      "category": "生物标志物",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13600999"
     }
   ],
-  "missingIdentifiers": [
-    {
-      "id": "epmc-PMC-PMC13612334",
-      "title": "Supporting frontline staff in frontotemporal degeneration research",
-      "titleZh": "支持额颞叶变性研究中的一线工作人员",
-      "category": "机制",
-      "evidenceLevel": "机制研究（仅题名与来源元数据，无摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13612334"
-    },
-    {
-      "id": "epmc-PMC-PMC13600866",
-      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
-      "titleZh": "待复核翻译：Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13600866"
-    },
-    {
-      "id": "epmc-PMC-PMC13601219",
-      "title": "The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
-      "titleZh": "待复核翻译：The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13601219"
-    },
-    {
-      "id": "epmc-PMC-PMC13600999",
-      "title": "Dynamic serum tumor-marker and immune-inflammatory biomarker changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
-      "titleZh": "Dynamic serum tumor-marker and immune-inflammatory 生物标志物 changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
-      "category": "生物标志物",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13600999"
-    }
-  ],
+  "missingIdentifiers": [],
   "missingAbstract": [
     {
       "id": "pmid-42808007",
       "title": "Comment on 'The Values and Preferences of People Living With Motor Neurone Disease (MND): A Systematic Review and Meta-Analysis'.",
-      "titleZh": "对《运动神经元病患者的价值与偏好：一项系统综述与荟萃分析》的评论",
+      "titleZh": "对《运动神经元病患者的价值与偏好：系统综述与荟萃分析》的评论",
       "category": "机制",
-      "evidenceLevel": "评论（针对系统综述/荟萃分析）",
+      "evidenceLevel": "评论（针对系统综述与荟萃分析）",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "low",
@@ -196,207 +173,185 @@
       "title": "Response to: Comment on 'The Values and Preferences of People Living With Motor Neurone Disease (MND): A Systematic Review and Meta-Analysis'.",
       "titleZh": "对《运动神经元病患者的价值与偏好：系统综述与荟萃分析》评论的回应",
       "category": "机制",
-      "evidenceLevel": "综述/荟萃分析（评论回应）",
+      "evidenceLevel": "综述/荟萃分析（学术回应，非原始研究）",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42807585/"
     },
     {
+      "id": "pmid-42760307",
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
+      "titleZh": "RNA疗法首例：罕见运动神经元病患者治疗后病情改善",
+      "category": "治疗",
+      "evidenceLevel": "个案报道/新闻通讯（无摘要，待人工判定）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
+    },
+    {
       "id": "pmid-42751043",
       "title": "From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1 Gene-Associated Amyotrophic Lateral Sclerosis.",
       "titleZh": "从愿景到验证：托夫生（Tofersen）在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确定研究类型与证据等级）",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法评估研究设计与证据等级）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42751043/"
     },
     {
-      "id": "pmid-42804741",
-      "title": "REM-associated nocturnal hypercapnia in amyotrophic lateral sclerosis.",
-      "titleZh": "肌萎缩侧索硬化中与快速眼动睡眠相关的夜间高碳酸血症",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
+      "id": "epmc-MED-42775689",
+      "title": "Motor Cortex Hyperexcitability Is Coupled to Neuromuscular Dysfunction in Aged Mice.",
+      "titleZh": "衰老小鼠中运动皮层过度兴奋与神经肌肉功能障碍相耦合",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/acel.70731"
+    },
+    {
+      "id": "epmc-MED-42762468",
+      "title": "Ginsenosides Rb1 and Rg1 Suppress Lipopolysaccharide-Induced Inflammatory Gene Expression in Microglia and Astrocytes, Unlike Rb2.",
+      "titleZh": "人参皂苷Rb1和Rg1抑制脂多糖诱导的小胶质细胞和星形胶质细胞炎症基因表达，而Rb2无此作用",
+      "category": "生物标志物",
+      "evidenceLevel": "临床前研究（细胞实验）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/prp2.70324"
+    },
+    {
+      "id": "epmc-MED-42716045",
+      "title": "Fluid biomarkers in the evolving care landscape of Alzheimer's disease and related disorders.",
+      "titleZh": "阿尔茨海默病及相关疾病不断演变的诊疗格局中的体液生物标志物",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（综述/述评类文章，原始元数据未提供摘要，无法判定具体证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/s1474-4422(26)00246-2"
+    },
+    {
+      "id": "epmc-MED-42716044",
+      "title": "Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.",
+      "titleZh": "RIPK1抑制剂SAR443820在肌萎缩侧索硬化中的安全性、耐受性和疗效（HIMALAYA）：一项多中心、随机、双盲、安慰剂对照的2期试验",
+      "category": "临床试验",
+      "evidenceLevel": "随机对照试验",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://doi.org/10.1016/s1474-4422(26)00277-2"
+    },
+    {
+      "id": "epmc-MED-42648719",
+      "title": "Astrocyte-Predominant Tau Pathology in a Patient With VCP R191Q Variant.",
+      "titleZh": "一例携带VCP R191Q变异的患者中以星形胶质细胞为主的tau蛋白病理",
+      "category": "遗传",
+      "evidenceLevel": "病例报告（单例神经病理学观察）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42804741/"
+      "url": "https://doi.org/10.1111/neup.70075"
+    },
+    {
+      "id": "epmc-MED-42627337",
+      "title": "Crosstalk Between Oligodendrocyte Lineage Cells and CNS-Resident and Peripheral Immune Cells Governs Demyelination and Remyelination in Multiple Sclerosis.",
+      "titleZh": "待复核翻译：Crosstalk Between Oligodendrocyte Lineage Cells and CNS-Resident and Peripheral Immune Cells Governs Demyelination and Remyelination in Multiple Sclerosis.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/glia.70211"
+    },
+    {
+      "id": "epmc-MED-42627292",
+      "title": "Cell Type-Specific Extracellular Vesicles in Mouse Brain: Proteomic Signatures Highlight Astrocytic GlialCAM Network and GPCR Enrichment.",
+      "titleZh": "待复核翻译：Cell Type-Specific Extracellular Vesicles in Mouse Brain: Proteomic Signatures Highlight Astrocytic GlialCAM Network and GPCR Enrichment.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/glia.70212"
+    },
+    {
+      "id": "epmc-MED-42552722",
+      "title": "Predicting Relevant Microglia-Associated Cell-Cell Communication Pathways in Alzheimer's Disease: A Role for SPP1.",
+      "titleZh": "Predicting Relevant 小胶质细胞-Associated Cell-Cell Communication Pathways in Alzheimer's Disease: A Role for SPP1.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/glia.70210"
+    },
+    {
+      "id": "epmc-MED-42522225",
+      "title": "Impaired Motor Function in a Zebrafish Stathmin-2 Knockout Model.",
+      "titleZh": "待复核翻译：Impaired Motor Function in a Zebrafish Stathmin-2 Knockout Model.",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/dneu.70054"
+    },
+    {
+      "id": "epmc-MED-42442754",
+      "title": "Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
+      "titleZh": "待复核翻译：Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1097/mcg.0000000000002422"
+    },
+    {
+      "id": "epmc-MED-42084927",
+      "title": "Report of the FDA's expert panel on hormone therapy.",
+      "titleZh": "待复核翻译：Report of the FDA's expert panel on hormone therapy.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1097/gme.0000000000002768"
+    },
+    {
+      "id": "epmc-MED-42803299",
+      "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
+      "titleZh": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in 肌萎缩侧索硬化症.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://doi.org/10.1093/brain/awag334"
     },
     {
       "id": "epmc-PPR-PPR1329420",
       "title": "Discovery of the Honeycomb Synapse in Spinal Motor Circuits",
-      "titleZh": "脊髓运动回路中蜂窝状突触的发现",
+      "titleZh": "待复核翻译：Discovery of the Honeycomb Synapse in Spinal Motor Circuits",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，仅有标题，无摘要）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.09.22.753133"
-    },
-    {
-      "id": "epmc-MED-42802700",
-      "title": "Conformational insights into the unfolding pathway of RNA recognition motif (RRM) domain of TAF15 associated with amyotrophic lateral sclerosis.",
-      "titleZh": "与肌萎缩侧索硬化相关的TAF15 RNA识别基序（RRM）结构域去折叠途径的构象研究",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1080/07391102.2026.2735392"
-    },
-    {
-      "id": "epmc-MED-42801574",
-      "title": "Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal-to-Nuclear Signaling and 3D Spatio-Epigenomic Remodeling.",
-      "titleZh": "基质刚度通过细胞骨架至细胞核信号传导及三维空间-表观基因组重塑为小胶质细胞炎症反应提供力学预置",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/advs.77736"
-    },
-    {
-      "id": "epmc-MED-42801562",
-      "title": "Extracellular Vesicle Packaged TDP43 Derived From ECs Exacerbates Cigarette Tar-Related Atherosclerosis Progression via Enhancing Macrophage Extracellular Traps.",
-      "titleZh": "内皮细胞来源的细胞外囊泡包裹的TDP43通过增强巨噬细胞胞外诱捕网加剧焦油相关动脉粥样硬化进展",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/advs.78001"
-    },
-    {
-      "id": "epmc-PMC-PMC13612334",
-      "title": "Supporting frontline staff in frontotemporal degeneration research",
-      "titleZh": "支持额颞叶变性研究中的一线工作人员",
-      "category": "机制",
-      "evidenceLevel": "机制研究（仅题名与来源元数据，无摘要）",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13612334"
-    },
-    {
-      "id": "epmc-MED-42800647",
-      "title": "Polyamines across neurodegenerative proteinopathies.",
-      "titleZh": "多胺在神经退行性蛋白病中的作用",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.nbd.2026.107629"
-    },
-    {
-      "id": "epmc-MED-42799915",
-      "title": "Potential Roles of Neuroimaging in Motor Neuron Disease.",
-      "titleZh": "Potential Roles of Neuroimaging in 运动神经元病.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s11910-026-01524-z"
-    },
-    {
-      "id": "epmc-MED-42799858",
-      "title": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of Amyotrophic Lateral Sclerosis/Frontotemporal Dementia.",
-      "titleZh": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of 肌萎缩侧索硬化症/额颞叶痴呆.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s12035-026-06209-9"
-    },
-    {
-      "id": "epmc-MED-42799589",
-      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
-      "titleZh": "生物标志物-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1177/19450265261493084"
-    },
-    {
-      "id": "epmc-MED-42799586",
-      "title": "Correction.",
-      "titleZh": "待复核翻译：Correction.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/21678421.2026.2740377"
-    },
-    {
-      "id": "epmc-MED-42791439",
-      "title": "C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
-      "titleZh": "待复核翻译：C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1007/s10072-026-09425-2"
-    },
-    {
-      "id": "epmc-PMC-PMC13600866",
-      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
-      "titleZh": "待复核翻译：Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13600866"
-    },
-    {
-      "id": "epmc-PMC-PMC13601219",
-      "title": "The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
-      "titleZh": "待复核翻译：The opioid flexion phenotype: postural flexion and nodding in the fentanyl era",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13601219"
-    },
-    {
-      "id": "epmc-PMC-PMC13600999",
-      "title": "Dynamic serum tumor-marker and immune-inflammatory biomarker changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
-      "titleZh": "Dynamic serum tumor-marker and immune-inflammatory 生物标志物 changes for risk stratification of immune checkpoint inhibitor-associated myasthenia gravis in non-small cell lung cancer",
-      "category": "生物标志物",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13600999"
     }
   ],
   "highPriorityNeedsReview": [
-    {
-      "id": "pmid-42756835",
-      "title": "The thymus gland is a target and maintainer of amyotrophic lateral sclerosis pathophysiology.",
-      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756835/"
-    },
     {
       "id": "pmid-42685299",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
       "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "专家观点/评论",
+      "evidenceLevel": "专家观点/评论文章（非原始临床试验数据）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
@@ -414,218 +369,229 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/"
     },
     {
-      "id": "pmid-42675240",
-      "title": "Artificial Intelligence in Neuromuscular Diseases: Opportunities for a Data-Scarce Field.",
-      "titleZh": "人工智能在神经肌肉疾病中的应用：数据稀缺领域的机遇",
+      "id": "pmid-42760307",
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
+      "titleZh": "RNA疗法首例：罕见运动神经元病患者治疗后病情改善",
+      "category": "治疗",
+      "evidenceLevel": "个案报道/新闻通讯（无摘要，待人工判定）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
+    },
+    {
+      "id": "pmid-42716045",
+      "title": "Fluid biomarkers in the evolving care landscape of Alzheimer's disease and related disorders.",
+      "titleZh": "阿尔茨海默病及相关疾病不断演变的诊疗格局中的体液生物标志物",
+      "category": "治疗",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716045/"
+    },
+    {
+      "id": "pmid-42716044",
+      "title": "Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.",
+      "titleZh": "RIPK1抑制剂SAR443820治疗肌萎缩侧索硬化症（HIMALAYA）的安全性、耐受性和疗效：一项多中心、随机、双盲、安慰剂对照的2期试验",
       "category": "临床试验",
-      "evidenceLevel": "叙述性综述",
+      "evidenceLevel": "随机对照试验",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42675240/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716044/"
     },
     {
-      "id": "pmid-42674126",
-      "title": "Selective targeting of the oligodendroglial GPR17 receptor improves myelin integrity and motor function in female SOD1 G93A mice.",
-      "titleZh": "选择性靶向少突胶质细胞GPR17受体改善雌性SOD1 G93A小鼠的髓鞘完整性和运动功能",
+      "id": "epmc-MED-42716044",
+      "title": "Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.",
+      "titleZh": "RIPK1抑制剂SAR443820在肌萎缩侧索硬化中的安全性、耐受性和疗效（HIMALAYA）：一项多中心、随机、双盲、安慰剂对照的2期试验",
       "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
+      "evidenceLevel": "随机对照试验",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42674126/"
+      "url": "https://doi.org/10.1016/s1474-4422(26)00277-2"
     },
     {
-      "id": "pmid-42803299",
-      "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
-      "titleZh": "LRSAM1作为一种E3泛素连接酶在肌萎缩侧索硬化中调控TDP-43蛋白稳态",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究结合体外细胞模型机制研究",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803299/"
-    },
-    {
-      "id": "trial-NCT06209515",
-      "title": "Sociodemographic Factors and Criminal Behaviour Preceding Neurodegenerative Disease - Retrospective Register Study",
-      "titleZh": "待复核翻译：Sociodemographic Factors and Criminal Behaviour Preceding Neurodegenerative Disease - Retrospective Register Study",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06209515"
-    },
-    {
-      "id": "trial-NCT07737977",
-      "title": "Developing a Comprehensive Biomarker Panel for Monitoring Progression and Early Detection in ALS Patients",
-      "titleZh": "Developing a Comprehensive 生物标志物 Panel for Monitoring Progression and Early Detection in ALS Patients",
+      "id": "trial-NCT06392126",
+      "title": "Personalized Antisense Oligonucleotide Therapy for A Single Participant With CHCHD10 ALS",
+      "titleZh": "Personalized 反义寡核苷酸 Therapy for A Single Participant With CHCHD10 ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07737977"
+      "url": "https://clinicaltrials.gov/study/NCT06392126"
     },
     {
-      "id": "trial-NCT07095686",
-      "title": "Personalized Antisense Oligonucleotide for Participants With CHCHD10 ALS",
-      "titleZh": "Personalized 反义寡核苷酸 for Participants With CHCHD10 ALS",
+      "id": "trial-NCT04302870",
+      "title": "Motor Neurone Disease - Systematic Multi-Arm Adaptive Randomised Trial",
+      "titleZh": "运动神经元病 - Systematic Multi-Arm Adaptive Randomised Trial",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04302870"
+    },
+    {
+      "id": "trial-NCT04715399",
+      "title": "UPenn Observational Research Repository on Neurodegenerative Disease",
+      "titleZh": "待复核翻译：UPenn Observational Research Repository on Neurodegenerative Disease",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07095686"
+      "url": "https://clinicaltrials.gov/study/NCT04715399"
     },
     {
-      "id": "trial-NCT05829330",
-      "title": "Ambulatory Versus Inpatient Initiation of Home Mechanical Ventilation",
-      "titleZh": "待复核翻译：Ambulatory Versus Inpatient Initiation of Home Mechanical Ventilation",
+      "id": "trial-NCT04798378",
+      "title": "NuroSleeve Powered Brace & Stimulation System to Restore Arm Function",
+      "titleZh": "待复核翻译：NuroSleeve Powered Brace & Stimulation System to Restore Arm Function",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05829330"
+      "url": "https://clinicaltrials.gov/study/NCT04798378"
     },
     {
-      "id": "trial-NCT07292545",
-      "title": "Video-Based Proprioceptive Exercise Program in ALS",
-      "titleZh": "待复核翻译：Video-Based Proprioceptive Exercise Program in ALS",
+      "id": "trial-NCT03664206",
+      "title": "Assessing Motor Neuron Disease Mechanisms by Threshold Tracking Transcranial Magnetic Stimulation and Magnetic Resonance Spectroscopy",
+      "titleZh": "Assessing 运动神经元病 Mechanisms by Threshold Tracking Transcranial Magnetic Stimulation and Magnetic Resonance Spectroscopy",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03664206"
+    },
+    {
+      "id": "trial-NCT05880563",
+      "title": "Investigation of Cannabinoid 2-receptor Expression in the Brain and Spine of ALS-patients Compared to Healthy Controls With PET (18F-RoSMALS)",
+      "titleZh": "待复核翻译：Investigation of Cannabinoid 2-receptor Expression in the Brain and Spine of ALS-patients Compared to Healthy Controls With PET (18F-RoSMALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07292545"
+      "url": "https://clinicaltrials.gov/study/NCT05880563"
     },
     {
-      "id": "trial-NCT07169175",
-      "title": "A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS",
-      "titleZh": "待复核翻译：A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS",
+      "id": "trial-NCT02152449",
+      "title": "Oral Nutritional Supplementation in Amyotrophic Lateral Sclerosis (ALS) Patients",
+      "titleZh": "Oral Nutritional Supplementation in 肌萎缩侧索硬化症 (ALS) Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07169175"
+      "url": "https://clinicaltrials.gov/study/NCT02152449"
     },
     {
-      "id": "trial-NCT05979688",
-      "title": "Yogic Breathing Exercise for People With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Yogic Breathing Exercise for People With 肌萎缩侧索硬化症",
+      "id": "trial-NCT04875949",
+      "title": "Anti-Cholinergic Receptors Antibodies, Autonomic Profile and Dysautonomia Symptoms in PAF, ALS and POTS (DISAUT-AB)",
+      "titleZh": "待复核翻译：Anti-Cholinergic Receptors Antibodies, Autonomic Profile and Dysautonomia Symptoms in PAF, ALS and POTS (DISAUT-AB)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04875949"
+    },
+    {
+      "id": "trial-NCT01746381",
+      "title": "Non-invasive Ventilation in Amyotrophic Lateral Sclerosis (ALS) Using the iVAPS Mode",
+      "titleZh": "Non-invasive Ventilation in 肌萎缩侧索硬化症 (ALS) Using the iVAPS Mode",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01746381"
+    },
+    {
+      "id": "trial-NCT03892863",
+      "title": "Repetitive Transcranial Magnetic Stimulation as Therapy for Depression in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Repetitive Transcranial Magnetic Stimulation as Therapy for Depression in 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05979688"
+      "url": "https://clinicaltrials.gov/study/NCT03892863"
     },
     {
-      "id": "trial-NCT06829212",
-      "title": "Research on Wireless Brain Implant System for General Control of External Devices",
-      "titleZh": "待复核翻译：Research on Wireless Brain Implant System for General Control of External Devices",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06829212"
-    },
-    {
-      "id": "trial-NCT02118805",
-      "title": "Innovative Measures of Speech and Swallowing Dysfunction in Neurological Disorders",
-      "titleZh": "待复核翻译：Innovative Measures of Speech and Swallowing Dysfunction in Neurological Disorders",
+      "id": "trial-NCT03506425",
+      "title": "A Pilot Trial of Triheptanoin for People With Amyotrophic Lateral Sclerosis (PALS)",
+      "titleZh": "A Pilot Trial of Triheptanoin for People With 肌萎缩侧索硬化症 (PALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02118805"
+      "url": "https://clinicaltrials.gov/study/NCT03506425"
     },
     {
-      "id": "trial-NCT05742828",
-      "title": "Virtual Seating Coach on Power Wheelchairs of Persons With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Virtual Seating Coach on Power Wheelchairs of Persons With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT00339976",
+      "title": "Exposure to Neurotoxins as Risk Factors for Amyotrophic Lateral Sclerosis",
+      "titleZh": "Exposure to Neurotoxins as Risk Factors for 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05742828"
+      "url": "https://clinicaltrials.gov/study/NCT00339976"
     },
     {
-      "id": "trial-NCT05031351",
-      "title": "NF-κB Inhibition in Amyotrophic Lateral Sclerosis",
-      "titleZh": "NF-κB Inhibition in 肌萎缩侧索硬化症",
+      "id": "trial-NCT01160263",
+      "title": "Study of Dopamine and Serotonin Transporters in Patients With Amyotrophic Lateral Sclerosis and Controls",
+      "titleZh": "Study of Dopamine and Serotonin Transporters in Patients With 肌萎缩侧索硬化症 and Controls",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01160263"
+    },
+    {
+      "id": "trial-NCT00696332",
+      "title": "Talampanel for Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Talampanel for 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05031351"
+      "url": "https://clinicaltrials.gov/study/NCT00696332"
     },
     {
-      "id": "trial-NCT03427086",
-      "title": "Safety and Tolerability of High Dose Biotin in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Safety and Tolerability of High Dose Biotin in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03427086"
-    },
-    {
-      "id": "trial-NCT02469675",
-      "title": "Brain and Nerve Stimulation for Hand Muscles in Spinal Cord Injury and ALS",
-      "titleZh": "待复核翻译：Brain and Nerve Stimulation for Hand Muscles in Spinal Cord Injury and ALS",
+      "id": "trial-NCT00331812",
+      "title": "Mitochondrial Functions and Oxidative Stress in ALS Patients",
+      "titleZh": "线粒体l Functions and Oxidative Stress in ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02469675"
-    },
-    {
-      "id": "trial-NCT02383654",
-      "title": "Compassionate Treatment : An Exploratory Clinical Trial to Assess Treatment of Amyotrophic Lateral Sclerosis",
-      "titleZh": "Compassionate Treatment : An Exploratory 临床试验 to Assess Treatment of 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02383654"
-    },
-    {
-      "id": "trial-NCT01511029",
-      "title": "Study to Evaluate the QTC Interval in Healthy Volunteers Dosed With Dexpramipexole (QTC = Electrocardiogram (ECG) Interval Measured From the Onset of the QRS Complex to the End of the T Wave Corrected for Heart Rate)",
-      "titleZh": "待复核翻译：Study to Evaluate the QTC Interval in Healthy Volunteers Dosed With Dexpramipexole (QTC = Electrocardiogram (ECG) Interval Measured From the Onset of the QRS Complex to the End of the T Wave Corrected for Heart Rate)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01511029"
+      "url": "https://clinicaltrials.gov/study/NCT00331812"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 10,
-    "缺标识符": 4,
-    "缺摘要": 18,
+    "疑似误收": 12,
+    "缺标识符": 0,
+    "缺摘要": 17,
     "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 44
+    "待复核": 43
   },
   "relevanceCounts": {
-    "high": 23,
-    "medium": 11,
-    "low": 10
+    "high": 26,
+    "medium": 5,
+    "low": 12
   }
 }
