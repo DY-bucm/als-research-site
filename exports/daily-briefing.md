@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-10-01
+更新时间：2026-10-03
 
-1. **弥合肌萎缩侧索硬化症临床试验的可信度差距**
-   - 临床试验 / 专家观点/评论文章（非原始临床试验数据） / high
-   - ALS早期和中期临床试验数据常被用于宣称临床获益，但反复无法在3期试验中验证；作者认为根源在于“临床试验工业复合体”的扭曲激励助长了多种科学推理谬误。
-   - https://pubmed.ncbi.nlm.nih.gov/42685299/
-2. **成人起病非5q型脊髓性肌萎缩症患者中的LRP12 CGG重复扩增**
-   - 临床试验 / 观察性临床研究 / high
-   - 在8个遗传学未明确的成人起病非5q型SMA家系中，6个（75%）检出LRP12 CGG重复扩增，患者表现为缓慢进展的纯下运动神经元无力；该扩增在ALS和对照中罕见。
-   - https://pubmed.ncbi.nlm.nih.gov/42788121/
-3. **阿尔茨海默病及相关疾病不断演变的诊疗格局中的体液生物标志物**
+1. **胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者**
+   - 临床试验 / 动物/细胞实验 / high
+   - ALS小鼠晚期出现胸腺萎缩、髓质胸腺上皮细胞丢失、Treg发育和抑制功能受损，提示胸腺是ALS免疫失调的靶器官。
+   - https://pubmed.ncbi.nlm.nih.gov/42756835/
+2. **丹麦EPIC队列中诊断前血浆神经丝轻链多肽与肌萎缩侧索硬化风险之间的关联**
+   - 临床试验 / 巢式病例对照研究（丹麦EPIC队列） / high
+   - 血浆NfL在ALS诊断前长达14.6年即升高，距诊断<5年时每标准差增加的OR为3.8，AUC为0.78。
+   - https://pubmed.ncbi.nlm.nih.gov/42825398/
+3. **TAF15第15外显子插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素**
    - 治疗 / 观察性临床研究 / high
-   - 血液生物标志物如NfL和p-tau 217正进入临床实践，但需多种标志物组合以捕捉包括TDP-43病理和神经炎症在内的疾病复杂性。
-   - https://pubmed.ncbi.nlm.nih.gov/42716045/
-4. **RIPK1抑制剂SAR443820治疗肌萎缩侧索硬化症（HIMALAYA）的安全性、耐受性和疗效：一项多中心、随机、双盲、安慰剂对照的2期试验**
-   - 临床试验 / 随机对照试验 / high
-   - SAR443820（20 mg每日两次）在24周内未显著延缓ALS功能下降（ALSFRS-R变化组间差异-0.41，95% CI -1.71至0.88），且与更高的不良事件、治疗中止和肝酶升高相关。
-   - https://pubmed.ncbi.nlm.nih.gov/42716044/
-5. **Personalized 反义寡核苷酸 Therapy for A Single Participant With CHCHD10 ALS**
+   - TAF15第15外显子插入/缺失变异在散发性ALS中频繁出现，且与显著更短的生存期相关，计算模拟提示其增强蛋白凝聚。
+   - https://pubmed.ncbi.nlm.nih.gov/42823490/
+4. **待复核翻译：The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder**
    - 临床试验 / 临床试验注册 / high
-   - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06392126
-6. **运动神经元病 - Systematic Multi-Arm Adaptive Randomised Trial**
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT06363357
+5. **待复核翻译：ASSESS ALL ALS Study**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04302870
-7. **待复核翻译：UPenn Observational Research Repository on Neurodegenerative Disease**
+   - https://clinicaltrials.gov/study/NCT06578195
+6. **待复核翻译：Auto-calibrating System for Upper Limb Disability Assessment, Neurological and Occupational Rehabilitation**
+   - 临床试验 / 临床试验注册 / high
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07636538
+7. **待复核翻译：MIROCALS: Modifying Immune Response and OutComes in ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT03039673
+8. **待复核翻译：Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Speech-02)**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04715399
-8. **待复核翻译：NuroSleeve Powered Brace & Stimulation System to Restore Arm Function**
-   - 临床试验 / 临床试验注册 / high
-   - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04798378
+   - https://clinicaltrials.gov/study/NCT06094205

@@ -1,14 +1,80 @@
 {
-  "updatedAt": "2026-10-01T01:16:08.464Z",
+  "updatedAt": "2026-10-03T01:10:06.742Z",
   "period": {
     "days": 10,
-    "from": "2026-09-22",
-    "to": "2026-10-01"
+    "from": "2026-09-24",
+    "to": "2026-10-03"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
   "count": 38,
   "articles": [
+    {
+      "id": "pmid-42825562",
+      "pmid": "42825562",
+      "doi": "10.1212/cont.0000000000001753",
+      "title": "Amyotrophic Lateral Sclerosis.",
+      "abstract": "This article describes the nerve loss underlying amyotrophic lateral sclerosis, its clinical manifestations, examination findings leading to the diagnosis, the expanding role of genetics, and available treatment and patient management. The cause of neuron death in patients with amyotrophic lateral sclerosis is not known, but many genes are strongly linked to the disease, in both patients with a family history and those with no history. A multistep pathologic process helps to explain the onset of symptoms later in life, even in patients with associated genes. Posttranslational and epigenetic changes are also important factors. Current clinical trials are based on putative pathologic mechanisms, and some newer therapies are gene-based. Amyotrophic lateral sclerosis has distinctive features and can be diagnosed largely from the history and examination, and true mimics are rare. While the cause of neuronal death is not known, pathogenic and risk factor gene variations are present in a number of patients, and posttranscriptional and epigenetic changes are likely major causative factors. Environmental factors likely contribute, but specific avoidable factors have not been identified. Drugs to slow the progress of the disease are currently limited, but trials for all patients with amyotrophic lateral sclerosis continue, including a focus on genetic factors. Patient management is optimized in multidisciplinary amyotrophic lateral sclerosis clinics, and interventions for nutrition with gastric feeding tubes and respiratory insufficiency by noninvasive ventilation enhance patient comfort.",
+      "journal": "Continuum (Minneapolis, Minn.)",
+      "authors": [
+        "Bromberg MB"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "Case Reports"
+      ],
+      "publishedAt": "2026-10-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825562/"
+    },
+    {
+      "id": "pmid-42825398",
+      "pmid": "42825398",
+      "doi": "10.1002/ana.78382",
+      "title": "Associations Between Prediagnosis Plasma Neurofilament Light Polypeptide and Amyotrophic Lateral Sclerosis Risk in the Danish EPIC Cohort.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease with a rapid time from symptoms onset to diagnosis. Elevated neurofilament light polypeptide (NfL) is well-established in symptomatic ALS and up to 5 years prediagnosis, but earlier timeframes remain understudied. We aimed to assess plasma NfL levels up to 23 years before ALS diagnosis and the relation to ALS risk. We conducted a nested matched case-control study within the Danish EPIC cohort (baseline 1993-1997) including 166 ALS cases (diagnosed 1997-2017) and 332 controls matched on birth year and sex. Plasma samples collected 0.4 to 23.2 years (median 14.1 years) prediagnosis were analyzed for NfL using Olink Target 96. Odds ratios were estimated using conditional logistic regression. Discriminatory performance was evaluated using receiver operating characteristic curves. NfL levels were elevated in ALS cases relative to controls up to 14.6 years before diagnosis. Among those with blood samples collected <5, 5 to 14.6, and >14.6 years before diagnosis, the odds ratios (95% CI) for ALS per standard deviation increase in the normalized protein expression value of NfL were 3.8 (1.4-10.3), 1.7 (1.2-2.3), and 1.3 (0.9-1.7), respectively. The areas under the curve for ALS discrimination by NfL among those with blood collected <5 and 5-14.6 years before diagnosis were 0.78 and 0.63, respectively. Plasma NfL elevation may occur significantly earlier than previously reported, indicating a much longer ALS prodrome. Assuming other biomarker changes may also occur earlier, this raises the possibility of identifying at-risk individuals early that could benefit epidemiologic analyses, clinical trials, and prevention efforts. ANN NEUROL 2026.",
+      "journal": "Annals of neurology",
+      "authors": [
+        "Davias A",
+        "Hansen J",
+        "Akdis CA",
+        "Weisskopf MG"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825398/"
+    },
+    {
+      "id": "pmid-42817823",
+      "pmid": "42817823",
+      "doi": "10.1093/g3journal/jkag281",
+      "title": "A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of Amyotrophic Lateral Sclerosis.",
+      "abstract": "Genetic variants in superoxide dismutase 1 (SOD1) cause the progressive neurodegenerative disease Amyotrophic Lateral Sclerosis (ALS). Treatments for this disease are limited, and the unique vulnerability of cholinergic and glutamatergic motor neurons to degeneration seen in ALS patients is not clearly understood. Identifying genetic modifiers of neurodegeneration can provide insight into the selective vulnerability of motor neurons in ALS and may accelerate identification of novel therapeutic targets. Here, we describe a forward genetic screen for suppressors of the stress-induced glutamatergic neuron degeneration in a single-copy C. elegans model of sod-1G85R. Used two different screening strategies, we identified 53 suppressor lines that decreased glutamatergic neuron degeneration to varying degrees. To rapidly identify suppressor genes, we sequenced suppressor lines and identified candidate suppressor genes based on frequency of de novo exonic mutations and previously published work. Two candidates were tested and excluded as suppressor genes: erh-1 and imph-1. For a subset of unidentified suppressor lines, we determined if cholinergic neurodegeneration was also suppressed; roughly one-third of suppressor lines showed no corresponding cholinergic neuron rescue, suggesting that mechanisms involved in cholinergic and glutamatergic degeneration are at least partially divergent. This study outlines the first unbiased genetic screen in a knock-in model of SOD1 neurodegeneration, describes a cohort of candidate suppressor lines with decreased SOD1-dependent neurodegeneration, excludes two candidates and discusses approaches for suppressor mutation isolation and gene identification.",
+      "journal": "G3 (Bethesda, Md.)",
+      "authors": [
+        "Yanagi KS",
+        "Lin-Moore AT",
+        "Gordon NC",
+        "Lins JJ",
+        "Coyne EM",
+        "Meininger KL",
+        "Moy SL",
+        "Stinson LA",
+        "Walsh MB",
+        "Gallati M",
+        "Mahapatra A",
+        "Aderogba R",
+        "Jaworski A",
+        "Hart AC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817823/"
+    },
     {
       "id": "pmid-42717824",
       "pmid": "42717824",
@@ -27,6 +93,28 @@
       ],
       "publishedAt": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717824/"
+    },
+    {
+      "id": "pmid-42595782",
+      "pmid": "42595782",
+      "doi": "10.1038/s41418-026-01701-0",
+      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
+      "abstract": "",
+      "journal": "Cell death and differentiation",
+      "authors": [
+        "Hetz C",
+        "Thielen P",
+        "Fisher J",
+        "Pasinelli P",
+        "Brown RH",
+        "Korsmeyer S",
+        "Glimcher L"
+      ],
+      "publicationTypes": [
+        "Published Erratum"
+      ],
+      "publishedAt": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42595782/"
     },
     {
       "id": "pmid-42760307",
@@ -86,6 +174,89 @@
       ],
       "publishedAt": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42442754/"
+    },
+    {
+      "id": "pmid-42823490",
+      "pmid": "42823490",
+      "doi": "10.1038/s41431-026-02249-w",
+      "title": "Insertion or deletion variants in TAF15 exon 15 are genetic factors impacting the prognosis of amyotrophic lateral sclerosis in a Japanese cohort.",
+      "abstract": "The influence of genetic factors on the prognosis of amyotrophic lateral sclerosis (ALS) has attracted considerable attention, with numerous studies exploring this relationship in clinically diagnosed patients. The present study attempted to clarify the precise impact of genetic factors on prognosis in patients with pathologically confirmed sporadic ALS. We conducted exome analysis on 137 consecutively autopsied patients with sporadic ALS exhibiting TDP-43 pathology, screening for non-synonymous or splice-site rare variants (RVs) in ALS-related genes. The impact of these variants on ALS prognosis was subsequently assessed. The exome analysis identified 31 RVs in 27 of the 137 patients, including TAF15 exon 15 insertion/deletion mutations (TAF15-15 indels) in 9 patients. Patients harboring RVs had significantly shorter survival times (median 18.0 months) than those without RVs (28.5 months), as determined by log-rank test (p = 0.02). Notably, the 9 cases with TAF15-15 indels demonstrated a significantly poorer outcome (15.0 months, p = 3e-06). Lattice Simulation of Sticker-Spacer Interactions (LASSI) simulations revealed stronger negative sticker-sticker interactions, and a tendency toward lower saturation concentration and higher dense-phase concentration in TAF15-15 indel proteins, suggesting enhanced condensation. The present analysis of pathologically diagnosed ALS patients has yielded genetic factors that could potentially aid more accurate diagnosis and prognostication. The frequent identification of TAF15-15 indels among ALS cases, and their association with significantly poorer outcome, suggests that this type of mutation could be prognostically significant in ALS. Furthermore, the mechanism by which TAF15-15 indels influence the course of ALS could be a promising target for future treatments.",
+      "journal": "European journal of human genetics : EJHG",
+      "authors": [
+        "Hatano Y",
+        "Ishihara T",
+        "Tada M",
+        "Li Y",
+        "Hirokawa S",
+        "Uemura M",
+        "Ando S",
+        "Yokoseki A",
+        "Kakita A",
+        "Onodera O"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823490/"
+    },
+    {
+      "id": "pmid-42821610",
+      "pmid": "42821610",
+      "doi": "10.1371/journal.pone.0349281",
+      "title": "Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS), a progressive neurodegenerative disease, severely impairs communication, requiring assistive technologies that restore interaction. The P300 speller brain-computer interface (BCI) enables communication by translating EEG responses into text; however, its practical adoption is limited by slow typing speed and the need for subject-specific calibration. Recent work has demonstrated that large language models (LLMs), such as GPT-2, can significantly improve the performance of the P300 speller by predicting words. However, it remains unclear whether these gains are model-specific or represent a broader trend across language models. Furthermore, the framework-specific performance bounds of LLM-assisted P300 spellers have not been systematically characterized within a unified decoding framework. In this study, we address these gaps through a systematic multi-model theoretical analysis framework. We evaluate a wide range of language models and introduce an idealized LLM to establish upper bounds on achievable performance. In addition, we incorporate cross-subject classifier training to reduce calibration requirements and assess generalization across subjects. Using extensive simulations on EEG data from 78 subjects, we demonstrate that the evaluated models consistently achieve substantial improvements in typing speed, with gains of up to ~45% (within-subject training) and ~75% (across-subject training) over conventional approaches. More importantly, we show that several high-performing models, despite architectural differences, operate within 5% of the theoretical performance bound, indicating diminishing returns from further model scaling. These improvements generalize across both within-subject and across-subject classifiers. Our results suggest that LLM-assisted P300 spellers are approaching oracle-based upper bounds within the considered decoding framework, shifting the primary bottleneck from language modeling to neural signal decoding. This work provides both a practical framework for improving BCI communication and a theoretical perspective on its achievable limits.",
+      "journal": "PloS one",
+      "authors": [
+        "Parthasarathy N",
+        "Soetedjo J",
+        "Panchavati S",
+        "Parthasarathy N",
+        "Lee D",
+        "Arnold C",
+        "Pouratian N",
+        "Speier W"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821610/"
+    },
+    {
+      "id": "pmid-42822505",
+      "pmid": "42822505",
+      "doi": "10.1080/13554794.2026.2735595",
+      "title": "Progressive anterior opercular syndrome (Foix-Chavany-Marie syndrome) in neurodegenerative disease: a case series.",
+      "abstract": "Anterior opercular syndrome (Foix-Chavany-Marie syndrome) is characterized by severe dysarthria, impaired voluntary orofacial and pharyngolingual movements, and preserved automatic or emotional movements (automatic-voluntary dissociation). Although classically associated with stroke, its progressive neurodegenerative form is rare and poorly understood. We report two patients to characterize its clinical and neuroanatomical features. The cases were identified retrospectively through review of clinical and neuroimaging records from behavioral neurology centers in the United States and Japan. Both had severe dysarthria and oral-phase dysphagia. Voluntary orofacial movements were markedly impaired, whereas reflexive movements, including coughing and yawning, and emotional movements, including smiling in response to humor, were preserved. Coordination, posture, and gait were initially preserved. Both patients showed predominantly upper motor neuron features without lower motor neuron signs; limb and cranial electromyography was normal in the patient tested. Neuroimaging showed bilateral frontal atrophy and hypometabolism or hypoperfusion involving the anterior operculum. These findings suggest that progressive anterior opercular syndrome may emerge when bilateral opercular regions are affected by neurodegeneration. Recognition of this syndrome may facilitate anticipatory management of dysarthria, dysphagia, and nutritional risk and broaden awareness of speech and orofacial motor syndromes in frontotemporal dementia and related phenotypes.",
+      "journal": "Neurocase",
+      "authors": [
+        "Watanabe H",
+        "Mori E",
+        "Josephs KA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822505/"
+    },
+    {
+      "id": "pmid-42817633",
+      "pmid": "42817633",
+      "doi": "10.1098/rstb.2025.0273",
+      "title": "Proteostasis (in)action: the role of co-pathologies in neurodegenerative disease.",
+      "abstract": "Clinically distinct neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS), share in common progressive neuronal dysfunction and cell death associated with the accumulation of misfolded proteins. Central to these processes are the cellular and organismal proteostasis networks responsible for maintaining protein homeostasis through coordinated actions of molecular chaperones, the ubiquitin-proteasome system and autophagy-lysosomal pathways. As a consequence of ageing, genetic modifications and other disease-specific conditions, the proteostatic network becomes compromised, leading to the accumulation of toxic protein aggregates that disrupt neuronal function and lead to neurodegeneration. Specific misfolded proteins are associated with each neurodegenerative disease (i.e. α-synuclein in PD, amyloid-β/tau in AD and TAR DNA-binding protein 43/SOD in ALS). However, increasing evidence implicates more complex interactions of co-pathologies across these disorders, as Lewy bodies are common in AD brains and Alzheimer pathology is present in the majority of PD autopsy cases. These observations are consistent with the idea that disruption of proteostasis networks by one aggregation-prone protein could result in misfolding and aggregation of other neurodegeneration-related species. This review will examine the characteristics and consequences of co-pathologies in neurodegenerative disorders. Additionally, the review will outline emerging therapeutic strategies targeted at restoring proteostasis and mitigating the effects of co-pathological processes associated with neurodegenerative diseases. This article is part of the Theo Murphy meeting issue 'ProteostaSys: a systems view of proteostasis'.",
+      "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "authors": [
+        "Morley JF"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817633/"
     },
     {
       "id": "pmid-42789802",
@@ -151,10 +322,90 @@
         "Zema C"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Validation Study"
       ],
       "publishedAt": "2026-09-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42814997/"
+    },
+    {
+      "id": "pmid-42816153",
+      "pmid": "42816153",
+      "doi": "10.1111/jocn.70548",
+      "title": "Caregiving and Respite for People With Motor Neurone Disease: A National Cross-Sectional Survey of Experiences and Challenges.",
+      "abstract": "To ascertain care support for people with motor neurone disease encompassing formal and informal care (funded and unfunded care), residential respite utilisation, care tasks performed by family members, and experiences and challenges encountered in accessing funded care. National cross-sectional survey. People with motor neurone disease, their family members, and bereaved family members were surveyed across New Zealand. Analysis included descriptive and multivariable statistical methods. Responses to open-ended questions were analysed thematically. Data were available from 115 people with motor neurone disease, 89 family carers and 40 bereaved carers. Care hours data represented 189 unique individuals with motor neurone disease - 115 responses from people with motor neurone disease, 35 from family carers and 39 bereaved. Most (58%) reported needing funded care but only 50% received it (median 24 h/week), 51% reporting this was insufficient. Younger age, greater disease severity and slow (versus fast) progression rate were associated with greater likelihood of receiving funded care (all p < 0.05); fewer funded hours were associated with faster progression and age over 65 years (all p < 0.05). Most people with motor neurone disease (77%) received unpaid care (median 30 h/week), rising to 90% among bereaved respondents (median 80 h/week). Barriers to funded care included assessment delays, insufficient information and unmet eligibility criteria. Inadequate care funding affected family (e.g., exhaustion, safety issues), and the person with motor neurone disease (e.g., unmet needs and safety concerns), with additional financial impacts. Many family members reduced paid work during the illness. Residential respite was used by only 15%, with multiple reasons for non-use. Inadequate funded care and residential respite provision in New Zealand impose a substantial burden on families to provide unpaid care, harming both people with motor neurone disease and family members. Funded care needs to be more responsive to the needs of those with motor neurone disease and their caregivers. Little is known about funded and unpaid care in motor neurone disease (MND), particularly the challenges of acquiring sufficient funding and arising from insufficient funding. This study found that many people with MND could not access the care hours they needed, leaving family members to provide high levels of unpaid care, while often reducing their own paid work. Resulting challenges included exhaustion for family, financial strain, unmet needs, and safety concerns for the person with MND. Insufficient care funding was associated with reduced life satisfaction for family members. The care funding system was hard to navigate and too slow, particularly where MND progresses fast. From a nursing perspective, this research highlights the critical importance of funded care that is flexible and responsive to rapidly changing needs. When funding systems are slow or difficult to navigate, the burden often falls on families, increasing stress and risk for the person with MND and their carers. This research should inform policy in New Zealand and internationally, demonstrating the need for care funding systems that are flexible, fast, and straightforward to use-findings relevant regardless of the funding model. Reporting method: this paper was informed by the STROBE checklist for cross-sectional studies. The lead author has MND. Many people with MND and their family members were involved throughout the study, shaping its concept, scope, and methods. Two people with MND tested the survey in Qualtrics-one using eye gaze technology and one using voice to text. Four people with MND and three carers reviewed the questionnaire, providing feedback that resulted in rewording. One person with MND worked through every question with the lead author over three separate sessions to ensure all questions and response options were clear and meaningful.",
+      "journal": "Journal of clinical nursing",
+      "authors": [
+        "Gauld N",
+        "Hikaka J",
+        "Newsham S",
+        "Frampton C",
+        "Mylchreest R",
+        "Brott T",
+        "Buchanan SM",
+        "Buetow S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42816153/"
+    },
+    {
+      "id": "pmid-42815720",
+      "pmid": "42815720",
+      "doi": "10.1016/j.clnesp.2026.105162",
+      "title": "Predictive Value of the Modified Controlling Nutritional Status Score for Critical Events in Patients with Amyotrophic Lateral Sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is associated with various clinical challenges and critical outcomes. Therefore, we established a regional registry and conducted the Chugoku ALS Retrospective and Prospective (CARP) study. The modified controlling nutritional status (m-CONUT) score holds the potential to comprehensively assess the condition of patients with ALS from aspects such as nutrition, metabolism, and inflammation. The present study used data from the CARP study to examine the relationship between the m-CONUT score and outcomes. Patients diagnosed with possible, probable, and definite ALS according to the Awaji criteria were enrolled between 2014 and 2023. A statistical analysis of data from patients enrolled within 2 years of ALS onset and followed for at least 6 months thereafter was performed. Patients were evaluated every 3 months, and missing values were supplemented by the last observation carried forward method. This study included 36 patients. Eleven experienced critical events (ventilator placement or death), the majority of which were deaths. The m-CONUT score exhibited a worsening trend before the critical event occurred, as did the revised ALS functional rating scale score, body mass index, and forced vital capacity percentage. Critical events increased significantly with each 1-point increase in the m-CONUT score. The m-CONUT score may have potential for predicting outcomes in patients with ALS.",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": [
+        "Tazuma T",
+        "Nakamori M",
+        "Toko M",
+        "Watanabe T",
+        "Naito H",
+        "Kanaya Y",
+        "Agari D",
+        "Shishido T",
+        "Imamura E",
+        "Imon K",
+        "Nomura E",
+        "Torii T",
+        "Miyachi T",
+        "Yamashita H",
+        "Ohshita T",
+        "Maruyama H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815720/"
+    },
+    {
+      "id": "pmid-42822337",
+      "pmid": "42822337",
+      "doi": "10.1016/j.genhosppsych.2026.09.014",
+      "title": "Core and bridge nodes between sleep quality and depression in Chinese patients with amyotrophic lateral sclerosis: A network analysis perspective.",
+      "abstract": "Sleep quality and depression are prevalent yet under-recognized non-motor symptoms (NMS) in amyotrophic lateral sclerosis (ALS), and the interplay between their symptom domains remains poorly characterized. This study applied network analysis to identify core and bridge nodes linking sleep quality and depression in Chinese ALS patients. A cross-sectional study was conducted among 372 ALS patients recruited from a tertiary hospital in Wuhan, China. Sleep quality and depressive symptoms were assessed using the Pittsburgh Sleep Quality Index (PSQI) and the Patient Health Questionnaire-9 (PHQ-9), respectively. A regularized Gaussian graphical model was estimated using the graphical LASSO algorithm. Node centrality metrics including strength, closeness, betweenness, and expected influence (EI) were calculated to identify core nodes, and bridge expected influence (BEI) was calculated to identify bridge nodes. A case-dropping bootstrap procedure was used to evaluate the stability of the network estimates. Among all patients, 50.81% screened positive for poor sleep quality and 41.40% for depressive symptoms, with 28.49% screening positive for both. Subjective sleep quality showed the highest strength and EI, identifying it as the most central node. Daytime dysfunction exhibited the highest closeness and betweenness centrality and the largest BEI, emerging as the principal bridge node connecting the communities. The network demonstrated good stability, with CS-coefficients of 0.67 and 0.60 for EI and BEI, respectively. The findings highlight subjective sleep quality and daytime dysfunction as potentially influential nodes within the sleep quality-depression network, representing candidate targets for future longitudinal and intervention studies that may inform strategies to support well-being in patients with ALS.",
+      "journal": "General hospital psychiatry",
+      "authors": [
+        "Zeng Q",
+        "Zhu Q",
+        "Jiang Q",
+        "Zhou J",
+        "Yue L",
+        "Zhu X",
+        "Zeng X",
+        "Li C",
+        "Qiao G",
+        "Fu Q"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822337/"
     },
     {
       "id": "pmid-42811116",
@@ -174,6 +425,26 @@
       ],
       "publishedAt": "2026-09-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42811116/"
+    },
+    {
+      "id": "pmid-42817119",
+      "pmid": "42817119",
+      "doi": "10.2174/0118715273459017260922073618",
+      "title": "Neuroinflammation and Autophagy in Neurodegeneration: Cellular Mechanisms and Therapeutic Strategies.",
+      "abstract": "Neurodegenerative diseases, including Huntington's disease, Parkinson's disease, Alzheimer's disease, and Amyotrophic Lateral Sclerosis (ALS), are characterized by progressive neuronal dysfunction and loss, often accompanied by toxic protein aggregation and chronic neuroinflammation. Increasing evidence indicates that dysregulated autophagy and persistent inflammatory responses are central drivers of disease onset and progression. Autophagy, a fundamental cellular degradation and recycling process, is essential for maintaining neuronal homeostasis by removing damaged organelles and misfolded proteins through mechanisms such as macroautophagy and mitophagy. However, key regulators of this pathway, including ULK1, Beclin-1, LC3, and p62/SQSTM1, are frequently impaired in neurodegenerative conditions, leading to the accumulation of pathogenic proteins such as tau, α-synuclein, and amyloid-β. Concurrently, aberrant activation of microglia and inflammasomes promotes the sustained release of pro-inflammatory cytokines, creating a neurotoxic environment that exacerbates neuronal injury. This review examines the molecular crosstalk between autophagy and neuroinflammation, with particular emphasis on disease-specific mechanisms, including LC3-associated endocytosis (LANDO) in Alzheimer's disease, tau-mediated pathology, and dopaminergic neurodegeneration in Parkinson's disease. Importantly, this review introduces a unifying conceptual framework in which neuroinflammation and autophagy are integrated as a dynamic, stagedependent immune-autophagy axis that governs neurodegenerative disease progression and therapeutic responsiveness. In addition, emerging multimodal therapeutic strategies targeting both autophagic flux and immune modulation are discussed, including mTOR inhibitors, mitophagy enhancers, GLP-1 receptor agonists, and nanomedicine-based delivery systems. Advances in three-dimensional organoids, induced Pluripotent Stem Cell (iPSC) models, and biomarker-driven clinical trials are further enhancing translational potential. In conclusion, understanding the interplay between autophagy and neuroinflammation provides critical insights into the pathophysiology of neurodegeneration and offers promising avenues for the development of targeted, disease-modifying therapies.",
+      "journal": "CNS & neurological disorders drug targets",
+      "authors": [
+        "Verma A",
+        "Kushwaha SKS",
+        "Kushwaha N",
+        "Dutta S",
+        "Nigam P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817119/"
     },
     {
       "id": "pmid-42807601",
@@ -578,333 +849,6 @@
       ],
       "publishedAt": "2026-09-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778785/"
-    },
-    {
-      "id": "pmid-42788121",
-      "pmid": "42788121",
-      "doi": "10.1212/NXG.0000000000200440",
-      "title": "LRP12 CGG Repeat Expansions in Patients With Adult-Onset Non-5q Spinal Muscular Atrophy.",
-      "abstract": "Non-5q spinal muscular atrophy (SMA) is genetically heterogeneous, yet many adult-onset cases remain molecularly undiagnosed. CGG repeat expansions in the 5' untranslated region of LRP12 , originally identified in oculopharyngodistal myopathy, have also been implicated in amyotrophic lateral sclerosis (ALS) and inherited peripheral neuropathy. The aim of this study was to determine whether LRP12 CGG repeat expansions occur in patients with adult-onset proximal-predominant non-5q SMA and characterize the associated clinical presentations. In this observational case series, we enrolled 8 consecutive, genetically unresolved families that met prespecified criteria for adult-onset non-5q SMA after exclusion of known genetic causes of SMA and familial ALS by comprehensive genetic evaluation, including whole-exome sequencing. LRP12 CGG repeat expansions were screened by repeat-primed PCR and then confirmed and sized by Oxford Nanopore long-read sequencing. LRP12 CGG repeat expansions were also screened in 496 unrelated ALS cases and 1,000 controls. Monoallelic LRP12 CGG repeat expansions were identified in 6 of the 8 non-5q SMA probands (75%). Five of the 6 positive families were consistent with autosomal-dominant inheritance. Expanded alleles ranged from 58 to 92 repeat units. Affected individuals showed adult-onset, slowly progressive, proximal-predominant pure lower motor neuron weakness with preserved bulbar and sensory function and no upper motor neuron signs. Expansions were rare in ALS cases (2/496, 0.40%) and controls (2/1,000, 0.20%). We identified LRP12 CGG repeat expansions in a substantial proportion of patients with slowly progressive, proximal-predominant pure lower motor neuron weakness not linked to 5q-SMA. These findings broaden the clinical spectrum of LRP12 -related disease and support inclusion of LRP12 repeat-expansion analysis in the evaluation of genetically unresolved adult-onset lower motor neuron syndromes.",
-      "journal": "Neurology. Genetics",
-      "authors": [
-        "Naruse H",
-        "Mitsui J",
-        "Ishiura H",
-        "Okubo S",
-        "Yoshida C",
-        "Mitsutake A",
-        "Maruta K",
-        "Uchida Y",
-        "Nobuhara Y",
-        "Okabe H",
-        "Nakamura Y",
-        "Suzuki R",
-        "Hotta Y",
-        "Matsukawa T",
-        "Tsukamoto H",
-        "Kawamura Y",
-        "Hara K",
-        "Takado Y",
-        "Kanzaki M",
-        "Uesaka Y",
-        "Ishii A",
-        "Kitamura A",
-        "Urushitani M",
-        "Takahashi Y",
-        "Kubota A",
-        "Maeda M",
-        "Shimizu J",
-        "Shirota Y",
-        "Hamada M",
-        "Satake W",
-        "Katagiri T",
-        "Takahama S",
-        "Yamamoto T",
-        "Tsuji S",
-        "Nakamura Y",
-        "Toda T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42788121/"
-    },
-    {
-      "id": "pmid-42790169",
-      "pmid": "42790169",
-      "doi": "10.1016/j.ejmech.2026.119360",
-      "title": "Phytocannabinoid cannabidiol (CBD) in neurodegenerative diseases: From polypharmacology to drug development.",
-      "abstract": "Cannabidiol (CBD) is a non-intoxicating phytocannabinoid that has attracted interest as a multi-target neurotherapeutic candidate for neurodegenerative diseases. CBD is a lipophilic terpenophenolic chemotype whose phenolic redox chemistry, membrane partitioning, cytochrome P450-mediated metabolism, and formulation-dependent exposure are central to its biological activity and translational limitations. In addition, CBD engages a broad target network relevant to neurodegeneration. Major components include cannabinoid receptors, transient receptor potential channels, peroxisome proliferator-activated receptor-γ, adenosine and serotonin signaling systems, voltage-gated calcium channels, and redox-regulatory pathways. These mechanisms converge on neuroinflammation, excitotoxicity, mitochondrial dysfunction, impaired proteostasis, and synaptic injury. Preclinical studies across models of Alzheimer's disease, Parkinson's disease, multiple sclerosis, Huntington's disease, and amyotrophic lateral sclerosis consistently support CBD's anti-inflammatory, antioxidant, mitochondria-protective, and neuroprotective pharmacology. The magnitude of these effects depends on dose, treatment timing, model system, and route of administration. Clinical evidence remains preliminary and is mainly symptomatic, with signals in agitation, sleep disturbance, spasticity, quality of life, and neuropsychiatric symptoms rather than proven disease modification. Key barriers to development include low and variable oral bioavailability, incomplete brain exposure data, uncertain active metabolite contributions, limited target-engagement biomarkers, and insufficient exposure-response definition. Future development of CBD and optimized cannabinoid-derived analogues will require medicinal chemistry strategies to improve potency, selectivity, metabolic stability, CNS exposure, and formulation performance. Parallel biomarker-driven clinical trials are needed to define pharmacokinetic-pharmacodynamic relationships and evaluate disease-modifying potential.",
-      "journal": "European journal of medicinal chemistry",
-      "authors": [
-        "Zhang B",
-        "Nan J",
-        "Zhang Y",
-        "Zhang B",
-        "Ke C",
-        "Wang W",
-        "Wu T",
-        "Xia J",
-        "Yang F",
-        "He M",
-        "Tian L",
-        "Yang Z",
-        "Liang C"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42790169/"
-    },
-    {
-      "id": "pmid-42778113",
-      "pmid": "42778113",
-      "doi": "10.1016/j.aanat.2026.153381",
-      "title": "Revisiting culture conditions of satellite cells in vitro for skeletal muscle regeneration and therapeutic applications.",
-      "abstract": "Skeletal muscle fibers are largely post-mitotic in adulthood yet retain robust regenerative capacity through satellite cells (SCs), quiescent muscle stem cells located beneath the basal lamina that are activated after injury, proliferate as myoblasts, differentiate, fuse into myotubes, and mature via tightly regulated cues. Given the burden of muscle-wasting and neuromuscular diseases, including Duchenne muscular dystrophy (DMD) (driven by dystrophin defects and impaired SC function), amyotrophic lateral sclerosis (ALS) (with progressive atrophy and evidence of SC perturbation), and myasthenia gravis (autoimmune neuromuscular junction failure), physiologically relevant and scalable in vitro SC systems are essential for mechanistic studies and future cell-therapy development. This review revisits culture conditions and workflows used to isolate, enrich, and differentiate rodent and human skeletal muscle progenitors, integrating key regenerative signalling (hepatocyte growth factor (HGF)/mesenchymal-epithelial transition factor (c-Met), nitric oxide (NO), fibroblast growth factor (FGF)-mitogen-activated protein kinase (MAPK) modulated by Sprouty-1, insulin-like growth factor (IGF)-driven Akt/mechanistic target of rapamycin (mTOR) hypertrophy, inflammatory cytokines including interleukin-6 (IL-6) signal transducer and activator of transcription 3 (STAT3)-cyclin D1, and differentiation switches involving Notch/Wnt, glycogen synthase kinase 3 (GSK3), and mitogen-activated protein kinase (p38α MAPK)) with practical culture variables. Two principal isolation strategies are compared: explant outgrowth, which preserves tissue architecture and injury-mimicking activation but can be slow and yield-limited without matrix support, and enzymatic dissociation (e.g., collagenase, dispase, pronase, protease XIV), which accelerates release from the basal lamina and supports high-throughput needs but requires optimization to minimize trauma and fibroblast contamination. Across reported protocols, matrix choice (notably Matrigel or poly-L-lysine/Matrigel), differential pre-plating, and medium composition (serum levels, chick embryo extract (CEE), basic fibroblast growth factor (bFGF)) strongly influence SC quiescence, migration, survival, and myotube formation, with high purities achievable (e.g., ~97.6% Pax7 ± after explant plus differential adherence; ~90% α7-integrin positive while lacking SCA-1, CD31, and CD45; up to ~98% after preplating; and ~95% in several optimized workflows) and differentiation occurring within ~1-7 days depending on conditions. The isolation of human SCs is constrained by the limited availability of tissue, inconsistent biopsy quality, and the absence of reliable markers to differentiate SCs from other mononuclear cells. Induced pluripotent stem cell (iPSC)-derived muscle organoids present a patient-specific alternative; however, they predominantly produce fetal-like instead of mature adult SCs. Overall, explant-based systems best retain physiological fidelity for niche and matrix studies, whereas enzymatic and hybrid approaches maximize efficiency and yield, underscoring that culture strategy should be selected based on the experimental objective rather than presumed universal superiority.",
-      "journal": "Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft",
-      "authors": [
-        "Kumari P",
-        "Raval A",
-        "Rana P",
-        "Kaushik RR",
-        "Sahi AK",
-        "Gundu S",
-        "Mahto SK"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778113/"
-    },
-    {
-      "id": "pmid-42786852",
-      "pmid": "42786852",
-      "doi": "10.2174/011570159X500937260908042834",
-      "title": "Therapeutic Implications of Cell Death Pathways Across the Course of Amyotrophic Lateral Sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron loss, resulting in paralysis and limited survival. Multiple regulated cell death pathways, including apoptosis, necroptosis, ferroptosis, pyroptosis, lysosomal cell death, autophagy-dependent cell death, NETosis, and other emerging cell death modalities, have been implicated in ALS, but their mechanistic interactions and relative contributions remain poorly understood. This knowledge gap has hindered the development of effective therapies. Better experimental models are needed to dissect these pathways. This review summarizes current knowledge on the roles of cell death pathways in ALS. A tiered framework (M1-M4) is applied to critically evaluate data from human postmortem tissue, patient-derived cells, and animal models, ranking studies according to their relevance to human disease. Potential crosstalk among these pathways is further examined. It is also proposed that the relative contribution of specific cell death pathways may shift with disease progression, although this hypothesis requires longitudinal validation. To integrate this dynamic perspective, cell death pathway activities are hypothetically aligned with the King's clinical staging system. This stage-informed framework is presented as a conceptual model intended to generate hypotheses rather than to serve as a validated clinical algorithm. The model distinguishes established therapies from preclinical and exploratory strategies. Future research should prioritize the development of human-relevant model systems, the identification of longitudinal biomarkers of cell death, and the implementation of rigorously designed combination trials. These efforts may ultimately enable more precise, stage-appropriate therapeutic strategies for ALS.",
-      "journal": "Current neuropharmacology",
-      "authors": [
-        "Yu J",
-        "Xie D",
-        "Zeng X",
-        "Zhang S",
-        "Xiao B",
-        "Zhang J",
-        "Fang M",
-        "Zhu Q",
-        "Yao C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42786852/"
-    },
-    {
-      "id": "pmid-42763209",
-      "pmid": "42763209",
-      "doi": "10.3760/cma.j.cn112137-20251225-03422",
-      "title": "[Evaluation value of NRS2002 and MNA-SF on nutritional status and prognosis in adult patients with amyotrophic lateral sclerosis].",
-      "abstract": "Objective: To evaluate the value of the Nutritional Risk Screening 2002 (NRS2002) and the Mini-Nutritional Assessment Short-Form (MNA-SF) in assessing nutritional status, disease progression, and prognosis in adult patients with amyotrophic lateral sclerosis (ALS). Methods: Baseline data of 148 ALS patients who visited Peking University Third Hospital from January to December 2024 were prospectively collected. Patients were divided into malnutrition group and normal group based on the presence of nutritional risk. Assessments were conducted every 3 months over a 1-year follow-up period, during which ALSFRS-R scores, body mass index (BMI), and nutritional scale scores were recorded. The rates of ALSFRS-R score decline (δFS) and BMI change (δBMI) were calculated as (baseline ALSFRS-R score-follow-up ALSFRS-R score)/follow-up months and (baseline BMI-follow-up BMI)/follow-up months, respectively. The primary endpoint events were death or tracheostomy. Clinical data were compared between patients with different nutritional statuses. Spearman and Pearson correlation analyses were used to explore the correlations between scale scores and various indicators. Cohen's Kappa coefficient was used to evaluate the inter-rater consistency between the two scales. Linear mixed-effects models were applied to assess the relationships between nutritional risk and changes in δFS and δBMI. Results: A total of 148 ALS patients were collected in this study, including 96 males and 52 females, with the age [ M ( Q 1 , Q 3 )] of 56.0 (49.0, 61.0) years. A total of 4 enrolled patients were excluded from the NRS2002 assessment owing to missing BMI data, which resulted from the inability to measure height and weight in these bedridden individuals. Based on the NRS2002 and MNA-SF, patients were classified into the malnutrition group (NRS2002 malnutrition group, n =45; MNA-SF malnutrition group, n =59) and the normal group (NRS2002 normal group, n =99; MNA-SF normal group, n =89). The Kappa values for the consistency between NRS2002 and MNA-SF at baseline, 3, 6, 9, and 12 months were 0.726, 0.713, 0.698, 0.648, and 0.769, respectively (all P <0.001). NRS2002 was negatively correlated with BMI ( r =-0.413, P <0.001), body weight ( r =-0.442, P <0.001), prealbumin ( r =-0.253, P <0.001), creatinine ( r =-0.139, P =0.049), and triglycerides ( r =-0.228, P =0.003); MNA-SF was positively correlated with BMI ( r =0.573, P <0.001), body weight ( r =0.514, P <0.001), prealbumin ( r =0.277, P <0.001), creatinine ( r =0.233, P =0.002), and triglycerides ( r =0.289, P <0.001). After adjusting for confounders using linear mixed-effects models, a higher NRS2002 score was identified as a risk factor for increases in δFS (β = 0.127, 95% CI : 0.065-0.189, P <0.001) and δBMI (β=0.150, 95% CI : 0.104-0.197, P <0.001), whereas a higher MNA-SF score served as a protective factor against increases in δFS (β=-0.090, 95% CI :-0.116 to -0.064, P <0.001) and δBMI (β=-0.092, 95% CI :-0.113 to -0.071, P <0.001). Conclusions: NRS2002 and MNA-SF demonstrate good consistency in nutritional risk assessment among ALS patients. The scores of both scales are correlated with traditional nutritional indicators including BMI, body weight, prealbumin, creatinine, and triglycerides, and are associated with the rates of ALSFRS-R and BMI changes in these patients. 目的： 探讨营养风险筛查2002（NRS2002）和简明版微型营养评估量表（MNA-SF）对成人肌萎缩侧索硬化（ALS）患者的营养状况、病情进展和预后的评估价值。 方法： 前瞻性收集2024年1~12月于北京大学第三医院就诊的ALS患者，依患者是否出现营养风险将患者分为营养风险组和营养正常组。对所有患者每3个月评估1次，持续随访1年，记录修订版肌萎缩侧索硬化功能评分（ALSFRS-R）、体质指数（BMI）、营养评估量表，使用δFS［（基线ALSFRS-R评分-随访时ALSFRS-R评分）/随访月份］和δBMI［（基线BMI-随访时BMI）/随访月份］评估患者ALSFRS-R评分下降速度和BMI变化速度，以死亡或气管切开为终点事件。比较不同营养风险患者临床资料，应用Spearman和Pearson相关分析探讨量表得分与各指标的相关性， Kappa 一致性检验评估两量表结果的一致性，线性混合效应模型评估营养风险与δFS和δBMI水平变化的关系。 结果： 本研究共纳入148例ALS患者基线资料，其中男96例，女52例，年龄［ M （ Q 1 ， Q 3 ）］为56.0（49.0，61.0）岁；在入组的全部患者中，共有4例因长期卧床无法测量身高和体重，导致其BMI缺失，故未能完成NRS2002量表评估。根据NRS2002和MNA-SF将患者分为营养风险组（NRS2002营养风险组， n =45；MNA-SF营养风险组， n =59）和营养正常组（NRS2002营养正常组， n =99；MNA-SF营养正常组， n =89）。基线以及3、6、9、12个月时NRS2002与MNA-SF评估结果的一致性 Kappa 值分别为0.726、0.713、0.698、0.648、0.769（均 P <0.001）。NRS2002得分与BMI（ r =-0.413， P <0.001）、体重（ r =-0.442， P <0.001）、前白蛋白（ r =-0.253， P <0.001）、肌酐（ r =-0.139， P =0.049）、甘油三酯（ r =-0.228， P =0.003）均呈负相关；MNA-SF得分与BMI（ r =0.573， P <0.001）、体重（ r =0.514， P <0.001）、前白蛋白（ r =0.277， P <0.001）、肌酐（ r =0.233， P =0.002）、甘油三酯（ r =0.289， P <0.001）均呈正相关。线性混合模型校正混杂因素后，NRS2002评分高为δFS（β=0.127，95% CI ：0.065~0.189， P <0.001）、δBMI（β=0.150，95% CI ：0.104~0.197， P <0.001）增加的危险因素；MNA-SF评分高为δFS（β=-0.090，95% CI ：-0.116~-0.064， P <0.001）、δBMI（β=-0.092，95% CI ：-0.113~-0.071， P <0.001）的保护因素。 结论： NRS2002和MNA-SF量表评分在ALS患者营养风险评估中具有较好的一致性，两种量表的评分均与BMI、体重、前白蛋白、肌酐、甘油三酯等传统营养指标相关，且可预测患者ALSFRS-R和BMI变化速度。.",
-      "journal": "Zhonghua yi xue za zhi",
-      "authors": [
-        "Liu YW",
-        "Fan DS",
-        "Chen L"
-      ],
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763209/"
-    },
-    {
-      "id": "pmid-42808007",
-      "pmid": "42808007",
-      "doi": "10.1002/gin2.70088",
-      "title": "Comment on 'The Values and Preferences of People Living With Motor Neurone Disease (MND): A Systematic Review and Meta-Analysis'.",
-      "abstract": "",
-      "journal": "Clinical and public health guidelines",
-      "authors": [
-        "Rohtagi R",
-        "Ratnakar PJ",
-        "Sati DM",
-        "Srinivasan H"
-      ],
-      "publicationTypes": [
-        "Letter",
-        "Comment"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42808007/"
-    },
-    {
-      "id": "pmid-42771220",
-      "pmid": "42771220",
-      "doi": "10.1007/s11033-026-12774-y",
-      "title": "Dysregulated polyamine metabolism in neurological disorders: molecular mechanisms and therapeutic opportunities.",
-      "abstract": "Polyamines (PAs), principally putrescine (Put), spermidine (Spd), and spermine (Spm), are ubiquitous aliphatic polycations that regulate nucleic-acid interactions, ion-channel activity, autophagy, redox balance, proteostasis, and immune signaling. Growing genetic, multi-omics, and experimental evidence indicates that disruption of PA biosynthesis, catabolism, acetylation, and transport contributes to neurological disease. In Alzheimer's disease (AD), altered PA flux intersects with Tau and amyloid-β (Aβ) pathology, methylation imbalance, oxidative stress, and impaired autophagic clearance. In Parkinson's disease (PD), PA transport and interconversion are linked to lysosomal dysfunction, mitochondrial stress, and α-synuclein toxicity; ATP13A2-associated Kufor-Rakeb syndrome further illustrates the neurological consequences of defective lysosomal PA transport. PA dysregulation is also implicated in amyotrophic lateral sclerosis (ALS), diabetic retinopathy, Snyder-Robinson syndrome, epilepsy, Bachmann-Bupp syndrome, and cerebral ischemia. This review integrates disease-specific evidence with four interconnected mechanisms-autophagy, oxidative stress, proteostasis, and neuroinflammation-and discusses therapeutic approaches including direct Spd administration, modulation of PA-metabolic enzymes and transporters, and combination strategies. Because PAs can exert both protective and toxic effects depending on concentration, cellular compartment, and disease context, translation will require CNS-relevant biomarkers, dose and route optimization, and explicit consideration of blood-brain barrier constraints.",
-      "journal": "Molecular biology reports",
-      "authors": [
-        "Li K",
-        "Si Q",
-        "Zhang C",
-        "Zhang C",
-        "Wang M",
-        "Liu J",
-        "Zhao J",
-        "Xing H",
-        "Liu J"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42771220/"
-    },
-    {
-      "id": "pmid-42771573",
-      "pmid": "42771573",
-      "doi": "10.1159/ndd/aduag003",
-      "title": "Gait Characteristics and Fall Risk in Amyotrophic Lateral Sclerosis: A 12-Month Prospective Cohort Study.",
-      "abstract": "Gait impairment in amyotrophic lateral sclerosis (ALS) substantially increases fall risk and accelerates functional decline. However, prospective data linking quantitative gait parameters to fall outcomes remain scarce. We aimed to identify gait parameters associated with falls and functional decline in ALS. In this single-center prospective cohort study, we enrolled 256 ALS patients and 256 matched healthy controls. Nineteen spatiotemporal gait parameters were captured using a 3D vision-based system at baseline. Falls, time to wheelchair use, and ALSFRS-R decline were recorded over 12 months. Multivariable logistic regression was used to identify independent fall predictors. During follow-up, 129 of 224 patients (57.6%) experienced at least one fall. Prolonged Timed Up and Go (TUG) time (OR=1.083 per second, 95%CI 1.036-1.133, p<0.001), younger age (OR=0.968 per year, 95%CI 0.940-0.996, p=0.024), and lower MRC sum score (OR=0.976 per point, 95%CI 0.954-0.998, p=0.035) independently predicted falls. The model showed moderate discrimination (AUC=0.665, 95%CI 0.594-0.736). Gait speed (rₛ=0.366) and TUG time (rₛ=-0.381) correlated most strongly with time to wheelchair use (both p<0.001), whereas no gait parameters correlated with ALSFRS-R decline rate. TUG time, younger age, and lower MRC score independently predict falls in ALS, though with modest predictive accuracy. The modest model performance underscores the multifactorial nature of falls and the need for multi-domain risk assessment. Gait speed and TUG time may warrant further investigation as candidate surrogate markers for functional decline. Future studies integrating cognitive evaluation, continuous monitoring, and attention to psychosocial factors may improve prediction and fall prevention strategies.",
-      "journal": "Neuro-degenerative diseases",
-      "authors": [
-        "Hu N",
-        "Su N",
-        "Zhang D",
-        "Zhang J",
-        "Wang K",
-        "Xu Y",
-        "Li Z",
-        "Wang L",
-        "Wu B",
-        "Chu L",
-        "Wang Y",
-        "Jiang H",
-        "Lu Z",
-        "Wu J",
-        "Fan X",
-        "Han F",
-        "Yuan J",
-        "Zhu Y",
-        "Liu M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42771573/"
-    },
-    {
-      "id": "pmid-42773049",
-      "pmid": "42773049",
-      "doi": "10.1016/j.tips.2026.08.004",
-      "title": "Lipophagy and lipid droplets in neurodegeneration.",
-      "abstract": "Lipid droplet (LD) accumulation in neurons and glia is a feature of Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS) and is associated with oxidative stress and neuroinflammation. Although protein-targeted monotherapies have achieved partial clinical success, continued disease progression in many patients suggests that additional cellular mechanisms contribute to pathogenesis. Lipophagy, the selective autophagic degradation of LDs, provides a potential clearance route but has been studied primarily in hepatocytes under nutrient deprivation. Recent studies have begun to map noncanonical regulatory mechanisms of lipophagy, identify disease-associated points of failure in AD, PD, and ALS, and report compounds that enhance LD clearance through mechanisms distinct from canonical nutrient sensing. In this article, we review these advances and discuss the emerging rationale for exploring neuron- and context-specific approaches to modulate lipophagy as a complementary strategy in neurodegeneration.",
-      "journal": "Trends in pharmacological sciences",
-      "authors": [
-        "McKee NW",
-        "Jing Y",
-        "Serdah R",
-        "Thulasingam S",
-        "Lopez XS",
-        "Tan EP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42773049/"
-    },
-    {
-      "id": "pmid-42770300",
-      "pmid": "42770300",
-      "doi": "10.1172/jci.insight.200761",
-      "title": "Mitochonic acid 5 alleviates amyotrophic lateral sclerosis phenotypes via mitochondrial augmentation.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease that urgently requires effective treatment. Mitochondrial dysfunction underlies ALS pathology and represents a potential therapeutic target. Here, we demonstrated the therapeutic potential of mitochonic acid 5 (MA-5), a novel mitochondria-targeted compound that ameliorated ALS phenotypes by enhancing mitochondrial function. In a Drosophila ALS model expressing a mutant human SOD1 (G85R), MA-5 significantly improved locomotor activity, with a trend toward restoration of mitochondrial integrity. In skin fibroblasts derived from ALS patients and motor neurons derived from induced pluripotent stem cells, MA-5 restored ATP production and increased mitochondrial motility. Multiomics analyses suggested that MA-5 modulated mitochondria-linked gene expression and downregulated the glycerophosphate shuttle, contributing to mitochondrial reactive oxygen species production. Transcriptomic analysis identified C7orf31 as a potential marker for monitoring the therapeutic effects of MA-5 and diagnosing ALS subtypes. These findings support MA-5 as a promising therapeutic candidate for ALS and propose C7orf31 as a potential biomarker for treatment monitoring and for disease subtyping.",
-      "journal": "JCI insight",
-      "authors": [
-        "Oikawa Y",
-        "Luo Y",
-        "Suzuki N",
-        "Kasahara T",
-        "Tongu Y",
-        "Yoshida Y",
-        "Tominari T",
-        "Tanabe S",
-        "Suto Y",
-        "Kashiwagi H",
-        "Saito S",
-        "Ikeda K",
-        "Suzuki C",
-        "Kuranaga A",
-        "Akiyama T",
-        "Morimoto S",
-        "Aoki Y",
-        "Muramatsu R",
-        "Soga T",
-        "Aoki M",
-        "Okano H",
-        "Tanaka T",
-        "Abe T",
-        "Kuranaga E",
-        "Toyohara T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770300/"
-    },
-    {
-      "id": "pmid-42771575",
-      "pmid": "42771575",
-      "doi": "10.1159/fpl/acvag012",
-      "title": "Phenotype-Related Characteristics of Tongue Motor Function in Amyotrophic Lateral Sclerosis: A Retrospective Comparative Study of Static and Dynamic Acoustic Measures.",
-      "abstract": "This study aimed to characterize lingual motor function in patients with amyotrophic lateral sclerosis (ALS) by analyzing static acoustic indices obtained from sustained vowels and dynamic indices derived from sentence reading. The following aspects were examined: (1) the independence of static and dynamic indices, (2) the relationship between F2 transition duration and F2 excursion, (3) differences in vowel formant frequencies across ALS phenotypes, (4) associations between static indices and speech intelligibility, and (5) acoustic elements contributing to static indices. Sixty-eight patients with ALS were enrolled (42 men and 26 women). The main analyses focused on the men (n = 42), categorized as spinal-onset (n = 21), spinal onset with bulbar involvement (spinal + bulbar) (n = 9), and bulbar-onset (n = 12). From sustained vowels (/a/-/o/), F1 and F2 values were extracted. The triangular vowel space area (tVSA) and formant centralization ratio (FCR) were calculated using F1 and F2 of /a/, /i/, and /u/. Dynamic measures were obtained from the diphthong /ai/ within /taiyo/ during sentence reading, yielding F2 transition duration and excursion. Static indices (tVSA and FCR) correlated with F2 excursion only in the spinal-onset group (r = 0.458, p = 0.049), whereas no associations were observed in the other phenotypes or in the overall sample. This finding suggests that static and dynamic indices may reflect partially distinct aspects of lingual motor control. tVSA and FCR showed a negative correlation across all phenotypes, confirming that they are complementary indicators of vowel space expansion and centralization. Regarding time-space control, bulbar-onset ALS showed no relationship between F2 transition duration and excursion, suggesting that spatial limitations of tongue movement may not necessarily parallel changes in articulatory speed. Phenotype comparisons revealed significant differences in F1 of /e/ and F2 of /a/, /i/, /u/, and /o/. These findings indicate phenotype-related differences in vertical and anterior-posterior tongue movement characteristics. In bulbar-onset ALS, tVSA correlated with speech intelligibility (visual analogue scale: VAS), and FCR showed a trend-level association (p=0.075). Acoustic element analysis indicated that tVSA was primarily associated with F1 of /a/ and F2 of /i/, whereas FCR was closely associated with F2 of /i/. These findings suggest that combining static (articulatory position) and dynamic (articulatory transition) acoustic indices enables multifaceted evaluation of phenotype-related characteristics of lingual motor dysfunction in ALS. Bulbar-onset ALS is characterized by restricted anterior-posterior movement and impaired vertical tongue adjustment, both of which may contribute to reduced intelligibility.",
-      "journal": "Folia phoniatrica et logopaedica : official organ of the International Association of Logopedics and Phoniatrics (IALP)",
-      "authors": [
-        "Tsujisawa Y",
-        "Takahashi-Iwata I",
-        "Yabe I",
-        "Mukaino M",
-        "Shibamoto I"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42771575/"
-    },
-    {
-      "id": "pmid-42801200",
-      "pmid": "42801200",
-      "doi": "10.2147/DDDT.S631482",
-      "title": "The Versatile Roles of Exosomes in Neurodegenerative Disorders: From Pathological Mechanism and Diagnostic Biomarkers to Therapeutic Application.",
-      "abstract": "Neurodegenerative diseases are characterized by cognitive or motor impairments resulting from the progressive degeneration of neurons or myelin sheaths. Currently, the majority of these disorders remain incurable, leading to significant detriments in patients' quality of life and imposing substantial economic burdens. Exosomes are a type of extracellular vesicles secreted by cells into the extracellular space, typically range from 30 to 150 nanometers in diameter. These vesicles have been identified in a variety of cell types and can participate in various physiological and pathological processes, including intercellular transport of biomolecules, signal transduction, immune modulation, tissue repair, facilitation of tumor metastasis, and evasion of immune surveillance by cancer cells. In recent years, the potential applications of exosomes in neurodegenerative diseases have garnered increasing attention. Their roles encompass early diagnostic biomarker functions, vehicles for drug delivery and therapeutic agents, mediators in the propagation of pathogenic proteins, and regulators of neuroinflammatory responses. In this review, we try to aims to synthesize recent progress in exosome isolation techniques, elucidate the pathogenesis of neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic lateral sclerosis (ALS), and Huntington's disease (HD), and examine the diagnostic and therapeutic applications of exosomes within these conditions. Furthermore, it addresses current limitations in exosome-based applications and explores potential strategies to overcome these challenges. The insights of this review may provide the research directions and guidance for future related researchers in these fields.",
-      "journal": "Drug design, development and therapy",
-      "authors": [
-        "Liu R",
-        "Yue H",
-        "Li X",
-        "Sun W",
-        "Yang J"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42801200/"
     }
   ]
 }
