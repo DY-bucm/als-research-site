@@ -4,47 +4,41 @@
   - https://pubmed.ncbi.nlm.nih.gov/42721706/
 - [ ] 神经退行性疾病中微生物群衍生代谢物-GPCR信号传导 (pmid-42697520)
   - https://pubmed.ncbi.nlm.nih.gov/42697520/
-- [ ] [高优先级] 胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者 (pmid-42756835)
+- [ ] 胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者 (pmid-42756835)
   - https://pubmed.ncbi.nlm.nih.gov/42756835/
 - [ ] 通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响 (pmid-42727824)
   - https://pubmed.ncbi.nlm.nih.gov/42727824/
+- [ ] Mdivi-1通过CaMK2/Drp1通路调控肌萎缩侧索硬化中的线粒体分裂与功能 (pmid-42826761)
+  - https://pubmed.ncbi.nlm.nih.gov/42826761/
+- [ ] [高优先级] 硝酸盐响应性Sialin2偶联应激颗粒组装与清除以维持神经元稳态 (pmid-42826720)
+  - https://pubmed.ncbi.nlm.nih.gov/42826720/
+- [ ] [高优先级] 从患者细胞到患者治疗：诱导多能干细胞在神经退行性疾病中二十年的转化历程 (pmid-42826718)
+  - https://pubmed.ncbi.nlm.nih.gov/42826718/
+- [ ] 酸性大麻素在大脑疾病中的作用：神经生物学机制、临床前证据与转化挑战 (pmid-42826598)
+  - https://pubmed.ncbi.nlm.nih.gov/42826598/
 - [ ] [高优先级] 丹麦EPIC队列中诊断前血浆神经丝轻链多肽与肌萎缩侧索硬化风险之间的关联 (pmid-42825398)
   - https://pubmed.ncbi.nlm.nih.gov/42825398/
-- [ ] 肌萎缩侧索硬化 (pmid-42825562)
+- [ ] 与ALS/FTD相关的TDP-43改变通过破坏细胞黏附通路阻止HSV-1感染 (epmc-PPR-PPR1332972)
+  - https://doi.org/10.64898/2026.09.28.755069
+- [ ] 肌萎缩侧索硬化。 (pmid-42825562)
   - https://pubmed.ncbi.nlm.nih.gov/42825562/
-- [ ] [高优先级] TAF15第15外显子插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素 (pmid-42823490)
+- [ ] [高优先级] TAF15第15号外显子插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素 (pmid-42823490)
   - https://pubmed.ncbi.nlm.nih.gov/42823490/
 - [ ] [疑似误收] 神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列 (pmid-42822505)
   - https://pubmed.ncbi.nlm.nih.gov/42822505/
-- [ ] [高优先级] 辅件成就药物：ASO递送的siRNA进入人中枢神经系统用于ALS治疗 (pmid-42822436)
+- [ ] [高优先级] 辅助元件成就药物：ASO递送的siRNA进入人中枢神经系统用于ALS治疗 (pmid-42822436)
   - https://pubmed.ncbi.nlm.nih.gov/42822436/
 - [ ] 在秀丽隐杆线虫sod-1G85R肌萎缩侧索硬化模型中筛选神经元变性抑制因子 (pmid-42817823)
   - https://pubmed.ncbi.nlm.nih.gov/42817823/
-- [ ] 蛋白质稳态的（失）衡：共病病理在神经退行性疾病中的作用 (pmid-42817633)
-  - https://pubmed.ncbi.nlm.nih.gov/42817633/
-- [ ] [疑似误收] 不放手：tRNA螯合作为驱动合成酶相关神经病的统一机制 (pmid-42817591)
-  - https://pubmed.ncbi.nlm.nih.gov/42817591/
-- [ ] 对《运动神经元病患者的价值与偏好：一项系统综述与荟萃分析》的评论 (pmid-42808007)
-  - https://pubmed.ncbi.nlm.nih.gov/42808007/
-- [ ] 晚期运动神经元病患者急诊剖腹手术的麻醉管理与围手术期结局：一例病例报告 (pmid-42807601)
-  - https://pubmed.ncbi.nlm.nih.gov/42807601/
-- [ ] 并发肌萎缩侧索硬化与多发性硬化的识别与治疗 (epmc-MED-42789802)
-  - https://pubmed.ncbi.nlm.nih.gov/42789802/
-- [ ] [疑似误收] IRF5作为免疫调节因子的作用 (epmc-MED-42781718)
-  - https://doi.org/10.1042/bst20250394
-- [ ] [疑似误收] 衰老小鼠中运动皮层过度兴奋与神经肌肉功能障碍相耦合 (epmc-MED-42775689)
-  - https://doi.org/10.1111/acel.70731
-- [ ] [疑似误收] 人参皂苷Rb1和Rg1抑制脂多糖诱导的小胶质细胞和星形胶质细胞炎症基因表达，而Rb2无此作用 (epmc-MED-42762468)
-  - https://doi.org/10.1002/prp2.70324
-- [ ] [疑似误收] RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善 (epmc-MED-42760307)
-  - https://doi.org/10.1038/d41586-026-02945-z
-- [ ] 四肢骨骼肌质量与肌少症作为肌萎缩侧索硬化症的预后标志物 (epmc-MED-42717824)
-  - https://doi.org/10.1002/jcsm.70378
-- [ ] [疑似误收] Fluid 生物标志物s in the evolving care landscape of Alzheimer's disease and related disorders. (epmc-MED-42716045)
-  - https://doi.org/10.1016/s1474-4422(26)00246-2
-- [ ] [高优先级] 待复核翻译：The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder (trial-NCT06363357)
+- [ ] [疑似误收] 超越快照：用于连续运动单位追踪以增强神经生理评估的动态框架 (epmc-PPR-PPR1333180)
+  - https://doi.org/10.64898/2026.09.25.754489
+- [ ] [疑似误收] 蛋白质稳态与衰老的异质性 (epmc-MED-42817640)
+  - https://doi.org/10.1098/rstb.2025.0266
+- [ ] [疑似误收] 微生物群-蛋白质稳态轴：在神经退行性疾病中的意义 (epmc-MED-42817639)
+  - https://doi.org/10.1098/rstb.2025.0265
+- [ ] 模拟肌肉的织物型肩部矫形器对神经肌肉疾病患者上肢功能运动的影响 (trial-NCT06363357)
   - https://clinicaltrials.gov/study/NCT06363357
-- [ ] [高优先级] 待复核翻译：ASSESS ALL ALS Study (trial-NCT06578195)
+- [ ] 评估所有ALS研究 (trial-NCT06578195)
   - https://clinicaltrials.gov/study/NCT06578195
 - [ ] [高优先级] 待复核翻译：Auto-calibrating System for Upper Limb Disability Assessment, Neurological and Occupational Rehabilitation (trial-NCT07636538)
   - https://clinicaltrials.gov/study/NCT07636538

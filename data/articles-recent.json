@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2026-10-03T01:10:06.742Z",
+  "updatedAt": "2026-10-04T00:35:01.770Z",
   "period": {
     "days": 10,
-    "from": "2026-09-24",
-    "to": "2026-10-03"
+    "from": "2026-09-25",
+    "to": "2026-10-04"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 38,
+  "count": 40,
   "articles": [
+    {
+      "id": "pmid-42826598",
+      "pmid": "42826598",
+      "doi": "10.1016/j.neubiorev.2026.107005",
+      "title": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
+      "abstract": "Acidic cannabinoids, including tetrahydrocannabinolic acid (THCA), cannabidiolic acid (CBDA), cannabigerolic acid (CBGA), and related biosynthetic precursors, represent the predominant phytocannabinoid forms naturally produced by Cannabis sativa. Long considered pharmacologically inactive intermediates, these compounds are now increasingly recognized as bioactive molecules with potential therapeutic relevance for brain disorders. Compared with their decarboxylated counterparts, acidic cannabinoids exhibit distinct physicochemical, pharmacokinetic, and pharmacodynamic properties that may confer reduced psychotropic liability together with unique neurobiological effects. Emerging preclinical evidence indicates that acidic cannabinoids modulate multiple processes implicated in neurological and psychiatric disorders, including serotonergic and endocannabinoid signaling, neuroinflammation, oxidative stress, mitochondrial dysfunction, calcium dyshomeostasis, and synaptic transmission. In this review, we critically examine current knowledge regarding acidic cannabinoids in the context of brain disorders. We first summarize their biosynthesis, chemical stability, pharmacokinetic characteristics, and pharmacological differences from neutral cannabinoids. We then examine preclinical evidence supporting their potential therapeutic effects in epilepsy, anxiety, depression, psychosis-related conditions, and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. We also discuss how artificial intelligence and computational approaches may support target identification, formulation optimization, pharmacokinetic modeling, and the development of personalized cannabinoid-based interventions. Finally, we highlight key methodological and translational challenges limiting the field and outline priorities for future research. Overall, acidic cannabinoids emerge as promising but still underexplored multitarget compounds with potential relevance for the treatment of brain disorders.",
+      "journal": "Neuroscience and biobehavioral reviews",
+      "authors": [
+        "Rava A",
+        "Di Trapano M",
+        "Tse C",
+        "Ji L",
+        "Bid HK",
+        "Trezza V"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826598/"
+    },
     {
       "id": "pmid-42825562",
       "pmid": "42825562",
@@ -45,6 +67,76 @@
       ],
       "publishedAt": "2026-10-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42825398/"
+    },
+    {
+      "id": "pmid-42826718",
+      "pmid": "42826718",
+      "doi": "10.1016/j.xcrm.2026.103104",
+      "title": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
+      "abstract": "Twenty years after the discovery of induced pluripotent stem cells, the field has progressed from patient-specific disease modeling toward cell-based therapies for neurodegenerative disorders. Parkinson's disease has emerged as the leading model for neuronal replacement, whereas Huntington's disease, Alzheimer's disease, and amyotrophic lateral sclerosis require distinct combinations of circuit reconstruction, cellular support, immune modulation, and engineered therapeutic delivery. We discuss key determinants of clinical translation, including cell source, product identity, graft composition, graft-host interactions, manufacturing reproducibility, genomic integrity, and clinical evaluation. We propose that the interval between cell transplantation and long-term engraftment constitutes a biological \"black box\" in which graft fate and therapeutic outcome are determined. As regenerative medicine enters its third decade, future progress will depend not only on generating therapeutic cells but also on elucidating and engineering the biological processes that determine their fate after transplantation, marking a conceptual transition from stem cell biology toward transplantation biology.",
+      "journal": "Cell reports. Medicine",
+      "authors": [
+        "Cha Y",
+        "Kim KS"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/"
+    },
+    {
+      "id": "pmid-42826761",
+      "pmid": "42826761",
+      "doi": "10.1016/j.neuroscience.2026.10.002",
+      "title": "Mdivi-1 regulates mitochondrial fission and function via the CaMK2/Drp1 pathway in amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease involving progressive motor neuron loss. Given the high energy reliance of motor neurons, mitochondrial dysfunction especially excessive fission critically contributes to disease pathogenesis. Mitochondrial division inhibitor-1 (Mdivi-1), an inhibitor of the fission protein Drp1, has shown neuroprotective potential, but its mechanism of action on mitochondrial quality control in ALS remains unclear. Here, we examined the effects of Mdivi-1 on mitochondrial dysfunction and cell injury in NSC34 cells expressing mutant SOD1^G93A and in SOD1^G93A transgenic mice. ALS models exhibited increased reactive oxygen species accumulation, reduced mitochondrial content, loss of mitochondrial membrane potential, enhanced apoptotic signaling, and increased phosphorylation of CaMK2 and Drp1. Mdivi-1 treatment improved cell viability, reduced oxidative stress, restored mitochondrial integrity and membrane potential, and suppressed apoptosis. In addition, Mdivi-1 decreased Drp1 phosphorylation, whereas co-treatment with the CaMK2 activator DCP-LA partially reversed these effects. Furthermore, direct inhibition of CaMK2 with KN93 reduced CaMK2 and Drp1 phosphorylation, providing additional evidence that CaMK2 regulates Drp1 activation in SOD1^G93A cells. These findings indicate that pharmacological modulation of the CaMK2/Drp1 pathway can attenuate aberrant mitochondrial fission and associated cellular dysfunction in ALS models.",
+      "journal": "Neuroscience",
+      "authors": [
+        "Shai Y",
+        "Alam M",
+        "Dong X",
+        "Zhang Y",
+        "Hu Y",
+        "He Z",
+        "Feng J",
+        "Chen Y",
+        "Zhou Z",
+        "Jiang H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826761/"
+    },
+    {
+      "id": "pmid-42826720",
+      "pmid": "42826720",
+      "doi": "10.1016/j.devcel.2026.09.001",
+      "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
+      "abstract": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
+      "journal": "Developmental cell",
+      "authors": [
+        "Li X",
+        "Cao Z",
+        "Jiang O",
+        "Wu S",
+        "Zhou B",
+        "Feng Y",
+        "Chen X",
+        "Wang J",
+        "Zhou J",
+        "Yan R",
+        "Chen M",
+        "Wang S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826720/"
     },
     {
       "id": "pmid-42817823",
@@ -381,6 +473,25 @@
       ],
       "publishedAt": "2026-09-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815720/"
+    },
+    {
+      "id": "pmid-42826575",
+      "pmid": "42826575",
+      "doi": "10.1016/j.compbiolchem.2026.109448",
+      "title": "AI-driven transcriptomics for neurodegenerative disease research: A systematic review.",
+      "abstract": "Neurodegenerative diseases (NDDs), including Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic Lateral Sclerosis (ALS), present a growing global health challenge, with traditional diagnostic and therapeutic approaches facing significant limitations in early detection and mechanistic resolution. Innovations in transcriptomic technologies-spanning bulk RNA sequencing, single-cell RNA-seq (scRNA-seq), and spatially resolved transcriptomics-provide unprecedented insights into cellular heterogeneity and microenvironmental dysregulation. This systematic review synthesizes recent applications of artificial intelligence (AI), machine learning (ML), and deep learning (DL) across transcriptomic tiers to benchmark computational models for biomarker identification, disease diagnosis, patient subtyping, and drug repurposing. Following PRISMA 2020 guidelines for qualitative systematic reviews, literature published between 2016 and 2025 was systematically searched across PubMed/MEDLINE, IEEE Xplore, Google Scholar, and bioRxiv/medRxiv. Of 1058 records identified, 19 core empirical studies met all eligibility criteria and were synthesized in depth alongside contextual reference benchmarks. Traditional ML algorithms (SVM, RF, Elastic Net) demonstrate high diagnostic accuracy (AUC 0.72-0.98) in blood-based biomarker selection, while deep architectures (autoencoders, LSTMs, and Graph Neural Networks) excel at modeling continuous disease trajectories and resolving spatial transcriptomic niches (e.g., STAGATE, SpaGCN, cell2location). Emerging spatial deep learning models successfully localize disease-associated microglia (DAM) around amyloid plaques and trace axonal degeneration pathways. Key translational hurdles include data scarcity in rare NDD subtypes, lack of cross-platform spatial benchmarks, and the black-box nature of deep neural networks. Integrating explainable AI (XAI) and prospective multi-modal cohorts is essential for translating computational transcriptomics into clinical diagnostics and targeted therapeutics.",
+      "journal": "Computational biology and chemistry",
+      "authors": [
+        "Tripathi A",
+        "Yadav AK",
+        "Kumar N"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-09-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826575/"
     },
     {
       "id": "pmid-42822337",
@@ -781,74 +892,6 @@
       ],
       "publishedAt": "2026-09-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42813639/"
-    },
-    {
-      "id": "pmid-42785576",
-      "pmid": "42785576",
-      "doi": "10.1016/j.jpainsymman.2026.09.025",
-      "title": "A Qualitative Study of Team-Based Serious Illness Communication in ALS.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a terminal neurodegenerative disease with an illness trajectory requiring repeated, high-stakes decisions and ongoing serious illness communication (SIC). While multidisciplinary team care is best practice in ALS, how interprofessional teams operationalize SIC, and how team culture shapes this work, remain poorly understood. To examine how team culture influences SIC delivery within an interprofessional ALS clinic. We conducted a qualitative study using semi-structured interviews and a focus group with interprofessional clinicians from a multidisciplinary ALS clinic at an academic medical center. Data explored clinicians' perceptions of interprofessional roles, team culture, facilitators, and barriers related to SIC. Transcripts were analyzed using thematic analysis with a combined deductive-inductive approach. Analysis identified interpersonal facilitators, systems-level facilitators, and structural barriers shaping team-based SIC. Clinicians described shared responsibility for SIC, with conversations unfolding cumulatively over time across roles and clinical encounters. Interpersonal facilitators included mutual respect, psychological safety, role flexibility, and a shared commitment to reducing patient harm. Systems-level facilitators included frequent multimodal communication, structured documentation, leadership support, and use of adverse outcomes as opportunities for practice improvement. Structural barriers included time constraints, care transitions, regulatory limitations, and variability in comfort with SIC language. In this multidisciplinary ALS clinic, strong team culture enabled SIC to function as a longitudinal, interprofessional process rather than a single clinician-led event. Findings highlight the importance of psychological safety, teamwork, and supportive systems in delivering high-quality SIC and inform future clinical practice, training, and research.",
-      "journal": "Journal of pain and symptom management",
-      "authors": [
-        "Shameklis J",
-        "Drutchas A",
-        "Keeney T",
-        "Rowland M",
-        "Dow L",
-        "Sawicki D",
-        "Ho D",
-        "Paladino J",
-        "Lindenberger E"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785576/"
-    },
-    {
-      "id": "pmid-42782389",
-      "pmid": "42782389",
-      "doi": "10.1007/s10072-026-09412-7",
-      "title": "Dysregulation of mitochondrial bioenergetics, RNA processing, and cellular stress responses in FUS-ALS: a multi-dataset transcriptomic perspective.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron (MN) degeneration. Mutations in the FUS gene, particularly the aggressive P525L variant, disrupt nuclear localization of the FUS RNA-binding protein, resulting in cytoplasmic accumulation, altered RNA metabolism, and toxic aggregation. Astrocytes also contribute to disease progression through non-cell-autonomous mechanisms. To identify shared and cell-type-specific molecular mechanisms underlying FUS-associated ALS through integrated transcriptomic analysis of human induced pluripotent stem cell (hiPSC)-derived motor neurons and astrocytes. Five publicly available RNA-sequencing datasets from hiPSC-derived motor neurons and astrocytes carrying FUS mutations were analyzed. Differential gene expression and Gene Ontology enrichment analyses were performed to identify dysregulated genes and pathways. Both cell types showed convergent dysregulation of mitochondrial/bioenergetic pathways (oxidative phosphorylation, ATP metabolism, translation, membrane potential). Pathway analysis across motor neuron datasets identified largely MN-specific enrichment in cell-cycle regulation, intracellular trafficking, and stimulus response, while only four pathways were shared with astrocytes, most notably NADH dehydrogenase complex assembly, enriched across all datasets and both cell types, marking mitochondrial complex I as the strongest convergent signature. RNA processing/splicing pathways were also enriched, consistent with FUS function. Shared DEGs included upregulated COMT, TXNRD2, and PCDHGB4, and downregulated PCDH17 and C11orf87, implicating neurotransmitter metabolism, antioxidant defenses, and adhesion. Stress pathways (oxidative stress, autophagy, heat-shock, ER stress/UPR) were broadly altered, with UPR genes mainly upregulated and inflammatory genes downregulated. FUS-ALS involves shared mitochondrial complex I and stress-response disturbances layered onto MN-intrinsic cell-cycle and trafficking dysregulation, reflecting convergent and cell-type-specific mechanisms.",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Walden F",
-        "Reihani Y",
-        "Peters A",
-        "Sepehrimanesh M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42782389/"
-    },
-    {
-      "id": "pmid-42778785",
-      "pmid": "42778785",
-      "doi": "10.1007/s10072-026-09410-9",
-      "title": "Natural history of 441 cases of bulbar onset motor neuron disease (MND) in China: a single-center retrospective study.",
-      "abstract": "To describe the natural history and identify prognostic factors of bulbar onset motor neuron disease (MND). Bulbar onset MND patients with regular follow-up between January 2014 and December 2023 were included. Clinical features at initial evaluation, duration from onset to next region and time to death or tracheotomy were retrospectively collected. Survival analysis was performed by Kaplan-Meier method and Cox regression model. A total of 441 patients were included. Disease progression occurred most frequently from bulbar region to upper limbs (77.1%), followed by lower limbs (16.4%) and respiratory muscles (6.5%), with a median time interval of 6.0 (1.0, 48.0) months. 215 patients died or underwent tracheotomy. The median duration to death or tracheotomy was 43.0 (95% CI 39.1-46.9) months, the 1-year, 2-year, 3-year, 4-year and 5-year survival rates (95%CI) were 96.6% (94.9-98.3), 79.9% (76.0-83.9%), 59.1% (54.0-64.7), 42.2% (36.6-48.6) and 29.9% (24.3-36.7), respectively. Younger onset age, slower ALSFRS-R decreasing rate, longer diagnostic delay, longer duration to next region and pure upper motor neuron involvement at initial evaluation were associated with favorable prognosis. Upper limbs involvement secondly to bulbar region was independently associated with better outcomes compared with respiratory muscles spreading. The natural history of bulbar-onset ALS exhibits substantial heterogeneity. Patients with only upper motor neuron involvement in bulbar region at onset and subsequent upper limbs involvement as the second region tend to have a favorable prognosis.",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Ding J",
-        "Hu N",
-        "Tian H",
-        "Wang Y",
-        "Shen D",
-        "Yang X",
-        "Niu J",
-        "Liu Q",
-        "Cui L",
-        "Liu M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778785/"
     }
   ]
 }
