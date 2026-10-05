@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-04T00:36:14.710Z",
+  "updatedAt": "2026-10-05T00:54:47.242Z",
   "summary": {
-    "totalItems": 34,
-    "issueCount": 26
+    "totalItems": 39,
+    "issueCount": 36
   },
   "sources": [
     {
@@ -23,52 +23,85 @@
   ],
   "lowRelevance": [
     {
-      "id": "pmid-42822505",
-      "title": "Progressive anterior opercular syndrome (Foix-Chavany-Marie syndrome) in neurodegenerative disease: a case series.",
-      "titleZh": "神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列",
+      "id": "pmid-42727616",
+      "title": "Motor coordination and behavioural deficits in a mouse model of KMT2B-related dystonia.",
+      "titleZh": "KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷",
       "category": "遗传",
-      "evidenceLevel": "观察性临床研究（病例系列，2例）",
-      "relevanceScore": 2,
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42822505/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727616/"
     },
     {
       "id": "epmc-PPR-PPR1333180",
       "title": "Beyond snapshots: A dynamic framework for continuous motor unit tracking to enhance neurophysiological assessments",
       "titleZh": "超越快照：用于连续运动单位追踪以增强神经生理评估的动态框架",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，仅有标题，无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.09.25.754489"
     },
     {
-      "id": "epmc-MED-42817640",
-      "title": "Proteostasis and ageing dissidence.",
-      "titleZh": "蛋白质稳态与衰老的异质性",
+      "id": "epmc-MED-42822505",
+      "title": "Progressive anterior opercular syndrome (Foix-Chavany-Marie syndrome) in neurodegenerative disease: a case series.",
+      "titleZh": "神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列研究",
+      "category": "机制",
+      "evidenceLevel": "病例系列研究（机制研究）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/13554794.2026.2735595"
+    },
+    {
+      "id": "epmc-MED-42822436",
+      "title": "The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
+      "titleZh": "待复核翻译：The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.stem.2026.09.004"
+    },
+    {
+      "id": "epmc-MED-42821610",
+      "title": "Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
+      "titleZh": "待复核翻译：Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1098/rstb.2025.0266"
+      "priority": "low",
+      "url": "https://doi.org/10.1371/journal.pone.0349281"
     },
     {
-      "id": "epmc-MED-42817639",
-      "title": "The microbiota-proteostasis axis: implications in neurodegenerative diseases.",
-      "titleZh": "微生物群-蛋白质稳态轴：在神经退行性疾病中的意义",
+      "id": "epmc-MED-42817640",
+      "title": "Proteostasis and ageing dissidence.",
+      "titleZh": "待复核翻译：Proteostasis and ageing dissidence.",
       "category": "机制",
-      "evidenceLevel": "机制研究（综述/理论框架，无摘要可核实）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1098/rstb.2025.0265"
+      "priority": "low",
+      "url": "https://doi.org/10.1098/rstb.2025.0266"
     }
   ],
   "missingIdentifiers": [],
   "missingAbstract": [
+    {
+      "id": "epmc-PPR-PPR1333266",
+      "title": "Engineered Chimeric Proteins Functionally Replace ALS-causing Endogenous FUS and TDP-43 to Improve Neuronal Health",
+      "titleZh": "工程化嵌合蛋白功能性替代致ALS的内源性FUS和TDP-43以改善神经元健康",
+      "category": "临床试验",
+      "evidenceLevel": "待人工判定（原始记录未提供摘要，无法评估研究类型与证据等级）",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.09.28.755047"
+    },
     {
       "id": "epmc-PPR-PPR1332972",
       "title": "ALS/FTD-linked TDP-43 alterations prevent HSV-1 infection by disrupting cell-adhesion pathways",
@@ -85,36 +118,113 @@
       "title": "Beyond snapshots: A dynamic framework for continuous motor unit tracking to enhance neurophysiological assessments",
       "titleZh": "超越快照：用于连续运动单位追踪以增强神经生理评估的动态框架",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，仅有标题，无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.09.25.754489"
     },
     {
-      "id": "epmc-MED-42817640",
-      "title": "Proteostasis and ageing dissidence.",
-      "titleZh": "蛋白质稳态与衰老的异质性",
+      "id": "epmc-MED-42823490",
+      "title": "Insertion or deletion variants in TAF15 exon 15 are genetic factors impacting the prognosis of amyotrophic lateral sclerosis in a Japanese cohort.",
+      "titleZh": "TAF15第15外显子的插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41431-026-02249-w"
+    },
+    {
+      "id": "epmc-MED-42822505",
+      "title": "Progressive anterior opercular syndrome (Foix-Chavany-Marie syndrome) in neurodegenerative disease: a case series.",
+      "titleZh": "神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列研究",
+      "category": "机制",
+      "evidenceLevel": "病例系列研究（机制研究）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1080/13554794.2026.2735595"
+    },
+    {
+      "id": "epmc-MED-42822436",
+      "title": "The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
+      "titleZh": "待复核翻译：The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.stem.2026.09.004"
+    },
+    {
+      "id": "epmc-MED-42821610",
+      "title": "Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
+      "titleZh": "待复核翻译：Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1098/rstb.2025.0266"
+      "priority": "low",
+      "url": "https://doi.org/10.1371/journal.pone.0349281"
     },
     {
-      "id": "epmc-MED-42817639",
-      "title": "The microbiota-proteostasis axis: implications in neurodegenerative diseases.",
-      "titleZh": "微生物群-蛋白质稳态轴：在神经退行性疾病中的意义",
+      "id": "epmc-MED-42817823",
+      "title": "A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of Amyotrophic Lateral Sclerosis.",
+      "titleZh": "A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of 肌萎缩侧索硬化症.",
+      "category": "遗传",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.1093/g3journal/jkag281"
+    },
+    {
+      "id": "epmc-MED-42817640",
+      "title": "Proteostasis and ageing dissidence.",
+      "titleZh": "待复核翻译：Proteostasis and ageing dissidence.",
       "category": "机制",
-      "evidenceLevel": "机制研究（综述/理论框架，无摘要可核实）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1098/rstb.2025.0265"
+      "priority": "low",
+      "url": "https://doi.org/10.1098/rstb.2025.0266"
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-42763025",
+      "title": "TBK1 overexpression reduces neuronal loss in the P497S UBQLN2 mouse model of ALS/FTD.",
+      "titleZh": "TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763025/"
+    },
+    {
+      "id": "pmid-42759848",
+      "title": "Cellular senescence is an early feature and therapeutic target in amyotrophic lateral sclerosis TDP-43 Q331K mice.",
+      "titleZh": "细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
+    },
+    {
+      "id": "pmid-42722112",
+      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
+      "titleZh": "星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症的血源性生物标志物",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
+    },
     {
       "id": "pmid-42826720",
       "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
@@ -142,33 +252,33 @@
       "title": "Associations Between Prediagnosis Plasma Neurofilament Light Polypeptide and Amyotrophic Lateral Sclerosis Risk in the Danish EPIC Cohort.",
       "titleZh": "丹麦EPIC队列中诊断前血浆神经丝轻链多肽与肌萎缩侧索硬化风险之间的关联",
       "category": "临床试验",
-      "evidenceLevel": "巢式病例对照研究（丹麦EPIC队列）",
+      "evidenceLevel": "巢式病例对照研究（基于丹麦EPIC队列）",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42825398/"
     },
     {
-      "id": "pmid-42823490",
-      "title": "Insertion or deletion variants in TAF15 exon 15 are genetic factors impacting the prognosis of amyotrophic lateral sclerosis in a Japanese cohort.",
-      "titleZh": "TAF15第15号外显子插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 9,
+      "id": "trial-NCT06363357",
+      "title": "The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder",
+      "titleZh": "待复核翻译：The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823490/"
+      "url": "https://clinicaltrials.gov/study/NCT06363357"
     },
     {
-      "id": "pmid-42822436",
-      "title": "The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
-      "titleZh": "辅助元件成就药物：ASO递送的siRNA进入人中枢神经系统用于ALS治疗",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究（首次人体研究）",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
+      "id": "trial-NCT06578195",
+      "title": "ASSESS ALL ALS Study",
+      "titleZh": "待复核翻译：ASSESS ALL ALS Study",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42822436/"
+      "url": "https://clinicaltrials.gov/study/NCT06578195"
     },
     {
       "id": "trial-NCT07636538",
@@ -316,18 +426,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 4,
+    "疑似误收": 6,
     "缺标识符": 0,
-    "缺摘要": 4,
-    "高优先级待复核": 18,
+    "缺摘要": 9,
+    "高优先级待复核": 21,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 34
+    "待复核": 39
   },
   "relevanceCounts": {
-    "high": 25,
-    "medium": 5,
-    "low": 4
+    "high": 26,
+    "low": 6,
+    "medium": 7
   }
 }

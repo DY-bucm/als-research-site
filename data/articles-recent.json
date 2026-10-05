@@ -1,14 +1,48 @@
 {
-  "updatedAt": "2026-10-04T00:35:01.770Z",
+  "updatedAt": "2026-10-05T00:53:29.132Z",
   "period": {
     "days": 10,
-    "from": "2026-09-25",
-    "to": "2026-10-04"
+    "from": "2026-09-26",
+    "to": "2026-10-05"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 40,
+  "count": 37,
   "articles": [
+    {
+      "id": "pmid-42829893",
+      "pmid": "42829893",
+      "doi": "10.1007/s00415-026-14178-1",
+      "title": "Cerebrospinal fluid inflammatory proteomic profiling identifies biomarkers linked to disease progression in amyotrophic lateral sclerosis.",
+      "abstract": "Neuroinflammation is a key component of amyotrophic lateral sclerosis (ALS), but its association with disease progression heterogeneity remains unclear. We aimed to identify CSF inflammation-related proteins associated with disease progression phenotype in patients with ALS. Patients with ALS were stratified into slow progressors (SP) and fast progressors (FP) according to the disease progression rate. CSF inflammatory proteins were measured using the Olink Target 96 Inflammation panel. Disease-associated biomarkers were identified using limma package and elastic net (EN) analysis. We assessed the discriminatory power of disease-associated biomarkers using receiver operating characteristic curve analysis and estimated the optimism-adjusted area under the curve (AUC) using the bootstrapping method. Among 77 patients (SP: n=40; FP: n=37), limma analysis identified 11 differentially expressed proteins, with functional enrichment in chemokine signaling, TNF-related responses and NF-κB pathways. EN analysis identified 12 candidate proteins, among which CST5, CCL11, SIRT2, CD6, CCL4, MMP-1, TNFRSF9, CCL19, and MCP-4 showed positive associations with the SP phenotype. A model combining SIRT2, MMP-1, BMI, and site of onset yielded an apparent area under the curve of 0.769 (95% CI 0.662 to 0.876) and an optimism-corrected area under the curve of 0.729. Our study uncovered a CSF inflammatory proteomic signature associated with slow disease progression in ALS. These findings indicate that specific CSF neuroinflammatory protein signatures reflect biological heterogeneity in ALS disease progression rather than non-specific neurodegeneration. SIRT2 and MMP-1 warrant further investigation as components of progression-stratification models, although validation in larger, longitudinal, and independent cohorts is required.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Lv C",
+        "Zhu W",
+        "Wen X",
+        "Wang Y",
+        "Xie N",
+        "Liu H",
+        "Jiang Y",
+        "Zou W",
+        "Liu Q",
+        "Gou J",
+        "Yu X",
+        "Di L",
+        "Lu Y",
+        "Wang M",
+        "Xu M",
+        "Chen H",
+        "Duo J",
+        "Huang Y",
+        "Da Y"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829893/"
+    },
     {
       "id": "pmid-42826598",
       "pmid": "42826598",
@@ -770,128 +804,6 @@
       ],
       "publishedAt": "2026-09-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42799915/"
-    },
-    {
-      "id": "pmid-42789481",
-      "pmid": "42789481",
-      "doi": "10.1093/brain/awag326",
-      "title": "Identity-by-descent to resolve reduced penetrance and advance gene discovery in neurodegenerative disease.",
-      "abstract": "Advances in sequencing technologies have transformed human genetics and accelerated disease gene discovery. Yet a causal mutation remains to be identified for many families with an inherited disease. Incomplete penetrance, genetic heterogeneity, and limited family history can complicate the binary classification of familial and sporadic disease. These challenges are amplified in late-onset diseases such as amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), where obscured inheritance patterns limit gene discovery opportunities and can confound clinical risk assessment. We evaluated whether identity-by-descent (IBD) analysis can uncover cryptic relatedness and mitigate the impact of incomplete penetrance on disease gene mapping and clinical interpretation. Genome-wide IBD inference was performed in an integrated cross-continent cohort of 3,524 individuals of European ancestry spanning the ALS-FTD neurodegenerative spectrum. IBD identified 793 pairs of 1st-6th degree relatives (siblings to second cousins once removed), of which 31.5% were previously unrecognised and 15.8% had differing clinical diagnoses. Among individuals recorded as \"sporadic\", 5.5% of ALS and 15.9% of FTD were genetically related to another affected individual in the cohort, demonstrating that reduced penetrance masks a substantial proportion of heritable disease. Affected individuals with known ALS/FTD-associated genetic variants had balanced male-to-female ratios, irrespective of reported family history or IBD-inferred relatedness, whereas those without an identified disease-linked genetic variant retained the expected male predominance in ALS/FTD cohorts. IBD analysis identified multiple cross-continent founder networks for known ALS disease genes, including SOD1 and C9orf72, and created 73 new IBD-defined pedigrees from apparently unrelated probands, providing a framework for disease variant discovery in otherwise underpowered families. Using SOD1 mutation-positive families as a positive-control framework, we demonstrated that IBD-based pedigree expansion retained the known disease locus in distant relatives while reducing genome-wide candidate regions, supporting its application to unresolved ALS/FTD pedigrees. In an IBD-identified extended pedigree comprising five affected individuals, genome-wide variant filtering identified three rare variants within a chromosome 13q21.33 candidate locus shared IBD by four individuals and supported by multipoint linkage analysis. IBD-based detection of cryptic relatedness reveals genetic links between familial and apparent sporadic neurodegenerative disease, helping to resolve penetrance-related inheritance misclassification. By reconstructing extended pedigrees using IBD, this approach strengthens gene discovery and supporting variant pathogenicity while providing clinicians with clearer context for inherited risk and genetic counselling.",
-      "journal": "Brain : a journal of neurology",
-      "authors": [
-        "Henden L",
-        "Chan Moi Fat S",
-        "Smith A",
-        "Li I",
-        "Nicholas TJ",
-        "Mrkela M",
-        "O'Shaughnessy D",
-        "Zussa Z",
-        "Grima N",
-        "McCann EP",
-        "Fifita JA",
-        "Topp SD",
-        "Iacoangeli A",
-        "Rowe DB",
-        "Nicholson GA",
-        "Dobson-Stone C",
-        "Kwok JB",
-        "Piguet O",
-        "Halliday GM",
-        "Troakes C",
-        "Al-Chalabi A",
-        "Shaw CE",
-        "Roxburgh RH",
-        "Kiernan MC",
-        "Pamphlett R",
-        "Liquet B",
-        "McRae AF",
-        "Lin T",
-        "Laing NG",
-        "Needham M",
-        "Schultz D",
-        "Mathers S",
-        "Vucic S",
-        "Henderson R",
-        "McCombe P",
-        "Henders A",
-        "Quinlan AR",
-        "Scotter EL",
-        "Smith BN",
-        "Blair IP",
-        "Williams KL",
-        "SALSA-SGC consortium"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789481/"
-    },
-    {
-      "id": "pmid-42789089",
-      "pmid": "42789089",
-      "doi": "10.1007/s00401-026-03084-5",
-      "title": "Integrative synaptosome multi-omics reveals disrupted synapse organization and localized cryptic transcripts in C9ORF72-frontotemporal dementia.",
-      "abstract": "Frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS) are linked neurodegenerative diseases characterized by both synaptic dysfunction and TDP-43 pathology. A hexanucleotide repeat expansion (HRE) in the C9ORF72 (C9) gene represents the most common genetic cause of FTD and ALS, yet the synapse-specific mechanisms underlying disease pathogenesis remain poorly understood. Here, we performed integrated multi-omic profiling of synaptosomes enriched from postmortem frontal cortex and patient-derived induced pluripotent stem cell (iPSC)-cortical neurons to define molecular alterations associated with C9-FTD-mediated synaptic dysfunction. Proteomic profiling of frontal cortex-derived synaptosomes identified 1,324 differentially abundant proteins (p<0.05) enriched in pathways regulating synaptic vesicle transport and synapse organization, while synaptosomal RNA sequencing revealed 2,835 differentially expressed protein-coding genes. C9-FTD iPSC-cortical neurons exhibited reductions in excitatory and inhibitory postsynaptic markers, accompanied by progressive impairment of neuronal network activity, supporting both structural and functional deficits. iPSC-derived synaptosomes recapitulated key molecular pathways observed in patient brain, revealing convergent dysregulation of synaptic signaling pathways. Comparative analyses revealed divergence between protein and RNA alterations, consistent with the disruption of regulatory processes that link RNA and protein abundance in diseased synapses. Consistent with TDP-43 loss-of-function pathology we identified cryptic exon (CE)-containing transcripts within C9-FTD frontal cortex-derived synaptosomes, including KALRN and STMN2, providing evidence that aberrantly spliced RNAs localize to synaptic compartments. Together, these findings define convergent molecular pathways underlying synapse vulnerability in both C9-FTD model systems and identify synaptic localization of CE-containing transcripts as a previously unrecognized feature of TDP-43 proteinopathy.",
-      "journal": "Acta neuropathologica",
-      "authors": [
-        "Spillman AM",
-        "Alsop EB",
-        "Gittings LM",
-        "Garcia-Mansfield K",
-        "Piras I",
-        "Bonfitto A",
-        "Martinez MN",
-        "Sharma R",
-        "Preller KR",
-        "Huentelman M",
-        "Pirrotte P",
-        "Van Keuren-Jensen K",
-        "Sattler R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/"
-    },
-    {
-      "id": "pmid-42790799",
-      "pmid": "42790799",
-      "doi": "10.1016/j.bbapap.2026.141183",
-      "title": "Intrinsically disordered proteins and liquid-liquid phase separation: Molecular grammar, condensate physiology, and disease-relevant phase transitions.",
-      "abstract": "Intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs) of proteins constitute a substantial and functionally critical fraction of the eukaryotic proteome. Through multivalent, low-affinity interactions encoded in their low-complexity domains (LCDs), IDPs drive liquid-liquid phase separation (LLPS)-a physicochemical process that produces membraneless biomolecular condensates serving as dynamic reaction hubs within cells. Recent advances have substantially refined the conceptual framework governing condensate biophysics: the phase separation coupled to percolation (PSCP) model now recognizes that condensates are viscoelastic network fluids arising from the synergy between density transitions and connectivity (percolation) transitions, rather than simple LLPS alone. This updated mechanistic understanding, combined with proteome-wide computational tools and AI-driven prediction models, is rapidly transforming the field. Physiologically, condensates regulate transcription at super-enhancers, modulate RNA metabolism in stress granules, and orchestrate ribosome biogenesis in the nucleolus. Pathologically, aberrant liquid-to-solid transitions of disease-associated IDPs-including TDP-43 and FUS in amyotrophic lateral sclerosis and frontotemporal dementia, tau in Alzheimer's disease, and α-synuclein in Parkinson's disease-represent a convergent pathomechanism across neurodegenerative proteinopathies. Post-translational modifications, particularly phosphorylation, arginine methylation, and ubiquitination, function as a dynamic regulatory code controlling condensate assembly and dissolution. The emerging paradigm of condensate-modifying therapeutics (c-mods) identifies biomolecular condensates as druggable entities and proposes four mechanistic strategies-dissolvers, inducers, localizers, and morphers-to restore normal phase behavior in disease. This review integrates the most current molecular, cellular, and biomedical insights into IDP-driven phase separation, highlighting open questions and translational opportunities.",
-      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
-      "authors": [
-        "Abinawanto",
-        "Sophian A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42790799/"
-    },
-    {
-      "id": "pmid-42813639",
-      "pmid": "42813639",
-      "doi": "10.2174/0115672026478560260909100922",
-      "title": "Lipid-based Nanocarriers for Neurodegenerative Disorders: Bridging Blood-brain Barrier Biology and Translational Drug Delivery.",
-      "abstract": "Neurodegenerative disorders, including Alzheimer's, Parkinson's, Huntington's disease, and amyotrophic lateral sclerosis, remain difficult to treat because the Blood-brain Barrier (BBB) severely restricts therapeutic access to the central nervous system. This review evaluates BBB biology and the potential of lipid-based nanocarriers to improve brain-targeted drug delivery and facilitate clinical translation. A structured narrative review of peer-reviewed preclinical and clinical literature published between 2000 and 2025 was conducted using PubMed, Scopus, and Web of Science. Evidence concerning BBB structure and transport mechanisms, lipid-based nanocarrier design, physicochemical characteristics, drug-release behavior, computational modelling, therapeutic applications, and translational challenges was critically synthesized. Liposomes, nanoemulsions, solid lipid nanoparticles, nanostructured lipid carriers, and lipid-polymer hybrid nanoparticles demonstrated improved drug solubility, stability, controlled release, systemic circulation, and brain targeting. Preclinical evidence indicates enhanced brain bioavailability and therapeutic effects, including reductions in neuroinflammation, oxidative stress, and disease-associated pathological processes. However, clinical translation remains constrained by formulation complexity, scalability, long-term safety, and inconsistent clinical outcomes. Integration of BBB transport biology with surface functionalization, receptormediated targeting, formulation engineering, and computational modelling may enable more rational nanocarrier development. Nevertheless, standardized characterization, reproducible manufacturing, comprehensive safety evaluation, and stronger clinical validation are required to bridge the gap between promising preclinical findings and therapeutic implementation. Lipid-based nanocarriers represent promising platforms for overcoming biological and pharmacokinetic barriers in neurodegenerative disorders. Further optimization and rigorous translational validation are essential to establish their safety, reproducibility, and clinical effectiveness.",
-      "journal": "Current neurovascular research",
-      "authors": [
-        "Singh AP",
-        "Prajapati S",
-        "Yadav S",
-        "Yadav A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42813639/"
     }
   ]
 }

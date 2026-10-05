@@ -1,61 +1,133 @@
 {
-  "updatedAt": "2026-10-04T00:36:14.766Z",
-  "previousSnapshot": "data/archive/2026-10-03.json",
+  "updatedAt": "2026-10-05T00:54:47.300Z",
+  "previousSnapshot": "data/archive/2026-10-04.json",
   "current": "data/items.json",
   "summary": {
-    "added": 8,
-    "removed": 11,
-    "changed": 4
+    "added": 12,
+    "removed": 7,
+    "changed": 6
   },
   "added": [
     {
-      "id": "pmid-42826761",
-      "titleZh": "Mdivi-1通过CaMK2/Drp1通路调控肌萎缩侧索硬化中的线粒体分裂与功能",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826761/"
-    },
-    {
-      "id": "pmid-42826720",
-      "titleZh": "硝酸盐响应性Sialin2偶联应激颗粒组装与清除以维持神经元稳态",
+      "id": "pmid-42763025",
+      "titleZh": "TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826720/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763025/"
     },
     {
-      "id": "pmid-42826718",
-      "titleZh": "从患者细胞到患者治疗：诱导多能干细胞在神经退行性疾病中二十年的转化历程",
+      "id": "pmid-42759848",
+      "titleZh": "细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点",
       "category": "临床试验",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
     },
     {
-      "id": "pmid-42826598",
-      "titleZh": "酸性大麻素在大脑疾病中的作用：神经生物学机制、临床前证据与转化挑战",
+      "id": "pmid-42727616",
+      "titleZh": "KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727616/"
+    },
+    {
+      "id": "pmid-42722112",
+      "titleZh": "星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症的血源性生物标志物",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
+    },
+    {
+      "id": "pmid-42155171",
+      "titleZh": "靶向溶酶体功能障碍的小分子TRPML1配体：在溶酶体贮积症、神经退行性疾病及其他疾病中的治疗机会",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826598/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42155171/"
     },
     {
-      "id": "epmc-PPR-PPR1332972",
-      "titleZh": "与ALS/FTD相关的TDP-43改变通过破坏细胞黏附通路阻止HSV-1感染",
-      "category": "机制",
+      "id": "pmid-42829893",
+      "titleZh": "脑脊液炎症蛋白质组学分析识别与肌萎缩侧索硬化疾病进展相关的生物标志物",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.28.755069"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829893/"
     },
     {
-      "id": "epmc-PPR-PPR1333180",
-      "titleZh": "超越快照：用于连续运动单位追踪以增强神经生理评估的动态框架",
-      "category": "机制",
+      "id": "epmc-PPR-PPR1333266",
+      "titleZh": "工程化嵌合蛋白功能性替代致ALS的内源性FUS和TDP-43以改善神经元健康",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.09.25.754489"
+      "url": "https://doi.org/10.64898/2026.09.28.755047"
     },
     {
-      "id": "epmc-MED-42817640",
-      "titleZh": "蛋白质稳态与衰老的异质性",
+      "id": "epmc-MED-42823490",
+      "titleZh": "TAF15第15外显子的插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://doi.org/10.1038/s41431-026-02249-w"
+    },
+    {
+      "id": "epmc-MED-42822505",
+      "titleZh": "神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列研究",
       "category": "机制",
       "priority": "medium",
-      "url": "https://doi.org/10.1098/rstb.2025.0266"
+      "url": "https://doi.org/10.1080/13554794.2026.2735595"
+    },
+    {
+      "id": "epmc-MED-42822436",
+      "titleZh": "待复核翻译：The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS.",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://doi.org/10.1016/j.stem.2026.09.004"
+    },
+    {
+      "id": "epmc-MED-42821610",
+      "titleZh": "待复核翻译：Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.1371/journal.pone.0349281"
+    },
+    {
+      "id": "epmc-MED-42817823",
+      "titleZh": "A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of 肌萎缩侧索硬化症.",
+      "category": "遗传",
+      "priority": "low",
+      "url": "https://doi.org/10.1093/g3journal/jkag281"
+    }
+  ],
+  "removed": [
+    {
+      "id": "pmid-42697520",
+      "titleZh": "神经退行性疾病中微生物群衍生代谢物-GPCR信号传导",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697520/"
+    },
+    {
+      "id": "pmid-42823490",
+      "titleZh": "TAF15第15号外显子插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素",
+      "category": "治疗",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823490/"
+    },
+    {
+      "id": "pmid-42822505",
+      "titleZh": "神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列",
+      "category": "遗传",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822505/"
+    },
+    {
+      "id": "pmid-42822436",
+      "titleZh": "辅助元件成就药物：ASO递送的siRNA进入人中枢神经系统用于ALS治疗",
+      "category": "治疗",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822436/"
+    },
+    {
+      "id": "pmid-42817823",
+      "titleZh": "在秀丽隐杆线虫sod-1G85R肌萎缩侧索硬化模型中筛选神经元变性抑制因子",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817823/"
     },
     {
       "id": "epmc-MED-42817639",
@@ -63,129 +135,79 @@
       "category": "机制",
       "priority": "medium",
       "url": "https://doi.org/10.1098/rstb.2025.0265"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42817633",
-      "titleZh": "蛋白质稳态的（失）衡：共病病理在神经退行性疾病中的作用",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817633/"
     },
     {
-      "id": "pmid-42817591",
-      "titleZh": "不放手：tRNA螯合作为驱动合成酶相关神经病的统一机制",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817591/"
-    },
-    {
-      "id": "pmid-42808007",
-      "titleZh": "对《运动神经元病患者的价值与偏好：一项系统综述与荟萃分析》的评论",
+      "id": "pmid-42821610",
+      "titleZh": "待复核翻译：Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
       "category": "机制",
       "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42808007/"
-    },
-    {
-      "id": "pmid-42807601",
-      "titleZh": "晚期运动神经元病患者急诊剖腹手术的麻醉管理与围手术期结局：一例病例报告",
-      "category": "临床试验",
-      "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42807601/"
-    },
-    {
-      "id": "epmc-MED-42789802",
-      "titleZh": "并发肌萎缩侧索硬化与多发性硬化的识别与治疗",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789802/"
-    },
-    {
-      "id": "epmc-MED-42781718",
-      "titleZh": "IRF5作为免疫调节因子的作用",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1042/bst20250394"
-    },
-    {
-      "id": "epmc-MED-42775689",
-      "titleZh": "衰老小鼠中运动皮层过度兴奋与神经肌肉功能障碍相耦合",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://doi.org/10.1111/acel.70731"
-    },
-    {
-      "id": "epmc-MED-42762468",
-      "titleZh": "人参皂苷Rb1和Rg1抑制脂多糖诱导的小胶质细胞和星形胶质细胞炎症基因表达，而Rb2无此作用",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://doi.org/10.1002/prp2.70324"
-    },
-    {
-      "id": "epmc-MED-42760307",
-      "titleZh": "RNA疗法的首次突破：一名罕见运动神经元病患者治疗后病情改善",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://doi.org/10.1038/d41586-026-02945-z"
-    },
-    {
-      "id": "epmc-MED-42717824",
-      "titleZh": "四肢骨骼肌质量与肌少症作为肌萎缩侧索硬化症的预后标志物",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://doi.org/10.1002/jcsm.70378"
-    },
-    {
-      "id": "epmc-MED-42716045",
-      "titleZh": "Fluid 生物标志物s in the evolving care landscape of Alzheimer's disease and related disorders.",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://doi.org/10.1016/s1474-4422(26)00246-2"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821610/"
     }
   ],
   "changed": [
     {
-      "id": "pmid-42756835",
-      "titleZh": "胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者",
+      "id": "pmid-42721706",
+      "titleZh": "肌萎缩侧索硬化中血脑屏障与神经血管单元的功能障碍——从先进人类模型到治疗",
       "changes": [
         {
-          "field": "priority",
-          "before": "high",
-          "after": "medium"
+          "field": "evidenceLevel",
+          "before": "综述",
+          "after": "综述（非原始临床研究）"
         }
       ]
     },
     {
-      "id": "pmid-42817823",
-      "titleZh": "在秀丽隐杆线虫sod-1G85R肌萎缩侧索硬化模型中筛选神经元变性抑制因子",
+      "id": "pmid-42825398",
+      "titleZh": "丹麦EPIC队列中诊断前血浆神经丝轻链多肽与肌萎缩侧索硬化风险之间的关联",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "基础研究（秀丽隐杆线虫遗传筛选）",
-          "after": "基础研究（动物模型遗传筛选）"
+          "before": "巢式病例对照研究（丹麦EPIC队列）",
+          "after": "巢式病例对照研究（基于丹麦EPIC队列）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1333180",
+      "titleZh": "超越快照：用于连续运动单位追踪以增强神经生理评估的动态框架",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "机制研究（预印本，仅有标题，无摘要）",
+          "after": "机制研究（仅题名，无摘要）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-MED-42817640",
+      "titleZh": "待复核翻译：Proteostasis and ageing dissidence.",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
         }
       ]
     },
     {
       "id": "trial-NCT06363357",
-      "titleZh": "模拟肌肉的织物型肩部矫形器对神经肌肉疾病患者上肢功能运动的影响",
+      "titleZh": "待复核翻译：The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder",
       "changes": [
         {
           "field": "priority",
-          "before": "high",
-          "after": "medium"
+          "before": "medium",
+          "after": "high"
         }
       ]
     },
     {
       "id": "trial-NCT06578195",
-      "titleZh": "评估所有ALS研究",
+      "titleZh": "待复核翻译：ASSESS ALL ALS Study",
       "changes": [
         {
           "field": "priority",
-          "before": "high",
-          "after": "medium"
+          "before": "medium",
+          "after": "high"
         }
       ]
     }

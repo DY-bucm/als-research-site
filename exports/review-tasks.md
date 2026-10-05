@@ -2,48 +2,58 @@
 
 - [ ] 肌萎缩侧索硬化中血脑屏障与神经血管单元的功能障碍——从先进人类模型到治疗 (pmid-42721706)
   - https://pubmed.ncbi.nlm.nih.gov/42721706/
-- [ ] 神经退行性疾病中微生物群衍生代谢物-GPCR信号传导 (pmid-42697520)
-  - https://pubmed.ncbi.nlm.nih.gov/42697520/
 - [ ] 胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者 (pmid-42756835)
   - https://pubmed.ncbi.nlm.nih.gov/42756835/
 - [ ] 通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响 (pmid-42727824)
   - https://pubmed.ncbi.nlm.nih.gov/42727824/
+- [ ] [高优先级] TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失 (pmid-42763025)
+  - https://pubmed.ncbi.nlm.nih.gov/42763025/
+- [ ] [高优先级] 细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点 (pmid-42759848)
+  - https://pubmed.ncbi.nlm.nih.gov/42759848/
+- [ ] [疑似误收] KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷 (pmid-42727616)
+  - https://pubmed.ncbi.nlm.nih.gov/42727616/
+- [ ] [高优先级] 星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症的血源性生物标志物 (pmid-42722112)
+  - https://pubmed.ncbi.nlm.nih.gov/42722112/
+- [ ] 靶向溶酶体功能障碍的小分子TRPML1配体：在溶酶体贮积症、神经退行性疾病及其他疾病中的治疗机会 (pmid-42155171)
+  - https://pubmed.ncbi.nlm.nih.gov/42155171/
+- [ ] 脑脊液炎症蛋白质组学分析识别与肌萎缩侧索硬化疾病进展相关的生物标志物 (pmid-42829893)
+  - https://pubmed.ncbi.nlm.nih.gov/42829893/
 - [ ] Mdivi-1通过CaMK2/Drp1通路调控肌萎缩侧索硬化中的线粒体分裂与功能 (pmid-42826761)
   - https://pubmed.ncbi.nlm.nih.gov/42826761/
 - [ ] [高优先级] 硝酸盐响应性Sialin2偶联应激颗粒组装与清除以维持神经元稳态 (pmid-42826720)
   - https://pubmed.ncbi.nlm.nih.gov/42826720/
 - [ ] [高优先级] 从患者细胞到患者治疗：诱导多能干细胞在神经退行性疾病中二十年的转化历程 (pmid-42826718)
   - https://pubmed.ncbi.nlm.nih.gov/42826718/
-- [ ] 酸性大麻素在大脑疾病中的作用：神经生物学机制、临床前证据与转化挑战 (pmid-42826598)
+- [ ] 酸性大麻素在脑部疾病中的作用：神经生物学机制、临床前证据与转化挑战 (pmid-42826598)
   - https://pubmed.ncbi.nlm.nih.gov/42826598/
 - [ ] [高优先级] 丹麦EPIC队列中诊断前血浆神经丝轻链多肽与肌萎缩侧索硬化风险之间的关联 (pmid-42825398)
   - https://pubmed.ncbi.nlm.nih.gov/42825398/
+- [ ] 工程化嵌合蛋白功能性替代致ALS的内源性FUS和TDP-43以改善神经元健康 (epmc-PPR-PPR1333266)
+  - https://doi.org/10.64898/2026.09.28.755047
 - [ ] 与ALS/FTD相关的TDP-43改变通过破坏细胞黏附通路阻止HSV-1感染 (epmc-PPR-PPR1332972)
   - https://doi.org/10.64898/2026.09.28.755069
-- [ ] 肌萎缩侧索硬化。 (pmid-42825562)
+- [ ] 肌萎缩侧索硬化 (pmid-42825562)
   - https://pubmed.ncbi.nlm.nih.gov/42825562/
-- [ ] [高优先级] TAF15第15号外显子插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素 (pmid-42823490)
-  - https://pubmed.ncbi.nlm.nih.gov/42823490/
-- [ ] [疑似误收] 神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列 (pmid-42822505)
-  - https://pubmed.ncbi.nlm.nih.gov/42822505/
-- [ ] [高优先级] 辅助元件成就药物：ASO递送的siRNA进入人中枢神经系统用于ALS治疗 (pmid-42822436)
-  - https://pubmed.ncbi.nlm.nih.gov/42822436/
-- [ ] 在秀丽隐杆线虫sod-1G85R肌萎缩侧索硬化模型中筛选神经元变性抑制因子 (pmid-42817823)
-  - https://pubmed.ncbi.nlm.nih.gov/42817823/
 - [ ] [疑似误收] 超越快照：用于连续运动单位追踪以增强神经生理评估的动态框架 (epmc-PPR-PPR1333180)
   - https://doi.org/10.64898/2026.09.25.754489
-- [ ] [疑似误收] 蛋白质稳态与衰老的异质性 (epmc-MED-42817640)
+- [ ] TAF15第15外显子的插入或缺失变异是影响日本队列肌萎缩侧索硬化预后的遗传因素 (epmc-MED-42823490)
+  - https://doi.org/10.1038/s41431-026-02249-w
+- [ ] [疑似误收] 神经退行性疾病中的进行性前岛盖综合征（Foix-Chavany-Marie综合征）：病例系列研究 (epmc-MED-42822505)
+  - https://doi.org/10.1080/13554794.2026.2735595
+- [ ] [疑似误收] 待复核翻译：The accessory makes the drug: ASO-delivered siRNA enters the human CNS for ALS. (epmc-MED-42822436)
+  - https://doi.org/10.1016/j.stem.2026.09.004
+- [ ] [疑似误收] 待复核翻译：Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds. (epmc-MED-42821610)
+  - https://doi.org/10.1371/journal.pone.0349281
+- [ ] A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of 肌萎缩侧索硬化症. (epmc-MED-42817823)
+  - https://doi.org/10.1093/g3journal/jkag281
+- [ ] [疑似误收] 待复核翻译：Proteostasis and ageing dissidence. (epmc-MED-42817640)
   - https://doi.org/10.1098/rstb.2025.0266
-- [ ] [疑似误收] 微生物群-蛋白质稳态轴：在神经退行性疾病中的意义 (epmc-MED-42817639)
-  - https://doi.org/10.1098/rstb.2025.0265
-- [ ] 模拟肌肉的织物型肩部矫形器对神经肌肉疾病患者上肢功能运动的影响 (trial-NCT06363357)
+- [ ] [高优先级] 待复核翻译：The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder (trial-NCT06363357)
   - https://clinicaltrials.gov/study/NCT06363357
-- [ ] 评估所有ALS研究 (trial-NCT06578195)
+- [ ] [高优先级] 待复核翻译：ASSESS ALL ALS Study (trial-NCT06578195)
   - https://clinicaltrials.gov/study/NCT06578195
 - [ ] [高优先级] 待复核翻译：Auto-calibrating System for Upper Limb Disability Assessment, Neurological and Occupational Rehabilitation (trial-NCT07636538)
   - https://clinicaltrials.gov/study/NCT07636538
-- [ ] 待复核翻译：Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds. (pmid-42821610)
-  - https://pubmed.ncbi.nlm.nih.gov/42821610/
 - [ ] [高优先级] 待复核翻译：MIROCALS: Modifying Immune Response and OutComes in ALS (trial-NCT03039673)
   - https://clinicaltrials.gov/study/NCT03039673
 - [ ] [高优先级] 待复核翻译：Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Speech-02) (trial-NCT06094205)
