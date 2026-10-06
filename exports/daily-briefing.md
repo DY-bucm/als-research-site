@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-10-05
+更新时间：2026-10-06
 
-1. **TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失**
+1. **胸腺是肌萎缩侧索硬化病理生理学的靶标和维持者**
    - 临床试验 / 动物/细胞实验 / high
-   - 在P497S UBQLN2转基因小鼠中过表达TBK1可显著减少脑和脊髓的神经退行性变；UBQLN2聚集体隔离TBK1，且UBQLN2缺失降低TBK1稳定性。
+   - SOD1-G93A ALS小鼠在疾病晚期出现胸腺萎缩、髓质胸腺上皮细胞丢失、Treg发育和抑制功能受损，提示胸腺是ALS免疫失调的靶器官。
+   - https://pubmed.ncbi.nlm.nih.gov/42756835/
+2. **TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失**
+   - 临床试验 / 动物/细胞实验 / high
+   - 在P497S UBQLN2 ALS/FTD小鼠模型中，TBK1过表达显著减少脑和脊髓的神经退行性变；UBQLN2聚集体隔离TBK1，且UBQLN2缺失使TBK1不稳定。
    - https://pubmed.ncbi.nlm.nih.gov/42763025/
-2. **细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点**
+3. **细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点**
    - 临床试验 / 动物/细胞实验 / high
-   - 细胞衰老标志物在ALS小鼠运动皮层和脊髓中早期出现；达沙替尼和槲皮素治疗改善运动行为、神经肌肉功能、运动皮层兴奋性，减少轴突损伤并保留V层神经元，小胶质细胞可能是介导者。
+   - 细胞衰老标志物在ALS小鼠运动皮层和脊髓中早期出现；达沙替尼联合槲皮素治疗改善运动行为、神经肌肉功能、运动皮层兴奋性，减少轴突损伤并保留V层神经元，小胶质细胞可能是介导细胞。
    - https://pubmed.ncbi.nlm.nih.gov/42759848/
-3. **星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症的血源性生物标志物**
+4. **星形胶质细胞来源的细胞外囊泡中磷酸化TDP-43作为肌萎缩侧索硬化症的血源性生物标志物**
    - 临床试验 / 临床试验研究 / high
-   - 血浆ADEV pTDP-43/CD81比值在区分ALS与健康对照中表现最佳，逻辑回归平均AUC为0.89，随机森林平均AUC为0.86。
+   - 血浆ADEV pTDP-43/CD81比值在区分ALS与健康对照中达到平均AUC 0.89，敏感性和特异性分别约为87%和89%。
    - https://pubmed.ncbi.nlm.nih.gov/42722112/
-4. **硝酸盐响应性Sialin2偶联应激颗粒组装与清除以维持神经元稳态**
-   - 临床试验 / 动物/细胞实验 / high
-   - 硝酸盐响应性Sialin2通过相分离促进应激颗粒组装，并在恢复期促进自噬相关清除；其缺失导致ALS相关蛋白滞留，而硝酸盐治疗在ALS小鼠模型中减轻病理并延缓功能衰退。
-   - https://pubmed.ncbi.nlm.nih.gov/42826720/
-5. **丹麦EPIC队列中诊断前血浆神经丝轻链多肽与肌萎缩侧索硬化风险之间的关联**
-   - 临床试验 / 巢式病例对照研究（基于丹麦EPIC队列） / high
-   - 血浆NfL在ALS诊断前长达14.6年即已升高，诊断前<5年时关联最强（OR 3.8，AUC 0.78），5-14.6年时减弱但仍显著（OR 1.7，AUC 0.63），>14.6年无显著关联。
-   - https://pubmed.ncbi.nlm.nih.gov/42825398/
-6. **待复核翻译：The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT06363357
-7. **待复核翻译：ASSESS ALL ALS Study**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06578195
-8. **待复核翻译：Auto-calibrating System for Upper Limb Disability Assessment, Neurological and Occupational Rehabilitation**
-   - 临床试验 / 临床试验注册 / high
-   - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07636538
+5. **PAICS介导C9orf72相关肌萎缩侧索硬化中的DNA损伤与小脑神经元丢失**
+   - 临床试验 / 临床前研究（动物模型、患者组织及iPSC验证） / high
+   - C9orf72功能缺失导致小脑神经元丢失先于运动缺陷，PAICS下调介导DNA损伤，恢复paics表达可保护小脑神经元。
+   - https://pubmed.ncbi.nlm.nih.gov/41810938/
+6. **几丁质酶在肌萎缩侧索硬化中的神经元组成性表达及疾病相关上调**
+   - 治疗 / 观察性临床研究 / high
+   - 神经元是几丁质酶的主要来源，ALS中CHI3L1在星形胶质细胞和小胶质细胞上调，CHIT1在神经元和小胶质细胞上调；脑脊液CHIT1和CHI3L2对ALS诊断判别力较强，但未优于神经丝蛋白。
+   - https://pubmed.ncbi.nlm.nih.gov/41762671/
+7. **BTK抑制可减轻肌萎缩侧索硬化中的神经炎症和神经退行性变**
+   - 临床试验 / 临床前研究（含患者组织观察、hiPSC细胞模型及SOD1-G93A小鼠干预实验） / high
+   - BTK在ALS中作为cGAS-STING-NF-κB信号轴的上游调控节点，其抑制可减轻运动神经元DNA损伤、恢复小胶质细胞吞噬功能、阻断非细胞自主神经毒性，并在SOD1-G93A小鼠中延长中位生存期（158→183天）并改善运动功能。
+   - https://pubmed.ncbi.nlm.nih.gov/41710977/
+8. **TUBA4A错义变异导致肌微管蛋白病**
+   - 临床试验 / 观察性临床研究（多中心队列，含功能验证） / high
+   - TUBA4A错义变异可导致以轴性肌病为主的肌微管蛋白病，多数无中枢神经系统受累，部分家族表现为伴TDP-43/p62/TUBA4A阳性蛋白聚集的多系统蛋白病，遗传模式多样。
+   - https://pubmed.ncbi.nlm.nih.gov/41678358/

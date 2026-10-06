@@ -1,14 +1,251 @@
 {
-  "updatedAt": "2026-10-05T00:53:29.132Z",
+  "updatedAt": "2026-10-06T02:16:29.819Z",
   "period": {
     "days": 10,
-    "from": "2026-09-26",
-    "to": "2026-10-05"
+    "from": "2026-09-27",
+    "to": "2026-10-06"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 37,
+  "count": 41,
   "articles": [
+    {
+      "id": "pmid-41710977",
+      "pmid": "41710977",
+      "doi": "10.1093/brain/awag070",
+      "title": "BTK inhibition suppresses neuroinflammation and neurodegeneration in amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disorder with limited therapeutic interventions. Neuroinflammation represents a central pathogenic mechanism in ALS, yet the upstream molecular regulators that integrate multiple inflammatory cascades remain poorly understood. Here, we investigated whether Bruton's tyrosine kinase (BTK), which integrates DNA-sensing and Toll-like receptor signals upstream of the cGAS-STING-NF-κB cascade, serves as a key regulatory node in ALS pathogenesis. Public RNA sequencing datasets of motor neurons (MNs) and post-mortem tissues from ALS patients were utilized to identify BTK expression patterns. SOD1-mutant human induced pluripotent stem cells (hiPSC) were differentiated into MNs (hiPSC-MNs) and microglia (hiPSC-MGs). NF-κB dysregulation was profiled by scRNA sequencing (hiPSC-MGs) and bulk RNA sequencing (hiPSC-MNs). DNA damage (γH2AX), inflammatory signalling (western blot/ELISA) and phagocytosis (pH-rodo uptake) were quantified, and microglial-conditioned medium was tested for MN toxicity. Monocultures and MN-MG co-cultures received zanubrutinib (3 µM, 12 h). SOD1-G93A mice were administered zanubrutinib (30 mg/kg, daily) from 2.5 months; motor performance, survival, spinal histology and PI3K-AKT-mTOR activity were assessed after 2 months of treatment. ALS spinal cord and cortex tissues of patients, as well as SOD1-mutant hiPSC-MG and hiPSC-MNs, demonstrated elevated BTK phosphorylation with increased p-STING, p-TBK1 and nuclear NF-κB accumulation. ALS hiPSC-MG exhibited inflammatory activation, NLRP3 induction and impaired phagocytosis, while ALS hiPSC-MNs showed DNA damage and caspase-3-mediated apoptosis. Conditioned medium from inflammatory MG amplified neuronal STING-NF-κB activity and apoptosis, demonstrating non-cell-autonomous toxicity. The STING inhibitor H-151 reduced neuronal p-STING/p-TBK1/NF-κB and apoptosis, confirming pathway causality. Pharmacological BTK inhibition reduced DNA damage in ALS hiPSC-MNs by 61.4% (P < 0.05), restored phagocytosis in ALS hiPSC-MG to 87.2% of control levels (P < 0.01) and prevented neuronal apoptosis induced by microglial conditioned medium. In SOD1-G93A mice, BTK blockade extended median survival from 158 to 183 days (P < 0.01, log-rank test), improved motor function, and attenuated neuroinflammation while moderately rebalancing PI3K-AKT-mTOR signalling without impairing autophagy-lysosome dynamics. We identify BTK as a critical upstream regulator of the dysregulated cGAS-STING-NF-κB signalling axis characteristic of ALS pathogenesis. BTK orchestrates both cell-autonomous dysfunction in MNs and non-cell-autonomous toxicity through microglial activation, representing a convergent regulatory node that integrates multiple pathogenic pathways. These mechanistic insights provide a molecular framework for understanding ALS neuroinflammation and establish a rational basis for BTK-targeted therapeutic intervention in neurodegeneration.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Liu Q",
+        "Zhang X",
+        "Wang L",
+        "Chen H",
+        "Wang G",
+        "Sun Y",
+        "He B",
+        "Gao J",
+        "Qiu W",
+        "Ma C",
+        "Sun M",
+        "Cui L",
+        "Zhang X"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41710977/"
+    },
+    {
+      "id": "pmid-41762671",
+      "pmid": "41762671",
+      "doi": "10.1093/brain/awag083",
+      "title": "Constitutive neuronal expression and disease-associated upregulation of chitinases in amyotrophic lateral sclerosis.",
+      "abstract": "Chitinases are hydrolytic enzymes responsible for degrading chitin and have been evolutionarily conserved across various species. Although their signalling pathways are not fully understood, the chitinases are considered active immunomodulators across several cell types. Specific isoforms, including chitotriosidase-1 (CHIT1), chitinase-3-like protein 1 (CHI3L1), and human-specific chitinase-3-like protein 2 (CHI3L2), have emerged as markers of inflammation across the neurodegenerative spectrum, including amyotrophic lateral sclerosis (ALS). ALS is a fatal neuromuscular condition, and therapeutic development has been severely hindered by phenotypic heterogeneity and an incomplete understanding of aetiology. Although several overlapping disease mechanisms can contribute to neuronal death, inflammation can exacerbate pathology. Prior studies have reported that CHIT1, CHI3L1 and CHI3L2 levels are elevated in the CSF of ALS patients and associated with disease aggressiveness. Nevertheless, several open questions critical to our understanding of the role of chitinases in ALS disease burden remain: namely, (i) which cell types in the CNS are chitinase sources under physiological conditions; (ii) which of these display chitinase upregulation in ALS; and (iii) what is the diagnostic utility of the chitinases relative to established biomarkers. Here, we utilize preclinical models and post-mortem human tissue to demonstrate at both the transcriptomic and protein level that neurons are a primary source of chitinases; furthermore, neuronal chitinase expression is conserved across species. Under physiological conditions, CHI3L1 is more abundant and widely expressed across various cell types, whereas CHIT1 is predominantly expressed in neurons. Additionally, utilizing symptomatic mice from three familial ALS models, we demonstrate isoform-specific expression profiles, with astroglial and microglial upregulation of CHI3L1, and neuronal and microglial upregulation of CHIT1. Differing expression dynamics and diagnostic utility were also noted in our clinical cohort: CSF CHIT1 and CHI3L2 levels had more discriminatory power when distinguishing between ALS versus non-ALS controls, while CHI3L1 was more closely associated with inflammation and ageing across the neurodegenerative spectrum. Although the chitinases did not diagnostically outperform the neurofilament proteins, we posit that their expression profiles can inform the optimization of biomarker-guided trial design. Taken together, we demonstrate that chitinase upregulation in ALS is evident in various CNS cell types and that its neuronal expression may provide new insights into its role in disease activity.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Gaur N",
+        "Angerer C",
+        "Gunes ZI",
+        "Ancau M",
+        "Wang M",
+        "Riemenschneider H",
+        "Hurler CA",
+        "Mungwa S",
+        "Lüningschrör P",
+        "Zhiti A",
+        "Steinbach R",
+        "Briese M",
+        "Srivastava M",
+        "Plaas M",
+        "Hermann A",
+        "Sendtner M",
+        "Jäkel S",
+        "Edbauer D",
+        "Herms J",
+        "Liebscher S",
+        "Grosskreutz J",
+        "Brill MS"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41762671/"
+    },
+    {
+      "id": "pmid-42832558",
+      "pmid": "42832558",
+      "doi": "10.1371/journal.pgen.1012326",
+      "title": "Decoupling metabolic defense: Mutational and recombinational chaos in Sod1-deficient cells.",
+      "abstract": "Superoxide dismutase 1 (Sod1) is long recognized as a frontline antioxidant, yet its broader role in safeguarding the eukaryotic genome remains under-explored. Here, using a yeast model, we reveal that Sod1 is an indispensable guardian of genomic integrity. Its absence unleashes a genomic storm: whole-genome sequencing uncovered a dramatic surge in single nucleotide variations (13-fold), loss of heterozygosity (12-fold), chromosomal rearrangements (4-fold), and a staggering 48-fold increase in aneuploidy. Remarkably, this genomic instability was completely abolished under anaerobic conditions, identifying reactive oxygen species as the sole executioner. We demonstrate that Sod1 deficiency sculpts a unique mutational landscape dominated by C:G to A:T transversions-a molecular fingerprint of 8-oxoguanine overproduction. Mechanistically, these lesions are exacerbated by error-prone DNA polymerase ζ but mitigated by the concerted actions of Ogg1-mediated excision and DNA polymerase η. Critically, we show that Amyotrophic Lateral Sclerosis-associated variants are not created equal: the H48Q mutation shatters genome stability, whereas others (A4V, G36R, and G93A) remain benign in this context. Unlike yeast Sod1, human Sod1 is highly resistant to amino acid substitutions outside copper-binding sites, thus preventing the loss of enzyme function. Overall, our findings provide a mechanistically framework for understanding how Sod1 dysfunction drives genome instability in eukaryotic cells.",
+      "journal": "PLoS genetics",
+      "authors": [
+        "Sui Y",
+        "Zheng DQ",
+        "Wang Y",
+        "Zhao SS",
+        "Li KJ",
+        "Ye C",
+        "Zhang K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832558/"
+    },
+    {
+      "id": "pmid-42832702",
+      "pmid": "42832702",
+      "doi": "10.1097/EDE.0000000000002054",
+      "title": "Long-term exposure to ultrafine particles and mortality from neurodegenerative diseases: a population-based cohort study.",
+      "abstract": "Transportation and industrial activities emit large quantities of air pollutants, including unregulated ultrafine particles (UFP, <0.1 um), which may adversely affect brain health. We analyzed data from 2.1 million adults in the Canadian Census Health and Environment Cohorts (CanCHECs) living in Montreal and Toronto (2001-2019). Vital status and primary cause of death were obtained from the Canadian Vital Statistics- Death database. We assigned high-resolution estimates of UFP number concentrations and UFP size to participants' residential postal codes using three-year moving averages. Cox proportional hazards models were used to estimates hazard ratios (HRs) between long-term outdoor UFP number concentrations and mortality from dementia, Parkinson's disease, and amyotrophic lateral sclerosis. We further examined associations by dementia sub-types including Alzheimer's disease, vascular dementia and unspecified dementia. Models were used with and without inverse probability of censoring weights for competing events, and adjusted for UFP size, sociodemographic factors, and co-pollutants. Over 19 million person-years, we identified 20,560 deaths from neurodegenerative diseases. Each 10,000 particle/cm 3 increase in UFP number concentrations was associated with increased dementia mortality (HR = 1.22, 95% CI: 1.17-1.27), with stronger associations observed after adjusting for UFP size. Positive associations were observed for all dementia subtypes, with the largest for vascular dementia (HR = 1.49, 95% CI: 1.27-1.76). We did not observe effects of UFP on mortality from Parkinson's disease or amyotrophic lateral sclerosis. Long-term exposure to outdoor UFPs may contribute to mortality from specific neurodegenerative diseases, particularly dementia. Reducing population exposures to these unregulated pollutants could help mitigate the burden of neurodegenerative mortality.",
+      "journal": "Epidemiology (Cambridge, Mass.)",
+      "authors": [
+        "Batisse E",
+        "Lloyd M",
+        "Renoux C",
+        "Ganji A",
+        "Xu J",
+        "Hatzopoulou M",
+        "Weichenthal S",
+        "Baumgartner J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832702/"
+    },
+    {
+      "id": "pmid-41678358",
+      "pmid": "41678358",
+      "doi": "10.1093/brain/awag059",
+      "title": "Missense variants in TUBA4A cause myo-tubulinopathies.",
+      "abstract": "Tubulinopathies encompass a spectrum of disorders resulting from variants in genes encoding α- and β-tubulins, the key components of microtubules. While previous studies have linked de novo or dominantly inherited TUBA4A missense variants to neurodegenerative phenotypes, including amyotrophic lateral sclerosis, frontotemporal dementia, spastic ataxia, and recently, an isolated congenital myopathy, the full phenotypic and genotypic spectrum of TUBA4A-related disorders remains incompletely characterized. In this multi-centre study, we identified one previously reported and 12 novel TUBA4A missense variants in 31 individuals from 19 unrelated families. Remarkably, individuals in 17 families presented with a myopathy without any CNS involvement or history of such disease. In the remaining two families, we observed probands with cerebellar ataxia and epilepsy accompanying proximal and axial muscle weakness along with protein aggregation. The coexistence of neuromuscular and neurodegenerative features with protein aggregation defines a multisystem proteinopathy. These two families thus establish the first association between TUBA4A and multisystem proteinopathy. Our cohort exhibited diverse genotypes and inheritance patterns: four families demonstrated autosomal dominant transmission through heterozygous variants in TUBA4A, three probands had recessive inheritance due to homozygous variants, while the respective heterozygous carriers were asymptomatic; five probands carried de novo variants and nine probands with heterozygous variants were classified as sporadic cases. Clinical phenotypes ranged from mild to severe myopathy, predominantly affecting the axial and paraspinal muscles. We observed a range of disease onset, from congenital to late adulthood. Creatine kinase levels were variable, ranging from normal to highly elevated. Cardiac function remained preserved across the cohort. Muscle biopsies showed heterogenous myopathic changes, including myofibre size variation, nemaline bodies, core-like regions and internal nuclei. Immunohistochemical analysis revealed protein accumulations positive for TDP-43 (n = 2), p62 (n = 5) and TUBA4A (n = 6). Complementary in silico and in vitro investigations suggested that the identified TUBA4A variants cause significant protein abnormalities and may differentially impact microtubule dynamics. Correlation analyses integrating clinical severity, variant location and mechanistic readouts further demonstrated that domain specificity within TUBA4A influences both the pattern of muscle involvement and the extent of microtubule disruption. Our findings establish myo-tubulinopathies as distinct clinical entities, encompassing both primary myopathies and multisystem proteinopathies with muscle involvement. This study broadens the phenotypic and genotypic spectrum of TUBA4A-related disorders beyond autosomal dominant or de novo mechanisms and neurodegenerative presentations. These results underscore the importance of considering TUBA4A variants in the differential diagnosis of axial myopathies and multisystem proteinopathies, regardless of CNS involvement.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Johari M",
+        "Folland C",
+        "Saito Y",
+        "Oud MM",
+        "Parmar JM",
+        "Töpf A",
+        "Kurbatov S",
+        "Ampleeva M",
+        "Zakharova EY",
+        "Chekmareva IA",
+        "Shirokova KS",
+        "Atiakshin D",
+        "van Beek R",
+        "Gardeitchik T",
+        "Kamsteeg EJ",
+        "Medici E",
+        "Donker Kaat L",
+        "Nemoto J",
+        "Komaki H",
+        "Okabe T",
+        "Kimoto Y",
+        "Tokito T",
+        "Nakanowatari M",
+        "Oya Y",
+        "Bruels CC",
+        "Stafki SA",
+        "Estrella EA",
+        "Littel HR",
+        "Kunkel LM",
+        "Kang PB",
+        "Osei-Owusu I",
+        "Pais L",
+        "O'Leary M",
+        "Austin-Tse C",
+        "O'Donnell-Luria A",
+        "Mangilog B",
+        "Genetti CA",
+        "Valivullah ZM",
+        "Radio FC",
+        "D'Amico A",
+        "Ciolfi A",
+        "Tartaglia M",
+        "Perrin A",
+        "Van Goethem C",
+        "Sole G",
+        "Martin-Négrier ML",
+        "Cossée M",
+        "Milic Rasic V",
+        "Kovacevic G",
+        "Kosac A",
+        "Moreno CAM",
+        "Gontijo Camelo C",
+        "Zanoteli E",
+        "Habib C",
+        "Fahey MC",
+        "Beggs AH",
+        "Poulsen NS",
+        "Vissing J",
+        "Straub V",
+        "Savarese M",
+        "Tasca G",
+        "Voermans NC",
+        "Laing NG",
+        "Udd B",
+        "Nishino I",
+        "Ravenscroft G"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41678358/"
+    },
+    {
+      "id": "pmid-42831972",
+      "pmid": "42831972",
+      "doi": "10.1007/s00415-026-14174-5",
+      "title": "Neuroimaging signatures of facial onset sensory and motor neuronopathy (FOSMN).",
+      "abstract": "Facial onset sensory and motor neuronopathy (FOSMN) is an exceptionally rare condition characterized by progressive facial paresthesia and the subsequent appearance of bulbar symptoms with rostro-caudal motor and sensory deficits sometimes extending to the hand muscles. The pathophysiological understanding of this disorder is very limited. In order to identify patterns of neuroanatomical involvement within the brain, we applied advanced magnetic resonance imaging-based techniques to a group of six patients with the diagnosis of FOSMN, using unbiased analysis techniques with atlas-based volumetry of volume-rendering T1-weighted data and whole brain-based spatial statistics of diffusion tensor imaging (DTI). The volumetric data showed significant global atrophy with prominent involvement of the medulla oblongata, while DTI demonstrated significant decreases in the right-hemispheric frontal lobe and bilaterally along the superior and inferior longitudinal fasciculi. In summary, this application of volumetry and DTI to a group of FOSMN patients demonstrated, beyond global brain atrophy as a correlate of a systemic disease process, regional atrophy in the brainstem/medulla oblongata, together with tract alterations of polymodal frontotemporoparietal interconnections. Future neuroimaging studies in larger patient groups of FOSMN are needed for detailed phenotype-neuroimaging correlations.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Rosenbohm A",
+        "Herrera-Angeles F",
+        "Huppertz HJ",
+        "Haeusler KG",
+        "Weishaupt JH",
+        "Müller HP",
+        "Kassubek J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831972/"
+    },
+    {
+      "id": "pmid-41810938",
+      "pmid": "41810938",
+      "doi": "10.1093/brain/awag092",
+      "title": "PAICS mediates DNA damage and cerebellar neuronal loss in C9orf72 amyotrophic lateral sclerosis.",
+      "abstract": "A hexanucleotide (GGGGCC) repeat expansion in the C9orf72 gene represents the most frequent genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), resulting in reduced C9orf72 mRNA and protein expression. C9orf72 is highly expressed in the cerebellum, and growing evidence implicates C9orf72-associated cerebellar pathology across neurodegenerative disorders, including ALS/FTD, yet the pathogenic mechanisms remain unresolved. Here, we demonstrate that in vivo C9orf72 loss of function leads to cerebellar atrophy, loss of GABAergic interneurons and depletion of Purkinje and granule cells. Additionally, we demonstrate that these cerebellar anomalies precede motor defects. Single-cell transcriptomics of the C9orf72 zebrafish brain revealed the downregulation of a purine biosynthetic gene, paics, in Purkinje cells. Furthermore, we demonstrate the reduced expression of PAICS in human post-mortem cerebellar sections and induced pluripotent stem cell-derived motor neurons from C9orf72 and sporadic ALS patients. Knockout of paics in zebrafish recapitulates cerebellar neuronal loss, neuromuscular junction disruption, motor impairment and widespread DNA damage and repair defects, including suppression of key DNA repair pathways. Restoring paics expression in C9orf72 zebrafish resolves DNA damage and preserves Purkinje cells and granule cells, revealing PAICS as a crucial mediator of cerebellar degeneration and a promising therapeutic avenue for C9orf72-associated ALS and FTD.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Singh J",
+        "Lescouzères L",
+        "Zaouter C",
+        "Chaineau M",
+        "Haghi G",
+        "Durcan TM",
+        "Patten SA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41810938/"
+    },
     {
       "id": "pmid-42829893",
       "pmid": "42829893",
@@ -42,6 +279,25 @@
       ],
       "publishedAt": "2026-10-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829893/"
+    },
+    {
+      "id": "pmid-42831156",
+      "pmid": "42831156",
+      "doi": "10.7759/cureus.117375",
+      "title": "When Hypercapnia Misleads: A Case of Respiratory-Onset Motor Neuron Disease.",
+      "abstract": "Motor neuron disease (MND) most commonly presents with limb or bulbar weakness; however, a minority of patients present with respiratory-onset disease, posing significant diagnostic challenges. We report the case of a 78-year-old woman with a background of small airways disease and rheumatoid arthritis not requiring treatment for many years, who presented with a two-year history of progressive exertional dyspnoea, unintentional weight loss, and functional decline. Before diagnosis, she underwent extensive investigation across primary and secondary care, including chest radiography, spirometry, computed tomography imaging, and ear, nose, and throat specialist assessment, without a unifying diagnosis being established. On admission, venous blood gas demonstrated compensated hypercapnia, which was attributed to obstructive airways disease. She subsequently developed hypercapnic respiratory failure, and a clinical diagnosis of MND was made on the basis of generalised muscle wasting, fasciculations, brisk lower-limb reflexes, and electromyography findings. Non-invasive ventilation was initiated with significant clinical improvement. This case highlights the diagnostic challenges of respiratory-onset MND, the risk of anchoring bias in the interpretation of biochemical markers, and the importance of considering neuromuscular causes when respiratory symptoms are disproportionate to radiological and biochemical findings.",
+      "journal": "Cureus",
+      "authors": [
+        "Kordi Y",
+        "Ismail M",
+        "Estabrook E"
+      ],
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831156/"
     },
     {
       "id": "pmid-42826598",
@@ -436,6 +692,23 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42716044/"
     },
     {
+      "id": "pmid-42831014",
+      "pmid": "42831014",
+      "doi": "10.2147/MDER.S626538",
+      "title": "A Novel Device for Pulmonary Expansion Under Simulated Healthy and Neuromuscular Conditions: A Bench Simulation Study.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) leads to a progressive decline in respiratory function, requiring volumetric expansion techniques to prevent hypoventilation. However, the mechanical performance of devices used for this purpose requires evaluation under controlled conditions in bench simulation studies. Devices, such as the manual resuscitator, are commonly used, but present limitations, including high pressures, variable flow, among others. A novel respiratory muscle training device designed to provide controlled flow and pressure (ILLIFE-T) was developed. To evaluate the behavior of the variables pressure, volume, and flow during the volumetric expansion technique, comparing the new device with the manual resuscitator and the manual resuscitator + Positive Expiratory Pressure (PEP), using simulated models of healthy and ALS affected lungs. This bench simulation study used the ASL 5000 simulator, configured with predefined respiratory profiles representing healthy and ALS respiratory conditions. Four repetitions of the volumetric expansion maneuver were performed for each device and simulated respiratory condition, with five insufflations per repetition. One recording was randomly selected from each repetition for analysis, resulting in four observations per device and simulated respiratory condition. In the simulation with healthy respiratory conditions, the new device generated higher pressure (23.38±3.81 cmH 2 O), volume (1991.25 ±174.10 mL), and lower flow variability (-1.47±11.43 L/min) compared with the manual resuscitator (12.25±11.73 cmH 2 O; 1113.64±131.75 mL; 18.84±61.31 L/min) and the manual resuscitator with PEP valve (16.89±0.64 cmH 2 O; 1817.25±86.77 mL; -49.49±9.96 L/min), respectively. In ALS simulated models, the new device also achieved higher pressure (23.69±3.29 cmH 2 O) and volume (2235.28±264.74 mL) compared with the manual resuscitator (8.33±8.34 cmH 2 O; 563.45±212.03 mL, respectively) and the manual resuscitator with PEP valve (14.89±7.60 cmH 2 O; 1449.86±153.09 mL, respectively). Flow values were similar among devices: 15.10 ± 18.00 L/min for the new device, 19.28±56.03 L/min for the manual resuscitator, and 0.18±51.67 L/min for the manual resuscitator with PEP valve. Pressure and volume were higher with the new device in both simulated models. Flow did not differ significantly among devices, although lower variability was descriptively observed with the new device.",
+      "journal": "Medical devices (Auckland, N.Z.)",
+      "authors": [
+        "Dorça AC",
+        "Morais LA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831014/"
+    },
+    {
       "id": "pmid-42814997",
       "pmid": "42814997",
       "doi": "10.2196/100284",
@@ -708,102 +981,6 @@
       ],
       "publishedAt": "2026-09-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42804741/"
-    },
-    {
-      "id": "pmid-42799589",
-      "pmid": "42799589",
-      "doi": "10.1177/19450265261493084",
-      "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
-      "abstract": "Brown-Vialetto-Van Laere syndrome (BVVLS) is a rare, treatable neurodegenerative disorder caused by riboflavin transporter gene variants (SLC52A2, SLC52A3). Early symptoms can mimic neuromuscular junction disorders, causing diagnostic delays. A 3.5-year-old girl from consanguineous parents presented at 2.5 years with isolated bilateral ptosis, later developing dysphagia, dysphonia, facial diplegia, stridor, and respiratory compromise. Examination revealed tongue atrophy with fasciculations and bulbar weakness but normal limb strength. Diagnosed with seronegative myasthenia gravis, she failed to respond to corticosteroids, pyridostigmine, salbutamol, and intravenous immunoglobulin. Absence of fatigability, lower motor neuron signs, and a sibling history of hearing loss and bulbar palsy prompted genetic testing revealed a homozygous missense variant in SLC52A3 (c.670T > C; p.Phe224Leu). High-dose riboflavin (up to 50 mg/kg/day) led to gradual improvement in bulbar function, resolution of stridor, and respiratory stabilization, though ptosis and tongue fasciculations persisted. This report is novel in using clinical response to riboflavin as a functional biomarker for riboflavin transporter deficiency (RTD) in a patient with a variant of uncertain significance, unlike prior cases with definitive genetics. Empiric riboflavin challenge offers a practical framework when genetic results are ambiguous. RTD should be suspected in children with treatment-resistant, non-fluctuating ptosis and bulbar weakness, particularly with consanguinity or family history of hearing loss and bulbar palsy. Early high-dose riboflavin prevents decline, while immunosuppression is ineffective and potentially harmful.",
-      "journal": "Genetic testing and molecular biomarkers",
-      "authors": [
-        "Wasim M",
-        "Javed I",
-        "Ma G"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-09-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799589/"
-    },
-    {
-      "id": "pmid-42791439",
-      "pmid": "42791439",
-      "doi": "10.1007/s10072-026-09425-2",
-      "title": "C9ORF72-associated bulbar-onset ALS in a patient with secondary progressive multiple sclerosis and conjugal ALS.",
-      "abstract": "",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Moradi K",
-        "Pillay Y",
-        "Azevedo CJ",
-        "Darki L",
-        "Beydoun SR"
-      ],
-      "publicationTypes": [
-        "Letter"
-      ],
-      "publishedAt": "2026-09-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791439/"
-    },
-    {
-      "id": "pmid-42799858",
-      "pmid": "42799858",
-      "doi": "10.1007/s12035-026-06209-9",
-      "title": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of Amyotrophic Lateral Sclerosis/Frontotemporal Dementia.",
-      "abstract": "The abnormal expansion of repetitive DNA sequences falls within the spectrum of neurological conditions driven by dual pathogenic pathways of RNA toxicity and protein toxicity. Within this spectrum, hexanucleotide repeat disorders (HRDs) represent a rare but important subgroup: C9orf72-amyotrophic lateral sclerosis/frontotemporal dementia (C9orf72-ALS/FTD), X-linked dystonia-parkinsonism (XDP) and spinocerebellar ataxia type 36 (SCA36), unified by the presence of expanded intronic repeats capable of forming non-canonical nucleic acid structures. Despite this shared repeat architecture, they differ in critical molecular and genetic respects: C9orf72-ALS/FTD is hallmarked by TDP-43 aggregation and prominent proteinopathy; SCA36 lacks TDP-43 pathology entirely; and XDP uniquely harbors a SINE-VNTR-Alu (SVA) retrotransposon insertion within the expanded locus and follows an X-linked recessive inheritance pattern. Among these, C9orf72-ALS/FTD is relatively well characterized, with established pathogenic mechanisms including G-quadruplex (G4) formation, dipeptide repeat (DPR) protein toxicity, RNA foci formation, and downstream cellular disruptions. The molecular mechanism underlying SCA36 and XDP remains comparatively less characterized. Given the mechanistic overlap with ALS/FTD, downstream disruptions such as RNA toxicity, mitochondrial dysfunction, impaired DNA repair and proteasomal dysfunction could similarly result from these core molecular processes. However, direct experimental evidence supporting these mechanisms in SCA36 and XDP remains limited. This review compares established, emerging and hypothetical mechanisms across HRDs to distinguish shared pathogenic pathways from disease-specific molecular features. Through horizontal comparison, this review identifies opportunities and limitations for translating ALS/FTD therapeutics to XDP and SCA36, establishing a unified analytical framework for mechanistic research and clinical intervention in rare repeat expansion disorders.",
-      "journal": "Molecular neurobiology",
-      "authors": [
-        "Patel M",
-        "Das S",
-        "Kumari AP",
-        "Kumar A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799858/"
-    },
-    {
-      "id": "pmid-42800647",
-      "pmid": "42800647",
-      "doi": "10.1016/j.nbd.2026.107629",
-      "title": "Polyamines across neurodegenerative proteinopathies.",
-      "abstract": "Polyamines (PAs) are evolutionarily conserved metabolites that connect protein quality control with lysosomal, mitochondrial, and redox homeostasis. Their metabolism is situated at a critical intersection of cell-sustaining and neurodegenerative pathways. Here, we synthesize evidence across Alzheimer's disease, Parkinson's disease, polyglutamine repeat disorders, amyotrophic lateral sclerosis, and multiple system atrophy, each of which differs in vulnerability to changes in PA metabolism. Although previous reviews have investigated PAs in individual neurodegenerative disorders, few have compared their roles across the broader spectrum of neurodegenerative proteinopathies. We address this gap by synthesizing evidence across multiple diseases to examine how PAs influence disease-associated protein aggregation and clearance, and how these effects depend on PA species, concentration, cellular context, disease stage, subcellular localization, redox state, and lysosomal and mitochondrial capacity. Human tissue and biofluid studies report disease-associated changes in PA metabolites, pathway enzymes, and transporter remodeling, as a function of neurodegenerative disorders. Mechanistic studies reveal that spermidine and spermine can alter the assembly, condensation, compartmentalization, and clearance of various neurotoxic proteins, whereas the effects of putrescine are more system- and concentration-dependent. These effects engage both shared pathways and distinct mechanisms, depending on protein identity, cell type, and subcellular location. Curiously, PA manipulation may be protective in one context yet harmful in another. The framework that we propose can distinguish adaptive remodeling from pathogenic dysregulation and can guide disease-relevant therapeutic strategies.",
-      "journal": "Neurobiology of disease",
-      "authors": [
-        "Ranxhi B",
-        "LeWitt PA",
-        "Tsou WL",
-        "Todi SV"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800647/"
-    },
-    {
-      "id": "pmid-42799915",
-      "pmid": "42799915",
-      "doi": "10.1007/s11910-026-01524-z",
-      "title": "Potential Roles of Neuroimaging in Motor Neuron Disease.",
-      "abstract": "The review is intended to summarize and discuss the increasing roles and perspectives of neuroimaging in the clinical and scientific work-up of amyotrophic lateral sclerosis (ALS) and other motor neuron diseases (MND). The applications of magnetic resonance imaging (MRI) and positron emission tomography (PET) identify characteristic disease-specific patterns especially for ALS including its clinical subtypes. Guided by neuroanatomical pattern stratification, these MND-associated alterations could be detected by dedicated analysis parameters from MRI, including T1-weighted structural imaging and microstructural diffusion tensor imaging, in combination with additional MR techniques, to act as diagnostic and monitoring biomarkers. Imaging in MND increasingly makes use of machine learning-based analysis methods. The conceptualization of (neuro-)imaging in ALS and other MND encompasses multiparametric technical approaches, also of regions outside the central nervous system, together with aspects of disease-specific pathophysiology which will further advance the field in future applications.",
-      "journal": "Current neurology and neuroscience reports",
-      "authors": [
-        "Kassubek J",
-        "Müller HP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-09-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799915/"
     }
   ]
 }
