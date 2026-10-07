@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-10-06T02:16:29.819Z",
+  "updatedAt": "2026-10-07T01:30:32.790Z",
   "period": {
     "days": 10,
-    "from": "2026-09-27",
-    "to": "2026-10-06"
+    "from": "2026-09-28",
+    "to": "2026-10-07"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 45,
   "articles": [
+    {
+      "id": "pmid-42837018",
+      "pmid": "42837018",
+      "doi": "10.1007/s00401-026-03090-7",
+      "title": "SOD1 co-pathologies in the brain: insights from neuropathological evidence and implications.",
+      "abstract": "Superoxide dismutase 1 (SOD1), originally regarded as an antioxidant enzyme, is now recognized as a multifunctional protein whose conformational instability and aggregation contribute to neurodegeneration. The emerging evidence suggests that SOD1 pathology extends beyond amyotrophic lateral sclerosis, supporting a role in multiple neurodegenerative diseases. This review summarizes current neuropathological evidence of SOD1 co-pathologies in the human brain, with particular emphasis on its associations with TAR DNA-binding protein 43 (TDP-43), tau, alpha-synuclein, amyloid-β, and other aggregation-prone proteins. We examine the distribution of pathological SOD1 species across neurodegenerative diseases, their coexistence in affected brain regions, and potential mechanisms underlying these interactions, including oxidative stress, impaired proteostasis, aberrant phase separation, and cross-seeding. We also discuss emerging observations of SOD1 pathology in neurological conditions beyond classical neurodegenerative diseases, raising the possibility that SOD1 misfolding represents a broader cellular response to neuronal injury. Collectively, the available evidence supports a shift from viewing SOD1 as a disease-specific protein to considering it a potential participant in interconnected proteopathic networks. Although the functional significance of SOD1 co-pathologies remains incompletely understood, elucidating the molecular basis of aggregation may provide new insights into disease onset and progression, improving our understanding of neurodegenerative mechanisms, and facilitating the development of biomarkers and the identification of therapeutic targets across diverse proteinopathies.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "de Azevedo EM",
+        "Bernardo VS",
+        "Lima MMS",
+        "Eleutherio ECA",
+        "Outeiro TF"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837018/"
+    },
+    {
+      "id": "pmid-42836993",
+      "pmid": "42836993",
+      "doi": "10.1007/s00415-026-14040-4",
+      "title": "TRICALS risk score augments but cannot replace neurofilament as a prognostic biomarker in ALS.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder with substantial clinical heterogeneity, complicating the design and interpretation of clinical trials. Two strategies have been proposed to address this variability: phenotype-based prognostic modelling and biomarker-based stratification using neurofilaments. We aimed to determine whether a widely used phenotype-based method, the TRICALS risk score, could substitute for neurofilament biomarkers in a clinical trial. We used data from the MIROCALS phase 2b randomised controlled trial of low-dose interleukin-2 in ALS (n = 220). The TRICALS risk score was calculated for each participant. The published biomarker model includes CSF phosphorylated neurofilament heavy chain (pNFH) and a pNFH × treatment interaction. We analysed the effects of replacing CSF pNFH with the TRICALS risk score and of adding TRICALS score as an additional covariate to the original model. Model performance was assessed using likelihood ratio χ 2 statistics and - 2 log likelihood (- 2LL). The primary outcome was survival. TRICALS risk score was moderately correlated with CSF pNFH (r = 0.357), explaining 12.7% of shared variance. Substituting CSF pNFH with TRICALS score reduced model performance (- 2LL 928.25 vs 793.36). The TRICALS × treatment interaction was statistically significant (hazard ratio [HR] 0.72, 95% CI 0.54-0.96 p = 0.025), but contributed modestly to model fit (Δχ 2 = 4.76), compared with the pNFH × treatment interaction (Δχ 2 = 14.24). Incorporating the pNFH × treatment interaction significantly improved model fit and identified a treatment effect (HR 0.28, 95% CI 0.12-0.63; p = 0.002). The TRICALS risk score does not substitute for CSF neurofilament biomarkers as a prognostic or stratification variable but provides complementary information.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Al Khleifat A",
+        "Malaspina A",
+        "Kirby J",
+        "Tree T",
+        "Shaw PJ",
+        "Leigh PN",
+        "Al-Chalabi A"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "publishedAt": "2026-10-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836993/"
+    },
     {
       "id": "pmid-41710977",
       "pmid": "41710977",
@@ -245,6 +289,52 @@
       ],
       "publishedAt": "2026-10-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41810938/"
+    },
+    {
+      "id": "pmid-42834122",
+      "pmid": "42834122",
+      "doi": "10.1038/s44319-026-00953-8",
+      "title": "TBK1 eliminates aggregation-prone monomeric TDP-43 through an IFNβ-immunoproteasome pathway in ALS models.",
+      "abstract": "Loss-of-function mutations in TANK-binding kinase 1 (TBK1) cause amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), characterized by cytoplasmic aggregation of TAR DNA-binding protein 43 (TDP-43), known as TDP-43 pathology, but the mechanisms beyond impaired autophagy remain undefined. Here, we identify a TBK1-IFNβ-immunoproteasome axis as a novel autophagy-independent proteostatic pathway regulating TDP-43 clearance. TBK1 is activated by aggregation-prone monomeric TDP-43 via physical association, and this activation alleviates TDP-43 pathology in neuronal cells. TBK1 subsequently induces IFNβ expression, which upregulates the immunoproteasome to promote degradation of monomeric TDP-43 in neurons, including human iPSC-derived lower motor neurons. Importantly, IFNβ receptor expression is downregulated in spinal motor neurons from ALS patients with TDP-43 pathology. Furthermore, heterozygous Tbk1 deletion in SOD1 G93A mice impairs immunoproteasome induction and increases polyubiquitinated protein accumulation in spinal cords, supporting the in vivo relevance of this pathway. Collectively, our findings reveal that impairment of the TBK1-IFNβ-immunoproteasome axis represents an autophagy-independent mechanism contributing to the development of TDP-43 pathology in ALS and FTD.",
+      "journal": "EMBO reports",
+      "authors": [
+        "Sakai S",
+        "Oiwa K",
+        "Iguchi Y",
+        "Akcay IM",
+        "Watanabe S",
+        "Komine O",
+        "Nagata N",
+        "Horiuchi M",
+        "Sreedharan J",
+        "Katsuno M",
+        "Yamanaka K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834122/"
+    },
+    {
+      "id": "pmid-42833594",
+      "pmid": "42833594",
+      "doi": "10.1016/j.nbd.2026.107630",
+      "title": "TDP-43 and ALS - what's wrong with my membranes?",
+      "abstract": "In recent years, multiple pathologies of the mRNA binding protein TDP-43 have been linked to the neurodegenerative disease Amyotrophic Lateral Sclerosis (ALS), in which almost 97% of all ALS patients exhibit TDP-43 abnormalities in affected neurons. Typically, neuronal degeneration first affects alpha motor neurons of the spinal cord and the lower brainstem, before the disease progresses to Betz cells, giant neurons of the primary motor cortex, and subsequently spreads into further brain regions. It is just the Betz cells though, which do not show cytosolic TDP-43 aggregation upon loss of nuclear TDP-43 expression, but instead display membrane defects in organelles such as the Golgi apparatus, the ER and the nuclear envelope. In this review, we will therefore examine connections between TDP-43 and inner membrane systems, with a particular focus on nuclear and the ER membranes. In doing so, we will summarize evidence suggesting that the disease may have an early onset, potentially even prenatally, and describe how interactions between TDP-43 and the lipid metabolism as well as connections with membrane components, may drive cells towards ALS as time goes by.",
+      "journal": "Neurobiology of disease",
+      "authors": [
+        "Dahlhaus R",
+        "Yalcin I",
+        "Tischer J",
+        "Braun RJ"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833594/"
     },
     {
       "id": "pmid-42829893",
@@ -754,7 +844,7 @@
       "id": "pmid-42815720",
       "pmid": "42815720",
       "doi": "10.1016/j.clnesp.2026.105162",
-      "title": "Predictive Value of the Modified Controlling Nutritional Status Score for Critical Events in Patients with Amyotrophic Lateral Sclerosis.",
+      "title": "Predictive value of the modified controlling nutritional status score for critical events in patients with amyotrophic lateral sclerosis.",
       "abstract": "Amyotrophic lateral sclerosis (ALS) is associated with various clinical challenges and critical outcomes. Therefore, we established a regional registry and conducted the Chugoku ALS Retrospective and Prospective (CARP) study. The modified controlling nutritional status (m-CONUT) score holds the potential to comprehensively assess the condition of patients with ALS from aspects such as nutrition, metabolism, and inflammation. The present study used data from the CARP study to examine the relationship between the m-CONUT score and outcomes. Patients diagnosed with possible, probable, and definite ALS according to the Awaji criteria were enrolled between 2014 and 2023. A statistical analysis of data from patients enrolled within 2 years of ALS onset and followed for at least 6 months thereafter was performed. Patients were evaluated every 3 months, and missing values were supplemented by the last observation carried forward method. This study included 36 patients. Eleven experienced critical events (ventilator placement or death), the majority of which were deaths. The m-CONUT score exhibited a worsening trend before the critical event occurred, as did the revised ALS functional rating scale score, body mass index, and forced vital capacity percentage. Critical events increased significantly with each 1-point increase in the m-CONUT score. The m-CONUT score may have potential for predicting outcomes in patients with ALS.",
       "journal": "Clinical nutrition ESPEN",
       "authors": [
