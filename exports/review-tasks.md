@@ -2,18 +2,32 @@
 
 - [ ] [高优先级] 纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征 (pmid-42840349)
   - https://pubmed.ncbi.nlm.nih.gov/42840349/
-- [ ] 通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响 (pmid-42727824)
-  - https://pubmed.ncbi.nlm.nih.gov/42727824/
+- [ ] 酶促N-脱酰化是鞘磷脂膜破坏的预测开关：一个用于ALS鞘脂脆弱性的可证伪计算机模拟框架 (pmid-42833128)
+  - https://pubmed.ncbi.nlm.nih.gov/42833128/
+- [ ] 对《CDK4/6 驱动的异常细胞周期再进入导致神经元丢失并确定 C9orf72 ALS/FTD 治疗靶点》的更正 (pmid-42857254)
+  - https://pubmed.ncbi.nlm.nih.gov/42857254/
 - [ ] [高优先级] TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失 (pmid-42763025)
   - https://pubmed.ncbi.nlm.nih.gov/42763025/
 - [ ] [高优先级] 细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点 (pmid-42759848)
   - https://pubmed.ncbi.nlm.nih.gov/42759848/
-- [ ] ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景 (pmid-42727710)
-  - https://pubmed.ncbi.nlm.nih.gov/42727710/
-- [ ] [疑似误收] KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷 (pmid-42727616)
-  - https://pubmed.ncbi.nlm.nih.gov/42727616/
-- [ ] [高优先级] 星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症血液生物标志物 (pmid-42722112)
-  - https://pubmed.ncbi.nlm.nih.gov/42722112/
+- [ ] [疑似误收] 脊髓性肌萎缩小鼠模型中的皮层投射神经元表现出早期成熟缺陷和选择性退化 (epmc-PPR-PPR1338868)
+  - https://doi.org/10.64898/2026.10.09.758065
+- [ ] [疑似误收] 将多基因风险评分映射到脑细胞：对神经退行性疾病的启示 (epmc-PPR-PPR1338762)
+  - https://doi.org/10.64898/2026.10.08.26365054
+- [ ] [疑似误收] 裸盖菇素辅助治疗用于严重及生命受限疾病中的存在性痛苦：新兴试验证据、获取障碍与个体化资格论证 (epmc-PPR-PPR1338706)
+  - https://doi.org/10.31234/osf.io/jktdh_v1
+- [ ] ALS相关RNA结合蛋白之间可变多聚腺苷酸化变化的部分趋同 (pmid-42858780)
+  - https://pubmed.ncbi.nlm.nih.gov/42858780/
+- [ ] 肌萎缩侧索硬化症的预后判断：关于诊断前因素与功能结局的叙述性综述 (pmid-42858164)
+  - https://pubmed.ncbi.nlm.nih.gov/42858164/
+- [ ] [疑似误收] 术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：一项单中心、前瞻性、队列初步研究 (epmc-PMC-PMC13649454)
+  - https://europepmc.org/article/PMC/PMC13649454
+- [ ] [疑似误收] 夏威夷岛神经科服务可及性调查 (epmc-PMC-PMC13652503)
+  - https://europepmc.org/article/PMC/PMC13652503
+- [ ] [高优先级] 抗HDGFL2隐性蛋白抗体可灵敏反映TDP-43病理及临床疾病特征 (pmid-42854693)
+  - https://pubmed.ncbi.nlm.nih.gov/42854693/
+- [ ] [高优先级] EARLY-ALS：一项关于前驱期肌萎缩侧索硬化的多中心研究 (pmid-42854356)
+  - https://pubmed.ncbi.nlm.nih.gov/42854356/
 - [ ] [高优先级] 肌萎缩侧索硬化中的侧索硬化是上运动神经元远端轴索病（“逆行性死亡”）：一项临床-神经病理学研究 (pmid-42853426)
   - https://pubmed.ncbi.nlm.nih.gov/42853426/
 - [ ] [高优先级] 多种马达蛋白调控TDP-43的轴突顺行运输 (pmid-42853422)
@@ -22,44 +36,30 @@
   - https://pubmed.ncbi.nlm.nih.gov/42853386/
 - [ ] [高优先级] 靶向神经退行性疾病中的蛋白质错误折叠与聚集：小分子靶点识别与验证的挑战 (pmid-42852552)
   - https://pubmed.ncbi.nlm.nih.gov/42852552/
-- [ ] 意大利特定神经系统疾病的长期趋势（1990-2023）：全球疾病负担（GBD）2023数据分析 (pmid-42850460)
+- [ ] 1990-2023年意大利特定神经系统疾病的长期趋势：全球疾病负担（GBD）2023数据分析 (pmid-42850460)
   - https://pubmed.ncbi.nlm.nih.gov/42850460/
-- [ ] [疑似误收] 一例早发性VCP相关额颞叶痴呆：神经影像与遗传分析的启示 (epmc-PMC-PMC13648072)
+- [ ] [高优先级] 一种新型反义寡核苷酸药物治疗CHCHD10相关ALS的N-of-1探索性研究显示早期疗效迹象 (pmid-42735682)
+  - https://pubmed.ncbi.nlm.nih.gov/42735682/
+- [ ] [疑似误收] A Case of Early-Onset VCP-Related 额颞叶痴呆: Insights from Neuroimaging and Genetic Analysis (epmc-PMC-PMC13648072)
   - https://europepmc.org/article/PMC/PMC13648072
-- [ ] [疑似误收] 丘脑定量磁化率成像与磁化率源分离：证据与解释的批判性叙述性综述 (epmc-PMC-PMC13647462)
+- [ ] [疑似误收] 待复核翻译：Thalamic quantitative susceptibility mapping and susceptibility source separation: a critical narrative review of evidence and interpretation (epmc-PMC-PMC13647462)
   - https://europepmc.org/article/PMC/PMC13647462
-- [ ] [疑似误收] 一个细胞器统领全局：增强溶酶体活性作为蛋白质错误折叠神经退行性疾病的治疗策略 (epmc-PMC-PMC13648056)
+- [ ] [疑似误收] 待复核翻译：One organelle to rule them all: enhancement of lysosomal activity as a therapeutic modality for protein misfolding neurodegenerative diseases (epmc-PMC-PMC13648056)
   - https://europepmc.org/article/PMC/PMC13648056
-- [ ] [疑似误收] 守护门控：TBK1在ALS/FTD中的细胞自主与非细胞自主双重机制 (epmc-PMC-PMC13647265)
+- [ ] [疑似误收] 待复核翻译：Minding the gates: dual cell-autonomous and non-cell-autonomous mechanisms of TBK1 in ALS/FTD (epmc-PMC-PMC13647265)
   - https://europepmc.org/article/PMC/PMC13647265
-- [ ] 超声与肌电图在肌萎缩侧索硬化中检测肌束颤动的比较：一项更新的系统综述与荟萃分析 (epmc-PMC-PMC13648126)
+- [ ] Comparison between ultrasound and electromyography for detection of fasciculations in 肌萎缩侧索硬化症: an updated systematic review and meta-analysis Comparação entre ultrassonografia e eletroneuromiografia na detecção de fasciculações na esclerose lateral amiotrófica: revisão sistemática atualizada e meta-análise (epmc-PMC-PMC13648126)
   - https://europepmc.org/article/PMC/PMC13648126
-- [ ] 中药与植物来源生物活性化合物在肌萎缩侧索硬化中的作用：机制证据、转化挑战与治疗机遇 (epmc-PMC-PMC13646943)
+- [ ] Traditional Chinese botanical medicines and plant-derived bioactive compounds in 肌萎缩侧索硬化症: mechanistic evidence, translational challenges, and therapeutic opportunities (epmc-PMC-PMC13646943)
   - https://europepmc.org/article/PMC/PMC13646943
-- [ ] [疑似误收] 单纯疱疹病毒pUL56通过将电压门控离子通道从质膜上移除来消除神经元活动 (epmc-PMC-PMC13644772)
-  - https://europepmc.org/article/PMC/PMC13644772
-- [ ] 基于多模态时频谱表示与双分支CNN的步态神经退行性疾病分类 (pmid-42850785)
-  - https://pubmed.ncbi.nlm.nih.gov/42850785/
-- [ ] Genetic testing and counselling of patients with monogenic 肌萎缩侧索硬化症 in Northern Finland: a retrospective, single-centre study. (pmid-42850388)
-  - https://pubmed.ncbi.nlm.nih.gov/42850388/
-- [ ] [疑似误收] 待复核翻译：Optimal sensor set for MEG-based spontaneous and intended speech decoding toward practical communication (epmc-PMC-PMC13642280)
-  - https://europepmc.org/article/PMC/PMC13642280
-- [ ] [疑似误收] 待复核翻译：Research progress in clinical utilization of H2 as a pleiotropic agent (epmc-PMC-PMC13643697)
-  - https://europepmc.org/article/PMC/PMC13643697
-- [ ] [疑似误收] 待复核翻译：Exploratory associations between APOE-ε4 carrier status and facial neuromuscular activity in cognitively intact adults: a cross-sectional surface electromyography study (epmc-PMC-PMC13642023)
-  - https://europepmc.org/article/PMC/PMC13642023
-- [ ] [疑似误收] 待复核翻译：Exploratory multi-biofluid proteomic profiling of acute exercise responses in plasma, tear fluid, and nasal secretions (epmc-PMC-PMC13642130)
-  - https://europepmc.org/article/PMC/PMC13642130
-- [ ] [疑似误收] 待复核翻译：Lysosomes as chemical and metabolic organizers of central nervous system injury and repair (epmc-PMC-PMC13644168)
-  - https://europepmc.org/article/PMC/PMC13644168
-- [ ] [疑似误收] 待复核翻译：A high-precision synchronization and centroid-based framework for single-trial decoding of perceived natural speech (epmc-PMC-PMC13642302)
-  - https://europepmc.org/article/PMC/PMC13642302
-- [ ] [疑似误收] 待复核翻译：Correction: Feasibility study of noninvasive assessment of emotional state in patients with ALS (epmc-PMC-PMC13643689)
-  - https://europepmc.org/article/PMC/PMC13643689
-- [ ] Sex-dependent DNA methylation in 肌萎缩侧索硬化症 (epmc-PPR-PPR1337117)
-  - https://doi.org/10.64898/2026.09.30.755680
-- [ ] Corrigendum to "The Values and Preferences of People Living With 运动神经元病 (MND): A Systematic Review and Meta-Analysis". (pmid-42851995)
-  - https://pubmed.ncbi.nlm.nih.gov/42851995/
+- [ ] [疑似误收] 待复核翻译：A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues (epmc-PMC-PMC13651884)
+  - https://europepmc.org/article/PMC/PMC13651884
+- [ ] Prevalence of 运动神经元病 and its clinical subtypes in the Valencian Community, Spain: a population-based cross-sectional study using linked electronic health records (epmc-PPR-PPR1338007)
+  - https://doi.org/10.64898/2026.10.07.26364981
+- [ ] Different distribution of PDE4 isoforms in the central nervous system and muscle of the SOD1G93A mouse model of experimental 肌萎缩侧索硬化症 during disease progression (epmc-PPR-PPR1337712)
+  - https://doi.org/10.21203/rs.3.rs-11282050/v1
+- [ ] [疑似误收] 待复核翻译：The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells (epmc-PPR-PPR1337624)
+  - https://doi.org/10.21203/rs.3.rs-11031579/v1
 - [ ] [高优先级] 待复核翻译：Three Intermediate Expanded Access Protocols (EAP) CNMAu8.EAP01, CNMAu8.EAP02, and CNMAu8.EAP06 for ALS (trial-NCT05281484)
   - https://clinicaltrials.gov/study/NCT05281484
 - [ ] [高优先级] Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP 2 (PALADIN2) (trial-NCT07726563)

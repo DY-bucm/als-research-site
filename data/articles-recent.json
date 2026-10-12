@@ -1,33 +1,146 @@
 {
-  "updatedAt": "2026-10-10T01:44:29.690Z",
+  "updatedAt": "2026-10-12T01:18:17.850Z",
   "period": {
     "days": 10,
-    "from": "2026-10-01",
-    "to": "2026-10-10"
+    "from": "2026-10-03",
+    "to": "2026-10-12"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 62,
+  "count": 43,
   "articles": [
     {
-      "id": "pmid-42717683",
-      "pmid": "42717683",
-      "doi": "10.1242/dmm.052963",
-      "title": "Dysregulated microRNA-mRNA networks in SOD1G93A skeletal muscle reveal metabolic impairments in amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a multi-system disease in which skeletal muscle actively contributes to pathology, yet the regulatory circuits that drive muscle dysfunction remain unclear. We examined miRNA-mRNA interactions in the gastrocnemius of hSOD1G93A mice across pre-, early- and late-symptomatic stages, using RNA sequencing, bioinformatics and reverse transcription quantitative PCR (RT-qPCR). Compared with hSOD1WT and non-transgenic control muscle, hSOD1G93A muscle showed mutation-specific transcriptome reprogramming: 48 dysregulated miRNAs and 558 mRNAs at pre-symptomatic, and 64 miRNAs and 685 mRNAs at late-symptomatic, stages. Functional enrichment pinpointed carbohydrate-handling pathways (glycolysis/gluconeogenesis, pentose-phosphate, fructose-mannose metabolism) as the dominant downregulated gene sets. Network analysis revealed clusters in which upregulated miRNAs converged on, and showed inverse expression patterns relative to metabolic transcripts. RT-qPCR confirmed inverse expression of ten candidate miRNAs and 11 metabolic mRNAs, substantiating miRNA-guided repression of glycolytic enzymes and energy-sensing nodes. Collectively, we show that SOD1G93A drives an early, sustained miRNA signature that dampens glycolysis gene expression, which could promote the fast-to-slow fibre-type transition and exacerbate energy deficit in ALS muscle. Targeting these circuits offers a strategy to restore metabolic balance and slow disease progression.",
-      "journal": "Disease models & mechanisms",
+      "id": "pmid-42858780",
+      "pmid": "42858780",
+      "doi": "10.1016/j.neuroscience.2026.10.012",
+      "title": "Partial convergence of alternative polyadenylation changes across ALS-Associated RNA-Binding proteins.",
+      "abstract": "Alternative polyadenylation (APA) regulates transcript 3'-end architecture, stability, localization, and translation. Although RNA-binding protein dysfunction is central to amyotrophic lateral sclerosis (ALS), whether different ALS-associated proteins cause shared APA abnormalities remains unclear. We analyzed poly(A)-site usage after TDP-43 knockdown, TDP-43 K263E expression, FUS knockout, FUS P525L expression, and MATR3 knockout. Using false-discovery rate (FDR) < 0.05 as the primary criterion, evidence varied markedly among datasets. FUS knockout produced the strongest response, with 373 significant events affecting 239 genes. Three events involving two genes remained significant after TDP-43 knockdown, and two events involving one gene remained significant in the TDP-43 K263E dataset. No events survived FDR correction after FUS P525L expression or MATR3 knockout, and no FDR-significant events or genes were shared between datasets. We therefore examined nominal events (unadjusted P < 0.05) as an explicitly exploratory layer. Nominal event overlap was enriched in 7 of 10 pairwise comparisons, and nominal gene overlap in 9 of 10. TDP-43 knockdown and TDP-43 K263E showed the strongest directional agreement: 65 nominal events were shared; 25 were directionally classified in both datasets, of which 23 were concordant. FUS knockout and FUS P525L also showed enriched nominal overlap, but without significant directional concordance or correlated ΔPAU responses. Thus, FUS loss induces a robust FDR-supported APA phenotype, whereas evidence is substantially weaker in other contexts. Cross-dataset similarities occur mainly among exploratory nominal targets and do not consistently extend to direction or magnitude. APA responses therefore show partial, context-dependent convergence rather than a universal defect.",
+      "journal": "Neuroscience",
       "authors": [
-        "Moody L",
-        "Christoforidou E",
-        "Joilin G",
-        "Dilley A",
-        "Hafezparast M"
+        "Ji C"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858780/"
+    },
+    {
+      "id": "pmid-42858164",
+      "pmid": "42858164",
+      "doi": "10.1177/10538135261490936",
+      "title": "Prognostication in Amyotrophic Lateral Sclerosis: A Narrative Review of Pre-Diagnosis and Functional Outcomes.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a very heterogeneous disease, yet some of the most common questions received by physicians in the ALS clinic are \"how much time do I have?\" and \"what can I expect to happen next?\" This line of inquiry is not strictly limited to patients; clinicians also need an idea of prognosis to appropriately plan for treatment decisions and prepare the patient and caregiver for future care needs. This narrative review synthesizes current evidence on prognostic indicators in ALS, organized across three temporal phases: factors preceding diagnosis, factors present at diagnosis, and factors emerging after diagnosis. Pre-diagnosis predictors include age at onset, sex, socioeconomic status, genetic background, premorbid Body Mass Index (BMI) and nutritional status, and comorbid disease. At diagnosis, clinical phenotype and site of onset, diagnostic delay, baseline Amyotrophic Lateral Sclerosis Functional Rating Score-Revised (ALSFRS-R) and forced vital capacity, cognitive involvement, fluid biomarkers, and electrophysiologic measures carry prognostic weight. Post-diagnosis, the trajectory is refined by the rate of ALSFRS-R decline, serial respiratory measures, and weight loss, and is actively modified by clinical interventions including noninvasive ventilation, enteral nutrition, disease-modifying therapy, and multidisciplinary care. Notably, quality of life does not track with physical decline, consistent with the disability paradox described in other severe neurological conditions. For neurorehabilitation, these indicators support a shift from reactive to anticipatory practice: timing equipment provision, communication support, respiratory intervention, and goals-of-care discussions to the predicted trajectory rather than to established deficit. Refinement of prognostic models may also improve stratification in ALS clinical trials.",
+      "journal": "NeuroRehabilitation",
+      "authors": [
+        "Vocelle A",
+        "Ensrud E",
+        "Howard IM"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858164/"
+    },
+    {
+      "id": "pmid-42854693",
+      "pmid": "42854693",
+      "doi": "10.1016/j.xcrm.2026.103105",
+      "title": "Anti-HDGFL2 cryptic protein antibodies provide a sensitive readout of TDP-43 pathology and clinical disease features.",
+      "abstract": "TAR DNA-binding protein (TDP-43) cytoplasmic aggregates and nuclear depletion contribute to TDP-43 dysfunction in frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP) and forms of motor neuron disease (MND), particularly amyotrophic lateral sclerosis (ALS). TDP-43 regulates alternative splicing, but its dysfunction can engender the inclusion of cryptic exons (CEs) during splicing. Transcripts harboring an in-frame CE can generate de novo proteins. One example is the CE variant of hepatoma-derived growth factor-like protein 2 (HDGFL2-CE). To understand HDGFL2-CE as a readout of TDP-43 dysfunction, and its spatial relationship with TDP-43 pathology, we generate anti-HDGFL2-CE polyclonal and monoclonal antibodies and develop sensitive HDGFL2-CE immunoassays. With these tools, we observe that HDGFL2-CE accumulates in neurons with TDP-43 pathology, and that higher frontal cortex HDGFL2-CE in FTLD-TDP and FTLD-TDP/MND associates with greater pathological TDP-43, earlier age of onset, and shorter survival, supporting HDGFL2-CE as a marker tightly linked to TDP-43 dysfunction and clinical disease features.",
+      "journal": "Cell reports. Medicine",
+      "authors": [
+        "Citrano KJ",
+        "Maheswari Jawahar VB",
+        "Reeves MM",
+        "Petrucelli L",
+        "Carlomagno Y",
+        "Yue M",
+        "Alaiz Noya J",
+        "Daughrity LM",
+        "Baena Tomé R",
+        "Jansen-West K",
+        "Rawlinson B",
+        "DeTure M",
+        "Engelberg-Cook E",
+        "Singh A",
+        "Graff-Radford NR",
+        "Day GS",
+        "Boeve BF",
+        "Boxer AL",
+        "Knopman DS",
+        "Josephs KA",
+        "Petersen RC",
+        "Oskarsson B",
+        "Ashton NJ",
+        "Dickson DW",
+        "Gendron TF",
+        "Prudencio M",
+        "Zhang YJ",
+        "Petrucelli L"
       ],
       "publicationTypes": [
         "Journal Article"
       ],
       "publishedAt": "2026-10-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717683/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854693/"
+    },
+    {
+      "id": "pmid-42854356",
+      "pmid": "42854356",
+      "doi": "10.1016/j.ebiom.2026.106505",
+      "title": "EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis.",
+      "abstract": "Neurodegenerative diseases often feature a prolonged phase of subtle changes preceding diagnosis. In amyotrophic lateral sclerosis (ALS), defining this prodromal period is critical for identifying early disease features and intervention windows. In this case-control study, 475 patients with ALS and 285 controls from 20 centres in Germany and Switzerland completed a digital questionnaire on prodromal symptoms and health-related factors. Logistic regression included subgroup analyses by sex and clinical strata. Patients with ALS reported a higher burden of prodromal complaints (OR 7.50, 95% CI 4.27-13.17; P < 0.001), particularly neuro-motor, sensory, and pain-related symptoms. Before symptom onset, patients consulted neurologists more often (OR 1.26, 1.10-1.44; P < 0.001) and females more often received speech therapy (OR 2.35, 1.05-5.28; P = 0.038). Prodromal herniated discs were more common in males (OR 2.21, 1.04-4.68; P = 0.038) and spinal-onset patients (OR 2.14, 1.25-3.67; P = 0.006). Patients more often had lower secondary education (OR 1.93, 1.24-3.01; P = 0.004), physically demanding occupations (OR 2.21, 1.42-3.43; P < 0.001), and higher consumption habits (P < 0.005). Weight trajectories differed by sex (P = 0.009), with pre-onset weight loss in male patients (P < 0.001). Patients with ALS retrospectively reported subtle motor impairment before recognised symptom onset, alongside altered healthcare use and sex- and subgroup-specific patterns. These findings suggest that sporadic ALS may be preceded by a prodromal period and identify mild motor impairment as a potential marker, pending prospective validation. DGM e. V.",
+      "journal": "EBioMedicine",
+      "authors": [
+        "Cordts I",
+        "Galhoz A",
+        "Tzeplaeff L",
+        "Gründel A",
+        "Kohlmayer F",
+        "Schwersenz A",
+        "Marschalkowski I",
+        "Bjelica B",
+        "Panitz V",
+        "Schulze C",
+        "Svačina M",
+        "Rau P",
+        "Dorigan AC",
+        "Deschauer M",
+        "Witzel S",
+        "Brenner D",
+        "Weishaupt JH",
+        "Bublitz SK",
+        "Lorenzl S",
+        "Hermann A",
+        "Hagenacker T",
+        "Wolf J",
+        "Regensburger M",
+        "Lehmann HC",
+        "Dohrn MF",
+        "Dorst J",
+        "Guenther R",
+        "Maier A",
+        "Meyer T",
+        "Zeller D",
+        "Neuwirth C",
+        "Weber M",
+        "Koch JC",
+        "Boentert M",
+        "Weiler M",
+        "Petri S",
+        "Weyen U",
+        "Grehl T",
+        "Menden MP",
+        "Lingor P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854356/"
     },
     {
       "id": "pmid-42853426",
@@ -1035,482 +1148,6 @@
       ],
       "publishedAt": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42831156/"
-    },
-    {
-      "id": "pmid-42826598",
-      "pmid": "42826598",
-      "doi": "10.1016/j.neubiorev.2026.107005",
-      "title": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
-      "abstract": "Acidic cannabinoids, including tetrahydrocannabinolic acid (THCA), cannabidiolic acid (CBDA), cannabigerolic acid (CBGA), and related biosynthetic precursors, represent the predominant phytocannabinoid forms naturally produced by Cannabis sativa. Long considered pharmacologically inactive intermediates, these compounds are now increasingly recognized as bioactive molecules with potential therapeutic relevance for brain disorders. Compared with their decarboxylated counterparts, acidic cannabinoids exhibit distinct physicochemical, pharmacokinetic, and pharmacodynamic properties that may confer reduced psychotropic liability together with unique neurobiological effects. Emerging preclinical evidence indicates that acidic cannabinoids modulate multiple processes implicated in neurological and psychiatric disorders, including serotonergic and endocannabinoid signaling, neuroinflammation, oxidative stress, mitochondrial dysfunction, calcium dyshomeostasis, and synaptic transmission. In this review, we critically examine current knowledge regarding acidic cannabinoids in the context of brain disorders. We first summarize their biosynthesis, chemical stability, pharmacokinetic characteristics, and pharmacological differences from neutral cannabinoids. We then examine preclinical evidence supporting their potential therapeutic effects in epilepsy, anxiety, depression, psychosis-related conditions, and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. We also discuss how artificial intelligence and computational approaches may support target identification, formulation optimization, pharmacokinetic modeling, and the development of personalized cannabinoid-based interventions. Finally, we highlight key methodological and translational challenges limiting the field and outline priorities for future research. Overall, acidic cannabinoids emerge as promising but still underexplored multitarget compounds with potential relevance for the treatment of brain disorders.",
-      "journal": "Neuroscience and biobehavioral reviews",
-      "authors": [
-        "Rava A",
-        "Di Trapano M",
-        "Tse C",
-        "Ji L",
-        "Bid HK",
-        "Trezza V"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826598/"
-    },
-    {
-      "id": "pmid-42825562",
-      "pmid": "42825562",
-      "doi": "10.1212/cont.0000000000001753",
-      "title": "Amyotrophic Lateral Sclerosis.",
-      "abstract": "This article describes the nerve loss underlying amyotrophic lateral sclerosis, its clinical manifestations, examination findings leading to the diagnosis, the expanding role of genetics, and available treatment and patient management. The cause of neuron death in patients with amyotrophic lateral sclerosis is not known, but many genes are strongly linked to the disease, in both patients with a family history and those with no history. A multistep pathologic process helps to explain the onset of symptoms later in life, even in patients with associated genes. Posttranslational and epigenetic changes are also important factors. Current clinical trials are based on putative pathologic mechanisms, and some newer therapies are gene-based. Amyotrophic lateral sclerosis has distinctive features and can be diagnosed largely from the history and examination, and true mimics are rare. While the cause of neuronal death is not known, pathogenic and risk factor gene variations are present in a number of patients, and posttranscriptional and epigenetic changes are likely major causative factors. Environmental factors likely contribute, but specific avoidable factors have not been identified. Drugs to slow the progress of the disease are currently limited, but trials for all patients with amyotrophic lateral sclerosis continue, including a focus on genetic factors. Patient management is optimized in multidisciplinary amyotrophic lateral sclerosis clinics, and interventions for nutrition with gastric feeding tubes and respiratory insufficiency by noninvasive ventilation enhance patient comfort.",
-      "journal": "Continuum (Minneapolis, Minn.)",
-      "authors": [
-        "Bromberg MB"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review",
-        "Case Reports"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42825562/"
-    },
-    {
-      "id": "pmid-42825398",
-      "pmid": "42825398",
-      "doi": "10.1002/ana.78382",
-      "title": "Associations Between Prediagnosis Plasma Neurofilament Light Polypeptide and Amyotrophic Lateral Sclerosis Risk in the Danish EPIC Cohort.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease with a rapid time from symptoms onset to diagnosis. Elevated neurofilament light polypeptide (NfL) is well-established in symptomatic ALS and up to 5 years prediagnosis, but earlier timeframes remain understudied. We aimed to assess plasma NfL levels up to 23 years before ALS diagnosis and the relation to ALS risk. We conducted a nested matched case-control study within the Danish EPIC cohort (baseline 1993-1997) including 166 ALS cases (diagnosed 1997-2017) and 332 controls matched on birth year and sex. Plasma samples collected 0.4 to 23.2 years (median 14.1 years) prediagnosis were analyzed for NfL using Olink Target 96. Odds ratios were estimated using conditional logistic regression. Discriminatory performance was evaluated using receiver operating characteristic curves. NfL levels were elevated in ALS cases relative to controls up to 14.6 years before diagnosis. Among those with blood samples collected <5, 5 to 14.6, and >14.6 years before diagnosis, the odds ratios (95% CI) for ALS per standard deviation increase in the normalized protein expression value of NfL were 3.8 (1.4-10.3), 1.7 (1.2-2.3), and 1.3 (0.9-1.7), respectively. The areas under the curve for ALS discrimination by NfL among those with blood collected <5 and 5-14.6 years before diagnosis were 0.78 and 0.63, respectively. Plasma NfL elevation may occur significantly earlier than previously reported, indicating a much longer ALS prodrome. Assuming other biomarker changes may also occur earlier, this raises the possibility of identifying at-risk individuals early that could benefit epidemiologic analyses, clinical trials, and prevention efforts. ANN NEUROL 2026.",
-      "journal": "Annals of neurology",
-      "authors": [
-        "Davias A",
-        "Hansen J",
-        "Akdis CA",
-        "Weisskopf MG"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42825398/"
-    },
-    {
-      "id": "pmid-42826718",
-      "pmid": "42826718",
-      "doi": "10.1016/j.xcrm.2026.103104",
-      "title": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
-      "abstract": "Twenty years after the discovery of induced pluripotent stem cells, the field has progressed from patient-specific disease modeling toward cell-based therapies for neurodegenerative disorders. Parkinson's disease has emerged as the leading model for neuronal replacement, whereas Huntington's disease, Alzheimer's disease, and amyotrophic lateral sclerosis require distinct combinations of circuit reconstruction, cellular support, immune modulation, and engineered therapeutic delivery. We discuss key determinants of clinical translation, including cell source, product identity, graft composition, graft-host interactions, manufacturing reproducibility, genomic integrity, and clinical evaluation. We propose that the interval between cell transplantation and long-term engraftment constitutes a biological \"black box\" in which graft fate and therapeutic outcome are determined. As regenerative medicine enters its third decade, future progress will depend not only on generating therapeutic cells but also on elucidating and engineering the biological processes that determine their fate after transplantation, marking a conceptual transition from stem cell biology toward transplantation biology.",
-      "journal": "Cell reports. Medicine",
-      "authors": [
-        "Cha Y",
-        "Kim KS"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/"
-    },
-    {
-      "id": "pmid-42843091",
-      "pmid": "42843091",
-      "doi": "10.1016/j.compbiolchem.2026.109462",
-      "title": "Gene regulatory co-expression networks decipher potential lncRNA-miRNA-mRNA interactions modulating transcription regulation in neurodegeneration.",
-      "abstract": "Neurodegenerative diseases are complex disorders characterised by progressive neuronal loss and widespread transcriptomic dysregulation. However, understanding the molecular interactions among coding and non-coding RNAs, especially lncRNAs and miRNAs, contributing to disease progression remains elusive. In this study, RNA-Seq datasets from disease-relevant neuronal populations and different brain tissues representing Alzheimer's disease (AD), Parkinson's disease (PD) and Amyotrophic Lateral Sclerosis (ALS) are analysed using an integrative network-based framework. Differential expression analysis and weighted gene co-expression network analysis (WGCNA) are combined to identify disease-associated modules and prioritise highly connected hub genes. They are subsequently integrated with curated RNA interaction databases to construct candidate lncRNA-miRNA-mRNA regulatory networks. Functional enrichment and UTR variant analyses are further incorporated to connect the regulatory network framework with biological processes and potential sequence variations. The novelty of the present study lies in the systematic integration of transcriptomic co-expression, post-transcriptional regulation, functional and sequence-level analyses within a single framework. This framework enables the identification of disease-specific and shared regulatory features, and links the candidate regulatory interactions with potential UTR sequence alterations. Across eight tissue-specific samples, 163 hub genes and 4869 candidate lncRNA-miRNA-mRNA interactions are identified. Additionally, we also identify 414 UTR variants associated with the hub genes. Pathways associated with hub genes including axonogenesis, synaptic organization, intracellular transport and RNA regulatory mechanisms are commonly found to be enriched in AD, PD and ALS. These findings provide a quantitative resource for prioritising regulatory interactions between candidate hub genes and associated UTR variants for future experimental validation.",
-      "journal": "Computational biology and chemistry",
-      "authors": [
-        "Venkatesan A",
-        "Sinha P",
-        "Basak J",
-        "Bahadur RP"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843091/"
-    },
-    {
-      "id": "pmid-42826761",
-      "pmid": "42826761",
-      "doi": "10.1016/j.neuroscience.2026.10.002",
-      "title": "Mdivi-1 regulates mitochondrial fission and function via the CaMK2/Drp1 pathway in amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease involving progressive motor neuron loss. Given the high energy reliance of motor neurons, mitochondrial dysfunction especially excessive fission critically contributes to disease pathogenesis. Mitochondrial division inhibitor-1 (Mdivi-1), an inhibitor of the fission protein Drp1, has shown neuroprotective potential, but its mechanism of action on mitochondrial quality control in ALS remains unclear. Here, we examined the effects of Mdivi-1 on mitochondrial dysfunction and cell injury in NSC34 cells expressing mutant SOD1^G93A and in SOD1^G93A transgenic mice. ALS models exhibited increased reactive oxygen species accumulation, reduced mitochondrial content, loss of mitochondrial membrane potential, enhanced apoptotic signaling, and increased phosphorylation of CaMK2 and Drp1. Mdivi-1 treatment improved cell viability, reduced oxidative stress, restored mitochondrial integrity and membrane potential, and suppressed apoptosis. In addition, Mdivi-1 decreased Drp1 phosphorylation, whereas co-treatment with the CaMK2 activator DCP-LA partially reversed these effects. Furthermore, direct inhibition of CaMK2 with KN93 reduced CaMK2 and Drp1 phosphorylation, providing additional evidence that CaMK2 regulates Drp1 activation in SOD1^G93A cells. These findings indicate that pharmacological modulation of the CaMK2/Drp1 pathway can attenuate aberrant mitochondrial fission and associated cellular dysfunction in ALS models.",
-      "journal": "Neuroscience",
-      "authors": [
-        "Shai Y",
-        "Alam M",
-        "Dong X",
-        "Zhang Y",
-        "Hu Y",
-        "He Z",
-        "Feng J",
-        "Chen Y",
-        "Zhou Z",
-        "Jiang H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826761/"
-    },
-    {
-      "id": "pmid-42826720",
-      "pmid": "42826720",
-      "doi": "10.1016/j.devcel.2026.09.001",
-      "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
-      "abstract": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
-      "journal": "Developmental cell",
-      "authors": [
-        "Li X",
-        "Cao Z",
-        "Jiang O",
-        "Wu S",
-        "Zhou B",
-        "Feng Y",
-        "Chen X",
-        "Wang J",
-        "Zhou J",
-        "Yan R",
-        "Chen M",
-        "Wang S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826720/"
-    },
-    {
-      "id": "pmid-42850529",
-      "pmid": "42850529",
-      "doi": "10.1007/s15006-026-6225-z",
-      "title": "[Amyotrophic lateral sclerosis: Specific considerations in palliative care].",
-      "abstract": "",
-      "journal": "MMW Fortschritte der Medizin",
-      "authors": [
-        "Reilich P",
-        "Schöberl F"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42850529/"
-    },
-    {
-      "id": "pmid-42817823",
-      "pmid": "42817823",
-      "doi": "10.1093/g3journal/jkag281",
-      "title": "A genetic screen for suppressors of neuron degeneration in a C. elegans sod-1G85R model of Amyotrophic Lateral Sclerosis.",
-      "abstract": "Genetic variants in superoxide dismutase 1 (SOD1) cause the progressive neurodegenerative disease Amyotrophic Lateral Sclerosis (ALS). Treatments for this disease are limited, and the unique vulnerability of cholinergic and glutamatergic motor neurons to degeneration seen in ALS patients is not clearly understood. Identifying genetic modifiers of neurodegeneration can provide insight into the selective vulnerability of motor neurons in ALS and may accelerate identification of novel therapeutic targets. Here, we describe a forward genetic screen for suppressors of the stress-induced glutamatergic neuron degeneration in a single-copy C. elegans model of sod-1G85R. Used two different screening strategies, we identified 53 suppressor lines that decreased glutamatergic neuron degeneration to varying degrees. To rapidly identify suppressor genes, we sequenced suppressor lines and identified candidate suppressor genes based on frequency of de novo exonic mutations and previously published work. Two candidates were tested and excluded as suppressor genes: erh-1 and imph-1. For a subset of unidentified suppressor lines, we determined if cholinergic neurodegeneration was also suppressed; roughly one-third of suppressor lines showed no corresponding cholinergic neuron rescue, suggesting that mechanisms involved in cholinergic and glutamatergic degeneration are at least partially divergent. This study outlines the first unbiased genetic screen in a knock-in model of SOD1 neurodegeneration, describes a cohort of candidate suppressor lines with decreased SOD1-dependent neurodegeneration, excludes two candidates and discusses approaches for suppressor mutation isolation and gene identification.",
-      "journal": "G3 (Bethesda, Md.)",
-      "authors": [
-        "Yanagi KS",
-        "Lin-Moore AT",
-        "Gordon NC",
-        "Lins JJ",
-        "Coyne EM",
-        "Meininger KL",
-        "Moy SL",
-        "Stinson LA",
-        "Walsh MB",
-        "Gallati M",
-        "Mahapatra A",
-        "Aderogba R",
-        "Jaworski A",
-        "Hart AC"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817823/"
-    },
-    {
-      "id": "pmid-42717824",
-      "pmid": "42717824",
-      "doi": "10.1002/jcsm.70378",
-      "title": "Appendicular Skeletal Muscle Mass and Sarcopenia as Prognostic Markers in Amyotrophic Lateral Sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is characterized by progressive muscle wasting and functional decline. Prognostic assessment in clinical practice relies largely on functional scales and traditional anthropometric measures. The prognostic relevance of muscle mass, muscle strength and sarcopenia in ALS remains incompletely defined. This study evaluated the prognostic value of muscle mass, muscle function and sarcopenia in relation to mortality in patients with ALS. A prospective observational cohort study was conducted at the ALS Multidisciplinary Unit (UMELA), San Cecilio University Hospital in Granada. Sarcopenia was defined according to the European Working Group of Sarcopenia in Older People 2 (EWGSOP2) and malnutrition using the Global Leadership Initiative on Malnutrition (GLIM) criteria. Muscle status was assessed using bioelectrical impedance vector analysis (BIVA)-derived parameters, muscle ultrasound, handgrip strength (HGS) and physical performance (SPPB). Differences between survivors and nonsurvivors were analysed and logistic regression explored potential predictors of mortality. Receiver operating characteristic (ROC) curves were constructed for significant predictors. Survival was analysed using the Kaplan-Meier and Cox proportional hazards regression. A total of 42 patients with ALS were included (mean age 66.1 ± 10.3 years, and 15 (36%) were female). During follow-up (mean survival 21.1 ± 10.5 months), 45% died. Survivors showed higher appendicular skeletal muscle mass index (ASMI) (6.94 ± 0.91 vs. 5.80 ± 0.98 kg/m 2 , p = 0.001), body cellular mass index (BCMI) (8.92 ± 1.59 vs. 7.64 ± 1.87 kg/m 2 , p = 0.034) and HGS (25.45 ± 11.11 vs. 17.67 ± 8.83 kg, p = 0.032), while BMI did not differ (p = 0.540). Sarcopenia was more prevalent in nonsurvivors (27.8% vs. 4.8%, p = 0.047). In multivariable analysis, ASMI remained associated with mortality after adjustment for age, onset type and ALSFRS-R (OR 0.33, 95% CI 0.11-0.81, p = 0.026), but this association was not statistically significant in the fully adjusted model including disease duration (p = 0.093). ASMI showed the highest discriminative ability (AUC 0.81), compared to BCMI (AUC 0.70) and HGS (AUC 0.71). ROC-derived cut-offs (ASMI 6.74 kg/m 2 ; BCMI 7.2 kg/m 2 ; HGS 21 kg) stratified survival. Higher ASMI (HR 7.53, p = 0.008), BCMI (HR 4.18, p = 0.005) and HGS (HR 4.02, p = 0.019) were associated with longer survival, whereas sarcopenia increased mortality risk (HR 15.53, p < 0.001). Beyond BMI, skeletal muscle mass-particularly ASMI-was associated with survival in ALS. Sarcopenia identifies a subgroup of patients at particularly high risk of death. Sarcopenia assessment may improve prognostic stratification and support clinical management in ALS.",
-      "journal": "Journal of cachexia, sarcopenia and muscle",
-      "authors": [
-        "Zarco-Martín MT",
-        "Andreo-López MC",
-        "Yagui-Beltrán MS",
-        "Fernández-Soto ML"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717824/"
-    },
-    {
-      "id": "pmid-42595782",
-      "pmid": "42595782",
-      "doi": "10.1038/s41418-026-01701-0",
-      "title": "Correction: The proapoptotic BCL-2 family member BIM mediates motoneuron loss in a model of amyotrophic lateral sclerosis.",
-      "abstract": "",
-      "journal": "Cell death and differentiation",
-      "authors": [
-        "Hetz C",
-        "Thielen P",
-        "Fisher J",
-        "Pasinelli P",
-        "Brown RH",
-        "Korsmeyer S",
-        "Glimcher L"
-      ],
-      "publicationTypes": [
-        "Published Erratum"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42595782/"
-    },
-    {
-      "id": "pmid-42760307",
-      "pmid": "42760307",
-      "doi": "10.1038/d41586-026-02945-z",
-      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment.",
-      "abstract": "",
-      "journal": "Nature",
-      "authors": [
-        "Fieldhouse R"
-      ],
-      "publicationTypes": [
-        "News"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760307/"
-    },
-    {
-      "id": "pmid-42716045",
-      "pmid": "42716045",
-      "doi": "10.1016/S1474-4422(26)00246-2",
-      "title": "Fluid biomarkers in the evolving care landscape of Alzheimer's disease and related disorders.",
-      "abstract": "Fluid biomarkers for Alzheimer's disease have advanced rapidly during the past several years driven by breakthroughs including development of ultrasensitive and multiplexing technologies and high specificity antibodies. Blood-based biomarkers, such as neurofilament light for frontotemporal dementia and amyotrophic lateral sclerosis, and phosphorylated tau 217 for the diagnosis of Alzheimer's disease, are now being implemented in clinical practice, which is particularly timely because of the increasing clinical availability of amyloid-targeting treatments in Alzheimer's disease. Multiple fluid biomarkers are needed to capture the complexity of disease mechanisms for precise diagnosis and to measure the diverse pathologies that lead to dementia, such as vascular, α-synuclein, and TDP-43 pathologies. Moreover, fluid biomarkers can aid in capturing heterogeneity in treatment course between patients, probably due to copathologies or key intermediates, including microglia and astrocyte dysregulation. Increased focus on biomarker-pathology relationships in experimental models will likely accelerate biomarker development and further the understanding of their precise substrates. Future clinical implementation of biomarkers to capture the full complexity of pathologies will likely be facilitated by the expansion of diagnostic methods, development of point of care technologies, and remote sampling approaches.",
-      "journal": "The Lancet. Neurology",
-      "authors": [
-        "Teunissen CE",
-        "Vermunt L",
-        "Barthélemy NR",
-        "Benzinger TLS",
-        "Graff-Radford J",
-        "Verberk IMW",
-        "Zetterberg H",
-        "Schindler SE",
-        "Jack CR"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716045/"
-    },
-    {
-      "id": "pmid-42442754",
-      "pmid": "42442754",
-      "doi": "10.1097/MCG.0000000000002422",
-      "title": "Gastrointestinal Diagnoses and Symptoms in Medicare Patients With Neuropsychiatric Diseases.",
-      "abstract": "Many patients with psychiatric and neurological diseases suffer from gastrointestinal symptoms. Our study aimed to analyze the frequency of gastrointestinal disease in patients with underlying neuropsychiatric diagnoses. The study utilized the 2018 Inpatient Standard Analytic File of the Centers for Medicare and Medicaid Services (CMS), which contains the electronic health records of 6,462,321 unique patients. The concurrence of 2 diagnoses was assessed by calculating odds ratios (OR) with their 95% CIs, adjusted for the confounding influences of demographic characteristics (age, sex, ethnicity). Dementia was most strongly associated with dysphagia (2.85, 2.83 to 2.88). Schizophrenia was associated with functional GI disorders (1.62, 1.60 to 1.64), constipation (1.67, 1.65 to 1.69), and dyspepsia (2.02, 1.88 to 2.17). Bipolar disorder was most significantly associated with irritable bowel syndrome (1.83, 1.79 to 1.87) and dyspepsia (1.88, 1.77 to 2.01). Depression was significantly associated with all types of upper and lower GI symptoms with significant ORs ranging from 1.33 to 2.14. Amyotrophic lateral sclerosis was strongly associated with complaints of functional GI disorder (2.32, 2.18 to 2.46), constipation (2.37, 2.23 to 2.51), dysphagia (11.77, 11.19 to 12.39), flatulence and bloating (2.75, 2.14 to 3.54). Parkinson disease was mostly associated with constipation (1.79, 1.77 to 1.82) and dysphagia (2.96, 2.92 to 3.00). In Alzheimer disease, only symptoms of dysphagia (2.15, 2.12 to 2.17) stood out. Multiple sclerosis was associated with most GI diagnoses (OR ranging from 1.32 to 2.06), except for abdominal pain and reflux symptoms. Concurrence of gastrointestinal and neuropsychiatric diagnoses is common. Caring for patients with neuropsychiatric diseases, physicians need to be aware of and proactively search for the presence of concurrent gastrointestinal disease.",
-      "journal": "Journal of clinical gastroenterology",
-      "authors": [
-        "Sonnenberg A",
-        "Bakis LK",
-        "Kohen R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442754/"
-    },
-    {
-      "id": "pmid-42823490",
-      "pmid": "42823490",
-      "doi": "10.1038/s41431-026-02249-w",
-      "title": "Insertion or deletion variants in TAF15 exon 15 are genetic factors impacting the prognosis of amyotrophic lateral sclerosis in a Japanese cohort.",
-      "abstract": "The influence of genetic factors on the prognosis of amyotrophic lateral sclerosis (ALS) has attracted considerable attention, with numerous studies exploring this relationship in clinically diagnosed patients. The present study attempted to clarify the precise impact of genetic factors on prognosis in patients with pathologically confirmed sporadic ALS. We conducted exome analysis on 137 consecutively autopsied patients with sporadic ALS exhibiting TDP-43 pathology, screening for non-synonymous or splice-site rare variants (RVs) in ALS-related genes. The impact of these variants on ALS prognosis was subsequently assessed. The exome analysis identified 31 RVs in 27 of the 137 patients, including TAF15 exon 15 insertion/deletion mutations (TAF15-15 indels) in 9 patients. Patients harboring RVs had significantly shorter survival times (median 18.0 months) than those without RVs (28.5 months), as determined by log-rank test (p = 0.02). Notably, the 9 cases with TAF15-15 indels demonstrated a significantly poorer outcome (15.0 months, p = 3e-06). Lattice Simulation of Sticker-Spacer Interactions (LASSI) simulations revealed stronger negative sticker-sticker interactions, and a tendency toward lower saturation concentration and higher dense-phase concentration in TAF15-15 indel proteins, suggesting enhanced condensation. The present analysis of pathologically diagnosed ALS patients has yielded genetic factors that could potentially aid more accurate diagnosis and prognostication. The frequent identification of TAF15-15 indels among ALS cases, and their association with significantly poorer outcome, suggests that this type of mutation could be prognostically significant in ALS. Furthermore, the mechanism by which TAF15-15 indels influence the course of ALS could be a promising target for future treatments.",
-      "journal": "European journal of human genetics : EJHG",
-      "authors": [
-        "Hatano Y",
-        "Ishihara T",
-        "Tada M",
-        "Li Y",
-        "Hirokawa S",
-        "Uemura M",
-        "Ando S",
-        "Yokoseki A",
-        "Kakita A",
-        "Onodera O"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823490/"
-    },
-    {
-      "id": "pmid-42821610",
-      "pmid": "42821610",
-      "doi": "10.1371/journal.pone.0349281",
-      "title": "Near-optimal P300 speller performance using large language models: A multi-model analysis with performance bounds.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS), a progressive neurodegenerative disease, severely impairs communication, requiring assistive technologies that restore interaction. The P300 speller brain-computer interface (BCI) enables communication by translating EEG responses into text; however, its practical adoption is limited by slow typing speed and the need for subject-specific calibration. Recent work has demonstrated that large language models (LLMs), such as GPT-2, can significantly improve the performance of the P300 speller by predicting words. However, it remains unclear whether these gains are model-specific or represent a broader trend across language models. Furthermore, the framework-specific performance bounds of LLM-assisted P300 spellers have not been systematically characterized within a unified decoding framework. In this study, we address these gaps through a systematic multi-model theoretical analysis framework. We evaluate a wide range of language models and introduce an idealized LLM to establish upper bounds on achievable performance. In addition, we incorporate cross-subject classifier training to reduce calibration requirements and assess generalization across subjects. Using extensive simulations on EEG data from 78 subjects, we demonstrate that the evaluated models consistently achieve substantial improvements in typing speed, with gains of up to ~45% (within-subject training) and ~75% (across-subject training) over conventional approaches. More importantly, we show that several high-performing models, despite architectural differences, operate within 5% of the theoretical performance bound, indicating diminishing returns from further model scaling. These improvements generalize across both within-subject and across-subject classifiers. Our results suggest that LLM-assisted P300 spellers are approaching oracle-based upper bounds within the considered decoding framework, shifting the primary bottleneck from language modeling to neural signal decoding. This work provides both a practical framework for improving BCI communication and a theoretical perspective on its achievable limits.",
-      "journal": "PloS one",
-      "authors": [
-        "Parthasarathy N",
-        "Soetedjo J",
-        "Panchavati S",
-        "Parthasarathy N",
-        "Lee D",
-        "Arnold C",
-        "Pouratian N",
-        "Speier W"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42821610/"
-    },
-    {
-      "id": "pmid-42822505",
-      "pmid": "42822505",
-      "doi": "10.1080/13554794.2026.2735595",
-      "title": "Progressive anterior opercular syndrome (Foix-Chavany-Marie syndrome) in neurodegenerative disease: a case series.",
-      "abstract": "Anterior opercular syndrome (Foix-Chavany-Marie syndrome) is characterized by severe dysarthria, impaired voluntary orofacial and pharyngolingual movements, and preserved automatic or emotional movements (automatic-voluntary dissociation). Although classically associated with stroke, its progressive neurodegenerative form is rare and poorly understood. We report two patients to characterize its clinical and neuroanatomical features. The cases were identified retrospectively through review of clinical and neuroimaging records from behavioral neurology centers in the United States and Japan. Both had severe dysarthria and oral-phase dysphagia. Voluntary orofacial movements were markedly impaired, whereas reflexive movements, including coughing and yawning, and emotional movements, including smiling in response to humor, were preserved. Coordination, posture, and gait were initially preserved. Both patients showed predominantly upper motor neuron features without lower motor neuron signs; limb and cranial electromyography was normal in the patient tested. Neuroimaging showed bilateral frontal atrophy and hypometabolism or hypoperfusion involving the anterior operculum. These findings suggest that progressive anterior opercular syndrome may emerge when bilateral opercular regions are affected by neurodegeneration. Recognition of this syndrome may facilitate anticipatory management of dysarthria, dysphagia, and nutritional risk and broaden awareness of speech and orofacial motor syndromes in frontotemporal dementia and related phenotypes.",
-      "journal": "Neurocase",
-      "authors": [
-        "Watanabe H",
-        "Mori E",
-        "Josephs KA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42822505/"
-    },
-    {
-      "id": "pmid-42817633",
-      "pmid": "42817633",
-      "doi": "10.1098/rstb.2025.0273",
-      "title": "Proteostasis (in)action: the role of co-pathologies in neurodegenerative disease.",
-      "abstract": "Clinically distinct neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS), share in common progressive neuronal dysfunction and cell death associated with the accumulation of misfolded proteins. Central to these processes are the cellular and organismal proteostasis networks responsible for maintaining protein homeostasis through coordinated actions of molecular chaperones, the ubiquitin-proteasome system and autophagy-lysosomal pathways. As a consequence of ageing, genetic modifications and other disease-specific conditions, the proteostatic network becomes compromised, leading to the accumulation of toxic protein aggregates that disrupt neuronal function and lead to neurodegeneration. Specific misfolded proteins are associated with each neurodegenerative disease (i.e. α-synuclein in PD, amyloid-β/tau in AD and TAR DNA-binding protein 43/SOD in ALS). However, increasing evidence implicates more complex interactions of co-pathologies across these disorders, as Lewy bodies are common in AD brains and Alzheimer pathology is present in the majority of PD autopsy cases. These observations are consistent with the idea that disruption of proteostasis networks by one aggregation-prone protein could result in misfolding and aggregation of other neurodegeneration-related species. This review will examine the characteristics and consequences of co-pathologies in neurodegenerative disorders. Additionally, the review will outline emerging therapeutic strategies targeted at restoring proteostasis and mitigating the effects of co-pathological processes associated with neurodegenerative diseases. This article is part of the Theo Murphy meeting issue 'ProteostaSys: a systems view of proteostasis'.",
-      "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
-      "authors": [
-        "Morley JF"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817633/"
-    },
-    {
-      "id": "pmid-42839768",
-      "pmid": "42839768",
-      "doi": "10.1111/ene.70778",
-      "title": "Recalibration of the Frontal Behavioural Inventory Cut-Off for Behavioural Screening in Amyotrophic Lateral Sclerosis.",
-      "abstract": "The Frontal Behavioural Inventory (FBI) was validated in behavioural-variant frontotemporal dementia (bvFTD) with a cut-off of 25. We tested whether this threshold is appropriate in amyotrophic lateral sclerosis (ALS), where behavioural change is milder and partly confounded by motor pathology. We analysed 506 ALS patients with a valid FBI assessment. Behavioural impairment was defined using two complementary reference standards, to minimise dependence on any single behavioural instrument: a consensus rule (pathology on ≥ 2 of three independent instruments: Edinburgh Cognitive and Behavioural ALS Screen, Frontal Systems Behaviour Scale, Beaumont Behavioural Inventory) and Latent Class Analysis. ROC analysis identified the Youden-optimal cut-off; agreement was quantified by Cohen's κ; internal validity was assessed by stratified 5-fold cross-validation. Total and subscale scores were analysed separately. Among 345 complete-case patients, 24.6% met criteria for behavioural impairment. The FBI total discriminated impairment well (AUC 0.855, 95% CI 0.806-0.898). The Youden-optimal cut-off was FBI ≥ 9 (sensitivity 0.87, specificity 0.74), whereas the legacy cut-off of 25 showed sensitivity 0.22. Subscale recalibration yielded cut-offs of FBI-Apathy ≥ 7 (AUC 0.808) and FBI-Disinhibition ≥ 4 (AUC 0.851). In ALS, the bvFTD-derived threshold of 25 misses most patients with behavioural involvement. FBI ≥ 9 is a promising candidate ALS-specific screening threshold, with scores ≥ 15 indicating a higher probability of behavioural involvement; exploratory subscale thresholds of ≥ 7 for Apathy and ≥ 4 for Disinhibition are also proposed. These cut-offs substantially improve sensitivity while maintaining acceptable specificity, but require prospective external validation before replacing current practice.",
-      "journal": "European journal of neurology",
-      "authors": [
-        "Iazzolino B",
-        "Palumbo F",
-        "Canosa A",
-        "Callegaro S",
-        "Passidomo V",
-        "Manera U",
-        "Vasta R",
-        "Matteoni E",
-        "Cabras S",
-        "Pellegrino G",
-        "Maccabeo A",
-        "Moglia C",
-        "Calvo A",
-        "Chiò A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42839768/"
-    },
-    {
-      "id": "pmid-42789802",
-      "pmid": "42789802",
-      "doi": "",
-      "title": "Recognition and Treatment of Concurrent Amyotrophic Lateral Sclerosis and Multiple Sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) and multiple sclerosis (MS) are neurological disorders with different underlying pathophysiology but can share similar clinical features. Co-occurrence of both diseases is extremely rare with only 46 documented cases in literature to our knowledge. This case report relays the diagnosis of ALS in a patient with a decades'-long history of MS, and illustrates the importance of expanding the differential diagnosis and pursuing additional workup in a patient with overlapping progressive symptoms that can be caused by an alternate neurological etiology.",
-      "journal": "Rhode Island medical journal (2013)",
-      "authors": [
-        "Eng NY",
-        "Rizvi S",
-        "LaBarbera V"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789802/"
-    },
-    {
-      "id": "pmid-42716044",
-      "pmid": "42716044",
-      "doi": "10.1016/S1474-4422(26)00277-2",
-      "title": "Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.",
-      "abstract": "RIPK1, a protein regulating inflammatory signalling and cell death, is implicated in amyotrophic lateral sclerosis (ALS) pathophysiology. SAR443820 is a selective, oral, CNS-penetrant, reversible RIPK1 inhibitor. We aimed to evaluate the safety, tolerability, and efficacy of SAR443820 in participants with ALS. This multicentre, randomised, double-blind, placebo-controlled, phase 2 trial was conducted at 63 clinical sites in 13 countries (Belgium, Canada, China, France, Germany, Italy, Japan, the Netherlands, Poland, Spain, Sweden, the UK, and the USA). Adults (aged 18-80 years) with a diagnosis of possible ALS, clinically probable ALS, clinically probable laboratory-supported ALS, or clinically definite ALS, in accordance with the revised El Escorial World Federation of Neurology criteria, were randomly assigned (2:1) by use of a stratified block design (blocks of three) to receive either 20 mg SAR443820 orally twice per day or matching placebo in the 24-week double-blind period. Randomisation was done centrally using interactive response technology and stratified by geographical region of trial site, region of ALS onset, use of riluzole, use of edaravone, and use of the combination of sodium phenylbutyrate and taurursodiol. Participants, care providers, investigators, and outcomes assessors were masked to trial intervention. The primary outcome was a change in ALS Functional Rating Scale Revised (ALSFRS-R) total score from baseline to week 24 and was calculated for all participants who had an ALSFRS-R total score available at baseline and at week 24. Safety analyses included all randomly assigned participants receiving one dose or more of trial intervention. This trial is registered with ClinicalTrials.gov (NCT05237284) and was terminated early. Between April 13, 2022, and July 17, 2023, 397 participants were screened and 305 randomly assigned to SAR443820 (n=203) or placebo (n=102); six were excluded from the primary analysis due to missing baseline ALSFRS-R values. Mean age was 56·9 years (SD 11·5); 183 (60%) participants were male and 122 (40%) were female. Least squares mean change in ALSFRS-R from baseline to week 24 was -6·73 (95% CI -7·48 to -5·98) for SAR443820 group (n=169) and -6·32 (-7·36 to -5·27) for placebo group (n=87). There was no statistically significant difference between the study groups (least squares mean difference -0·41 [95% CI -1·71 to 0·88]). Participants in the SAR443820 group had higher incidence of adverse events (171 [85%] of 202 vs placebo 80 [78%] of 102) and treatment discontinuations (28 [14%] of 202 vs placebo five [5%] of 102), with elevated hepatic enzymes being the most common cause. Nine deaths occurred in the double-blind period (seven [3%] of 202 in the SAR443820 group and two [2%] of 102 in the placebo group); none was attributed to SAR443820. SAR443820 did not show clinical benefit and was associated with higher hepatic enzyme increase, indicating that further clinical development of SAR443820 in ALS is not warranted. Sanofi.",
-      "journal": "The Lancet. Neurology",
-      "authors": [
-        "Cudkowicz ME",
-        "Shefner J",
-        "van den Berg LH",
-        "Chio A",
-        "Fan D",
-        "Großkreutz J",
-        "Lunetta C",
-        "Tsai RM",
-        "Li Y",
-        "Wallstroem E",
-        "Xiong L",
-        "Chen Y",
-        "Atassi N",
-        "HIMALAYA Phase 2 Study Group"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Multicenter Study",
-        "Randomized Controlled Trial",
-        "Clinical Trial, Phase II"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716044/"
-    },
-    {
-      "id": "pmid-42847522",
-      "pmid": "42847522",
-      "doi": "10.1111/jnc.70565",
-      "title": "Synaptic Proteostasis in Health and Disease.",
-      "abstract": "Neurons rely on tightly coordinated mechanisms of protein synthesis and degradation to maintain cellular homeostasis, a process known as proteostasis. Given their highly polarised and compartmentalised nature, regulation of proteostasis is especially important at neuronal synapses, which are spatially distant from the soma yet require rapid on-demand adaptation of the synaptic proteome. Neurons meet their demand for synaptic proteostasis through localised mRNA transport and translation, alongside specialised pathways for protein degradation. Recent advances reveal that thousands of transcripts localise to distal neuronal compartments and that their distribution may be shaped by RNA stability, RNA dynamics, and organelle-hitchhiking transport mechanisms. In parallel, processes such as synaptic autophagy and endolysosomal trafficking are crucial for maintaining synaptic structure and neurotransmission. Disruptions in these finely balanced mechanisms are a common underlying feature of various neurological disorders, including fragile X syndrome, amyotrophic lateral sclerosis, Parkinson's disease, and Alzheimer's disease. This overview highlights key milestones and remaining questions in synaptic proteostasis, focusing on how local protein synthesis and degradation work together to preserve synaptic integrity and how their dysregulation can lead to disease.",
-      "journal": "Journal of neurochemistry",
-      "authors": [
-        "Donlin-Asp PG",
-        "Clayton EL"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42847522/"
     }
   ]
 }

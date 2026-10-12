@@ -1,89 +1,161 @@
 {
-  "updatedAt": "2026-10-10T01:45:50.620Z",
-  "previousSnapshot": "data/archive/2026-10-09.json",
+  "updatedAt": "2026-10-12T01:19:47.959Z",
+  "previousSnapshot": "data/archive/2026-10-10.json",
   "current": "data/items.json",
   "summary": {
-    "added": 29,
-    "removed": 29,
+    "added": 16,
+    "removed": 16,
     "changed": 7
   },
   "added": [
     {
-      "id": "pmid-42853426",
-      "titleZh": "肌萎缩侧索硬化中的侧索硬化是上运动神经元远端轴索病（“逆行性死亡”）：一项临床-神经病理学研究",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853426/"
-    },
-    {
-      "id": "pmid-42853422",
-      "titleZh": "多种马达蛋白调控TDP-43的轴突顺行运输",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853422/"
-    },
-    {
-      "id": "pmid-42853386",
-      "titleZh": "神经丝蛋白有助于将肌萎缩侧索硬化与退变性颈髓病区分开来",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853386/"
-    },
-    {
-      "id": "pmid-42852552",
-      "titleZh": "靶向神经退行性疾病中的蛋白质错误折叠与聚集：小分子靶点识别与验证的挑战",
-      "category": "治疗",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852552/"
-    },
-    {
-      "id": "pmid-42850460",
-      "titleZh": "意大利特定神经系统疾病的长期趋势（1990-2023）：全球疾病负担（GBD）2023数据分析",
+      "id": "pmid-42833128",
+      "titleZh": "酶促N-脱酰化是鞘磷脂膜破坏的预测开关：一个用于ALS鞘脂脆弱性的可证伪计算机模拟框架",
       "category": "机制",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42850460/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833128/"
     },
     {
-      "id": "epmc-PMC-PMC13648072",
-      "titleZh": "一例早发性VCP相关额颞叶痴呆：神经影像与遗传分析的启示",
+      "id": "pmid-42857254",
+      "titleZh": "对《CDK4/6 驱动的异常细胞周期再进入导致神经元丢失并确定 C9orf72 ALS/FTD 治疗靶点》的更正",
+      "category": "治疗",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857254/"
+    },
+    {
+      "id": "epmc-PPR-PPR1338868",
+      "titleZh": "脊髓性肌萎缩小鼠模型中的皮层投射神经元表现出早期成熟缺陷和选择性退化",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.10.09.758065"
+    },
+    {
+      "id": "epmc-PPR-PPR1338762",
+      "titleZh": "将多基因风险评分映射到脑细胞：对神经退行性疾病的启示",
+      "category": "机制",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.10.08.26365054"
+    },
+    {
+      "id": "epmc-PPR-PPR1338706",
+      "titleZh": "裸盖菇素辅助治疗用于严重及生命受限疾病中的存在性痛苦：新兴试验证据、获取障碍与个体化资格论证",
+      "category": "治疗",
+      "priority": "low",
+      "url": "https://doi.org/10.31234/osf.io/jktdh_v1"
+    },
+    {
+      "id": "pmid-42858780",
+      "titleZh": "ALS相关RNA结合蛋白之间可变多聚腺苷酸化变化的部分趋同",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858780/"
+    },
+    {
+      "id": "pmid-42858164",
+      "titleZh": "肌萎缩侧索硬化症的预后判断：关于诊断前因素与功能结局的叙述性综述",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858164/"
+    },
+    {
+      "id": "epmc-PMC-PMC13649454",
+      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：一项单中心、前瞻性、队列初步研究",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13649454"
+    },
+    {
+      "id": "epmc-PMC-PMC13652503",
+      "titleZh": "夏威夷岛神经科服务可及性调查",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13652503"
+    },
+    {
+      "id": "pmid-42854693",
+      "titleZh": "抗HDGFL2隐性蛋白抗体可灵敏反映TDP-43病理及临床疾病特征",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854693/"
+    },
+    {
+      "id": "pmid-42854356",
+      "titleZh": "EARLY-ALS：一项关于前驱期肌萎缩侧索硬化的多中心研究",
+      "category": "治疗",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854356/"
+    },
+    {
+      "id": "pmid-42735682",
+      "titleZh": "一种新型反义寡核苷酸药物治疗CHCHD10相关ALS的N-of-1探索性研究显示早期疗效迹象",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735682/"
+    },
+    {
+      "id": "epmc-PMC-PMC13651884",
+      "titleZh": "待复核翻译：A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13651884"
+    },
+    {
+      "id": "epmc-PPR-PPR1338007",
+      "titleZh": "Prevalence of 运动神经元病 and its clinical subtypes in the Valencian Community, Spain: a population-based cross-sectional study using linked electronic health records",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.10.07.26364981"
+    },
+    {
+      "id": "epmc-PPR-PPR1337712",
+      "titleZh": "Different distribution of PDE4 isoforms in the central nervous system and muscle of the SOD1G93A mouse model of experimental 肌萎缩侧索硬化症 during disease progression",
       "category": "遗传",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13648072"
+      "url": "https://doi.org/10.21203/rs.3.rs-11282050/v1"
     },
     {
-      "id": "epmc-PMC-PMC13647462",
-      "titleZh": "丘脑定量磁化率成像与磁化率源分离：证据与解释的批判性叙述性综述",
+      "id": "epmc-PPR-PPR1337624",
+      "titleZh": "待复核翻译：The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells",
       "category": "机制",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13647462"
+      "url": "https://doi.org/10.21203/rs.3.rs-11031579/v1"
+    }
+  ],
+  "removed": [
+    {
+      "id": "pmid-42727824",
+      "titleZh": "通过网络毒理学、分子对接、分子动力学模拟和体外研究探索BDE-209对神经退行性疾病的毒理学影响",
+      "category": "生物标志物",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727824/"
     },
     {
-      "id": "epmc-PMC-PMC13648056",
-      "titleZh": "一个细胞器统领全局：增强溶酶体活性作为蛋白质错误折叠神经退行性疾病的治疗策略",
-      "category": "治疗",
+      "id": "pmid-42727710",
+      "titleZh": "ALS-FTD谱系中的选择性神经保护：神经元韧性机制与转化前景",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13648056"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727710/"
     },
     {
-      "id": "epmc-PMC-PMC13647265",
-      "titleZh": "守护门控：TBK1在ALS/FTD中的细胞自主与非细胞自主双重机制",
-      "category": "机制",
+      "id": "pmid-42727616",
+      "titleZh": "KMT2B相关肌张力障碍小鼠模型中的运动协调与行为缺陷",
+      "category": "遗传",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13647265"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727616/"
     },
     {
-      "id": "epmc-PMC-PMC13648126",
-      "titleZh": "超声与肌电图在肌萎缩侧索硬化中检测肌束颤动的比较：一项更新的系统综述与荟萃分析",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13648126"
+      "id": "pmid-42722112",
+      "titleZh": "星形胶质细胞来源的细胞外囊泡磷酸化TDP-43作为肌萎缩侧索硬化症血液生物标志物",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
     },
     {
-      "id": "epmc-PMC-PMC13646943",
-      "titleZh": "中药与植物来源生物活性化合物在肌萎缩侧索硬化中的作用：机制证据、转化挑战与治疗机遇",
-      "category": "治疗",
+      "id": "epmc-PMC-PMC13644772",
+      "titleZh": "单纯疱疹病毒pUL56通过将电压门控离子通道从质膜上移除来消除神经元活动",
+      "category": "生物标志物",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13646943"
+      "url": "https://europepmc.org/article/PMC/PMC13644772"
     },
     {
       "id": "pmid-42850785",
@@ -100,327 +172,84 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42850388/"
     },
     {
+      "id": "epmc-PMC-PMC13642280",
+      "titleZh": "待复核翻译：Optimal sensor set for MEG-based spontaneous and intended speech decoding toward practical communication",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13642280"
+    },
+    {
+      "id": "epmc-PMC-PMC13643697",
+      "titleZh": "待复核翻译：Research progress in clinical utilization of H2 as a pleiotropic agent",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13643697"
+    },
+    {
+      "id": "epmc-PMC-PMC13642023",
+      "titleZh": "待复核翻译：Exploratory associations between APOE-ε4 carrier status and facial neuromuscular activity in cognitively intact adults: a cross-sectional surface electromyography study",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13642023"
+    },
+    {
+      "id": "epmc-PMC-PMC13642130",
+      "titleZh": "待复核翻译：Exploratory multi-biofluid proteomic profiling of acute exercise responses in plasma, tear fluid, and nasal secretions",
+      "category": "生物标志物",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13642130"
+    },
+    {
+      "id": "epmc-PMC-PMC13644168",
+      "titleZh": "待复核翻译：Lysosomes as chemical and metabolic organizers of central nervous system injury and repair",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13644168"
+    },
+    {
+      "id": "epmc-PMC-PMC13642302",
+      "titleZh": "待复核翻译：A high-precision synchronization and centroid-based framework for single-trial decoding of perceived natural speech",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13642302"
+    },
+    {
+      "id": "epmc-PMC-PMC13643689",
+      "titleZh": "待复核翻译：Correction: Feasibility study of noninvasive assessment of emotional state in patients with ALS",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13643689"
+    },
+    {
+      "id": "epmc-PPR-PPR1337117",
+      "titleZh": "Sex-dependent DNA methylation in 肌萎缩侧索硬化症",
+      "category": "机制",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.09.30.755680"
+    },
+    {
       "id": "pmid-42851995",
       "titleZh": "Corrigendum to \"The Values and Preferences of People Living With 运动神经元病 (MND): A Systematic Review and Meta-Analysis\".",
       "category": "机制",
       "priority": "low",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42851995/"
-    },
-    {
-      "id": "trial-NCT05281484",
-      "titleZh": "待复核翻译：Three Intermediate Expanded Access Protocols (EAP) CNMAu8.EAP01, CNMAu8.EAP02, and CNMAu8.EAP06 for ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05281484"
-    },
-    {
-      "id": "trial-NCT07726563",
-      "titleZh": "Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP 2 (PALADIN2)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07726563"
-    },
-    {
-      "id": "trial-NCT06643481",
-      "titleZh": "A 临床试验 to Learn About the Effects of VHB937 in People With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06643481"
-    },
-    {
-      "id": "trial-NCT07187388",
-      "titleZh": "Investigating the Impact of Electrical Stimulation on Facial Pain, Jaw Movement and Oral Health in People With 运动神经元病.",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07187388"
-    },
-    {
-      "id": "trial-NCT07357428",
-      "titleZh": "Connect-One: Early Feasibility Study of Connexus® 脑机接口 (BCI)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07357428"
-    },
-    {
-      "id": "trial-NCT07321860",
-      "titleZh": "This Study Evaluates the Safety, Target Engagement, and Preliminary Efficacy of Galunisertib (TGF-βR1/ALK5 Inhibitor)Combined With Nerandomilast (PDE4 Inhibitor) in GREM2-positive ALS, a 生物标志物-defined Subgroup Hypothesized to Reflect Heightened TGF-β/SMAD-driven Astrocytic and Fibrotic Signaling",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07321860"
-    },
-    {
-      "id": "trial-NCT03694132",
-      "titleZh": "待复核翻译：Brain Excitability and Connectivity in Sensory-motor Pathways in ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03694132"
-    },
-    {
-      "id": "trial-NCT04494256",
-      "titleZh": "A Study to Assess the Safety, Tolerability, and Effect on Disease Progression of BIIB105 in Participants With 肌萎缩侧索硬化症 (ALS) and Participants With the ALS Ataxin-2 (ATXN2) Genetic Mutation",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04494256"
-    },
-    {
-      "id": "trial-NCT04309604",
-      "titleZh": "待复核翻译：IC14 for ALS Patients Expanded Access",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04309604"
-    },
-    {
-      "id": "trial-NCT06046599",
-      "titleZh": "Remote Home Assessment of Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06046599"
-    },
-    {
-      "id": "trial-NCT00956501",
-      "titleZh": "Assessment of Postural Orientation and Equilibrium In Early 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00956501"
-    },
-    {
-      "id": "trial-NCT04240925",
-      "titleZh": "Tolerability, Safety and Efficacy of Sigh Breaths During NIMV in 运动神经元病",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04240925"
-    },
-    {
-      "id": "trial-NCT03452618",
-      "titleZh": "待复核翻译：Predictive Factors for the Diagnosis of Early Noninvasive Ventilation Equipment",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03452618"
-    },
-    {
-      "id": "trial-NCT01786603",
-      "titleZh": "Rasagiline in Subjects With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01786603"
-    },
-    {
-      "id": "trial-NCT01640067",
-      "titleZh": "Human Neural 干细胞 Transplantation in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01640067"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42848219",
-      "titleZh": "诊断前ALSFRS-R斜率对肌萎缩侧索硬化后续功能衰退变异性的增量信息有限：一项基于人群的研究",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42848219/"
-    },
-    {
-      "id": "pmid-42848030",
-      "titleZh": "两例携带罕见FUS变异的ALS患者呈现截然不同的临床轨迹：对变异解读、外显率和试验准备度的启示",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42848030/"
-    },
-    {
-      "id": "pmid-42847641",
-      "titleZh": "肌萎缩侧索硬化中的白质高信号负荷：运动与生存相关性",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42847641/"
-    },
-    {
-      "id": "pmid-42847638",
-      "titleZh": "生物标志物定义的前驱期帕金森病人群临床试验治疗靶点的考量",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42847638/"
-    },
-    {
-      "id": "pmid-42844308",
-      "titleZh": "RVG29功能化纳米载体用于神经退行性疾病脑靶向治疗：机制、治疗进展与转化前景",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844308/"
-    },
-    {
-      "id": "pmid-42844425",
-      "titleZh": "Astrocytes regulate axonal 线粒体l transport deficits in C9ORF72 肌萎缩侧索硬化症 motor neurons.",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844425/"
-    },
-    {
-      "id": "pmid-42844074",
-      "titleZh": "Fooled by the Heartbeat: Cardioballistic Autotriggering in 肌萎缩侧索硬化症.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844074/"
-    },
-    {
-      "id": "pmid-42842169",
-      "titleZh": "待复核翻译：Beyond Histamine Blockade: Clemastine Fumarate as a Promoter of Myelin Regeneration, Inflammatory Regulation, and Neuroimmune Modulation in CNS Disorders.",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842169/"
-    },
-    {
-      "id": "epmc-PMC-PMC13638352",
-      "titleZh": "待复核翻译：Editorial: Non-invasive brain stimulation: from basic science to clinical application",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13638352"
-    },
-    {
-      "id": "epmc-PMC-PMC13639425",
-      "titleZh": "待复核翻译：Cystatin F as a neuroimmune effector in CNS inflammation and neurodegeneration",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13639425"
-    },
-    {
-      "id": "epmc-PMC-PMC13638387",
-      "titleZh": "待复核翻译：Data mining of acupoint selection and combination patterns for dysphagia with sialorrhea: a literature-based study",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13638387"
-    },
-    {
-      "id": "epmc-PMC-PMC13632478",
-      "titleZh": "待复核翻译：From chromatin to proteostasis: multilevel gene regulation in Mendelian diseases",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13632478"
-    },
-    {
-      "id": "epmc-PMC-PMC13641131",
-      "titleZh": "待复核翻译：Development of a Translational Assay for Identification and Quantitation of Orthologous Proteins to Aid Drug Development in Preclinical Models",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13641131"
-    },
-    {
-      "id": "epmc-PPR-PPR1337176",
-      "titleZh": "Somatic instability of the C9orf72 repeat expansion in blood differs between patients with 肌萎缩侧索硬化症 or 额颞叶痴呆.",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.10.06.26364580"
-    },
-    {
-      "id": "trial-NCT05936619",
-      "titleZh": "待复核翻译：MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05936619"
-    },
-    {
-      "id": "trial-NCT07521930",
-      "titleZh": "待复核翻译：Interfacing With NeuroTechnology to Expand Neural Throughput (INTENT)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07521930"
-    },
-    {
-      "id": "trial-NCT07161999",
-      "titleZh": "待复核翻译：Study of COYA 302 for the Treatment of ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07161999"
-    },
-    {
-      "id": "trial-NCT06877143",
-      "titleZh": "待复核翻译：Hypercaloric PEG Nutrition in ALS to Sustain Energy Homeostasis",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06877143"
-    },
-    {
-      "id": "trial-NCT07393932",
-      "titleZh": "MND Together: I 期",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07393932"
-    },
-    {
-      "id": "trial-NCT05137665",
-      "titleZh": "Target ALS 生物标志物 Study; Longitudinal Biofluids, Clinical Measures, and At Home Measures",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05137665"
-    },
-    {
-      "id": "trial-NCT07006571",
-      "titleZh": "At-home Treatment With Cortico-spinal tDCS for 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07006571"
-    },
-    {
-      "id": "trial-NCT06069934",
-      "titleZh": "A Second Intermediate-Size Expanded Access Protocol (EAP) for Pridopidine in People With 肌萎缩侧索硬化症 (Pridopidine EAP 2)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06069934"
-    },
-    {
-      "id": "trial-NCT02623699",
-      "titleZh": "An Efficacy, Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of BIIB067 (Tofersen) in Adults With Inherited 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02623699"
-    },
-    {
-      "id": "trial-NCT04226144",
-      "titleZh": "Breath Stacking Technique Associated With Expiratory Muscle Training in 肌萎缩侧索硬化症 Patients",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04226144"
-    },
-    {
-      "id": "trial-NCT03192358",
-      "titleZh": "待复核翻译：Physiological Flow of Liquids Used in Dysphagia Management (Neuro)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03192358"
-    },
-    {
-      "id": "trial-NCT02450552",
-      "titleZh": "临床试验 of Ezogabine (Retigabine) in ALS Subjects",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02450552"
-    },
-    {
-      "id": "trial-NCT00613899",
-      "titleZh": "待复核翻译：Feasibility of Telesurveillance and Home Cough Assistance for Amyotrophic Lateral Patients (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00613899"
-    },
-    {
-      "id": "trial-NCT01536249",
-      "titleZh": "待复核翻译：Dexpramipexole and Cimetidine Drug Drug Interaction (DDI)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01536249"
-    },
-    {
-      "id": "trial-NCT00753571",
-      "titleZh": "Cistanche Total Glycosides for 肌萎缩侧索硬化症: A 随机 Control Trial (RCT) Study Assessing Clinical Response",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00753571"
     }
   ],
   "changed": [
     {
-      "id": "epmc-PMC-PMC13642280",
-      "titleZh": "待复核翻译：Optimal sensor set for MEG-based spontaneous and intended speech decoding toward practical communication",
+      "id": "pmid-42853422",
+      "titleZh": "多种马达蛋白调控TDP-43的轴突顺行运输",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "基础研究（人源细胞模型）",
+          "after": "基础研究（人类细胞模型）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13648072",
+      "titleZh": "A Case of Early-Onset VCP-Related 额颞叶痴呆: Insights from Neuroimaging and Genetic Analysis",
       "changes": [
         {
           "field": "priority",
@@ -429,52 +258,14 @@
         },
         {
           "field": "evidenceLevel",
-          "before": "机制研究（仅有题名，无摘要）",
-          "after": "机制研究"
-        }
-      ]
-    },
-    {
-      "id": "epmc-PMC-PMC13643697",
-      "titleZh": "待复核翻译：Research progress in clinical utilization of H2 as a pleiotropic agent",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
-        },
-        {
-          "field": "evidenceLevel",
-          "before": "机制研究（综述）",
-          "after": "机制研究"
-        }
-      ]
-    },
-    {
-      "id": "epmc-PMC-PMC13642023",
-      "titleZh": "待复核翻译：Exploratory associations between APOE-ε4 carrier status and facial neuromuscular activity in cognitively intact adults: a cross-sectional surface electromyography study",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "机制研究（横断面观察性研究，无摘要，无法评估具体方法学质量）",
-          "after": "机制研究"
-        }
-      ]
-    },
-    {
-      "id": "epmc-PMC-PMC13642130",
-      "titleZh": "待复核翻译：Exploratory multi-biofluid proteomic profiling of acute exercise responses in plasma, tear fluid, and nasal secretions",
-      "changes": [
-        {
-          "field": "evidenceLevel",
-          "before": "待人工判定；原始来源未提供摘要，无法评估研究设计、样本量和统计效力。",
+          "before": "病例报告（单例），证据等级低；原始元数据未提供摘要，具体内容待人工核实。",
           "after": "待人工判定"
         }
       ]
     },
     {
-      "id": "epmc-PMC-PMC13644168",
-      "titleZh": "待复核翻译：Lysosomes as chemical and metabolic organizers of central nervous system injury and repair",
+      "id": "epmc-PMC-PMC13647462",
+      "titleZh": "待复核翻译：Thalamic quantitative susceptibility mapping and susceptibility source separation: a critical narrative review of evidence and interpretation",
       "changes": [
         {
           "field": "priority",
@@ -484,24 +275,46 @@
       ]
     },
     {
-      "id": "epmc-PMC-PMC13642302",
-      "titleZh": "待复核翻译：A high-precision synchronization and centroid-based framework for single-trial decoding of perceived natural speech",
-      "changes": [
-        {
-          "field": "priority",
-          "before": "medium",
-          "after": "low"
-        }
-      ]
-    },
-    {
-      "id": "epmc-PMC-PMC13643689",
-      "titleZh": "待复核翻译：Correction: Feasibility study of noninvasive assessment of emotional state in patients with ALS",
+      "id": "epmc-PMC-PMC13648056",
+      "titleZh": "待复核翻译：One organelle to rule them all: enhancement of lysosomal activity as a therapeutic modality for protein misfolding neurodegenerative diseases",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "观察性临床研究（更正声明，无摘要）",
-          "after": "观察性临床研究"
+          "before": "待人工判定（原文未提供摘要，无法评估研究类型与证据强度）",
+          "after": "待人工判定"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13647265",
+      "titleZh": "待复核翻译：Minding the gates: dual cell-autonomous and non-cell-autonomous mechanisms of TBK1 in ALS/FTD",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13648126",
+      "titleZh": "Comparison between ultrasound and electromyography for detection of fasciculations in 肌萎缩侧索硬化症: an updated systematic review and meta-analysis Comparação entre ultrassonografia e eletroneuromiografia na detecção de fasciculações na esclerose lateral amiotrófica: revisão sistemática atualizada e meta-análise",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13646943",
+      "titleZh": "Traditional Chinese botanical medicines and plant-derived bioactive compounds in 肌萎缩侧索硬化症: mechanistic evidence, translational challenges, and therapeutic opportunities",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "综述（证据等级待人工判定；原始元数据未提供摘要，无法进一步评估其纳入文献范围与质量）",
+          "after": "待人工判定"
         }
       ]
     }
