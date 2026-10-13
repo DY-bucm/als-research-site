@@ -2,44 +2,46 @@
 
 - [ ] [高优先级] 纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征 (pmid-42840349)
   - https://pubmed.ncbi.nlm.nih.gov/42840349/
-- [ ] 酶促N-脱酰化是鞘磷脂膜破坏的预测开关：一个用于ALS鞘脂脆弱性的可证伪计算机模拟框架 (pmid-42833128)
+- [ ] 酶促N-脱酰化是鞘磷脂膜破坏的预测开关：一个用于ALS中鞘脂脆弱性的可证伪计算机模拟框架 (pmid-42833128)
   - https://pubmed.ncbi.nlm.nih.gov/42833128/
-- [ ] 对《CDK4/6 驱动的异常细胞周期再进入导致神经元丢失并确定 C9orf72 ALS/FTD 治疗靶点》的更正 (pmid-42857254)
+- [ ] 对《异常 CDK4/6 驱动的细胞周期再进入导致神经元丢失并确定 C9orf72 ALS/FTD 的治疗靶点》[iScience 29 (2026) 114596] 的更正 (pmid-42857254)
   - https://pubmed.ncbi.nlm.nih.gov/42857254/
 - [ ] [高优先级] TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失 (pmid-42763025)
   - https://pubmed.ncbi.nlm.nih.gov/42763025/
 - [ ] [高优先级] 细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点 (pmid-42759848)
   - https://pubmed.ncbi.nlm.nih.gov/42759848/
+- [ ] [高优先级] 弥合肌萎缩侧索硬化症临床试验的可信度差距 (pmid-42685299)
+  - https://pubmed.ncbi.nlm.nih.gov/42685299/
+- [ ] [高优先级] 头部损伤史与肌萎缩侧索硬化风险：纳入5,033,215名参与者的更新版综合系统评价与荟萃分析 (pmid-42862794)
+  - https://pubmed.ncbi.nlm.nih.gov/42862794/
+- [ ] 神经姑息治疗对运动神经元疾病或非典型帕金森综合征患者照护者的影响 (pmid-42862650)
+  - https://pubmed.ncbi.nlm.nih.gov/42862650/
+- [ ] 基于CRISPR/Cas9的纳米递送系统用于神经炎症的精准基因编辑 (pmid-42862306)
+  - https://pubmed.ncbi.nlm.nih.gov/42862306/
+- [ ] 碳点基纳米材料在神经退行性疾病中的应用：应对神经生物学屏障与靶向挑战 (pmid-42862052)
+  - https://pubmed.ncbi.nlm.nih.gov/42862052/
+- [ ] 评估肌萎缩侧索硬化、进行性肌萎缩和原发性侧索硬化患者的代谢率 (pmid-42862034)
+  - https://pubmed.ncbi.nlm.nih.gov/42862034/
+- [ ] 亚洲队列中他汀类药物暴露与肌萎缩侧索硬化生存结局的关系 (pmid-42861689)
+  - https://pubmed.ncbi.nlm.nih.gov/42861689/
+- [ ] [疑似误收] 朊病毒2022会议摘要：推动边界 (epmc-PMC-PMC9467582)
+  - https://europepmc.org/article/PMC/PMC9467582
+- [ ] Sigma-1受体通过恢复C9orf72相关ALS中的NRF2/HO1信号通路减轻poly-GR相关的氧化还原失调 (pmid-42860504)
+  - https://pubmed.ncbi.nlm.nih.gov/42860504/
 - [ ] [疑似误收] 脊髓性肌萎缩小鼠模型中的皮层投射神经元表现出早期成熟缺陷和选择性退化 (epmc-PPR-PPR1338868)
   - https://doi.org/10.64898/2026.10.09.758065
 - [ ] [疑似误收] 将多基因风险评分映射到脑细胞：对神经退行性疾病的启示 (epmc-PPR-PPR1338762)
   - https://doi.org/10.64898/2026.10.08.26365054
-- [ ] [疑似误收] 裸盖菇素辅助治疗用于严重及生命受限疾病中的存在性痛苦：新兴试验证据、获取障碍与个体化资格论证 (epmc-PPR-PPR1338706)
+- [ ] [疑似误收] 裸盖菇素辅助治疗用于严重及限制生命疾病中的存在性痛苦：新兴试验证据、可及性障碍与个体化入选标准的依据 (epmc-PPR-PPR1338706)
   - https://doi.org/10.31234/osf.io/jktdh_v1
 - [ ] ALS相关RNA结合蛋白之间可变多聚腺苷酸化变化的部分趋同 (pmid-42858780)
   - https://pubmed.ncbi.nlm.nih.gov/42858780/
 - [ ] 肌萎缩侧索硬化症的预后判断：关于诊断前因素与功能结局的叙述性综述 (pmid-42858164)
   - https://pubmed.ncbi.nlm.nih.gov/42858164/
-- [ ] [疑似误收] 术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：一项单中心、前瞻性、队列初步研究 (epmc-PMC-PMC13649454)
+- [ ] [疑似误收] 术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：单中心、前瞻性、队列初步研究 (epmc-PMC-PMC13649454)
   - https://europepmc.org/article/PMC/PMC13649454
-- [ ] [疑似误收] 夏威夷岛神经科服务可及性调查 (epmc-PMC-PMC13652503)
+- [ ] [疑似误收] 待复核翻译：Survey of the Availability of Neurology Services on Hawaiʻi Island (epmc-PMC-PMC13652503)
   - https://europepmc.org/article/PMC/PMC13652503
-- [ ] [高优先级] 抗HDGFL2隐性蛋白抗体可灵敏反映TDP-43病理及临床疾病特征 (pmid-42854693)
-  - https://pubmed.ncbi.nlm.nih.gov/42854693/
-- [ ] [高优先级] EARLY-ALS：一项关于前驱期肌萎缩侧索硬化的多中心研究 (pmid-42854356)
-  - https://pubmed.ncbi.nlm.nih.gov/42854356/
-- [ ] [高优先级] 肌萎缩侧索硬化中的侧索硬化是上运动神经元远端轴索病（“逆行性死亡”）：一项临床-神经病理学研究 (pmid-42853426)
-  - https://pubmed.ncbi.nlm.nih.gov/42853426/
-- [ ] [高优先级] 多种马达蛋白调控TDP-43的轴突顺行运输 (pmid-42853422)
-  - https://pubmed.ncbi.nlm.nih.gov/42853422/
-- [ ] 神经丝蛋白有助于将肌萎缩侧索硬化与退变性颈髓病区分开来 (pmid-42853386)
-  - https://pubmed.ncbi.nlm.nih.gov/42853386/
-- [ ] [高优先级] 靶向神经退行性疾病中的蛋白质错误折叠与聚集：小分子靶点识别与验证的挑战 (pmid-42852552)
-  - https://pubmed.ncbi.nlm.nih.gov/42852552/
-- [ ] 1990-2023年意大利特定神经系统疾病的长期趋势：全球疾病负担（GBD）2023数据分析 (pmid-42850460)
-  - https://pubmed.ncbi.nlm.nih.gov/42850460/
-- [ ] [高优先级] 一种新型反义寡核苷酸药物治疗CHCHD10相关ALS的N-of-1探索性研究显示早期疗效迹象 (pmid-42735682)
-  - https://pubmed.ncbi.nlm.nih.gov/42735682/
 - [ ] [疑似误收] A Case of Early-Onset VCP-Related 额颞叶痴呆: Insights from Neuroimaging and Genetic Analysis (epmc-PMC-PMC13648072)
   - https://europepmc.org/article/PMC/PMC13648072
 - [ ] [疑似误收] 待复核翻译：Thalamic quantitative susceptibility mapping and susceptibility source separation: a critical narrative review of evidence and interpretation (epmc-PMC-PMC13647462)
@@ -58,8 +60,6 @@
   - https://doi.org/10.64898/2026.10.07.26364981
 - [ ] Different distribution of PDE4 isoforms in the central nervous system and muscle of the SOD1G93A mouse model of experimental 肌萎缩侧索硬化症 during disease progression (epmc-PPR-PPR1337712)
   - https://doi.org/10.21203/rs.3.rs-11282050/v1
-- [ ] [疑似误收] 待复核翻译：The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells (epmc-PPR-PPR1337624)
-  - https://doi.org/10.21203/rs.3.rs-11031579/v1
 - [ ] [高优先级] 待复核翻译：Three Intermediate Expanded Access Protocols (EAP) CNMAu8.EAP01, CNMAu8.EAP02, and CNMAu8.EAP06 for ALS (trial-NCT05281484)
   - https://clinicaltrials.gov/study/NCT05281484
 - [ ] [高优先级] Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP 2 (PALADIN2) (trial-NCT07726563)

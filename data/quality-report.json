@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-12T01:19:47.920Z",
+  "updatedAt": "2026-10-13T03:03:23.976Z",
   "summary": {
     "totalItems": 45,
-    "issueCount": 59
+    "issueCount": 56
   },
   "sources": [
     {
@@ -22,6 +22,17 @@
     }
   ],
   "lowRelevance": [
+    {
+      "id": "epmc-PMC-PMC9467582",
+      "title": "Prion 2022 Conference abstracts: pushing the boundaries",
+      "titleZh": "朊病毒2022会议摘要：推动边界",
+      "category": "机制",
+      "evidenceLevel": "机制研究（会议摘要，无摘要内容）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC9467582"
+    },
     {
       "id": "epmc-PPR-PPR1338868",
       "title": "Cortical projection neurons exhibit early maturation defects and selective degeneration in a mouse model of spinal muscular atrophy",
@@ -47,20 +58,20 @@
     {
       "id": "epmc-PPR-PPR1338706",
       "title": "Psilocybin-Assisted Therapy for Existential Distress in Serious and Life-Limiting Illness: Emerging Trial Evidence, Barriers to Access, and the Case for Individualized Eligibility",
-      "titleZh": "裸盖菇素辅助治疗用于严重及生命受限疾病中的存在性痛苦：新兴试验证据、获取障碍与个体化资格论证",
+      "titleZh": "裸盖菇素辅助治疗用于严重及限制生命疾病中的存在性痛苦：新兴试验证据、可及性障碍与个体化入选标准的依据",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（预印本，无摘要，无法评估研究设计与证据强度）",
+      "evidenceLevel": "预印本，摘要缺失，证据等级待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.31234/osf.io/jktdh_v1"
     },
     {
       "id": "epmc-PMC-PMC13649454",
       "title": "Preoperative ultrasound to identify prefrailty or mild cognitive impairment in patients undergoing total hip/knee replacement: a single-center, prospective, cohort pilot study",
-      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：一项单中心、前瞻性、队列初步研究",
+      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：单中心、前瞻性、队列初步研究",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "观察性临床研究（单中心前瞻性队列初步研究）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -69,9 +80,9 @@
     {
       "id": "epmc-PMC-PMC13652503",
       "title": "Survey of the Availability of Neurology Services on Hawaiʻi Island",
-      "titleZh": "夏威夷岛神经科服务可及性调查",
+      "titleZh": "待复核翻译：Survey of the Availability of Neurology Services on Hawaiʻi Island",
       "category": "机制",
-      "evidenceLevel": "横断面调查（卫生服务研究）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -131,26 +142,26 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13651884"
-    },
-    {
-      "id": "epmc-PPR-PPR1337624",
-      "title": "The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells",
-      "titleZh": "待复核翻译：The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-11031579/v1"
     }
   ],
   "missingIdentifiers": [
     {
+      "id": "epmc-PMC-PMC9467582",
+      "title": "Prion 2022 Conference abstracts: pushing the boundaries",
+      "titleZh": "朊病毒2022会议摘要：推动边界",
+      "category": "机制",
+      "evidenceLevel": "机制研究（会议摘要，无摘要内容）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC9467582"
+    },
+    {
       "id": "epmc-PMC-PMC13649454",
       "title": "Preoperative ultrasound to identify prefrailty or mild cognitive impairment in patients undergoing total hip/knee replacement: a single-center, prospective, cohort pilot study",
-      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：一项单中心、前瞻性、队列初步研究",
+      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：单中心、前瞻性、队列初步研究",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "观察性临床研究（单中心前瞻性队列初步研究）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -159,9 +170,9 @@
     {
       "id": "epmc-PMC-PMC13652503",
       "title": "Survey of the Availability of Neurology Services on Hawaiʻi Island",
-      "titleZh": "夏威夷岛神经科服务可及性调查",
+      "titleZh": "待复核翻译：Survey of the Availability of Neurology Services on Hawaiʻi Island",
       "category": "机制",
-      "evidenceLevel": "横断面调查（卫生服务研究）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -247,6 +258,17 @@
   ],
   "missingAbstract": [
     {
+      "id": "epmc-PMC-PMC9467582",
+      "title": "Prion 2022 Conference abstracts: pushing the boundaries",
+      "titleZh": "朊病毒2022会议摘要：推动边界",
+      "category": "机制",
+      "evidenceLevel": "机制研究（会议摘要，无摘要内容）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC9467582"
+    },
+    {
       "id": "epmc-PPR-PPR1338868",
       "title": "Cortical projection neurons exhibit early maturation defects and selective degeneration in a mouse model of spinal muscular atrophy",
       "titleZh": "脊髓性肌萎缩小鼠模型中的皮层投射神经元表现出早期成熟缺陷和选择性退化",
@@ -271,20 +293,20 @@
     {
       "id": "epmc-PPR-PPR1338706",
       "title": "Psilocybin-Assisted Therapy for Existential Distress in Serious and Life-Limiting Illness: Emerging Trial Evidence, Barriers to Access, and the Case for Individualized Eligibility",
-      "titleZh": "裸盖菇素辅助治疗用于严重及生命受限疾病中的存在性痛苦：新兴试验证据、获取障碍与个体化资格论证",
+      "titleZh": "裸盖菇素辅助治疗用于严重及限制生命疾病中的存在性痛苦：新兴试验证据、可及性障碍与个体化入选标准的依据",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（预印本，无摘要，无法评估研究设计与证据强度）",
+      "evidenceLevel": "预印本，摘要缺失，证据等级待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.31234/osf.io/jktdh_v1"
     },
     {
       "id": "epmc-PMC-PMC13649454",
       "title": "Preoperative ultrasound to identify prefrailty or mild cognitive impairment in patients undergoing total hip/knee replacement: a single-center, prospective, cohort pilot study",
-      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：一项单中心、前瞻性、队列初步研究",
+      "titleZh": "术前超声识别全髋/膝关节置换术患者衰弱前期或轻度认知障碍：单中心、前瞻性、队列初步研究",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "观察性临床研究（单中心前瞻性队列初步研究）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -293,9 +315,9 @@
     {
       "id": "epmc-PMC-PMC13652503",
       "title": "Survey of the Availability of Neurology Services on Hawaiʻi Island",
-      "titleZh": "夏威夷岛神经科服务可及性调查",
+      "titleZh": "待复核翻译：Survey of the Availability of Neurology Services on Hawaiʻi Island",
       "category": "机制",
-      "evidenceLevel": "横断面调查（卫生服务研究）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -399,17 +421,6 @@
       "relevanceFlag": "high",
       "priority": "medium",
       "url": "https://doi.org/10.21203/rs.3.rs-11282050/v1"
-    },
-    {
-      "id": "epmc-PPR-PPR1337624",
-      "title": "The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells",
-      "titleZh": "待复核翻译：The TDP-43-NOS1AP connection can regulate lipid-droplet homeostasis in neuronal cells",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 2,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.21203/rs.3.rs-11031579/v1"
     }
   ],
   "highPriorityNeedsReview": [
@@ -447,70 +458,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42759848/"
     },
     {
-      "id": "pmid-42854693",
-      "title": "Anti-HDGFL2 cryptic protein antibodies provide a sensitive readout of TDP-43 pathology and clinical disease features.",
-      "titleZh": "抗HDGFL2隐性蛋白抗体可灵敏反映TDP-43病理及临床疾病特征",
+      "id": "pmid-42685299",
+      "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
+      "titleZh": "弥合肌萎缩侧索硬化症临床试验的可信度差距",
       "category": "临床试验",
-      "evidenceLevel": "临床前研究（人组织样本+抗体工具开发）",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854693/"
-    },
-    {
-      "id": "pmid-42854356",
-      "title": "EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis.",
-      "titleZh": "EARLY-ALS：一项关于前驱期肌萎缩侧索硬化的多中心研究",
-      "category": "治疗",
-      "evidenceLevel": "观察性临床研究",
+      "evidenceLevel": "专家评论/方法学述评",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854356/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685299/"
     },
     {
-      "id": "pmid-42853426",
-      "title": "Lateral sclerosis in amyotrophic lateral sclerosis is an upper motor neuron distal axonopathy (\"dying back\"): a clinical-neuropathological study.",
-      "titleZh": "肌萎缩侧索硬化中的侧索硬化是上运动神经元远端轴索病（“逆行性死亡”）：一项临床-神经病理学研究",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 9,
+      "id": "pmid-42862794",
+      "title": "History of Head Injury and Risk of Amyotrophic Lateral Sclerosis: An Updated Comprehensive Systematic Review with Meta-Analysis of 5,033,215 Participants.",
+      "titleZh": "头部损伤史与肌萎缩侧索硬化风险：纳入5,033,215名参与者的更新版综合系统评价与荟萃分析",
+      "category": "生物标志物",
+      "evidenceLevel": "观察性临床研究（系统评价与荟萃分析，纳入22项病例对照研究和7项队列研究）",
+      "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853426/"
-    },
-    {
-      "id": "pmid-42853422",
-      "title": "Multiple motor proteins regulate TDP-43 anterograde axonal transport.",
-      "titleZh": "多种马达蛋白调控TDP-43的轴突顺行运输",
-      "category": "临床试验",
-      "evidenceLevel": "基础研究（人类细胞模型）",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853422/"
-    },
-    {
-      "id": "pmid-42852552",
-      "title": "Targeting protein misfolding and aggregation in neurodegenerative diseases: challenges for the identification and validation of targets for small molecules.",
-      "titleZh": "靶向神经退行性疾病中的蛋白质错误折叠与聚集：小分子靶点识别与验证的挑战",
-      "category": "治疗",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852552/"
-    },
-    {
-      "id": "pmid-42735682",
-      "title": "N-of-1 investigational study of a novel antisense oligonucleotide drug in CHCHD10-related ALS shows early signs of efficacy.",
-      "titleZh": "一种新型反义寡核苷酸药物治疗CHCHD10相关ALS的N-of-1探索性研究显示早期疗效迹象",
-      "category": "临床试验",
-      "evidenceLevel": "N-of-1开放标签探索性研究，描述性分析，证据等级低",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735682/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862794/"
     },
     {
       "id": "trial-NCT05281484",
@@ -681,17 +648,17 @@
   "failedSources": [],
   "issueCounts": {
     "疑似误收": 11,
-    "缺标识符": 9,
+    "缺标识符": 10,
     "缺摘要": 15,
-    "高优先级待复核": 24,
+    "高优先级待复核": 20,
     "来源失败": 0
   },
   "reviewCounts": {
     "待复核": 45
   },
   "relevanceCounts": {
-    "high": 29,
-    "medium": 5,
+    "high": 27,
+    "medium": 7,
     "low": 11
   }
 }

@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-10-12
+更新时间：2026-10-13
 
 1. **纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征**
    - 遗传 / 观察性临床研究 / high
-   - 纳米孔自适应采样测序结合NanoExpansion工具可准确表征C9orf72相关ALS及其他重复扩增疾病，长PCR会低估超过800个重复的等位基因，且部分ALS病例存在重复中断。
+   - 纳米孔测序结合自适应采样和NanoExpansion能准确表征重复扩增疾病，包括所有C9orf72相关ALS病例，并检测到重复中断；长PCR会低估超过800个重复的等位基因。
    - https://pubmed.ncbi.nlm.nih.gov/42840349/
 2. **TBK1过表达可减少ALS/FTD的P497S UBQLN2小鼠模型中的神经元丢失**
    - 临床试验 / 动物/细胞实验 / high
-   - 在P497S UBQLN2 ALS/FTD小鼠模型中，TBK1过表达显著减少脑和脊髓的神经退行性变；UBQLN2聚集体隔离TBK1，P497S突变降低UBQLN2与TBK1结合，UBQLN2缺失使TBK1不稳定。
+   - 在P497S UBQLN2小鼠模型中过表达TBK1可显著减少脑和脊髓的神经退行性变，机制涉及TBK1被UBQLN2聚集体隔离及UBQLN2缺失导致TBK1不稳定。
    - https://pubmed.ncbi.nlm.nih.gov/42763025/
 3. **细胞衰老是肌萎缩侧索硬化TDP-43 Q331K小鼠的早期特征及治疗靶点**
    - 临床试验 / 动物/细胞实验 / high
-   - 细胞衰老标志物在ALS小鼠运动皮层和脊髓中早期出现；达沙替尼+槲皮素治疗改善运动行为、神经肌肉功能、降低血浆NfL、改善皮层兴奋性并保留V层神经元，小胶质细胞可能是介导者。
+   - 细胞衰老标志物在ALS小鼠运动皮层和脊髓中早期出现；达沙替尼联合槲皮素治疗可改善运动行为、神经肌肉功能、运动皮层兴奋性，减少轴突损伤并保留V层神经元，小胶质细胞可能介导获益。
    - https://pubmed.ncbi.nlm.nih.gov/42759848/
-4. **抗HDGFL2隐性蛋白抗体可灵敏反映TDP-43病理及临床疾病特征**
-   - 临床试验 / 临床前研究（人组织样本+抗体工具开发） / high
-   - HDGFL2-CE在TDP-43病理神经元中积聚，其额叶皮层水平与更重TDP-43病理、更早发病和更短生存期相关。
-   - https://pubmed.ncbi.nlm.nih.gov/42854693/
-5. **EARLY-ALS：一项关于前驱期肌萎缩侧索硬化的多中心研究**
-   - 治疗 / 观察性临床研究 / high
-   - ALS患者报告的前驱期主诉负担显著更高，尤其是神经运动、感觉和疼痛相关症状，且存在性别和临床亚组特异性模式。
-   - https://pubmed.ncbi.nlm.nih.gov/42854356/
-6. **肌萎缩侧索硬化中的侧索硬化是上运动神经元远端轴索病（“逆行性死亡”）：一项临床-神经病理学研究**
-   - 临床试验 / 观察性临床研究 / high
-   - UMN-p ALS患者皮质脊髓侧束存在显著髓鞘和轴突丢失，腰段重于颈段，提示远端轴突先受损的“逆行性死亡”过程，并伴有泡沫样炎性小胶质细胞和轴突内TDP-43增加。
-   - https://pubmed.ncbi.nlm.nih.gov/42853426/
-7. **多种马达蛋白调控TDP-43的轴突顺行运输**
-   - 临床试验 / 基础研究（人类细胞模型） / high
-   - TDP-43在人类神经元轴突中通过KLC1接头蛋白与KIF5各亚型及KIF1A等多种驱动蛋白相互作用，实现顺行运输；ALS中细胞质TDP-43积聚可能破坏该多马达运输系统的灵活性。
-   - https://pubmed.ncbi.nlm.nih.gov/42853422/
-8. **靶向神经退行性疾病中的蛋白质错误折叠与聚集：小分子靶点识别与验证的挑战**
-   - 治疗 / 综述/荟萃分析 / high
-   - 神经退行性疾病中蛋白质错误折叠和聚集的靶点识别面临构象灵活性、寡聚体毒性和血脑屏障穿透等多重障碍，需从单靶点模型转向基于集合的多维度验证策略。
-   - https://pubmed.ncbi.nlm.nih.gov/42852552/
+4. **弥合肌萎缩侧索硬化症临床试验的可信度差距**
+   - 临床试验 / 专家评论/方法学述评 / high
+   - ALS早期和中期试验数据常被用于宣称临床获益，但未能转化为3期成功；根源在于“临床试验工业复合体”的扭曲激励和多种反复出现的科学推理谬误。
+   - https://pubmed.ncbi.nlm.nih.gov/42685299/
+5. **头部损伤史与肌萎缩侧索硬化风险：纳入5,033,215名参与者的更新版综合系统评价与荟萃分析**
+   - 生物标志物 / 观察性临床研究（系统评价与荟萃分析，纳入22项病例对照研究和7项队列研究） / high
+   - 病例对照研究合并分析显示头部损伤与ALS风险增加36%相关（AOR=1.36，95% CI 1.24-1.48），队列研究显示正相关但无统计学显著性（RR=1.59，95% CI 0.93-2.71）；轻度、中度和重度损伤及单次损伤均显示关联。
+   - https://pubmed.ncbi.nlm.nih.gov/42862794/
+6. **待复核翻译：Three Intermediate Expanded Access Protocols (EAP) CNMAu8.EAP01, CNMAu8.EAP02, and CNMAu8.EAP06 for ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: AVAILABLE.
+   - https://clinicaltrials.gov/study/NCT05281484
+7. **Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP 2 (PALADIN2)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07726563
+8. **A 临床试验 to Learn About the Effects of VHB937 in People With 肌萎缩侧索硬化症 (ALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: ACTIVE_NOT_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06643481
