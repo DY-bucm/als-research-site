@@ -1,26 +1,34 @@
 # 复核任务清单
 
-- [ ] 纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征 (pmid-42840349)
+- [ ] 纳米孔测序结合自适应采样与NanoExpansion实现重复扩增疾病的准确表征 (pmid-42840349)
   - https://pubmed.ncbi.nlm.nih.gov/42840349/
-- [ ] 酶促N-脱酰化被预测为鞘磷脂的膜破坏开关：一个用于ALS中鞘脂脆弱性的可证伪计算机框架 (pmid-42833128)
+- [ ] 酶促N-脱酰化是鞘磷脂膜破坏的预测开关：一个用于ALS鞘脂脆弱性的可证伪计算机框架 (pmid-42833128)
   - https://pubmed.ncbi.nlm.nih.gov/42833128/
 - [ ] 酸性大麻素类化合物在脑部疾病中的作用：神经生物学机制、临床前证据与转化挑战 (pmid-42826598)
   - https://pubmed.ncbi.nlm.nih.gov/42826598/
+- [ ] 全球儿童罕见神经系统疾病的流行病学与遗传负担 (pmid-42889786)
+  - https://pubmed.ncbi.nlm.nih.gov/42889786/
 - [ ] [疑似误收] 生物标志物引导诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告 (pmid-42799589)
   - https://pubmed.ncbi.nlm.nih.gov/42799589/
 - [ ] [高优先级] ALS与衰老骨骼肌的整合转录组图谱界定退变的共享与独特分子程序 (pmid-42879493)
   - https://pubmed.ncbi.nlm.nih.gov/42879493/
-- [ ] 唾液暗光褪黑素起始时间与早期肌萎缩侧索硬化症功能衰退、呼吸症状出现及生存相关 (pmid-42885660)
+- [ ] 运动神经元病患者照护干预措施图谱：一项动态证据与差距地图 (pmid-42893382)
+  - https://pubmed.ncbi.nlm.nih.gov/42893382/
+- [ ] [高优先级] 冷冻电镜在TDP-43淀粉样纤维结构解析中的进展 (pmid-42892517)
+  - https://pubmed.ncbi.nlm.nih.gov/42892517/
+- [ ] 散发性肌萎缩侧索硬化症的外周血和脑脊液炎症标志物：一项探索性横断面关联研究 (pmid-42891860)
+  - https://pubmed.ncbi.nlm.nih.gov/42891860/
+- [ ] 唾液暗光褪黑素起始时间与早期肌萎缩侧索硬化功能衰退、呼吸症状出现及生存相关 (pmid-42885660)
   - https://pubmed.ncbi.nlm.nih.gov/42885660/
-- [ ] 对《异常CDK4/6驱动的细胞周期再进入导致神经元丢失并定义C9orf72 ALS/FTD治疗靶点》[iScience 29 (2026) 114596]的勘误 (pmid-42857254)
+- [ ] 对“异常CDK4/6驱动的细胞周期再进入导致神经元丢失并定义C9orf72 ALS/FTD治疗靶点”的勘误 (pmid-42857254)
   - https://pubmed.ncbi.nlm.nih.gov/42857254/
 - [ ] [疑似误收] 脑动脉瘤与神经退行性疾病中的神经免疫表型 (epmc-PMC-PMC13662010)
   - https://europepmc.org/article/PMC/PMC13662010
-- [ ] [疑似误收] 利用群体药代动力学模型处理利鲁唑漏服剂量的补救方案 (epmc-PMC-PMC13661369)
+- [ ] [疑似误收] 利用群体药代动力学模型制定利鲁唑漏服后的补救给药方案 (epmc-PMC-PMC13661369)
   - https://europepmc.org/article/PMC/PMC13661369
 - [ ] [疑似误收] 一例携带CYLD变异的进行性核上性麻痹-原发性侧索硬化重叠综合征患者 (epmc-PMC-PMC13667944)
   - https://europepmc.org/article/PMC/PMC13667944
-- [ ] [疑似误收] 嘌呤能P2X7受体拮抗损害小鼠有氧能力，但对运动心脏适应无明显影响 (epmc-PMC-PMC13659837)
+- [ ] [疑似误收] 嘌呤能P2X7受体拮抗损害小鼠有氧能力，但对运动心脏适应未见可检测影响 (epmc-PMC-PMC13659837)
   - https://europepmc.org/article/PMC/PMC13659837
 - [ ] [疑似误收] Scp160缺失抑制酿酒酵母中TDP-43的聚集与毒性 (epmc-PMC-PMC13659451)
   - https://europepmc.org/article/PMC/PMC13659451
@@ -28,38 +36,30 @@
   - https://europepmc.org/article/PMC/PMC13659576
 - [ ] [疑似误收] 帕金森病中的线粒体蛋白输入应激：连接线粒体蛋白稳态与神经元死亡的TOM/TIM–PINK1/Parkin–DELE1/HRI轴 (epmc-PMC-PMC13655033)
   - https://europepmc.org/article/PMC/PMC13655033
-- [ ] [疑似误收] 双重任务训练对帕金森病患者健康相关生活质量和认知功能的影响：系统综述与荟萃分析 (epmc-PMC-PMC13654966)
+- [ ] [疑似误收] 双重任务训练对帕金森病患者健康相关生活质量与认知功能的影响：系统综述与荟萃分析 (epmc-PMC-PMC13654966)
   - https://europepmc.org/article/PMC/PMC13654966
-- [ ] [疑似误收] 进行性核上性麻痹中言语清晰度数字测量的分析验证 (epmc-PMC-PMC13655066)
+- [ ] [疑似误收] 进行性核上性麻痹中言语清晰度数字化测量的分析验证 (epmc-PMC-PMC13655066)
   - https://europepmc.org/article/PMC/PMC13655066
-- [ ] [疑似误收] 间充质基质细胞在年龄相关神经退行性疾病中的作用：机制、转化障碍与精准策略 (epmc-PMC-PMC13656211)
+- [ ] [疑似误收] 待复核翻译：Mesenchymal stromal cells in age-related neurodegenerative disorders: mechanisms, translational barriers, and precision strategies (epmc-PMC-PMC13656211)
   - https://europepmc.org/article/PMC/PMC13656211
-- [ ] [疑似误收] siRNA介导的HSP70耗竭后HeLa细胞中蛋白稳态破坏的定量分析 (epmc-PMC-PMC13654591)
+- [ ] [疑似误收] 待复核翻译：Quantitative analysis of proteostasis disruption following siRNA-mediated HSP70 depletion in HeLa cells (epmc-PMC-PMC13654591)
   - https://europepmc.org/article/PMC/PMC13654591
-- [ ] [疑似误收] 选择性易损性：在组织病理学参考队列中验证非典型神经退行性疾病变异 (epmc-PPR-PPR1343785)
+- [ ] [疑似误收] 待复核翻译：Selective vulnerability: validation of atypical neurodegenerative disease variants in histopathological reference cohorts (epmc-PPR-PPR1343785)
   - https://doi.org/10.21203/rs.3.rs-11296547/v1
-- [ ] [高优先级] Ataxin-2下调重编程神经元和星形胶质细胞代谢以抵御TDP-43毒性 (pmid-42886553)
+- [ ] [高优先级] 待复核翻译：Ataxin-2 downregulation rewires neuronal and astrocytic metabolism to protect against TDP-43 toxicity. (pmid-42886553)
   - https://pubmed.ncbi.nlm.nih.gov/42886553/
 - [ ] [疑似误收] 待复核翻译：Interventions to support informal carers managing behavioral symptoms in frontotemporal lobar degeneration: a scoping review. (pmid-42881132)
   - https://pubmed.ncbi.nlm.nih.gov/42881132/
 - [ ] Corrigendum to "Exploring the cuproptosis-related molecular clusters in the peripheral blood of patients with 肌萎缩侧索硬化症" [Comput. Biol. Med. 168, (2024), 107776]. (pmid-42880988)
   - https://pubmed.ncbi.nlm.nih.gov/42880988/
-- [ ] [疑似误收] 待复核翻译：Protein arginine methylation rewires molecular interactions. (pmid-42880226)
-  - https://pubmed.ncbi.nlm.nih.gov/42880226/
-- [ ] 待复核翻译：Needs and Expectations of ALS Patients and Caregivers: An Integrated Perspective. (pmid-42879383)
-  - https://pubmed.ncbi.nlm.nih.gov/42879383/
-- [ ] [高优先级] Diagnostic evolution of carbonic anhydrase 3 (CA3) in 肌萎缩侧索硬化症 (ALS): an emerging prognostic 生物标志物. (pmid-42878739)
-  - https://pubmed.ncbi.nlm.nih.gov/42878739/
-- [ ] [高优先级] 待复核翻译：Restoring Neural Homeostasis via Class II HDAC Modulation: Mechanistic Insights and Therapeutic Opportunities. (pmid-42875680)
-  - https://pubmed.ncbi.nlm.nih.gov/42875680/
-- [ ] Bullous Pemphigoid in Patients with 肌萎缩侧索硬化症: A Retrospective Study of 1,067 Cases. (pmid-42875203)
-  - https://pubmed.ncbi.nlm.nih.gov/42875203/
 - [ ] [疑似误收] 待复核翻译：EEG microstate-source coupling is spatially preserved in ALS (epmc-PPR-PPR1343081)
   - https://doi.org/10.21203/rs.3.rs-3874129/v3
 - [ ] 待复核翻译：Temporal RNA splicing dysregulation in a human multicellular model of C9orf72 ALS (epmc-PPR-PPR1342352)
   - https://doi.org/10.64898/2026.10.13.755334
 - [ ] [疑似误收] 待复核翻译：A motor endurance assay for zebrafish larvae: proof of principle in chemical and genetic models of neurological disease (epmc-PPR-PPR1342154)
   - https://doi.org/10.64898/2026.10.07.757328
+- [ ] [疑似误收] 待复核翻译：Registry Forge: an open-source end-to-end pipeline for patient-directed SMART on FHIR registries. (pmid-42891488)
+  - https://pubmed.ncbi.nlm.nih.gov/42891488/
 - [ ] [高优先级] A 临床试验 to Evaluate NB-4746 in Participants With 肌萎缩侧索硬化症. (trial-NCT07369076)
   - https://clinicaltrials.gov/study/NCT07369076
 - [ ] [高优先级] Human Amniotic Mesenchymal Cell Secretome for Neurodegeneration and 神经炎症 (trial-NCT06551649)
