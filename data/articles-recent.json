@@ -1,14 +1,92 @@
 {
-  "updatedAt": "2026-10-19T00:11:41.277Z",
+  "updatedAt": "2026-10-21T00:35:46.009Z",
   "period": {
     "days": 10,
-    "from": "2026-10-10",
-    "to": "2026-10-19"
+    "from": "2026-10-12",
+    "to": "2026-10-21"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 37,
+  "count": 39,
   "articles": [
+    {
+      "id": "pmid-42895434",
+      "pmid": "42895434",
+      "doi": "10.1080/21678421.2026.2742815",
+      "title": "Factors associated with post-tracheostomy survival in Amyotrophic Lateral Sclerosis.",
+      "abstract": "To identify demographic and clinical factors associated with post-tracheostomy survival using three well-characterized cohorts of patients with Amyotrophic Lateral Sclerosis (ALS). ALS patients from the Piemonte and Valle d'Aosta ALS Register (PARALS) diagnosed between 1995-2019 interval who underwent tracheostomy were included. A multivariable Cox proportional hazards model was used to identify factors associated with post-tracheostomy survival. Significant findings were tested in two independent cohorts, the Emilia-Romagna Region ALS Register (ERRALS) and an incident ALS cohort from South Sardinia. A total of 449 patients from PARALS underwent tracheostomy during the study period, with a median post-tracheostomy survival of 16.3 months (IQR 4.0-45.0). Younger age at tracheostomy was associated with longer survival (HR 1.03 per one-year increase, 95%CI1.01-1.05, p = 0.001), as being married/cohabiting (HR 0.78, 95%CI0.61-0.98, p = 0.033), a longer diagnosis-to-tracheostomy interval (HR 0.84 per one-year increase, 95%CI0.79-0.90, p < 0.001) and a lower ALS Functional Rating Scale slope from onset to tracheostomy (HR 1.13 per one-unit increase, 95%CI1.03-1.25, p = 0.012). These associations were replicated in the independent cohorts, when data were available. Additionally, discharge to nursing homes was associated with poorer survival in the Sardinian cohort (HR 4.23, 95%CI2.49-7.19; p < 0.001), whereas a more recent year of tracheostomy was associated with longer survival in the ERRALS cohort (HR 0.95, 95%CI0.90-0.99; p = 0.019). We identified multiple factors associated with post-tracheostomy survival in ALS patients, encompassing clinical and demographic characteristics at tracheostomy as well as local factors influencing peri- and post-operative care. These findings may support decision-making and clinician-patient communication in the advanced stages of ALS.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Maccabeo A",
+        "Cabras S",
+        "Callegaro S",
+        "Pateri MI",
+        "Pili F",
+        "Canosa A",
+        "Manera U",
+        "Palumbo F",
+        "Matteoni E",
+        "Pellegrino G",
+        "Minerva E",
+        "Ciravegna A",
+        "Gianferrari G",
+        "Puligheddu M",
+        "Moglia C",
+        "De Marchi F",
+        "Mazzini L",
+        "Mandrioli J",
+        "Borghero G",
+        "Chiò A",
+        "Calvo A",
+        "Vasta R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895434/"
+    },
+    {
+      "id": "pmid-42896567",
+      "pmid": "42896567",
+      "doi": "10.1088/1741-2552/aeb62c",
+      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
+      "abstract": "Objective&#xD;A calibration-derived score has been related to online P300-speller accuracy in the same session, always within the cohort measured. We evaluated whether a mapping from that score to expected accuracy transports to withheld cohorts.&#xD;Approach&#xD;Retrospective secondary analysis of BigP3BCI 1.0.0, the largest evaluation of this relationship to date: 18 of 20 studies contributed 271 participants, 739 session-condition records, and 19,611 character selections. The predictor was a decoder's cross-validated discriminability on calibration epochs, one study withheld from development. Between-cohort variation was summarised by the random-effects standard deviation tau.&#xD;Main Results&#xD;The association was positive in all 18 cohorts but varied widely (r 0.190 to 0.928; participant-level r = 0.714, p < 0.001), with 12 CIs excluding zero. Pooled estimation error was 0.098 (95% CI 0.091 to 0.107) against a benchmark of 0.146. Calibration did not transport: intercept tau 0.87 (unrepresented-cohort interval -1.97 to 1.85, log-odds); cohort-specific slopes varied more than tenfold (tau 0.43, interval 0.111 to 2.005). Neither alignment (signal- or score-space) nor either nonlinear boundary meaningfully reduced this heterogeneity. Local recalibration with up to 16 participants did not reliably improve on transporting; refitting both intercept and slope was significantly worse than transporting at the smallest sizes. Median time per selection, a stopping-rule proxy, accounted for 66% of between-cohort slope variance in meta-regression. The four ALS cohorts gave an uncorrected slope spread of 0.223, against 0.560 overall.&#xD;Significance&#xD;The evaluated score is a classifier's cross-validated discriminability on each session's calibration data rather than the source studies' undocumented online decoder. That score reproducibly signals within-session accuracy, but its mapping to accuracy is cohort-specific and supports ranking sessions after local validation rather than reporting accuracy elsewhere. The four-cohort ALS subgroup appeared more homogeneous than the full archive, illustrating how conclusions about transportability from a small cohort set can be fragile.&#xD.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Gorenshtein A",
+        "Adiniaev Y",
+        "Liba T",
+        "Barash Y",
+        "Klang E",
+        "Daniel O"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896567/"
+    },
+    {
+      "id": "pmid-42898978",
+      "pmid": "42898978",
+      "doi": "10.1002/mco2.71069",
+      "title": "The Role of Astrocytes in the Inflammatory Response in Neurodiseases.",
+      "abstract": "Astrocytes have emerged as central regulators of neuroinflammation, extending far beyond their traditional roles as structural and metabolic support cells. In neurological disorders, astrocytes undergo reactive remodeling that encompasses morphological, transcriptional, metabolic, and functional changes. Rather than fitting into a fixed A1/A2 dichotomy, reactive astrocytes exist along a disease-, region-, and stage-dependent continuum shaped by local pathology and intercellular crosstalk. This review summarizes how astrocytes contribute to neuroinflammatory processes in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, central nervous system injury, infection, multiple sclerosis, epilepsy, and autism spectrum disorder. We highlight convergent mechanisms, including cytokine and chemokine release, complement activation, glutamate and ion homeostasis disruption, oxidative stress, metabolic reprogramming, and blood-brain barrier regulation, while emphasizing disease-specific astrocytic programs. We further discuss astrocyte interactions with microglia, neurons, oligodendrocytes, endothelial cells, and peripheral immune cells, as well as key regulatory pathways, epigenetic remodeling, and lipid-dependent metabolic signaling. Finally, we evaluate current and emerging astrocyte-targeted therapeutic strategies, including metabolic modulation, receptor targeting, gene editing, nanodelivery, and gut-brain axis interventions. Defining functionally validated astrocyte states and developing biomarker-guided, stage-adaptive therapies may enable more precise intervention in neuroinflammatory and neurodegenerative diseases.",
+      "journal": "MedComm",
+      "authors": [
+        "Peng S",
+        "Wang L",
+        "Ouyang J",
+        "Liu R"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898978/"
+    },
     {
       "id": "pmid-42893382",
       "pmid": "42893382",
@@ -49,6 +127,30 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42893382/"
     },
     {
+      "id": "pmid-42894325",
+      "pmid": "42894325",
+      "doi": "10.1080/13510002.2026.2732775",
+      "title": "Protein disulphide isomerase protects against ALS/FTD phenotypes associated with cyclin F in zebrafish and cellular models.",
+      "abstract": "Mutations in CCNF , encoding cyclin F, cause a small proportion of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) cases. Mutant cyclin F mislocalises from the nucleus to the cytoplasm, impairs the ubiquitin proteasome system, disrupts endoplasmic reticulum (ER) to Golgi transport, and triggers ER stress and apoptosis. Protein disulphide isomerase (PDI), a redox-active ER chaperone of the thioredoxin superfamily, protects against ALS phenotypes induced by mutant SOD1, TDP-43, and FUS, but its activity against mutant cyclin F has not been examined. To test whether PDI overexpression prevents the cellular and behavioural phenotypes induced by the ALS/FTD-associated cyclin F S621G mutation. Neuro-2a cells were co-transfected with mCherry-tagged wild-type or mutant cyclin F S621G and V5-tagged PDI or empty vector. Subcellular localisation, XBP-1 and CHOP activation, proteasome reporter (GFPu) accumulation, nuclear morphology, and cleaved caspase-3 immunoreactivity were assessed by confocal microscopy. Transient transgenic zebrafish larvae generated by mRNA co-injection of cyclin F and PDI were assessed by photomotor response at 48 h post-fertilisation. Mutant cyclin F S621G induced cytoplasmic mislocalisation, ER stress (assessed by XBP-1 and CHOP activation), proteasome dysfunction (indicated by GFPu accumulation), and apoptosis (assessed by nuclear condensation and caspase-3 activation), all of which were significantly attenuated by PDI co-expression. Zebrafish larvae expressing cyclin F S621G swam significantly shorter distances than uninjected or wildtype controls, and co-expression of PDI restored motor function to near-wildtype levels. PDI protects against ALS/FTD-associated mutant cyclin F in both cellular and in vivo zebrafish models, identifying PDI as a redox-based therapeutic target for CCNF -linked ALS/FTD.",
+      "journal": "Redox report : communications in free radical research",
+      "authors": [
+        "Shadfar S",
+        "Parakh S",
+        "Perri E",
+        "Jagaraj CJ",
+        "Assar Kashani S",
+        "Beyers K",
+        "Ragagnin AMG",
+        "Laird AS",
+        "Atkin JD"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894325/"
+    },
+    {
       "id": "pmid-42892517",
       "pmid": "42892517",
       "doi": "10.1016/j.nbd.2026.107659",
@@ -66,6 +168,27 @@
       ],
       "publishedAt": "2026-10-17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892517/"
+    },
+    {
+      "id": "pmid-42894599",
+      "pmid": "42894599",
+      "doi": "10.1007/s40203-026-00774-6",
+      "title": "Molecular recognition of axonal injury-associated candidate hub genes and predicted inhibitors across Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis.",
+      "abstract": "Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS) have converging molecular pathologies such as neuroinflammation, mitochondrial dysfunction, and axonal degeneration, but do not have broadly effective disease-modifying therapies. A novel computational strategy was used in this study with an integrated in-silico pipeline to determine common candidate hub genes across AD, PD, and ALS and to computationally screen candidate inhibitors. The gene expression datasets were retrieved from the Gene Expression Omnibus database and analyzed with limma R package for blood-derived gene expression datasets for AD (GSE63060), PD (GSE99039) and ALS (GSE112680). A multi-dataset intersection analysis revealed 138 genes commonly upregulated and 0 commonly downregulated genes, which were functionally enriched in immune regulation, apoptotic signaling and mitochondrial instability pathways. Protein-protein interaction network analysis identified three key genes (MMP9, PTPN6 and TNFRSF1A) as high-confidence candidate hub genes for AD, PD, and ALS. The ZINC library of 34,853 compounds was screened for drug-like properties using QikProp to yield 16,466 drug-like compounds. Based on the comparative screening results, the structure of MMP9 (PDB ID: 8K5Y) was chosen for further analysis and two of the selected compounds ZINC04582833, ZINC00047690 were identified as the two highest ranked compounds with docking scores of - 10.4 and - 9.7 kcal/mol respectively. Both complexes were further evaluated by 100 ns MD simulations, showing RMSD profile stability, maintained secondary structure for both complexes. The results in this study make ZINC04582833 and ZINC00047690 computationally prioritized candidates for shared neurodegenerative targets for experimental validation. The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00774-6.",
+      "journal": "In silico pharmacology",
+      "authors": [
+        "Naseer A",
+        "Iqbal N",
+        "Bibi I",
+        "Shah SAR",
+        "Khalid M",
+        "Khalid A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894599/"
     },
     {
       "id": "pmid-42891860",
@@ -89,6 +212,26 @@
       ],
       "publishedAt": "2026-10-17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42891860/"
+    },
+    {
+      "id": "pmid-42896458",
+      "pmid": "42896458",
+      "doi": "10.1016/j.jns.2026.126224",
+      "title": "Data-driven progression trajectories across clinical subtypes of amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) exhibits substantial clinical heterogeneity; however, conventional classifications based on the predominant site of involvement may not fully capture patterns of disease progression. This study aimed to identify data-driven subtypes of ALS and reconstruct their temporal progression using item-level scores from the ALS Functional Rating Scale-Revised (ALSFRS-R). Baseline data from 3067 participants in the Pooled Resource Open-Access ALS Clinical Trials database were analyzed. Subtype and Stage Inference (SuStaIn) was applied to ALSFRS-R item scores to identify subtypes and infer their progression trajectories. Internal consistency was evaluated using complexity and sensitivity analyses. Longitudinal stability was assessed at 180 and 365 days. Associations with functional decline and survival were examined using adjusted statistical models. Three clinically interpretable subtypes were identified, characterized by predominant upper-limb, lower-limb, or bulbar involvement. These subtypes exhibited distinct, consistent progression patterns across the analyses. Subtype stability was moderate short-term but limited longer-term; stage progression was largely monotonic. The bulbar subtype showed more rapid functional decline at both 180 and 365 days. Higher SuStaIn stage was associated with increased mortality. In an exploratory stage-stratified analysis, poorer survival was observed in the bulbar subtype than in the upper-limb subtype within the lower-stage group. This study reconstructed ALS subtype-specific functional progression trajectories and inferred disease stage using a widely accessible clinical scale. SuStaIn-derived subtypes characterized patterns of functional heterogeneity, and higher stage was associated with increased mortality. Further prospective comparative validation is needed to establish the prognostic and clinical utility of this framework.",
+      "journal": "Journal of the neurological sciences",
+      "authors": [
+        "Ozawa M",
+        "Yoshimaru D",
+        "Ishii K",
+        "Okano HJ",
+        "Pooled Resource Open-Access ALS Clinical Trials Consortium"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896458/"
     },
     {
       "id": "pmid-42891488",
@@ -346,6 +489,27 @@
       ],
       "publishedAt": "2026-10-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42875680/"
+    },
+    {
+      "id": "pmid-42895147",
+      "pmid": "42895147",
+      "doi": "10.2174/0118715273491538261009064612",
+      "title": "Mechanistic Evaluation of Psilocybin in Neurodegenerative Disorders: Relevance of 5-HT2A Receptors and Downstream Pathways.",
+      "abstract": "More than fifty million individuals worldwide are experiencing neurodegenerative disorders, which include Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, Huntington's disease, multiple sclerosis, and frontotemporal dementia. These disorders have a significant role in the gradual degradation of cognition and motor skills. Most current treatment approaches have little effect on changing the course of the disease and are largely symptomatic. Psilocybin, a naturally occurring tryptamine alkaloid from psilocybin mushrooms, has become a promising medicinal agent because of its hallucinogenic, neuroprotective, and neuroplastic properties. After being metabolically transformed into its active form, psilocin, it primarily activates serotonin 5-HT2A receptors. This modulates glutamatergic neurotransmission and neurotrophic signaling pathways such as BDNF/TrkB and mTOR, which regulate synaptic remodeling, dendritic complexity, neurogenesis, neuroinflammatory response, and default mode network connectivity, all of which are linked to depression and dementia. Preclinical research studies demonstrate that psilocybin increases hippocampal plasticity, restores dendritic complexity, lowers proinflammatory cytokine levels, and promotes fear extinction in experimental models of stress, ischemic stroke, and neurodegeneration. Emerging clinical studies also indicate that individuals with moderate cognitive impairment, early-onset Alzheimer's disease, and Parkinson's disease may see long-term decreases in anxiety and depression as well as improvements in cognitive function, frequently after a single dose administration. Additionally, psilocybin has demonstrated promise in treating mental comorbidities that often accompany neurodegenerative illness, such as treatment-resistant depression, drug use disorders, and obsessive-compulsive disorder. However, there are still significant obstacles to overcome, such as optimizing dosing schedules, assessing safety issues such as temporary perceptual abnormalities and cardiovascular consequences, and translating preclinical results into extensive phase -III clinical studies. This review incorporates the most recent data on psilocybin's chemistry, pharmacology, metabolism, and mechanistic actions; it highlights the drug's therapeutic potential across a variety of neurodegenerative diseases and emphasizes the necessity of carefully planned randomized controlled trials to determine clinical efficacy, long-term safety, and its place in multimodal treatment approaches.",
+      "journal": "CNS & neurological disorders drug targets",
+      "authors": [
+        "Chaudhary S",
+        "Dhankhar S",
+        "Saini M",
+        "Singh TG",
+        "Chauhan S",
+        "Kumar V"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895147/"
     },
     {
       "id": "pmid-42877817",
@@ -741,103 +905,6 @@
       ],
       "publishedAt": "2026-10-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42862650/"
-    },
-    {
-      "id": "pmid-42860504",
-      "pmid": "42860504",
-      "doi": "10.1007/s12017-026-08951-8",
-      "title": "Sigma-1 Receptor Mitigates Poly-GR-Associated Redox Dysregulation by Restoring NRF2/HO1 Signaling in C9orf72-Associated ALS.",
-      "abstract": "Hexanucleotide GGGGCC repeat expansions in C9orf72 produce arginine-rich dipeptide repeat proteins, including poly-GR and poly-PR, that contribute to amyotrophic lateral sclerosis (ALS) and frontotemporal dementia. Although poly-GR has been linked to oxidative stress and mitochondrial dysfunction, the mechanisms that determine whether antioxidant defenses are preserved or suppressed in poly-GR-expressing motor neurons remain incompletely understood. Here, we investigated whether Sigma-1 receptor (Sigma-1R) modulates poly-GR-associated redox dysregulation in cellular and mouse models. In NSC34 cells, both EGFP-PR 42 and EGFP-GR 50 expression reduced NRF2 protein levels. EGFP-GR 50 expression was also associated with reduced NRF1 and HO1 levels and increased reactive oxygen species (ROS) accumulation. Sigma-1R overexpression or pharmacological activation with fluvoxamine or PRE084 restored NRF2 and HO1 expression and attenuated both cellular and mitochondrial oxidative stress in EGFP-GR 50 -expressing cells. Co-treatment with the Sigma-1R antagonist NE100 attenuated the agonist-induced restoration of NRF2 and HO1. Furthermore, the NRF2 inhibitor ML385 attenuated agonist-mediated HO1 restoration, supporting the involvement of NRF2 activity in this downstream response. In an AAV-mediated EGFP-GR 50 mouse model, Sigma-1R deficiency was associated with shortened survival, reduced NeuN-positive neuronal counts, and decreased NRF2 immunoreactivity in the brain. Together, these findings identify Sigma-1R as a modulator of poly-GR-associated redox dysregulation and neuronal vulnerability and support further investigation of Sigma-1R modulation as a potential therapeutic strategy for C9orf72-associated ALS.",
-      "journal": "Neuromolecular medicine",
-      "authors": [
-        "Tsai CY",
-        "Wu HC",
-        "Su TP",
-        "Weng EF",
-        "Wang SM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42860504/"
-    },
-    {
-      "id": "pmid-42863218",
-      "pmid": "42863218",
-      "doi": "10.1016/j.bbrc.2026.154728",
-      "title": "Novel compounds induce AChR clustering and improve motor function in myasthenia gravis animal models.",
-      "abstract": "The neuromuscular junction (NMJ), the synapse between motor nerves and skeletal muscles, is implicated in the pathogenesis of various neuromuscular disorders, including myasthenia gravis (MG), congenital myasthenia, and amyotrophic lateral sclerosis. Postsynaptic clustering of acetylcholine receptors (AChRs) is crucial for NMJ formation. This process is initiated by agrin, a glycoprotein secreted from motor nerve terminals, which activates muscle-specific tyrosine kinase (MuSK) via its coreceptor, low-density lipoprotein receptor-related protein 4 (Lrp4), and thereby activates downstream signaling pathways that induce AChR clustering. MG is an autoimmune disease characterized by the production of autoantibodies against NMJ components such as AChR, MuSK, and Lrp4, which leads to impaired neuromuscular transmission and motor dysfunction. In this study, we identified orally active small-molecule compounds that promote AChR clustering through the Lrp4-MuSK signaling axis. Knockdown experiments demonstrated that Lrp4 was responsible for the compounds to induce AChR clustering. The compounds induced MuSK phosphorylation following the compound treatment in C2C12 cells and improved motor function and increased muscle volume in both MuSK-MG mice and AChR-MG rat models. Together, these findings identify orally active small molecules that potentiate Lrp4-MuSK signaling and highlight a pharmacological strategy to modulate NMJ function for MG and related neuromuscular disorders.",
-      "journal": "Biochemical and biophysical research communications",
-      "authors": [
-        "Saito A",
-        "Sekioka R",
-        "Nagashima A",
-        "Washio T",
-        "Honjo E",
-        "Koganemaru Y",
-        "Ohnuki K",
-        "Miyoshi S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42863218/"
-    },
-    {
-      "id": "pmid-42858780",
-      "pmid": "42858780",
-      "doi": "10.1016/j.neuroscience.2026.10.012",
-      "title": "Partial convergence of alternative polyadenylation changes across ALS-Associated RNA-Binding proteins.",
-      "abstract": "Alternative polyadenylation (APA) regulates transcript 3'-end architecture, stability, localization, and translation. Although RNA-binding protein dysfunction is central to amyotrophic lateral sclerosis (ALS), whether different ALS-associated proteins cause shared APA abnormalities remains unclear. We analyzed poly(A)-site usage after TDP-43 knockdown, TDP-43 K263E expression, FUS knockout, FUS P525L expression, and MATR3 knockout. Using false-discovery rate (FDR) < 0.05 as the primary criterion, evidence varied markedly among datasets. FUS knockout produced the strongest response, with 373 significant events affecting 239 genes. Three events involving two genes remained significant after TDP-43 knockdown, and two events involving one gene remained significant in the TDP-43 K263E dataset. No events survived FDR correction after FUS P525L expression or MATR3 knockout, and no FDR-significant events or genes were shared between datasets. We therefore examined nominal events (unadjusted P < 0.05) as an explicitly exploratory layer. Nominal event overlap was enriched in 7 of 10 pairwise comparisons, and nominal gene overlap in 9 of 10. TDP-43 knockdown and TDP-43 K263E showed the strongest directional agreement: 65 nominal events were shared; 25 were directionally classified in both datasets, of which 23 were concordant. FUS knockout and FUS P525L also showed enriched nominal overlap, but without significant directional concordance or correlated ΔPAU responses. Thus, FUS loss induces a robust FDR-supported APA phenotype, whereas evidence is substantially weaker in other contexts. Cross-dataset similarities occur mainly among exploratory nominal targets and do not consistently extend to direction or magnitude. APA responses therefore show partial, context-dependent convergence rather than a universal defect.",
-      "journal": "Neuroscience",
-      "authors": [
-        "Ji C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858780/"
-    },
-    {
-      "id": "pmid-42858164",
-      "pmid": "42858164",
-      "doi": "10.1177/10538135261490936",
-      "title": "Prognostication in Amyotrophic Lateral Sclerosis: A Narrative Review of Pre-Diagnosis and Functional Outcomes.",
-      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a very heterogeneous disease, yet some of the most common questions received by physicians in the ALS clinic are \"how much time do I have?\" and \"what can I expect to happen next?\" This line of inquiry is not strictly limited to patients; clinicians also need an idea of prognosis to appropriately plan for treatment decisions and prepare the patient and caregiver for future care needs. This narrative review synthesizes current evidence on prognostic indicators in ALS, organized across three temporal phases: factors preceding diagnosis, factors present at diagnosis, and factors emerging after diagnosis. Pre-diagnosis predictors include age at onset, sex, socioeconomic status, genetic background, premorbid Body Mass Index (BMI) and nutritional status, and comorbid disease. At diagnosis, clinical phenotype and site of onset, diagnostic delay, baseline Amyotrophic Lateral Sclerosis Functional Rating Score-Revised (ALSFRS-R) and forced vital capacity, cognitive involvement, fluid biomarkers, and electrophysiologic measures carry prognostic weight. Post-diagnosis, the trajectory is refined by the rate of ALSFRS-R decline, serial respiratory measures, and weight loss, and is actively modified by clinical interventions including noninvasive ventilation, enteral nutrition, disease-modifying therapy, and multidisciplinary care. Notably, quality of life does not track with physical decline, consistent with the disability paradox described in other severe neurological conditions. For neurorehabilitation, these indicators support a shift from reactive to anticipatory practice: timing equipment provision, communication support, respiratory intervention, and goals-of-care discussions to the predicted trajectory rather than to established deficit. Refinement of prognostic models may also improve stratification in ALS clinical trials.",
-      "journal": "NeuroRehabilitation",
-      "authors": [
-        "Vocelle A",
-        "Ensrud E",
-        "Howard IM"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858164/"
-    },
-    {
-      "id": "pmid-42864685",
-      "pmid": "42864685",
-      "doi": "10.1186/s40478-026-02449-x",
-      "title": "Vascular profiling of the spinal cord and cortex reveals region-specific endothelial dysfunction and fibroblast remodeling in human ALS.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive degeneration of upper and lower motor neurons. Increasing evidence suggests that neurovascular dysfunction contributes to ALS pathogenesis, but a comprehensive understanding of vascular cell alterations in the human central nervous system remains lacking. Here, to systematically characterize neurovascular changes in ALS, we curated single-nucleus transcriptomic datasets from human spinal cord and cortical tissues with a specific focus on vascular cell populations. Comparative analyses revealed substantial vascular perturbations in the spinal cord compared to the cortex. Among vascular-associated cell populations, endothelial cells and fibroblasts exhibited the most pronounced transcriptional alterations. Endothelial cells from ALS spinal cords displayed reduced blood-brain barrier integrity signatures and increased expression of inflammatory and stress-response programs, with the greatest changes manifested in capillary endothelial cells. In parallel, we generated a refined cellular atlas of spinal cord fibroblasts and identified three major fibroblast populations, including a distinct LAMA1 low perivascular fibroblast subtype. Fibroblast signatures were found to be consistently elevated in ALS across single-nucleus transcriptomic, bulk transcriptomic, and experimental validation datasets. Together, our findings establish a region-resolved view of neurovascular alternations in human ALS, which is characterized by endothelial barrier dysfunction and disease-associated remodeling of specialized perivascular fibroblasts. These findings broaden the cellular framework of ALS pathogenesis beyond neuronal and glial alterations and highlight the neurovascular niche as an integral component of human ALS disease biology.",
-      "journal": "Acta neuropathologica communications",
-      "authors": [
-        "Liao K",
-        "Lin J",
-        "Zhou Y",
-        "Lewandowski SA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864685/"
     }
   ]
 }
