@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-22T00:41:22.438Z",
+  "updatedAt": "2026-10-24T00:39:06.836Z",
   "summary": {
-    "totalItems": 42,
-    "issueCount": 55
+    "totalItems": 39,
+    "issueCount": 37
   },
   "sources": [
     {
@@ -25,20 +25,42 @@
     {
       "id": "pmid-42799589",
       "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
-      "titleZh": "生物标志物引导诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告",
+      "titleZh": "生物标志物引导下诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告",
       "category": "临床试验",
-      "evidenceLevel": "病例报告（单例，近亲婚配家庭）",
+      "evidenceLevel": "病例报告（单个近亲婚配家庭，1例患者）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42799589/"
     },
     {
+      "id": "pmid-42906586",
+      "title": "Towards semantic brain-computer interfacing: The graded inventory of semantic triggers (GIST) paradigm.",
+      "titleZh": "迈向语义脑机接口：语义触发分级清单（GIST）范式",
+      "category": "遗传",
+      "evidenceLevel": "探索性人体EEG研究（小样本，14名参与者）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906586/"
+    },
+    {
+      "id": "pmid-42905272",
+      "title": "Neurotransmitter-defined cerebral vulnerability patterns in frontotemporal lobar degeneration (FTLD).",
+      "titleZh": "神经递质定义额颞叶变性（FTLD）脑易损性模式",
+      "category": "临床试验",
+      "evidenceLevel": "观察性前瞻性神经影像关联研究（非干预性，非临床试验疗效证据）",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905272/"
+    },
+    {
       "id": "epmc-PMC-PMC13681303",
       "title": "Context-dependent oxytocin receptor signaling: from molecular architecture to transcript-level receptor engineering",
       "titleZh": "情境依赖的催产素受体信号传导：从分子结构到转录水平的受体工程",
       "category": "机制",
-      "evidenceLevel": "机制研究（仅题名与元数据，无摘要）",
+      "evidenceLevel": "机制研究（综述/概念性文章，无摘要可核实）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -47,123 +69,57 @@
     {
       "id": "epmc-PMC-PMC13682215",
       "title": "The role of vascular pathology in SMA: implications for pathogenesis and treatment",
-      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的意义",
+      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的启示",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（Europe PMC 元数据未提供摘要，无法确认研究类型与证据等级；来源标注为综述类期刊文章）",
+      "evidenceLevel": "待人工判定（原始元数据无摘要，无法确认研究类型与证据等级；来源为综述类期刊）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13682215"
     },
     {
-      "id": "epmc-MED-42900469",
-      "title": "Correction.",
-      "titleZh": "更正",
+      "id": "epmc-MED-42905535",
+      "title": "Molecular signatures of selective motor neuron vulnerability in old age.",
+      "titleZh": "老年期选择性运动神经元易损性的分子特征",
       "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/21678421.2026.2751860"
-    },
-    {
-      "id": "epmc-MED-42899469",
-      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8&lt;sup&gt;+&lt;/sup&gt; T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
-      "titleZh": "整合性人类前脑类器官揭示阿尔茨海默病病理中小胶质细胞介导的CD8⁺ T细胞募集与神经免疫功能障碍",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验（类器官模型；来源未提供摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.7554/elife.111730"
+      "url": "https://doi.org/10.1113/ep094279"
     },
     {
-      "id": "pmid-42896567",
-      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
-      "titleZh": "P300拼写器中的校准-准确率映射无法跨队列迁移，且经测试的对齐或局部重校准均未能恢复该映射",
+      "id": "epmc-MED-42904327",
+      "title": "Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay.",
+      "titleZh": "待复核翻译：Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay.",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究（回顾性二次分析）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896567/"
+      "url": "https://doi.org/10.1017/cjn.2026.10695"
     },
     {
-      "id": "epmc-PMC-PMC13668574",
-      "title": "Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis",
-      "titleZh": "待复核翻译：Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis",
+      "id": "epmc-PPR-PPR1347327",
+      "title": "Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis",
+      "titleZh": "待复核翻译：Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis",
       "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13668574"
+      "url": "https://doi.org/10.64898/2026.10.21.26365867"
     },
     {
-      "id": "epmc-PMC-PMC13671938",
-      "title": "Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice",
-      "titleZh": "待复核翻译：Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13671938"
-    },
-    {
-      "id": "epmc-PMC-PMC13672494",
-      "title": "Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease",
-      "titleZh": "待复核翻译：Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13672494"
-    },
-    {
-      "id": "epmc-PMC-PMC13669113",
-      "title": "Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study",
-      "titleZh": "待复核翻译：Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669113"
-    },
-    {
-      "id": "epmc-PMC-PMC13669845",
-      "title": "Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis",
-      "titleZh": "待复核翻译：Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669845"
-    },
-    {
-      "id": "epmc-PMC-PMC13669545",
-      "title": "Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders",
-      "titleZh": "待复核翻译：Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders",
+      "id": "epmc-MED-42789320",
+      "title": "Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons.",
+      "titleZh": "待复核翻译：Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669545"
-    },
-    {
-      "id": "epmc-PMC-PMC13672655",
-      "title": "Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study",
-      "titleZh": "待复核翻译：Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13672655"
+      "url": "https://doi.org/10.1039/d6tb01306f"
     }
   ],
   "missingIdentifiers": [
@@ -172,7 +128,7 @@
       "title": "Context-dependent oxytocin receptor signaling: from molecular architecture to transcript-level receptor engineering",
       "titleZh": "情境依赖的催产素受体信号传导：从分子结构到转录水平的受体工程",
       "category": "机制",
-      "evidenceLevel": "机制研究（仅题名与元数据，无摘要）",
+      "evidenceLevel": "机制研究（综述/概念性文章，无摘要可核实）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -181,9 +137,9 @@
     {
       "id": "epmc-PMC-PMC13682215",
       "title": "The role of vascular pathology in SMA: implications for pathogenesis and treatment",
-      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的意义",
+      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的启示",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（Europe PMC 元数据未提供摘要，无法确认研究类型与证据等级；来源标注为综述类期刊文章）",
+      "evidenceLevel": "待人工判定（原始元数据无摘要，无法确认研究类型与证据等级；来源为综述类期刊）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -192,99 +148,33 @@
     {
       "id": "epmc-PMC-PMC13682418",
       "title": "Lower Motor Neuron Disease Misclassified As Inflammatory Myopathy in a Young Woman With Myositis-Specific Antibodies",
-      "titleZh": "一例携带肌炎特异性抗体的年轻女性下运动神经元病被误诊为炎性肌病",
+      "titleZh": "一名携带肌炎特异性抗体的年轻女性中，下运动神经元病被误诊为炎性肌病",
       "category": "生物标志物",
-      "evidenceLevel": "病例报告（单例），证据等级低，需人工判定",
+      "evidenceLevel": "病例报告（单例；摘要缺失，需查阅全文核实）",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13682418"
-    },
-    {
-      "id": "epmc-PMC-PMC13668574",
-      "title": "Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis",
-      "titleZh": "待复核翻译：Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13668574"
-    },
-    {
-      "id": "epmc-PMC-PMC13671938",
-      "title": "Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice",
-      "titleZh": "待复核翻译：Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13671938"
-    },
-    {
-      "id": "epmc-PMC-PMC13672494",
-      "title": "Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease",
-      "titleZh": "待复核翻译：Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13672494"
-    },
-    {
-      "id": "epmc-PMC-PMC13669113",
-      "title": "Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study",
-      "titleZh": "待复核翻译：Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669113"
-    },
-    {
-      "id": "epmc-PMC-PMC13669845",
-      "title": "Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis",
-      "titleZh": "待复核翻译：Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669845"
-    },
-    {
-      "id": "epmc-PMC-PMC13669545",
-      "title": "Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders",
-      "titleZh": "待复核翻译：Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669545"
-    },
-    {
-      "id": "epmc-PMC-PMC13672655",
-      "title": "Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study",
-      "titleZh": "待复核翻译：Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13672655"
     }
   ],
   "missingAbstract": [
+    {
+      "id": "epmc-PPR-PPR1348363",
+      "title": "High-Density Surface Electromyography Detects Fiber-Type-Related Profiles and Disease-Relevant Fatigue Trajectories in Amyotrophic Lateral Sclerosis",
+      "titleZh": "高密度表面肌电图可检测肌萎缩侧索硬化中与纤维类型相关的特征及疾病相关疲劳轨迹",
+      "category": "机制",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.64898/2026.10.20.26366045"
+    },
     {
       "id": "epmc-PMC-PMC13681303",
       "title": "Context-dependent oxytocin receptor signaling: from molecular architecture to transcript-level receptor engineering",
       "titleZh": "情境依赖的催产素受体信号传导：从分子结构到转录水平的受体工程",
       "category": "机制",
-      "evidenceLevel": "机制研究（仅题名与元数据，无摘要）",
+      "evidenceLevel": "机制研究（综述/概念性文章，无摘要可核实）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -293,9 +183,9 @@
     {
       "id": "epmc-PMC-PMC13682215",
       "title": "The role of vascular pathology in SMA: implications for pathogenesis and treatment",
-      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的意义",
+      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的启示",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（Europe PMC 元数据未提供摘要，无法确认研究类型与证据等级；来源标注为综述类期刊文章）",
+      "evidenceLevel": "待人工判定（原始元数据无摘要，无法确认研究类型与证据等级；来源为综述类期刊）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -304,350 +194,262 @@
     {
       "id": "epmc-PMC-PMC13682418",
       "title": "Lower Motor Neuron Disease Misclassified As Inflammatory Myopathy in a Young Woman With Myositis-Specific Antibodies",
-      "titleZh": "一例携带肌炎特异性抗体的年轻女性下运动神经元病被误诊为炎性肌病",
+      "titleZh": "一名携带肌炎特异性抗体的年轻女性中，下运动神经元病被误诊为炎性肌病",
       "category": "生物标志物",
-      "evidenceLevel": "病例报告（单例），证据等级低，需人工判定",
+      "evidenceLevel": "病例报告（单例；摘要缺失，需查阅全文核实）",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13682418"
     },
     {
-      "id": "epmc-MED-42900469",
-      "title": "Correction.",
-      "titleZh": "更正",
+      "id": "epmc-MED-42905535",
+      "title": "Molecular signatures of selective motor neuron vulnerability in old age.",
+      "titleZh": "老年期选择性运动神经元易损性的分子特征",
+      "category": "机制",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1113/ep094279"
+    },
+    {
+      "id": "epmc-MED-42904327",
+      "title": "Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay.",
+      "titleZh": "待复核翻译：Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay.",
       "category": "机制",
       "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/21678421.2026.2751860"
-    },
-    {
-      "id": "epmc-MED-42899469",
-      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8&lt;sup&gt;+&lt;/sup&gt; T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
-      "titleZh": "整合性人类前脑类器官揭示阿尔茨海默病病理中小胶质细胞介导的CD8⁺ T细胞募集与神经免疫功能障碍",
-      "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验（类器官模型；来源未提供摘要）",
-      "relevanceScore": 0,
+      "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.7554/elife.111730"
+      "url": "https://doi.org/10.1017/cjn.2026.10695"
     },
     {
-      "id": "epmc-PMC-PMC13668574",
-      "title": "Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis",
-      "titleZh": "待复核翻译：Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13668574"
-    },
-    {
-      "id": "epmc-PMC-PMC13671938",
-      "title": "Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice",
-      "titleZh": "待复核翻译：Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13671938"
-    },
-    {
-      "id": "epmc-PMC-PMC13672494",
-      "title": "Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease",
-      "titleZh": "待复核翻译：Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13672494"
-    },
-    {
-      "id": "epmc-PMC-PMC13669113",
-      "title": "Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study",
-      "titleZh": "待复核翻译：Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669113"
-    },
-    {
-      "id": "epmc-PMC-PMC13669845",
-      "title": "Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis",
-      "titleZh": "待复核翻译：Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis",
+      "id": "epmc-PPR-PPR1348543",
+      "title": "Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and Amyotrophic Lateral Sclerosis Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study",
+      "titleZh": "Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and 肌萎缩侧索硬化症 Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study",
       "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.10.19.26365782"
+    },
+    {
+      "id": "epmc-PPR-PPR1347327",
+      "title": "Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis",
+      "titleZh": "待复核翻译：Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669845"
+      "url": "https://doi.org/10.64898/2026.10.21.26365867"
     },
     {
-      "id": "epmc-PMC-PMC13669545",
-      "title": "Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders",
-      "titleZh": "待复核翻译：Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders",
+      "id": "epmc-MED-42789320",
+      "title": "Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons.",
+      "titleZh": "待复核翻译：Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons.",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13669545"
-    },
-    {
-      "id": "epmc-PMC-PMC13672655",
-      "title": "Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study",
-      "titleZh": "待复核翻译：Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13672655"
+      "url": "https://doi.org/10.1039/d6tb01306f"
     }
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42902402",
-      "title": "ABCD-Trial: study protocol for a randomized, double-blind, placebo-controlled study in patients with Amyotrophic lateral sclerosis for the evaluation of efficacy and safety of B-Cell Depletion with rituximab (ABCD).",
-      "titleZh": "ABCD试验：一项评估利妥昔单抗B细胞清除治疗肌萎缩侧索硬化疗效与安全性的随机、双盲、安慰剂对照研究方案",
-      "category": "临床试验",
-      "evidenceLevel": "随机对照试验（研究方案，尚未报告结果）",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902402/"
-    },
-    {
-      "id": "pmid-42901819",
-      "title": "Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study.",
-      "titleZh": "脑脊液淀粉样蛋白和神经退行性生物标志物在肌萎缩侧索硬化诊断和预后中的作用：一项多队列观察性研究",
-      "category": "临床试验",
-      "evidenceLevel": "观察性临床研究（多队列观察性研究）",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901819/"
-    },
-    {
-      "id": "pmid-42879493",
-      "title": "An integrative transcriptomic atlas of ALS and aging skeletal muscle defines shared and distinct molecular programs of degeneration.",
-      "titleZh": "ALS与衰老骨骼肌的整合转录组图谱界定退变的共享与独特分子程序",
+      "id": "pmid-42907506",
+      "title": "Cold activates a BH2 metabolic network promoting longevity and proteostasis.",
+      "titleZh": "寒冷激活BH2代谢网络促进长寿与蛋白稳态",
       "category": "临床试验",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879493/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907506/"
     },
     {
-      "id": "pmid-42854693",
-      "title": "Anti-HDGFL2 cryptic protein antibodies provide a sensitive readout of TDP-43 pathology and clinical disease features.",
-      "titleZh": "抗HDGFL2隐蔽蛋白抗体可灵敏反映TDP-43病理及临床疾病特征",
-      "category": "临床试验",
-      "evidenceLevel": "尸体组织与抗体/免疫检测方法学研究（原文标注为期刊研究论文，非临床试验）",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854693/"
-    },
-    {
-      "id": "pmid-42826718",
-      "title": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
-      "titleZh": "从患者细胞到患者治疗：神经退行性疾病中基于iPSC转化的二十年",
-      "category": "临床试验",
-      "evidenceLevel": "综述（非原始实验研究）",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/"
-    },
-    {
-      "id": "trial-NCT07571174",
-      "title": "A Substudy of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
-      "titleZh": "A Substudy of LY4256984 in Participants With Sporadic 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07571174"
-    },
-    {
-      "id": "trial-NCT06441682",
-      "title": "A Safety and Efficacy Study of ARGX-119 in Adult Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A Safety and Efficacy Study of ARGX-119 in Adult Patients With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT05936619",
+      "title": "MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",
+      "titleZh": "待复核翻译：MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06441682"
+      "url": "https://clinicaltrials.gov/study/NCT05936619"
     },
     {
-      "id": "trial-NCT07726563",
-      "title": "Plasmapheresis in Amyotrophic Lateral Sclerosis With Autoantibody Against NRIP 2 (PALADIN2)",
-      "titleZh": "Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP 2 (PALADIN2)",
+      "id": "trial-NCT02164253",
+      "title": "Focal Accumulation of Iron in Cerebral Regions in Early ALS (Amyotrophic Lateral Sclerosis) Patients",
+      "titleZh": "Focal Accumulation of Iron in Cerebral Regions in Early ALS (肌萎缩侧索硬化症) Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07726563"
+      "url": "https://clinicaltrials.gov/study/NCT02164253"
     },
     {
-      "id": "trial-NCT05508074",
-      "title": "Treatment Combining Riluzole and IFB-088 in Bulbar Amyotrophic Lateral Sclerosis (TRIALS Protocol)",
-      "titleZh": "Treatment Combining Riluzole and IFB-088 in Bulbar 肌萎缩侧索硬化症 (TRIALS Protocol)",
+      "id": "trial-NCT07423494",
+      "title": "Personalized Antisense Oligonucleotide Therapy for A Single Patient With CHCHD10 ALS (nL18576)",
+      "titleZh": "Personalized 反义寡核苷酸 Therapy for A Single Patient With CHCHD10 ALS (nL18576)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05508074"
+      "url": "https://clinicaltrials.gov/study/NCT07423494"
     },
     {
-      "id": "trial-NCT03487263",
-      "title": "Dose-Escalation, Safety and Pharmacokinetic Study of IC14 in Motor Neurone Disease",
-      "titleZh": "Dose-Escalation, Safety and Pharmacokinetic Study of IC14 in 运动神经元病",
+      "id": "trial-NCT07067229",
+      "title": "Non-invasive Brain Stimulation and Exercise Intervention for Patients With Motor Neuron Disease",
+      "titleZh": "Non-invasive Brain Stimulation and Exercise Intervention for Patients With 运动神经元病",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07067229"
+    },
+    {
+      "id": "trial-NCT03488524",
+      "title": "Open Label Extension Study of AMX0035 in Patients With ALS",
+      "titleZh": "待复核翻译：Open Label Extension Study of AMX0035 in Patients With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03488524"
+    },
+    {
+      "id": "trial-NCT07093268",
+      "title": "Safety of Intrathecal Riluzole in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Safety of Intrathecal Riluzole in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03487263"
+      "url": "https://clinicaltrials.gov/study/NCT07093268"
     },
     {
-      "id": "trial-NCT02532244",
-      "title": "Genetics of Pediatric-Onset Motor Neuron and Neuromuscular Diseases",
-      "titleZh": "待复核翻译：Genetics of Pediatric-Onset Motor Neuron and Neuromuscular Diseases",
+      "id": "trial-NCT06700304",
+      "title": "CAN-PRIME: Precise Robotically Implanted Brain-Computer Interface for the Control of External Devices",
+      "titleZh": "CAN-PRIME: Precise Robotically Implanted 脑机接口 for the Control of External Devices",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06700304"
+    },
+    {
+      "id": "trial-NCT06810219",
+      "title": "Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
+      "titleZh": "待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06810219"
+    },
+    {
+      "id": "trial-NCT01954875",
+      "title": "Establishment of a Human Tissue Bank for Studying the Microbial Etiology of Neurodegenerative Diseases",
+      "titleZh": "待复核翻译：Establishment of a Human Tissue Bank for Studying the Microbial Etiology of Neurodegenerative Diseases",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01954875"
+    },
+    {
+      "id": "trial-NCT04809675",
+      "title": "Effectiveness of Two Oral Appliances for Managing Oral Self-biting Injuries in Patients With ALS",
+      "titleZh": "待复核翻译：Effectiveness of Two Oral Appliances for Managing Oral Self-biting Injuries in Patients With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04809675"
+    },
+    {
+      "id": "trial-NCT01786603",
+      "title": "Rasagiline in Subjects With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Rasagiline in Subjects With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01786603"
+    },
+    {
+      "id": "trial-NCT01992029",
+      "title": "Study of miRNA Expression Pattern as Diagnostic and Prognostic Biomarker in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Study of miRNA Expression Pattern as Diagnostic and Prognostic 生物标志物 in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01992029"
+    },
+    {
+      "id": "trial-NCT00714636",
+      "title": "Cerebrospinal Fluid Repository",
+      "titleZh": "待复核翻译：Cerebrospinal Fluid Repository",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02532244"
+      "url": "https://clinicaltrials.gov/study/NCT00714636"
     },
     {
-      "id": "trial-NCT04749433",
-      "title": "Study of [11C]CPPC to Assess the Safety and Tolerability in Patients With ALS",
-      "titleZh": "待复核翻译：Study of [11C]CPPC to Assess the Safety and Tolerability in Patients With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04749433"
-    },
-    {
-      "id": "trial-NCT05309408",
-      "title": "A Longitudinal Analysis of Biomarkers in Patients With ALS",
-      "titleZh": "A Longitudinal Analysis of 生物标志物s in Patients With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05309408"
-    },
-    {
-      "id": "trial-NCT04322149",
-      "title": "Multiple Doses of AT-1501-A201 in Adults With ALS",
-      "titleZh": "待复核翻译：Multiple Doses of AT-1501-A201 in Adults With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04322149"
-    },
-    {
-      "id": "trial-NCT05019014",
-      "title": "Olfactory Deficits in Neurologic Disease",
-      "titleZh": "待复核翻译：Olfactory Deficits in Neurologic Disease",
+      "id": "trial-NCT01592084",
+      "title": "Hyperlipidemia and Statin Therapy in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Hyperlipidemia and Statin Therapy in 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05019014"
+      "url": "https://clinicaltrials.gov/study/NCT01592084"
     },
     {
-      "id": "trial-NCT04557410",
-      "title": "Open Label Study: Treatment of ALS Fatigue With PolyMVA",
-      "titleZh": "待复核翻译：Open Label Study: Treatment of ALS Fatigue With PolyMVA",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04557410"
-    },
-    {
-      "id": "trial-NCT00334516",
-      "title": "Brain Function in Primary Lateral Sclerosis and Amyotrophic Lateral Sclerosis",
-      "titleZh": "Brain Function in Primary Lateral Sclerosis and 肌萎缩侧索硬化症",
+      "id": "trial-NCT00606918",
+      "title": "Validation of a New Device to Measure Neuromuscular Disease Progression",
+      "titleZh": "待复核翻译：Validation of a New Device to Measure Neuromuscular Disease Progression",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00334516"
-    },
-    {
-      "id": "trial-NCT00072709",
-      "title": "Study Evaluating TCH346 and Placebo Administered Once Daily in Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Study Evaluating TCH346 and Placebo Administered Once Daily in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00072709"
-    },
-    {
-      "id": "trial-NCT00298597",
-      "title": "Influence of G-CSF and EPO on Associative Learning and Motor Skills",
-      "titleZh": "待复核翻译：Influence of G-CSF and EPO on Associative Learning and Motor Skills",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00298597"
-    },
-    {
-      "id": "trial-NCT00353665",
-      "title": "Memantine for Disability in Amyotrophic Lateral Sclerosis (MEDALS)",
-      "titleZh": "Memantine for Disability in 肌萎缩侧索硬化症 (MEDALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00353665"
+      "url": "https://clinicaltrials.gov/study/NCT00606918"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 13,
-    "缺标识符": 10,
-    "缺摘要": 12,
-    "高优先级待复核": 20,
+    "疑似误收": 9,
+    "缺标识符": 3,
+    "缺摘要": 9,
+    "高优先级待复核": 16,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 42
+    "待复核": 39
   },
   "relevanceCounts": {
-    "high": 24,
-    "medium": 5,
-    "low": 13
+    "high": 22,
+    "medium": 8,
+    "low": 9
   }
 }

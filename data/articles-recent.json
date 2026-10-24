@@ -1,14 +1,245 @@
 {
-  "updatedAt": "2026-10-22T00:39:53.268Z",
+  "updatedAt": "2026-10-24T00:37:25.498Z",
   "period": {
     "days": 10,
-    "from": "2026-10-13",
-    "to": "2026-10-22"
+    "from": "2026-10-15",
+    "to": "2026-10-24"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 36,
+  "count": 33,
   "articles": [
+    {
+      "id": "pmid-42911846",
+      "pmid": "42911846",
+      "doi": "10.1093/brain/awag210",
+      "title": "Clinically unresponsive patients with acute brain injury activate a brain-computer interface.",
+      "abstract": "Brain activation to verbal commands can be detected by EEG in clinically unresponsive patients. These patients with cognitive motor dissociation (CMD) are unable to communicate with the environment despite preserved consciousness. Advanced brain-computer interfaces (BCI) are promising to support motor function in patients with motor neuron disease or spinal cord injury. Our primary objective was to determine if clinically unresponsive patients can control a self-paced, one-way BCI early after acute brain injury. Secondarily, we assessed the association of BCI control with short- and long-term outcomes. We conducted a prospective single-centre cohort study in 41 clinically unresponsive, critically ill and acutely brain injured patients, as well as in a convenience sample of 8 healthy volunteers and 22 conscious critically ill patients. The self-paced BCI analysed EEG in real time and modulated frequency and pitch of a tone that patients controlled by attempting a motor task: patients were provided with instructions 'to make the beep sound faster, keep opening and closing your right hand' alternating with 'to make the beep sound slower, stop opening and closing your right hand'. CMD was detected by applying machine learning to EEG recorded while patients listened to motor commands. Clinical outcomes were recovery of consciousness by hospital discharge, assessed with the Coma Recovery Scale-Revised, and recovery of functional independence at 12 months, defined as a Glasgow Outcome Scale-Extended score of 4 or higher (denoting the ability to function independently for 8 h or more). Additionally, we invited conscious patients as well as family members of conscious and clinically unresponsive patients to complete a survey on perceived utility and challenges associated with the BCI. In this study, 13 clinically unresponsive patients (32%) achieved BCI control and 8 of 41 (20%) were CMD-positive. All healthy volunteers and nine conscious patients (41%) were able to control the BCI. Median signal delay for BCI control was 49.8 [interquartile range (IQR) 39.9-75.6] seconds for clinically unresponsive patients, 17.1 (IQR 7.8-19.9) for conscious patients and 15.5 (IQR 12.9-21.2) for healthy volunteers. In the group of 41 clinically unresponsive patients, 4 of 13 patients with (31%) and 1 of 28 without BCI control (4%) recovered clinical consciousness at hospital discharge [odds ratio (OR) 21.2; 95% confidence interval (CI) 2.3-930.7]. At 12 months, 6 of 13 patients with (46%) and 2 of 28 without BCI control (7%) recovered functional independence (OR 9.9; 95% CI 1.8-81.6). None of the patients that were unable to control the BCI and were CMD-negative recovered. Patients with BCI control had shorter times to recovery of functional independence by 12 months than those who did not (hazards ratio 6.0; 95% CI 1.2-30.6). All respondents of the BCI survey (n = 37) expressed strong support for the potential future use of BCI devices. These results suggest that BCI control is a strong predictor of outcomes following acute brain injury and provide initial evidence that a bedside, EEG-based BCI system might permit bidirectional communication in critically ill unresponsive patients.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Shen Q",
+        "Eliseyev A",
+        "Kansara V",
+        "Neves Briard J",
+        "Song YL",
+        "Carmona J",
+        "Gonzales IJ",
+        "Velazquez A",
+        "Klein AJ",
+        "Agarwal S",
+        "Park S",
+        "Ghoshal S",
+        "Roh D",
+        "Connolly ES",
+        "Claassen J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911846/"
+    },
+    {
+      "id": "pmid-42907506",
+      "pmid": "42907506",
+      "doi": "10.1038/s41586-026-11152-9",
+      "title": "Cold activates a BH2 metabolic network promoting longevity and proteostasis.",
+      "abstract": "Moderately cold temperatures extend lifespan and promote health across species 1-3 , yet the molecular mechanisms underlying these benefits remain unclear. Here we define a metabolite-driven, multi-tissue signalling system that links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans. Cold temperature upregulates the biopterin-synthesis enzyme CAT-4 (GCH1 in humans), increasing production of dihydrobiopterin (BH2), a transportable reservoir for the bioactive cofactor tetrahydrobiopterin (BH4). BH2 is produced in muscle and transported to distal tissues, including the intestine and neurons, where it is converted into BH4 by the salvage enzyme DHFR-1. BH4 functions as an essential cofactor for phenylalanine hydroxylase PAH-1, promoting tyrosine synthesis and extending lifespan. This BH2-BH4 axis also prevents disease-related protein aggregation and subsequent neuronal dysfunction during ageing. Importantly, increasing BH2 synthesis specifically in muscle is sufficient to promote longevity and suppress pathological protein aggregation in distal tissues, even at normal or elevated temperatures. In human cells, BH2 or tyrosine supplementation reduces aggregation of polyQ-expanded proteins associated with Huntington's disease, as well as mutant variants of TDP-43 and FUS that cause amyotrophic lateral sclerosis. Together, these findings identify BH2 as a cold-induced metabolite of which the synthesis, intertissue transport and conversion into bioactive BH4 preserve organism-wide proteostasis and extend lifespan.",
+      "journal": "Nature",
+      "authors": [
+        "Lee HJ",
+        "Doğan C",
+        "Koyuncu S",
+        "Wehrmann M",
+        "Artan M",
+        "Petrovic D",
+        "Loureiro R",
+        "Sahu AK",
+        "Schnubel J",
+        "Grobushkin P",
+        "Prymidis D",
+        "Georgomanolis T",
+        "Sokol A",
+        "Yang M",
+        "Hoppe T",
+        "Frezza C",
+        "Vilchez D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907506/"
+    },
+    {
+      "id": "pmid-42904327",
+      "pmid": "42904327",
+      "doi": "10.1017/cjn.2026.10695",
+      "title": "Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay.",
+      "abstract": "Autosomal recessive spastic ataxia of Charlevoix-Saguenay (ARSACS) is a rare, early-onset neurodegenerative disorder characterized by progressive cerebellar ataxia, spasticity and peripheral neuropathy. It is caused by biallelic mutations in the SACS gene, which encodes sacsin, a large protein involved in cytoskeletal organization and mitochondrial homeostasis, and protein quality control. Despite advances in understanding sacsin biology, the molecular mechanisms underlying neurodegeneration in ARSACS remain incompletely understood. Here, we report the first neuropathological evidence of pathological TAR DNA-binding protein 43 (TDP-43) accumulation in ARSACS. Available postmortem brain tissue from a genetically confirmed ARSACS patient homozygous for the Quebec founder mutation ( SACS c.8844delT) was analyzed by immunohistochemistry, immunofluorescence and biochemical fractionation. Neurons in the prefrontal cortex, motor cortex and cerebellum exhibited cytoplasmic phosphorylated dot-like TDP-43 (pTDP-43) aggregates with reduced nuclear localization. Biochemical fractionation further identified detergent-insoluble TDP-43 species in ARSACS tissue. Additional pathological features included increased neurofilament accumulation, vacuole-like neuronal changes, Purkinje cell loss and p62-positive cytoplasmic inclusions. Similar dot-like cytoplasmic pTDP-43 aggregates were observed in a second ARSACS case. These findings identify pTDP-43 as a previously unrecognized pathological feature of ARSACS. While the patient exhibited no clinical or histopathological signs of amyotrophic lateral sclerosis, the presence of atypical pTDP-43 aggregates observed in ARSACS may represent a rare, secondary, early-stage or potentially underrecognized manifestation of TDP-43 pathology rather than a defining hallmark of the disease. Further studies in additional patients and experimental ARSACS models will be required to determine the prevalence and mechanistic basis of TDP-43 abnormalities in this disorder.",
+      "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+      "authors": [
+        "Paquet A",
+        "Touzel-Deschênes L",
+        "Roy V",
+        "Brisson JD",
+        "Mathieu J",
+        "Dupré N",
+        "Saikali S",
+        "Gros-Louis F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904327/"
+    },
+    {
+      "id": "pmid-42904407",
+      "pmid": "42904407",
+      "doi": "10.1080/21678421.2026.2747563",
+      "title": "End-of-life care of patients with amyotrophic lateral sclerosis and home mechanical ventilation: the national population-based DISCOVERY study.",
+      "abstract": "Background: Home mechanical ventilation (HMV), including noninvasive ventilation (NIV) and invasive ventilation (IV), is increasingly used in people with amyotrophic lateral sclerosis (pwALS), but its impact on end-of-life care remains unclear. Objective: To examine whether ventilation pathway (NIV or IV) influences symptom prevalence and relief during the final week of life in pwALS. Secondary objectives were to assess end-of-life discussions, place and cause of death, and anticipated death. Methods: This national, population-based retrospective cohort study included pwALS using HMV in the Swedish National Quality Registry for Respiratory Failure (Swedevox), cross-linked with the Swedish Register of Palliative Care, which contains staff-reported end-of-life data, and other national registries. Results: Among 652 pwALS, 609 received NIV (mean age 66 years, 42% female) and 43 IV (mean age 60 years, 42% female). Anxiety and breathlessness were more common in the NIV group (76% vs 48% and 72% vs 31%, both p < 0.001), while prevalence and relief of other symptoms were similar between groups. Most patients had end-of-life discussions (NIV 87%, IV 92%). NIV patients more often died in specialized palliative wards (22% vs 7%, p = 0.023). Most deaths were due to ALS (96%) and were anticipated (NIV 94%, IV 88%). Conclusions: In pwALS with HVM, NIV was associated with higher rates of anxiety and breathlessness in the final week of life, but the ventilation pathway did not influence overall symptom relief. End-of-life communications and cause of death were similar; place of death differed by ventilation pathway; however, most deaths were anticipated.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Dalkvist M",
+        "Ersson K",
+        "Bergström S",
+        "Ekström M",
+        "Emilsson ÖI",
+        "Grote L",
+        "Ingre C",
+        "Kläppe U",
+        "Lundström S",
+        "Nygren I",
+        "Sundh J",
+        "Palm A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904407/"
+    },
+    {
+      "id": "pmid-42905535",
+      "pmid": "42905535",
+      "doi": "10.1113/EP094279",
+      "title": "Molecular signatures of selective motor neuron vulnerability in old age.",
+      "abstract": "Motor neuron (MN) death and impairment of fast-fatigable motor units is widely recognized in elderly humans and rats. However, the molecular signatures identifying vulnerable MNs remains underexplored. In murine models of amyotrophic lateral sclerosis, matrix metalloproteinase 9 (MMP-9) and chondrolectin (Chodl) decline with disease progression and have been considered molecular markers of fast-fatigable MNs. However, their expression in brainstem and lumbar MNs, in accordance with the 'size principle' (in which motor units are recruited in a size-dependent manner, with MNs of lower capacitance activated before those of greater capacitance) and their expression throughout the lifespan remain unclear. Here, we evaluated MMP-9 and Chodl in lumbar and hypoglossal MNs in young (6 months) and old (24 months) Fischer 344 (F344) rats. Longitudinal lumbar spinal cord transverse brainstem sections (the orientations providing maximal MN somal sizes for each pool) were immunolabelled for choline acetyltransferase, MMP-9 and Chodl. Expression was quantified using confocal microscopy in young and old rats (n = 5 females, n = 5 males per age). Overall, MMP-9 demonstrated a positive association with lumbar MN somal surface area in young rats. Paired within-animal analysis showed that in larger MNs, MMP-9 positivity was ∼70% greater than smaller MNs. The size-dependence of MMP-9 expression was absent in old lumbar MNs, suggesting either selective loss or downregulation of MMP-9 MN expression in ageing. No size-dependent change in Chodl was observed in lumbar or hypoglossal MNs, nor was MMP-9 associated with MN size in hypoglossal MNs. Collectively, these findings identify MMP-9 as a marker enriched within large lumbar MNs in young rats and suggest that age-related alterations in MMP-9 expression may reflect the selective vulnerability of the lumbar MNs.",
+      "journal": "Experimental physiology",
+      "authors": [
+        "Cheung SW",
+        "Fogarty MJ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905535/"
+    },
+    {
+      "id": "pmid-42905272",
+      "pmid": "42905272",
+      "doi": "10.1007/s00415-026-14216-y",
+      "title": "Neurotransmitter-defined cerebral vulnerability patterns in frontotemporal lobar degeneration (FTLD).",
+      "abstract": "Frontotemporal dementia syndromes encompass a genetically, clinically and radiologically heterogeneous set of conditions with distinctive clinical and imaging characteristics. The main FTD phenotypes exhibit strikingly different disease burden patterns with a predilection to specific brain regions and relative sparing of others. The apparent selectivity of cerebral involvement in FTD has not been fully elucidated. A prospective neuroimaging study has been undertaken with a uniform imaging protocol to characterise atrophy patterns in ALS-FTD, behavioural variant FTD, nonfluent variant primary progressive aphasia, and semantic variant primary progressive aphasia and evaluate associations with physiological neurotransmitter receptor expression maps. Anatomical correlations between focal volume loss and a large panel of neurotransmitters were systematically evaluated and associations ranked. Associations were noted with GABAergic, opioid, cannabinoid, microglial and acetylcholine systems in ALSFTD-C9NEG. Correlations were observed with opioid, glutaminergic, and synaptic vesicle glycoprotein 2A receptor populations in ALSFTD-C9POS. Atrophy in bvFTD showed predilection to serotonergic, glutaminergic, opioid, GABAergic and cannabinoid circuits. Volume loss in nfvPPA colocalised with GABAergic, opioid, microglial, serotonergic, cannabinoid, acetylcholine, glutaminergic and dopaminergic networks. A multitude of neurotransmitter populations are implicated in svPPA including opioid, serotonergic, GABAergic, dopaminergic, and microglial systems. The distinctive neuroimaging signatures of FTD phenotypes exhibit spatial associations with physiological neurotransmitter receptor density maps. The propensity of atrophy to specific brain regions in FTD subtypes may be defined by neurotransmitter populations. Our findings indirectly support the notion of neurotransmitter-system defined connectivity-based disease propagation in FTD.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Tahedl M",
+        "Toomey A",
+        "Mandal N",
+        "Mangan S",
+        "Siah WF",
+        "Tan EL",
+        "Hardiman O",
+        "Kleinerova J",
+        "McKenna MC",
+        "Hutchinson S",
+        "Lope J",
+        "Bede P"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905272/"
+    },
+    {
+      "id": "pmid-42905162",
+      "pmid": "42905162",
+      "doi": "10.1007/s00415-026-14194-1",
+      "title": "Serum p-tau181 and p-tau217 levels in adolescents and adults with 5q spinal muscular atrophy.",
+      "abstract": "Reliable blood biomarkers for longitudinal monitoring in adolescent and adult 5q spinal muscular atrophy (SMA) are lacking. Phosphorylated tau (p-tau) species are elevated in serum in amyotrophic lateral sclerosis (ALS), where they may reflect peripheral nerve and muscle pathology. We aimed to investigate serum p-tau181 and p-tau217 as longitudinal biomarkers in adolescent and adult SMA and assessed associations with clinical parameters. In this retrospective multi-centre study, we assessed serum p-tau181 and p-tau217 levels in adults with 5q SMA under treatment with nusinersen or risdiplam, comparing levels with Alzheimer's disease (AD), amyotrophic lateral sclerosis (ALS) and non-neurodegenerative disease controls. Associations with motor function, respiratory capacity, creatine kinase (CK), and neurofilament light chain (NfL) were assessed using linear mixed-effects models adjusted for age and sex. Serum p-tau181 was higher in SMA than in disease controls (β = -0.48, 95%-CI -0.81 to -0.15), but lower than in ALS (β = 0.99, 95%-CI 0.58 to 1.39) and AD (β = 0.56, 95%-CI 0.11 to 1.00). P-tau181 declined from baseline to FUP2 (Δ median -1.80 pg/mL, IQR -5.90 to 2.10); p-tau217 showed no longitudinal change. P-tau181 and p-tau217 were positively associated with motor function, functional status, respiratory capacity, and CK, with no association with NfL. In exploratory analyses, higher baseline p-tau181 was associated with greater HFMSE decline (β = 1.79, 95%-CI 0.59 to 2.99). Serum p-tau181 and p-tau217 appear to reflect ongoing muscle turnover in adult SMA, declining as muscle mass decreases. Higher baseline p-tau181 was associated with subsequent functional deterioration, suggesting potential utility as a biomarker of active denervation and disease monitoring.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Stapf CD",
+        "Uzelac Z",
+        "Iterbeke L",
+        "Guthknecht A",
+        "Barba L",
+        "Strube D",
+        "Kölsch A",
+        "Kleeberg K",
+        "Kendzierski T",
+        "Roos A",
+        "Steinacker P",
+        "Abu-Rumeileh S",
+        "Claeys KG",
+        "Weishaupt J",
+        "Mensch A",
+        "Otto M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905162/"
+    },
+    {
+      "id": "pmid-42906586",
+      "pmid": "42906586",
+      "doi": "10.1088/1741-2552/aeb724",
+      "title": "Towards semantic brain-computer interfacing: The graded inventory of semantic triggers (GIST) paradigm.",
+      "abstract": "Semantic Brain-Computer Interfaces (sBCIs) aim to decode conceptual information directly from neural activity, enabling more efficient and natural communication for individuals with severe motor impairments. However, existing approaches are often confounded by stimulus-driven perceptual processes and lack a reliable means of tagging the moment of concept formation. We introduce the Graded Inventory of Semantic Triggers (GIST), a novel electroencephalography (EEG) paradigm designed to elicit semantic retrieval from graded verbal clues with precise temporal alignment.&#xD;&#xD;Approach: EEG data were recorded from 14 participants performing the GIST task across three semantic categories (food, musical instruments, and body parts). Target neural activity was aligned to each participant's self-reported moment of semantic retrieval (spacebar press), enabling response-locked analysis. Here, we propose a staged framework where the first comprises a Conformer-based encoder trained on pooled data using a hybrid contrastive objective that combines instance-level consistency and cross-participant class alignment with domain-adversarial learning to reduce participant-specific information. In the second stage, the frozen encoder is transferred to a held-out participant whose data played no part in Stage 1, and a support vector machine is calibrated on that participant's own labelled items under a nested leave-one-item-out protocol.&#xD;&#xD;Results: Above-chance semantic decoding was achieved in all three pairwise tasks. Mean accuracies were 73.4% (Body vs. Food), 70.7% (Body vs. Music), and 68.2% (Food vs. Music). Participant-level permutation tests were significant in 9/11 participants for Body vs. Food and 8/11 for each of the other tasks (p < 0.05). The pre-response interval at [-1.5s, -0.5s] was the most discriminative.&#xD;&#xD;Significance: The GIST paradigm enables controlled elicitation and temporal alignment of semantic processing while reducing perceptual confounds. Combined with cross-participant representation pretraining and participant-specific calibration, the results demonstrate above-chance decoding of semantic categories from EEG in individuals excluded from representation learning, supporting the feasibility of sBCIs.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Podmore JJ",
+        "Radman M",
+        "Poli R",
+        "Paulmann S",
+        "Daly I"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906586/"
+    },
+    {
+      "id": "pmid-42905245",
+      "pmid": "42905245",
+      "doi": "10.1007/s40120-026-01058-z",
+      "title": "Understanding Holistic Patient-Relevant Measurement in Amyotrophic Lateral Sclerosis: A Mixed-Methods Content Validity and Exploratory Rasch Analysis of Selected Clinical Outcome Assessments.",
+      "abstract": "Living with amyotrophic lateral sclerosis (ALS) has a profound impact on function and health-related quality of life (HRQoL). This mixed-methods study aimed to cognitively debrief selected ALS outcome measures to investigate their relevance and conduct exploratory Rasch Measurement Theory (RMT) analyses to assess targeting. Semi-structured interviews were conducted (January-September 2024) with people living with ALS (PLwALS) and clinicians to cognitively debrief selected patient- and clinician-reported outcome (PRO and ClinRO) measures. The PRO measures debriefed with PLwALS were Rasch Overall ALS Disability Scale (ROADS), 5-item ALS Assessment Questionnaire (ALSAQ-5), and Neurological Fatigue Index for Motor Neurone Disease (NFI-MND). ROADS and ClinRO ALS Functional Rating Scale-Revised (ALSFRS-R) were debriefed with clinicians. Interview transcripts were qualitatively analyzed; structured codes were used to compile data on item relevance and comprehensiveness. Exploratory RMT analysis was conducted using quantitative data from PLwALS responses to evaluate selected PRO psychometric properties. Qualitative analysis of interviews with 31 PLwALS found that PROs were meaningful and relevant, and identified the relevance of individual items. Clinicians (n = 10) endorsed ALSFRS-R as a relevant and meaningful measure, and supported ROADS' conceptual coverage and response category. RMT analysis indicated evidence of good targeting, reliability, and item fit for the PROs, with some exceptions for ALSAQ-5. This study supports the use of ALSFRS-R, ROADS, ALSAQ-5, and NFI-MND to measure meaningful aspects of ALS, with support for ALSAQ-5 qualified by its limited measurement precision. Scores from these measures can provide important insights into the lived experience of PLwALS, characterizing disease progression and HRQoL.",
+      "journal": "Neurology and therapy",
+      "authors": [
+        "Nowell WB",
+        "McGale N",
+        "Levy O",
+        "Przydzial K",
+        "Patel N",
+        "Cleanthous S",
+        "Andrews JA",
+        "Rofail D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905245/"
+    },
     {
       "id": "pmid-42902556",
       "pmid": "42902556",
@@ -297,6 +528,27 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42891860/"
     },
     {
+      "id": "pmid-42906263",
+      "pmid": "42906263",
+      "doi": "10.1016/j.smrv.2026.102390",
+      "title": "Restless legs syndrome and other neurological disorders: A systematic-narrative hybrid literature review with exploratory meta-analysis.",
+      "abstract": "Restless legs syndrome (RLS) is a sleep-related sensorimotor disorder affecting approximately 3% of adults worldwide. This review aims to synthesize current evidence on associations between RLS and major neurological conditions, provide an exploratory quantitative synthesis summarizing association patterns and heterogeneity, and identify priority mechanistic and clinical research gaps. Databases were searched from inception until August 2026. In our exploratory synthesis of 119 unique studies, RLS was significantly associated with Parkinson's disease (case-control OR 3.22, 95% CI 2.35-4.41; cohort RR 1.74, 95% CI 1.02-2.95), multiple sclerosis (OR 4.04, 95% CI 3.26-5.00), neuromyelitis optica spectrum disorder (OR 2.91, 95% CI 1.45-5.84), migraine or headache disorders (forward OR 2.72, 95% CI 2.19-3.38; reverse adjusted OR 1.53, 95% CI 1.36-1.73), peripheral neuropathy (OR 3.82, 95% CI 2.49-5.83), epilepsy (OR 2.11, 95% CI 1.58-2.82), and amyotrophic lateral sclerosis (OR 7.69, 95% CI 2.74-21.59). This work is an evidence-mapping review with exploratory pooling and is not intended as a definitive evidence synthesis. RLS is likely associated with neurodegenerative and other specific neurological conditions. Recognition of these associations may support earlier identification of comorbid conditions and targeted management strategies. However, the current evidence remains observational and heterogeneous.",
+      "journal": "Sleep medicine reviews",
+      "authors": [
+        "Hawas Y",
+        "Abo-Elnour DE",
+        "Al-Hawari NEM",
+        "Gahlan S",
+        "Winkelman JW"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906263/"
+    },
+    {
       "id": "pmid-42896458",
       "pmid": "42896458",
       "doi": "10.1016/j.jns.2026.126224",
@@ -510,7 +762,7 @@
       "pmid": "42879383",
       "doi": "10.1159/ene/acsag005",
       "title": "Needs and Expectations of ALS Patients and Caregivers: An Integrated Perspective.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease requiring complex multidisciplinary care. As disability advances, patients' and caregivers' needs may diverge. to assess needs, priorities and satisfaction with care among people with ALS (pALS) and their caregivers; to examine the association between satisfaction and Quality of life (QoL); to explore differences according to clinical characteristics; to understand the Italian ALS community's willingness to engage in research. In this cross-sectional multicentre study, 154 pALS and 211 caregivers were recruited (July 2021-November 2022). Structured interviews explored information received, care priorities, research expectations and satisfaction. Answers to the interview were compared between patients and caregivers and between different patients' subgroups with the chi-square or the Fisher's exact test. The scores of QoL questionnaires were compared between satisfied vs. unsatisfied with the Wilcoxon-Mann-Whitney test in patients (ALSAQ-40) and caregivers (SF-36). Patients prioritized finding a cure (95%) and overcoming disease-related limitations (72%) over safe and tolerable drugs (55%), similarly to caregivers. Research on psychological and emotional support was rated more important by caregivers (70%) than patients (49%). QoL was higher among satisfied patients, with better ALSAQ-40 scores in mobility, daily activities, communication and emotional domains. Caregivers needing urgent psychological support were fewer among the satisfied (35%) than the not satisfied (50%), and SF-36 mental health scores were also higher in satisfied caregivers. Incorporating both pALS and caregiver perspectives into clinical practice and research planning may enhance patient- and family-centered care, improve QoL, and better align healthcare research and resources with societal needs.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease requiring complex multidisciplinary care. As disability advances, patients' and caregivers' needs may diverge. The objectives of the study were to assess needs, priorities and satisfaction with care among people with ALS (pALS) and their caregivers; to examine the association between satisfaction and quality of life (QoL); to explore differences according to clinical characteristics; to understand the Italian ALS community's willingness to engage in research. In this cross-sectional multicenter study, 154 pALS and 211 caregivers were recruited (July 2021-November 2022). Structured interviews explored information received, care priorities, research expectations and satisfaction. Answers to the interview were compared between patients and caregivers and between different patients' subgroups with the chi-square or Fisher's exact test. The scores of QoL questionnaires were compared between satisfied and unsatisfied patients (ALSAQ-40) and caregivers (SF-36) with the Wilcoxon-Mann-Whitney test. Patients prioritized finding a cure (95%) and overcoming disease-related limitations (72%) over safe and tolerable drugs (55%), similarly to caregivers. Research on psychological and emotional support was rated more important by caregivers (70%) than patients (49%). QoL was higher among satisfied patients, with better ALSAQ-40 scores in mobility, daily activities, communication and emotional domains. Caregivers needing urgent psychological support were fewer among the satisfied (35%) than the not satisfied (50%), and SF-36 mental health scores were also higher in satisfied caregivers. Incorporating both pALS and caregiver perspectives into clinical practice and research planning may enhance patient- and family-centered care, improve QoL, and better align healthcare research and resources with societal needs.",
       "journal": "European neurology",
       "authors": [
         "Bianchi E",
@@ -572,289 +824,6 @@
       ],
       "publishedAt": "2026-10-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42875680/"
-    },
-    {
-      "id": "pmid-42895147",
-      "pmid": "42895147",
-      "doi": "10.2174/0118715273491538261009064612",
-      "title": "Mechanistic Evaluation of Psilocybin in Neurodegenerative Disorders: Relevance of 5-HT2A Receptors and Downstream Pathways.",
-      "abstract": "More than fifty million individuals worldwide are experiencing neurodegenerative disorders, which include Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, Huntington's disease, multiple sclerosis, and frontotemporal dementia. These disorders have a significant role in the gradual degradation of cognition and motor skills. Most current treatment approaches have little effect on changing the course of the disease and are largely symptomatic. Psilocybin, a naturally occurring tryptamine alkaloid from psilocybin mushrooms, has become a promising medicinal agent because of its hallucinogenic, neuroprotective, and neuroplastic properties. After being metabolically transformed into its active form, psilocin, it primarily activates serotonin 5-HT2A receptors. This modulates glutamatergic neurotransmission and neurotrophic signaling pathways such as BDNF/TrkB and mTOR, which regulate synaptic remodeling, dendritic complexity, neurogenesis, neuroinflammatory response, and default mode network connectivity, all of which are linked to depression and dementia. Preclinical research studies demonstrate that psilocybin increases hippocampal plasticity, restores dendritic complexity, lowers proinflammatory cytokine levels, and promotes fear extinction in experimental models of stress, ischemic stroke, and neurodegeneration. Emerging clinical studies also indicate that individuals with moderate cognitive impairment, early-onset Alzheimer's disease, and Parkinson's disease may see long-term decreases in anxiety and depression as well as improvements in cognitive function, frequently after a single dose administration. Additionally, psilocybin has demonstrated promise in treating mental comorbidities that often accompany neurodegenerative illness, such as treatment-resistant depression, drug use disorders, and obsessive-compulsive disorder. However, there are still significant obstacles to overcome, such as optimizing dosing schedules, assessing safety issues such as temporary perceptual abnormalities and cardiovascular consequences, and translating preclinical results into extensive phase -III clinical studies. This review incorporates the most recent data on psilocybin's chemistry, pharmacology, metabolism, and mechanistic actions; it highlights the drug's therapeutic potential across a variety of neurodegenerative diseases and emphasizes the necessity of carefully planned randomized controlled trials to determine clinical efficacy, long-term safety, and its place in multimodal treatment approaches.",
-      "journal": "CNS & neurological disorders drug targets",
-      "authors": [
-        "Chaudhary S",
-        "Dhankhar S",
-        "Saini M",
-        "Singh TG",
-        "Chauhan S",
-        "Kumar V"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895147/"
-    },
-    {
-      "id": "pmid-42877817",
-      "pmid": "42877817",
-      "doi": "10.2478/bjmg-2026-0005",
-      "title": "Progressive Supranuclear Palsy-Primary Lateral Sclerosis Overlap Syndrome in a Patient with a CYLD Variant.",
-      "abstract": "Progressive supranuclear palsy (PSP) is an atypical parkinsonian syndrome characterized by progressive axial rigidity, vertical gaze palsy, dysarthria, and dysphagia. This report describes a case of PSP-primary lateral sclerosis overlap syndrome associated with a CYLD gene variant. We describe the case of a 59-year-old male patient who presented with slowing of movements and hypophonic speech. Neurological examination revealed hypomimia, dysarthric and hypophonic speech, restricted upward gaze, slow saccadic eye movements, rigidity and bradykinesia in all extremities, axial rigidity, brisk deep tendon reflexes, bilateral positive Hoffman's sign, and bilateral extensor plantar responses. Brain MRI showed the \"hummingbird sign\" accompanied by bilateral cortico-spinal tract hyperintensity. MEP studies showed impaired excitability and conduction in the corticomotor system. Molecular genetic analysis identified a heterozygous G107A (c.320G>A; p.Gly107Asp) missense variant in the CYLD gene. Based on these findings, a diagnosis of PSP-Primary Lateral Sclerosis overlap syndrome was made. The contribution of the identified CYLD variant to this complex phenotype and its role in the neurodegenerative disease spectrum warrant further investigation.",
-      "journal": "Balkan journal of medical genetics : BJMG",
-      "authors": [
-        "Çiftçi NK",
-        "Gürsoy G",
-        "Eser M",
-        "Manazoğlu HC",
-        "Şirin NG",
-        "Yarar MH",
-        "Pazarcı N",
-        "Hanağası HA"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877817/"
-    },
-    {
-      "id": "pmid-42869990",
-      "pmid": "42869990",
-      "doi": "10.1007/s00424-026-03224-6",
-      "title": "Revisiting the muscle spindle in ALS: Implications for spinal motor network dysfunction.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is typically characterized by progressive degeneration of upper and lower motor neurons. However, the contribution of afferent sensory pathways to spinal motor network disorganization has received little attention. Converging human histological evidence from multiple independent laboratories demonstrates that fusimotor (gamma) motor neuron innervation of muscle spindles degenerates in ALS while sensory endings remain morphologically intact at the end organ, although the afferent neurons and ascending sensory pathways are also affected. This dissociation creates unmodulated proprioceptive input. Spindle-derived sensory signals reach spinal interneuron circuits without fusimotor gain-control adjustment, degrading spindles from forward sensory models encoding predicted kinematic states into crude stretch receptors. We propose that this gain-control failure, compounded by the loss of associated alpha-gamma coactivation and beta skeletofusimotor denervation, constitutes an upstream driver of the spinal inhibitory interneuron circuit dysfunction documented by recent electrophysiological studies in ALS. The resulting early disinhibition, followed by maladaptive excitation, mirrors cortical ALS pathophysiology. However, transgenic mouse ALS models show selective sparing of gamma motor neurons, unlike the human disease, constituting a critical translational limitation. We present a temporal model of human ALS, linking fusimotor denervation to progressive disruption of spinal inhibitory and excitatory circuits.",
-      "journal": "Pflugers Archiv : European journal of physiology",
-      "authors": [
-        "Castro J",
-        "de Carvalho M",
-        "Swash M"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869990/"
-    },
-    {
-      "id": "pmid-42852552",
-      "pmid": "42852552",
-      "doi": "10.1080/14728222.2026.2747518",
-      "title": "Targeting protein misfolding and aggregation in neurodegenerative diseases: challenges for the identification and validation of targets for small molecules.",
-      "abstract": "Neurodegenerative diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), and related proteinopathies are characterized by the misfolding, aggregation, and accumulation of specific proteins that disrupt neuronal homeostasis, leading to neuronal death. Despite major advances in structural biology and molecular neuroscience, identifying and validating druggable targets in neurodegenerative diseases remains challenging. Many involved proteins are intrinsically disordered, exhibit conformational heterogeneity, and form highly dynamic toxic species. This review summarizes the mechanisms of protein folding, misfolding, aggregation, and prion-like propagation in major neurodegenerative proteinopathies, including amyloid-beta (Aβ) and tau in Alzheimer's disease (AD), alpha-synuclein (α-syn) in synucleinopathies, TDP-43 and FUS in ALS/FTLD, polyglutamine-expanded proteins, prion proteins, and rare hereditary amyloidosis. We also discuss major barriers to target identification and validation, including conformational flexibility, oligomer toxicity, blood-brain barrier penetration, and target engagement complexity. Finally, we highlight emerging strategies integrating structural biology, computational methods, and improved experimental models to discover small-molecule inhibitors for neurodegenerative diseases. Effective therapeutic discovery will require moving beyond single-target models toward ensemble-based validation strategies. Integrating structural biology, advanced imaging, biomarkers, and computational approaches may improve the identification of druggable targets and support precision-medicine-based interventions for neurodegenerative diseases.",
-      "journal": "Expert opinion on therapeutic targets",
-      "authors": [
-        "Choudhury A",
-        "Prabha S",
-        "Saeed MU",
-        "Sulaimani MN",
-        "Hassan MI"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852552/"
-    },
-    {
-      "id": "pmid-42873357",
-      "pmid": "42873357",
-      "doi": "10.1007/s11011-026-02001-9",
-      "title": "The small giant actor in the pathogenesis of neurodegenerative diseases: Microtubules.",
-      "abstract": "Neurodegenerative diseases are a clinically and pathologically diverse group of disorders characterized by progressive neuronal dysfunction, synaptic impairment, and neuronal loss. Although research has traditionally focused on disease-associated protein misfolding and aggregation, increasing evidence implicates abnormalities of cytoskeletal organization and intracellular transport in several neurodegenerative conditions. Microtubules contribute to neuronal polarity, axonal and dendritic transport, organelle distribution, and synaptic maintenance. These functions are regulated in part by tubulin isotypes, post-translational modifications collectively described as the tubulin code, microtubule-associated proteins, and molecular motors. This narrative review examines evidence linking alterations in these processes with Alzheimer's disease, Parkinson's disease, frontotemporal dementia, Huntington's disease, amyotrophic lateral sclerosis, and prion disease. We summarize proposed interactions among microtubule instability, impaired axonal transport, mitochondrial dysfunction, and disease-associated proteins, including tau, α-synuclein, mutant huntingtin, TDP-43, and prion protein. Evidence connecting tau pathology with microtubule dysfunction is comparatively well established in Alzheimer's disease and MAPT-related tauopathies, whereas findings in other disorders are more heterogeneous and are frequently derived from cellular or animal models. We also discuss emerging experimental approaches, candidate biomarkers, and investigational microtubule-directed treatments. However, no tubulin-specific biomarker or microtubule-targeted disease-modifying treatment discussed in this review has yet been clinically validated. Overall, microtubule dysfunction may represent one component of broader, disease-specific pathological networks rather than a universal primary cause of neurodegeneration. Further longitudinal and clinical studies are needed to determine whether microtubule-related alterations act as causes, consequences, or modifiers of disease progression.",
-      "journal": "Metabolic brain disease",
-      "authors": [
-        "Gündoğdu AA",
-        "Özkan NG",
-        "Adapınar DÖ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873357/"
-    },
-    {
-      "id": "pmid-42595352",
-      "pmid": "42595352",
-      "doi": "10.1136/jnnp-2026-339165",
-      "title": "Associations of self-reported and objectively measured physical activity and amyotrophic lateral sclerosis risk.",
-      "abstract": "",
-      "journal": "Journal of neurology, neurosurgery, and psychiatry",
-      "authors": [
-        "Gao J",
-        "Chalitsios CV",
-        "Bennett D",
-        "Doherty A",
-        "Turner MR",
-        "Thompson AG"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42595352/"
-    },
-    {
-      "id": "pmid-42873683",
-      "pmid": "42873683",
-      "doi": "10.55563/clinexprheumatol/fhq0ug",
-      "title": "Body composition characteristics in patients with inflammatory myopathy based on bioelectrical impedance analysis.",
-      "abstract": "To investigate body composition features in idiopathic inflammatory myopathy (IIM) using bioelectrical impedance analysis (BIA) and evaluate their clinical, diagnostic and follow-up value. This study included 103 patients with inflammatory myopathy over a 6-year period, excluding 15 cases, resulting in a final cohort of 88 IIM patients. Clinical assessments and BIA were performed. Healthy controls and patients with amyotrophic lateral sclerosis (ALS) were independently recruited as separate comparison groups. IIM patients showed reduced muscle mass (SMM: 20.9±4.4 vs. 23.4±4.8, p=0.001), elevated ECW/TBW ratio (ECW/TBW total (ETT): 0.398±0.015 vs. 0.381±0.007, p<0.001), and decreased phase angle (PhARA: 3.50 [2.92, 4.50]° vs. 5.15 [4.50, 5.62]°, p<0.001; PhALA: 3.55 [2.84, 4.43]° vs. 5.03 [4.48, 5.42]°, p<0.001). These features correlated with disease severity, inflammation, and nutritional status. Compared to ALS, IIM patients had more marked ECW retention (ETT: 0.397±0.0145 vs. 0.389±0.0110, p=0.001) and impaired membrane integrity (PhARA: 3.450±0.99° vs. 4.295±1.44°, p=0.014; PhALA: 3.500 [2.850, 4.400]° vs. 4.400 [3.875, 4.925]°, p=0.003). Body composition demonstrated substantial potential for diagnostic application (XGBoost model: specificity 85.00%, sensitivity 88.46%), and more importantly, may serve as a valuable tool for disease management. BIA technology provides important novel disease characteristics for IIM patients, which are closely related to traditional clinical features and demonstrate significant diagnostic and management potential.",
-      "journal": "Clinical and experimental rheumatology",
-      "authors": [
-        "Wei Z",
-        "Yanlin G",
-        "Jing L",
-        "Shazhen A",
-        "Zhihan Z",
-        "Zhuo Z",
-        "Jiajia Y",
-        "Xia G",
-        "Xue L",
-        "Shiyi Y",
-        "Fei X"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873683/"
-    },
-    {
-      "id": "pmid-42864501",
-      "pmid": "42864501",
-      "doi": "10.1007/s00210-026-05948-9",
-      "title": "Combined rituximab and magnesium acetyl taurate therapy attenuates neurodegeneration via ERK/c-JNK/P38MAPK signaling modulation in methylmercury-induced amyotrophic lateral sclerosis-like neurotoxicity.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron degeneration, oxidative stress, neuroinflammation, mitochondrial dysfunction, and dysregulation of intracellular signaling pathways. The present study investigated the neuroprotective potential of rituximab (RTXMB), alone and in combination with magnesium acetyl taurate (MACT600), against methylmercury (MLMC5)-induced ALS-like pathology in adult Wistar rats through modulation of the ERK/c-JNK/P38MAPK signaling pathway. ALS was induced by oral administration of MLMC5 (5 mg/kg) for 21 days. RTXMB (50 and 100 mg/kg) and MACT600 (600 mg/kg) treatments were administered from day 22 to day 42. Behavioral assessments, neurochemical estimations, ELISA, Western blotting, hematological analysis, gross morphology, and histopathological evaluations were performed. MLMC5 exposure produced significant impairments in locomotion, muscular strength, cognition, and emotional behavior, accompanied by increased oxidative stress, inflammatory cytokines, glutamate excitotoxicity, apoptotic markers, methylmercury accumulation, and dysregulation of ERK/c-JNK/P38MAPK signaling. Moreover, MLMC5 caused marked demyelination, neuronal degeneration, neurotransmitter imbalance, skeletal muscle damage, and hematological dysfunction. RTXMB treatment significantly attenuated these pathological alterations in a dose-dependent manner, with RTXMB100 showing greater neuroprotective efficacy. Combined administration of RTXMB100 and MACT600 demonstrated the most pronounced therapeutic effects by restoring antioxidant defenses, suppressing neuroinflammation and apoptosis, normalizing neurotransmitter levels, preserving myelin integrity, and improving neuronal morphology. The findings suggest that RTXMB, particularly in combination with MACT600, exerts potent neuroprotective effects against ALS-like pathology via modulation of MAPK signaling pathways and may represent a promising therapeutic strategy for ALS management.",
-      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-      "authors": [
-        "Saha T",
-        "Mehan S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864501/"
-    },
-    {
-      "id": "pmid-42869255",
-      "pmid": "42869255",
-      "doi": "10.1016/j.bcp.2026.118545",
-      "title": "Conformational allocation of mitofusin 2 in neuronal mitochondrial dynamics: Mechanisms and therapeutic targeting.",
-      "abstract": "Neurons must sustain functional mitochondria far from the cell body. Mitofusin 2 (MFN2), a dynamin-like large guanosine triphosphatase (GTPase), coordinates outer mitochondrial membrane remodeling with axonal transport, bioenergetic support, inter-organelle communication, and stress-responsive quality control. Studying these activities separately obscures how disruption of one protein produces diverse neuronal phenotypes. We propose a testable conformational-allocation framework in which molecular state distributions and transition kinetics bias MFN2 participation across cellular outputs. Integrating structural and functional evidence, we distinguish experimentally resolved mechanisms from working models. Variants associated with Charcot-Marie-Tooth disease type 2A (CMT2A) are compared by the molecular step or functional output affected. Fusion loss alone does not capture this mechanistic diversity. Structure-guided docking supports local compatibility at a shallow, conformationally conditional C-terminal surface, without establishing native accessibility, affinity, or therapeutic response. CMT2A provides the strongest context for intervention, combining causal genetics, direct mitofusin engagement studies, and multiscale rescue. Amyotrophic lateral sclerosis (ALS) provides secondary preclinical evidence, whereas Alzheimer's and Parkinson's diseases remain exploratory. The mitofusin pathway is chemically tractable, but paralog selectivity and state-dependent target engagement remain unresolved. A state- and variant-informed strategy may better match intervention to the affected output than indiscriminate enhancement of fusion.",
-      "journal": "Biochemical pharmacology",
-      "authors": [
-        "Zhang ZY",
-        "Qin BQ",
-        "Wu SZ",
-        "Zhang H"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869255/"
-    },
-    {
-      "id": "pmid-42399099",
-      "pmid": "42399099",
-      "doi": "10.1136/jnnp-2026-338675",
-      "title": "Global epidemiology of amyotrophic lateral sclerosis: a systematic review and meta-analysis.",
-      "abstract": "",
-      "journal": "Journal of neurology, neurosurgery, and psychiatry",
-      "authors": [
-        "Liu RY",
-        "Su WM",
-        "Duan QQ",
-        "Wen XJ",
-        "He SY",
-        "Zhang N",
-        "Cao B",
-        "Chen YP"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42399099/"
-    },
-    {
-      "id": "pmid-42880056",
-      "pmid": "42880056",
-      "doi": "10.1016/j.cytogfr.2026.101537",
-      "title": "Harnessing cGAS-STING in neurodegeneration: From mitochondrial DNA leakage and microglial reactivity to species-specific translational barriers.",
-      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, a cornerstone of innate immunity, has emerged as a critical driver of sterile neuroinflammation in the aging brain. Age-related decline in mitochondrial quality control, coupled with nuclear and lysosomal erosion, fosters the aberrant accumulation of cytosolic self-DNA, establishing a permissive environment for chronic cGAS-STING activation. This review synthesizes recent breakthroughs elucidating how major neurodegenerative diseases-Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease-converge on this pathway through distinct, disease-specific triggers, ranging from PINK1/Parkin deficiency-driven mitochondrial DNA leakage to TDP-43 proteinopathy-associated retrotransposon de-repression. Critically, we evaluate the translational landscape, highlighting the profound challenge posed by species-specific pharmacology, as exemplified by the failure of the covalent inhibitor H-151 to engage human STING. We argue that the future of therapeutic intervention lies not in wholesale pathway ablation, but in nuanced, context-dependent fine-tuning that disentangles its detrimental chronic effects from its indispensable homeostatic functions. This review positions the cGAS-STING axis as a promising yet delicate frontier for combating age-related neurodegeneration.",
-      "journal": "Cytokine & growth factor reviews",
-      "authors": [
-        "Wang M",
-        "Li J",
-        "Wang X",
-        "Chai X",
-        "Luo J",
-        "Zhang Y",
-        "Chang X",
-        "Sun Y",
-        "Wang H"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880056/"
-    },
-    {
-      "id": "pmid-42872742",
-      "pmid": "42872742",
-      "doi": "10.3791/72560",
-      "title": "Isolated Axoplasm from Squid and Pathogenic Mechanisms in Amyotrophic Lateral Sclerosis.",
-      "abstract": "The squid giant axon is an experimental model that has been instrumental in providing answers to many fundamental questions in cell biology, including the discovery of the motor protein kinesin and probing molecular mechanisms of neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS). The giant axon offers scale and ease of access that is not possible in mammalian models. The power of this model stems from the fact that one can introduce reagents and proteins that would not cross a plasma membrane at defined concentrations in a buffer environment that is closely modeled on normal components of the axoplasm. By leveraging the unique biology of the squid axon, early studies were able to define the channels and ion specificities of the action potential. Subsequent studies using video-enhanced contrast- differential Interference contrast microscopy (VEC-DIC) and the isolated axoplasm led to the identification of kinesins, a class of motor proteins responsible for intracellular vesicle trafficking toward the plus end of microtubules. This combination of isolated axoplasm and advanced imaging continues to provide insights into pathogenic mechanisms for adult-onset neurodegeneration, including ALS, and regulation of fast axonal transport, a process disrupted in motor neuron disease. Here, procedures for dissecting the giant axon, isolating axoplasm, and perfusing defined amounts of proteins and/or reagents into the axoplasm are detailed, as well as methods for visualizing and interactively analyzing vesicle traffic in real time. This model represents a singular avenue to understand the critical function of neurons, shedding light on the mechanisms driving ALS pathology and other neurodegenerative diseases. This system also offers a tractable platform for drug testing, where candidate therapeutic compounds can be introduced directly into the axoplasm, and their effects on vesicle trafficking can be assessed in real time, providing a rapid and physiologically relevant means of identifying potential ALS therapeutic targets.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "authors": [
-        "Onoichenco A",
-        "Morris SL",
-        "Aloe S",
-        "McCay K",
-        "Song Y",
-        "Brady ST"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872742/"
-    },
-    {
-      "id": "pmid-42865281",
-      "pmid": "42865281",
-      "doi": "10.1080/21678421.2026.2742818",
-      "title": "Mapping the evidence on dignity therapy in amyotrophic lateral sclerosis: a scoping review.",
-      "abstract": "Objective: To systematically map and synthesize the existing literature on the use of Dignity Therapy (DT) in amyotrophic lateral sclerosis (ALS), with particular attention to feasibility, acceptability, therapeutic outcomes, and clinical adaptations required for patients and caregivers. Methods: A systematic scoping review was conducted searching PubMed/MEDLINE, CINAHL, PsycINFO, and Scopus for studies published in the last ten years examining DT in individuals with ALS. Eligible studies were charted and compared qualitatively due to heterogeneity in design, outcomes, and measurement tools. Results: A total of 237 records were identified, of which five met the eligibility criteria. DT was generally feasible in ALS, including in advanced disease stages, when adapted with augmentative communication devices, email correspondence, or videoconferencing. Acceptability was high across studies, with participants frequently reporting meaningful engagement with the narrative process and positive perceptions of the generativity document. Qualitative evidence indicated potential benefits in existential well-being, emotional adjustment, maintenance of identity, and family communication. Quantitative outcomes were inconsistent, showing variable effects on dignity-related distress, mood symptoms, and spiritual well-being. Caregiver responses were mixed, with some reporting perceived support and others noting limited immediate impact. Conclusions: DT appears to be a promising intervention for addressing existential and relational needs in ALS, though current evidence is limited by small sample sizes and methodological variability. Larger, methodologically rigorous studies are needed to clarify therapeutic effects, optimize delivery adaptations, and evaluate outcomes for both patients and caregivers.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Pini A",
-        "Cobel C",
-        "Moretti F",
-        "Governatori G",
-        "Bonamici M",
-        "Gobbato T",
-        "Buonaccorso L",
-        "Sireci F",
-        "Ghirotto L"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42865281/"
     }
   ]
 }

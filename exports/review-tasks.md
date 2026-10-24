@@ -1,6 +1,6 @@
 # 复核任务清单
 
-- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型 (pmid-42894325)
+- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型影响 (pmid-42894325)
   - https://pubmed.ncbi.nlm.nih.gov/42894325/
 - [ ] 纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征 (pmid-42840349)
   - https://pubmed.ncbi.nlm.nih.gov/42840349/
@@ -10,77 +10,71 @@
   - https://pubmed.ncbi.nlm.nih.gov/42894639/
 - [ ] 全球儿童罕见神经系统疾病的流行病学与遗传负担 (pmid-42889786)
   - https://pubmed.ncbi.nlm.nih.gov/42889786/
-- [ ] 星形胶质细胞在神经系统疾病炎症反应中的作用 (pmid-42898978)
+- [ ] 星形胶质细胞在神经疾病炎症反应中的作用 (pmid-42898978)
   - https://pubmed.ncbi.nlm.nih.gov/42898978/
-- [ ] [疑似误收] 生物标志物引导诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告 (pmid-42799589)
+- [ ] [疑似误收] 生物标志物引导下诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告 (pmid-42799589)
   - https://pubmed.ncbi.nlm.nih.gov/42799589/
+- [ ] 急性脑损伤后临床无反应患者可激活脑机接口 (pmid-42911846)
+  - https://pubmed.ncbi.nlm.nih.gov/42911846/
+- [ ] 高密度表面肌电图可检测肌萎缩侧索硬化中与纤维类型相关的特征及疾病相关疲劳轨迹 (epmc-PPR-PPR1348363)
+  - https://doi.org/10.64898/2026.10.20.26366045
+- [ ] [高优先级] 寒冷激活BH2代谢网络促进长寿与蛋白稳态 (pmid-42907506)
+  - https://pubmed.ncbi.nlm.nih.gov/42907506/
+- [ ] [疑似误收] 迈向语义脑机接口：语义触发分级清单（GIST）范式 (pmid-42906586)
+  - https://pubmed.ncbi.nlm.nih.gov/42906586/
+- [ ] 高龄中选择性运动神经元易损性的分子特征 (pmid-42905535)
+  - https://pubmed.ncbi.nlm.nih.gov/42905535/
+- [ ] [疑似误收] 神经递质定义额颞叶变性（FTLD）脑易损性模式 (pmid-42905272)
+  - https://pubmed.ncbi.nlm.nih.gov/42905272/
+- [ ] 理解肌萎缩侧索硬化中整体患者相关测量：选定临床结局评估的混合方法内容效度与探索性Rasch分析 (pmid-42905245)
+  - https://pubmed.ncbi.nlm.nih.gov/42905245/
+- [ ] 青少年和成人5q脊髓性肌萎缩症患者的血清p-tau181和p-tau217水平 (pmid-42905162)
+  - https://pubmed.ncbi.nlm.nih.gov/42905162/
+- [ ] 肌萎缩侧索硬化症患者家庭机械通气的临终照护：全国人群为基础的DISCOVERY研究 (pmid-42904407)
+  - https://pubmed.ncbi.nlm.nih.gov/42904407/
 - [ ] [疑似误收] 情境依赖的催产素受体信号传导：从分子结构到转录水平的受体工程 (epmc-PMC-PMC13681303)
   - https://europepmc.org/article/PMC/PMC13681303
-- [ ] [疑似误收] 血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的意义 (epmc-PMC-PMC13682215)
+- [ ] [疑似误收] 血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的启示 (epmc-PMC-PMC13682215)
   - https://europepmc.org/article/PMC/PMC13682215
-- [ ] 一例携带肌炎特异性抗体的年轻女性下运动神经元病被误诊为炎性肌病 (epmc-PMC-PMC13682418)
+- [ ] 一名携带肌炎特异性抗体的年轻女性中，下运动神经元病被误诊为炎性肌病 (epmc-PMC-PMC13682418)
   - https://europepmc.org/article/PMC/PMC13682418
-- [ ] “就像未雨绸缪”：运动神经元病患者对语音银行的看法 (pmid-42902556)
-  - https://pubmed.ncbi.nlm.nih.gov/42902556/
-- [ ] [高优先级] ABCD试验：一项评估利妥昔单抗B细胞清除治疗肌萎缩侧索硬化疗效与安全性的随机、双盲、安慰剂对照研究方案 (pmid-42902402)
-  - https://pubmed.ncbi.nlm.nih.gov/42902402/
-- [ ] [高优先级] 脑脊液淀粉样蛋白和神经退行性生物标志物在肌萎缩侧索硬化诊断和预后中的作用：一项多队列观察性研究 (pmid-42901819)
-  - https://pubmed.ncbi.nlm.nih.gov/42901819/
-- [ ] [高优先级] ALS与衰老骨骼肌的整合转录组图谱界定退变的共享与独特分子程序 (pmid-42879493)
-  - https://pubmed.ncbi.nlm.nih.gov/42879493/
-- [ ] [高优先级] 抗HDGFL2隐蔽蛋白抗体可灵敏反映TDP-43病理及临床疾病特征 (pmid-42854693)
-  - https://pubmed.ncbi.nlm.nih.gov/42854693/
-- [ ] [高优先级] 从患者细胞到患者治疗：神经退行性疾病中基于iPSC转化的二十年 (pmid-42826718)
-  - https://pubmed.ncbi.nlm.nih.gov/42826718/
-- [ ] [疑似误收] 更正 (epmc-MED-42900469)
-  - https://doi.org/10.1080/21678421.2026.2751860
-- [ ] [疑似误收] 整合性人类前脑类器官揭示阿尔茨海默病病理中小胶质细胞介导的CD8⁺ T细胞募集与神经免疫功能障碍 (epmc-MED-42899469)
-  - https://doi.org/10.7554/elife.111730
-- [ ] [疑似误收] P300拼写器中的校准-准确率映射无法跨队列迁移，且经测试的对齐或局部重校准均未能恢复该映射 (pmid-42896567)
-  - https://pubmed.ncbi.nlm.nih.gov/42896567/
-- [ ] 肌萎缩侧索硬化患者气管切开术后生存的相关因素 (pmid-42895434)
-  - https://pubmed.ncbi.nlm.nih.gov/42895434/
-- [ ] [疑似误收] 待复核翻译：Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis (epmc-PMC-PMC13668574)
-  - https://europepmc.org/article/PMC/PMC13668574
-- [ ] [疑似误收] 待复核翻译：Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice (epmc-PMC-PMC13671938)
-  - https://europepmc.org/article/PMC/PMC13671938
-- [ ] [疑似误收] 待复核翻译：Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren’s disease (epmc-PMC-PMC13672494)
-  - https://europepmc.org/article/PMC/PMC13672494
-- [ ] [疑似误收] 待复核翻译：Eye-movement-based machine learning for identifying Parkinson’s disease dementia in a retrospective cohort: an interpretable model-development study (epmc-PMC-PMC13669113)
-  - https://europepmc.org/article/PMC/PMC13669113
-- [ ] [疑似误收] 待复核翻译：Cerebrospinal fluid outflow pathways in neurodegeneration: nasopharyngeal lymphatics and the ocular glymphatic-like axis (epmc-PMC-PMC13669845)
-  - https://europepmc.org/article/PMC/PMC13669845
-- [ ] [疑似误收] 待复核翻译：Targeting glial modulation: molecular mechanisms of Polygonatum in neurological disorders (epmc-PMC-PMC13669545)
-  - https://europepmc.org/article/PMC/PMC13669545
-- [ ] [疑似误收] 待复核翻译：Longitudinal changes in hand dominance and manual dexterity in normal aging and mild cognitive impairment (MCI): a kinematic study (epmc-PMC-PMC13672655)
-  - https://europepmc.org/article/PMC/PMC13672655
-- [ ] [高优先级] A Substudy of LY4256984 in Participants With Sporadic 肌萎缩侧索硬化症 (trial-NCT07571174)
-  - https://clinicaltrials.gov/study/NCT07571174
-- [ ] [高优先级] A Safety and Efficacy Study of ARGX-119 in Adult Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT06441682)
-  - https://clinicaltrials.gov/study/NCT06441682
-- [ ] [高优先级] Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP 2 (PALADIN2) (trial-NCT07726563)
-  - https://clinicaltrials.gov/study/NCT07726563
-- [ ] [高优先级] Treatment Combining Riluzole and IFB-088 in Bulbar 肌萎缩侧索硬化症 (TRIALS Protocol) (trial-NCT05508074)
-  - https://clinicaltrials.gov/study/NCT05508074
-- [ ] [高优先级] Dose-Escalation, Safety and Pharmacokinetic Study of IC14 in 运动神经元病 (trial-NCT03487263)
-  - https://clinicaltrials.gov/study/NCT03487263
-- [ ] [高优先级] 待复核翻译：Genetics of Pediatric-Onset Motor Neuron and Neuromuscular Diseases (trial-NCT02532244)
-  - https://clinicaltrials.gov/study/NCT02532244
-- [ ] [高优先级] 待复核翻译：Study of [11C]CPPC to Assess the Safety and Tolerability in Patients With ALS (trial-NCT04749433)
-  - https://clinicaltrials.gov/study/NCT04749433
-- [ ] [高优先级] A Longitudinal Analysis of 生物标志物s in Patients With ALS (trial-NCT05309408)
-  - https://clinicaltrials.gov/study/NCT05309408
-- [ ] [高优先级] 待复核翻译：Multiple Doses of AT-1501-A201 in Adults With ALS (trial-NCT04322149)
-  - https://clinicaltrials.gov/study/NCT04322149
-- [ ] [高优先级] 待复核翻译：Olfactory Deficits in Neurologic Disease (trial-NCT05019014)
-  - https://clinicaltrials.gov/study/NCT05019014
-- [ ] [高优先级] 待复核翻译：Open Label Study: Treatment of ALS Fatigue With PolyMVA (trial-NCT04557410)
-  - https://clinicaltrials.gov/study/NCT04557410
-- [ ] [高优先级] Brain Function in Primary Lateral Sclerosis and 肌萎缩侧索硬化症 (trial-NCT00334516)
-  - https://clinicaltrials.gov/study/NCT00334516
-- [ ] [高优先级] Study Evaluating TCH346 and Placebo Administered Once Daily in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT00072709)
-  - https://clinicaltrials.gov/study/NCT00072709
-- [ ] [高优先级] 待复核翻译：Influence of G-CSF and EPO on Associative Learning and Motor Skills (trial-NCT00298597)
-  - https://clinicaltrials.gov/study/NCT00298597
-- [ ] [高优先级] Memantine for Disability in 肌萎缩侧索硬化症 (MEDALS) (trial-NCT00353665)
-  - https://clinicaltrials.gov/study/NCT00353665
+- [ ] [疑似误收] 老年期选择性运动神经元易损性的分子特征 (epmc-MED-42905535)
+  - https://doi.org/10.1113/ep094279
+- [ ] [疑似误收] 待复核翻译：Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay. (epmc-MED-42904327)
+  - https://doi.org/10.1017/cjn.2026.10695
+- [ ] Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and 肌萎缩侧索硬化症 Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study (epmc-PPR-PPR1348543)
+  - https://doi.org/10.64898/2026.10.19.26365782
+- [ ] [疑似误收] 待复核翻译：Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis (epmc-PPR-PPR1347327)
+  - https://doi.org/10.64898/2026.10.21.26365867
+- [ ] [疑似误收] 待复核翻译：Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons. (epmc-MED-42789320)
+  - https://doi.org/10.1039/d6tb01306f
+- [ ] [高优先级] 待复核翻译：MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System (trial-NCT05936619)
+  - https://clinicaltrials.gov/study/NCT05936619
+- [ ] [高优先级] Focal Accumulation of Iron in Cerebral Regions in Early ALS (肌萎缩侧索硬化症) Patients (trial-NCT02164253)
+  - https://clinicaltrials.gov/study/NCT02164253
+- [ ] [高优先级] Personalized 反义寡核苷酸 Therapy for A Single Patient With CHCHD10 ALS (nL18576) (trial-NCT07423494)
+  - https://clinicaltrials.gov/study/NCT07423494
+- [ ] [高优先级] Non-invasive Brain Stimulation and Exercise Intervention for Patients With 运动神经元病 (trial-NCT07067229)
+  - https://clinicaltrials.gov/study/NCT07067229
+- [ ] [高优先级] 待复核翻译：Open Label Extension Study of AMX0035 in Patients With ALS (trial-NCT03488524)
+  - https://clinicaltrials.gov/study/NCT03488524
+- [ ] [高优先级] Safety of Intrathecal Riluzole in Patients With 肌萎缩侧索硬化症 (trial-NCT07093268)
+  - https://clinicaltrials.gov/study/NCT07093268
+- [ ] [高优先级] CAN-PRIME: Precise Robotically Implanted 脑机接口 for the Control of External Devices (trial-NCT06700304)
+  - https://clinicaltrials.gov/study/NCT06700304
+- [ ] [高优先级] 待复核翻译：Augmented Reality BCI Longitudinal Study for Persons With Late Stage ALS (trial-NCT06810219)
+  - https://clinicaltrials.gov/study/NCT06810219
+- [ ] [高优先级] 待复核翻译：Establishment of a Human Tissue Bank for Studying the Microbial Etiology of Neurodegenerative Diseases (trial-NCT01954875)
+  - https://clinicaltrials.gov/study/NCT01954875
+- [ ] [高优先级] 待复核翻译：Effectiveness of Two Oral Appliances for Managing Oral Self-biting Injuries in Patients With ALS (trial-NCT04809675)
+  - https://clinicaltrials.gov/study/NCT04809675
+- [ ] [高优先级] Rasagiline in Subjects With 肌萎缩侧索硬化症 (ALS) (trial-NCT01786603)
+  - https://clinicaltrials.gov/study/NCT01786603
+- [ ] [高优先级] Study of miRNA Expression Pattern as Diagnostic and Prognostic 生物标志物 in 肌萎缩侧索硬化症 (trial-NCT01992029)
+  - https://clinicaltrials.gov/study/NCT01992029
+- [ ] [高优先级] 待复核翻译：Cerebrospinal Fluid Repository (trial-NCT00714636)
+  - https://clinicaltrials.gov/study/NCT00714636
+- [ ] [高优先级] Hyperlipidemia and Statin Therapy in 肌萎缩侧索硬化症 (trial-NCT01592084)
+  - https://clinicaltrials.gov/study/NCT01592084
+- [ ] [高优先级] 待复核翻译：Validation of a New Device to Measure Neuromuscular Disease Progression (trial-NCT00606918)
+  - https://clinicaltrials.gov/study/NCT00606918
