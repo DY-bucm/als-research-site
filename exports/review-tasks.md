@@ -1,6 +1,6 @@
 # 复核任务清单
 
-- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型影响 (pmid-42894325)
+- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型 (pmid-42894325)
   - https://pubmed.ncbi.nlm.nih.gov/42894325/
 - [ ] 纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征 (pmid-42840349)
   - https://pubmed.ncbi.nlm.nih.gov/42840349/
@@ -12,42 +12,54 @@
   - https://pubmed.ncbi.nlm.nih.gov/42889786/
 - [ ] 星形胶质细胞在神经疾病炎症反应中的作用 (pmid-42898978)
   - https://pubmed.ncbi.nlm.nih.gov/42898978/
-- [ ] [疑似误收] 生物标志物引导下诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告 (pmid-42799589)
+- [ ] 酪氨酸硝化：神经退行性疾病与心肺疾病中新兴的机制图景 (pmid-42843275)
+  - https://pubmed.ncbi.nlm.nih.gov/42843275/
+- [ ] TDP-43与ALS——我的膜出了什么问题？ (pmid-42833594)
+  - https://pubmed.ncbi.nlm.nih.gov/42833594/
+- [ ] 多胺在神经退行性蛋白病中的作用 (pmid-42800647)
+  - https://pubmed.ncbi.nlm.nih.gov/42800647/
+- [ ] [疑似误收] 生物标志物引导诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告 (pmid-42799589)
   - https://pubmed.ncbi.nlm.nih.gov/42799589/
-- [ ] 急性脑损伤后临床无反应患者可激活脑机接口 (pmid-42911846)
-  - https://pubmed.ncbi.nlm.nih.gov/42911846/
-- [ ] 高密度表面肌电图可检测肌萎缩侧索硬化中与纤维类型相关的特征及疾病相关疲劳轨迹 (epmc-PPR-PPR1348363)
-  - https://doi.org/10.64898/2026.10.20.26366045
-- [ ] [高优先级] 寒冷激活BH2代谢网络促进长寿与蛋白稳态 (pmid-42907506)
-  - https://pubmed.ncbi.nlm.nih.gov/42907506/
-- [ ] [疑似误收] 迈向语义脑机接口：语义触发分级清单（GIST）范式 (pmid-42906586)
-  - https://pubmed.ncbi.nlm.nih.gov/42906586/
-- [ ] 高龄中选择性运动神经元易损性的分子特征 (pmid-42905535)
-  - https://pubmed.ncbi.nlm.nih.gov/42905535/
-- [ ] [疑似误收] 神经递质定义额颞叶变性（FTLD）脑易损性模式 (pmid-42905272)
-  - https://pubmed.ncbi.nlm.nih.gov/42905272/
-- [ ] 理解肌萎缩侧索硬化中整体患者相关测量：选定临床结局评估的混合方法内容效度与探索性Rasch分析 (pmid-42905245)
-  - https://pubmed.ncbi.nlm.nih.gov/42905245/
-- [ ] 青少年和成人5q脊髓性肌萎缩症患者的血清p-tau181和p-tau217水平 (pmid-42905162)
-  - https://pubmed.ncbi.nlm.nih.gov/42905162/
-- [ ] 肌萎缩侧索硬化症患者家庭机械通气的临终照护：全国人群为基础的DISCOVERY研究 (pmid-42904407)
-  - https://pubmed.ncbi.nlm.nih.gov/42904407/
-- [ ] [疑似误收] 情境依赖的催产素受体信号传导：从分子结构到转录水平的受体工程 (epmc-PMC-PMC13681303)
-  - https://europepmc.org/article/PMC/PMC13681303
-- [ ] [疑似误收] 血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的启示 (epmc-PMC-PMC13682215)
-  - https://europepmc.org/article/PMC/PMC13682215
-- [ ] 一名携带肌炎特异性抗体的年轻女性中，下运动神经元病被误诊为炎性肌病 (epmc-PMC-PMC13682418)
-  - https://europepmc.org/article/PMC/PMC13682418
-- [ ] [疑似误收] 老年期选择性运动神经元易损性的分子特征 (epmc-MED-42905535)
-  - https://doi.org/10.1113/ep094279
-- [ ] [疑似误收] 待复核翻译：Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay. (epmc-MED-42904327)
-  - https://doi.org/10.1017/cjn.2026.10695
-- [ ] Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and 肌萎缩侧索硬化症 Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study (epmc-PPR-PPR1348543)
-  - https://doi.org/10.64898/2026.10.19.26365782
-- [ ] [疑似误收] 待复核翻译：Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis (epmc-PPR-PPR1347327)
-  - https://doi.org/10.64898/2026.10.21.26365867
-- [ ] [疑似误收] 待复核翻译：Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons. (epmc-MED-42789320)
-  - https://doi.org/10.1039/d6tb01306f
+- [ ] [疑似误收] 产后无痛性下肢无力揭示大脑镰脑膜瘤 (epmc-PMC-PMC13693819)
+  - https://europepmc.org/article/PMC/PMC13693819
+- [ ] [疑似误收] 社论：神经退行性疾病中的影像生物标志物：进展与挑战 (epmc-PMC-PMC13690742)
+  - https://europepmc.org/article/PMC/PMC13690742
+- [ ] [疑似误收] 调节性T细胞异质性：它们是谁、来自何处、去向何方 (epmc-PMC-PMC13691435)
+  - https://europepmc.org/article/PMC/PMC13691435
+- [ ] [疑似误收] 中枢神经退行性疾病患者的角膜共聚焦显微镜检查（CCM） (epmc-PMC-PMC13690503)
+  - https://europepmc.org/article/PMC/PMC13690503
+- [ ] [疑似误收] 机器学习在淀粉样多肽研究中的应用：从序列预测到药物发现 (epmc-PMC-PMC13688577)
+  - https://europepmc.org/article/PMC/PMC13688577
+- [ ] [疑似误收] 调控多顺反子簇内单个miRNA差异表达的分子机制 (epmc-PMC-PMC13686912)
+  - https://europepmc.org/article/PMC/PMC13686912
+- [ ] [疑似误收] 解读新生儿诊断窗口期之外的巨细胞病毒血清阳性：一例早发性特应性皮炎合并先天性关节挛缩婴儿的病例报告 (epmc-PMC-PMC13688281)
+  - https://europepmc.org/article/PMC/PMC13688281
+- [ ] [疑似误收] DSP1 依赖 CnB 调控涡虫（Dugesia japonica）神经再生 (epmc-PMC-PMC13688025)
+  - https://europepmc.org/article/PMC/PMC13688025
+- [ ] 治疗肌萎缩侧索硬化症的精选中药：基于随机对照试验的贝叶斯网络荟萃分析 (epmc-PMC-PMC13687075)
+  - https://europepmc.org/article/PMC/PMC13687075
+- [ ] [疑似误收] 重新思考中医药领域的大语言模型评估：迈向以质量为基础的标准与细粒度评价 (epmc-PMC-PMC13690056)
+  - https://europepmc.org/article/PMC/PMC13690056
+- [ ] 线粒体l dysfunction in neurology: 生物标志物s and clinical implications. (pmid-42919989)
+  - https://pubmed.ncbi.nlm.nih.gov/42919989/
+- [ ] 待复核翻译：Drosophila Models of Human Neurodegenerative Diseases. (pmid-42918614)
+  - https://pubmed.ncbi.nlm.nih.gov/42918614/
+- [ ] 待复核翻译：Neurodegeneration in Sub-Saharan Africa: Intersections of Biological Ageing, Genomic Diversity and the Lifetime Exposome. (pmid-42918426)
+  - https://pubmed.ncbi.nlm.nih.gov/42918426/
+- [ ] Cellular senescence in ageing and neurodegenerative disorders: Molecular mechanisms, 生物标志物s, and therapeutic strategies. (pmid-42918387)
+  - https://pubmed.ncbi.nlm.nih.gov/42918387/
+- [ ] [高优先级] State transitions in 肌萎缩侧索硬化症: mechanistic convergence and 生物标志物-guided stratification. (pmid-42918320)
+  - https://pubmed.ncbi.nlm.nih.gov/42918320/
+- [ ] [疑似误收] 待复核翻译：Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions (epmc-PMC-PMC13693491)
+  - https://europepmc.org/article/PMC/PMC13693491
+- [ ] [疑似误收] 待复核翻译：Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies (epmc-PMC-PMC13693915)
+  - https://europepmc.org/article/PMC/PMC13693915
+- [ ] [疑似误收] 待复核翻译：Liquid-liquid phase separation in neurodegenerative diseases: Mechanisms, pathological transitions, and therapeutic opportunities. (epmc-MED-42913489)
+  - https://doi.org/10.1177/00368504261499190
+- [ ] Riluzole‐Derived Benzo[d]thiazoles as CK1δ Inhibitors for 肌萎缩侧索硬化症‐Related Neurodegeneration (epmc-PMC-PMC13691385)
+  - https://europepmc.org/article/PMC/PMC13691385
+- [ ] [疑似误收] 待复核翻译：The SmartGlove BISINDO Wearable Sensor and Large Language Model-Based Sign Language-to-Speech System for Users With Communication Disorders: Design Science Research Study. (epmc-MED-42912958)
+  - https://doi.org/10.2196/96258
 - [ ] [高优先级] 待复核翻译：MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System (trial-NCT05936619)
   - https://clinicaltrials.gov/study/NCT05936619
 - [ ] [高优先级] Focal Accumulation of Iron in Cerebral Regions in Early ALS (肌萎缩侧索硬化症) Patients (trial-NCT02164253)
