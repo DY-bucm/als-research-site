@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T00:20:13.474Z",
+  "updatedAt": "2026-10-26T00:19:39.884Z",
   "summary": {
     "totalItems": 45,
-    "issueCount": 58
+    "issueCount": 53
   },
   "sources": [
     {
@@ -27,7 +27,7 @@
       "title": "Biomarker-Guided Diagnosis of Riboflavin Transporter Deficiency Presenting as Seronegative Myasthenia Gravis: A Short Report from a Consanguineous Family.",
       "titleZh": "生物标志物引导诊断表现为血清阴性重症肌无力的核黄素转运体缺乏症：一个近亲婚配家庭的简短报告",
       "category": "临床试验",
-      "evidenceLevel": "病例报告（单个家系，证据等级低）",
+      "evidenceLevel": "病例报告（单例）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -38,7 +38,7 @@
       "title": "Painless Leg Weakness Revealing a Falcine Meningioma in the Postpartum Period",
       "titleZh": "产后无痛性下肢无力揭示大脑镰脑膜瘤",
       "category": "机制",
-      "evidenceLevel": "病例报告（单例）",
+      "evidenceLevel": "病例报告（单篇；元数据无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -49,7 +49,7 @@
       "title": "Editorial: Imaging biomarkers in neurodegenerative diseases: advances and challenges",
       "titleZh": "社论：神经退行性疾病中的影像生物标志物：进展与挑战",
       "category": "生物标志物",
-      "evidenceLevel": "社论/评论（非原始研究，未经系统评价）",
+      "evidenceLevel": "社论/评论（非原始研究，无摘要，证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -58,9 +58,9 @@
     {
       "id": "epmc-PMC-PMC13691435",
       "title": "Regulatory T cell heterogeneity: who they are, where they come from, and where they go",
-      "titleZh": "调节性T细胞异质性：它们是谁、来自何处、去向何方",
+      "titleZh": "调节性T细胞异质性：它们是谁、从何而来、去往何处",
       "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "动物/细胞实验（综述）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -69,9 +69,9 @@
     {
       "id": "epmc-PMC-PMC13690503",
       "title": "Corneal Confocal Microscopy (CCM) in Patients With Central Neurodegenerative Disease",
-      "titleZh": "中枢神经退行性疾病患者的角膜共聚焦显微镜检查（CCM）",
+      "titleZh": "角膜共聚焦显微镜（CCM）在中枢神经退行性疾病患者中的应用",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究（仅题名与元数据，无摘要）",
+      "evidenceLevel": "观察性临床研究（仅有题名与来源元数据，摘要缺失）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -82,7 +82,7 @@
       "title": "Machine Learning in Amyloidogenic Polypeptide Research: From Sequence Prediction to Drug Discovery",
       "titleZh": "机器学习在淀粉样多肽研究中的应用：从序列预测到药物发现",
       "category": "治疗",
-      "evidenceLevel": "综述；原始元数据未提供摘要，具体证据等级待人工判定",
+      "evidenceLevel": "综述（原始元数据未提供摘要，证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -91,7 +91,7 @@
     {
       "id": "epmc-PMC-PMC13686912",
       "title": "Molecular mechanisms regulating differential expression of individual miRNAs within polycistronic clusters",
-      "titleZh": "调控多顺反子簇内单个miRNA差异表达的分子机制",
+      "titleZh": "待复核翻译：Molecular mechanisms regulating differential expression of individual miRNAs within polycistronic clusters",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -102,9 +102,9 @@
     {
       "id": "epmc-PMC-PMC13688281",
       "title": "Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
-      "titleZh": "解读新生儿诊断窗口期之外的巨细胞病毒血清阳性：一例早发性特应性皮炎合并先天性关节挛缩婴儿的病例报告",
+      "titleZh": "待复核翻译：Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
       "category": "生物标志物",
-      "evidenceLevel": "病例报告（单例），证据等级低",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -113,7 +113,7 @@
     {
       "id": "epmc-PMC-PMC13688025",
       "title": "DSP1 regulates planarian (Dugesia japonica) neural regeneration depending on CnB",
-      "titleZh": "DSP1 依赖 CnB 调控涡虫（Dugesia japonica）神经再生",
+      "titleZh": "待复核翻译：DSP1 regulates planarian (Dugesia japonica) neural regeneration depending on CnB",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -124,57 +124,35 @@
     {
       "id": "epmc-PMC-PMC13690056",
       "title": "Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
-      "titleZh": "重新思考中医药领域的大语言模型评估：迈向以质量为基础的标准与细粒度评价",
+      "titleZh": "待复核翻译：Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
       "category": "机制",
-      "evidenceLevel": "机制研究/方法学讨论（无摘要，无法进一步分级）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13690056"
     },
     {
-      "id": "epmc-PMC-PMC13693491",
-      "title": "Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions",
-      "titleZh": "待复核翻译：Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13693491"
-    },
-    {
-      "id": "epmc-PMC-PMC13693915",
-      "title": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
-      "titleZh": "待复核翻译：Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
+      "id": "epmc-MED-42925434",
+      "title": "Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
+      "titleZh": "待复核翻译：Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
       "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13693915"
+      "url": "https://doi.org/10.1007/s11011-026-02006-4"
     },
     {
-      "id": "epmc-MED-42913489",
-      "title": "Liquid-liquid phase separation in neurodegenerative diseases: Mechanisms, pathological transitions, and therapeutic opportunities.",
-      "titleZh": "待复核翻译：Liquid-liquid phase separation in neurodegenerative diseases: Mechanisms, pathological transitions, and therapeutic opportunities.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1177/00368504261499190"
-    },
-    {
-      "id": "epmc-MED-42912958",
-      "title": "The SmartGlove BISINDO Wearable Sensor and Large Language Model-Based Sign Language-to-Speech System for Users With Communication Disorders: Design Science Research Study.",
-      "titleZh": "待复核翻译：The SmartGlove BISINDO Wearable Sensor and Large Language Model-Based Sign Language-to-Speech System for Users With Communication Disorders: Design Science Research Study.",
+      "id": "epmc-PPR-PPR1349528",
+      "title": "METTL3-mediated m6A modification alleviates skeletal muscle atrophy in ALS by regulating ACSL1-dependent triglyceride metabolism",
+      "titleZh": "待复核翻译：METTL3-mediated m6A modification alleviates skeletal muscle atrophy in ALS by regulating ACSL1-dependent triglyceride metabolism",
       "category": "机制",
       "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
+      "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://doi.org/10.2196/96258"
+      "url": "https://doi.org/10.64898/2026.10.21.759261"
     }
   ],
   "missingIdentifiers": [
@@ -183,7 +161,7 @@
       "title": "Painless Leg Weakness Revealing a Falcine Meningioma in the Postpartum Period",
       "titleZh": "产后无痛性下肢无力揭示大脑镰脑膜瘤",
       "category": "机制",
-      "evidenceLevel": "病例报告（单例）",
+      "evidenceLevel": "病例报告（单篇；元数据无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -194,7 +172,7 @@
       "title": "Editorial: Imaging biomarkers in neurodegenerative diseases: advances and challenges",
       "titleZh": "社论：神经退行性疾病中的影像生物标志物：进展与挑战",
       "category": "生物标志物",
-      "evidenceLevel": "社论/评论（非原始研究，未经系统评价）",
+      "evidenceLevel": "社论/评论（非原始研究，无摘要，证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -203,9 +181,9 @@
     {
       "id": "epmc-PMC-PMC13691435",
       "title": "Regulatory T cell heterogeneity: who they are, where they come from, and where they go",
-      "titleZh": "调节性T细胞异质性：它们是谁、来自何处、去向何方",
+      "titleZh": "调节性T细胞异质性：它们是谁、从何而来、去往何处",
       "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "动物/细胞实验（综述）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -214,9 +192,9 @@
     {
       "id": "epmc-PMC-PMC13690503",
       "title": "Corneal Confocal Microscopy (CCM) in Patients With Central Neurodegenerative Disease",
-      "titleZh": "中枢神经退行性疾病患者的角膜共聚焦显微镜检查（CCM）",
+      "titleZh": "角膜共聚焦显微镜（CCM）在中枢神经退行性疾病患者中的应用",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究（仅题名与元数据，无摘要）",
+      "evidenceLevel": "观察性临床研究（仅有题名与来源元数据，摘要缺失）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -227,7 +205,7 @@
       "title": "Machine Learning in Amyloidogenic Polypeptide Research: From Sequence Prediction to Drug Discovery",
       "titleZh": "机器学习在淀粉样多肽研究中的应用：从序列预测到药物发现",
       "category": "治疗",
-      "evidenceLevel": "综述；原始元数据未提供摘要，具体证据等级待人工判定",
+      "evidenceLevel": "综述（原始元数据未提供摘要，证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -236,7 +214,7 @@
     {
       "id": "epmc-PMC-PMC13686912",
       "title": "Molecular mechanisms regulating differential expression of individual miRNAs within polycistronic clusters",
-      "titleZh": "调控多顺反子簇内单个miRNA差异表达的分子机制",
+      "titleZh": "待复核翻译：Molecular mechanisms regulating differential expression of individual miRNAs within polycistronic clusters",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -247,9 +225,9 @@
     {
       "id": "epmc-PMC-PMC13688281",
       "title": "Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
-      "titleZh": "解读新生儿诊断窗口期之外的巨细胞病毒血清阳性：一例早发性特应性皮炎合并先天性关节挛缩婴儿的病例报告",
+      "titleZh": "待复核翻译：Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
       "category": "生物标志物",
-      "evidenceLevel": "病例报告（单例），证据等级低",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -258,7 +236,7 @@
     {
       "id": "epmc-PMC-PMC13688025",
       "title": "DSP1 regulates planarian (Dugesia japonica) neural regeneration depending on CnB",
-      "titleZh": "DSP1 依赖 CnB 调控涡虫（Dugesia japonica）神经再生",
+      "titleZh": "待复核翻译：DSP1 regulates planarian (Dugesia japonica) neural regeneration depending on CnB",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -269,57 +247,24 @@
     {
       "id": "epmc-PMC-PMC13687075",
       "title": "Selected traditional Chinese medicines for treating amyotrophic lateral sclerosis: a Bayesian network meta-analysis based on randomised controlled trials",
-      "titleZh": "治疗肌萎缩侧索硬化症的精选中药：基于随机对照试验的贝叶斯网络荟萃分析",
+      "titleZh": "Selected traditional Chinese medicines for treating 肌萎缩侧索硬化症: a Bayesian network meta-analysis based on randomised controlled trials",
       "category": "机制",
-      "evidenceLevel": "综述/荟萃分析（基于随机对照试验的贝叶斯网络荟萃分析）",
+      "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13687075"
     },
     {
       "id": "epmc-PMC-PMC13690056",
       "title": "Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
-      "titleZh": "重新思考中医药领域的大语言模型评估：迈向以质量为基础的标准与细粒度评价",
+      "titleZh": "待复核翻译：Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
       "category": "机制",
-      "evidenceLevel": "机制研究/方法学讨论（无摘要，无法进一步分级）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13690056"
-    },
-    {
-      "id": "epmc-PMC-PMC13693491",
-      "title": "Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions",
-      "titleZh": "待复核翻译：Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13693491"
-    },
-    {
-      "id": "epmc-PMC-PMC13693915",
-      "title": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
-      "titleZh": "待复核翻译：Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13693915"
-    },
-    {
-      "id": "epmc-PMC-PMC13691385",
-      "title": "Riluzole‐Derived Benzo[d]thiazoles as CK1δ Inhibitors for Amyotrophic Lateral Sclerosis‐Related Neurodegeneration",
-      "titleZh": "Riluzole‐Derived Benzo[d]thiazoles as CK1δ Inhibitors for 肌萎缩侧索硬化症‐Related Neurodegeneration",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13691385"
     }
   ],
   "missingAbstract": [
@@ -328,7 +273,7 @@
       "title": "Painless Leg Weakness Revealing a Falcine Meningioma in the Postpartum Period",
       "titleZh": "产后无痛性下肢无力揭示大脑镰脑膜瘤",
       "category": "机制",
-      "evidenceLevel": "病例报告（单例）",
+      "evidenceLevel": "病例报告（单篇；元数据无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -339,7 +284,7 @@
       "title": "Editorial: Imaging biomarkers in neurodegenerative diseases: advances and challenges",
       "titleZh": "社论：神经退行性疾病中的影像生物标志物：进展与挑战",
       "category": "生物标志物",
-      "evidenceLevel": "社论/评论（非原始研究，未经系统评价）",
+      "evidenceLevel": "社论/评论（非原始研究，无摘要，证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -348,9 +293,9 @@
     {
       "id": "epmc-PMC-PMC13691435",
       "title": "Regulatory T cell heterogeneity: who they are, where they come from, and where they go",
-      "titleZh": "调节性T细胞异质性：它们是谁、来自何处、去向何方",
+      "titleZh": "调节性T细胞异质性：它们是谁、从何而来、去往何处",
       "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "动物/细胞实验（综述）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -359,9 +304,9 @@
     {
       "id": "epmc-PMC-PMC13690503",
       "title": "Corneal Confocal Microscopy (CCM) in Patients With Central Neurodegenerative Disease",
-      "titleZh": "中枢神经退行性疾病患者的角膜共聚焦显微镜检查（CCM）",
+      "titleZh": "角膜共聚焦显微镜（CCM）在中枢神经退行性疾病患者中的应用",
       "category": "机制",
-      "evidenceLevel": "观察性临床研究（仅题名与元数据，无摘要）",
+      "evidenceLevel": "观察性临床研究（仅有题名与来源元数据，摘要缺失）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -372,7 +317,7 @@
       "title": "Machine Learning in Amyloidogenic Polypeptide Research: From Sequence Prediction to Drug Discovery",
       "titleZh": "机器学习在淀粉样多肽研究中的应用：从序列预测到药物发现",
       "category": "治疗",
-      "evidenceLevel": "综述；原始元数据未提供摘要，具体证据等级待人工判定",
+      "evidenceLevel": "综述（原始元数据未提供摘要，证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -381,7 +326,7 @@
     {
       "id": "epmc-PMC-PMC13686912",
       "title": "Molecular mechanisms regulating differential expression of individual miRNAs within polycistronic clusters",
-      "titleZh": "调控多顺反子簇内单个miRNA差异表达的分子机制",
+      "titleZh": "待复核翻译：Molecular mechanisms regulating differential expression of individual miRNAs within polycistronic clusters",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -392,9 +337,9 @@
     {
       "id": "epmc-PMC-PMC13688281",
       "title": "Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
-      "titleZh": "解读新生儿诊断窗口期之外的巨细胞病毒血清阳性：一例早发性特应性皮炎合并先天性关节挛缩婴儿的病例报告",
+      "titleZh": "待复核翻译：Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
       "category": "生物标志物",
-      "evidenceLevel": "病例报告（单例），证据等级低",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -403,7 +348,7 @@
     {
       "id": "epmc-PMC-PMC13688025",
       "title": "DSP1 regulates planarian (Dugesia japonica) neural regeneration depending on CnB",
-      "titleZh": "DSP1 依赖 CnB 调控涡虫（Dugesia japonica）神经再生",
+      "titleZh": "待复核翻译：DSP1 regulates planarian (Dugesia japonica) neural regeneration depending on CnB",
       "category": "机制",
       "evidenceLevel": "机制研究",
       "relevanceScore": 0,
@@ -414,92 +359,92 @@
     {
       "id": "epmc-PMC-PMC13687075",
       "title": "Selected traditional Chinese medicines for treating amyotrophic lateral sclerosis: a Bayesian network meta-analysis based on randomised controlled trials",
-      "titleZh": "治疗肌萎缩侧索硬化症的精选中药：基于随机对照试验的贝叶斯网络荟萃分析",
+      "titleZh": "Selected traditional Chinese medicines for treating 肌萎缩侧索硬化症: a Bayesian network meta-analysis based on randomised controlled trials",
       "category": "机制",
-      "evidenceLevel": "综述/荟萃分析（基于随机对照试验的贝叶斯网络荟萃分析）",
+      "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13687075"
     },
     {
       "id": "epmc-PMC-PMC13690056",
       "title": "Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
-      "titleZh": "重新思考中医药领域的大语言模型评估：迈向以质量为基础的标准与细粒度评价",
+      "titleZh": "待复核翻译：Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
       "category": "机制",
-      "evidenceLevel": "机制研究/方法学讨论（无摘要，无法进一步分级）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13690056"
     },
     {
-      "id": "epmc-PMC-PMC13693491",
-      "title": "Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions",
-      "titleZh": "待复核翻译：Astrocytic EAAT‐2 Upregulation Supports Neuro‐Axonal Homeostasis in Chronic Inflammatory CNS Lesions",
-      "category": "生物标志物",
+      "id": "epmc-MED-42925563",
+      "title": "Constructing functional neural circuits to model amyotrophic lateral sclerosis with induced pluripotent stem cell-derived brain organoids.",
+      "titleZh": "Constructing functional neural circuits to model 肌萎缩侧索硬化症 with induced pluripotent 干细胞-derived brain organoids.",
+      "category": "临床试验",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.4103/nrr.nrronline-d-26-00781"
+    },
+    {
+      "id": "epmc-MED-42925513",
+      "title": "Postsynaptic remodeling and F-actin dysregulation in the Dctn1Δ2-4 mouse model of motor neuron disease.",
+      "titleZh": "Postsynaptic remodeling and F-actin dysregulation in the Dctn1Δ2-4 mouse model of 运动神经元病.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://doi.org/10.4103/nrr.nrronline-d-26-00886"
+    },
+    {
+      "id": "epmc-MED-42925434",
+      "title": "Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
+      "titleZh": "待复核翻译：Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
+      "category": "治疗",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11011-026-02006-4"
+    },
+    {
+      "id": "epmc-PPR-PPR1349528",
+      "title": "METTL3-mediated m6A modification alleviates skeletal muscle atrophy in ALS by regulating ACSL1-dependent triglyceride metabolism",
+      "titleZh": "待复核翻译：METTL3-mediated m6A modification alleviates skeletal muscle atrophy in ALS by regulating ACSL1-dependent triglyceride metabolism",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13693491"
+      "url": "https://doi.org/10.64898/2026.10.21.759261"
     },
     {
-      "id": "epmc-PMC-PMC13693915",
-      "title": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
-      "titleZh": "待复核翻译：Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13693915"
-    },
-    {
-      "id": "epmc-MED-42913489",
-      "title": "Liquid-liquid phase separation in neurodegenerative diseases: Mechanisms, pathological transitions, and therapeutic opportunities.",
-      "titleZh": "待复核翻译：Liquid-liquid phase separation in neurodegenerative diseases: Mechanisms, pathological transitions, and therapeutic opportunities.",
-      "category": "治疗",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "medium",
-      "url": "https://doi.org/10.1177/00368504261499190"
-    },
-    {
-      "id": "epmc-PMC-PMC13691385",
-      "title": "Riluzole‐Derived Benzo[d]thiazoles as CK1δ Inhibitors for Amyotrophic Lateral Sclerosis‐Related Neurodegeneration",
-      "titleZh": "Riluzole‐Derived Benzo[d]thiazoles as CK1δ Inhibitors for 肌萎缩侧索硬化症‐Related Neurodegeneration",
-      "category": "治疗",
+      "id": "epmc-MED-42924853",
+      "title": "Feasibility and apparent safety of functional electrical stimulation-assisted cycling in amyotrophic lateral sclerosis and primary lateral sclerosis: a single-arm longitudinal pilot feasibility study.",
+      "titleZh": "Feasibility and apparent safety of functional electrical stimulation-assisted cycling in 肌萎缩侧索硬化症 and primary lateral sclerosis: a single-arm longitudinal pilot feasibility study.",
+      "category": "临床试验",
       "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13691385"
-    },
-    {
-      "id": "epmc-MED-42912958",
-      "title": "The SmartGlove BISINDO Wearable Sensor and Large Language Model-Based Sign Language-to-Speech System for Users With Communication Disorders: Design Science Research Study.",
-      "titleZh": "待复核翻译：The SmartGlove BISINDO Wearable Sensor and Large Language Model-Based Sign Language-to-Speech System for Users With Communication Disorders: Design Science Research Study.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.2196/96258"
+      "url": "https://doi.org/10.4081/ejtm.2026.16025"
     }
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42918320",
-      "title": "State transitions in amyotrophic lateral sclerosis: mechanistic convergence and biomarker-guided stratification.",
-      "titleZh": "State transitions in 肌萎缩侧索硬化症: mechanistic convergence and 生物标志物-guided stratification.",
-      "category": "治疗",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 13,
+      "id": "pmid-42927514",
+      "title": "Mild cognitive impairment in presymptomatic amyotrophic lateral sclerosis.",
+      "titleZh": "症状前肌萎缩侧索硬化中的轻度认知障碍",
+      "category": "临床试验",
+      "evidenceLevel": "观察性队列研究（Pre-fALS队列神经心理学分析）",
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918320/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927514/"
     },
     {
       "id": "trial-NCT05936619",
@@ -669,8 +614,8 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 14,
-    "缺标识符": 13,
+    "疑似误收": 12,
+    "缺标识符": 10,
     "缺摘要": 15,
     "高优先级待复核": 16,
     "来源失败": 0
@@ -679,8 +624,8 @@
     "待复核": 45
   },
   "relevanceCounts": {
-    "high": 20,
-    "medium": 11,
-    "low": 14
+    "high": 21,
+    "medium": 12,
+    "low": 12
   }
 }

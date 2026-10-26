@@ -1,11 +1,11 @@
 # ALS 每日简报
 
-更新时间：2026-10-25
+更新时间：2026-10-26
 
-1. **State transitions in 肌萎缩侧索硬化症: mechanistic convergence and 生物标志物-guided stratification.**
-   - 治疗 / 综述/荟萃分析 / high
-   - Biological heterogeneity is a major obstacle to therapeutic development in amyotrophic lateral sclerosis (ALS).
-   - https://pubmed.ncbi.nlm.nih.gov/42918320/
+1. **症状前肌萎缩侧索硬化中的轻度认知障碍**
+   - 临床试验 / 观察性队列研究（Pre-fALS队列神经心理学分析） / high
+   - 症状前ALS基因携带者中MCI-ft并不少见，C9ORF72携带者发生率最高（20%），SOD1为13%，且多表现为语言与执行功能同时受损，状态在评估间常有波动。
+   - https://pubmed.ncbi.nlm.nih.gov/42927514/
 2. **待复核翻译：MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.

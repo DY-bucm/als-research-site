@@ -1,104 +1,85 @@
 {
-  "updatedAt": "2026-10-25T00:20:13.525Z",
-  "previousSnapshot": "data/archive/2026-10-24.json",
+  "updatedAt": "2026-10-26T00:19:39.940Z",
+  "previousSnapshot": "data/archive/2026-10-25.json",
   "current": "data/items.json",
   "summary": {
-    "added": 23,
-    "removed": 17,
-    "changed": 4
+    "added": 10,
+    "removed": 10,
+    "changed": 14
   },
   "added": [
     {
-      "id": "pmid-42843275",
-      "titleZh": "酪氨酸硝化：神经退行性疾病与心肺疾病中新兴的机制图景",
+      "id": "pmid-42926777",
+      "titleZh": "靶向中枢神经系统的阿托伐醌纳米疗法减轻ALS中的补体激活和神经肌肉退变",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843275/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926777/"
     },
     {
-      "id": "pmid-42833594",
-      "titleZh": "TDP-43与ALS——我的膜出了什么问题？",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42833594/"
-    },
-    {
-      "id": "pmid-42800647",
-      "titleZh": "多胺在神经退行性蛋白病中的作用",
+      "id": "pmid-42863218",
+      "titleZh": "新型化合物诱导AChR聚集并改善重症肌无力动物模型的运动功能",
       "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800647/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863218/"
     },
     {
-      "id": "epmc-PMC-PMC13693819",
-      "titleZh": "产后无痛性下肢无力揭示大脑镰脑膜瘤",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13693819"
-    },
-    {
-      "id": "epmc-PMC-PMC13690742",
-      "titleZh": "社论：神经退行性疾病中的影像生物标志物：进展与挑战",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13690742"
-    },
-    {
-      "id": "epmc-PMC-PMC13691435",
-      "titleZh": "调节性T细胞异质性：它们是谁、来自何处、去向何方",
-      "category": "机制",
+      "id": "pmid-42921272",
+      "titleZh": "神经退行性疾病：流行病学、危险因素、分类、病理生理学、临床特征、诊断与治疗策略",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13691435"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921272/"
     },
     {
-      "id": "epmc-PMC-PMC13690503",
-      "titleZh": "中枢神经退行性疾病患者的角膜共聚焦显微镜检查（CCM）",
+      "id": "pmid-42927514",
+      "titleZh": "症状前肌萎缩侧索硬化中的轻度认知障碍",
+      "category": "临床试验",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927514/"
+    },
+    {
+      "id": "pmid-42925563",
+      "titleZh": "构建功能性神经回路：利用诱导多能干细胞来源的脑类器官模拟肌萎缩侧索硬化",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925563/"
+    },
+    {
+      "id": "epmc-MED-42925563",
+      "titleZh": "Constructing functional neural circuits to model 肌萎缩侧索硬化症 with induced pluripotent 干细胞-derived brain organoids.",
+      "category": "临床试验",
+      "priority": "medium",
+      "url": "https://doi.org/10.4103/nrr.nrronline-d-26-00781"
+    },
+    {
+      "id": "epmc-MED-42925513",
+      "titleZh": "Postsynaptic remodeling and F-actin dysregulation in the Dctn1Δ2-4 mouse model of 运动神经元病.",
       "category": "机制",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13690503"
+      "url": "https://doi.org/10.4103/nrr.nrronline-d-26-00886"
     },
     {
-      "id": "epmc-PMC-PMC13688577",
-      "titleZh": "机器学习在淀粉样多肽研究中的应用：从序列预测到药物发现",
+      "id": "epmc-MED-42925434",
+      "titleZh": "待复核翻译：Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
       "category": "治疗",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13688577"
+      "url": "https://doi.org/10.1007/s11011-026-02006-4"
     },
     {
-      "id": "epmc-PMC-PMC13686912",
-      "titleZh": "调控多顺反子簇内单个miRNA差异表达的分子机制",
+      "id": "epmc-PPR-PPR1349528",
+      "titleZh": "待复核翻译：METTL3-mediated m6A modification alleviates skeletal muscle atrophy in ALS by regulating ACSL1-dependent triglyceride metabolism",
       "category": "机制",
       "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13686912"
+      "url": "https://doi.org/10.64898/2026.10.21.759261"
     },
     {
-      "id": "epmc-PMC-PMC13688281",
-      "titleZh": "解读新生儿诊断窗口期之外的巨细胞病毒血清阳性：一例早发性特应性皮炎合并先天性关节挛缩婴儿的病例报告",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13688281"
-    },
-    {
-      "id": "epmc-PMC-PMC13688025",
-      "titleZh": "DSP1 依赖 CnB 调控涡虫（Dugesia japonica）神经再生",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13688025"
-    },
-    {
-      "id": "epmc-PMC-PMC13687075",
-      "titleZh": "治疗肌萎缩侧索硬化症的精选中药：基于随机对照试验的贝叶斯网络荟萃分析",
-      "category": "机制",
+      "id": "epmc-MED-42924853",
+      "titleZh": "Feasibility and apparent safety of functional electrical stimulation-assisted cycling in 肌萎缩侧索硬化症 and primary lateral sclerosis: a single-arm longitudinal pilot feasibility study.",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13687075"
-    },
-    {
-      "id": "epmc-PMC-PMC13690056",
-      "titleZh": "重新思考中医药领域的大语言模型评估：迈向以质量为基础的标准与细粒度评价",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13690056"
-    },
+      "url": "https://doi.org/10.4081/ejtm.2026.16025"
+    }
+  ],
+  "removed": [
     {
       "id": "pmid-42919989",
       "titleZh": "线粒体l dysfunction in neurology: 生物标志物s and clinical implications.",
@@ -170,127 +151,6 @@
       "url": "https://doi.org/10.2196/96258"
     }
   ],
-  "removed": [
-    {
-      "id": "pmid-42911846",
-      "titleZh": "急性脑损伤后临床无反应患者可激活脑机接口",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42911846/"
-    },
-    {
-      "id": "epmc-PPR-PPR1348363",
-      "titleZh": "高密度表面肌电图可检测肌萎缩侧索硬化中与纤维类型相关的特征及疾病相关疲劳轨迹",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.64898/2026.10.20.26366045"
-    },
-    {
-      "id": "pmid-42907506",
-      "titleZh": "寒冷激活BH2代谢网络促进长寿与蛋白稳态",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42907506/"
-    },
-    {
-      "id": "pmid-42906586",
-      "titleZh": "迈向语义脑机接口：语义触发分级清单（GIST）范式",
-      "category": "遗传",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906586/"
-    },
-    {
-      "id": "pmid-42905535",
-      "titleZh": "高龄中选择性运动神经元易损性的分子特征",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905535/"
-    },
-    {
-      "id": "pmid-42905272",
-      "titleZh": "神经递质定义额颞叶变性（FTLD）脑易损性模式",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905272/"
-    },
-    {
-      "id": "pmid-42905245",
-      "titleZh": "理解肌萎缩侧索硬化中整体患者相关测量：选定临床结局评估的混合方法内容效度与探索性Rasch分析",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905245/"
-    },
-    {
-      "id": "pmid-42905162",
-      "titleZh": "青少年和成人5q脊髓性肌萎缩症患者的血清p-tau181和p-tau217水平",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905162/"
-    },
-    {
-      "id": "pmid-42904407",
-      "titleZh": "肌萎缩侧索硬化症患者家庭机械通气的临终照护：全国人群为基础的DISCOVERY研究",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904407/"
-    },
-    {
-      "id": "epmc-PMC-PMC13681303",
-      "titleZh": "情境依赖的催产素受体信号传导：从分子结构到转录水平的受体工程",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13681303"
-    },
-    {
-      "id": "epmc-PMC-PMC13682215",
-      "titleZh": "血管病理在脊髓性肌萎缩症中的作用：对发病机制和治疗的启示",
-      "category": "治疗",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13682215"
-    },
-    {
-      "id": "epmc-PMC-PMC13682418",
-      "titleZh": "一名携带肌炎特异性抗体的年轻女性中，下运动神经元病被误诊为炎性肌病",
-      "category": "生物标志物",
-      "priority": "medium",
-      "url": "https://europepmc.org/article/PMC/PMC13682418"
-    },
-    {
-      "id": "epmc-MED-42905535",
-      "titleZh": "老年期选择性运动神经元易损性的分子特征",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1113/ep094279"
-    },
-    {
-      "id": "epmc-MED-42904327",
-      "titleZh": "待复核翻译：Cytoplasmic TDP-43 Accumulation in Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay.",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://doi.org/10.1017/cjn.2026.10695"
-    },
-    {
-      "id": "epmc-PPR-PPR1348543",
-      "titleZh": "Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and 肌萎缩侧索硬化症 Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study",
-      "category": "生物标志物",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.10.19.26365782"
-    },
-    {
-      "id": "epmc-PPR-PPR1347327",
-      "titleZh": "待复核翻译：Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.10.21.26365867"
-    },
-    {
-      "id": "epmc-MED-42789320",
-      "titleZh": "待复核翻译：Hyaluronic acid-alginate hydrazone crosslinked hydrogels support the generation and maturation of V2a interneurons.",
-      "category": "机制",
-      "priority": "low",
-      "url": "https://doi.org/10.1039/d6tb01306f"
-    }
-  ],
   "changed": [
     {
       "id": "pmid-42840349",
@@ -298,8 +158,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "观察性临床研究",
-          "after": "观察性临床研究（方法学验证，含验证组与测试组）"
+          "before": "观察性临床研究（方法学验证，含验证组与测试组）",
+          "after": "观察性临床研究"
         }
       ]
     },
@@ -309,8 +169,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "综述/荟萃分析（叙述性综述，非系统评价）",
-          "after": "综述/荟萃分析（叙述性综述，临床前证据为主）"
+          "before": "综述/荟萃分析（叙述性综述，临床前证据为主）",
+          "after": "综述/荟萃分析（叙述性综述，汇总临床前证据）"
         }
       ]
     },
@@ -320,8 +180,30 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "流行病学与遗传数据库分析（GBD与ClinVar数据）",
-          "after": "流行病学建模与数据库分析（GBD数据+ClinVar），非临床或机制实验"
+          "before": "流行病学建模与数据库分析（GBD数据+ClinVar），非临床或机制实验",
+          "after": "流行病学建模与数据库分析（GBD与ClinVar），非临床疗效研究"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42843275",
+      "titleZh": "酪氨酸硝化：神经退行性疾病与心肺疾病中新兴的机制图景",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "综述/荟萃分析（叙述性综述，非原始临床或实验研究）",
+          "after": "综述/荟萃分析"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42833594",
+      "titleZh": "TDP-43与ALS——我的膜出了什么问题？",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "综述",
+          "after": "综述（叙述性综述，非原始临床研究）"
         }
       ]
     },
@@ -331,8 +213,101 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "病例报告（单个近亲婚配家庭，1例患者）",
-          "after": "病例报告（单个家系，证据等级低）"
+          "before": "病例报告（单个家系，证据等级低）",
+          "after": "病例报告（单例）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13693819",
+      "titleZh": "产后无痛性下肢无力揭示大脑镰脑膜瘤",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "病例报告（单例）",
+          "after": "病例报告（单篇；元数据无摘要）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13690742",
+      "titleZh": "社论：神经退行性疾病中的影像生物标志物：进展与挑战",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "社论/评论（非原始研究，未经系统评价）",
+          "after": "社论/评论（非原始研究，无摘要，证据等级待人工判定）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13691435",
+      "titleZh": "调节性T细胞异质性：它们是谁、从何而来、去往何处",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "动物/细胞实验",
+          "after": "动物/细胞实验（综述）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13690503",
+      "titleZh": "角膜共聚焦显微镜（CCM）在中枢神经退行性疾病患者中的应用",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "观察性临床研究（仅题名与元数据，无摘要）",
+          "after": "观察性临床研究（仅有题名与来源元数据，摘要缺失）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13688577",
+      "titleZh": "机器学习在淀粉样多肽研究中的应用：从序列预测到药物发现",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "综述；原始元数据未提供摘要，具体证据等级待人工判定",
+          "after": "综述（原始元数据未提供摘要，证据等级待人工判定）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13688281",
+      "titleZh": "待复核翻译：Interpreting Cytomegalovirus Seropositivity Beyond the Neonatal Diagnostic Window: A Case Report on an Infant With Early-Onset Atopic Dermatitis and Congenital Arthrogryposis",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "病例报告（单例），证据等级低",
+          "after": "待人工判定"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13687075",
+      "titleZh": "Selected traditional Chinese medicines for treating 肌萎缩侧索硬化症: a Bayesian network meta-analysis based on randomised controlled trials",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        },
+        {
+          "field": "evidenceLevel",
+          "before": "综述/荟萃分析（基于随机对照试验的贝叶斯网络荟萃分析）",
+          "after": "综述/荟萃分析"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PMC-PMC13690056",
+      "titleZh": "待复核翻译：Rethinking large language model evaluation in traditional Chinese medicine: toward quality-grounded standards and fine-grained assessment",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "机制研究/方法学讨论（无摘要，无法进一步分级）",
+          "after": "机制研究"
         }
       ]
     }
