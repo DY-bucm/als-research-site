@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-10-26
+更新时间：2026-10-27
 
 1. **症状前肌萎缩侧索硬化中的轻度认知障碍**
-   - 临床试验 / 观察性队列研究（Pre-fALS队列神经心理学分析） / high
-   - 症状前ALS基因携带者中MCI-ft并不少见，C9ORF72携带者发生率最高（20%），SOD1为13%，且多表现为语言与执行功能同时受损，状态在评估间常有波动。
+   - 临床试验 / 队列研究 / high
+   - 症状前ALS基因携带者中MCI-ft常见，C9ORF72携带者频率最高（20%），且认知状态波动常见。
    - https://pubmed.ncbi.nlm.nih.gov/42927514/
-2. **待复核翻译：MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT05936619
-3. **Focal Accumulation of Iron in Cerebral Regions in Early ALS (肌萎缩侧索硬化症) Patients**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT02164253
-4. **Personalized 反义寡核苷酸 Therapy for A Single Patient With CHCHD10 ALS (nL18576)**
+2. **待复核翻译：Metabolism and Nutrition in MND**
    - 临床试验 / 临床试验注册 / high
    - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07423494
-5. **Non-invasive Brain Stimulation and Exercise Intervention for Patients With 运动神经元病**
+   - https://clinicaltrials.gov/study/NCT07851714
+3. **Controlling 肌萎缩侧索硬化症 Motor Neuron Excitability Study**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07067229
-6. **待复核翻译：Open Label Extension Study of AMX0035 in Patients With ALS**
+   - https://clinicaltrials.gov/study/NCT06649955
+4. **待复核翻译：Neurodegenerative Diseases Progression Markers (MARKERS-NDD)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06596746
+5. **待复核翻译：Hypercaloric PEG Nutrition in ALS to Sustain Energy Homeostasis**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06877143
+6. **Efficacy and Tolerability of Beta Hydroxybutyrate Ester in Patients With 肌萎缩侧索硬化症 (ALS)**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03488524
-7. **Safety of Intrathecal Riluzole in Patients With 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT04820478
+7. **An Open-Label Extension for the II 期 Study in Early Symptomatic 肌萎缩侧索硬化症 Patients on Stable Background Therapy to Assess Bioenergetic Catalysis With CNM-Au8 to Slow Disease Progression in ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: ACTIVE_NOT_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT05299658
+8. **待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners**
    - 临床试验 / 临床试验注册 / high
    - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07093268
-8. **CAN-PRIME: Precise Robotically Implanted 脑机接口 for the Control of External Devices**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06700304
+   - https://clinicaltrials.gov/study/NCT06968468

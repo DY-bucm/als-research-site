@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T00:18:03.054Z",
+  "updatedAt": "2026-10-27T01:27:35.317Z",
   "period": {
     "days": 10,
-    "from": "2026-10-17",
-    "to": "2026-10-26"
+    "from": "2026-10-18",
+    "to": "2026-10-27"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 34,
+  "count": 30,
   "articles": [
     {
       "id": "pmid-42927514",
@@ -308,7 +308,8 @@
         "Otto M"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "publishedAt": "2026-10-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42918778/"
@@ -761,90 +762,6 @@
       ],
       "publishedAt": "2026-10-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894325/"
-    },
-    {
-      "id": "pmid-42892517",
-      "pmid": "42892517",
-      "doi": "10.1016/j.nbd.2026.107659",
-      "title": "Cryo-EM advances in TDP-43 amyloid fibrils structure determination.",
-      "abstract": "TAR DNA-binding protein 43 (TDP-43) is a DNA/RNA-binding protein whose pathological aggregation characterizes a spectrum of neurodegenerative disorders known as TDP-43 proteinopathies, including amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration (FTLD), and chronic traumatic encephalopathy (CTE). Recent breakthroughs in cryo-electron microscopy (cryo-EM) have revolutionized our understanding of these diseases by resolving the atomic structures of TDP-43 amyloid fibrils. These structural insights have been pivotal in elucidating the transition from functional liquid-liquid phase separation (LLPS) to irreversible solid-state aggregation. This review synthesizes key cryo-EM findings from 2019 to 2026, encompassing fibrils formed by the full-length low-complexity domain, disease-relevant core fragments, and filaments extracted directly from patient tissues, as well as the pathological implications of distinct structural polymorphs. These findings not only deepen our understanding of the brain science aspects of the pathogenesis of TDP-43 proteinopathies, but also provide an important structural basis for the development of specific conformational diagnostic methods and targeted therapeutic drugs.",
-      "journal": "Neurobiology of disease",
-      "authors": [
-        "Xu Z",
-        "Chen X",
-        "Yi W"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892517/"
-    },
-    {
-      "id": "pmid-42894599",
-      "pmid": "42894599",
-      "doi": "10.1007/s40203-026-00774-6",
-      "title": "Molecular recognition of axonal injury-associated candidate hub genes and predicted inhibitors across Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis.",
-      "abstract": "Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS) have converging molecular pathologies such as neuroinflammation, mitochondrial dysfunction, and axonal degeneration, but do not have broadly effective disease-modifying therapies. A novel computational strategy was used in this study with an integrated in-silico pipeline to determine common candidate hub genes across AD, PD, and ALS and to computationally screen candidate inhibitors. The gene expression datasets were retrieved from the Gene Expression Omnibus database and analyzed with limma R package for blood-derived gene expression datasets for AD (GSE63060), PD (GSE99039) and ALS (GSE112680). A multi-dataset intersection analysis revealed 138 genes commonly upregulated and 0 commonly downregulated genes, which were functionally enriched in immune regulation, apoptotic signaling and mitochondrial instability pathways. Protein-protein interaction network analysis identified three key genes (MMP9, PTPN6 and TNFRSF1A) as high-confidence candidate hub genes for AD, PD, and ALS. The ZINC library of 34,853 compounds was screened for drug-like properties using QikProp to yield 16,466 drug-like compounds. Based on the comparative screening results, the structure of MMP9 (PDB ID: 8K5Y) was chosen for further analysis and two of the selected compounds ZINC04582833, ZINC00047690 were identified as the two highest ranked compounds with docking scores of - 10.4 and - 9.7 kcal/mol respectively. Both complexes were further evaluated by 100 ns MD simulations, showing RMSD profile stability, maintained secondary structure for both complexes. The results in this study make ZINC04582833 and ZINC00047690 computationally prioritized candidates for shared neurodegenerative targets for experimental validation. The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00774-6.",
-      "journal": "In silico pharmacology",
-      "authors": [
-        "Naseer A",
-        "Iqbal N",
-        "Bibi I",
-        "Shah SAR",
-        "Khalid M",
-        "Khalid A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894599/"
-    },
-    {
-      "id": "pmid-42891860",
-      "pmid": "42891860",
-      "doi": "10.1007/s10072-026-09480-9",
-      "title": "Peripheral and cerebrospinal fluid inflammatory markers in sporadic amyotrophic lateral sclerosis an exploratory cross-sectional association study.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder with an ambiguous etiology, whose onset may be linked to innate immune system activation outside the central nervous system (CNS). We investigated the association between peripheral blood and CNS inflammatory parameters in 45 sporadic ALS patients compared to 30 controls, analyzing peripheral blood tests (C-reactive protein [CRP], blood count, fibrinogen) and cerebrospinal fluid (CSF) immunological measures (Tumor Necrosis Factor alpha [TNF-α], TNF receptor type 1 [TNFR-1], CRP) alongside clinical characteristics. Results revealed significantly higher concentrations of TNFR-1 in the CSF of ALS patients compared to the control group (1,029.5 ± 176.0 vs. 846.1 ± 167.5 pg/ml; p < 0.0001). This difference remained significant in multivariable logistic regression adjusting for age and sex (OR 1.82 per 100 pg/ml increment, 95% CI 1.26-2.63; p = 0.0015). In an exploratory ROC analysis, CSF TNFR-1 discriminated patients from controls with an AUC of 0.78 (95% CI 0.67-0.88). TNFR-1 correlated with age (R = 0.32, p = 0.038), associations with disease severity and a lower concentration in bulbar-onset disease were exploratory and not robustly significant. Plasma and CSF CRP concentrations did not differ significantly between groups, but strongly correlated with each other in both ALS (R = 0.83) and control (R = 0.82) cohorts, indicating a disease-non-specific relationship. CSF TNFR-1 is independently associated with sporadic ALS and warrants further investigation as a candidate disease-associated inflammatory biomarker. Given the limitations, our findings do not prove diagnostic accuracy or causality. Longitudinal studies with disease controls and blood-CSF barrier integrity measures are needed.",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "authors": [
-        "Wełnicka-Wesołowska A",
-        "Łuczkowska K",
-        "Nowacki P",
-        "Paczkowska E",
-        "Meller A",
-        "Machowska-Sempruch K",
-        "Machaliński B",
-        "Gołąb-Janowska M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891860/"
-    },
-    {
-      "id": "pmid-42906263",
-      "pmid": "42906263",
-      "doi": "10.1016/j.smrv.2026.102390",
-      "title": "Restless legs syndrome and other neurological disorders: A systematic-narrative hybrid literature review with exploratory meta-analysis.",
-      "abstract": "Restless legs syndrome (RLS) is a sleep-related sensorimotor disorder affecting approximately 3% of adults worldwide. This review aims to synthesize current evidence on associations between RLS and major neurological conditions, provide an exploratory quantitative synthesis summarizing association patterns and heterogeneity, and identify priority mechanistic and clinical research gaps. Databases were searched from inception until August 2026. In our exploratory synthesis of 119 unique studies, RLS was significantly associated with Parkinson's disease (case-control OR 3.22, 95% CI 2.35-4.41; cohort RR 1.74, 95% CI 1.02-2.95), multiple sclerosis (OR 4.04, 95% CI 3.26-5.00), neuromyelitis optica spectrum disorder (OR 2.91, 95% CI 1.45-5.84), migraine or headache disorders (forward OR 2.72, 95% CI 2.19-3.38; reverse adjusted OR 1.53, 95% CI 1.36-1.73), peripheral neuropathy (OR 3.82, 95% CI 2.49-5.83), epilepsy (OR 2.11, 95% CI 1.58-2.82), and amyotrophic lateral sclerosis (OR 7.69, 95% CI 2.74-21.59). This work is an evidence-mapping review with exploratory pooling and is not intended as a definitive evidence synthesis. RLS is likely associated with neurodegenerative and other specific neurological conditions. Recognition of these associations may support earlier identification of comorbid conditions and targeted management strategies. However, the current evidence remains observational and heterogeneous.",
-      "journal": "Sleep medicine reviews",
-      "authors": [
-        "Hawas Y",
-        "Abo-Elnour DE",
-        "Al-Hawari NEM",
-        "Gahlan S",
-        "Winkelman JW"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906263/"
     }
   ]
 }
