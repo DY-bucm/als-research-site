@@ -1,14 +1,72 @@
 {
-  "updatedAt": "2026-10-28T01:17:39.250Z",
+  "updatedAt": "2026-10-29T01:46:52.754Z",
   "period": {
     "days": 10,
-    "from": "2026-10-19",
-    "to": "2026-10-28"
+    "from": "2026-10-20",
+    "to": "2026-10-29"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 40,
+  "count": 45,
   "articles": [
+    {
+      "id": "pmid-42946847",
+      "pmid": "42946847",
+      "doi": "10.1007/s00210-026-06009-x",
+      "title": "Combined melatonin and edaravone therapy attenuates methylmercury-induced amyotrophic lateral sclerosis-like neurodegeneration through GLP-1 modulation and myelin preservation.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurodegenerative disorder characterized by the selective degeneration of upper and lower motor neurons, resulting in progressive muscle weakness, paralysis, and respiratory failure. Despite the availability of disease-modifying therapies, current treatment options provide only modest clinical benefits, highlighting the need for novel therapeutic strategies targeting multiple pathological mechanisms. Melatonin, a pleiotropic neuroprotective molecule with antioxidant, anti-inflammatory, and anti-apoptotic properties, has emerged as a promising candidate; however, its influence on glucagon-like peptide-1 (GLP-1)-associated neuroprotective signaling and related molecular events in ALS remains poorly understood. Therefore, the present study investigated the neuroprotective efficacy of melatonin in a methylmercury (MTMR)-induced rat model of ALS and explored its effects on GLP-1-associated molecular alterations, neuroinflammation, oxidative stress, apoptosis, neurotransmitter homeostasis, demyelination, and neuronal injury. Molecular docking analysis was performed to predict the interaction of melatonin with proteins implicated in ALS pathology. Adult Wistar rats were exposed to MTMR (5 mg/kg, p.o.) for 21 days to induce ALS-like neurodegeneration, followed by treatment with melatonin (5 or 10 mg/kg, i.p.), edaravone (3 mg/kg, i.p.), or their combination for an additional 21 days. Neurobehavioral performance, biochemical alterations, hematological parameters, molecular biomarkers, and histopathological changes were subsequently evaluated. MTMR administration produced profound motor deficits accompanied by reduced GLP-1 levels, neurotransmitter imbalance, increased neuroinflammatory and apoptotic markers, elevated neurofilament light chain (NEFL), skeletal muscle injury, methylmercury accumulation, and extensive myelin and neuronal damage. Melatonin treatment significantly attenuated these pathological alterations in a dose-dependent manner by increasing GLP-1 levels, improving antioxidant status, reducing inflammatory and apoptotic responses, restoring neurotransmitter balance, preserving myelin integrity, and improving neuronal morphology across multiple brain regions and the spinal cord. Molecular docking further predicted favorable interactions between melatonin and several proteins associated with ALS pathophysiology, supporting its potential as a multitarget therapeutic agent. In most outcome measures, combined treatment with melatonin and edaravone produced greater neuroprotective effects than either intervention alone. Collectively, these findings demonstrate that melatonin substantially attenuates methylmercury-induced ALS-like neuropathology through coordinated modulation of multiple pathological processes associated with neurodegeneration. Although the precise molecular mechanisms require further experimental validation, the observed restoration of GLP-1 levels together with improvements in oxidative stress, neuroinflammation, apoptosis, neurotransmitter homeostasis, and myelin integrity suggests that melatonin may represent a promising adjunctive therapeutic strategy for ALS.",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": [
+        "Raina GS",
+        "Mehan S",
+        "Das Gupta G"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946847/"
+    },
+    {
+      "id": "pmid-42946883",
+      "pmid": "42946883",
+      "doi": "10.1007/s11517-026-03705-x",
+      "title": "Improving dysarthric speech classification with generative AI-based data augmentation.",
+      "abstract": "Dysarthria is a neurological speech disorder characterized by impaired motor control of speech production, resulting in reduced intelligibility. It commonly arises in the context of neurodegenerative conditions, including amyotrophic lateral sclerosis and cerebral palsy. The development of deep learning systems for dysarthria assessment is hindered by the scarcity of annotated data, which restricts the ability of models to generalize to unseen speakers. This study proposes a cross-corpus diffusion-based data augmentation strategy for improving automatic speech intelligibility classification from dysarthric speech. A Grad-TTS model is trained on dysarthric speakers from the TORGO dataset and used to synthesize the vocabulary of UA-Speech, producing speaker-conditioned samples intended to transfer pathological acoustic traits across corpora. The proposed strategy is evaluated both independently and in combination with conventional signal-level augmentation using ResNet-50 and ResNet-152 classifiers in binary and four-class intelligibility classification tasks. The results indicate that cross-corpus synthetic augmentation improves average performance and that, in most settings, its integration with conventional augmentation yields further gains, suggesting that the two strategies introduce complementary forms of variability.",
+      "journal": "Medical & biological engineering & computing",
+      "authors": [
+        "Lillini D",
+        "Basili T",
+        "Migliorelli L",
+        "Aironi C",
+        "Gabrielli L",
+        "Squartini S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946883/"
+    },
+    {
+      "id": "pmid-42948861",
+      "pmid": "42948861",
+      "doi": "10.1080/21678421.2026.2750602",
+      "title": "Longitudinal coagulation-fibrinolysis dynamics are associated with survival in amyotrophic lateral sclerosis: a prospective cohort study.",
+      "abstract": "Background : Amyotrophic lateral sclerosis (ALS) has been associated with thromboembolic risk. However, whether dynamic coagulation-fibrinolysis markers provide prognostic information in ALS remains insufficiently defined. Methods : We conducted a prospective cohort study of 151 patients with ALS, including repeated coagulation measurements in a longitudinal subset ( n = 58), and assessed directional validation in the independent Answer ALS (AALS) cohort ( n = 270). Survival analyses, longitudinal modeling, and plasma proteomic analyses were used to examine associations between coagulation-fibrinolysis dynamics, functional decline, and survival. Results : Higher baseline fibrinogen (FIB) was independently associated with shorter survival (HR = 2.19; 95% confidence interval (CI), 1.40-3.44). In the longitudinal subset, a steeper increase in D-dimer (DD) was associated with shorter survival (HR = 1.012; 95% CI, 1.001-1.024) and lower ALSFRS-R scores over time ( β = -0.013; 95% CI, -0.016 to -0.009). Directionally consistent validation was observed in AALS using rescaled SomaScan-derived DD trajectories (HR = 1.0002; 95% CI, 1.0000-1.0004). Plasma proteomics showed reduced tetranectin, a fibrinolysis-related protein, in ALS; slower tetranectin decline was associated with longer survival using rescaled SomaScan-derived tetranectin trajectories (HR = 0.996; 95% CI, 0.993-0.998). Conclusions : These findings suggest that longitudinal coagulation-fibrinolysis markers may help identify a survival-related biomarker profile in ALS, involving higher baseline FIB, steeper rising DD, and reduced or more rapidly declining tetranectin.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Lin H",
+        "Li C",
+        "Wu J",
+        "Yin J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948861/"
+    },
     {
       "id": "pmid-42922081",
       "pmid": "42922081",
@@ -42,6 +100,26 @@
       ],
       "publishedAt": "2026-10-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42922081/"
+    },
+    {
+      "id": "pmid-42950073",
+      "pmid": "42950073",
+      "doi": "10.1159/ned/adwag059",
+      "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multi-Layered Deconstruction Using Global Burden of Disease Study 2023.",
+      "abstract": "Neurodegenerative diseases (NDDs), including Alzheimer's disease and other dementias (ADOD), Parkinson's disease (PD), and motor neuron disease (MND), represent a mounting public health challenge in China amid rapid population aging. A systematic deconstruction of their epidemiological transition using the most recent data remains lacking. Data from the Global Burden of Disease Study 2023 were utilized to examine temporal trends (1990-2023) for ADOD, PD, and MND in China. Age-standardized rates of incidence (ASIR), prevalence (ASPR), mortality (ASMR), and disability-adjusted life-years (ASDR) were analyzed. Joinpoint regression was used to identify significant inflection points. Decomposition analysis quantified the contributions of population aging, population growth, and epidemiological change. And bayesian age-period-cohort models projected trends to 2035. From 1990 to 2023, the ASIR for ADOD (EAPC 0.41; 95% CI 0.33 to 0.49) and PD (EAPC 0.84; 95% CI 0.76 to 0.92) rose significantly. Between 2019 and 2023, multiple indicators across the three diseases demonstrated a consistently synchronous upward trend. This acceleration coincided with the COVID-19 pandemic. Decomposition demonstrated that population aging was the dominant driver. Sex-specific disparities were pronounced. Females bore a higher ADOD burden, whereas males predominated in PD. ASIR and ASPR are expected to rise, while ASMR and ASDR are projected to decline for ADOD and PD. For MND, only the ASPR indicated a brief, peaked rise in the predicted trends. In the field of neurodegenerative diseases, China is projected to undergo an epidemiological transition characterized by chronicization. This trend calls for systematic adjustments in healthcare services, long-term care systems, and social support structures. Sex and gender differences further underscore the need for gender-sensitive prevention, clinical management, and care strategies to prevent the further widening of inequalities. Population aging remains a critical factor that cannot be overlooked. Therefore, there is an urgent need to establish a proactive, gender-sensitive framework for system-wide restructuring that incorporates long-term monitoring and oversight.",
+      "journal": "Neuroepidemiology",
+      "authors": [
+        "Jing Z",
+        "Liu S",
+        "Song Q",
+        "Tian S",
+        "Zhou Q"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950073/"
     },
     {
       "id": "pmid-42945473",
@@ -82,6 +160,27 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42945473/"
     },
     {
+      "id": "pmid-42947273",
+      "pmid": "42947273",
+      "doi": "10.1186/s40478-026-02473-x",
+      "title": "Intracisternal injection of two human SOD1 aggregate strains induces templated aggregation and ALS in transgenic mouse model.",
+      "abstract": "Cytosolic aggregates containing misfolded superoxide dismutase-1 (SOD1) protein is an established hallmark of ALS caused by mutations in the SOD1 gene. We have previously identified two structurally distinct strains of human (h) SOD1 aggregates (denoted A and B) in mice transgenic (Tg) for hSOD1. Strain A and B have both been shown to transmit templated aggregation and induce early-onset of fatal ALS-like disease when injected directly into the spinal cord or peripheral nerve of hSOD1 Tg mice. In contrast, peripheral administration of hSOD1 aggregates into the intraperitoneal cavity or skeletal muscle did not induce disease. Collectively, these studies provide insight on the spreading mechanism of SOD1. However, the complete map of propagation routes and underlying mechanisms utilized by SOD1 aggregates in ALS is not fully charted. Here, we investigated whether hSOD1 aggregates may spread to the central nervous system (CNS) via the cerebrospinal fluid (CSF). Mutant hSOD1 aggregate seeds or control samples prepared from spinal cords of hSOD1 Tg mice or non-Tg mice, respectively, were inoculated into the cisterna magna of adult 100-day-old Tg mice expressing the G85R mutated hSOD1 protein. Disease phenotyping as well as biochemical and immunohistochemical analyses were performed and compared across the experimental groups. The mice inoculated with hSOD1 seeds developed early signs of ALS by 90 days after inoculation and reached terminal stage approximately 180 days earlier than mice receiving control seeds. Additionally, both strain A and B were observed to initiate templated aggregation along the neuroaxis. The results show that hSOD1 aggregates are capable of transmitting from the CSF to the CNS where they induce ALS-like pathology and concomitant phenotype. Unraveling the propagation pathways utilized by SOD1 opens new avenues to assess treatment strategies against ALS.",
+      "journal": "Acta neuropathologica communications",
+      "authors": [
+        "Sigfridsson I",
+        "Marklund M",
+        "Andersen PM",
+        "Zetterström P",
+        "Marklund SL",
+        "Brännström T"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947273/"
+    },
+    {
       "id": "pmid-42934257",
       "pmid": "42934257",
       "doi": "10.1038/s10038-026-01522-6",
@@ -98,6 +197,35 @@
       ],
       "publishedAt": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42934257/"
+    },
+    {
+      "id": "pmid-42946878",
+      "pmid": "42946878",
+      "doi": "10.1038/s41591-026-04728-5",
+      "title": "Persistent and compartmentalized T cell immunity in ALS.",
+      "abstract": "Amyotrophic lateral sclerosis is a fatal neurodegenerative disease increasingly linked to T cell responses, although the mechanisms driving T cell activation and disease progression remain unclear. Here we used single-cell RNA and T cell receptor sequencing, longitudinal immune profiling and imaging flow cytometry to identify long-lived intrathecal clonotypes and antigen-presenting cell-T cell complexes displaying features of immunological synapse formation, consistent with intrathecal antigen presentation. Higher frequencies of CD4 + effector, CD4 + regulatory and CD8 + T cells in cerebrospinal fluid (CSF) were associated with slower disease progression, whereas increased circulating CD4 + effector and regulatory T cells were associated with faster progression. T cell clonotypes shared between blood and CSF exhibited distinct transcriptional states. Finally, frequencies of cytomegalovirus-specific T cells in CSF and anticytomegalovirus serum antibodies were correlated with faster progression and shorter survival in sporadic amyotrophic lateral sclerosis. These findings reveal compartmentalized immune dynamics, largely contrasting protective intrathecal responses with harmful systemic activation.",
+      "journal": "Nature medicine",
+      "authors": [
+        "Chen Z",
+        "Mansikkaviita J",
+        "Seitz C",
+        "Yazdani S",
+        "Lehikoinen J",
+        "Deeba E",
+        "Lovik A",
+        "Keszei M",
+        "Grönlund H",
+        "Laaksovirta H",
+        "Fang F",
+        "Tienari PJ",
+        "Ingre C",
+        "Andersson J"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946878/"
     },
     {
       "id": "pmid-42937037",
@@ -152,10 +280,62 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42945427/"
     },
     {
+      "id": "pmid-42946239",
+      "pmid": "42946239",
+      "doi": "10.1016/j.brainres.2026.150618",
+      "title": "TDP-43 dysfunction destabilizes glial homeostatic identity in ALS/FTD.",
+      "abstract": "TAR DNA-binding protein 43 (TDP-43) pathology is a defining feature of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Although TDP-43 dysfunction has traditionally been studied through a neuron-centric framework, increasing evidence demonstrates that astrocytes, microglia, and oligodendrocytes are also directly affected and actively contribute to disease progression. In this review, we examine how TDP-43 dysfunction disrupts lineage-specific glial homeostatic programs and promotes distinct pathological state transitions across major glial populations. In astrocytes, TDP-43 dysfunction impairs neurotransmitter regulation, metabolic and neuronal support, RNA homeostasis, and secretory signaling while promoting inflammatory and antiviral-like states. In microglia, altered TDP-43 disrupts inflammatory regulation, phagocytosis, lysosomal function, lipid metabolism, and stage-dependent protective responses. In oligodendrocytes, TDP-43 dysfunction compromises RNA processing, lineage maintenance, lipid metabolism, myelin integrity, and long-term axonal support. Together, these findings suggest that glial TDP-43 dysfunction cannot be reduced to a single generalized form of reactivity but instead reflects the breakdown of distinct cell type-specific identities required to maintain central nervous system homeostasis. A cross-glial framework integrating cell-autonomous dysfunction, non-cell-autonomous signaling, disease stage, and genetic context may therefore provide a more complete understanding of TDP-43 proteinopathy and its contribution to neurodegeneration across the ALS-FTD spectrum.",
+      "journal": "Brain research",
+      "authors": [
+        "Dale A",
+        "Sattler R"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946239/"
+    },
+    {
+      "id": "pmid-42947411",
+      "pmid": "42947411",
+      "doi": "10.1002/mus.70440",
+      "title": "Time-to-Event Analysis of Clinical Milestones in the ALS Natural History Consortium Dataset.",
+      "abstract": "Study of clinical milestones, particularly intermediate events like loss of ambulation, in large amyotrophic lateral sclerosis (ALS) cohorts is limited. Here, we leverage the ALS Natural History Consortium dataset to evaluate the time-to-event for several outcomes and prognostic factors that predict risk. Longitudinal data from 1950 participants were used in time-to-event analyses based on time from diagnosis. Outcomes were gastrostomy, loss of ambulation, loss of useful speech, non-invasive ventilation (NIV) usage, and death equivalent (death or mechanical ventilation). Median times-to-event were calculated along with Kaplan-Meier curves. Cox proportional hazards models for each outcome estimated (through adjusted hazard ratios [HR]) the impact of several prognostic factors, including sex, region of onset, age at diagnosis, and the initial rate of change (delta-FRS) in ALS Functional Rating Scale-Revised (ALSFRS-R) scores. Estimated median times-to-event for clinical outcomes ranged from 1.44 to 6.21 years, with a median time to death equivalent of 2.12 years. A higher delta-FRS was the greatest risk factor for all outcomes (HRs between 2.01 and 3.05). Limb onset decreased risk of loss of speech, NIV use, gastrostomy, and death equivalent (HRs 0.41-0.78). Older age at diagnosis increased risk of gastrostomy, NIV use, and death equivalent (HRs 1.08-1.27). These findings further inform expectations of time to various outcomes, especially rarely investigated intermediate events, and their risk factors. The importance of progression rate supports other recent findings, highlighting delta-FRS as a key prognostic factor with potential utility in clinical trial designs.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Duffy K",
+        "Gwathmey K",
+        "Schneck D",
+        "Arguedas A",
+        "Xenopoulos-Oddsson A",
+        "Heiman-Patterson T",
+        "Ajroud-Driss S",
+        "Arcila-Londono X",
+        "Wymer J",
+        "Olney N",
+        "Hayat G",
+        "Lunetta C",
+        "Cerri F",
+        "Al-Lahham T",
+        "Sherman A",
+        "Ghasemi M",
+        "Cui E",
+        "Fiecas M",
+        "Walk D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947411/"
+    },
+    {
       "id": "pmid-42933747",
       "pmid": "42933747",
       "doi": "10.1016/j.resp.2026.104667",
-      "title": "Diaphragm reserve utilisation in motor neurone disease: a novel ultrasound-derived physiological index.",
+      "title": "Diaphragm reserve utilisation in motor neurone disease: A novel ultrasound-derived physiological index.",
       "abstract": "Respiratory involvement is a major determinant of prognosis in motor neurone disease (MND; or amyotrophic lateral sclerosis), yet conventional static respiratory measures provide limited information about how much available diaphragm thickening capacity is recruited during quiet breathing. We evaluated diaphragm reserve utilisation (RU), an ultrasound-derived ratio of tidal diaphragm thickening relative to maximal diaphragm thickening, as a novel physiological descriptor in MND. In a prospective observational study, 38 patients with MND and 20 healthy controls underwent right hemidiaphragm ultrasound to measure thickness at end-tidal expiration, peak tidal inspiration and peak maximal inspiration. Thickening fractions and RU were calculated. Between-group differences in diaphragm ultrasound indices were assessed. Secondary analyses examined relationships between RU, respiratory function and survival. Tidal diaphragm thickening fraction was similar between patients with MND and controls, whereas maximal thickening fraction was lower in MND, resulting in higher RU in MND than controls. This pattern indicates that patients with MND maintained tidal diaphragm thickening while using a greater proportion of their available maximal thickening capacity. Higher RU was also associated with shorter survival, supporting its potential physiological and clinical relevance. Diaphragm reserve utilisation describes the proportion of measured diaphragm thickening capacity recruited during tidal breathing. Patients with MND demonstrated preserved tidal thickening despite reduced maximal thickening capacity, resulting in higher RU than healthy controls. This supports RU as a novel physiological index of relative diaphragm thickening reserve utilisation. The relationship between RU and survival warrants validation in larger prospective cohorts.",
       "journal": "Respiratory physiology & neurobiology",
       "authors": [
@@ -907,84 +1087,6 @@
       ],
       "publishedAt": "2026-10-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42942089/"
-    },
-    {
-      "id": "pmid-42895434",
-      "pmid": "42895434",
-      "doi": "10.1080/21678421.2026.2742815",
-      "title": "Factors associated with post-tracheostomy survival in Amyotrophic Lateral Sclerosis.",
-      "abstract": "To identify demographic and clinical factors associated with post-tracheostomy survival using three well-characterized cohorts of patients with Amyotrophic Lateral Sclerosis (ALS). ALS patients from the Piemonte and Valle d'Aosta ALS Register (PARALS) diagnosed between 1995-2019 interval who underwent tracheostomy were included. A multivariable Cox proportional hazards model was used to identify factors associated with post-tracheostomy survival. Significant findings were tested in two independent cohorts, the Emilia-Romagna Region ALS Register (ERRALS) and an incident ALS cohort from South Sardinia. A total of 449 patients from PARALS underwent tracheostomy during the study period, with a median post-tracheostomy survival of 16.3 months (IQR 4.0-45.0). Younger age at tracheostomy was associated with longer survival (HR 1.03 per one-year increase, 95%CI1.01-1.05, p = 0.001), as being married/cohabiting (HR 0.78, 95%CI0.61-0.98, p = 0.033), a longer diagnosis-to-tracheostomy interval (HR 0.84 per one-year increase, 95%CI0.79-0.90, p < 0.001) and a lower ALS Functional Rating Scale slope from onset to tracheostomy (HR 1.13 per one-unit increase, 95%CI1.03-1.25, p = 0.012). These associations were replicated in the independent cohorts, when data were available. Additionally, discharge to nursing homes was associated with poorer survival in the Sardinian cohort (HR 4.23, 95%CI2.49-7.19; p < 0.001), whereas a more recent year of tracheostomy was associated with longer survival in the ERRALS cohort (HR 0.95, 95%CI0.90-0.99; p = 0.019). We identified multiple factors associated with post-tracheostomy survival in ALS patients, encompassing clinical and demographic characteristics at tracheostomy as well as local factors influencing peri- and post-operative care. These findings may support decision-making and clinician-patient communication in the advanced stages of ALS.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Maccabeo A",
-        "Cabras S",
-        "Callegaro S",
-        "Pateri MI",
-        "Pili F",
-        "Canosa A",
-        "Manera U",
-        "Palumbo F",
-        "Matteoni E",
-        "Pellegrino G",
-        "Minerva E",
-        "Ciravegna A",
-        "Gianferrari G",
-        "Puligheddu M",
-        "Moglia C",
-        "De Marchi F",
-        "Mazzini L",
-        "Mandrioli J",
-        "Borghero G",
-        "Chiò A",
-        "Calvo A",
-        "Vasta R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895434/"
-    },
-    {
-      "id": "pmid-42896567",
-      "pmid": "42896567",
-      "doi": "10.1088/1741-2552/aeb62c",
-      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
-      "abstract": "Objective&#xD;A calibration-derived score has been related to online P300-speller accuracy in the same session, always within the cohort measured. We evaluated whether a mapping from that score to expected accuracy transports to withheld cohorts.&#xD;Approach&#xD;Retrospective secondary analysis of BigP3BCI 1.0.0, the largest evaluation of this relationship to date: 18 of 20 studies contributed 271 participants, 739 session-condition records, and 19,611 character selections. The predictor was a decoder's cross-validated discriminability on calibration epochs, one study withheld from development. Between-cohort variation was summarised by the random-effects standard deviation tau.&#xD;Main Results&#xD;The association was positive in all 18 cohorts but varied widely (r 0.190 to 0.928; participant-level r = 0.714, p < 0.001), with 12 CIs excluding zero. Pooled estimation error was 0.098 (95% CI 0.091 to 0.107) against a benchmark of 0.146. Calibration did not transport: intercept tau 0.87 (unrepresented-cohort interval -1.97 to 1.85, log-odds); cohort-specific slopes varied more than tenfold (tau 0.43, interval 0.111 to 2.005). Neither alignment (signal- or score-space) nor either nonlinear boundary meaningfully reduced this heterogeneity. Local recalibration with up to 16 participants did not reliably improve on transporting; refitting both intercept and slope was significantly worse than transporting at the smallest sizes. Median time per selection, a stopping-rule proxy, accounted for 66% of between-cohort slope variance in meta-regression. The four ALS cohorts gave an uncorrected slope spread of 0.223, against 0.560 overall.&#xD;Significance&#xD;The evaluated score is a classifier's cross-validated discriminability on each session's calibration data rather than the source studies' undocumented online decoder. That score reproducibly signals within-session accuracy, but its mapping to accuracy is cohort-specific and supports ranking sessions after local validation rather than reporting accuracy elsewhere. The four-cohort ALS subgroup appeared more homogeneous than the full archive, illustrating how conclusions about transportability from a small cohort set can be fragile.&#xD.",
-      "journal": "Journal of neural engineering",
-      "authors": [
-        "Gorenshtein A",
-        "Adiniaev Y",
-        "Liba T",
-        "Barash Y",
-        "Klang E",
-        "Daniel O"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896567/"
-    },
-    {
-      "id": "pmid-42898978",
-      "pmid": "42898978",
-      "doi": "10.1002/mco2.71069",
-      "title": "The Role of Astrocytes in the Inflammatory Response in Neurodiseases.",
-      "abstract": "Astrocytes have emerged as central regulators of neuroinflammation, extending far beyond their traditional roles as structural and metabolic support cells. In neurological disorders, astrocytes undergo reactive remodeling that encompasses morphological, transcriptional, metabolic, and functional changes. Rather than fitting into a fixed A1/A2 dichotomy, reactive astrocytes exist along a disease-, region-, and stage-dependent continuum shaped by local pathology and intercellular crosstalk. This review summarizes how astrocytes contribute to neuroinflammatory processes in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, central nervous system injury, infection, multiple sclerosis, epilepsy, and autism spectrum disorder. We highlight convergent mechanisms, including cytokine and chemokine release, complement activation, glutamate and ion homeostasis disruption, oxidative stress, metabolic reprogramming, and blood-brain barrier regulation, while emphasizing disease-specific astrocytic programs. We further discuss astrocyte interactions with microglia, neurons, oligodendrocytes, endothelial cells, and peripheral immune cells, as well as key regulatory pathways, epigenetic remodeling, and lipid-dependent metabolic signaling. Finally, we evaluate current and emerging astrocyte-targeted therapeutic strategies, including metabolic modulation, receptor targeting, gene editing, nanodelivery, and gut-brain axis interventions. Defining functionally validated astrocyte states and developing biomarker-guided, stage-adaptive therapies may enable more precise intervention in neuroinflammatory and neurodegenerative diseases.",
-      "journal": "MedComm",
-      "authors": [
-        "Peng S",
-        "Wang L",
-        "Ouyang J",
-        "Liu R"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898978/"
     }
   ]
 }
