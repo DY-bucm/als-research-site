@@ -1,8 +1,8 @@
 # 复核任务清单
 
-- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型 (pmid-42894325)
+- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型影响 (pmid-42894325)
   - https://pubmed.ncbi.nlm.nih.gov/42894325/
-- [ ] 对《从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的历程》的勘误（Mayo Clinic Proceedings: Innovations, Quality & Outcomes 10(5) (2026) PIQO_100755） (pmid-42960175)
+- [ ] 对《从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程》的勘误 (pmid-42960175)
   - https://pubmed.ncbi.nlm.nih.gov/42960175/
 - [ ] 工程化过氧化物酶体与患者来源iPSC模型作为氧化应激驱动中枢神经系统疾病精准神经保护的潜在生物材料平台 (pmid-42959522)
   - https://pubmed.ncbi.nlm.nih.gov/42959522/
@@ -10,11 +10,11 @@
   - https://pubmed.ncbi.nlm.nih.gov/42926777/
 - [ ] 纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征 (pmid-42840349)
   - https://pubmed.ncbi.nlm.nih.gov/42840349/
-- [ ] 酸性大麻素类化合物在脑部疾病中的作用：神经生物学机制、临床前证据与转化挑战 (pmid-42826598)
+- [ ] 酸性大麻素在大脑疾病中的作用：神经生物学机制、临床前证据与转化挑战 (pmid-42826598)
   - https://pubmed.ncbi.nlm.nih.gov/42826598/
 - [ ] Mdivi-1通过CaMK2/Drp1通路调控肌萎缩侧索硬化中的线粒体分裂与功能 (pmid-42826761)
   - https://pubmed.ncbi.nlm.nih.gov/42826761/
-- [ ] OGT调控RNA结合蛋白的核质分配，但在肌萎缩侧索硬化中该机制失效 (pmid-42894639)
+- [ ] OGT调控RNA结合蛋白的核质分配，但在肌萎缩侧索硬化中这一机制失效 (pmid-42894639)
   - https://pubmed.ncbi.nlm.nih.gov/42894639/
 - [ ] 全球儿童罕见神经系统疾病的流行病学与遗传负担 (pmid-42889786)
   - https://pubmed.ncbi.nlm.nih.gov/42889786/
@@ -22,44 +22,40 @@
   - https://pubmed.ncbi.nlm.nih.gov/42863218/
 - [ ] 超越喉部：机械性吸呼气对上气道反应的新见解 (pmid-42959461)
   - https://pubmed.ncbi.nlm.nih.gov/42959461/
+- [ ] 铜介导的靶向兴奋性氨基酸转运体2（EAAT2）的PET示踪剂[18F]RP-115的放射性氟化：替代合成方法 (pmid-42952031)
+  - https://pubmed.ncbi.nlm.nih.gov/42952031/
+- [ ] [高优先级] 解剖学定义的运动表型揭示ALS进展、神经丝蛋白谱和生存的分离轨迹 (pmid-42947290)
+  - https://pubmed.ncbi.nlm.nih.gov/42947290/
 - [ ] 神经退行性疾病：流行病学、危险因素、分类、病理生理学、临床特征、诊断与治疗策略 (pmid-42921272)
   - https://pubmed.ncbi.nlm.nih.gov/42921272/
 - [ ] 星形胶质细胞在神经疾病炎症反应中的作用 (pmid-42898978)
   - https://pubmed.ncbi.nlm.nih.gov/42898978/
-- [ ] 酪氨酸硝化：神经退行性疾病与心肺疾病中新兴的机制图景 (pmid-42843275)
-  - https://pubmed.ncbi.nlm.nih.gov/42843275/
-- [ ] TDP-43与ALS——我的膜出了什么问题？ (pmid-42833594)
-  - https://pubmed.ncbi.nlm.nih.gov/42833594/
-- [ ] [疑似误收] 疾病导向的靶向蛋白降解与清除：将策略与病理蛋白状态相匹配 (epmc-PMC-PMC13717144)
-  - https://europepmc.org/article/PMC/PMC13717144
-- [ ] [疑似误收] 过氧化物还原酶在疾病生物学中的分子机制与治疗机遇 (epmc-PMC-PMC13716948)
-  - https://europepmc.org/article/PMC/PMC13716948
-- [ ] [疑似误收] 超越喉部：机械性吸呼气对 upper airway 反应的新见解 (epmc-PMC-PMC13717380)
-  - https://europepmc.org/article/PMC/PMC13717380
-- [ ] [疑似误收] EWSR1与40S核糖体亚基结合并抑制翻译以维持内质网稳态 (epmc-PMC-PMC13717198)
-  - https://europepmc.org/article/PMC/PMC13717198
-- [ ] 肌萎缩侧索硬化中血浆错误折叠超氧化物歧化酶1的特征分析 (epmc-MED-42957098)
-  - https://doi.org/10.1016/j.nbd.2026.107669
-- [ ] [疑似误收] 待复核翻译：Ataxin-2 loss flips a metabolic switch for neuron health. (epmc-MED-42955954)
-  - https://doi.org/10.1016/j.celrep.2026.118128
-- [ ] 待复核翻译：ALS-linked FUS mutation impairs GEMIN5-dependent mRNA recruitment to neuronal late endosomes. (epmc-MED-42955945)
-  - https://doi.org/10.1016/j.celrep.2026.118206
-- [ ] [疑似误收] 待复核翻译：Consciousness in ALS. (epmc-MED-42954893)
-  - https://doi.org/10.1080/21678421.2026.2739759
-- [ ] [疑似误收] 待复核翻译：Feasibility of Longitudinal Home Monitoring of Nocturnal Transcutaneous CO<sub>2</sub> and Relationship to Standard Respiratory Measures in Patients With ALS: A Pilot Cohort Study. (epmc-MED-42954000)
-  - https://doi.org/10.1002/mus.70432
-- [ ] [疑似误收] The TBK1-OTUB2-IRF3 signalling complex promotes 神经炎症 and neurodegeneration. (epmc-MED-42953977)
-  - https://doi.org/10.1093/brain/awag378
-- [ ] The prevalence of type 2 diabetes mellitus among people with 肌萎缩侧索硬化症 is increasing in the United States (epmc-PPR-PPR1353306)
-  - https://doi.org/10.64898/2026.10.27.26366623
-- [ ] [疑似误收] 待复核翻译：Synaptic transmission and plasticity: molecular mechanisms, biological functions and therapeutic opportunities in neurodegenerative diseases. (epmc-MED-42951886)
-  - https://doi.org/10.1038/s41392-026-02776-4
-- [ ] [疑似误收] 待复核翻译：Strain-specific morphology and CNS propagation of template-directed SOD1 aggregation following peripheral nerve inoculation. (epmc-MED-42958460)
-  - https://doi.org/10.1186/s40478-026-02455-z
-- [ ] [疑似误收] 小胶质细胞l perturbation in heavy metal-induced 神经炎症 and neurodegeneration: mechanisms, phenotypic plasticity, and therapeutic prospects. (epmc-MED-42955216)
-  - https://doi.org/10.1007/s10534-026-00895-7
-- [ ] [疑似误收] 待复核翻译：The Epidemiological Transition of Neurodegenerative Diseases in China: A Multi-Layered Deconstruction Using Global Burden of Disease Study 2023. (epmc-MED-42950073)
-  - https://doi.org/10.1159/ned/adwag059
+- [ ] 硼-神经元连接：含硼分子治疗不可治愈性肌萎缩侧索硬化症的潜力 (epmc-MED-42947522)
+  - https://doi.org/10.1002/cmdc.70554
+- [ ] [疑似误收] 组蛋白修饰在阿尔茨海默病中衰老、神经炎症与代谢交叉点上的作用 (epmc-MED-42934178)
+  - https://doi.org/10.1111/acel.70785
+- [ ] [疑似误收] 糖尿病性多神经病患者表现出骨骼肌蛋白质组表型改变 (epmc-MED-42894376)
+  - https://doi.org/10.1002/prca.70060
+- [ ] [疑似误收] 优化的gGBE在哺乳动物细胞和斑马鱼胚胎中实现稳健的G-to-Y转换 (epmc-MED-42864601)
+  - https://doi.org/10.24272/j.issn.2095-8137.2025.361
+- [ ] 神经干细胞来源的小细胞外囊泡改善肌萎缩侧索硬化SOD1 G93A小鼠模型的疾病进展 (epmc-MED-42562776)
+  - https://doi.org/10.1093/jnen/nlag013
+- [ ] [疑似误收] 待复核翻译：Lytic cell death in chronic lung diseases. (epmc-MED-42063215)
+  - https://doi.org/10.1093/ajrcmb/aanag092
+- [ ] [疑似误收] 待复核翻译：An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features (epmc-PMC-PMC13719537)
+  - https://europepmc.org/article/PMC/PMC13719537
+- [ ] [疑似误收] 待复核翻译：Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies (epmc-PMC-PMC13719465)
+  - https://europepmc.org/article/PMC/PMC13719465
+- [ ] [疑似误收] Traditional Chinese medicine-related interventions and the cGAS–STING axis in 神经炎症: disease contexts and mechanisms of action (epmc-PMC-PMC13719892)
+  - https://europepmc.org/article/PMC/PMC13719892
+- [ ] Patient and public involvement in 肌萎缩侧索硬化症 research in Japan: a survey through nationally advertised ALS Café events and a pilot advocacy training program. (epmc-MED-42963796)
+  - https://doi.org/10.1186/s40900-026-01000-5
+- [ ] [疑似误收] Targeting 线粒体l Redox Signaling Promotes Neuroregeneration and Functional Recovery in a Multiple Sclerosis Model. (epmc-MED-42960836)
+  - https://doi.org/10.1002/advs.78560
+- [ ] [疑似误收] 待复核翻译：Multiscale Transcriptomic Architecture of the ALS Motor Cortex (epmc-PPR-PPR1354171)
+  - https://doi.org/10.64898/2026.10.24.761595
+- [ ] Panel-Gene Transcriptomic Associations in 肌萎缩侧索硬化症: a donor-resolved seven-cohort analysis of a locked 468-gene detoxification panel (epmc-PPR-PPR1353736)
+  - https://doi.org/10.21203/rs.3.rs-11552529/v1
 - [ ] [高优先级] Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP (trial-NCT05562960)
   - https://clinicaltrials.gov/study/NCT05562960
 - [ ] [高优先级] 待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners (trial-NCT06968468)

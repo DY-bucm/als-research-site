@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-10-31
+更新时间：2026-11-01
 
-1. **Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP**
+1. **解剖学定义的运动表型揭示ALS进展、神经丝蛋白谱和生存的分离轨迹**
+   - 临床试验 / 多中心观察性队列研究（临床试验研究） / high
+   - 解剖学定义的运动表型在各中心间可重复，早期传播是最强的疾病侵袭性标志（HR 2.93），且NfL随进展不成比例升高；上/下运动神经元平衡受累或下运动神经元为主与更短生存相关（HR 2.51）。
+   - https://pubmed.ncbi.nlm.nih.gov/42947290/
+2. **Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
    - https://clinicaltrials.gov/study/NCT05562960
-2. **待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners**
+3. **待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners**
    - 临床试验 / 临床试验注册 / high
    - Status: NOT_YET_RECRUITING.
    - https://clinicaltrials.gov/study/NCT06968468
-3. **待复核翻译：Obi Medical Robot: Evaluating Effectiveness Related to Usability**
+4. **待复核翻译：Obi Medical Robot: Evaluating Effectiveness Related to Usability**
    - 临床试验 / 临床试验注册 / high
    - Status: ACTIVE_NOT_RECRUITING.
    - https://clinicaltrials.gov/study/NCT07151950
-4. **II 期 Study for SAR443820 in Participants With 肌萎缩侧索硬化症 (ALS)**
+5. **II 期 Study for SAR443820 in Participants With 肌萎缩侧索硬化症 (ALS)**
    - 临床试验 / 临床试验注册 / high
    - Status: TERMINATED.
    - https://clinicaltrials.gov/study/NCT05237284
-5. **待复核翻译：Remote Pulmonary Function Testing and Nurse Coaching in ALS**
+6. **待复核翻译：Remote Pulmonary Function Testing and Nurse Coaching in ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
    - https://clinicaltrials.gov/study/NCT04490148
-6. **待复核翻译：Xavier Electromyographic Wheelchair Control for Limited Mobility Patients**
+7. **待复核翻译：Xavier Electromyographic Wheelchair Control for Limited Mobility Patients**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
    - https://clinicaltrials.gov/study/NCT04800926
-7. **待复核翻译：Effectiveness of Expiratory Muscle Strength Training for Improving Communication in ALS**
+8. **待复核翻译：Effectiveness of Expiratory Muscle Strength Training for Improving Communication in ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
    - https://clinicaltrials.gov/study/NCT05003167
-8. **The Effect of RNS60 on ALS 生物标志物s**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03456882
