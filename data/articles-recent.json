@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-01T01:05:51.637Z",
+  "updatedAt": "2026-11-02T01:29:21.591Z",
   "period": {
     "days": 10,
-    "from": "2026-10-23",
-    "to": "2026-11-01"
+    "from": "2026-10-24",
+    "to": "2026-11-02"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 38,
   "articles": [
     {
       "id": "pmid-42947290",
@@ -262,6 +262,34 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42954000/"
     },
     {
+      "id": "pmid-42966271",
+      "pmid": "42966271",
+      "doi": "10.1016/j.sleep.2026.109344",
+      "title": "The impact of diagnostic criteria on the detection of nocturnal hypoventilation in adult amyotrophic lateral sclerosis patients.",
+      "abstract": "Nocturnal hypoventilation (NH) is an early manifestation of respiratory muscle weakness in amyotrophic lateral sclerosis (ALS) and plays a key role in determining the optimal timing for non-invasive ventilation (NIV). However, several diagnostic definitions of NH have been proposed, and their impact on NH prevalence remains unclear. In this cross-sectional study, 56 non-ventilated ALS patients underwent home-based overnight monitoring with transcutaneous carbon dioxide (TcCO 2 ) and pulse oximetry. NH prevalence was assessed using seven definitions derived from daytime arterial blood gases, nocturnal oximetry, and TcCO 2 parameters. Agreement between definitions was evaluated using Cohen's and Light's kappa coefficients. NH prevalence varied widely depending on the definition used, ranging from approximately 5% with daytime arterial criteria to 36.7% using peak TcCO 2 ≥49 mmHg. Overall concordance among definitions was low (Light's κ = 0.27), indicating that current NH definitions are not interchangeable. Currently used definitions of NH in ALS show substantial heterogeneity and identify different patient subsets. These findings highlight the need for ALS-specific consensus definitions of NH.",
+      "journal": "Sleep medicine",
+      "authors": [
+        "D'Antoni L",
+        "Viccaro F",
+        "D'Andria M",
+        "Sanna A",
+        "Cardini ME",
+        "Tomsa C",
+        "Flore R",
+        "Di Meo F",
+        "Fabozzi A",
+        "Baccolini V",
+        "Siena L",
+        "Palange P",
+        "Ceccanti M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966271/"
+    },
+    {
       "id": "pmid-42953977",
       "pmid": "42953977",
       "doi": "10.1093/brain/awag378",
@@ -305,6 +333,27 @@
       ],
       "publishedAt": "2026-10-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42946847/"
+    },
+    {
+      "id": "pmid-42966163",
+      "pmid": "42966163",
+      "doi": "10.1016/j.jns.2026.126237",
+      "title": "Immunometabolic dysregulation of reactive microglia and astrocytes in neurodegenerative diseases: Mechanistic insights and therapeutic implications.",
+      "abstract": "Neurodegenerative diseases (NDDs) are increasingly understood as multifactorial disorders characterized by intertwined pathological processes, in which metabolic dysfunction may act as a critical and potentially disease-amplifying contributor to the proteinopathy-driven pathological cascade. Despite growing recognition that microglial and astrocytic metabolism governs central nervous system tissue damage-repair homeostasis, intercellular metabolic crosstalk between glia and neurons remains insufficiently synthesized across major NDDs. This review delineates how core metabolic pathways, including glycolysis, mitochondrial respiration, lipid processing, and amino acid transport, shape glial reactivity in Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. We highlight glial metabolic reprogramming, a proposed theoretical framework arising from severe glial metabolic dysregulation. Within this framework, persistent pathological stress may drive reactive glia to sequester local energy substrates in excess, which is hypothesized to trigger bioenergetic failure in neighboring neurons. Broad-spectrum anti-inflammatory agents show poor clinical performance because they only block cytokine outputs rather than reverse glial metabolic exhaustion. Therapeutic efforts should therefore shift toward restoring glial metabolic flexibility. Cell-type-specific metabolic reprogramming, instead of pan-metabolic suppression, may circumvent systemic adverse effects. Precision strategies targeting such intercellular metabolic imbalance could provide promising cell-resolved metabolic avenues to retard NDD progression.",
+      "journal": "Journal of the neurological sciences",
+      "authors": [
+        "Gao C",
+        "Shi R",
+        "Jiang X",
+        "Chai H",
+        "He X"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966163/"
     },
     {
       "id": "pmid-42946883",
@@ -610,7 +659,7 @@
       "abstract": "TAR DNA-binding protein 43 (TDP-43) pathology is a defining feature of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Although TDP-43 dysfunction has traditionally been studied through a neuron-centric framework, increasing evidence demonstrates that astrocytes, microglia, and oligodendrocytes are also directly affected and actively contribute to disease progression. In this review, we examine how TDP-43 dysfunction disrupts lineage-specific glial homeostatic programs and promotes distinct pathological state transitions across major glial populations. In astrocytes, TDP-43 dysfunction impairs neurotransmitter regulation, metabolic and neuronal support, RNA homeostasis, and secretory signaling while promoting inflammatory and antiviral-like states. In microglia, altered TDP-43 disrupts inflammatory regulation, phagocytosis, lysosomal function, lipid metabolism, and stage-dependent protective responses. In oligodendrocytes, TDP-43 dysfunction compromises RNA processing, lineage maintenance, lipid metabolism, myelin integrity, and long-term axonal support. Together, these findings suggest that glial TDP-43 dysfunction cannot be reduced to a single generalized form of reactivity but instead reflects the breakdown of distinct cell type-specific identities required to maintain central nervous system homeostasis. A cross-glial framework integrating cell-autonomous dysfunction, non-cell-autonomous signaling, disease stage, and genetic context may therefore provide a more complete understanding of TDP-43 proteinopathy and its contribution to neurodegeneration across the ALS-FTD spectrum.",
       "journal": "Brain research",
       "authors": [
-        "Dale A",
+        "Dale AE",
         "Sattler R"
       ],
       "publicationTypes": [
@@ -619,6 +668,27 @@
       ],
       "publishedAt": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42946239/"
+    },
+    {
+      "id": "pmid-42967168",
+      "pmid": "42967168",
+      "doi": "10.2147/JIR.S653025",
+      "title": "The \"Invisible Killer\" of Neurodegeneration: Mitochondrial Dysfunction in Neurodegenerative Disorders, Mechanisms, Emerging Pathways and Therapeutic Strategies.",
+      "abstract": "Neurodegenerative diseases such as Parkinson's disease (PD), Alzheimer's disease (AD), Huntington's disease (HD), multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS) place substantial burden on global public health. Mounting evidence identifies mitochondrial dysfunction as a central contributor to neuronal damage and progressive brain functional decline. As a narrative review, this work aims to dissect mitochondrial‑associated pathological features across these major neurodegenerative disorders, summarize under‑recognized emerging mechanisms, and highlight translational bottlenecks for mitochondrial‑targeted therapies. Mitochondria sustain neuronal survival by mediating oxidative‑phosphorylation‑driven energy production, biomolecule biosynthesis, calcium homeostasis, reactive oxygen species (ROS) metabolism, and apoptotic regulation. In PD, aggregated α‑synuclein (α‑syn) damages respiratory‑chain complex I, perturbs mitochondrial dynamics and blocks PINK1/Parkin‑dependent mitophagy. In AD, amyloid‑β together with hyper‑phosphorylated tau (p-Tau) impairs respiratory complex activity, axonal mitochondrial trafficking and mitophagic clearance. Mutant huntingtin induces multiple mitochondrial lesions in HD, while inflammation‑triggered oxidative stress secondarily compromises mitochondrial function in MS. Pathogenic mutations in ALS disrupt respiratory‑chain assembly, mitochondrial dynamics and mitophagy. Beyond classic mitochondrial defects including respiratory‑chain impairment, dynamic imbalance and defective mitophagy, emerging mechanisms such as mitocytosis, mitochondrial aminoacyl‑tRNA synthetase (mt‑aaRS) dysfunction and mitochondria‑associated membrane (MAM) disruption are discussed. Mitochondrial dysfunction drives neurodegeneration via energy exhaustion, aggravated oxidative stress, pathological protein aggregation and excessive neuronal apoptosis. We further recapitulate mitochondrial‑oriented therapeutic approaches including small‑molecule regulators, mitophagy activators, mitochondrial biogenesis promoters, gene‑editing strategies and mitochondrial transplantation. Notable translational obstacles remain, including limited blood‑brain‑barrier penetration of candidate drugs, narrow therapeutic time‑window post‑symptom onset, and prominent disease heterogeneity. By synthesizing basic experimental findings and pre‑clinical and clinical trial progress, this review provides updated insights into the pathogenesis of neurodegenerative diseases and facilitates the development of precise mitochondrial‑targeted therapeutic regimens.",
+      "journal": "Journal of inflammation research",
+      "authors": [
+        "Cao S",
+        "Liu T",
+        "Cheng X",
+        "Tian X",
+        "Wei J"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967168/"
     },
     {
       "id": "pmid-42947411",
@@ -780,6 +850,24 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42927514/"
     },
     {
+      "id": "pmid-42964735",
+      "pmid": "42964735",
+      "doi": "10.1016/j.bbrep.2026.102850",
+      "title": "Black Myrobalan ( Terminalia chebula ) as a potential multitarget neuroprotective agent: Translational insights and future directions in neurodegenerative diseases.",
+      "abstract": "Myrobalan or Haritaki ( Terminalia chebula Retz. ) has been integrated into Ayurvedic, Unani, and even Tibetan medicine systems for over 2000 years. The \"King of Medicines\" has traditionally been used for diverse ailments such as digestive issues, wound healing, and general body strengthening. Now, modern medicine is focusing on the myrobalan's potential neuroprotective properties and its use in Alzheimer's, Parkinson's, Huntington's, and amyotrophic lateral sclerosis (ALS) neurodegenerative disorders. These ailments are characterized by some combination of enduring oxidative damage, mitochondrial dysfunction, neuroinflammation, irregular protein aggregation, and progressive neuron cell death. Most of the current treatment options revolve around addressing the symptoms of the diseases, which is insufficient as the underlying disease continues to progress. There is an urgent need to devise therapies that work simultaneously on multiple disease pathways. Some of the noted secondary metabolites in T. chebula include hydrolyzable tannins like chebulinic and chebulagic acid as well as corilagin. Others occur as phenolic acids such as gallic and ellagic acid and flavonoids quercetin and kaempferol. Moreover, glycosides, sterols, and a wide range of alkaloids are also present. A number of these compounds are known to possess multifunctional biological properties like scavenging ROS, activating Nrf2/ARE signaling, downregulating pro-inflammatory mediators through blockade of NF-κB, and exerting protective effects on the mitochondria, as well as modulating apoptosis via Bcl-2 and caspases. T. chebula extracts and some isolated compounds have also been shown to improve cognitive function, reduce neuroinflammation, and protect dopaminergic neurons, and ameliorate neurotoxic effects of amyloid-β or α-synuclein through in vitro and in vivo animal studies. A review of the contributions from the phytochemistry, mechanism of action, preclinical, translational, and adjunctive applications of Terminalia chebula in neurodegenerative disease therapy is presented here.",
+      "journal": "Biochemistry and biophysics reports",
+      "authors": [
+        "Ghiasvand K",
+        "Meftahi GH"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-10-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964735/"
+    },
+    {
       "id": "pmid-42925563",
       "pmid": "42925563",
       "doi": "10.4103/NRR.NRRONLINE-D-26-00781",
@@ -839,150 +927,6 @@
       ],
       "publishedAt": "2026-10-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42925434/"
-    },
-    {
-      "id": "pmid-42918387",
-      "pmid": "42918387",
-      "doi": "10.1016/j.pnpbp.2026.111985",
-      "title": "Cellular senescence in ageing and neurodegenerative disorders: Molecular mechanisms, biomarkers, and therapeutic strategies.",
-      "abstract": "Cellular senescence has been increasingly associated with neurodegenerative disorders, potentially linking ageing-related cellular impairment with mitochondrial dysfunction, chronic inflammation, and disrupted intercellular signalling. The present study aims to explore the increasing relevance of cellular senescence among key cell types, including neurons, astrocytes, neural progenitor cells, microglia and oligodendrocyte-lineage cells across neurodegenerative ailments such as Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis and multiple sclerosis. This review discusses the findings of pre-clinical and clinical studies which suggest that senescence-associated features may contribute to neurodegeneration. Further, it provides an overview of the biomarkers used in the identification of senescence in the CNS. Also, the review examines senotherapeutic treatment approaches, highlighting their actions on different CNS cell types and the growing clinical evidence. It also points out the challenges in translating these approaches to clinical application, such as targeting specific cell types and the lack of suitable biomarkers. Collectively, present findings suggest that senescence-associated alterations may contribute to neurodegeneration, although their effects appear to vary across cell types and diseases.",
-      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
-      "authors": [
-        "Verma A",
-        "Goyal A",
-        "Agrawal N",
-        "Yadav HN"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918387/"
-    },
-    {
-      "id": "pmid-42918614",
-      "pmid": "42918614",
-      "doi": "10.1016/j.cois.2026.101639",
-      "title": "Drosophila Models of Human Neurodegenerative Diseases.",
-      "abstract": "In his book Insects and the Life of Man: Collected Essays on Pure Science and Applied Biology, Sir V. B. Wigglesworth examined how a fundamental understanding of insect physiology and biology can be applied to some of society's greatest challenges, including human health. Here we reflect on how, in the 50 years since his book's publication, Drosophila melanogaster have played a critical role in advancing our understanding of human neurodegenerative diseases. Focusing on Parkinson's disease, Huntington's disease, and the frontotemporal dementia / amyotrophic lateral sclerosis spectrum, we examine the role Drosophila have played in elucidating fundamental mechanisms of neurodegeneration, identifying therapeutic targets, and dissecting the complex interplay that exists between genetics and environmental factors. Together these studies highlight how Drosophila models continue to provide critical insight into the molecular mechanisms underpinning neurodegeneration and provide a fundamental pre-clinical model in which we can accelerate research into human neurodegenerative conditions.",
-      "journal": "Current opinion in insect science",
-      "authors": [
-        "Speranza J",
-        "Gale-Rogers C",
-        "Stretch AC",
-        "West RJH"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918614/"
-    },
-    {
-      "id": "pmid-42924853",
-      "pmid": "42924853",
-      "doi": "10.4081/ejtm.2026.16025",
-      "title": "Feasibility and apparent safety of functional electrical stimulation-assisted cycling in amyotrophic lateral sclerosis and primary lateral sclerosis: a single-arm longitudinal pilot feasibility study.",
-      "abstract": "Functional electrical stimulation-assisted cycling may be relevant in motor neuron disease, but its feasibility and safety in amyotrophic lateral sclerosis and primary lateral sclerosis remain unclear. The authors aimed to assess feasibility, apparent safety, and exploratory pre-post clinical changes of a three-week functional electrical stimulation-assisted cycling protocol in ambulatory inpatients with amyotrophic lateral sclerosis or primary lateral sclerosis. Fifteen patients were assessed; 11 were enrolled (5 ALS, 6 PLS) and received 15 supervised 30-minute FES-cycling sessions over three weeks in addition to conventional neuromotor rehabilitation. Bilateral eight-channel stimulation targeted quadriceps, tibialis anterior, hamstrings, and gastrocnemius during active or active-assisted cycling. Feasibility outcomes were enrollment, completion, tolerance, adverse events, and pre-post data availability. Clinical outcomes were analyzed descriptively. Eleven of 15 assessed patients were enrolled (73.3%; 5 ALS, 6 PLS). All enrolled participants completed the protocol, no adverse events were documented, and complete pre-post data were available. Exploratory outcomes showed favorable short-term changes in mobility, walking, strength, and spasticity. This protocol appears feasible and apparently safe in selected ambulatory inpatients. Findings are hypothesis-generating and support a prospective controlled feasibility trial before efficacy is tested.",
-      "journal": "European journal of translational myology",
-      "authors": [
-        "Regazzetti M",
-        "Kiper P",
-        "Merico A",
-        "Rossi S",
-        "Bulcão Visco D",
-        "Luque Moreno C",
-        "Baba A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924853/"
-    },
-    {
-      "id": "pmid-42919989",
-      "pmid": "42919989",
-      "doi": "10.1038/s41582-026-01274-z",
-      "title": "Mitochondrial dysfunction in neurology: biomarkers and clinical implications.",
-      "abstract": "Mitochondrial dysfunction is increasingly recognized as a shared downstream pathogenic mechanism across a wide spectrum of neurological disorders, ranging from primary mitochondrial diseases to conditions including amyotrophic lateral sclerosis, Alzheimer disease, Parkinson disease, multiple sclerosis, hereditary ataxias and idiopathic inflammatory myopathies. This Review examines the role of mitochondrial biomarkers in improving diagnostic accuracy, patient stratification and monitoring of disease progression and therapeutic response. Primary mitochondrial diseases are presented as proof-of-concept models of impaired oxidative phosphorylation, providing a framework for biomarker identification and validation with translational relevance to other neurological diseases. Mitochondrial biomarkers can be broadly categorized into four domains: fluid biomarkers, reflecting metabolic alterations and stress signalling; genetic biomarkers, capturing mitochondrial DNA integrity and dynamics; multi-omics approaches, integrating transcriptomic, proteomic and metabolomic signatures; and imaging biomarkers, enabling in vivo assessment of structural and functional consequences of mitochondrial dysfunction. Across disorders, these biomarkers reveal shared disturbances in bioenergetics, redox homeostasis, mitochondrial genome maintenance and inflammatory signalling. However, clinical implementation remains limited by methodological heterogeneity, biological variability and reduced disease specificity. Integrated, multimodal biomarker strategies, combined with longitudinal validation, will be essential for supporting precision medicine and guiding the development of therapies to target mitochondrial pathways in neurology.",
-      "journal": "Nature reviews. Neurology",
-      "authors": [
-        "Rossini E",
-        "Garibaldi M",
-        "Hanna MG",
-        "Pitceathly RDS",
-        "Pizzamiglio C"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919989/"
-    },
-    {
-      "id": "pmid-42918426",
-      "pmid": "42918426",
-      "doi": "10.1016/j.arr.2026.103429",
-      "title": "Neurodegeneration in sub-Saharan Africa: Intersections of biological ageing, genomic diversity and the lifetime exposome.",
-      "abstract": "Neurodegenerative diseases are emerging as an important consequence of population ageing in sub-Saharan Africa (SSA), but their scientific relevance extends beyond a projected rise in case numbers. SSA combines exceptional human genomic diversity with marked heterogeneity in vascular and metabolic risk, infection, nutrition, occupational exposures, air pollution, and access to health care. This combination creates an underused setting in which to study why biological ageing produces neurodegeneration in some individuals but relative resilience in others. This review critically synthesises evidence on Alzheimer's disease and related dementias, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal degeneration, Huntington's disease and related disorders, focusing on the intersection between hallmarks of ageing, disease-specific proteinopathies, ancestry and the lifetime exposome. Age-associated loss of proteostasis, mitochondrial dysfunction, impaired autophagy, chronic inflammation, neurovascular injury and genomic/epigenomic instability provide a mechanistic scaffold on which genetic susceptibility and cumulative exposures may act. Yet African evidence remains dominated by cross-sectional clinical phenotyping; neuropathology, longitudinal biomarkers, multi-omics and measured environmental exposures remain sparse. Recent African-ancestry Parkinson's disease genomics and emerging plasma biomarker studies demonstrate that ancestry-inclusive molecular neuroscience is feasible and can generate findings not predictable from European-ancestry datasets. The next phase should therefore move beyond documenting underdiagnosis toward longitudinal, biologically anchored cohorts that integrate phenotype, genomics, blood biomarkers, neuroimaging, exposomics, digital measures and health-system outcomes. This review proposes a research framework centred on biological ageing, gene-environment interaction and resilience. Such work would improve the validity of prevention, diagnosis and therapeutic translation in African populations while contributing globally to a more complete biology of neurodegenerative ageing.",
-      "journal": "Ageing research reviews",
-      "authors": [
-        "Kipanyula MJ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918426/"
-    },
-    {
-      "id": "pmid-42921272",
-      "pmid": "42921272",
-      "doi": "10.1002/mco2.71090",
-      "title": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies.",
-      "abstract": "Neurodegenerative diseases are a growing cause of disability worldwide, particularly as populations age. Although these disorders differ in etiology and clinical presentation, advances in genetics, neuropathology, and biomarker research have identified shared disturbances in protein homeostasis, mitochondrial function, and immune regulation. These processes may contribute to selective neuronal vulnerability and neural circuit dysfunction. These findings are refining disease classification and diagnosis, yet effective disease-modifying therapies remain limited. Disease-specific abnormalities remain essential to clinical interpretation and treatment selection. Existing reviews often focus on individual disorders or isolated mechanisms, leaving the links between shared biology and disease-specific phenotypes insufficiently clear. We synthesize evidence on the epidemiology, risk factors, classification, and pathophysiology of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, frontotemporal dementia, Friedreich's ataxia, and multiple sclerosis. We compare their clinical manifestations and diagnostic approaches, including the evolving role of biomarkers, and critically assess established and emerging therapies. By distinguishing shared mechanisms from disease-specific abnormalities, we identify key translational gaps and explore how common biological disturbances may lead to distinct clinical trajectories. This cross-disease perspective may inform diagnostic reasoning, treatment development, and future comparative research.",
-      "journal": "MedComm",
-      "authors": [
-        "He Z",
-        "Zeng J",
-        "Wang G",
-        "Li Y",
-        "Zhang F"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921272/"
-    },
-    {
-      "id": "pmid-42918320",
-      "pmid": "42918320",
-      "doi": "10.1016/j.neuroscience.2026.10.036",
-      "title": "State transitions in amyotrophic lateral sclerosis: mechanistic convergence and biomarker-guided stratification.",
-      "abstract": "Biological heterogeneity is a major obstacle to therapeutic development in amyotrophic lateral sclerosis (ALS). Cross-sectional pathway labels do not show whether a mechanism is active or treatment-relevant in an individual patient. We conducted a structured critical narrative review informed by the Scale for the Assessment of Narrative Review Articles. MEDLINE, Embase, PubMed, and CENTRAL were searched for English-language literature published from 1 January 2015 to 7 August 2026; seminal earlier studies were identified by citation tracking. Human genetic, pathological, longitudinal biomarker, multi-omic, imaging, neurophysiological, and interventional evidence was prioritized. Evidence was appraised by human proximity, temporality, replication, mechanistic specificity, and treatment relevance. Evidence supports interacting RNA/proteostasis, nucleocytoplasmic-transport, glial-inflammatory, and energetic-metabolic processes, but current evidence does not yet support the use of any candidate state for individual treatment assignment. The most mature temporal example is loss of TDP-43 splicing repression before neurofilament elevation in genetically at-risk individuals. Nucleocytoplasmic-transport evidence is strongest in C9orf72 disease; inflammatory and metabolic signals are confounded by disease burden and systemic illness; and the gut-brain axis remains a context-dependent amplifier. We propose prespecified transition rules, evidence grades, and biomarker-by-treatment interaction tests. A state-transition model becomes clinically useful when longitudinal measurements add value beyond clinical predictors and injury markers and prospectively identify differential treatment benefit.",
-      "journal": "Neuroscience",
-      "authors": [
-        "Nasb M",
-        "Yang D",
-        "Malik TH",
-        "Xu D",
-        "Dayoub L",
-        "Zhou J",
-        "Zhao Y"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918320/"
     }
   ]
 }
