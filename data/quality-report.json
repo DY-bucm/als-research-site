@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:30:58.454Z",
+  "updatedAt": "2026-11-03T03:29:05.441Z",
   "summary": {
     "totalItems": 43,
     "issueCount": 42
@@ -25,9 +25,9 @@
     {
       "id": "epmc-MED-42934178",
       "title": "Histone Modifications at the Intersection of Aging, Neuroinflammation and Metabolism in Alzheimer's Disease.",
-      "titleZh": "组蛋白修饰在阿尔茨海默病衰老、神经炎症与代谢交叉点上的作用",
+      "titleZh": "阿尔茨海默病中衰老、神经炎症与代谢交叉处的组蛋白修饰",
       "category": "生物标志物",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确认研究类型与证据等级）",
+      "evidenceLevel": "待人工判定（元数据无摘要，无法判断研究设计）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -36,7 +36,7 @@
     {
       "id": "epmc-MED-42894376",
       "title": "Diabetic Polyneuropathy Patients Exhibit an Altered Skeletal Muscle Proteome Phenotype.",
-      "titleZh": "糖尿病性多神经病患者表现出骨骼肌蛋白质组表型改变",
+      "titleZh": "糖尿病性多发性神经病患者表现出骨骼肌蛋白质组表型改变",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -172,20 +172,20 @@
     {
       "id": "epmc-MED-42947522",
       "title": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable Amyotrophic Lateral Sclerosis.",
-      "titleZh": "硼-神经元连接：含硼分子治疗不可治愈性肌萎缩侧索硬化症的潜力",
+      "titleZh": "硼-神经元连接：含硼分子治疗不可治愈的肌萎缩侧索硬化症的潜力",
       "category": "机制",
-      "evidenceLevel": "机制研究（药物化学综述/假说层面，原始元数据无摘要）",
+      "evidenceLevel": "机制研究（来源元数据无摘要，仅题名可考）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1002/cmdc.70554"
     },
     {
       "id": "epmc-MED-42934178",
       "title": "Histone Modifications at the Intersection of Aging, Neuroinflammation and Metabolism in Alzheimer's Disease.",
-      "titleZh": "组蛋白修饰在阿尔茨海默病衰老、神经炎症与代谢交叉点上的作用",
+      "titleZh": "阿尔茨海默病中衰老、神经炎症与代谢交叉处的组蛋白修饰",
       "category": "生物标志物",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确认研究类型与证据等级）",
+      "evidenceLevel": "待人工判定（元数据无摘要，无法判断研究设计）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -194,7 +194,7 @@
     {
       "id": "epmc-MED-42894376",
       "title": "Diabetic Polyneuropathy Patients Exhibit an Altered Skeletal Muscle Proteome Phenotype.",
-      "titleZh": "糖尿病性多神经病患者表现出骨骼肌蛋白质组表型改变",
+      "titleZh": "糖尿病性多发性神经病患者表现出骨骼肌蛋白质组表型改变",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -317,7 +317,7 @@
     {
       "id": "pmid-42947290",
       "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
-      "titleZh": "解剖学定义的 motors 表型揭示 ALS 中进展、神经丝蛋白谱和生存的分离轨迹",
+      "titleZh": "解剖学定义的運動表型揭示ALS进展、神经丝蛋白谱和生存的分离轨迹",
       "category": "临床试验",
       "evidenceLevel": "多中心观察性队列研究（临床试验研究）",
       "relevanceScore": 9,
@@ -326,169 +326,169 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42947290/"
     },
     {
-      "id": "trial-NCT05562960",
-      "title": "Plasmapheresis in Amyotrophic Lateral Sclerosis With Autoantibody Against NRIP",
-      "titleZh": "Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP",
+      "id": "trial-NCT04220021",
+      "title": "Safety and Therapeutic Potential of the FDA-approved Drug Metformin for C9orf72 ALS/FTD",
+      "titleZh": "待复核翻译：Safety and Therapeutic Potential of the FDA-approved Drug Metformin for C9orf72 ALS/FTD",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04220021"
+    },
+    {
+      "id": "trial-NCT06656702",
+      "title": "Effects of Psilocybin in Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Effects of Psilocybin in Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05562960"
+      "url": "https://clinicaltrials.gov/study/NCT06656702"
     },
     {
-      "id": "trial-NCT06968468",
-      "title": "Resiliency Intervention for Patients With ALS and Their Care-Partners",
-      "titleZh": "待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners",
+      "id": "trial-NCT02795052",
+      "title": "Neurologic Stem Cell Treatment Study",
+      "titleZh": "Neurologic 干细胞 Treatment Study",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06968468"
+      "url": "https://clinicaltrials.gov/study/NCT02795052"
     },
     {
-      "id": "trial-NCT07151950",
-      "title": "Obi Medical Robot: Evaluating Effectiveness Related to Usability",
-      "titleZh": "待复核翻译：Obi Medical Robot: Evaluating Effectiveness Related to Usability",
+      "id": "trial-NCT06665165",
+      "title": "AMX0114 in Adult Participants With Amyotrophic Lateral Sclerosis",
+      "titleZh": "AMX0114 in Adult Participants With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07151950"
+      "url": "https://clinicaltrials.gov/study/NCT06665165"
     },
     {
-      "id": "trial-NCT05237284",
-      "title": "Phase 2 Study for SAR443820 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "II 期 Study for SAR443820 in Participants With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05237284"
-    },
-    {
-      "id": "trial-NCT04490148",
-      "title": "Remote Pulmonary Function Testing and Nurse Coaching in ALS",
-      "titleZh": "待复核翻译：Remote Pulmonary Function Testing and Nurse Coaching in ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 6,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04490148"
-    },
-    {
-      "id": "trial-NCT04800926",
-      "title": "Xavier Electromyographic Wheelchair Control for Limited Mobility Patients",
-      "titleZh": "待复核翻译：Xavier Electromyographic Wheelchair Control for Limited Mobility Patients",
+      "id": "trial-NCT03757351",
+      "title": "Study to Evaluate DNL747 in Subjects With Amyotrophic Lateral Sclerosis",
+      "titleZh": "Study to Evaluate DNL747 in Subjects With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04800926"
+      "url": "https://clinicaltrials.gov/study/NCT03757351"
     },
     {
-      "id": "trial-NCT05003167",
-      "title": "Effectiveness of Expiratory Muscle Strength Training for Improving Communication in ALS",
-      "titleZh": "待复核翻译：Effectiveness of Expiratory Muscle Strength Training for Improving Communication in ALS",
+      "id": "trial-NCT04866771",
+      "title": "Remotely Supervised tDCS for Slowing ALS Disease Progression",
+      "titleZh": "待复核翻译：Remotely Supervised tDCS for Slowing ALS Disease Progression",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05003167"
+      "url": "https://clinicaltrials.gov/study/NCT04866771"
     },
     {
-      "id": "trial-NCT03456882",
-      "title": "The Effect of RNS60 on ALS Biomarkers",
-      "titleZh": "The Effect of RNS60 on ALS 生物标志物s",
+      "id": "trial-NCT03019419",
+      "title": "Perampanel for Sporadic Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Perampanel for Sporadic 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03456882"
+      "url": "https://clinicaltrials.gov/study/NCT03019419"
     },
     {
-      "id": "trial-NCT05340660",
-      "title": "mGluR5 Imaging in ALS Using PET",
-      "titleZh": "待复核翻译：mGluR5 Imaging in ALS Using PET",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05340660"
-    },
-    {
-      "id": "trial-NCT04051333",
-      "title": "The E-health Application To Modify ORal Energy Intake and Measure Outcomes REmotely in ALS Clinical Trial (EAT MORE2)",
-      "titleZh": "The E-health Application To Modify ORal Energy Intake and Measure Outcomes REmotely in ALS 临床试验 (EAT MORE2)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04051333"
-    },
-    {
-      "id": "trial-NCT03377309",
-      "title": "Safety and Tolerability of Perampanel in Amyotrophic Lateral Sclerosis Patients",
-      "titleZh": "Safety and Tolerability of Perampanel in 肌萎缩侧索硬化症 Patients",
+      "id": "trial-NCT04518540",
+      "title": "Explore Neuroprotective Effect of Lipoic Acid in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Explore Neuroprotective Effect of Lipoic Acid in 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03377309"
+      "url": "https://clinicaltrials.gov/study/NCT04518540"
     },
     {
-      "id": "trial-NCT03892863",
-      "title": "Repetitive Transcranial Magnetic Stimulation as Therapy for Depression in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Repetitive Transcranial Magnetic Stimulation as Therapy for Depression in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03892863"
-    },
-    {
-      "id": "trial-NCT03201991",
-      "title": "ALS Study Determining Various Biomarkers and Strength Comparison After Exercise",
-      "titleZh": "ALS Study Determining Various 生物标志物s and Strength Comparison After Exercise",
+      "id": "trial-NCT02868580",
+      "title": "Safety and Tolerability of Antiretroviral (Triumeq) in Patients With Amyotrophic Lateral Sclerosis (ALS).",
+      "titleZh": "Safety and Tolerability of Antiretroviral (Triumeq) in Patients With 肌萎缩侧索硬化症 (ALS).",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03201991"
+      "url": "https://clinicaltrials.gov/study/NCT02868580"
     },
     {
-      "id": "trial-NCT01639391",
-      "title": "Creation of a Bank of Fibroblast From Patients With Amyotrophic Lateral Sclerosis: Pilot Study",
-      "titleZh": "Creation of a Bank of Fibroblast From Patients With 肌萎缩侧索硬化症: Pilot Study",
+      "id": "trial-NCT01995903",
+      "title": "Developing a Discrimination Model to Diagnose ALS",
+      "titleZh": "待复核翻译：Developing a Discrimination Model to Diagnose ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01639391"
+      "url": "https://clinicaltrials.gov/study/NCT01995903"
     },
     {
-      "id": "trial-NCT00718016",
-      "title": "Assessment of the Cyberlink Control System for Use by the Amyotrophic Lateral Sclerosis (ALS) Patient",
-      "titleZh": "Assessment of the Cyberlink Control System for Use by the 肌萎缩侧索硬化症 (ALS) Patient",
+      "id": "trial-NCT01504009",
+      "title": "Muscle Training of Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Muscle Training of Patients With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
+      "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00718016"
+      "url": "https://clinicaltrials.gov/study/NCT01504009"
+    },
+    {
+      "id": "trial-NCT00076154",
+      "title": "National Registry of Veterans With Amyotrophic Lateral Sclerosis and DNA Bank",
+      "titleZh": "National Registry of Veterans With 肌萎缩侧索硬化症 and DNA Bank",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00076154"
+    },
+    {
+      "id": "trial-NCT01825551",
+      "title": "The Effect of GCSF in the Treatment of ALS Patients",
+      "titleZh": "待复核翻译：The Effect of GCSF in the Treatment of ALS Patients",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01825551"
+    },
+    {
+      "id": "trial-NCT00886977",
+      "title": "Efficacy and Safety of YAM80 in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Efficacy and Safety of YAM80 in 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00886977"
+    },
+    {
+      "id": "trial-NCT00231140",
+      "title": "Pilot-Study of Thalidomide in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Pilot-Study of Thalidomide in 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00231140"
     }
   ],
   "failedSources": [],

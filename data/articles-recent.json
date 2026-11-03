@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-02T01:29:21.591Z",
+  "updatedAt": "2026-11-03T03:27:29.753Z",
   "period": {
     "days": 10,
-    "from": "2026-10-24",
-    "to": "2026-11-02"
+    "from": "2026-10-25",
+    "to": "2026-11-03"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 38,
+  "count": 34,
   "articles": [
     {
       "id": "pmid-42947290",
@@ -53,7 +53,8 @@
       ],
       "publicationTypes": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "publishedAt": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42947290/"
@@ -468,7 +469,8 @@
         "Andersen PM"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "publishedAt": "2026-10-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42958460/"
@@ -547,7 +549,8 @@
         "Brännström T"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "publishedAt": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42947273/"
@@ -848,85 +851,6 @@
       ],
       "publishedAt": "2026-10-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42927514/"
-    },
-    {
-      "id": "pmid-42964735",
-      "pmid": "42964735",
-      "doi": "10.1016/j.bbrep.2026.102850",
-      "title": "Black Myrobalan ( Terminalia chebula ) as a potential multitarget neuroprotective agent: Translational insights and future directions in neurodegenerative diseases.",
-      "abstract": "Myrobalan or Haritaki ( Terminalia chebula Retz. ) has been integrated into Ayurvedic, Unani, and even Tibetan medicine systems for over 2000 years. The \"King of Medicines\" has traditionally been used for diverse ailments such as digestive issues, wound healing, and general body strengthening. Now, modern medicine is focusing on the myrobalan's potential neuroprotective properties and its use in Alzheimer's, Parkinson's, Huntington's, and amyotrophic lateral sclerosis (ALS) neurodegenerative disorders. These ailments are characterized by some combination of enduring oxidative damage, mitochondrial dysfunction, neuroinflammation, irregular protein aggregation, and progressive neuron cell death. Most of the current treatment options revolve around addressing the symptoms of the diseases, which is insufficient as the underlying disease continues to progress. There is an urgent need to devise therapies that work simultaneously on multiple disease pathways. Some of the noted secondary metabolites in T. chebula include hydrolyzable tannins like chebulinic and chebulagic acid as well as corilagin. Others occur as phenolic acids such as gallic and ellagic acid and flavonoids quercetin and kaempferol. Moreover, glycosides, sterols, and a wide range of alkaloids are also present. A number of these compounds are known to possess multifunctional biological properties like scavenging ROS, activating Nrf2/ARE signaling, downregulating pro-inflammatory mediators through blockade of NF-κB, and exerting protective effects on the mitochondria, as well as modulating apoptosis via Bcl-2 and caspases. T. chebula extracts and some isolated compounds have also been shown to improve cognitive function, reduce neuroinflammation, and protect dopaminergic neurons, and ameliorate neurotoxic effects of amyloid-β or α-synuclein through in vitro and in vivo animal studies. A review of the contributions from the phytochemistry, mechanism of action, preclinical, translational, and adjunctive applications of Terminalia chebula in neurodegenerative disease therapy is presented here.",
-      "journal": "Biochemistry and biophysics reports",
-      "authors": [
-        "Ghiasvand K",
-        "Meftahi GH"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964735/"
-    },
-    {
-      "id": "pmid-42925563",
-      "pmid": "42925563",
-      "doi": "10.4103/NRR.NRRONLINE-D-26-00781",
-      "title": "Constructing functional neural circuits to model amyotrophic lateral sclerosis with induced pluripotent stem cell-derived brain organoids.",
-      "abstract": "Amyotrophic lateral sclerosis is a progressive neurodegenerative disease characterized by the degeneration of both upper and lower motor neurons. Recent advances in human-induced pluripotent stem cell-derived brain organoids offer an innovative platform to model amyotrophic lateral sclerosis in a human-specific context. These three-dimensional organoid systems allow for the study of neuronal circuit-level dysfunction, which is central to amyotrophic lateral sclerosis pathogenesis, by incorporating multiple neuronal subtypes and supporting glial populations. In particular, the integration of region-specific brain organoids into assembloid models has enabled the reconstruction of functional long-range projections and cortico-motor circuits, closely resembling human neural connectivity. This review summarizes the generation and application of human induced pluripotent stem cell-derived brain organoids for amyotrophic lateral sclerosis research, with a focus on the reconstruction of neural circuits, multi-omics profiling, and functional assays. We also discuss how organoid systems can be leveraged for drug discovery and personalized medicine in amyotrophic lateral sclerosis, highlighting their potential to unveil human-specific disease mechanisms. Lastly, we address the current challenges and future directions for improving the physiological relevance of organoid models in amyotrophic lateral sclerosis research.",
-      "journal": "Neural regeneration research",
-      "authors": [
-        "Niu Y",
-        "Zhang D",
-        "Gong T",
-        "Guo G",
-        "Zhang H",
-        "Gao C",
-        "Yang J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925563/"
-    },
-    {
-      "id": "pmid-42925513",
-      "pmid": "42925513",
-      "doi": "10.4103/NRR.NRRONLINE-D-26-00886",
-      "title": "Postsynaptic remodeling and F-actin dysregulation in the Dctn1Δ2-4 mouse model of motor neuron disease.",
-      "abstract": "The microtubule motor dynein and its co-adaptor dynactin govern organelle positioning within highly polarized neurons. The dynactin subunit p150Glued, encoded by DCTN1, is associated with motor neuron disease. The p150Glued G59S mutation disrupts the microtubule-binding domain and drives selective motor neuron degeneration in patients and animal models. The p150Glued microtubule-binding domain mediates the initiation of retrograde transport at axonal terminals and stabilizes presynaptic sites at neuromuscular junctions. Nevertheless, the key functions of p150Glued and its microtubule-binding domain within postsynaptic compartments remain poorly defined. Using Dctn1Δ2-4 mice, in which exons 2-4 of Dctn1 encoding the microtubule-binding domain are deleted, we performed morphological, biochemical, and cellular physiological analyses, together with genetic manipulation and pharmacological intervention, to investigate how loss of p150Glued microtubule-binding function affects excitatory postsynaptic organization and neuronal vulnerability. We found that excitatory postsynaptic remodeling occurred before overt dendritic degeneration and motor neuron loss in Dctn1Δ2-4 mice. We further demonstrated that p150Glued microtubule-binding domain dysfunction induced early remodeling of excitatory postsynaptic densities, leading to increased postsynaptic accumulation of N-methyl- D-aspartate receptors, dysregulated Ca2+ homeostasis, and heightened susceptibility to glutamate-induced excitotoxicity. Mechanistically, p150Glued microtubule-binding domain dysfunction promoted the postsynaptic accumulation of endosomes and the Wiskott-Aldrich syndrome protein and SCAR homolog complex, resulting in excessive F-actin assembly and pathological enhancement of postsynaptic density architecture. Furthermore, these postsynaptic abnormalities were rescued by re-expression of wild-type p150Glued, but not the disease-associated G59S mutant. Pharmacological inhibition of N-methyl-D-aspartate receptors, in turn, attenuated excitotoxic injury and neurodegeneration. Our findings identify a previously unrecognized postsynaptic pathogenic mechanism in DCTN1-associated motor neuron disease. We propose that loss of p150Glued microtubule-binding function disrupts postsynaptic endosome positioning, leading to aberrant Wiskott-Aldrich syndrome protein and SCAR homolog-mediated F-actin remodeling, pathological enhancement of excitatory postsynaptic densities, excessive N-methyl-D-aspartate receptor targeting, and increased vulnerability to excitotoxicity.",
-      "journal": "Neural regeneration research",
-      "authors": [
-        "Zheng J",
-        "Yang X",
-        "Wang X",
-        "Cai H",
-        "Yu J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925513/"
-    },
-    {
-      "id": "pmid-42925434",
-      "pmid": "42925434",
-      "doi": "10.1007/s11011-026-02006-4",
-      "title": "Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases.",
-      "abstract": "The Wnt Signaling pathway is a regulatory network that is highly conserved in the central nervous system and is essential for the survival of neurons, synaptic plasticity, and the blood-brain barrier's integrity. The pathophysiology of major neurodegenerative and neurological disorders, including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), and traumatic brain injury (TBI), is highly influenced by canonical and non-canonical Wnt Signaling dysregulation, according to increasingly compelling evidence. In addition to emphasising common molecular events such as GSK-3β overactivation, β-catenin destabilisation, neuroinflammation, synaptic dysfunction, and BBB disruption, this study offers a comparative and mechanistic overview of Wnt pathway changes across various illnesses. This article identifies overlapping treatment targets, such as GSK-3β, DKK1, LRP5/6, and Wnt ligands, by integrating common and disease-specific Wnt-associated pathways, in contrast to traditional disease-specific reviews. Furthermore, new translational approaches involving natural substances, Wnt modulators, and pathway-targeted treatments are critically examined. All things considered, this study presents Wnt Signaling as a potential neuroprotective and regenerative target for upcoming precision-based treatments in neurodegenerative disorders.",
-      "journal": "Metabolic brain disease",
-      "authors": [
-        "Shah A",
-        "Godad A",
-        "Bagwe Parab S"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925434/"
     }
   ]
 }

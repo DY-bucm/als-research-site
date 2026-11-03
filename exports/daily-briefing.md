@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-02
+更新时间：2026-11-03
 
-1. **解剖学定义的 motors 表型揭示 ALS 中进展、神经丝蛋白谱和生存的分离轨迹**
+1. **解剖学定义的運動表型揭示ALS进展、神经丝蛋白谱和生存的分离轨迹**
    - 临床试验 / 多中心观察性队列研究（临床试验研究） / high
-   - 早期传播表型是疾病侵袭性的最强标志（HR 2.93），且NfL随进展不成比例升高、与功能下降脱耦联；UMN/LMN均衡或LMN为主表型生存更短（HR 2.51）。
+   - 解剖学定义的運動表型在各中心间可重复，早期传播与更快进展、更高NfL和更短生存独立相关（HR 2.93），UMN/LMN平衡或LMN为主表型预后更差（HR 2.51）。
    - https://pubmed.ncbi.nlm.nih.gov/42947290/
-2. **Plasmapheresis in 肌萎缩侧索硬化症 With Autoantibody Against NRIP**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT05562960
-3. **待复核翻译：Resiliency Intervention for Patients With ALS and Their Care-Partners**
-   - 临床试验 / 临床试验注册 / high
-   - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06968468
-4. **待复核翻译：Obi Medical Robot: Evaluating Effectiveness Related to Usability**
+2. **待复核翻译：Safety and Therapeutic Potential of the FDA-approved Drug Metformin for C9orf72 ALS/FTD**
    - 临床试验 / 临床试验注册 / high
    - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07151950
-5. **II 期 Study for SAR443820 in Participants With 肌萎缩侧索硬化症 (ALS)**
+   - https://clinicaltrials.gov/study/NCT04220021
+3. **Effects of Psilocybin in Patients With 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06656702
+4. **Neurologic 干细胞 Treatment Study**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT02795052
+5. **AMX0114 in Adult Participants With 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06665165
+6. **Study to Evaluate DNL747 in Subjects With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: TERMINATED.
-   - https://clinicaltrials.gov/study/NCT05237284
-6. **待复核翻译：Remote Pulmonary Function Testing and Nurse Coaching in ALS**
+   - https://clinicaltrials.gov/study/NCT03757351
+7. **待复核翻译：Remotely Supervised tDCS for Slowing ALS Disease Progression**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04490148
-7. **待复核翻译：Xavier Electromyographic Wheelchair Control for Limited Mobility Patients**
+   - https://clinicaltrials.gov/study/NCT04866771
+8. **Perampanel for Sporadic 肌萎缩侧索硬化症 (ALS)**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04800926
-8. **待复核翻译：Effectiveness of Expiratory Muscle Strength Training for Improving Communication in ALS**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT05003167
+   - https://clinicaltrials.gov/study/NCT03019419
