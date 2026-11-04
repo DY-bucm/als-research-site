@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-03
+更新时间：2026-11-04
 
-1. **解剖学定义的運動表型揭示ALS进展、神经丝蛋白谱和生存的分离轨迹**
-   - 临床试验 / 多中心观察性队列研究（临床试验研究） / high
-   - 解剖学定义的運動表型在各中心间可重复，早期传播与更快进展、更高NfL和更短生存独立相关（HR 2.93），UMN/LMN平衡或LMN为主表型预后更差（HR 2.51）。
-   - https://pubmed.ncbi.nlm.nih.gov/42947290/
-2. **待复核翻译：Safety and Therapeutic Potential of the FDA-approved Drug Metformin for C9orf72 ALS/FTD**
+1. **纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征**
+   - 遗传 / 观察性临床研究（方法学验证，含验证组与测试组） / high
+   - 纳米孔自适应采样测序结合NanoExpansion可准确表征DM1、DM2、C9orf72相关ALS、FRDA、亨廷顿病和肯尼迪病等重复扩增病例，并检出长PCR会低估的超大扩增等位基因及序列中断。
+   - https://pubmed.ncbi.nlm.nih.gov/42840349/
+2. **用于ALS研究的经验证抗体工具箱**
+   - 治疗 / 动物/细胞实验 / high
+   - 303种抗体中仅部分通过敲除验证；多种ALS相关蛋白在胶质细胞中表达水平较高。
+   - https://pubmed.ncbi.nlm.nih.gov/42975030/
+3. **Neural 干细胞-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of 肌萎缩侧索硬化症.**
+   - 治疗 / 动物/细胞实验 / high
+   - Europe PMC record found, but no abstract was available in the fetched metadata.
+   - https://doi.org/10.1093/jnen/nlag013
+4. **Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With 肌萎缩侧索硬化症 (ALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07875972
+5. **待复核翻译：Intermediate-size Patient Population Expanded Access Protocol**
+   - 临床试验 / 临床试验注册 / high
+   - Status: AVAILABLE.
+   - https://clinicaltrials.gov/study/NCT07088159
+6. **Transcranial Static Magnetic Stimulation (tSMS) and Potential Theranostic 生物标志物s in 肌萎缩侧索硬化症.**
    - 临床试验 / 临床试验注册 / high
    - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04220021
-3. **Effects of Psilocybin in Patients With 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT06834269
+7. **待复核翻译：Intestinal Microbiome Transplant in ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06656702
-4. **Neurologic 干细胞 Treatment Study**
+   - https://clinicaltrials.gov/study/NCT07017946
+8. **EIM Via the Myolex mScan as an ALS 生物标志物**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT02795052
-5. **AMX0114 in Adult Participants With 肌萎缩侧索硬化症**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06665165
-6. **Study to Evaluate DNL747 in Subjects With 肌萎缩侧索硬化症**
-   - 临床试验 / 临床试验注册 / high
-   - Status: TERMINATED.
-   - https://clinicaltrials.gov/study/NCT03757351
-7. **待复核翻译：Remotely Supervised tDCS for Slowing ALS Disease Progression**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04866771
-8. **Perampanel for Sporadic 肌萎缩侧索硬化症 (ALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03019419
+   - https://clinicaltrials.gov/study/NCT06491732

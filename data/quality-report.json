@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T03:29:05.441Z",
+  "updatedAt": "2026-11-04T02:18:09.396Z",
   "summary": {
-    "totalItems": 43,
-    "issueCount": 42
+    "totalItems": 45,
+    "issueCount": 49
   },
   "sources": [
     {
@@ -23,20 +23,108 @@
   ],
   "lowRelevance": [
     {
-      "id": "epmc-MED-42934178",
-      "title": "Histone Modifications at the Intersection of Aging, Neuroinflammation and Metabolism in Alzheimer's Disease.",
-      "titleZh": "阿尔茨海默病中衰老、神经炎症与代谢交叉处的组蛋白修饰",
+      "id": "epmc-PMC-PMC13725057",
+      "title": "Glucocorticoid receptor modulation as a host-directed strategy for inflammatory priming across chronic disease states",
+      "titleZh": "糖皮质激素受体调节作为跨慢性疾病状态炎症启动的宿主导向策略",
       "category": "生物标志物",
-      "evidenceLevel": "待人工判定（元数据无摘要，无法判断研究设计）",
+      "evidenceLevel": "待人工判定（元数据未提供摘要，无法评估研究设计与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13725057"
+    },
+    {
+      "id": "epmc-PMC-PMC13725089",
+      "title": "Adverse effects of FDA-approved RNA therapeutics: a cross-platform analysis of RNA design, delivery systems, and safety profiles",
+      "titleZh": "FDA批准RNA疗法的副作用：RNA设计、递送系统与安全性特征的跨平台分析",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确定研究设计与证据等级）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13725089"
+    },
+    {
+      "id": "epmc-PMC-PMC13727149",
+      "title": "A Standardized Approach to Non-Infectious Disease Cluster Investigations in the U.S. Department of the Air Force",
+      "titleZh": "美国空军部非传染性疾病聚集性调查的标准化方法",
+      "category": "机制",
+      "evidenceLevel": "方法学/综述性条目（原始元数据无摘要，无法进一步分级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13727149"
+    },
+    {
+      "id": "epmc-PMC-PMC13725108",
+      "title": "Utility of extracellular vesicles in the diagnosis of central nervous system diseases",
+      "titleZh": "细胞外囊泡在中枢神经系统疾病诊断中的应用价值",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13725108"
+    },
+    {
+      "id": "epmc-MED-42972606",
+      "title": "Evidence of White Matter R<sub>2</sub>* Homogenization After Formalin Fixation.",
+      "titleZh": "福尔马林固定后白质R2*均匀化的证据",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mrm.70646"
+    },
+    {
+      "id": "epmc-PPR-PPR1355853",
+      "title": "Association of COVID-19 with neurodegenerative and neurological disorders in vaccinated and unvaccinated people",
+      "titleZh": "待复核翻译：Association of COVID-19 with neurodegenerative and neurological disorders in vaccinated and unvaccinated people",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.10.30.26366919"
+    },
+    {
+      "id": "epmc-PPR-PPR1355835",
+      "title": "Batch Effect Correction to Enhance Utility of a Publicly Available ALS Proteomics Dataset",
+      "titleZh": "待复核翻译：Batch Effect Correction to Enhance Utility of a Publicly Available ALS Proteomics Dataset",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.10.27.762202"
+    },
+    {
+      "id": "epmc-MED-42952031",
+      "title": "Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [&lt;sup&gt;18&lt;/sup&gt;F]RP-115: Alternate Synthetic Method.",
+      "titleZh": "待复核翻译：Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [&lt;sup&gt;18&lt;/sup&gt;F]RP-115: Alternate Synthetic Method.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/jlcr.70044"
+    },
+    {
+      "id": "epmc-MED-42934178",
+      "title": "Histone Modifications at the Intersection of Aging, Neuroinflammation and Metabolism in Alzheimer's Disease.",
+      "titleZh": "Histone Modifications at the Intersection of Aging, 神经炎症 and Metabolism in Alzheimer's Disease.",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
       "url": "https://doi.org/10.1111/acel.70785"
     },
     {
       "id": "epmc-MED-42894376",
       "title": "Diabetic Polyneuropathy Patients Exhibit an Altered Skeletal Muscle Proteome Phenotype.",
-      "titleZh": "糖尿病性多发性神经病患者表现出骨骼肌蛋白质组表型改变",
+      "titleZh": "待复核翻译：Diabetic Polyneuropathy Patients Exhibit an Altered Skeletal Muscle Proteome Phenotype.",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -45,156 +133,200 @@
       "url": "https://doi.org/10.1002/prca.70060"
     },
     {
+      "id": "epmc-MED-42880888",
+      "title": "Persistent Opioid Exposure in Older Adults With Rheumatic Disease: National Patterns, Disparities, and Cross-Specialty Prescribing.",
+      "titleZh": "待复核翻译：Persistent Opioid Exposure in Older Adults With Rheumatic Disease: National Patterns, Disparities, and Cross-Specialty Prescribing.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.3899/jrheum.2026-0220"
+    },
+    {
       "id": "epmc-MED-42864601",
       "title": "Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos.",
-      "titleZh": "优化的gGBE在哺乳动物细胞和斑马鱼胚胎中实现稳健的G-to-Y转换",
+      "titleZh": "待复核翻译：Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos.",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.24272/j.issn.2095-8137.2025.361"
+    }
+  ],
+  "missingIdentifiers": [
+    {
+      "id": "epmc-PMC-PMC13725057",
+      "title": "Glucocorticoid receptor modulation as a host-directed strategy for inflammatory priming across chronic disease states",
+      "titleZh": "糖皮质激素受体调节作为跨慢性疾病状态炎症启动的宿主导向策略",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（元数据未提供摘要，无法评估研究设计与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13725057"
+    },
+    {
+      "id": "epmc-PMC-PMC13725089",
+      "title": "Adverse effects of FDA-approved RNA therapeutics: a cross-platform analysis of RNA design, delivery systems, and safety profiles",
+      "titleZh": "FDA批准RNA疗法的副作用：RNA设计、递送系统与安全性特征的跨平台分析",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确定研究设计与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13725089"
+    },
+    {
+      "id": "epmc-PMC-PMC13727149",
+      "title": "A Standardized Approach to Non-Infectious Disease Cluster Investigations in the U.S. Department of the Air Force",
+      "titleZh": "美国空军部非传染性疾病聚集性调查的标准化方法",
+      "category": "机制",
+      "evidenceLevel": "方法学/综述性条目（原始元数据无摘要，无法进一步分级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13727149"
+    },
+    {
+      "id": "epmc-PMC-PMC13725108",
+      "title": "Utility of extracellular vesicles in the diagnosis of central nervous system diseases",
+      "titleZh": "细胞外囊泡在中枢神经系统疾病诊断中的应用价值",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
-      "url": "https://doi.org/10.24272/j.issn.2095-8137.2025.361"
-    },
-    {
-      "id": "epmc-MED-42063215",
-      "title": "Lytic cell death in chronic lung diseases.",
-      "titleZh": "待复核翻译：Lytic cell death in chronic lung diseases.",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1093/ajrcmb/aanag092"
-    },
-    {
-      "id": "epmc-PMC-PMC13719537",
-      "title": "An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features",
-      "titleZh": "待复核翻译：An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719537"
-    },
-    {
-      "id": "epmc-PMC-PMC13719465",
-      "title": "Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies",
-      "titleZh": "待复核翻译：Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719465"
-    },
-    {
-      "id": "epmc-PMC-PMC13719892",
-      "title": "Traditional Chinese medicine-related interventions and the cGAS–STING axis in neuroinflammation: disease contexts and mechanisms of action",
-      "titleZh": "Traditional Chinese medicine-related interventions and the cGAS–STING axis in 神经炎症: disease contexts and mechanisms of action",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719892"
-    },
-    {
-      "id": "epmc-MED-42962081",
-      "title": "An Exceptional Mobility Group Among Older Adults: Protocol for the Super Movers Study.",
-      "titleZh": "待复核翻译：An Exceptional Mobility Group Among Older Adults: Protocol for the Super Movers Study.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.2196/104520"
-    },
-    {
-      "id": "epmc-MED-42961880",
-      "title": "Rethinking neurodegeneration: Placing disease in its physiological context.",
-      "titleZh": "待复核翻译：Rethinking neurodegeneration: Placing disease in its physiological context.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1371/journal.pbio.3004087"
-    },
-    {
-      "id": "epmc-MED-42961673",
-      "title": "CSF cytology: core principles, diagnostic pitfalls and emerging digital tools including artificial intelligence and telecytology.",
-      "titleZh": "待复核翻译：CSF cytology: core principles, diagnostic pitfalls and emerging digital tools including artificial intelligence and telecytology.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00401-026-03101-7"
-    }
-  ],
-  "missingIdentifiers": [
-    {
-      "id": "epmc-PMC-PMC13719537",
-      "title": "An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features",
-      "titleZh": "待复核翻译：An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719537"
-    },
-    {
-      "id": "epmc-PMC-PMC13719465",
-      "title": "Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies",
-      "titleZh": "待复核翻译：Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719465"
-    },
-    {
-      "id": "epmc-PMC-PMC13719892",
-      "title": "Traditional Chinese medicine-related interventions and the cGAS–STING axis in neuroinflammation: disease contexts and mechanisms of action",
-      "titleZh": "Traditional Chinese medicine-related interventions and the cGAS–STING axis in 神经炎症: disease contexts and mechanisms of action",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719892"
+      "url": "https://europepmc.org/article/PMC/PMC13725108"
     }
   ],
   "missingAbstract": [
     {
+      "id": "epmc-PMC-PMC13725057",
+      "title": "Glucocorticoid receptor modulation as a host-directed strategy for inflammatory priming across chronic disease states",
+      "titleZh": "糖皮质激素受体调节作为跨慢性疾病状态炎症启动的宿主导向策略",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定（元数据未提供摘要，无法评估研究设计与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13725057"
+    },
+    {
+      "id": "epmc-PMC-PMC13725089",
+      "title": "Adverse effects of FDA-approved RNA therapeutics: a cross-platform analysis of RNA design, delivery systems, and safety profiles",
+      "titleZh": "FDA批准RNA疗法的副作用：RNA设计、递送系统与安全性特征的跨平台分析",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法确定研究设计与证据等级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13725089"
+    },
+    {
+      "id": "epmc-PMC-PMC13727149",
+      "title": "A Standardized Approach to Non-Infectious Disease Cluster Investigations in the U.S. Department of the Air Force",
+      "titleZh": "美国空军部非传染性疾病聚集性调查的标准化方法",
+      "category": "机制",
+      "evidenceLevel": "方法学/综述性条目（原始元数据无摘要，无法进一步分级）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://europepmc.org/article/PMC/PMC13727149"
+    },
+    {
+      "id": "epmc-PMC-PMC13725108",
+      "title": "Utility of extracellular vesicles in the diagnosis of central nervous system diseases",
+      "titleZh": "细胞外囊泡在中枢神经系统疾病诊断中的应用价值",
+      "category": "机制",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://europepmc.org/article/PMC/PMC13725108"
+    },
+    {
+      "id": "epmc-MED-42972606",
+      "title": "Evidence of White Matter R<sub>2</sub>* Homogenization After Formalin Fixation.",
+      "titleZh": "福尔马林固定后白质R2*均匀化的证据",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/mrm.70646"
+    },
+    {
+      "id": "epmc-PPR-PPR1355853",
+      "title": "Association of COVID-19 with neurodegenerative and neurological disorders in vaccinated and unvaccinated people",
+      "titleZh": "待复核翻译：Association of COVID-19 with neurodegenerative and neurological disorders in vaccinated and unvaccinated people",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.10.30.26366919"
+    },
+    {
+      "id": "epmc-PPR-PPR1355835",
+      "title": "Batch Effect Correction to Enhance Utility of a Publicly Available ALS Proteomics Dataset",
+      "titleZh": "待复核翻译：Batch Effect Correction to Enhance Utility of a Publicly Available ALS Proteomics Dataset",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.64898/2026.10.27.762202"
+    },
+    {
+      "id": "epmc-MED-42952031",
+      "title": "Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [&lt;sup&gt;18&lt;/sup&gt;F]RP-115: Alternate Synthetic Method.",
+      "titleZh": "待复核翻译：Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [&lt;sup&gt;18&lt;/sup&gt;F]RP-115: Alternate Synthetic Method.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1002/jlcr.70044"
+    },
+    {
       "id": "epmc-MED-42947522",
       "title": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable Amyotrophic Lateral Sclerosis.",
-      "titleZh": "硼-神经元连接：含硼分子治疗不可治愈的肌萎缩侧索硬化症的潜力",
+      "titleZh": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable 肌萎缩侧索硬化症.",
       "category": "机制",
-      "evidenceLevel": "机制研究（来源元数据无摘要，仅题名可考）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://doi.org/10.1002/cmdc.70554"
     },
     {
+      "id": "epmc-MED-42947290",
+      "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
+      "titleZh": "待复核翻译：Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
+      "category": "生物标志物",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.1111/ene.70798"
+    },
+    {
       "id": "epmc-MED-42934178",
       "title": "Histone Modifications at the Intersection of Aging, Neuroinflammation and Metabolism in Alzheimer's Disease.",
-      "titleZh": "阿尔茨海默病中衰老、神经炎症与代谢交叉处的组蛋白修饰",
+      "titleZh": "Histone Modifications at the Intersection of Aging, 神经炎症 and Metabolism in Alzheimer's Disease.",
       "category": "生物标志物",
-      "evidenceLevel": "待人工判定（元数据无摘要，无法判断研究设计）",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.1111/acel.70785"
     },
     {
       "id": "epmc-MED-42894376",
       "title": "Diabetic Polyneuropathy Patients Exhibit an Altered Skeletal Muscle Proteome Phenotype.",
-      "titleZh": "糖尿病性多发性神经病患者表现出骨骼肌蛋白质组表型改变",
+      "titleZh": "待复核翻译：Diabetic Polyneuropathy Patients Exhibit an Altered Skeletal Muscle Proteome Phenotype.",
       "category": "机制",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 0,
@@ -203,308 +335,253 @@
       "url": "https://doi.org/10.1002/prca.70060"
     },
     {
+      "id": "epmc-MED-42880888",
+      "title": "Persistent Opioid Exposure in Older Adults With Rheumatic Disease: National Patterns, Disparities, and Cross-Specialty Prescribing.",
+      "titleZh": "待复核翻译：Persistent Opioid Exposure in Older Adults With Rheumatic Disease: National Patterns, Disparities, and Cross-Specialty Prescribing.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.3899/jrheum.2026-0220"
+    },
+    {
       "id": "epmc-MED-42864601",
       "title": "Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos.",
-      "titleZh": "优化的gGBE在哺乳动物细胞和斑马鱼胚胎中实现稳健的G-to-Y转换",
+      "titleZh": "待复核翻译：Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos.",
       "category": "机制",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.24272/j.issn.2095-8137.2025.361"
     },
     {
       "id": "epmc-MED-42562776",
       "title": "Neural stem cell-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of amyotrophic lateral sclerosis.",
-      "titleZh": "神经干细胞来源的小细胞外囊泡改善肌萎缩侧索硬化SOD1 G93A小鼠模型的疾病进展",
+      "titleZh": "Neural 干细胞-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of 肌萎缩侧索硬化症.",
       "category": "治疗",
       "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 7,
       "relevanceFlag": "high",
-      "priority": "medium",
+      "priority": "high",
       "url": "https://doi.org/10.1093/jnen/nlag013"
-    },
-    {
-      "id": "epmc-MED-42063215",
-      "title": "Lytic cell death in chronic lung diseases.",
-      "titleZh": "待复核翻译：Lytic cell death in chronic lung diseases.",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1093/ajrcmb/aanag092"
-    },
-    {
-      "id": "epmc-PMC-PMC13719537",
-      "title": "An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features",
-      "titleZh": "待复核翻译：An m5C-associated NSUN5–YBX1–CENPF programme marks melanoma cell states and immune features",
-      "category": "机制",
-      "evidenceLevel": "动物/细胞实验",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719537"
-    },
-    {
-      "id": "epmc-PMC-PMC13719465",
-      "title": "Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies",
-      "titleZh": "待复核翻译：Intranasal delivery of regenerative biologics for neurological disorders: a systematic review of clinical studies",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719465"
-    },
-    {
-      "id": "epmc-PMC-PMC13719892",
-      "title": "Traditional Chinese medicine-related interventions and the cGAS–STING axis in neuroinflammation: disease contexts and mechanisms of action",
-      "titleZh": "Traditional Chinese medicine-related interventions and the cGAS–STING axis in 神经炎症: disease contexts and mechanisms of action",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://europepmc.org/article/PMC/PMC13719892"
-    },
-    {
-      "id": "epmc-MED-42963796",
-      "title": "Patient and public involvement in amyotrophic lateral sclerosis research in Japan: a survey through nationally advertised ALS Café events and a pilot advocacy training program.",
-      "titleZh": "Patient and public involvement in 肌萎缩侧索硬化症 research in Japan: a survey through nationally advertised ALS Café events and a pilot advocacy training program.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 7,
-      "relevanceFlag": "high",
-      "priority": "low",
-      "url": "https://doi.org/10.1186/s40900-026-01000-5"
-    },
-    {
-      "id": "epmc-MED-42962081",
-      "title": "An Exceptional Mobility Group Among Older Adults: Protocol for the Super Movers Study.",
-      "titleZh": "待复核翻译：An Exceptional Mobility Group Among Older Adults: Protocol for the Super Movers Study.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.2196/104520"
-    },
-    {
-      "id": "epmc-MED-42961880",
-      "title": "Rethinking neurodegeneration: Placing disease in its physiological context.",
-      "titleZh": "待复核翻译：Rethinking neurodegeneration: Placing disease in its physiological context.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1371/journal.pbio.3004087"
-    },
-    {
-      "id": "epmc-MED-42961673",
-      "title": "CSF cytology: core principles, diagnostic pitfalls and emerging digital tools including artificial intelligence and telecytology.",
-      "titleZh": "待复核翻译：CSF cytology: core principles, diagnostic pitfalls and emerging digital tools including artificial intelligence and telecytology.",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.1007/s00401-026-03101-7"
     }
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42947290",
-      "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
-      "titleZh": "解剖学定义的運動表型揭示ALS进展、神经丝蛋白谱和生存的分离轨迹",
-      "category": "临床试验",
-      "evidenceLevel": "多中心观察性队列研究（临床试验研究）",
+      "id": "pmid-42840349",
+      "title": "Nanopore sequencing combined with adaptive sampling and NanoExpansion enables accurate characterization of repeat expansion disorders.",
+      "titleZh": "纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征",
+      "category": "遗传",
+      "evidenceLevel": "观察性临床研究（方法学验证，含验证组与测试组）",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947290/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840349/"
     },
     {
-      "id": "trial-NCT04220021",
-      "title": "Safety and Therapeutic Potential of the FDA-approved Drug Metformin for C9orf72 ALS/FTD",
-      "titleZh": "待复核翻译：Safety and Therapeutic Potential of the FDA-approved Drug Metformin for C9orf72 ALS/FTD",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
+      "id": "pmid-42975030",
+      "title": "A validated antibody toolbox for ALS research.",
+      "titleZh": "用于ALS研究的经验证抗体工具箱",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04220021"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975030/"
     },
     {
-      "id": "trial-NCT06656702",
-      "title": "Effects of Psilocybin in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Effects of Psilocybin in Patients With 肌萎缩侧索硬化症",
+      "id": "epmc-MED-42562776",
+      "title": "Neural stem cell-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of amyotrophic lateral sclerosis.",
+      "titleZh": "Neural 干细胞-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of 肌萎缩侧索硬化症.",
+      "category": "治疗",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://doi.org/10.1093/jnen/nlag013"
+    },
+    {
+      "id": "trial-NCT07875972",
+      "title": "Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07875972"
+    },
+    {
+      "id": "trial-NCT07088159",
+      "title": "Intermediate-size Patient Population Expanded Access Protocol",
+      "titleZh": "待复核翻译：Intermediate-size Patient Population Expanded Access Protocol",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07088159"
+    },
+    {
+      "id": "trial-NCT06834269",
+      "title": "Transcranial Static Magnetic Stimulation (tSMS) and Potential Theranostic Biomarkers in Amyotrophic Lateral Sclerosis.",
+      "titleZh": "Transcranial Static Magnetic Stimulation (tSMS) and Potential Theranostic 生物标志物s in 肌萎缩侧索硬化症.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06834269"
+    },
+    {
+      "id": "trial-NCT07017946",
+      "title": "Intestinal Microbiome Transplant in ALS",
+      "titleZh": "待复核翻译：Intestinal Microbiome Transplant in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07017946"
+    },
+    {
+      "id": "trial-NCT06491732",
+      "title": "EIM Via the Myolex mScan as an ALS Biomarker",
+      "titleZh": "EIM Via the Myolex mScan as an ALS 生物标志物",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06491732"
+    },
+    {
+      "id": "trial-NCT07169175",
+      "title": "A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS",
+      "titleZh": "待复核翻译：A Phase Ⅰ/Ⅱa Study of SNUG01 in Adult Subjects With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT07169175"
+    },
+    {
+      "id": "trial-NCT04150809",
+      "title": "A Study to Explore the Role of Gut Flora in ALS",
+      "titleZh": "待复核翻译：A Study to Explore the Role of Gut Flora in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04150809"
+    },
+    {
+      "id": "trial-NCT06595212",
+      "title": "Genetics and Environment iNtersection In the ALS-FTD Spectrum: an Italian Twins Cohort studY With a Multi-Omics Approach",
+      "titleZh": "待复核翻译：Genetics and Environment iNtersection In the ALS-FTD Spectrum: an Italian Twins Cohort studY With a Multi-Omics Approach",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06595212"
+    },
+    {
+      "id": "trial-NCT05021536",
+      "title": "Phase III Trial of AMX0035 for Amyotrophic Lateral Sclerosis Treatment",
+      "titleZh": "Phase III Trial of AMX0035 for 肌萎缩侧索硬化症 Treatment",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06656702"
+      "url": "https://clinicaltrials.gov/study/NCT05021536"
     },
     {
-      "id": "trial-NCT02795052",
-      "title": "Neurologic Stem Cell Treatment Study",
-      "titleZh": "Neurologic 干细胞 Treatment Study",
+      "id": "trial-NCT03948178",
+      "title": "Effects of Oral Levosimendan on Respiratory Function in Patients With Amyotrophic Lateral Sclerosis (ALS): Open-Label Extension",
+      "titleZh": "Effects of Oral Levosimendan on Respiratory Function in Patients With 肌萎缩侧索硬化症 (ALS): Open-Label Extension",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02795052"
+      "url": "https://clinicaltrials.gov/study/NCT03948178"
     },
     {
-      "id": "trial-NCT06665165",
-      "title": "AMX0114 in Adult Participants With Amyotrophic Lateral Sclerosis",
-      "titleZh": "AMX0114 in Adult Participants With 肌萎缩侧索硬化症",
+      "id": "trial-NCT03883581",
+      "title": "Impact of Nuedexta on Bulbar Physiology and Function in ALS",
+      "titleZh": "待复核翻译：Impact of Nuedexta on Bulbar Physiology and Function in ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06665165"
+      "url": "https://clinicaltrials.gov/study/NCT03883581"
     },
     {
-      "id": "trial-NCT03757351",
-      "title": "Study to Evaluate DNL747 in Subjects With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Study to Evaluate DNL747 in Subjects With 肌萎缩侧索硬化症",
+      "id": "trial-NCT04248465",
+      "title": "An Efficacy and Safety Study of Ravulizumab in ALS Participants",
+      "titleZh": "待复核翻译：An Efficacy and Safety Study of Ravulizumab in ALS Participants",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04248465"
+    },
+    {
+      "id": "trial-NCT04952155",
+      "title": "Low Dose IL-2 in the Treatment of Immune-associated ALS Syndrome",
+      "titleZh": "待复核翻译：Low Dose IL-2 in the Treatment of Immune-associated ALS Syndrome",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04952155"
+    },
+    {
+      "id": "trial-NCT04140136",
+      "title": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04140136"
+    },
+    {
+      "id": "trial-NCT02942953",
+      "title": "Diaphragmatic Pacer Placement: Anesthetic Management (DP)",
+      "titleZh": "待复核翻译：Diaphragmatic Pacer Placement: Anesthetic Management (DP)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03757351"
-    },
-    {
-      "id": "trial-NCT04866771",
-      "title": "Remotely Supervised tDCS for Slowing ALS Disease Progression",
-      "titleZh": "待复核翻译：Remotely Supervised tDCS for Slowing ALS Disease Progression",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04866771"
-    },
-    {
-      "id": "trial-NCT03019419",
-      "title": "Perampanel for Sporadic Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Perampanel for Sporadic 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03019419"
-    },
-    {
-      "id": "trial-NCT04518540",
-      "title": "Explore Neuroprotective Effect of Lipoic Acid in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Explore Neuroprotective Effect of Lipoic Acid in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04518540"
-    },
-    {
-      "id": "trial-NCT02868580",
-      "title": "Safety and Tolerability of Antiretroviral (Triumeq) in Patients With Amyotrophic Lateral Sclerosis (ALS).",
-      "titleZh": "Safety and Tolerability of Antiretroviral (Triumeq) in Patients With 肌萎缩侧索硬化症 (ALS).",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02868580"
-    },
-    {
-      "id": "trial-NCT01995903",
-      "title": "Developing a Discrimination Model to Diagnose ALS",
-      "titleZh": "待复核翻译：Developing a Discrimination Model to Diagnose ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01995903"
-    },
-    {
-      "id": "trial-NCT01504009",
-      "title": "Muscle Training of Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Muscle Training of Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01504009"
-    },
-    {
-      "id": "trial-NCT00076154",
-      "title": "National Registry of Veterans With Amyotrophic Lateral Sclerosis and DNA Bank",
-      "titleZh": "National Registry of Veterans With 肌萎缩侧索硬化症 and DNA Bank",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00076154"
-    },
-    {
-      "id": "trial-NCT01825551",
-      "title": "The Effect of GCSF in the Treatment of ALS Patients",
-      "titleZh": "待复核翻译：The Effect of GCSF in the Treatment of ALS Patients",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01825551"
-    },
-    {
-      "id": "trial-NCT00886977",
-      "title": "Efficacy and Safety of YAM80 in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Efficacy and Safety of YAM80 in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00886977"
-    },
-    {
-      "id": "trial-NCT00231140",
-      "title": "Pilot-Study of Thalidomide in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Pilot-Study of Thalidomide in 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00231140"
+      "url": "https://clinicaltrials.gov/study/NCT02942953"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 10,
-    "缺标识符": 3,
-    "缺摘要": 13,
-    "高优先级待复核": 16,
+    "疑似误收": 12,
+    "缺标识符": 4,
+    "缺摘要": 15,
+    "高优先级待复核": 18,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 43
+    "待复核": 45
   },
   "relevanceCounts": {
     "high": 27,
     "medium": 6,
-    "low": 10
+    "low": 12
   }
 }
