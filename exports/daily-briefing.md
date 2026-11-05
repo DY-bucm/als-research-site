@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-04
+更新时间：2026-11-05
 
-1. **纳米孔测序结合自适应采样与NanoExpansion可实现对重复扩增疾病的准确表征**
-   - 遗传 / 观察性临床研究（方法学验证，含验证组与测试组） / high
-   - 纳米孔自适应采样测序结合NanoExpansion可准确表征DM1、DM2、C9orf72相关ALS、FRDA、亨廷顿病和肯尼迪病等重复扩增病例，并检出长PCR会低估的超大扩增等位基因及序列中断。
-   - https://pubmed.ncbi.nlm.nih.gov/42840349/
-2. **用于ALS研究的经验证抗体工具箱**
-   - 治疗 / 动物/细胞实验 / high
-   - 303种抗体中仅部分通过敲除验证；多种ALS相关蛋白在胶质细胞中表达水平较高。
-   - https://pubmed.ncbi.nlm.nih.gov/42975030/
-3. **Neural 干细胞-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of 肌萎缩侧索硬化症.**
-   - 治疗 / 动物/细胞实验 / high
-   - Europe PMC record found, but no abstract was available in the fetched metadata.
-   - https://doi.org/10.1093/jnen/nlag013
-4. **Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With 肌萎缩侧索硬化症 (ALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07875972
-5. **待复核翻译：Intermediate-size Patient Population Expanded Access Protocol**
-   - 临床试验 / 临床试验注册 / high
-   - Status: AVAILABLE.
-   - https://clinicaltrials.gov/study/NCT07088159
-6. **Transcranial Static Magnetic Stimulation (tSMS) and Potential Theranostic 生物标志物s in 肌萎缩侧索硬化症.**
-   - 临床试验 / 临床试验注册 / high
-   - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06834269
-7. **待复核翻译：Intestinal Microbiome Transplant in ALS**
+1. **CHCHD10 R15L家系中肌萎缩侧索硬化症的临床和生化特征**
+   - 临床试验 / 动物/细胞实验 / high
+   - CHCHD10 R15L变异通过毒性功能获得机制致病，患者表现为连枷臂综合征，脑脊液CHCHD10蛋白升高约4倍，NfL和PRPH可区分患者与未患病携带者。
+   - https://pubmed.ncbi.nlm.nih.gov/41911331/
+2. **Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07017946
-8. **EIM Via the Myolex mScan as an ALS 生物标志物**
+   - https://clinicaltrials.gov/study/NCT07023835
+3. **RT001 in 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT04762589
+4. **待复核翻译：ALS Research Collaborative**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06491732
+   - https://clinicaltrials.gov/study/NCT06885918
+5. **A Biospecimen and Clinical Data Study on Patients for Drug & 生物标志物 Discovery**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT01592552
+6. **待复核翻译：Investigation of Cannabinoid 2-receptor Expression in the Brain and Spine of ALS-patients Compared to Healthy Controls With PET (18F-RoSMALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: UNKNOWN.
+   - https://clinicaltrials.gov/study/NCT05880563
+7. **Home Care Needs and Current Nursing Status of Patients With 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: UNKNOWN.
+   - https://clinicaltrials.gov/study/NCT04953481
+8. **Phase II/III 随机, Placebo-controlled Trial of Arimoclomol in SOD1 Positive Familial 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT00706147

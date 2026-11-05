@@ -1,14 +1,108 @@
 {
-  "updatedAt": "2026-11-04T02:16:33.293Z",
+  "updatedAt": "2026-11-05T02:21:55.827Z",
   "period": {
     "days": 10,
-    "from": "2026-10-26",
-    "to": "2026-11-04"
+    "from": "2026-10-27",
+    "to": "2026-11-05"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 38,
+  "count": 46,
   "articles": [
+    {
+      "id": "pmid-42980747",
+      "pmid": "42980747",
+      "doi": "10.1007/s11033-026-13064-3",
+      "title": "Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
+      "abstract": "Neurodegenerative diseases (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), and multiple sclerosis (MS), represent a growing global public health burden with limited therapeutic options. Plant polysaccharides are natural, biocompatible, and multi-target bioactive macromolecules that have emerged as promising candidates for ND intervention. This review systematically summarizes recent progress in elucidating the structural characteristics, structure-activity relationships, and neuroprotective mechanisms of plant polysaccharides. Key structural features such as molecular weight, monosaccharide composition, glycosidic bond configuration, and spatial conformation critically modulate the biological activity of these molecules. Furthermore, we summarize the numerous protective effects of plant polysaccharides against NDs, including inhibiting abnormal protein aggregation, alleviating oxidative stress via the Nrf2/HO-1 pathway, suppressing neuroinflammation through the NF-κB and MAPK signaling pathways, regulating neuronal apoptosis, and modulating the gut-brain axis. Clinical translation challenges, primarily blood-brain barrier penetration, structural heterogeneity, and insufficient clinical validation, are discussed. Future directions include developing advanced delivery systems, conducting large-scale randomized controlled trials, and exploring synergistic combination therapies. Collectively, plant polysaccharides show considerable promise as potential multi-target candidates for the intervention of NDs, although further studies are needed to clarify their therapeutic potential and facilitate clinical translation.",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "He BH",
+        "Yang W",
+        "Yang M",
+        "Lv X",
+        "Zhao JJ"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980747/"
+    },
+    {
+      "id": "pmid-41911331",
+      "pmid": "41911331",
+      "doi": "10.1093/brain/awag115",
+      "title": "Clinical and biochemical characterization of amyotrophic lateral sclerosis in a CHCHD10 R15L family.",
+      "abstract": "Familial forms of amyotrophic lateral sclerosis (ALS) are potential candidates for gene-directed therapies, but many recently identified genes remain poorly characterized. Here, we provide a comprehensive clinical, neuropathological and biochemical description of familial ALS (fALS) caused by the heterozygous p.R15L missense mutation in the gene CHCHD10. Using a cross-sectional study design, we evaluated five affected and nine unaffected individuals from a large seven-generation pedigree with at least 68 affected members. The pedigree suggests a high (68%-81%) but incomplete disease penetrance. Through cloning of the disease allele from distant members of the family, we establish the disease haplotype in the family. Notably, the haplotype was distinct from that of a previously reported p.R15L mutation carrier with ALS, demonstrating that the variant is in a mutational hotspot. The clinical presentation was notable for being highly stereotyped; all affected individuals presented with the rare ALS variant flail arm syndrome (FAS; also known as brachial amyotrophic diplegia or Vulpian-Bernhardt syndrome), suggesting greater involvement of the cervical spinal cord. Consistently, neuropathology from one family member demonstrated substantially increased CHCHD10 protein aggregation and neuronal loss (though absent TDP-43 pathology) in the cervical versus lumbar spinal cord. This FAS phenotype could be captured by a simple timed finger-tapping task, suggesting potential utility for this task as a clinical biomarker. Additionally, through analysis of fibroblast lines from 12 mutation carriers, isogenic induced pluripotent stem cells and a knock-in mouse model, we determined that CHCHD10 with the R15L variant is stably expressed and retains substantial function both in cultured cells and in vivo, in contrast to prior reports. Conversely, we find loss-of-function (LoF) variants are more common in the population but are not associated with a highly penetrant form of ALS in the UK Biobank (31 in controls; 0 in cases). Together, this argues against LoF and in favour of toxic gain-of-function as the mechanism of disease pathogenesis, similar to the myopathy-causing variants in CHCHD10 (p.G58R and p.S59L). Finally, through proteomic analysis of CSF of variant carriers, we identify that CHCHD10 protein levels are elevated approximately 4-fold in mutation carriers, and that affected and unaffected individuals are differentiated by elevation of two neurofilaments: neurofilament light chain (NfL) and peripherin (PRPH). Collectively, our findings help set the stage for gene-directed therapy for a devasting form of fALS, by establishing the likely disease mechanism and identifying clinical and fluid biomarkers for target engagement and treatment response.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Kwan JY",
+        "Lantz CI",
+        "Korobeynikov VA",
+        "Snyder A",
+        "Huang X",
+        "Haselhuhn T",
+        "Dore KN",
+        "Madruga A",
+        "Danielian LE",
+        "Schindler AB",
+        "Chia R",
+        "Rasheed M",
+        "Crook J",
+        "Szabo M",
+        "Portley M",
+        "Sherer CM",
+        "King MC",
+        "Huang TH",
+        "Kosa P",
+        "Bielekova B",
+        "Ward ME",
+        "Grunseich C",
+        "Shneider NA",
+        "Traynor BJ",
+        "Narendra DP"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41911331/"
+    },
+    {
+      "id": "pmid-41804798",
+      "pmid": "41804798",
+      "doi": "10.1093/brain/awag096",
+      "title": "Cofilin hyperphosphorylation triggers TDP-43 pathology in sporadic amyotrophic lateral sclerosis.",
+      "abstract": "Pathological forms of TAR-binding protein 43 (TDP-43), involving its aberrant mislocalization to the cytoplasm, inclusion formation, hyperphosphorylation and fragmentation, are present in ∼45%-50% frontotemporal dementia and Alzheimer's disease individuals and most (97%) amyotrophic lateral sclerosis (ALS) cases. Hence, identifying mechanisms that induce TDP-43 pathology are central to neurodegeneration and developing new therapeutic targets in these conditions. Cofilin is a multifunctional protein with a crucial role in regulating the actin cytoskeleton. Actin has important neuronal-specific activities in dendritic spines, axonal growth cones and synapses and it is in constant equilibrium between two forms: monomeric globular actin (G-actin) and polymeric filamentous actin (F-actin). Cofilin controls actin dynamics by depolymerizing and severing actin filaments. When cofilin is phosphorylated (at serine-3, Ser3) by LIM kinase1 (LIMK1), it becomes inactive, leading to production of more F-actin. Defects in cofilin are well described in other neurodegenerative disorders, unlike in ALS. We examined phosphorylation of cofilin and actin dynamics in post-mortem spinal cord tissue from sporadic ALS (SALS) patients, the TDP-43 rNLS8 transgenic mouse model and NSC-34 motor neuronal cells expressing cytoplasmic TDP-43. F-actin was pharmacologically stabilized to mimic cofilin hyperphosphorylation and TDP-43 pathology was assessed. Neuronal cells were treated with a non-phosphorylatable cofilin S3A peptide (MAAGVAVSDGVIKVFN) and TDP-43 pathology and apoptosis were evaluated. Here, we show that cofilin is hyperphosphorylated in human ALS and disease models compared to controls. This was detected in spinal motor neurons from SALS patients and a TDP-43 mouse model (rNLS8) displaying key ALS phenotypes, and in motor neuronal NSC-34 cells expressing cytoplasmic TDP-43. Supporting this observation, more F-actin relative to G-actin was present in cortical/spinal cord lysates from SALS patients and TDP-43 rNLS8 mice, and NSC-34 cells expressing TDP-43. We also show that mimicking cofilin hyperphosphorylation by pharmacological stabilization of F-actin induced TDP-43 pathology: cytoplasmic mislocalization, inclusion formation, hyperphosphorylation and fragmentation, and promoted its recruitment into stress granules (SGs). Furthermore, we detected increased levels of LIMK1 phosphorylation and tropomyosin isoforms 4.1 and 4.2 in SALS patients. These findings reveal aberrant cofilin hyperphosphorylation disrupts actin dynamics, triggering TDP-43 pathology and SG recruitment in SALS. They imply that preventing cofilin phosphorylation is a novel therapeutic strategy applicable to most ALS cases. Treatment of neuronal cells with the S3A peptide prevented features of TDP-43 pathology and apoptosis compared to control peptides. These findings thus describe a novel pathogenic mechanism producing TDP-43 pathology, applicable to most ALS cases and other neurodegenerative diseases.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Jagaraj CJ",
+        "Saravanabavan S",
+        "Parakh S",
+        "Jayakumar M",
+        "Kashani SA",
+        "Shadfar S",
+        "Mehta P",
+        "Gautam S",
+        "Farzana F",
+        "Suchowerska AK",
+        "Yap K",
+        "Vidal M",
+        "Ragagnin AMG",
+        "Jamali MS",
+        "Yang S",
+        "Fath T",
+        "Craik D",
+        "Atkin JD"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41804798/"
+    },
     {
       "id": "pmid-42975618",
       "pmid": "42975618",
@@ -27,6 +121,95 @@
       ],
       "publishedAt": "2026-11-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975618/"
+    },
+    {
+      "id": "pmid-41830063",
+      "pmid": "41830063",
+      "doi": "10.1093/brain/awag102",
+      "title": "HML-2 env knockdown by AAV9-mediated miRNAs attenuates amyotrophic lateral sclerosis-like manifestations in mice.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease, for which there is no cure. Although the precise aetiology of ALS remains elusive, growing evidence suggests a pathogenic role for human endogenous retrovirus-K (HERV-K) in ALS. Expression of HERV-K subtype HML-2 envelope protein in neurons causes neurotoxicity in vitro and induces ALS-like symptoms in mice. We investigated the use of adeno-associated virus-9 (AAV9)-mediated artificial microRNA (amiRNA) targeting the HML-2 env gene in an ALS mouse model. From an in vitro screen of amiRNAs targeting the HML-2 env gene, three were chosen and inserted in tandem into an AAV9 vector and validated in vitro. This approach provided robust silencing of the transgene, with tandem amiRNA achieving robust reduction in gene and protein expression levels. Its therapeutic effectiveness was tested in an HML-2 Env transgenic mouse model, in which the env gene is expressed under the neuron-specific thy1 promoter and develops an ALS-like phenotype. A single intracerebroventricular injection of AAV9 vector encoding the amiRNAs into the mice at postnatal Day 1 effectively reduced HML-2 Env expression in the brain and spinal cord at 84 days post-injection, which was the latest time point studied. Knockdown of HML-2 env decreased the loss of cortical and spinal motor neurons and alleviated muscle fibre degeneration and fibre-type grouping. This led to improved motor function. Our results provide compelling evidence supporting the use of multiple amiRNAs delivered in an AAV9 vector for treating forms of ALS linked to HML-2.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Lee MH",
+        "Li W",
+        "Sampson K",
+        "Choi S",
+        "Jones M",
+        "Steiner J",
+        "Nath A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41830063/"
+    },
+    {
+      "id": "pmid-42980369",
+      "pmid": "42980369",
+      "doi": "10.1039/d6ay01718e",
+      "title": "Integrative spatial metallomics: a tutorial review of multimodal elemental imaging workflows, challenges and opportunities.",
+      "abstract": "Spatially resolved molecular assays are increasingly used to study human health and disease, revealing complex tissue organization beyond what is accessible through bulk analyses. While spatial transcriptomic, metabolomic, and proteomic approaches have rapidly matured, quantitative mapping of metals and trace elements in biological tissues and biominerals through elemental imaging remains comparatively nascent. Elemental distributions alone often provide limited biological interpretation without contextualization within the tissue microenvironment. Here, we summarize themes and computational strategies for integrating spatial elemental data with histopathology and complementary spatial molecular assays. We highlight multimodal approaches for tissue alignment, pixel-wise clustering, and correlative analysis, illustrated through limited use cases involving amyotrophic lateral sclerosis (ALS) and kidney stone formation. In the ALS cohort, pixel-level elemental profiles were clustered and compared with annotated tissue structures. In the kidney stone cohort, spatial gradients and correlations in elemental and biomolecular features from the renal papilla through the medulla to cortex were examined. Finally, we discuss key challenges for cross-sample, cohort-level analyses, including differences in spatial resolution, normalization, tissue architecture, and mechanistic inference. Addressing these challenges will require interdisciplinary collaboration, enhanced biobanking practices, and development of computational and statistical frameworks.",
+      "journal": "Analytical methods : advancing methods and applications",
+      "authors": [
+        "Kumar N",
+        "Paruchuri N",
+        "Punshon T",
+        "Jackson B",
+        "Cornell K",
+        "Stommel E",
+        "Deosthali H",
+        "Ravikumar V",
+        "Mostafa E",
+        "Palisoul S",
+        "Vaickus L",
+        "Ho S",
+        "Levy J"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980369/"
+    },
+    {
+      "id": "pmid-42979863",
+      "pmid": "42979863",
+      "doi": "10.1080/1061186X.2026.2759730",
+      "title": "Liposomal Delivery of a Riluzole-Butyric Acid Mutual Prodrug Enhances Neuroprotection and Cognitive Recovery in Experimental Alzheimer's Disease.",
+      "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, impaired synaptic signaling, and persistent neuroinflammation. Current therapies primarily provide symptomatic relief and have limited effects on disease progression. Riluzole, approved for amyotrophic lateral sclerosis, exhibits neuroprotective effects through modulation of glutamatergic signaling, but its poor oral bioavailability limits its therapeutic potential. Butyric acid, a short-chain fatty acid postbiotic produced by gut microbial fermentation, possesses well-established anti-inflammatory and neuroprotective properties. In this study, a mutual prodrug of riluzole and butyric acid was synthesized and encapsulated into liposomes to investigate its effects on drug distribution and preclinical efficacy. The prodrug-loaded liposomes exhibited an average particle size of 322 nm, zeta potential of -7.95 mV, and entrapment efficiency of 43.49%. Oral administration significantly improved cognitive performance and attenuated neuroinflammation and oxidative stress in an AlCl 3 -induced AD-like rat model. Administration of prodrug-loaded liposomes led to the highest concentrations of riluzole in brain homogenates among the relevant treatment groups. Overall, the prodrug-loaded liposomes demonstrated better therapeutic efficacy than the prodrug suspension, individual drug-loaded liposomes, and their respective conventional formulations. The enhanced therapeutic performance is attributed to the complementary pharmacological actions of riluzole and butyric acid, combined with the ability of the liposomal system to improve drug bioavailability and facilitate cerebral delivery.",
+      "journal": "Journal of drug targeting",
+      "authors": [
+        "Choudhury AK",
+        "Rani P",
+        "Gupta R",
+        "Gulati M",
+        "Kapoor B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979863/"
+    },
+    {
+      "id": "pmid-42980086",
+      "pmid": "42980086",
+      "doi": "10.1021/acschemneuro.6c00479",
+      "title": "Protein Isoaspartate Repair in Amyotrophic Lateral Sclerosis: An Integrative Bioinformatic Analysis of the PCMT Gene Family.",
+      "abstract": "Protein homeostasis is a fundamental determinant of neuronal survival, and its disruption contributes to the pathogenesis of amyotrophic lateral sclerosis (ALS). Protein L-isoaspartate O-methyltransferases (PCMTs) are evolutionarily conserved proteins involved in the recognition and processing of damaged proteins through the repair of isoaspartyl residues and protein quality-control pathways; however, their potential involvement in ALS remains largely unexplored. Here, we performed a comprehensive in silico characterization of the PCMT family (PCMT1, PCMTD1, and PCMTD2) by integrating structural, transcriptomic, single-cell, genetic, and protein modeling analyses. Domain analysis demonstrated that all three proteins share a conserved PCMT domain, while predicted S-adenosylmethionine-binding motifs were identified in PCMT1 and PCMTD2 but not PCMTD1, indicating evolutionary conservation with functional divergence. Expression profiling revealed that PCMT family genes are expressed in ALS-relevant tissues and broadly distributed across neuronal, glial, vascular, and immune cell populations in both healthy and ALS-associated brain single-cell data sets. Analysis of multiple independent ALS transcriptomic cohorts identified consistent upregulation of PCMT family members, with PCMTD1 exhibiting the most reproducible disease-associated expression changes across nervous system tissues and peripheral blood. Gene set correlation analyses further revealed distinct relationships between PCMT expression and neuronal pathways, with PCMT1 showing positive associations with axonal transport and synaptic signaling, whereas PCMTD1 and PCMTD2 displayed largely inverse correlation patterns. Rare missense variants identified in ALS patients were predicted to impair protein function and decrease protein stability, while structural modeling suggested that several substitutions may disrupt conserved residues and the local protein architecture. Collectively, these findings identify the PCMT family as previously underexplored candidates associated with ALS and provide a comprehensive framework for future mechanistic studies investigating their roles in neuronal protein homeostasis and neurodegeneration.",
+      "journal": "ACS chemical neuroscience",
+      "authors": [
+        "Yardimci BI",
+        "Zurel AG",
+        "Biterge B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980086/"
     },
     {
       "id": "pmid-42975030",
@@ -79,6 +262,26 @@
       ],
       "publishedAt": "2026-11-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975030/"
+    },
+    {
+      "id": "pmid-42977228",
+      "pmid": "42977228",
+      "doi": "10.1016/j.jpainsymman.2026.10.030",
+      "title": "Cancer versus Non-Cancer Patients Admitted to Hospice: a comparison study.",
+      "abstract": "Malignant disease remains the leading reason for hospice admission, and direct, patient-level comparisons of cancer and non-cancer patients within the same residential hospice are scarce. To compare sociodemographic and clinical characteristics, symptom burden, nutritional support, length of stay and outcome between oncological and non-oncological patients admitted to a single hospice. Prospective observational cohort study of 175 consecutive admissions over one year, after removal of duplicate records. Patients were classified as oncological (n=151, 86.3%) or non-oncological (n=24, 13.7%) based on structured case report form fields. Sociodemographic, functional (Karnofsky Performance Status, KPS), nutritional, symptom (Edmonton Symptom Assessment System, ESAS) and cognitive (Memorial Delirium Assessment Scale, MDAS) data were collected at admission (T0); ESAS completion was also examined at 1 week (T7). Categorical variables were compared with the chi-square or Fisher's exact test, continuous variables (reported as median and interquartile range, including ESAS and MDAS scores) with the Mann-Whitney U test; p-values were adjusted for multiple comparisons with the Benjamini-Hochberg procedure (q). Most non-oncological patients had a neurological disease (21/24), mainly neurodegenerative diseases, amyotrophic lateral sclerosis and dementia. Non-oncological patients were older (median 78.5 vs 72 years, P=0.002, q=0.012) and had worse performance status at admission (median KPS 20 vs 30, P<0.001, q=0.006). Artificial nutrition was more frequent among non-oncological patients (37.5% vs 14.9%, P=0.018), although not after correction for multiple comparisons (q=0.060). MDAS scores were higher in non-oncological patients (median 13 vs 4, P=0.021). ESAS data were missing in about half of oncological and three quarters of non-oncological patients; no ESAS item differed between groups after correction for multiple comparisons, and the non-oncological group's valid ESAS sample fell to a single patient by T7. Length of stay (11 vs 8 days, P=0.518) and in-hospice mortality (80.0% vs 70.8%, P=0.455) did not differ significantly. In this single-centre series, non-oncological patients, mostly affected by neurological diseases, were admitted older, more functionally compromised and with higher MDAS scores than oncological patients, despite comparable length of stay and mortality. Apparent differences in symptom burden are confounded by substantial, likely informative, missing data and should be interpreted with caution. Whether these differences reflect later referral or the age profile of the underlying diseases cannot be determined from these data.",
+      "journal": "Journal of pain and symptom management",
+      "authors": [
+        "Mercadante S",
+        "Travia M",
+        "Scimone P",
+        "Dabbene M",
+        "Cascio AL"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977228/"
     },
     {
       "id": "pmid-42974926",
@@ -284,6 +487,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42952031/"
     },
     {
+      "id": "pmid-42977507",
+      "pmid": "42977507",
+      "doi": "10.1111/ejn.70746",
+      "title": "Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia.",
+      "abstract": "Brain aging is the principal risk factor for both neurodegenerative diseases (NDDs) and cerebral ischemic disorders, yet the subcellular mechanisms linking these conditions remain incompletely defined. Mitochondria-associated membranes (MAMs)-specialized contact sites between the endoplasmic reticulum (ER) and mitochondria-sit at the intersection of two well-established hallmarks of aging, mitochondrial dysfunction, and loss of proteostasis, making them an attractive mechanistic node for understanding age-related brain decline. In this review, we propose a MAM-centered framework that unifies neurodegenerative and ischemic brain pathology under the broader paradigm of brain aging. We first summarize the molecular architecture of MAMs and their core functions in neuronal Ca 2+ transfer, mitochondrial dynamics, lipid metabolism, inflammasome assembly, and autophagic quality control, together with emerging evidence from non-neuronal brain cells. We then examine how MAM dysfunction intersects with five hallmarks of aging-mitochondrial dysfunction, loss of proteostasis, disabled macroautophagy, chronic inflammation (inflammaging), and altered intercellular communication-drawing on evidence from physiological aging and cellular senescence models. Next, we discuss disease-specific roles of MAMs in cerebral ischemia and in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. A central theme emerges: Rather than a unidirectional decline of MAMs, brain aging is associated with a loss of MAM homeostasis, in which both insufficient and excessive ER-mitochondria coupling can be pathological and the shared deficit is the failure to maintain contact-site function within an optimal range. Finally, we consider age-relevant therapeutic and biomarker strategies targeting MAMs and their potential translation into geriatric neurology. To our knowledge, this is the first review to integrate MAM biology across physiological brain aging, cerebral ischemia, and the four major NDDs within a single homeostatic framework, offering a unified perspective on the mechanisms of age-related brain decline.",
+      "journal": "The European journal of neuroscience",
+      "authors": [
+        "Li M",
+        "Xu D",
+        "Li Y",
+        "Zhao Q"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977507/"
+    },
+    {
       "id": "pmid-42562776",
       "pmid": "42562776",
       "doi": "10.1093/jnen/nlag013",
@@ -309,6 +532,26 @@
       ],
       "publishedAt": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42562776/"
+    },
+    {
+      "id": "pmid-42804712",
+      "pmid": "42804712",
+      "doi": "10.1097/NRL.0000000000000694",
+      "title": "Neuroepigenetics of the Environmental Exposome: Molecular and Clinical Implications in Neurodegeneration.",
+      "abstract": "Neuroepigenetics studies the molecular mechanisms that regulate gene expression in the nervous system without altering the DNA sequence. The environmental exposome has emerged as a key factor influencing neuronal plasticity and brain homeostasis, contributing to vulnerability to neurodegeneration. This narrative review analyzes the role of neuroepigenetic reprogramming as a central mechanism linking chronic environmental exposures with neurodegenerative diseases. Evidence indicates that alterations in DNA methylation, histone remodeling, and microRNA regulation contribute to mitochondrial dysfunction, oxidative stress, and chronic neuroinflammation. These mechanisms are critically involved in the pathogenesis of Alzheimer disease, Parkinson disease, and amyotrophic lateral sclerosis. Neuroepigenetics represents a central mechanistic axis in neurodegeneration by integrating environmental exposures with intrinsic biological processes. This framework offers new opportunities for the development of early biomarkers and targeted preventive and therapeutic strategies.",
+      "journal": "The neurologist",
+      "authors": [
+        "Avendaño-Arango E",
+        "Salom-Palacio I",
+        "Castillo-Támara EE",
+        "Palacio-Villalba B"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804712/"
     },
     {
       "id": "pmid-42963796",
@@ -460,6 +703,27 @@
       ],
       "publishedAt": "2026-10-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42954000/"
+    },
+    {
+      "id": "pmid-42976580",
+      "pmid": "42976580",
+      "doi": "10.1016/j.redox.2026.104462",
+      "title": "Lack of NRF2 expression alters the dynamics of stress granules promoting the aggregation of ALS disease-associated proteins.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder characterized by progressive motor neuron death. Although ALS pathogenesis is multifactorial, increasing evidence highlights a close interplay between dysfunction of RNA metabolism and redox imbalance in disease progression. Redox perturbation converges with RNA dysregulation at the level of the dynamics of stress granules, transient ribonucleoprotein assemblies implicated in protein aggregation, in ALS. The redox-sensitive transcription factor NRF2 (Nuclear factor erythroid 2-related factor 2) plays a pivotal role in cellular homeostasis, yet its function and regulation remain poorly defined in ALS. In this study, we explore how NRF2 modulates stress granule dynamics under oxidative and non-oxidative stress conditions. Using live-cell imaging, we reveal that NRF2 deficiency enhances the formation of stress granules in response to oxidative and non-oxidative stressors, facilitates their persistence, and promotes increased stress granule recruitment of ALS-linked proteins such as TDP-43 and FUS. Likewise, we uncover a protective role of pharmacological NRF2 activation in limiting exacerbated stress granule responses in iPSC-derived motor neurons from C9orf72-ALS patients and show how NRF2 activation can impact TDP-43 aggregation and loss of function in SH-SY5Y cells. Together, these findings position NRF2 as a crucial integrator of redox signalling and RNA metabolism in ALS pathogenesis. Targeting NRF2 may offer novel therapeutic avenues to counteract the vicious cycle of oxidative stress, dysfunctional stress granule dynamics, and protein aggregation in motor neuron disease.",
+      "journal": "Redox biology",
+      "authors": [
+        "Jiménez-Villegas J",
+        "Carnicero-Senabre D",
+        "Sicart A",
+        "Van Den Bosch L",
+        "Cuadrado A",
+        "Rojo AI"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976580/"
     },
     {
       "id": "pmid-42966271",
@@ -925,71 +1189,6 @@
       ],
       "publishedAt": "2026-10-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42947411/"
-    },
-    {
-      "id": "pmid-42933747",
-      "pmid": "42933747",
-      "doi": "10.1016/j.resp.2026.104667",
-      "title": "Diaphragm reserve utilisation in motor neurone disease: A novel ultrasound-derived physiological index.",
-      "abstract": "Respiratory involvement is a major determinant of prognosis in motor neurone disease (MND; or amyotrophic lateral sclerosis), yet conventional static respiratory measures provide limited information about how much available diaphragm thickening capacity is recruited during quiet breathing. We evaluated diaphragm reserve utilisation (RU), an ultrasound-derived ratio of tidal diaphragm thickening relative to maximal diaphragm thickening, as a novel physiological descriptor in MND. In a prospective observational study, 38 patients with MND and 20 healthy controls underwent right hemidiaphragm ultrasound to measure thickness at end-tidal expiration, peak tidal inspiration and peak maximal inspiration. Thickening fractions and RU were calculated. Between-group differences in diaphragm ultrasound indices were assessed. Secondary analyses examined relationships between RU, respiratory function and survival. Tidal diaphragm thickening fraction was similar between patients with MND and controls, whereas maximal thickening fraction was lower in MND, resulting in higher RU in MND than controls. This pattern indicates that patients with MND maintained tidal diaphragm thickening while using a greater proportion of their available maximal thickening capacity. Higher RU was also associated with shorter survival, supporting its potential physiological and clinical relevance. Diaphragm reserve utilisation describes the proportion of measured diaphragm thickening capacity recruited during tidal breathing. Patients with MND demonstrated preserved tidal thickening despite reduced maximal thickening capacity, resulting in higher RU than healthy controls. This supports RU as a novel physiological index of relative diaphragm thickening reserve utilisation. The relationship between RU and survival warrants validation in larger prospective cohorts.",
-      "journal": "Respiratory physiology & neurobiology",
-      "authors": [
-        "Gray EL",
-        "McGuiness O",
-        "Menadue C",
-        "Piper A",
-        "Wong K",
-        "Kiernan MC",
-        "Yee BJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42933747/"
-    },
-    {
-      "id": "pmid-42934032",
-      "pmid": "42934032",
-      "doi": "10.1016/j.neurol.2026.09.012",
-      "title": "Motor neuron disease and parkinsonism in a patient with a pathogenic CSF1R variant.",
-      "abstract": "",
-      "journal": "Revue neurologique",
-      "authors": [
-        "Pinto WBVR",
-        "Sgobbi P",
-        "Alvarenga EC",
-        "Mesquita VA",
-        "Oliveira ASB",
-        "Orsini M"
-      ],
-      "publicationTypes": [
-        "Letter"
-      ],
-      "publishedAt": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934032/"
-    },
-    {
-      "id": "pmid-42934968",
-      "pmid": "42934968",
-      "doi": "10.1002/mus.70443",
-      "title": "Respiratory Phenotypes for Stratifying and Predicting Survival in ALS.",
-      "abstract": "Phenotypic heterogeneity in amyotrophic lateral sclerosis (ALS) is an obstacle to stratification and survival prediction and is not sufficiently accounted for in clinical practice or trial design. We aimed to identify respiratory phenotypes to allow stratification and survival prediction in ALS. We retrospectively analyzed 292 ALS patients. Data included demographics, disease-related characteristics, and respiratory measurements (initial predicted forced vital capacity [FVC] and 3-month decline slope). Survival analysis was performed using Kaplan-Meier estimates and Cox regression. We defined four respiratory phenotypes based on dichotomized predicted FVC at the initial visit and its 3-month decline slope: (1) initial high, slow decline (IHSD), (2) initial high, fast decline (IHFD), (3) initial low, slow decline (ILSD), and (4) initial low, fast decline (ILFD). Patients with an initial predicted FVC above the median had a median survival of 33 months, compared to 15 months for those below the median (p < 0.0001). The highest quartile had an almost threefold survival advantage over the lowest quartile (37 vs. 13 months, p < 0.0001). A 3-month slope at or above the median predicted longer survival (33 vs. 14 months, p < 0.0001). Survival varied across respiratory phenotypes, ranging from 41 months in IHSD to 11 months in ILFD-with all comparisons being significant (p ≤ 0.0012) except for ILSD vs. IHFD. Defining respiratory phenotypes in ALS may allow tailored research within those subgroups, biomarker correlations, more accurate prognostication, and stratification in clinical trials based on phenotype-specific disease progression.",
-      "journal": "Muscle & nerve",
-      "authors": [
-        "Seyam M",
-        "Thompson R",
-        "Luo J",
-        "Skelly J",
-        "Waheed W",
-        "van den Berg L",
-        "Tandan R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934968/"
     }
   ]
 }
