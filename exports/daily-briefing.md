@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-05
+更新时间：2026-11-06
 
-1. **CHCHD10 R15L家系中肌萎缩侧索硬化症的临床和生化特征**
-   - 临床试验 / 动物/细胞实验 / high
-   - CHCHD10 R15L变异通过毒性功能获得机制致病，患者表现为连枷臂综合征，脑脊液CHCHD10蛋白升高约4倍，NfL和PRPH可区分患者与未患病携带者。
-   - https://pubmed.ncbi.nlm.nih.gov/41911331/
-2. **Usnoflast Neuromuscular Investigation for Treatment Efficacy in 肌萎缩侧索硬化症**
+1. **Acamprosate in C9orf72 Hexanucleotide Repeat Expansion 肌萎缩侧索硬化症 (ACALS)**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07023835
-3. **RT001 in 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT07204977
+2. **待复核翻译：Comparison of NeuroEXPLORER PET/CT Versus Standard-of-care PET/CT of the Head and Neck Region.**
    - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04762589
-4. **待复核翻译：ALS Research Collaborative**
+   - Status: ENROLLING_BY_INVITATION.
+   - https://clinicaltrials.gov/study/NCT07595666
+3. **AMX0114 in Adult Participants With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06885918
-5. **A Biospecimen and Clinical Data Study on Patients for Drug & 生物标志物 Discovery**
+   - https://clinicaltrials.gov/study/NCT06665165
+4. **Kamlanoflast In 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07396818
+5. **肌萎缩侧索硬化症: A Multicenter Retrospective Observational Registry**
+   - 临床试验 / 临床试验注册 / high
+   - Status: ACTIVE_NOT_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07143656
+6. **待复核翻译：Exploratory Evaluation of [11C]MPC6827**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT01592552
-6. **待复核翻译：Investigation of Cannabinoid 2-receptor Expression in the Brain and Spine of ALS-patients Compared to Healthy Controls With PET (18F-RoSMALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: UNKNOWN.
-   - https://clinicaltrials.gov/study/NCT05880563
-7. **Home Care Needs and Current Nursing Status of Patients With 肌萎缩侧索硬化症**
-   - 临床试验 / 临床试验注册 / high
-   - Status: UNKNOWN.
-   - https://clinicaltrials.gov/study/NCT04953481
-8. **Phase II/III 随机, Placebo-controlled Trial of Arimoclomol in SOD1 Positive Familial 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT04575727
+7. **待复核翻译：A First in Human Study of ORT247 in Healthy Volunteers**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT00706147
+   - https://clinicaltrials.gov/study/NCT06769620
+8. **A I 期, SAD and MAD Study to Evaluate the Safety and Tolerability of FB418**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT05995782
