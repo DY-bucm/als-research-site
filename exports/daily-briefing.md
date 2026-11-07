@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-06
+更新时间：2026-11-07
 
-1. **Acamprosate in C9orf72 Hexanucleotide Repeat Expansion 肌萎缩侧索硬化症 (ACALS)**
+1. **TNKS/PI31-蛋白酶体轴作为TDP-43神经病变的核心节点**
+   - 临床试验 / 动物/细胞实验 / high
+   - 病理性TDP-43通过隔离TNKS、减少PI31 ADP-核糖基化而损害19S/20S蛋白酶体组装和轴突运输，破坏TNKS/PI31/蛋白酶体轴。
+   - https://pubmed.ncbi.nlm.nih.gov/42983429/
+2. **Pridopidine III 期 Study to Evaluate Efficacy and Safety in ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07204977
-2. **待复核翻译：Comparison of NeuroEXPLORER PET/CT Versus Standard-of-care PET/CT of the Head and Neck Region.**
-   - 临床试验 / 临床试验注册 / high
-   - Status: ENROLLING_BY_INVITATION.
-   - https://clinicaltrials.gov/study/NCT07595666
-3. **AMX0114 in Adult Participants With 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT07322003
+3. **TP04HN106 in the Treatment of Patients With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06665165
-4. **Kamlanoflast In 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT06726577
+4. **Developing a Comprehensive 生物标志物 Panel for Monitoring Progression and Early Detection in ALS Patients**
    - 临床试验 / 临床试验注册 / high
    - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07396818
-5. **肌萎缩侧索硬化症: A Multicenter Retrospective Observational Registry**
+   - https://clinicaltrials.gov/study/NCT07737977
+5. **Evaluation of the Feasibility and Efficacy of a Chronic 脑机接口 for Speech Rehabilitation in Patients With Locked-in-syndrome (LIS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07698496
+6. **待复核翻译：An IIT Clinical Study to Evaluate the Safety and Efficacy of a Single Intrathecal Injection of RJK002 in Patients With ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07143656
-6. **待复核翻译：Exploratory Evaluation of [11C]MPC6827**
+   - https://clinicaltrials.gov/study/NCT06454682
+7. **A I 期 Study to Investigate the Safety and Pharmacokinetics of Fosigotifator in Patients With 肌萎缩侧索硬化症**
+   - 临床试验 / 临床试验注册 / high
+   - Status: TERMINATED.
+   - https://clinicaltrials.gov/study/NCT04948645
+8. **待复核翻译：Optimizing BCI-FIT: Brain Computer Interface - Functional Implementation Toolkit**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04575727
-7. **待复核翻译：A First in Human Study of ORT247 in Healthy Volunteers**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT06769620
-8. **A I 期, SAD and MAD Study to Evaluate the Safety and Tolerability of FB418**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT05995782
+   - https://clinicaltrials.gov/study/NCT04468919

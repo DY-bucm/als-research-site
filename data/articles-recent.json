@@ -1,14 +1,81 @@
 {
-  "updatedAt": "2026-11-06T02:22:28.922Z",
+  "updatedAt": "2026-11-07T01:53:20.181Z",
   "period": {
     "days": 10,
-    "from": "2026-10-28",
-    "to": "2026-11-06"
+    "from": "2026-10-29",
+    "to": "2026-11-07"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 37,
   "articles": [
+    {
+      "id": "pmid-42992452",
+      "pmid": "42992452",
+      "doi": "10.1002/mus.70454",
+      "title": "Leuprorelin Acetate for Spinal and Bulbar Muscular Atrophy: A Systematic Review of Clinical Efficacy, Long-Term Outcomes, and Safety Considerations.",
+      "abstract": "Spinal and bulbar muscular atrophy (SBMA; Kennedy disease) is a rare X-linked neuromuscular disorder caused by a CAG repeat expansion in the androgen receptor gene. Leuprorelin acetate, a luteinizing hormone-releasing hormone agonist, suppresses androgen signaling and is approved for SBMA-associated dysphagia in Japan; however, evidence regarding efficacy remains heterogeneous. PubMed and Embase were searched from inception through June 18, 2026, for studies evaluating leuprorelin in genetically confirmed SBMA. Randomized trials, observational cohorts, natural history-controlled studies, extension studies, and safety case reports were included, and findings were synthesized narratively because of substantial heterogeneity. Eleven studies met inclusion criteria, including eight efficacy studies (460 patients) and three safety-focused case reports. Leuprorelin reduced pathogenic androgen receptor accumulation and improved biochemical markers, including serum creatine kinase and creatinine decline. Although neither pivotal randomized trial demonstrated significant short-term functional improvement at 48 weeks, longer-term studies showed slower decline in Revised Amyotrophic Lateral Sclerosis Functional Rating Scale (ALSFRS-R), Limb Norris, and Norris Bulbar scores and improved event-free survival from pneumonia and death. Benefits were greatest with earlier treatment, particularly disease duration < 10 years. Leuprorelin was generally well tolerated; common adverse effects included hot flushes, sexual dysfunction, and decreased bone mineral density. Leuprorelin may slow long-term functional deterioration in SBMA, with greater benefit following early initiation and prolonged treatment.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Wang B",
+        "Wang I",
+        "Park C",
+        "Barkhaus PE",
+        "Shirilla D"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992452/"
+    },
+    {
+      "id": "pmid-42896567",
+      "pmid": "42896567",
+      "doi": "10.1088/1741-2552/aeb62c",
+      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
+      "abstract": "Objective. A calibration-derived score has been related to online P300-speller accuracy in the same session, always within the cohort measured. We evaluated whether a mapping from that score to expected accuracy transports to withheld cohorts. Approach. Retrospective secondary analysis of BigP3BCI 1.0.0, the largest evaluation of this relationship to date: 18 of 20 studies contributed 271 participants, 739 session-condition records, and 19 611 character selections. The predictor was a decoder's cross-validated discriminability on calibration epochs, one study withheld from development. Between-cohort variation was summarised by the random-effects standard deviation tau. Main results. The association was positive in all 18 cohorts but varied widely ( r 0.190-0.928; participant-level r = 0.714, p < 0.001), with 12 CIs excluding zero. Pooled estimation error was 0.098 (95% CI 0.091-0.107) against a benchmark of 0.146. Calibration did not transport: intercept tau 0.87 (unrepresented-cohort interval -1.97 to 1.85, log-odds); cohort-specific slopes varied more than tenfold (tau 0.43, interval 0.111-2.005). Neither alignment (signal- or score-space) nor either nonlinear boundary meaningfully reduced this heterogeneity. Local recalibration with up to 16 participants did not reliably improve on transporting; refitting both intercept and slope was significantly worse than transporting at the smallest sizes. Median time per selection, a stopping-rule proxy, accounted for 66% of between-cohort slope variance in meta-regression. The four amyotrophic lateral sclerosis (ALS) cohorts gave an uncorrected slope spread of 0.223, against 0.560 overall. Significance. The evaluated score is a classifier's cross-validated discriminability on each session's calibration data rather than the source studies' undocumented online decoder. That score reproducibly signals within-session accuracy, but its mapping to accuracy is cohort-specific and supports ranking sessions after local validation rather than reporting accuracy elsewhere. The four-cohort ALS subgroup appeared more homogeneous than the full archive, illustrating how conclusions about transportability from a small cohort set can be fragile.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Gorenshtein A",
+        "Adiniaev Y",
+        "Liba T",
+        "Barash Y",
+        "Klang E",
+        "Daniel O"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896567/"
+    },
+    {
+      "id": "pmid-42989982",
+      "pmid": "42989982",
+      "doi": "10.4081/monaldi.2026.3644",
+      "title": "The decline of respiratory function in amyotrophic lateral sclerosis patients and the role of non-invasive ventilation.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a chronic neurodegenerative disease characterized by a poor prognosis, with an average survival of 3 to 5 years from symptom onset. Respiratory failure is the main cause of death, and non-invasive ventilation (NIV) is a cornerstone in the management of ALS patients. This single-center retrospective study was conducted at Siena University Hospital between 2010 and 2024 to analyze respiratory function parameters in ALS patients undergoing NIV, stratified by disease severity and followed over one year, to assess the relationship between lung function decline and the timing of NIV initiation. A total of 49 patients (29 males, 20 females; mean age 67±12 years) were enrolled, and 31 (63%) received NIV. Clinical and functional parameters, including forced vital capacity (FVC), pCO₂, respiratory symptoms at baseline, and longitudinal measurements of sitting FVC (FVCsit%), supine FVC (FVCsup%), and pCO₂, were collected and analyzed over time. Differences in FVC decline were observed according to the timing of NIV initiation. Among non-severe patients, those starting NIV at T0 showed a 22.5% reduction in FVC over a mean follow-up of 12.8±4.8 months. Patients initiating NIV at T2 exhibited a reported FVCsit decline of 26% (p=0.0488) and a survival of 51.3±50 months from NIV initiation, whereas those starting later (T3-T6) showed a greater decline (FVCsit decline 34%, p=0.0002) and shorter survival duration (15.7±28.6 months). These findings describe differences in respiratory function trajectories and observed survival among patients initiating NIV at different follow-up time points. However, the retrospective design, small sample size, baseline differences between groups, and potential confounding and survival-related selection bias limit causal interpretation. Further studies are needed to clarify the relationship between NIV initiation timing and clinical outcomes in ALS.",
+      "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+      "authors": [
+        "Cimmino FA",
+        "Comandini G",
+        "Bigliazzi C",
+        "D'Alessandro M",
+        "Salvadori E",
+        "Pianigiani T",
+        "De Stefano N",
+        "Ginanneschi F",
+        "Casali S",
+        "Bargagli E"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989982/"
+    },
     {
       "id": "pmid-42980747",
       "pmid": "42980747",
@@ -457,6 +524,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42972606/"
     },
     {
+      "id": "pmid-42990777",
+      "pmid": "42990777",
+      "doi": "10.1136/bmjno-2026-001715",
+      "title": "Pathological separation utility of plasma neurofilament light chain (NfL) detected by a single-molecule immunoassay platform in neurodegenerative diseases.",
+      "abstract": "To establish age-stratified plasma neurofilament light chain (NfL) reference intervals using a domestic Digital Single-Molecule Sensing (DiSMS) platform and to explore neuropathological profiles across amyotrophic lateral sclerosis (ALS), inflammatory demyelinating diseases (IDD) and healthy individuals. We enrolled 719 participants (510 healthy controls, 121 ALS, 88 IDD). Age-specific reference intervals defining the healthy boundary were established using the 2.5th-97.5th percentile method. Pathological separation utility was evaluated via age-stratified subgroup comparisons and receiver operating characteristic (ROC) analysis. Plasma NfL levels in healthy individuals increased significantly with age (p<0.0001), with reference intervals of 2.68-17.09 pg/mL (20-49 years), 7.14-61.95 pg/mL (50-69 years) and 14.20-104.71 pg/mL (≥70 years). Out-of-boundary NfL elevation rates demonstrated prominent age-dependent fluctuations. In ALS, out-of-boundary elevation rates were 98.3% (57/58) for the 20-49 age group, 68.4% (39/57) for the 50-69 group and 50.0% (3/6) for the ≥70 group, capturing the aggressive tempo of primary motor neuron degeneration. In IDD-which primarily comprised patients in early, clinically stable phases-out-of-boundary rates were 17.0% (8/47) in the 20-49 group and 2.6% (1/38) in the 50-69 group. Age-stratified ROC analysis demonstrated exceptional separation capacity for ALS against healthy controls (area under the curve (AUC): 20-49 years=0.999; 50-69 years=0.964; ≥70 years=0.981) and against IDD (AUC: 20-49 years=0.910; 50-69 years=0.976). Intriguingly, in the 20-49 group where physiological ageing noise was minimal, the platform retained a modest capability to distinguish stable IDD from healthy controls (AUC=0.607). Age-stratified plasma NfL mapping provides a rigorous normative framework for defining population-specific healthy boundaries in China. Rather than functioning as a standalone differential classifier, the dramatic cross-sectional variance in peripheral NfL magnitude successfully maps the distinct pathological spaces separating primary, continuous neurodegeneration (ALS) from quiescent neuroinflammation (IDD) across the adult lifespan, validating the analytical utility of domestic DiSMS platforms.",
+      "journal": "BMJ neurology open",
+      "authors": [
+        "Huang J",
+        "Li H",
+        "Zhou H",
+        "Li T",
+        "Li J",
+        "Liu D",
+        "Yan K"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990777/"
+    },
+    {
       "id": "pmid-42947290",
       "pmid": "42947290",
       "doi": "10.1111/ene.70798",
@@ -865,184 +954,6 @@
       ],
       "publishedAt": "2026-10-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42953977/"
-    },
-    {
-      "id": "pmid-42946847",
-      "pmid": "42946847",
-      "doi": "10.1007/s00210-026-06009-x",
-      "title": "Combined melatonin and edaravone therapy attenuates methylmercury-induced amyotrophic lateral sclerosis-like neurodegeneration through GLP-1 modulation and myelin preservation.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive and fatal neurodegenerative disorder characterized by the selective degeneration of upper and lower motor neurons, resulting in progressive muscle weakness, paralysis, and respiratory failure. Despite the availability of disease-modifying therapies, current treatment options provide only modest clinical benefits, highlighting the need for novel therapeutic strategies targeting multiple pathological mechanisms. Melatonin, a pleiotropic neuroprotective molecule with antioxidant, anti-inflammatory, and anti-apoptotic properties, has emerged as a promising candidate; however, its influence on glucagon-like peptide-1 (GLP-1)-associated neuroprotective signaling and related molecular events in ALS remains poorly understood. Therefore, the present study investigated the neuroprotective efficacy of melatonin in a methylmercury (MTMR)-induced rat model of ALS and explored its effects on GLP-1-associated molecular alterations, neuroinflammation, oxidative stress, apoptosis, neurotransmitter homeostasis, demyelination, and neuronal injury. Molecular docking analysis was performed to predict the interaction of melatonin with proteins implicated in ALS pathology. Adult Wistar rats were exposed to MTMR (5 mg/kg, p.o.) for 21 days to induce ALS-like neurodegeneration, followed by treatment with melatonin (5 or 10 mg/kg, i.p.), edaravone (3 mg/kg, i.p.), or their combination for an additional 21 days. Neurobehavioral performance, biochemical alterations, hematological parameters, molecular biomarkers, and histopathological changes were subsequently evaluated. MTMR administration produced profound motor deficits accompanied by reduced GLP-1 levels, neurotransmitter imbalance, increased neuroinflammatory and apoptotic markers, elevated neurofilament light chain (NEFL), skeletal muscle injury, methylmercury accumulation, and extensive myelin and neuronal damage. Melatonin treatment significantly attenuated these pathological alterations in a dose-dependent manner by increasing GLP-1 levels, improving antioxidant status, reducing inflammatory and apoptotic responses, restoring neurotransmitter balance, preserving myelin integrity, and improving neuronal morphology across multiple brain regions and the spinal cord. Molecular docking further predicted favorable interactions between melatonin and several proteins associated with ALS pathophysiology, supporting its potential as a multitarget therapeutic agent. In most outcome measures, combined treatment with melatonin and edaravone produced greater neuroprotective effects than either intervention alone. Collectively, these findings demonstrate that melatonin substantially attenuates methylmercury-induced ALS-like neuropathology through coordinated modulation of multiple pathological processes associated with neurodegeneration. Although the precise molecular mechanisms require further experimental validation, the observed restoration of GLP-1 levels together with improvements in oxidative stress, neuroinflammation, apoptosis, neurotransmitter homeostasis, and myelin integrity suggests that melatonin may represent a promising adjunctive therapeutic strategy for ALS.",
-      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-      "authors": [
-        "Raina GS",
-        "Mehan S",
-        "Das Gupta G"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42946847/"
-    },
-    {
-      "id": "pmid-42966163",
-      "pmid": "42966163",
-      "doi": "10.1016/j.jns.2026.126237",
-      "title": "Immunometabolic dysregulation of reactive microglia and astrocytes in neurodegenerative diseases: Mechanistic insights and therapeutic implications.",
-      "abstract": "Neurodegenerative diseases (NDDs) are increasingly understood as multifactorial disorders characterized by intertwined pathological processes, in which metabolic dysfunction may act as a critical and potentially disease-amplifying contributor to the proteinopathy-driven pathological cascade. Despite growing recognition that microglial and astrocytic metabolism governs central nervous system tissue damage-repair homeostasis, intercellular metabolic crosstalk between glia and neurons remains insufficiently synthesized across major NDDs. This review delineates how core metabolic pathways, including glycolysis, mitochondrial respiration, lipid processing, and amino acid transport, shape glial reactivity in Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. We highlight glial metabolic reprogramming, a proposed theoretical framework arising from severe glial metabolic dysregulation. Within this framework, persistent pathological stress may drive reactive glia to sequester local energy substrates in excess, which is hypothesized to trigger bioenergetic failure in neighboring neurons. Broad-spectrum anti-inflammatory agents show poor clinical performance because they only block cytokine outputs rather than reverse glial metabolic exhaustion. Therapeutic efforts should therefore shift toward restoring glial metabolic flexibility. Cell-type-specific metabolic reprogramming, instead of pan-metabolic suppression, may circumvent systemic adverse effects. Precision strategies targeting such intercellular metabolic imbalance could provide promising cell-resolved metabolic avenues to retard NDD progression.",
-      "journal": "Journal of the neurological sciences",
-      "authors": [
-        "Gao C",
-        "Shi R",
-        "Jiang X",
-        "Chai H",
-        "He X"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966163/"
-    },
-    {
-      "id": "pmid-42946883",
-      "pmid": "42946883",
-      "doi": "10.1007/s11517-026-03705-x",
-      "title": "Improving dysarthric speech classification with generative AI-based data augmentation.",
-      "abstract": "Dysarthria is a neurological speech disorder characterized by impaired motor control of speech production, resulting in reduced intelligibility. It commonly arises in the context of neurodegenerative conditions, including amyotrophic lateral sclerosis and cerebral palsy. The development of deep learning systems for dysarthria assessment is hindered by the scarcity of annotated data, which restricts the ability of models to generalize to unseen speakers. This study proposes a cross-corpus diffusion-based data augmentation strategy for improving automatic speech intelligibility classification from dysarthric speech. A Grad-TTS model is trained on dysarthric speakers from the TORGO dataset and used to synthesize the vocabulary of UA-Speech, producing speaker-conditioned samples intended to transfer pathological acoustic traits across corpora. The proposed strategy is evaluated both independently and in combination with conventional signal-level augmentation using ResNet-50 and ResNet-152 classifiers in binary and four-class intelligibility classification tasks. The results indicate that cross-corpus synthetic augmentation improves average performance and that, in most settings, its integration with conventional augmentation yields further gains, suggesting that the two strategies introduce complementary forms of variability.",
-      "journal": "Medical & biological engineering & computing",
-      "authors": [
-        "Lillini D",
-        "Basili T",
-        "Migliorelli L",
-        "Aironi C",
-        "Gabrielli L",
-        "Squartini S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42946883/"
-    },
-    {
-      "id": "pmid-42948861",
-      "pmid": "42948861",
-      "doi": "10.1080/21678421.2026.2750602",
-      "title": "Longitudinal coagulation-fibrinolysis dynamics are associated with survival in amyotrophic lateral sclerosis: a prospective cohort study.",
-      "abstract": "Background : Amyotrophic lateral sclerosis (ALS) has been associated with thromboembolic risk. However, whether dynamic coagulation-fibrinolysis markers provide prognostic information in ALS remains insufficiently defined. Methods : We conducted a prospective cohort study of 151 patients with ALS, including repeated coagulation measurements in a longitudinal subset ( n = 58), and assessed directional validation in the independent Answer ALS (AALS) cohort ( n = 270). Survival analyses, longitudinal modeling, and plasma proteomic analyses were used to examine associations between coagulation-fibrinolysis dynamics, functional decline, and survival. Results : Higher baseline fibrinogen (FIB) was independently associated with shorter survival (HR = 2.19; 95% confidence interval (CI), 1.40-3.44). In the longitudinal subset, a steeper increase in D-dimer (DD) was associated with shorter survival (HR = 1.012; 95% CI, 1.001-1.024) and lower ALSFRS-R scores over time ( β = -0.013; 95% CI, -0.016 to -0.009). Directionally consistent validation was observed in AALS using rescaled SomaScan-derived DD trajectories (HR = 1.0002; 95% CI, 1.0000-1.0004). Plasma proteomics showed reduced tetranectin, a fibrinolysis-related protein, in ALS; slower tetranectin decline was associated with longer survival using rescaled SomaScan-derived tetranectin trajectories (HR = 0.996; 95% CI, 0.993-0.998). Conclusions : These findings suggest that longitudinal coagulation-fibrinolysis markers may help identify a survival-related biomarker profile in ALS, involving higher baseline FIB, steeper rising DD, and reduced or more rapidly declining tetranectin.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Lin H",
-        "Li C",
-        "Wu J",
-        "Yin J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948861/"
-    },
-    {
-      "id": "pmid-42955216",
-      "pmid": "42955216",
-      "doi": "10.1007/s10534-026-00895-7",
-      "title": "Microglial perturbation in heavy metal-induced neuroinflammation and neurodegeneration: mechanisms, phenotypic plasticity, and therapeutic prospects.",
-      "abstract": "Heavy metal exposure has emerged as a significant environmental contributor to neurodegenerative disease, and a substantial body of mechanistic evidence implicates microglia in the pathological cascades that follow. Lead, cadmium, arsenic, manganese, copper, cobalt, mercury, and zinc disrupt central nervous system homeostasis through multiple cellular targets, but the resident innate immune cells of the brain are well placed to translate these insults into sustained neuroinflammation. Evidence for this critical narrative review was assembled through a purposive search of PubMed, MEDLINE, and Google Scholar for mechanistically informative studies reporting glial endpoints, with reference lists searched by hand and no systematic protocol applied. This review synthesizes current understanding of how individual metals engage microglial signaling networks, with particular attention to oxidative stress, NF-κB activation, NLRP3 inflammasome assembly, MAPK cascades, and suppression of the Nrf2 antioxidant axis. We examine the phenotypic spectrum that extends well beyond the classical M1/M2 dichotomy, including disease-associated microglia, lipid-droplet-accumulating microglia, and interferon-responsive states, and consider how metal-specific signatures map onto these transcriptional programs. Manganese-driven inflammasome assembly, cadmium-induced mitochondrial impairment, lead-mediated disruption of calcium homeostasis, and mercury-evoked autophagic dysfunction are discussed as illustrative examples of mechanistic divergence within a common neuroinflammatory framework. Glial responses to metal mixtures, which better represent real exposure than single-element designs, are considered separately, and the evidence for greater-than-additive effects is appraised. Downstream consequences for astrocyte reactivity, blood-brain barrier integrity, synaptic remodeling, and neuronal viability are placed in the context of Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Therapeutic avenues are appraised, including chelation, natural antioxidants, NLRP3 inhibitors, TREM2 modulation, and microglial replacement strategies. Methodological constraints, particularly the overreliance on BV-2 cells and acute high-dose exposure paradigms, are critically considered. The review concludes by identifying priorities for translational research, including longitudinal human cohort studies, single-cell transcriptomic profiling of metal-exposed microglia, and the development of region-specific exposure models that better reflect chronic environmental realities.",
-      "journal": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
-      "authors": [
-        "Oria RS",
-        "Esomonu UG",
-        "Sunday KI",
-        "Oge PA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955216/"
-    },
-    {
-      "id": "pmid-42922081",
-      "pmid": "42922081",
-      "doi": "10.1002/cmdc.70539",
-      "title": "Riluzole-Derived Benzo[d]thiazoles as CK1δ Inhibitors for Amyotrophic Lateral Sclerosis-Related Neurodegeneration.",
-      "abstract": "Riluzole-derived benzo[d]thiazoles were investigated as metabolite-inspired CK1δ inhibitors, a kinase involved in TDP-43 phosphorylation and therefore relevant to amyotrophic lateral sclerosis (ALS). Starting from the known CK1δ activity of riluzole, we examined whether its major hydroxylamine metabolite could preserve target recognition and provide a rational entry point for scaffold optimisation. The metabolite retained CK1δ inhibition, but its limited chemical stability and toxicity in neuronal cells identified the hydroxylamine group as a critical liability. Replacement of this functionality with a hydrazine converted the fragile metabolite-derived structure into a more potent and tractable CK1δ inhibitor series. Structure-activity relationship studies revealed that the hydrazine moiety accommodates broader substitution than the hydroxylamine counterparts, with branched alkyl and benzyl groups giving the most balanced profiles. Docking and molecular dynamics suggested that the improvement could be attributed to an additional hydrogen-bond with Gly86 in the hinge region. The best derivative combined submicromolar CK1δ inhibition with passive blood-brain barrier permeability, short-term cellular tolerance, ATP competitive inhibition, direct target engagement, and preliminary selectivity over GSK3β. Although this compound did not result neuroprotective in an oxidative stress model, it paves the way for a focused benzo[d]thiazole platform for probing CK1δ biology in ALS.",
-      "journal": "ChemMedChem",
-      "authors": [
-        "Adorinni S",
-        "Grieco I",
-        "Morasso S",
-        "Fornasier M",
-        "Novello G",
-        "Salmaso V",
-        "Martínez-González L",
-        "Cescon E",
-        "Bassani D",
-        "Bassan GA",
-        "Gianferrara T",
-        "Prencipe F",
-        "Kost V",
-        "Da Ros T",
-        "Storici P",
-        "Martinez A",
-        "Spalluto G",
-        "Moro S",
-        "Federico S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42922081/"
-    },
-    {
-      "id": "pmid-42958460",
-      "pmid": "42958460",
-      "doi": "10.1186/s40478-026-02455-z",
-      "title": "Strain-specific morphology and CNS propagation of template-directed SOD1 aggregation following peripheral nerve inoculation.",
-      "abstract": "Accumulation of misfolded SOD1 protein into intracellular aggregates, in the spinal cord (SpC) and brainstem, is a hallmark of amyotrophic lateral sclerosis caused by mutations in the SOD1 gene (SOD1-ALS). Two distinct aggregate conformations, denoted strain A and strain B, were identified in the CNS of SOD1 G85R and SOD1 D90A transgenic (Tg) ALS mouse models, respectively. Both strains transmit templated SOD1 aggregation and ALS-like disease in Tg mouse models when inoculated into the SpC, whereas muscle or intraperitoneal inoculations, of up to 300 times more inoculate, did not. Here, we used strain A and strain B aggregate seeds, prepared from SpCs of the Tg mice, to investigate strain-specific differences in transmission of templated aggregation and ALS phenotype via a peripheral nerve. We show that both strains can transmit templated aggregation to the CNS via the sciatic nerve in SOD1 G85R Tg mice. Strain A resulted in shorter time to disease onset and earlier end-stage disease compared to strain B, and these strain-specific differences were accentuated in the sciatic nerve inoculation model compared to direct SpC inoculations. To further analyse the differences between strain A and strain B, we developed an immunohistochemical method that distinguishes the two SOD1 aggregate strains in tissue sections. This method revealed that strain B adopts an elongated, skein-like morphology, whereas strain A aggregates appear as accumulations of rounded, bead-like structures. These findings suggest that SOD1 aggregates forming in a peripheral nerve might transmit disease to the CNS and that different SOD1 aggregate strains can influence disease onset and progression. Our results warrant further exploratory studies of SOD1 aggregate conformations and their potential role in the manifestation of SOD1 mutant-specific disease phenotypes.",
-      "journal": "Acta neuropathologica communications",
-      "authors": [
-        "Keskin I",
-        "Sigfridsson I",
-        "Skagerberg Ekhtiari E",
-        "Marklund M",
-        "Mattson S",
-        "Brännström T",
-        "Marklund SL",
-        "Nordström U",
-        "Andersen PM"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42958460/"
-    },
-    {
-      "id": "pmid-42950073",
-      "pmid": "42950073",
-      "doi": "10.1159/ned/adwag059",
-      "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multi-Layered Deconstruction Using Global Burden of Disease Study 2023.",
-      "abstract": "Neurodegenerative diseases (NDDs), including Alzheimer's disease and other dementias (ADOD), Parkinson's disease (PD), and motor neuron disease (MND), represent a mounting public health challenge in China amid rapid population aging. A systematic deconstruction of their epidemiological transition using the most recent data remains lacking. Data from the Global Burden of Disease Study 2023 were utilized to examine temporal trends (1990-2023) for ADOD, PD, and MND in China. Age-standardized rates of incidence (ASIR), prevalence (ASPR), mortality (ASMR), and disability-adjusted life-years (ASDR) were analyzed. Joinpoint regression was used to identify significant inflection points. Decomposition analysis quantified the contributions of population aging, population growth, and epidemiological change. And bayesian age-period-cohort models projected trends to 2035. From 1990 to 2023, the ASIR for ADOD (EAPC 0.41; 95% CI 0.33 to 0.49) and PD (EAPC 0.84; 95% CI 0.76 to 0.92) rose significantly. Between 2019 and 2023, multiple indicators across the three diseases demonstrated a consistently synchronous upward trend. This acceleration coincided with the COVID-19 pandemic. Decomposition demonstrated that population aging was the dominant driver. Sex-specific disparities were pronounced. Females bore a higher ADOD burden, whereas males predominated in PD. ASIR and ASPR are expected to rise, while ASMR and ASDR are projected to decline for ADOD and PD. For MND, only the ASPR indicated a brief, peaked rise in the predicted trends. In the field of neurodegenerative diseases, China is projected to undergo an epidemiological transition characterized by chronicization. This trend calls for systematic adjustments in healthcare services, long-term care systems, and social support structures. Sex and gender differences further underscore the need for gender-sensitive prevention, clinical management, and care strategies to prevent the further widening of inequalities. Population aging remains a critical factor that cannot be overlooked. Therefore, there is an urgent need to establish a proactive, gender-sensitive framework for system-wide restructuring that incorporates long-term monitoring and oversight.",
-      "journal": "Neuroepidemiology",
-      "authors": [
-        "Jing Z",
-        "Liu S",
-        "Song Q",
-        "Tian S",
-        "Zhou Q"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-10-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950073/"
     }
   ]
 }
