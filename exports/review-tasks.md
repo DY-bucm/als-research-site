@@ -1,15 +1,13 @@
 # 复核任务清单
 
-- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型影响 (pmid-42894325)
+- [ ] 蛋白质二硫键异构酶在斑马鱼和细胞模型中保护免受与细胞周期蛋白F相关的ALS/FTD表型 (pmid-42894325)
   - https://pubmed.ncbi.nlm.nih.gov/42894325/
 - [ ] 诃子（Terminalia chebula）作为潜在的多靶点神经保护剂：神经退行性疾病中的转化研究启示与未来方向 (pmid-42964735)
   - https://pubmed.ncbi.nlm.nih.gov/42964735/
-- [ ] 对《从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的历程》的更正 (pmid-42960175)
+- [ ] 对《从愿景到验证：Tofersen 在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的历程》的更正 (pmid-42960175)
   - https://pubmed.ncbi.nlm.nih.gov/42960175/
 - [ ] 工程化过氧化物酶体与患者来源iPSC模型作为氧化应激驱动中枢神经系统疾病精准神经保护的潜在生物材料平台 (pmid-42959522)
   - https://pubmed.ncbi.nlm.nih.gov/42959522/
-- [ ] OGT调控RNA结合蛋白的核质分配，但在肌萎缩侧索硬化中这一机制失效 (pmid-42894639)
-  - https://pubmed.ncbi.nlm.nih.gov/42894639/
 - [ ] 新型化合物诱导AChR聚集并改善重症肌无力动物模型的运动功能 (pmid-42863218)
   - https://pubmed.ncbi.nlm.nih.gov/42863218/
 - [ ] 醋酸亮丙瑞林治疗脊髓延髓肌萎缩症：临床疗效、长期结局与安全性考量的系统综述 (pmid-42992452)
@@ -18,29 +16,31 @@
   - https://pubmed.ncbi.nlm.nih.gov/42896567/
 - [ ] 肌萎缩侧索硬化患者呼吸功能下降与无创通气的作用 (pmid-42989982)
   - https://pubmed.ncbi.nlm.nih.gov/42989982/
-- [ ] [高优先级] 退行性疾病中蛋白聚集物的脑内清除：小胶质细胞与星形胶质细胞的作用 (pmid-42983584)
+- [ ] 退行性疾病中蛋白聚集物的脑内清除：小胶质细胞与星形胶质细胞的作用 (pmid-42983584)
   - https://pubmed.ncbi.nlm.nih.gov/42983584/
 - [ ] [高优先级] TNKS/PI31-蛋白酶体轴作为TDP-43神经病变的核心节点 (pmid-42983429)
   - https://pubmed.ncbi.nlm.nih.gov/42983429/
 - [ ] 植物多糖治疗神经退行性疾病的研究进展 (pmid-42980747)
   - https://pubmed.ncbi.nlm.nih.gov/42980747/
-- [ ] 整合空间金属组学：多模态元素成像工作流、挑战与机遇的教程综述 (pmid-42980369)
+- [ ] 整合空间金属组学：多模态元素成像工作流程、挑战与机遇的教程综述 (pmid-42980369)
   - https://pubmed.ncbi.nlm.nih.gov/42980369/
 - [ ] 肌萎缩侧索硬化中的蛋白质异天冬氨酸修复：PCMT基因家族的综合生物信息学分析 (pmid-42980086)
   - https://pubmed.ncbi.nlm.nih.gov/42980086/
 - [ ] 利鲁唑-丁酸互前药脂质体递送在实验性阿尔茨海默病中增强神经保护与认知恢复 (pmid-42979863)
   - https://pubmed.ncbi.nlm.nih.gov/42979863/
+- [ ] 肌萎缩侧索硬化中磁共振成像的当前发现、应用与诊断 (pmid-42975618)
+  - https://pubmed.ncbi.nlm.nih.gov/42975618/
 - [ ] [疑似误收] 用于ALS研究的经验证抗体工具箱 (epmc-MED-42975030)
   - https://doi.org/10.7554/elife.111349
 - [ ] 个性化营养照护在肌萎缩侧索硬化（ALS）中的应用：一项多视角定性焦点小组研究，探讨经验与挑战 (epmc-MED-42975041)
   - https://doi.org/10.1080/21678421.2026.2750614
-- [ ] [疑似误收] ALS患者的排尿功能障碍：使用膀胱过度活动症认知工具进行评估 (epmc-MED-42974963)
+- [ ] [疑似误收] 肌萎缩侧索硬化症患者的排尿功能障碍：采用膀胱过度活动症认知工具进行评估 (epmc-MED-42974963)
   - https://doi.org/10.1002/nau.70527
 - [ ] [疑似误收] 国际14例儿童FIG4患者的临床变异性和基因型驱动的结局 (epmc-MED-42974926)
   - https://doi.org/10.1002/acn3.70561
 - [ ] [疑似误收] 冷冻电镜与核磁共振揭示膜门控的Doc2B-Munc13-1复合物及螺旋状Doc2B-SNARE结合界面 (epmc-MED-42973246)
   - https://doi.org/10.1002/advs.78011
-- [ ] [疑似误收] 待复核翻译：Donor Aware Reanalysis of Neuronal Nuclei Supports STMN2 Depletion Associated with Nuclear TDP 43 loss in FTD and ALS (epmc-PPR-PPR1357612)
+- [ ] 待复核翻译：Donor-Aware Reanalysis of Neuronal Nuclei Supports STMN2 Depletion Associated with Nuclear TDP-43 Loss in FTD and ALS (epmc-PPR-PPR1357612)
   - https://doi.org/10.64898/2026.10.27.762172
 - [ ] [疑似误收] 待复核翻译：Evidence of White Matter R&lt;sub&gt;2&lt;/sub&gt;* Homogenization After Formalin Fixation. (epmc-MED-42972606)
   - https://doi.org/10.1002/mrm.70646

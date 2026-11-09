@@ -1,10 +1,10 @@
 # ALS 每日简报
 
-更新时间：2026-11-07
+更新时间：2026-11-09
 
 1. **TNKS/PI31-蛋白酶体轴作为TDP-43神经病变的核心节点**
    - 临床试验 / 动物/细胞实验 / high
-   - 病理性TDP-43通过隔离TNKS、减少PI31 ADP-核糖基化而损害19S/20S蛋白酶体组装和轴突运输，破坏TNKS/PI31/蛋白酶体轴。
+   - 病理性TDP-43通过隔离TNKS并减少PI31 ADP-核糖基化，损害19S/20S蛋白酶体组装和轴突蛋白酶体运输，导致蛋白酶体功能障碍与多泛素化蛋白蓄积。
    - https://pubmed.ncbi.nlm.nih.gov/42983429/
 2. **Pridopidine III 期 Study to Evaluate Efficacy and Safety in ALS**
    - 临床试验 / 临床试验注册 / high

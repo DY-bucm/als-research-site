@@ -1,266 +1,28 @@
 {
-  "updatedAt": "2026-11-07T01:54:59.846Z",
-  "previousSnapshot": "data/archive/2026-11-06.json",
+  "updatedAt": "2026-11-09T01:44:43.370Z",
+  "previousSnapshot": "data/archive/2026-11-07.json",
   "current": "data/items.json",
   "summary": {
-    "added": 18,
-    "removed": 18,
-    "changed": 10
+    "added": 1,
+    "removed": 1,
+    "changed": 12
   },
   "added": [
-    {
-      "id": "pmid-42992452",
-      "titleZh": "醋酸亮丙瑞林治疗脊髓延髓肌萎缩症：临床疗效、长期结局与安全性考量的系统综述",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992452/"
-    },
-    {
-      "id": "pmid-42896567",
-      "titleZh": "P300拼写器中的校准-准确度映射无法跨队列迁移，且经测试的对齐或局部重校准均未能恢复该映射",
-      "category": "机制",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896567/"
-    },
-    {
-      "id": "pmid-42989982",
-      "titleZh": "肌萎缩侧索硬化患者呼吸功能下降与无创通气的作用",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989982/"
-    },
-    {
-      "id": "trial-NCT07322003",
-      "titleZh": "Pridopidine III 期 Study to Evaluate Efficacy and Safety in ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07322003"
-    },
-    {
-      "id": "trial-NCT06726577",
-      "titleZh": "TP04HN106 in the Treatment of Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06726577"
-    },
-    {
-      "id": "trial-NCT07737977",
-      "titleZh": "Developing a Comprehensive 生物标志物 Panel for Monitoring Progression and Early Detection in ALS Patients",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07737977"
-    },
-    {
-      "id": "trial-NCT07698496",
-      "titleZh": "Evaluation of the Feasibility and Efficacy of a Chronic 脑机接口 for Speech Rehabilitation in Patients With Locked-in-syndrome (LIS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07698496"
-    },
-    {
-      "id": "trial-NCT06454682",
-      "titleZh": "待复核翻译：An IIT Clinical Study to Evaluate the Safety and Efficacy of a Single Intrathecal Injection of RJK002 in Patients With ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06454682"
-    },
-    {
-      "id": "trial-NCT04948645",
-      "titleZh": "A I 期 Study to Investigate the Safety and Pharmacokinetics of Fosigotifator in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04948645"
-    },
-    {
-      "id": "trial-NCT04468919",
-      "titleZh": "待复核翻译：Optimizing BCI-FIT: Brain Computer Interface - Functional Implementation Toolkit",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04468919"
-    },
-    {
-      "id": "trial-NCT06595212",
-      "titleZh": "待复核翻译：Genetics and Environment iNtersection In the ALS-FTD Spectrum: an Italian Twins Cohort studY With a Multi-Omics Approach",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06595212"
-    },
-    {
-      "id": "trial-NCT06426030",
-      "titleZh": "Validation of Czech Language Versions of Questionnaires for ALS Patients' Functional Status and 生物标志物 Long-term Follow-up",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06426030"
-    },
-    {
-      "id": "trial-NCT03217396",
-      "titleZh": "生物标志物s of Synaptic Damage in Multiple Sclerosis",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03217396"
-    },
-    {
-      "id": "trial-NCT00956501",
-      "titleZh": "Assessment of Postural Orientation and Equilibrium In Early 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00956501"
-    },
-    {
-      "id": "trial-NCT04885374",
-      "titleZh": "China 肌萎缩侧索硬化症 Registry of Patients With Traditional Chinese Medicine",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04885374"
-    },
-    {
-      "id": "trial-NCT01771640",
-      "titleZh": "Intrathecal Transplantation of Mesenchymal 干细胞 in Patients With ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01771640"
-    },
-    {
-      "id": "trial-NCT01366027",
-      "titleZh": "待复核翻译：PRISM Registry: Pseudobulbar Affect Registry Series",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01366027"
-    },
-    {
-      "id": "trial-NCT00563537",
-      "titleZh": "Molecular Imaging Modality by Positron Emission Tomography Using 18F-X : Study of 小胶质细胞l Activation in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00563537"
-    }
-  ],
-  "removed": [
-    {
-      "id": "pmid-42926777",
-      "titleZh": "靶向中枢神经系统的阿托伐醌纳米疗法减轻ALS中的补体激活和神经肌肉退变",
-      "category": "临床试验",
-      "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926777/"
-    },
     {
       "id": "pmid-42975618",
       "titleZh": "肌萎缩侧索硬化中磁共振成像的当前发现、应用与诊断",
       "category": "临床试验",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975618/"
-    },
+    }
+  ],
+  "removed": [
     {
-      "id": "pmid-42817591",
-      "titleZh": "不放手：tRNA螯合作为驱动合成酶相关神经病的统一机制",
-      "category": "机制",
+      "id": "pmid-42894639",
+      "titleZh": "OGT调控RNA结合蛋白的核质分配，但在肌萎缩侧索硬化中这一机制失效",
+      "category": "临床试验",
       "priority": "medium",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817591/"
-    },
-    {
-      "id": "trial-NCT07204977",
-      "titleZh": "Acamprosate in C9orf72 Hexanucleotide Repeat Expansion 肌萎缩侧索硬化症 (ACALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07204977"
-    },
-    {
-      "id": "trial-NCT07595666",
-      "titleZh": "待复核翻译：Comparison of NeuroEXPLORER PET/CT Versus Standard-of-care PET/CT of the Head and Neck Region.",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07595666"
-    },
-    {
-      "id": "trial-NCT06665165",
-      "titleZh": "AMX0114 in Adult Participants With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06665165"
-    },
-    {
-      "id": "trial-NCT07396818",
-      "titleZh": "Kamlanoflast In 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07396818"
-    },
-    {
-      "id": "trial-NCT07143656",
-      "titleZh": "肌萎缩侧索硬化症: A Multicenter Retrospective Observational Registry",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07143656"
-    },
-    {
-      "id": "trial-NCT04575727",
-      "titleZh": "待复核翻译：Exploratory Evaluation of [11C]MPC6827",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04575727"
-    },
-    {
-      "id": "trial-NCT06769620",
-      "titleZh": "待复核翻译：A First in Human Study of ORT247 in Healthy Volunteers",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06769620"
-    },
-    {
-      "id": "trial-NCT05995782",
-      "titleZh": "A I 期, SAD and MAD Study to Evaluate the Safety and Tolerability of FB418",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05995782"
-    },
-    {
-      "id": "trial-NCT04104373",
-      "titleZh": "待复核翻译：The Ontario Neurodegenerative Disease Research Initiative",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04104373"
-    },
-    {
-      "id": "trial-NCT06181526",
-      "titleZh": "Safety and Preliminary Efficacy of Aleeto in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06181526"
-    },
-    {
-      "id": "trial-NCT05797701",
-      "titleZh": "待复核翻译：A Study in Healthy Adult Male & Female Participants to Assess the Amount of the Study Medicine (SAR443820) Absorbed by the Body, When Given Orally in Fasted Condition as a Tablet Versus as a Capsule (Part 1) and When Given Orally as a Tablet in Fasted Condition Versus as a Tablet After Food (Part 2)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05797701"
-    },
-    {
-      "id": "trial-NCT04961450",
-      "titleZh": "Explore 生物标志物s of 运动神经元病/Frontal Dementia Spectrum Disease in China",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04961450"
-    },
-    {
-      "id": "trial-NCT02682030",
-      "titleZh": "待复核翻译：The Use of Airway Clearance Devices in ALS",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02682030"
-    },
-    {
-      "id": "trial-NCT03154450",
-      "titleZh": "EncoreAnywhere Use in 运动神经元病",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03154450"
-    },
-    {
-      "id": "trial-NCT00714220",
-      "titleZh": "Quantitative Measurement of Nutritional Substrate Utilization in Patients With 肌萎缩侧索硬化症 (ALS)",
-      "category": "临床试验",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00714220"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894639/"
     }
   ],
   "changed": [
@@ -269,9 +31,36 @@
       "titleZh": "诃子（Terminalia chebula）作为潜在的多靶点神经保护剂：神经退行性疾病中的转化研究启示与未来方向",
       "changes": [
         {
+          "field": "priority",
+          "before": "medium",
+          "after": "low"
+        },
+        {
           "field": "evidenceLevel",
-          "before": "综述/荟萃分析（叙述性综述，汇总临床前研究）",
-          "after": "综述/荟萃分析（叙述性综述，临床前证据为主）"
+          "before": "综述/荟萃分析（叙述性综述，临床前证据为主）",
+          "after": "综述/荟萃分析（叙述性综述，证据主要来自临床前研究）"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42959522",
+      "titleZh": "工程化过氧化物酶体与患者来源iPSC模型作为氧化应激驱动中枢神经系统疾病精准神经保护的潜在生物材料平台",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "叙述性综述",
+          "after": "叙述性综述（非系统综述/荟萃分析）"
+        }
+      ]
+    },
+    {
+      "id": "pmid-42989982",
+      "titleZh": "肌萎缩侧索硬化患者呼吸功能下降与无创通气的作用",
+      "changes": [
+        {
+          "field": "evidenceLevel",
+          "before": "观察性临床研究（单中心回顾性队列）",
+          "after": "观察性临床研究（单中心回顾性队列，样本量小）"
         }
       ]
     },
@@ -280,20 +69,9 @@
       "titleZh": "退行性疾病中蛋白聚集物的脑内清除：小胶质细胞与星形胶质细胞的作用",
       "changes": [
         {
-          "field": "evidenceLevel",
-          "before": "综述（动物/细胞实验证据汇总）",
-          "after": "动物/细胞实验"
-        }
-      ]
-    },
-    {
-      "id": "pmid-42983429",
-      "titleZh": "TNKS/PI31-蛋白酶体轴作为TDP-43神经病变的核心节点",
-      "changes": [
-        {
           "field": "priority",
-          "before": "medium",
-          "after": "high"
+          "before": "high",
+          "after": "medium"
         }
       ]
     },
@@ -302,25 +80,20 @@
       "titleZh": "植物多糖治疗神经退行性疾病的研究进展",
       "changes": [
         {
-          "field": "priority",
-          "before": "low",
-          "after": "medium"
-        },
-        {
           "field": "evidenceLevel",
-          "before": "综述（非原始临床试验；原文标签中的“随机对照试验”与本文实际研究类型不符）",
-          "after": "综述（非随机对照试验；原文分类标注为临床试验/随机对照试验，但实际为综述，不能据此认定疗效已证实）"
+          "before": "综述（非随机对照试验；原文分类标注为临床试验/随机对照试验，但实际为综述，不能据此认定疗效已证实）",
+          "after": "综述（非随机对照试验；原文分类标注为“临床试验”与“随机对照试验”不准确）"
         }
       ]
     },
     {
       "id": "pmid-42980369",
-      "titleZh": "整合空间金属组学：多模态元素成像工作流、挑战与机遇的教程综述",
+      "titleZh": "整合空间金属组学：多模态元素成像工作流程、挑战与机遇的教程综述",
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "方法学教程综述（含有限ALS与肾结石示例性观察分析）",
-          "after": "方法学教程综述（含有限观察性用例）"
+          "before": "方法学教程综述（含有限观察性用例）",
+          "after": "观察性临床研究"
         }
       ]
     },
@@ -330,8 +103,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "观察性临床研究（生物信息学分析）",
-          "after": "观察性临床研究（生物信息学分析，无实验验证）"
+          "before": "观察性临床研究（生物信息学分析，无实验验证）",
+          "after": "观察性临床研究（生物信息学分析）"
         }
       ]
     },
@@ -341,8 +114,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "机制研究（方法学/试剂资源；仅题名与来源信息，无摘要）",
-          "after": "机制研究（方法学/试剂资源；摘要缺失，未评估具体实验设计）"
+          "before": "机制研究（方法学/试剂资源；摘要缺失，未评估具体实验设计）",
+          "after": "机制研究（资源/方法学类；摘要缺失，具体验证范围未明）"
         }
       ]
     },
@@ -352,8 +125,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "定性研究（原始记录标注为机制研究，但方法学为定性焦点小组）",
-          "after": "定性研究（原始记录标注为机制研究，但方法学为定性焦点小组研究）"
+          "before": "定性研究（原始记录标注为机制研究，但方法学为定性焦点小组研究）",
+          "after": "定性研究（焦点小组）；原始记录未提供摘要，具体方法学细节待核实"
         }
       ]
     },
@@ -363,8 +136,8 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "观察性临床研究（小样本国际队列，14例；原始来源未提供摘要）",
-          "after": "观察性临床研究（小样本国际队列，无摘要）"
+          "before": "观察性临床研究（小样本国际队列，无摘要）",
+          "after": "观察性临床研究"
         }
       ]
     },
@@ -374,8 +147,24 @@
       "changes": [
         {
           "field": "evidenceLevel",
-          "before": "机制研究（结构生物学，体外/重组蛋白体系）",
-          "after": "机制研究（结构生物学，体外/重组体系）"
+          "before": "机制研究（结构生物学，体外/重组体系）",
+          "after": "机制研究（冷冻电镜与核磁共振结构解析）"
+        }
+      ]
+    },
+    {
+      "id": "epmc-PPR-PPR1357612",
+      "titleZh": "待复核翻译：Donor-Aware Reanalysis of Neuronal Nuclei Supports STMN2 Depletion Associated with Nuclear TDP-43 Loss in FTD and ALS",
+      "changes": [
+        {
+          "field": "priority",
+          "before": "low",
+          "after": "medium"
+        },
+        {
+          "field": "relevanceFlag",
+          "before": "low",
+          "after": "medium"
         }
       ]
     }
