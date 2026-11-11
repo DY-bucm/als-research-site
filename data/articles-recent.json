@@ -1,14 +1,38 @@
 {
-  "updatedAt": "2026-11-10T04:05:02.145Z",
+  "updatedAt": "2026-11-11T01:54:31.377Z",
   "period": {
     "days": 10,
-    "from": "2026-11-01",
-    "to": "2026-11-10"
+    "from": "2026-11-02",
+    "to": "2026-11-11"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 30,
+  "count": 27,
   "articles": [
+    {
+      "id": "pmid-42862052",
+      "pmid": "42862052",
+      "doi": "10.1039/d6cc03262a",
+      "title": "Carbon dot-based nanomaterials in neurodegeneration: addressing neurobiological barriers and targeting challenges.",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, represent a major global health challenge due to their progressive nature and limited therapeutic options. One of the primary obstacles to treating these disorders is the blood-brain barrier (BBB), which restricts the delivery of most therapeutic agents into the central nervous system. In recent years, carbon-based nanomaterials, particularly carbon dot (CD) nanostructures, have emerged as promising platforms for neurological applications owing to their ultrasmall size, BBB-crossing ability, and anti-inflammatory and neuroprotective properties, in addition to tunable surface chemistry, strong photoluminescence, and favorable biocompatibility. This review provides a comprehensive overview of recent research developments in the application of CD-based nanomaterials, including carbon nanodots, carbon quantum dots, graphene quantum dots, and carbon polymer dots, for the potential treatment of neurodegenerative diseases. The synthesis strategies and carbonization approaches used to produce these carbon nanomaterials are discussed, along with their physicochemical properties relevant to neurobiological applications, such as particle size, surface functionalization, heteroatom doping, optical properties, and stability in biological environments. Furthermore, the mechanisms by which CD-based nanomaterials can traverse the BBB are examined, including receptor-mediated and adsorptive-mediated transcytosis pathways. In addition, their applications are discussed, with particular focus on their roles in bioimaging, biosensing, inhibition of pathological protein aggregation, antioxidative activity, and targeted drug delivery. Finally, key challenges related to toxicity, biodistribution, large-scale synthesis, and clinical translation are discussed, along with future perspectives for the development of multifunctional theranostic platforms. Overall, use of CD-based nanomaterials represents a promising emerging strategy for overcoming neurobiological barriers and enabling the development of next-generation nanotherapeutics for the management of neurodegenerative diseases.",
+      "journal": "Chemical communications (Cambridge, England)",
+      "authors": [
+        "Unnikrishnan B",
+        "Anand A",
+        "Fang CN",
+        "Wu SM",
+        "Wang CC",
+        "Huang CC",
+        "Chu HW",
+        "Chang HT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862052/"
+    },
     {
       "id": "pmid-43001357",
       "pmid": "43001357",
@@ -32,6 +56,24 @@
       ],
       "publishedAt": "2026-11-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43001357/"
+    },
+    {
+      "id": "pmid-43003200",
+      "pmid": "43003200",
+      "doi": "10.1016/j.neuroscience.2026.11.011",
+      "title": "Beyond neurones: cardiac involvement in motor neurone disease.",
+      "abstract": "Motor neurone disease (MND) is a fatal neurodegenerative disorder defined by the progressive loss of upper and lower motor neurones. This degeneration leads to muscle wasting and weakness, most prominently affecting the upper and lower limbs, the bulbar musculature responsible for speech and swallowing, as well as the respiratory muscles (Feldman et al., 2022). As the disease advances, affected individuals experience profound functional decline, loss of independence, and ultimately respiratory failure, which remains the leading cause of death (Kiernan et al., 2021). Despite advances in understanding the molecular and cellular mechanisms of MND, effective disease‑modifying treatments are limited and there is no cure. Management therefore focuses largely on symptomatic treatment and multidisciplinary supportive care to maintain quality of life (Simon et al., 2015). The long-standing view of MND as a disease confined to the motor system is increasingly being challenged. Emerging evidence from human and rodent studies suggests that other organ systems, such as the heart, may also be affected, raising the possibility that cardiac involvement is a clinically relevant but under‑recognised feature of the disease.",
+      "journal": "Neuroscience",
+      "authors": [
+        "Bernardo BC",
+        "Russell AP"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003200/"
     },
     {
       "id": "pmid-42992452",
@@ -252,7 +294,7 @@
         "Satyavna F"
       ],
       "publicationTypes": [
-        "Journal Article"
+        "Letter"
       ],
       "publishedAt": "2026-11-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43002167/"
@@ -275,6 +317,30 @@
       ],
       "publishedAt": "2026-11-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975618/"
+    },
+    {
+      "id": "pmid-43004989",
+      "pmid": "43004989",
+      "doi": "10.59249/AFKC3347",
+      "title": "Genome Editing of Mitochondrial Dysfunction in Neurological Disease: Progress and Translational Barriers.",
+      "abstract": "Mitochondrial dysfunction is increasingly recognized as a shared mechanism across neurological disease. Specifically, impaired oxidative phosphorylation, oxidative stress, and mitochondrial DNA damage are factors in primary mitochondrial disorders and major neurodegenerative diseases such as Parkinson, Alzheimer, and Huntington diseases, and amyotrophic lateral sclerosis. This review surveys the mechanisms driving mitochondrial dysfunction and evaluates the current landscape of gene-editing technologies developed to address them. We examine mitochondria-targeted editors and nuclear-targeted editors, examining the editing capability, delivery constraints, and off-target risk of each. Heteroplasmy-shifting nucleases currently offer the strongest in vivo evidence for mtDNA-directed therapy, while base editors extend correction to homoplasmic mutations at the cost of a narrower editing scope and off-target editing. Nuclear editing platforms avoid the mitochondrial gRNA import barrier entirely, allowing current technologies to achieve the most progress toward functional, behavioral rescue in animal models. Across all platforms, delivery efficiency, off-target specificity, and translation from rodent to primate models remain unresolved barriers to clinical application. Gene editing for mitochondrial dysfunction is highly creditable as a precision therapy for genetically defined disease subsets, including primary mitochondrial disease and other neurodegenerative disorders with a known nuclear driver, rather than as a universal strategy for sporadic neurodegeneration, where mitochondrial dysfunction arises from multifactorial and poorly localized causes.",
+      "journal": "The Yale journal of biology and medicine",
+      "authors": [
+        "Sharma R",
+        "Niranjan N",
+        "Long A",
+        "Sharma R",
+        "Safieh F",
+        "Kumar P",
+        "Sund P",
+        "Sellami Z"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004989/"
     },
     {
       "id": "pmid-41830063",
@@ -611,166 +677,6 @@
       ],
       "publishedAt": "2026-11-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42990777/"
-    },
-    {
-      "id": "pmid-42947290",
-      "pmid": "42947290",
-      "doi": "10.1111/ene.70798",
-      "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
-      "abstract": "Clinical heterogeneity in amyotrophic lateral sclerosis (ALS) may reflect structured disease trajectories. This study investigated whether anatomically defined motor phenotypes capture reproducible patterns associated with progression, serum neurofilament light chain (NfL), and survival. In a multicenter cohort of 1307 ALS patients, motor phenotypes were classified by region of onset, timing of propagation to a vertically distant body region (early ≤ 12 months vs. later), and the degree of upper (UMN) and lower motor neuron (LMN) dysfunction. Intercenter consistency was assessed using the Friedman test and Kendall's W. Associations with ALS progression rate (ALSPR), NfL, and survival were analyzed using group comparisons and Cox regression models. Phenotype classification was consistent across centers (Kendall's W 0.75-0.89). Onset phenotypes were significantly associated with ALSPR, NfL, and survival (p < 0.001). Trunk onset showed the lowest log(NfL/ALSPR), indicating dissociation between rapid progression and relative NfL elevation. Early propagation was the strongest marker of disease aggressiveness, with higher ALSPR, elevated NfL, and reduced survival (HR 2.93, p < 0.001). In early propagation, NfL disproportionally increased with progression indicating a relative uncoupling of NfL from functional decline. Phenotypes with balanced UMN/LMN and predominant LMN involvement were associated with shorter survival (HR 2.51, p < 0.001). Anatomically defined motor phenotypes identify reproducible ALS trajectories with distinct clinical and neurofilament profiles. Early propagation provides an actionable risk marker of disease aggressiveness, while combined upper and lower motor neuron dysfunction or lower motor neuron predominance is prognostically unfavorable. These findings support integrating structured phenotyping into prognostic models and clinical trial stratification.",
-      "journal": "European journal of neurology",
-      "authors": [
-        "Meyer T",
-        "Grehl T",
-        "Schumann P",
-        "Weyen U",
-        "Rödiger A",
-        "Smesny U",
-        "Ilse B",
-        "Weydt P",
-        "Bernsen S",
-        "Fabian R",
-        "Göricke B",
-        "Petri S",
-        "Lumi R",
-        "Bjelica B",
-        "Großkreutz J",
-        "Cetin H",
-        "Keritam O",
-        "Haimberger F",
-        "Korsukewitz C",
-        "Löscher W",
-        "Kohl Z",
-        "Regensburger M",
-        "Baum P",
-        "Metelmann M",
-        "Kettemann D",
-        "Norden J",
-        "Steinbach R",
-        "Körtvélyessy P",
-        "Lingor P",
-        "McFarlane R",
-        "Münch C",
-        "Boentert M",
-        "Maier A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Multicenter Study",
-        "Observational Study"
-      ],
-      "publishedAt": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947290/"
-    },
-    {
-      "id": "pmid-42952031",
-      "pmid": "42952031",
-      "doi": "10.1002/jlcr.70044",
-      "title": "Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [ 18 F]RP-115: Alternate Synthetic Method.",
-      "abstract": "Excitatory amino acid transporter 2 (EAAT2) is a key regulator of extracellular glutamate in the central nervous system. Dysregulated EAAT2 is implicated in neurodegenerative diseases such as Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS), highlighting EAAT2 as a potential target for PET imaging. We previously reported a multistep radiosynthesis of [ 18 F]RP-115, a CNS-permeable prodrug that undergoes esterase-mediated hydrolysis in the CNS to yield the active EAAT2-binding carboxylate. Motivated by recent advances in copper-mediated radiofluorination (CMRF), we sought to develop a more efficient late-stage radiosynthesis of [ 18 F]RP-115. A two-step radiosynthesis of [ 18 F]RP-115 using CMRF provided [ 18 F]RP-115 in high radiochemical yield (52.8% ± 2.1 %, decay-corrected from starting [ 18 F]fluoride ion, n = 4), high molar activity (355 ± 61 GBq/μmol), and high radiochemical purity (> 99%) with a total synthesis time of 70 min. Chiral HPLC analysis demonstrated that the configuration of the aspartic acid residue remained intact without racemization during both the CMRF and trifluoroacetic acid mediated deprotection. We developed an efficient radiosynthesis of [ 18 F]RP-115 via CMRF, achieving high radiochemical yield and molar activity. This efficient synthesis may serve as a basis for the future implementation of a CMRF-based automated radiosynthesis of [ 18 F]RP-115.",
-      "journal": "Journal of labelled compounds & radiopharmaceuticals",
-      "authors": [
-        "Lee SH",
-        "Blecha J",
-        "Kim JM",
-        "Nillo RM",
-        "Flavell RR",
-        "Chao CK",
-        "Forsayeth JR",
-        "Gerdes JM",
-        "VanBrocklin HF",
-        "Wilson DM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952031/"
-    },
-    {
-      "id": "pmid-42977507",
-      "pmid": "42977507",
-      "doi": "10.1111/ejn.70746",
-      "title": "Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia.",
-      "abstract": "Brain aging is the principal risk factor for both neurodegenerative diseases (NDDs) and cerebral ischemic disorders, yet the subcellular mechanisms linking these conditions remain incompletely defined. Mitochondria-associated membranes (MAMs)-specialized contact sites between the endoplasmic reticulum (ER) and mitochondria-sit at the intersection of two well-established hallmarks of aging, mitochondrial dysfunction, and loss of proteostasis, making them an attractive mechanistic node for understanding age-related brain decline. In this review, we propose a MAM-centered framework that unifies neurodegenerative and ischemic brain pathology under the broader paradigm of brain aging. We first summarize the molecular architecture of MAMs and their core functions in neuronal Ca 2+ transfer, mitochondrial dynamics, lipid metabolism, inflammasome assembly, and autophagic quality control, together with emerging evidence from non-neuronal brain cells. We then examine how MAM dysfunction intersects with five hallmarks of aging-mitochondrial dysfunction, loss of proteostasis, disabled macroautophagy, chronic inflammation (inflammaging), and altered intercellular communication-drawing on evidence from physiological aging and cellular senescence models. Next, we discuss disease-specific roles of MAMs in cerebral ischemia and in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. A central theme emerges: Rather than a unidirectional decline of MAMs, brain aging is associated with a loss of MAM homeostasis, in which both insufficient and excessive ER-mitochondria coupling can be pathological and the shared deficit is the failure to maintain contact-site function within an optimal range. Finally, we consider age-relevant therapeutic and biomarker strategies targeting MAMs and their potential translation into geriatric neurology. To our knowledge, this is the first review to integrate MAM biology across physiological brain aging, cerebral ischemia, and the four major NDDs within a single homeostatic framework, offering a unified perspective on the mechanisms of age-related brain decline.",
-      "journal": "The European journal of neuroscience",
-      "authors": [
-        "Li M",
-        "Xu D",
-        "Li Y",
-        "Zhao Q"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42977507/"
-    },
-    {
-      "id": "pmid-42562776",
-      "pmid": "42562776",
-      "doi": "10.1093/jnen/nlag013",
-      "title": "Neural stem cell-derived small extracellular vesicles ameliorate disease progression in the SOD1 G93A murine model of amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that primarily affects motor neurons leading to muscle weakness, paralysis, and ultimately, respiratory failure. Extracellular vesicles (EVs) facilitate intercellular communication by mimicking the functions of their parent cells. In this study, we found that repeated administration of neural stem cell-derived extracellular vesicles (NSC-derived EVs) improved motor performance and provided protection to lumbar motor neurons, the neuromuscular junctions, and muscle morphology in the SOD1 G93A transgenic mouse model of ALS. Furthermore, by analyzing the RNA-sequencing of muscle specimens from ALS-SOD1 patients, we demonstrated that the rescue effects of NSC-derived EVs might be linked to the p53 pathway. Compared to the PBS control treatment group, both TP53 and the p53 upregulated modulator of apoptosis (PUMA) were downregulated in the spinal cord of mice treated with NSC-derived EVs. These data provide additional knowledge for the promising use of NSC-derived EVs as a potential therapy for ALS.",
-      "journal": "Journal of neuropathology and experimental neurology",
-      "authors": [
-        "Wan Y",
-        "Gao C",
-        "Li J",
-        "Luan M",
-        "Lu Y",
-        "Wang J",
-        "Yang B",
-        "Zheng J",
-        "Yuan Y",
-        "Wei J",
-        "Wang Z",
-        "Deng J"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562776/"
-    },
-    {
-      "id": "pmid-42804712",
-      "pmid": "42804712",
-      "doi": "10.1097/NRL.0000000000000694",
-      "title": "Neuroepigenetics of the Environmental Exposome: Molecular and Clinical Implications in Neurodegeneration.",
-      "abstract": "Neuroepigenetics studies the molecular mechanisms that regulate gene expression in the nervous system without altering the DNA sequence. The environmental exposome has emerged as a key factor influencing neuronal plasticity and brain homeostasis, contributing to vulnerability to neurodegeneration. This narrative review analyzes the role of neuroepigenetic reprogramming as a central mechanism linking chronic environmental exposures with neurodegenerative diseases. Evidence indicates that alterations in DNA methylation, histone remodeling, and microRNA regulation contribute to mitochondrial dysfunction, oxidative stress, and chronic neuroinflammation. These mechanisms are critically involved in the pathogenesis of Alzheimer disease, Parkinson disease, and amyotrophic lateral sclerosis. Neuroepigenetics represents a central mechanistic axis in neurodegeneration by integrating environmental exposures with intrinsic biological processes. This framework offers new opportunities for the development of early biomarkers and targeted preventive and therapeutic strategies.",
-      "journal": "The neurologist",
-      "authors": [
-        "Avendaño-Arango E",
-        "Salom-Palacio I",
-        "Castillo-Támara EE",
-        "Palacio-Villalba B"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42804712/"
-    },
-    {
-      "id": "pmid-42986019",
-      "pmid": "42986019",
-      "doi": "10.1002/bies.70200",
-      "title": "STMN2: Membrane-Binding Microtubule Regulator or Tubulin Effector?",
-      "abstract": "STMN2, a protein implicated in motor neuron degeneration, is widely viewed as a membrane-associated microtubule inhibitor, but emerging evidence challenges whether this activity defined its cellular function. Three alternative models integrates available evidence to offer perspectives beyond microtubule regulation. The vesicle cargo adaptor model proposes that STMN2 recruits diverse cargos to transport vesicles for axonal delivery. The membrane-bound signaling messenger model links STMN2 turnover to local signaling, effector, degradation, or effector release. The traffic director model proposes that STMN2 regulates cargo routing between delivery and degradative pathways. These models are not mutually exclusive and position tubulin binding as a regulator of STMN2 function rather than its defining activity.",
-      "journal": "BioEssays : news and reviews in molecular, cellular and developmental biology",
-      "authors": [
-        "Deng X",
-        "Mitchison T"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42986019/"
     }
   ]
 }

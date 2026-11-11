@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-10T04:06:44.103Z",
+  "updatedAt": "2026-11-11T01:56:04.104Z",
   "summary": {
-    "totalItems": 39,
-    "issueCount": 34
+    "totalItems": 42,
+    "issueCount": 38
   },
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "epmc-MED-42993929",
       "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
-      "titleZh": "AI护士与AI模拟患者通过双向微调流程在护理教育中的共存：开发与内容分析研究",
+      "titleZh": "双向微调流程下AI护士与AI模拟患者在护理教育中的共存：开发与内容分析研究",
       "category": "机制",
       "evidenceLevel": "机制研究（开发与内容分析，非临床疗效研究）",
       "relevanceScore": 0,
@@ -38,7 +38,7 @@
       "title": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current Clinical Trials.",
       "titleZh": "姜黄素在多种疾病治疗中的应用：作用机制、生物利用度、治疗效果及当前临床试验",
       "category": "临床试验",
-      "evidenceLevel": "综述（原始元数据未提供摘要，无法进一步分级）",
+      "evidenceLevel": "综述（元数据未提供摘要，无法进一步分级）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -49,7 +49,7 @@
       "title": "Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks.",
       "titleZh": "个体化人工智能驱动的神经调控选择性增强并重组人类舌感觉运动网络",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，仅题名，无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -76,6 +76,39 @@
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13011587"
+    },
+    {
+      "id": "epmc-MED-42983584",
+      "title": "Brain clearance of protein aggregates in degenerative diseases: the role of microglia and astrocytes.",
+      "titleZh": "Brain clearance of protein aggregates in degenerative diseases: the role of 小胶质细胞 and astrocytes.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s40035-026-00592-y"
+    },
+    {
+      "id": "epmc-MED-42983429",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "titleZh": "待复核翻译：The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12929-026-01296-1"
+    },
+    {
+      "id": "epmc-MED-42980747",
+      "title": "Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
+      "titleZh": "待复核翻译：Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11033-026-13064-3"
     }
   ],
   "missingIdentifiers": [
@@ -117,7 +150,7 @@
     {
       "id": "epmc-MED-42993929",
       "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
-      "titleZh": "AI护士与AI模拟患者通过双向微调流程在护理教育中的共存：开发与内容分析研究",
+      "titleZh": "双向微调流程下AI护士与AI模拟患者在护理教育中的共存：开发与内容分析研究",
       "category": "机制",
       "evidenceLevel": "机制研究（开发与内容分析，非临床疗效研究）",
       "relevanceScore": 0,
@@ -130,7 +163,7 @@
       "title": "Circulating insulin-like growth factor 1 (IGF-1) and short-term functional change in amyotrophic lateral sclerosis (ALS): exploratory evidence for systemic trophic-metabolic reserve.",
       "titleZh": "循环胰岛素样生长因子1（IGF-1）与肌萎缩侧索硬化（ALS）短期功能变化：系统性营养-代谢储备的探索性证据",
       "category": "临床试验",
-      "evidenceLevel": "待人工判定（Europe PMC预印本，元数据无摘要，无法判定研究设计与样本量）",
+      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究设计与证据等级）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "medium",
@@ -141,7 +174,7 @@
       "title": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current Clinical Trials.",
       "titleZh": "姜黄素在多种疾病治疗中的应用：作用机制、生物利用度、治疗效果及当前临床试验",
       "category": "临床试验",
-      "evidenceLevel": "综述（原始元数据未提供摘要，无法进一步分级）",
+      "evidenceLevel": "综述（元数据未提供摘要，无法进一步分级）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -152,7 +185,7 @@
       "title": "Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks.",
       "titleZh": "个体化人工智能驱动的神经调控选择性增强并重组人类舌感觉运动网络",
       "category": "机制",
-      "evidenceLevel": "机制研究（预印本，仅题名，无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -172,9 +205,9 @@
     {
       "id": "epmc-PPR-PPR1359099",
       "title": "National portrait of amyotrophic lateral sclerosis care in Brazil's Unified Health System (2023–2025): patient-level treatment, persistence, and geographic access from linked administrative microdata",
-      "titleZh": "巴西统一卫生系统肌萎缩侧索硬化症诊疗全景（2023–2025）：基于关联行政微观数据的患者层面治疗、持续性与地理可及性",
+      "titleZh": "巴西统一卫生系统肌萎缩侧索硬化症诊疗全国图景（2023–2025）：基于关联行政微观数据的患者层面治疗、持续性与地理可及性",
       "category": "治疗",
-      "evidenceLevel": "待人工判定（预印本，原始来源未提供摘要，无法评估研究设计与证据等级）",
+      "evidenceLevel": "预印本；行政数据观察性研究（摘要未获取，具体设计与偏倚控制待人工核查）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
@@ -183,9 +216,9 @@
     {
       "id": "pmid-43002167",
       "title": "Correspondence- The Unfinished Breath: Caregiver Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India - Methodological Considerations.",
-      "titleZh": "通讯——未完成的呼吸：印度肌萎缩侧索硬化症护理中照护者对终末事件的认知与服务缺口的方法学考量",
+      "titleZh": "通讯——未完成的呼吸：印度照护者对终末事件的认知与肌萎缩侧索硬化症照护中的缺口——方法学考量",
       "category": "机制",
-      "evidenceLevel": "通讯/方法学评论（原始来源未提供摘要）",
+      "evidenceLevel": "通讯/方法学讨论（非原始研究，无摘要）",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "low",
@@ -203,6 +236,28 @@
       "url": "https://europepmc.org/article/PMC/PMC13011587"
     },
     {
+      "id": "epmc-MED-42983584",
+      "title": "Brain clearance of protein aggregates in degenerative diseases: the role of microglia and astrocytes.",
+      "titleZh": "Brain clearance of protein aggregates in degenerative diseases: the role of 小胶质细胞 and astrocytes.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "low",
+      "url": "https://doi.org/10.1186/s40035-026-00592-y"
+    },
+    {
+      "id": "epmc-MED-42983429",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "titleZh": "待复核翻译：The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "category": "机制",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1186/s12929-026-01296-1"
+    },
+    {
       "id": "epmc-PPR-PPR1358789",
       "title": "Disrupted mannosidase enzymes in C9orf72 ALS/FTD",
       "titleZh": "待复核翻译：Disrupted mannosidase enzymes in C9orf72 ALS/FTD",
@@ -212,107 +267,107 @@
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.10.30.763135"
+    },
+    {
+      "id": "epmc-MED-42980747",
+      "title": "Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
+      "titleZh": "待复核翻译：Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
+      "category": "治疗",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1007/s11033-026-13064-3"
     }
   ],
   "highPriorityNeedsReview": [
     {
-      "id": "pmid-42983584",
-      "title": "Brain clearance of protein aggregates in degenerative diseases: the role of microglia and astrocytes.",
-      "titleZh": "退行性疾病中蛋白聚集物的脑内清除：小胶质细胞和星形胶质细胞的作用",
+      "id": "trial-NCT05744310",
+      "title": "Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families",
+      "titleZh": "待复核翻译：Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families",
       "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验（综述）",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 17,
+      "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983584/"
+      "url": "https://clinicaltrials.gov/study/NCT05744310"
     },
     {
-      "id": "pmid-42983429",
-      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
-      "titleZh": "TNKS/PI31-蛋白酶体轴作为TDP-43神经病变的核心节点",
+      "id": "trial-NCT05035823",
+      "title": "COMMAND Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis",
+      "titleZh": "待复核翻译：COMMAND Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis",
       "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983429/"
+      "url": "https://clinicaltrials.gov/study/NCT05035823"
     },
     {
-      "id": "trial-NCT07906665",
-      "title": "A Study of Single Ascending Doses of NI112 in Adults With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "A Study of Single Ascending Doses of NI112 in Adults With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT06513546",
+      "title": "A Study to Evaluate the Safety, Efficacy, and Pharmacodynamics of PLL001 in ALS Patients",
+      "titleZh": "待复核翻译：A Study to Evaluate the Safety, Efficacy, and Pharmacodynamics of PLL001 in ALS Patients",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07906665"
+      "url": "https://clinicaltrials.gov/study/NCT06513546"
     },
     {
-      "id": "trial-NCT03766321",
-      "title": "Fecal Microbiota Transplantation Effect on Amyotrophic Lateral Sclerosis Patients",
-      "titleZh": "Fecal Microbiota Transplantation Effect on 肌萎缩侧索硬化症 Patients",
+      "id": "trial-NCT04302870",
+      "title": "Motor Neurone Disease - Systematic Multi-Arm Adaptive Randomised Trial",
+      "titleZh": "运动神经元病 - Systematic Multi-Arm Adaptive Randomised Trial",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 13,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03766321"
+      "url": "https://clinicaltrials.gov/study/NCT04302870"
     },
     {
-      "id": "trial-NCT05281484",
-      "title": "Three Intermediate Expanded Access Protocols (EAP) CNMAu8.EAP01, CNMAu8.EAP02, and CNMAu8.EAP06 for ALS",
-      "titleZh": "待复核翻译：Three Intermediate Expanded Access Protocols (EAP) CNMAu8.EAP01, CNMAu8.EAP02, and CNMAu8.EAP06 for ALS",
+      "id": "trial-NCT07341984",
+      "title": "A Physiotherapy Intervention Study in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "A Physiotherapy Intervention Study in Patients With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT05281484"
+      "url": "https://clinicaltrials.gov/study/NCT07341984"
     },
     {
-      "id": "trial-NCT07571486",
-      "title": "Therapeutic Approach of Repeated Transient Blood-brain Barrier Opening in Amyotrophic Lateral Sclerosis.",
-      "titleZh": "Therapeutic Approach of Repeated Transient Blood-brain Barrier Opening in 肌萎缩侧索硬化症.",
+      "id": "trial-NCT03039673",
+      "title": "MIROCALS: Modifying Immune Response and OutComes in ALS",
+      "titleZh": "待复核翻译：MIROCALS: Modifying Immune Response and OutComes in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03039673"
+    },
+    {
+      "id": "trial-NCT04514952",
+      "title": "Individual Patient Expanded Access IND of Autologous HBadMSCs for the Treatment of Amyotrophic Lateral Sclerosis",
+      "titleZh": "Individual Patient Expanded Access IND of Autologous HBadMSCs for the Treatment of 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07571486"
+      "url": "https://clinicaltrials.gov/study/NCT04514952"
     },
     {
-      "id": "trial-NCT07294144",
-      "title": "Tofersen in Non-SOD1 ALS",
-      "titleZh": "待复核翻译：Tofersen in Non-SOD1 ALS",
+      "id": "trial-NCT05795907",
+      "title": "Single & Multiple Ascending Dose Study of SAR443820 in Healthy Adult Participants",
+      "titleZh": "待复核翻译：Single & Multiple Ascending Dose Study of SAR443820 in Healthy Adult Participants",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
+      "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07294144"
-    },
-    {
-      "id": "trial-NCT02789059",
-      "title": "Muscle Oxygenation in Effort in Neuromuscular Diseases",
-      "titleZh": "待复核翻译：Muscle Oxygenation in Effort in Neuromuscular Diseases",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02789059"
-    },
-    {
-      "id": "trial-NCT01459302",
-      "title": "Genetic Study of Familial and Sporadic ALS/Motor Neuron Disease, Miyoshi Myopathy and Other Neuromuscular Disorders",
-      "titleZh": "Genetic Study of Familial and Sporadic ALS/运动神经元病, Miyoshi Myopathy and Other Neuromuscular Disorders",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 15,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01459302"
+      "url": "https://clinicaltrials.gov/study/NCT05795907"
     },
     {
       "id": "trial-NCT00956488",
@@ -326,97 +381,86 @@
       "url": "https://clinicaltrials.gov/study/NCT00956488"
     },
     {
-      "id": "trial-NCT01424163",
-      "title": "Dexpramipexole Japanese PK Study",
-      "titleZh": "待复核翻译：Dexpramipexole Japanese PK Study",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01424163"
-    },
-    {
-      "id": "trial-NCT04172792",
-      "title": "Safety and Tolerability Ultra-high-caloric Food Supplements in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Safety and Tolerability Ultra-high-caloric Food Supplements in 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT04849065",
+      "title": "Clinical Trial on the Use of Cell Therapy in the Treatment of Patients With Amyotrophic Lateral Sclerosis",
+      "titleZh": "临床试验 on the Use of Cell Therapy in the Treatment of Patients With 肌萎缩侧索硬化症",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04172792"
+      "url": "https://clinicaltrials.gov/study/NCT04849065"
     },
     {
-      "id": "trial-NCT03293394",
-      "title": "Rehabilitative Trial With tDCS in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Rehabilitative Trial With tDCS in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03293394"
-    },
-    {
-      "id": "trial-NCT03049046",
-      "title": "CC100: Phase 1 Multiple-Dose Safety and Tolerability in Subjects With ALS",
-      "titleZh": "CC100: I 期 Multiple-Dose Safety and Tolerability in Subjects With ALS",
+      "id": "trial-NCT03560661",
+      "title": "Acoustic and Perceptual Markers of Dysarthria in Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Acoustic and Perceptual Markers of Dysarthria in 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT03049046"
+      "url": "https://clinicaltrials.gov/study/NCT03560661"
     },
     {
-      "id": "trial-NCT00879593",
-      "title": "Nocturnal PtcCO2 Monitoring in Patients With Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Nocturnal PtcCO2 Monitoring in Patients With 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT02710110",
+      "title": "Respiratory Strength Training in Persons With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Respiratory Strength Training in Persons With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00879593"
+      "url": "https://clinicaltrials.gov/study/NCT02710110"
     },
     {
-      "id": "trial-NCT01999803",
-      "title": "A Safety Study of sNN0029 Administration Via Intracerebroventricular Route to Patients With ALS",
-      "titleZh": "待复核翻译：A Safety Study of sNN0029 Administration Via Intracerebroventricular Route to Patients With ALS",
+      "id": "trial-NCT04140136",
+      "title": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With 肌萎缩侧索硬化症 (ALS)",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01999803"
+      "url": "https://clinicaltrials.gov/study/NCT04140136"
     },
     {
-      "id": "trial-NCT00563537",
-      "title": "Molecular Imaging Modality by Positron Emission Tomography Using 18F-X : Study of Microglial Activation in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Molecular Imaging Modality by Positron Emission Tomography Using 18F-X : Study of 小胶质细胞l Activation in 肌萎缩侧索硬化症",
+      "id": "trial-NCT03196375",
+      "title": "A Study to Assess FLX-787 in Subjects With Motor Neuron Disease Experiencing Muscle Cramps.",
+      "titleZh": "A Study to Assess FLX-787 in Subjects With 运动神经元病 Experiencing Muscle Cramps.",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT00563537"
+      "url": "https://clinicaltrials.gov/study/NCT03196375"
+    },
+    {
+      "id": "trial-NCT01825551",
+      "title": "The Effect of GCSF in the Treatment of ALS Patients",
+      "titleZh": "待复核翻译：The Effect of GCSF in the Treatment of ALS Patients",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01825551"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 5,
+    "疑似误收": 8,
     "缺标识符": 1,
-    "缺摘要": 11,
-    "高优先级待复核": 17,
+    "缺摘要": 14,
+    "高优先级待复核": 15,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 39
+    "待复核": 42
   },
   "relevanceCounts": {
-    "high": 26,
-    "medium": 8,
-    "low": 5
+    "high": 25,
+    "medium": 9,
+    "low": 8
   }
 }
