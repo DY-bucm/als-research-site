@@ -1,14 +1,54 @@
 {
-  "updatedAt": "2026-11-11T01:54:31.377Z",
+  "updatedAt": "2026-11-12T02:55:54.378Z",
   "period": {
     "days": 10,
-    "from": "2026-11-02",
-    "to": "2026-11-11"
+    "from": "2026-11-03",
+    "to": "2026-11-12"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 27,
+  "count": 32,
   "articles": [
+    {
+      "id": "pmid-42947522",
+      "pmid": "42947522",
+      "doi": "10.1002/cmdc.70554",
+      "title": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable Amyotrophic Lateral Sclerosis.",
+      "abstract": "Boron (B), a group 13 metalloid, has emerged as a versatile element at the intersection of chemistry, biology, and medicine. Its electron-deficient nature and ability to reversibly interconvert between trigonal planar (sp 2 ) and tetrahedral (sp 3 ) geometries enable dynamic covalent interactions with biological nucleophiles, making boron-containing compounds (BCCs) attractive pharmacophores that selectively interact with reactive oxygen species (ROS) and are ROS-responsive for therapeutic development. BCCs possess antioxidant, anti-inflammatory, and metal-chelating properties that make them attractive candidates for neurodegenerative diseases. Amyotrophic lateral sclerosis (ALS), a fatal and multifactorial motor neurodegenerative disorder, is characterized by oxidative stress, neuroinflammation, mitochondrial dysfunction, and metal dyshomeostasis, providing a strong rationale for exploring boron-based therapeutics. This review examines current literature on B chemistry, pharmacology, and translational applications, with emphasis on mechanisms relevant to ALS pathogenesis. This review focuses on ROS-responsive B scaffolds, blood-brain barrier (BBB) permeability, neuroprotective mechanisms, hormonal modulation, metal chelation, and emerging preclinical evidence supporting boron-based interventions. BCCs represent a promising yet underexplored therapeutic platform for ALS and related neurodegenerative disorders. Their ROS-responsive, redox-modulating, and neuroprotective properties, combined with favorable CNS drug-like pharmacokinetics, offer a mechanistically distinct approach to disease modification. Emerging preclinical evidence strongly supports further translational investigation.",
+      "journal": "ChemMedChem",
+      "authors": [
+        "Sanghai N",
+        "Vuong B",
+        "Afridi MSK",
+        "Leggett S",
+        "Roghzai H",
+        "Tranmer GK"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947522/"
+    },
+    {
+      "id": "pmid-43012465",
+      "pmid": "43012465",
+      "doi": "10.4103/aian.aian_1096_26",
+      "title": "Authors' Reply- Unfinished Breath: Caregivers' Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India.",
+      "abstract": "",
+      "journal": "Annals of Indian Academy of Neurology",
+      "authors": [
+        "Keerthipriya MS",
+        "Nalini A",
+        "Thomas PT"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012465/"
+    },
     {
       "id": "pmid-42862052",
       "pmid": "42862052",
@@ -32,6 +72,92 @@
       ],
       "publishedAt": "2026-11-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42862052/"
+    },
+    {
+      "id": "pmid-43009651",
+      "pmid": "43009651",
+      "doi": "10.1007/s00415-026-14241-x",
+      "title": "Impaired discrimination of negative facial emotions in pure motor ALS.",
+      "abstract": "Emotion recognition deficits in amyotrophic lateral sclerosis (ALS) remain debated. We investigated whether patients with pure motor ALS (without cognitive and behavioural disturbances) and without clinically relevant mood disturbances are impaired in discriminating negative facial emotions, using a test without ceiling effects. This cross-sectional study included 35 patients with pure motor ALS, based on the revised Strong criteria and operationalised using the Edinburgh Cognitive and Behavioural ALS Screen (ECAS), without clinically relevant mood disturbances, alongside 35 age-, sex-, and education-matched cognitively and psychiatrically healthy controls. All participants completed a shortened five-emotion version of the Facial Emotion Intensity Rating Test - Congruent and Incongruent and the Facial Sex Matching Task (FSMT), a brief screening measure of non-emotional facial discrimination. Pure motor ALS patients showed poorer discrimination among negative facial emotions than healthy controls (p = 0.011, Cohen's d = 0.63). The group difference did not differ significantly across anger, fear, sadness, and disgust (p = 0.178). Similarly, the group difference in discrimination among negative emotions did not differ significantly from that in discrimination between negative emotions and happiness (p = 0.459). The two groups did not differ significantly on the FSMT. Discrimination of negative facial emotions was impaired in patients with pure motor ALS, suggesting that classification based on ECAS screening may underestimate social-cognitive involvement. Our findings are compatible with the concept of an ALS-frontotemporal spectrum disorder. Whether impaired emotion discrimination relates to additional cognitive or behavioural impairment remains to be determined. The clinical utility and reliability of our measure require further study.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Meyer A",
+        "Semenkova A",
+        "Wezel S",
+        "Weber M",
+        "Schweikert K",
+        "Schläger R",
+        "Wendebourg J",
+        "Piguet O",
+        "Berres M",
+        "Braun N",
+        "Lulé D",
+        "Sollberger M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009651/"
+    },
+    {
+      "id": "pmid-43008331",
+      "pmid": "43008331",
+      "doi": "10.1088/1741-2552/aec049",
+      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
+      "abstract": "Achieving long-term decoding stability is a critical challenge for chronic&#xD;intracranial brain-computer interfaces (BCIs). High-gamma (HG) activity from&#xD;intracranial recordings is the standard signal for BCI control, and lower-frequency features&#xD;can enhance HG decoding performance. This study evaluated the longitudinal stability of&#xD;speech and hand-grasp detection models using individual and joint spectral features, and&#xD;the local motor potential (LMP).&#xD;Approach. Longitudinal data from a single participant implanted with two 64-channel&#xD;ECoG arrays were used to evaluate the long-term stability of logistic regression models for&#xD;speech and hand-grasp detection. Models were trained on individual frequency bands and&#xD;on the LMP, a time-domain low-frequency feature, and evaluated over 21 months for&#xD;speech and 13 months for grasp. The best-performing band features were then combined&#xD;into multi-band models and analyzed for their spatial contributions.&#xD;Main Results. The LMP yielded the most accurate single feature models in both tasks&#xD;(speech 93.8%, grasp 99.4%) and showed little or no decline. Multi-band models&#xD;combining HG with lower frequency bands were substantially more stable than HG-only&#xD;models and outperformed the LMP models for speech but not grasp. HG accuracy&#xD;degraded strongly for both tasks (speech:-4.3 percentage points per 100 days, or pp/100d,&#xD;grasp:-3.4 pp/100d). HG+beta for speech showed a negligible decline (-0.5 pp/100d,&#xD;95.6% ±0.06% overall), and for grasp, delta alone showed remarkable stability (+0.5&#xD;pp/100d), while HG+beta+delta maintained 98.2 ±0.09% overall accuracy with flat&#xD;performance (+0.0 pp/100d). The advantage of the multi-band models increased over&#xD;time, reaching +20.6 pp for speech and +10.2 pp for grasp in the last 100 days.&#xD;Significance. Incorporating lower-frequency neural activity yields more stable long-term&#xD;speech and grasp detection than HG alone. These findings indicate that lower-frequency&#xD;and multi-band features may reduce recalibration requirements for simple BCI tasks, and&#xD;may complement the precision control provided by HG activity.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Wallner J",
+        "Angrick M",
+        "Luo S",
+        "Candrea D",
+        "Crone N",
+        "Krusienski DJ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008331/"
+    },
+    {
+      "id": "pmid-43009540",
+      "pmid": "43009540",
+      "doi": "10.1038/s12276-026-01891-0",
+      "title": "The neuro-inflammaging triangle: a self-amplifying circuit of protein pathology, senescence-associated secretory phenotype and innate immunity in neurodegenerative disease.",
+      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, frontotemporal dementia and amyotrophic lateral sclerosis, share common pathological features, including abnormal protein aggregation, chronic neuroinflammation and progressive neuronal loss. Ageing is the strongest risk factor, accompanied by a chronic, mild inflammatory state called 'inflammaging,' partly due to senescent cells producing senescence-associated secretory phenotype (SASP) factors. Innate immune DNA- and danger-sensing pathways, most notably the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway and NOD-like receptor family, pyrin domain containing 3 (NLRP3) inflammasomes, convert cellular injury into chronic neuroinflammation. Here, we propose that protein pathology, SASP, and innate immune activation form a self-amplifying triangular circuit leading to age-related neurodegeneration. We present the cellular and molecular basis of each part and how microglia, astrocytes, oligodendrocyte precursor cells and neurons contribute. We outline treatment strategies, including senolytics, senomorphics, innate immune pathway inhibitors and metabolic restoration, and identify unresolved questions, including the reversibility of post-mitotic neuronal senescence, the relative contribution of each cell type and the translational challenge of interrupting the cycle. Collectively, the neuro-inflammaging triangle theory shifts focus from individual pathogenic entities to the self-amplifying circuit that sustains them, offering a unified mechanistic model to advance our understanding and treatment of age-related neurodegeneration.",
+      "journal": "Experimental & molecular medicine",
+      "authors": [
+        "Lee HJ",
+        "Lee SJ"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009540/"
+    },
+    {
+      "id": "pmid-43013396",
+      "pmid": "43013396",
+      "doi": "10.1016/j.celrep.2026.118283",
+      "title": "TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.",
+      "abstract": "Selective autophagy receptors recognize and recruit harmful intracellular components to autophagosomes for degradation, and their dysfunction is linked to neurodegeneration, metabolic disorders, and cancer. Here, we identified TNFAIP3 interacting protein 1 (TNIP1) as an aggrephagy receptor implicated in neurodegenerative diseases. TNIP1 accumulated at polyubiquitinated protein aggregates upon proteotoxic stress. Genetic depletion of TNIP1 reduced protein aggregate clearance and increased axonal degeneration under proteotoxic stress. Mechanistically, TNIP1 enhanced protein aggregate clearance by assembling aggrephagy receptors, such as SQSTM1/p62 and TAX1BP1, onto protein aggregates. Gene expression analysis revealed that TNIP1 expression levels are reduced in patients with amyotrophic lateral sclerosis (ALS) with TAR DNA-binding protein 43 (TDP-43) inclusion pathology. Additionally, an ALS-associated TNIP1 mutant exhibited impaired association with TDP-43 aggregates and failed to rescue their autophagy-mediated degradation. These findings establish TNIP1 as an aggrephagy receptor and reveal its potential role as a therapeutic target for ALS and other proteinopathies.",
+      "journal": "Cell reports",
+      "authors": [
+        "Park H",
+        "Kim T",
+        "Kang M",
+        "Ryu JK",
+        "Lee S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013396/"
     },
     {
       "id": "pmid-43001357",
@@ -567,6 +693,25 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42974926/"
     },
     {
+      "id": "pmid-43012292",
+      "pmid": "43012292",
+      "doi": "10.2174/0113892010520055261019113815",
+      "title": "Ferroptosis as a Therapeutic Target in Neurological Disorders: Pharmacological Advances and Translational Challenges.",
+      "abstract": "Ferroptosis is an iron-mediated form of programmed cell death characterised by distinct features, including excessive iron accumulation, lipid peroxidation, and impaired antioxidant mechanisms. The susceptibility of the Central Nervous System (CNS) to ferroptosis has been reported, along with evidence that ferroptosis is associated with neurological disorders such as Alzheimer's Disease (AD), Parkinson's Disease (PD), Amyotrophic Lateral Sclerosis (ALS), stroke, and Multiple Sclerosis (MS). To date, major ferroptosis inhibitors encompass iron chelators, lipid-trapping antioxidants, and antioxidant modulators. Translational challenges in drug toxicity, selectivity, and delivery promote drug development in terms of improving pharmacokinetics through structural modification, alternative routes of administration, and nanoparticle encapsulation. In addition, research on identifying novel and promising ferroptosis inhibitors from natural products and known drug compounds is continuous, accompanied by ongoing drug optimisation and modification. Biomarkers of ferroptosis have been discussed given the emerging clinical interest in them for disease diagnosis or prognosis and patient stratification. Standalone anti-ferroptotic treatments for CNS disorders have been found to be difficult to achieve favourable clinical outcomes, thereby suggesting combination therapies that not only harness ferroptosis but also address diverse pathological pathways in the respective diseases as a prospect for managing CNS disorders. Thus, this article aims to review recent updates on clinically approved ferroptosis inhibitors as well as summarise the current drug development landscape and outline future directions to provide a better understanding of the contemporary development of ferroptosis inhibitors for neurological disorders.",
+      "journal": "Current pharmaceutical biotechnology",
+      "authors": [
+        "Eng JH",
+        "Chong AEY",
+        "Koh RY",
+        "Ling APK"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012292/"
+    },
+    {
       "id": "pmid-42975041",
       "pmid": "42975041",
       "doi": "10.1080/21678421.2026.2750614",
@@ -631,52 +776,6 @@
       ],
       "publishedAt": "2026-11-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42974963/"
-    },
-    {
-      "id": "pmid-42972606",
-      "pmid": "42972606",
-      "doi": "10.1002/mrm.70646",
-      "title": "Evidence of White Matter R 2 * Homogenization After Formalin Fixation.",
-      "abstract": "Disentangling intrinsic susceptibility-driven R 2 * characteristics in white matter (WM) from fixation-related effects using in vivo, postmortem (PM) in situ, and formalin-fixed PM ex situ MRI. DTI and multi-echo gradient-echo MRI were acquired in vivo, PM in situ and PM ex situ. PM cases included neurologically healthy individuals and patients with amyotrophic lateral sclerosis (ALS). Voxel-wise R 2 * values were obtained using a mono-exponential fit and evaluated both as whole WM averages and according to WM fiber-to-field orientation. For the PM ex situ orientation-dependency analysis, PM ex situ R 2 * data were registered to the corresponding in situ DTI acquisition. Averaged as well as orientation-dependent R 2 * profiles were pooled across WM and compared across conditions. Whole WM averaged and orientation-dependent R 2 * values differed across in vivo, PM in situ, and PM ex situ conditions. No differences were observed between PM in situ healthy and PM in situ ALS cases. Compared with in vivo measurements, both PM conditions showed elevated whole WM averaged R 2 * values and reduced orientation dependency, with the strongest R 2 * anisotropy in vivo and nearly absent orientation dependency in the PM ex situ condition. While orientation-dependent R 2 * is reduced but preserved in unfixed PM in situ tissue, it is largely eliminated after prolonged formalin fixation without rehydration, likely due to microstructural reorganization and protein cross-linking. Collectively, these findings indicate that orientation-dependent R 2 * measured in fixed tissue has limited translational validity, while underscoring its sensitivity to intact microstructural organization in vivo and in unfixed PM tissue.",
-      "journal": "Magnetic resonance in medicine",
-      "authors": [
-        "Bedarf L",
-        "Neuhaus D",
-        "Bauer M",
-        "Berger C",
-        "Wendebourg MJ",
-        "Schlaeger R",
-        "Birkl C",
-        "Scheurer E",
-        "Lenz C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972606/"
-    },
-    {
-      "id": "pmid-42990777",
-      "pmid": "42990777",
-      "doi": "10.1136/bmjno-2026-001715",
-      "title": "Pathological separation utility of plasma neurofilament light chain (NfL) detected by a single-molecule immunoassay platform in neurodegenerative diseases.",
-      "abstract": "To establish age-stratified plasma neurofilament light chain (NfL) reference intervals using a domestic Digital Single-Molecule Sensing (DiSMS) platform and to explore neuropathological profiles across amyotrophic lateral sclerosis (ALS), inflammatory demyelinating diseases (IDD) and healthy individuals. We enrolled 719 participants (510 healthy controls, 121 ALS, 88 IDD). Age-specific reference intervals defining the healthy boundary were established using the 2.5th-97.5th percentile method. Pathological separation utility was evaluated via age-stratified subgroup comparisons and receiver operating characteristic (ROC) analysis. Plasma NfL levels in healthy individuals increased significantly with age (p<0.0001), with reference intervals of 2.68-17.09 pg/mL (20-49 years), 7.14-61.95 pg/mL (50-69 years) and 14.20-104.71 pg/mL (≥70 years). Out-of-boundary NfL elevation rates demonstrated prominent age-dependent fluctuations. In ALS, out-of-boundary elevation rates were 98.3% (57/58) for the 20-49 age group, 68.4% (39/57) for the 50-69 group and 50.0% (3/6) for the ≥70 group, capturing the aggressive tempo of primary motor neuron degeneration. In IDD-which primarily comprised patients in early, clinically stable phases-out-of-boundary rates were 17.0% (8/47) in the 20-49 group and 2.6% (1/38) in the 50-69 group. Age-stratified ROC analysis demonstrated exceptional separation capacity for ALS against healthy controls (area under the curve (AUC): 20-49 years=0.999; 50-69 years=0.964; ≥70 years=0.981) and against IDD (AUC: 20-49 years=0.910; 50-69 years=0.976). Intriguingly, in the 20-49 group where physiological ageing noise was minimal, the platform retained a modest capability to distinguish stable IDD from healthy controls (AUC=0.607). Age-stratified plasma NfL mapping provides a rigorous normative framework for defining population-specific healthy boundaries in China. Rather than functioning as a standalone differential classifier, the dramatic cross-sectional variance in peripheral NfL magnitude successfully maps the distinct pathological spaces separating primary, continuous neurodegeneration (ALS) from quiescent neuroinflammation (IDD) across the adult lifespan, validating the analytical utility of domestic DiSMS platforms.",
-      "journal": "BMJ neurology open",
-      "authors": [
-        "Huang J",
-        "Li H",
-        "Zhou H",
-        "Li T",
-        "Li J",
-        "Liu D",
-        "Yan K"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-02",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42990777/"
     }
   ]
 }

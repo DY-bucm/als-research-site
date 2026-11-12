@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T01:56:04.104Z",
+  "updatedAt": "2026-11-12T02:57:30.223Z",
   "summary": {
-    "totalItems": 42,
-    "issueCount": 38
+    "totalItems": 45,
+    "issueCount": 46
   },
   "sources": [
     {
@@ -23,47 +23,80 @@
   ],
   "lowRelevance": [
     {
+      "id": "pmid-43008331",
+      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
+      "titleZh": "低频ECoG特征提高进行性ALS患者语音与抓握检测的纵向稳定性",
+      "category": "机制",
+      "evidenceLevel": "单例纵向机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008331/"
+    },
+    {
       "id": "epmc-MED-42993929",
       "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
-      "titleZh": "双向微调流程下AI护士与AI模拟患者在护理教育中的共存：开发与内容分析研究",
+      "titleZh": "AI护士与AI模拟患者通过双向微调流程在护理教育中的共存：开发与内容分析研究",
       "category": "机制",
-      "evidenceLevel": "机制研究（开发与内容分析，非临床疗效研究）",
+      "evidenceLevel": "机制研究（仅题名与元数据，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.2196/100778"
     },
     {
-      "id": "epmc-MED-42996885",
-      "title": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current Clinical Trials.",
-      "titleZh": "姜黄素在多种疾病治疗中的应用：作用机制、生物利用度、治疗效果及当前临床试验",
-      "category": "临床试验",
-      "evidenceLevel": "综述（元数据未提供摘要，无法进一步分级）",
+      "id": "epmc-MED-42992452",
+      "title": "Leuprorelin Acetate for Spinal and Bulbar Muscular Atrophy: A Systematic Review of Clinical Efficacy, Long-Term Outcomes, and Safety Considerations.",
+      "titleZh": "醋酸亮丙瑞林治疗脊髓延髓肌萎缩症：临床疗效、长期结局及安全性考量的系统综述",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/mus.70454"
+    },
+    {
+      "id": "epmc-MED-42896567",
+      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
+      "titleZh": "P300拼写器中的校准到准确率映射无法跨队列迁移，且测试的对齐或局部重校准未能恢复该映射。",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1088/1741-2552/aeb62c"
+    },
+    {
+      "id": "epmc-MED-42996885",
+      "title": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current Clinical Trials.",
+      "titleZh": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current 临床试验s.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.1002/mco2.71124"
     },
     {
       "id": "epmc-PPR-PPR1361213",
       "title": "Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks.",
-      "titleZh": "个体化人工智能驱动的神经调控选择性增强并重组人类舌感觉运动网络",
+      "titleZh": "待复核翻译：Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks.",
       "category": "机制",
-      "evidenceLevel": "机制研究（仅题名，无摘要）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.11.04.764393"
     },
     {
       "id": "epmc-PPR-PPR1359335",
       "title": "CD3 on CD39-Positive Resting CD4 Regulatory T Cells and ALS Risk: Genetic Localization to the CD247 Region",
-      "titleZh": "CD39阳性静息CD4调节性T细胞上的CD3与ALS风险：遗传定位到CD247区域",
+      "titleZh": "待复核翻译：CD3 on CD39-Positive Resting CD4 Regulatory T Cells and ALS Risk: Genetic Localization to the CD247 Region",
       "category": "遗传",
-      "evidenceLevel": "动物/细胞实验（预印本；原始元数据未提供摘要，具体实验体系无法确认）",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-11169945/v1"
     },
     {
@@ -126,6 +159,17 @@
   ],
   "missingAbstract": [
     {
+      "id": "pmid-43012465",
+      "title": "Authors' Reply- Unfinished Breath: Caregivers' Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India.",
+      "titleZh": "作者回复——未完成的呼吸：印度肌萎缩侧索硬化症照护者对终末事件的认知及照护缺口",
+      "category": "机制",
+      "evidenceLevel": "学术通信（作者回复），无原始研究数据",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "low",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012465/"
+    },
+    {
       "id": "pmid-42636890",
       "title": "Living drug carriers: Microbial and bioengineered platforms redefining precision therapeutic and immunomodulatory delivery.",
       "titleZh": "活体药物载体：微生物与生物工程平台重新定义精准治疗与免疫调节递送",
@@ -139,9 +183,9 @@
     {
       "id": "epmc-PPR-PPR1361249",
       "title": "Sex-specific white adipose tissue dysfunction in the TDP-43 A315T mice model of amyotrophic lateral sclerosis (ALS)",
-      "titleZh": "肌萎缩侧索硬化（ALS）TDP-43 A315T小鼠模型中的性别特异性白色脂肪组织功能障碍",
+      "titleZh": "TDP-43 A315T肌萎缩侧索硬化（ALS）小鼠模型中的性别特异性白色脂肪组织功能障碍",
       "category": "临床试验",
-      "evidenceLevel": "动物/细胞实验",
+      "evidenceLevel": "动物/细胞实验（预印本，仅有题名，无摘要）",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "medium",
@@ -150,9 +194,9 @@
     {
       "id": "epmc-MED-42993929",
       "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
-      "titleZh": "双向微调流程下AI护士与AI模拟患者在护理教育中的共存：开发与内容分析研究",
+      "titleZh": "AI护士与AI模拟患者通过双向微调流程在护理教育中的共存：开发与内容分析研究",
       "category": "机制",
-      "evidenceLevel": "机制研究（开发与内容分析，非临床疗效研究）",
+      "evidenceLevel": "机制研究（仅题名与元数据，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -163,66 +207,88 @@
       "title": "Circulating insulin-like growth factor 1 (IGF-1) and short-term functional change in amyotrophic lateral sclerosis (ALS): exploratory evidence for systemic trophic-metabolic reserve.",
       "titleZh": "循环胰岛素样生长因子1（IGF-1）与肌萎缩侧索硬化（ALS）短期功能变化：系统性营养-代谢储备的探索性证据",
       "category": "临床试验",
-      "evidenceLevel": "待人工判定（原始元数据未提供摘要，无法判断研究设计与证据等级）",
+      "evidenceLevel": "待人工判定（Europe PMC 预印本记录，未提供摘要，研究设计与样本量不明）",
       "relevanceScore": 7,
       "relevanceFlag": "high",
       "priority": "medium",
       "url": "https://doi.org/10.64898/2026.11.05.26366903"
     },
     {
-      "id": "epmc-MED-42996885",
-      "title": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current Clinical Trials.",
-      "titleZh": "姜黄素在多种疾病治疗中的应用：作用机制、生物利用度、治疗效果及当前临床试验",
-      "category": "临床试验",
-      "evidenceLevel": "综述（元数据未提供摘要，无法进一步分级）",
+      "id": "epmc-MED-42992452",
+      "title": "Leuprorelin Acetate for Spinal and Bulbar Muscular Atrophy: A Systematic Review of Clinical Efficacy, Long-Term Outcomes, and Safety Considerations.",
+      "titleZh": "醋酸亮丙瑞林治疗脊髓延髓肌萎缩症：临床疗效、长期结局及安全性考量的系统综述",
+      "category": "机制",
+      "evidenceLevel": "综述/荟萃分析",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1002/mus.70454"
+    },
+    {
+      "id": "epmc-MED-42896567",
+      "title": "The calibration-to-accuracy mapping in P300 spellers does not transport across cohorts and was not restored by tested alignment or local recalibration.",
+      "titleZh": "P300拼写器中的校准到准确率映射无法跨队列迁移，且测试的对齐或局部重校准未能恢复该映射。",
+      "category": "机制",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.1088/1741-2552/aeb62c"
+    },
+    {
+      "id": "epmc-MED-42996885",
+      "title": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current Clinical Trials.",
+      "titleZh": "Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current 临床试验s.",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
       "url": "https://doi.org/10.1002/mco2.71124"
     },
     {
       "id": "epmc-PPR-PPR1361213",
       "title": "Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks.",
-      "titleZh": "个体化人工智能驱动的神经调控选择性增强并重组人类舌感觉运动网络",
+      "titleZh": "待复核翻译：Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks.",
       "category": "机制",
-      "evidenceLevel": "机制研究（仅题名，无摘要）",
+      "evidenceLevel": "机制研究",
       "relevanceScore": 0,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.64898/2026.11.04.764393"
+    },
+    {
+      "id": "epmc-MED-42989982",
+      "title": "The decline of respiratory function in amyotrophic lateral sclerosis patients and the role of non-invasive ventilation.",
+      "titleZh": "The decline of respiratory function in 肌萎缩侧索硬化症 patients and the role of non-invasive ventilation.",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.4081/monaldi.2026.3644"
     },
     {
       "id": "epmc-PPR-PPR1359335",
       "title": "CD3 on CD39-Positive Resting CD4 Regulatory T Cells and ALS Risk: Genetic Localization to the CD247 Region",
-      "titleZh": "CD39阳性静息CD4调节性T细胞上的CD3与ALS风险：遗传定位到CD247区域",
+      "titleZh": "待复核翻译：CD3 on CD39-Positive Resting CD4 Regulatory T Cells and ALS Risk: Genetic Localization to the CD247 Region",
       "category": "遗传",
-      "evidenceLevel": "动物/细胞实验（预印本；原始元数据未提供摘要，具体实验体系无法确认）",
+      "evidenceLevel": "动物/细胞实验",
       "relevanceScore": 2,
       "relevanceFlag": "low",
-      "priority": "medium",
+      "priority": "low",
       "url": "https://doi.org/10.21203/rs.3.rs-11169945/v1"
     },
     {
       "id": "epmc-PPR-PPR1359099",
       "title": "National portrait of amyotrophic lateral sclerosis care in Brazil's Unified Health System (2023–2025): patient-level treatment, persistence, and geographic access from linked administrative microdata",
-      "titleZh": "巴西统一卫生系统肌萎缩侧索硬化症诊疗全国图景（2023–2025）：基于关联行政微观数据的患者层面治疗、持续性与地理可及性",
+      "titleZh": "National portrait of 肌萎缩侧索硬化症 care in Brazil's Unified Health System (2023–2025): patient-level treatment, persistence, and geographic access from linked administrative microdata",
       "category": "治疗",
-      "evidenceLevel": "预印本；行政数据观察性研究（摘要未获取，具体设计与偏倚控制待人工核查）",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 5,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://doi.org/10.21203/rs.3.rs-11118785/v1"
-    },
-    {
-      "id": "pmid-43002167",
-      "title": "Correspondence- The Unfinished Breath: Caregiver Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India - Methodological Considerations.",
-      "titleZh": "通讯——未完成的呼吸：印度照护者对终末事件的认知与肌萎缩侧索硬化症照护中的缺口——方法学考量",
-      "category": "机制",
-      "evidenceLevel": "通讯/方法学讨论（非原始研究，无摘要）",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43002167/"
     },
     {
       "id": "epmc-PMC-PMC13011587",
@@ -281,6 +347,28 @@
     }
   ],
   "highPriorityNeedsReview": [
+    {
+      "id": "pmid-43013396",
+      "title": "TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.",
+      "titleZh": "TNIP1作为聚集自噬受体组装清除机器以去除蛋白聚集体",
+      "category": "临床试验",
+      "evidenceLevel": "观察性临床研究（含细胞与患者样本的机制研究）",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013396/"
+    },
+    {
+      "id": "pmid-43008331",
+      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
+      "titleZh": "低频ECoG特征提高进行性ALS患者语音与抓握检测的纵向稳定性",
+      "category": "机制",
+      "evidenceLevel": "单例纵向机制研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008331/"
+    },
     {
       "id": "trial-NCT05744310",
       "title": "Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families",
@@ -449,18 +537,18 @@
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 8,
+    "疑似误收": 11,
     "缺标识符": 1,
-    "缺摘要": 14,
-    "高优先级待复核": 15,
+    "缺摘要": 17,
+    "高优先级待复核": 17,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 42
+    "待复核": 45
   },
   "relevanceCounts": {
-    "high": 25,
-    "medium": 9,
-    "low": 8
+    "high": 24,
+    "medium": 10,
+    "low": 11
   }
 }

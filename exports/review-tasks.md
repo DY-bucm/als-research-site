@@ -4,42 +4,52 @@
   - https://pubmed.ncbi.nlm.nih.gov/42894325/
 - [ ] 诃子（Terminalia chebula）作为潜在的多靶点神经保护剂：神经退行性疾病中的转化启示与未来方向 (pmid-42964735)
   - https://pubmed.ncbi.nlm.nih.gov/42964735/
-- [ ] 对《从愿景到验证：Tofersen 在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的历程》的更正 (pmid-42960175)
+- [ ] 对《从愿景到验证：托弗森在超氧化物歧化酶1基因相关肌萎缩侧索硬化中的探索历程》的勘误 (pmid-42960175)
   - https://pubmed.ncbi.nlm.nih.gov/42960175/
 - [ ] 工程化过氧化物酶体与患者来源iPSC模型作为氧化应激驱动中枢神经系统疾病精准神经保护的潜在生物材料平台 (pmid-42959522)
   - https://pubmed.ncbi.nlm.nih.gov/42959522/
-- [ ] 亚洲队列中他汀类药物暴露与肌萎缩侧索硬化生存结局的关系 (pmid-42861689)
-  - https://pubmed.ncbi.nlm.nih.gov/42861689/
+- [ ] 硼-神经元连接：含硼分子治疗不可治愈性肌萎缩侧索硬化的潜力 (pmid-42947522)
+  - https://pubmed.ncbi.nlm.nih.gov/42947522/
+- [ ] 新型化合物诱导AChR聚集并改善重症肌无力动物模型的运动功能 (pmid-42863218)
+  - https://pubmed.ncbi.nlm.nih.gov/42863218/
+- [ ] 作者回复——未完成的呼吸：印度肌萎缩侧索硬化症照护者对终末事件的认知及照护缺口 (pmid-43012465)
+  - https://pubmed.ncbi.nlm.nih.gov/43012465/
+- [ ] [高优先级] TNIP1作为聚集自噬受体组装清除机器以去除蛋白聚集体 (pmid-43013396)
+  - https://pubmed.ncbi.nlm.nih.gov/43013396/
+- [ ] 纯运动型ALS患者对负面面部情绪的辨别能力受损 (pmid-43009651)
+  - https://pubmed.ncbi.nlm.nih.gov/43009651/
+- [ ] 神经炎性衰老三角：神经退行性疾病中蛋白病理、衰老相关分泌表型与先天免疫的自我放大环路 (pmid-43009540)
+  - https://pubmed.ncbi.nlm.nih.gov/43009540/
+- [ ] [疑似误收] [高优先级] 低频ECoG特征提高进行性ALS患者语音与抓握检测的纵向稳定性 (pmid-43008331)
+  - https://pubmed.ncbi.nlm.nih.gov/43008331/
 - [ ] 碳点基纳米材料在神经退行性疾病中的应用：应对神经生物学屏障与靶向挑战 (pmid-42862052)
   - https://pubmed.ncbi.nlm.nih.gov/42862052/
 - [ ] 活体药物载体：微生物与生物工程平台重新定义精准治疗与免疫调节递送 (pmid-42636890)
   - https://pubmed.ncbi.nlm.nih.gov/42636890/
 - [ ] 超越神经元：运动神经元病中的心脏受累 (pmid-43003200)
   - https://pubmed.ncbi.nlm.nih.gov/43003200/
-- [ ] 改良补肾健脾汤（mBSJP）治疗肌萎缩侧索硬化：多中心研究 (pmid-43001357)
+- [ ] 改良补肾健脾汤（mBSJP）治疗肌萎缩侧索硬化症：多中心研究 (pmid-43001357)
   - https://pubmed.ncbi.nlm.nih.gov/43001357/
-- [ ] 肌萎缩侧索硬化（ALS）TDP-43 A315T小鼠模型中的性别特异性白色脂肪组织功能障碍 (epmc-PPR-PPR1361249)
+- [ ] TDP-43 A315T肌萎缩侧索硬化（ALS）小鼠模型中的性别特异性白色脂肪组织功能障碍 (epmc-PPR-PPR1361249)
   - https://doi.org/10.21203/rs.3.rs-9925200/v1
-- [ ] 醋酸亮丙瑞林治疗脊髓延髓肌萎缩症：临床疗效、长期结局与安全性考量的系统综述 (pmid-42992452)
-  - https://pubmed.ncbi.nlm.nih.gov/42992452/
-- [ ] P300拼写器中的校准-准确度映射无法跨队列迁移，且经测试的对齐或局部重校准均未能恢复该映射 (pmid-42896567)
-  - https://pubmed.ncbi.nlm.nih.gov/42896567/
-- [ ] [疑似误收] 双向微调流程下AI护士与AI模拟患者在护理教育中的共存：开发与内容分析研究 (epmc-MED-42993929)
+- [ ] [疑似误收] AI护士与AI模拟患者通过双向微调流程在护理教育中的共存：开发与内容分析研究 (epmc-MED-42993929)
   - https://doi.org/10.2196/100778
 - [ ] 循环胰岛素样生长因子1（IGF-1）与肌萎缩侧索硬化（ALS）短期功能变化：系统性营养-代谢储备的探索性证据 (epmc-PPR-PPR1360985)
   - https://doi.org/10.64898/2026.11.05.26366903
-- [ ] 肌萎缩侧索硬化患者呼吸功能下降与无创通气的作用 (pmid-42989982)
-  - https://pubmed.ncbi.nlm.nih.gov/42989982/
-- [ ] [疑似误收] 姜黄素在多种疾病治疗中的应用：作用机制、生物利用度、治疗效果及当前临床试验 (epmc-MED-42996885)
+- [ ] [疑似误收] 醋酸亮丙瑞林治疗脊髓延髓肌萎缩症：临床疗效、长期结局及安全性考量的系统综述 (epmc-MED-42992452)
+  - https://doi.org/10.1002/mus.70454
+- [ ] [疑似误收] P300拼写器中的校准到准确率映射无法跨队列迁移，且测试的对齐或局部重校准未能恢复该映射。 (epmc-MED-42896567)
+  - https://doi.org/10.1088/1741-2552/aeb62c
+- [ ] [疑似误收] Curcumin in the Treatment of Various Diseases: Mechanism of Action, Bioavailability, Therapeutic Effects, and Current 临床试验s. (epmc-MED-42996885)
   - https://doi.org/10.1002/mco2.71124
-- [ ] [疑似误收] 个体化人工智能驱动的神经调控选择性增强并重组人类舌感觉运动网络 (epmc-PPR-PPR1361213)
+- [ ] [疑似误收] 待复核翻译：Individualized AI-driven Neuromodulation Selectively Enhances and Reorganizes Human Tongue Sensorimotor Networks. (epmc-PPR-PPR1361213)
   - https://doi.org/10.64898/2026.11.04.764393
-- [ ] [疑似误收] CD39阳性静息CD4调节性T细胞上的CD3与ALS风险：遗传定位到CD247区域 (epmc-PPR-PPR1359335)
+- [ ] The decline of respiratory function in 肌萎缩侧索硬化症 patients and the role of non-invasive ventilation. (epmc-MED-42989982)
+  - https://doi.org/10.4081/monaldi.2026.3644
+- [ ] [疑似误收] 待复核翻译：CD3 on CD39-Positive Resting CD4 Regulatory T Cells and ALS Risk: Genetic Localization to the CD247 Region (epmc-PPR-PPR1359335)
   - https://doi.org/10.21203/rs.3.rs-11169945/v1
-- [ ] 巴西统一卫生系统肌萎缩侧索硬化症诊疗全国图景（2023–2025）：基于关联行政微观数据的患者层面治疗、持续性与地理可及性 (epmc-PPR-PPR1359099)
+- [ ] National portrait of 肌萎缩侧索硬化症 care in Brazil's Unified Health System (2023–2025): patient-level treatment, persistence, and geographic access from linked administrative microdata (epmc-PPR-PPR1359099)
   - https://doi.org/10.21203/rs.3.rs-11118785/v1
-- [ ] 通讯——未完成的呼吸：印度照护者对终末事件的认知与肌萎缩侧索硬化症照护中的缺口——方法学考量 (pmid-43002167)
-  - https://pubmed.ncbi.nlm.nih.gov/43002167/
 - [ ] [疑似误收] Industry updates from the field of 干细胞 research and regenerative medicine in September 2025 (epmc-PMC-PMC13011587)
   - https://europepmc.org/article/PMC/PMC13011587
 - [ ] [疑似误收] Brain clearance of protein aggregates in degenerative diseases: the role of 小胶质细胞 and astrocytes. (epmc-MED-42983584)
@@ -54,16 +64,12 @@
   - https://clinicaltrials.gov/study/NCT05744310
 - [ ] [高优先级] 待复核翻译：COMMAND Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis (trial-NCT05035823)
   - https://clinicaltrials.gov/study/NCT05035823
-- [ ] Genome Editing of 线粒体l Dysfunction in Neurological Disease: Progress and Translational Barriers. (pmid-43004989)
-  - https://pubmed.ncbi.nlm.nih.gov/43004989/
 - [ ] [高优先级] 待复核翻译：A Study to Evaluate the Safety, Efficacy, and Pharmacodynamics of PLL001 in ALS Patients (trial-NCT06513546)
   - https://clinicaltrials.gov/study/NCT06513546
 - [ ] [高优先级] 运动神经元病 - Systematic Multi-Arm Adaptive Randomised Trial (trial-NCT04302870)
   - https://clinicaltrials.gov/study/NCT04302870
 - [ ] [高优先级] A Physiotherapy Intervention Study in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT07341984)
   - https://clinicaltrials.gov/study/NCT07341984
-- [ ] Community awareness and knowledge of 肌萎缩侧索硬化症: a cross-sectional study in the Northern Border Region of Saudi Arabia. (pmid-43001128)
-  - https://pubmed.ncbi.nlm.nih.gov/43001128/
 - [ ] [高优先级] 待复核翻译：MIROCALS: Modifying Immune Response and OutComes in ALS (trial-NCT03039673)
   - https://clinicaltrials.gov/study/NCT03039673
 - [ ] [高优先级] Individual Patient Expanded Access IND of Autologous HBadMSCs for the Treatment of 肌萎缩侧索硬化症 (trial-NCT04514952)
