@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-12
+更新时间：2026-11-13
 
-1. **TNIP1作为聚集自噬受体组装清除机器以去除蛋白聚集体**
-   - 临床试验 / 观察性临床研究（含细胞与患者样本的机制研究） / high
-   - TNIP1作为聚集自噬受体组装p62/TAX1BP1清除多泛素化蛋白聚集体；ALS伴TDP-43包涵体患者TNIP1表达降低，ALS相关TNIP1突变体无法有效结合并降解TDP-43聚集体。
+1. **重新思考肌萎缩侧索硬化试验中的数字结局指标：活动记录仪协调、验证与监管就绪的共识优先事项**
+   - 临床试验 / 专家观点/共识性论述 / high
+   - ALS数字结局指标领域已有大量纵向数据和候选指标，但缺乏跨研究比较、优先排序和验证的协调框架；提出四项优先事项以推动活动记录仪的协调、验证和监管就绪。
+   - https://pubmed.ncbi.nlm.nih.gov/43019526/
+2. **UNC13A剪接校正可挽救TDP-43缺失诱导的突触功能障碍**
+   - 临床试验 / 基础与转化研究（细胞及人源化小鼠模型） / high
+   - TDP-43缺失导致突触通讯障碍；遗传学或ASO校正UNC13A隐蔽剪接可恢复人神经元和人源化小鼠的突触囊泡释放、释放概率及网络同步性。
+   - https://pubmed.ncbi.nlm.nih.gov/43015463/
+3. **待复核翻译：TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.**
+   - 临床试验 / 观察性临床研究 / high
+   - Selective autophagy receptors recognize and recruit harmful intracellular components to autophagosomes for degradation, and their dysfunction is linked to neurodegeneration, metabolic disorders, and cancer.
    - https://pubmed.ncbi.nlm.nih.gov/43013396/
-2. **待复核翻译：Effects of Long Term Ventilation Support on the Quality of Life of ALS Patients and Their Families**
+4. **待复核翻译：Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS**
    - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT05744310
-3. **待复核翻译：COMMAND Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis**
-   - 临床试验 / 临床试验注册 / high
-   - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT05035823
-4. **待复核翻译：A Study to Evaluate the Safety, Efficacy, and Pharmacodynamics of PLL001 in ALS Patients**
-   - 临床试验 / 临床试验注册 / high
-   - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06513546
-5. **运动神经元病 - Systematic Multi-Arm Adaptive Randomised Trial**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04302870
-6. **A Physiotherapy Intervention Study in Patients With 肌萎缩侧索硬化症 (ALS)**
-   - 临床试验 / 临床试验注册 / high
-   - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07341984
-7. **待复核翻译：MIROCALS: Modifying Immune Response and OutComes in ALS**
+   - Status: TERMINATED.
+   - https://clinicaltrials.gov/study/NCT05151471
+5. **III 期 Study of MCI-186 for Treatment of 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03039673
-8. **Individual Patient Expanded Access IND of Autologous HBadMSCs for the Treatment of 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT01492686
+6. **The National 肌萎缩侧索硬化症 Registry**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT01772602
+7. **待复核翻译：Intermediate-Sized Expanded Access Study**
    - 临床试验 / 临床试验注册 / high
    - Status: NO_LONGER_AVAILABLE.
-   - https://clinicaltrials.gov/study/NCT04514952
+   - https://clinicaltrials.gov/study/NCT05597436
+8. **A III 期, Open-Label Extension of COURAGE-ALS (CY 5031)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: TERMINATED.
+   - https://clinicaltrials.gov/study/NCT05442775
