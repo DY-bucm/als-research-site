@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-13
+更新时间：2026-11-15
 
-1. **重新思考肌萎缩侧索硬化试验中的数字结局指标：活动记录仪协调、验证与监管就绪的共识优先事项**
-   - 临床试验 / 专家观点/共识性论述 / high
-   - ALS数字结局指标领域已有大量纵向数据和候选指标，但缺乏跨研究比较、优先排序和验证的协调框架；提出四项优先事项以推动活动记录仪的协调、验证和监管就绪。
-   - https://pubmed.ncbi.nlm.nih.gov/43019526/
-2. **UNC13A剪接校正可挽救TDP-43缺失诱导的突触功能障碍**
-   - 临床试验 / 基础与转化研究（细胞及人源化小鼠模型） / high
-   - TDP-43缺失导致突触通讯障碍；遗传学或ASO校正UNC13A隐蔽剪接可恢复人神经元和人源化小鼠的突触囊泡释放、释放概率及网络同步性。
-   - https://pubmed.ncbi.nlm.nih.gov/43015463/
-3. **待复核翻译：TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.**
-   - 临床试验 / 观察性临床研究 / high
-   - Selective autophagy receptors recognize and recruit harmful intracellular components to autophagosomes for degradation, and their dysfunction is linked to neurodegeneration, metabolic disorders, and cancer.
-   - https://pubmed.ncbi.nlm.nih.gov/43013396/
-4. **待复核翻译：Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS**
+1. **阿尔茨海默病中可重复的星形胶质细胞长链非编码RNA特征在肌萎缩侧索硬化中呈倒置**
+   - 生物标志物 / 观察性临床研究（基于公开人类单核RNA测序数据的再分析） / high
+   - AD星形胶质细胞中1,019个常染色体lncRNA下调特征可重复，并在ALS（C9orf72发现队列及独立运动皮层队列）中可重复地倒置。
+   - https://pubmed.ncbi.nlm.nih.gov/42628773/
+2. **SPT相关神经病中的鞘脂重塑**
+   - 临床试验 / 基础研究（细胞/代谢机制研究） / high
+   - SPTLC1/SPTLC2的ALS变异导致鞘脂合成增强和反馈抑制受损，代谢特征与HSAN1及混合感觉运动变异不同，且代谢差异具有疾病特异性。
+   - https://pubmed.ncbi.nlm.nih.gov/43025655/
+3. **待复核翻译：REstoration of Communication and LAnguage With Intracortical Microelectrodes**
    - 临床试验 / 临床试验注册 / high
-   - Status: TERMINATED.
-   - https://clinicaltrials.gov/study/NCT05151471
-5. **III 期 Study of MCI-186 for Treatment of 肌萎缩侧索硬化症**
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07933549
+4. **待复核翻译：ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Treatments**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT01492686
-6. **The National 肌萎缩侧索硬化症 Registry**
+   - https://clinicaltrials.gov/study/NCT06429059
+5. **待复核翻译：Needs of ALS Patients With C9orf72 Mutation and Their Caregivers**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT01772602
-7. **待复核翻译：Intermediate-Sized Expanded Access Study**
+   - https://clinicaltrials.gov/study/NCT07302321
+6. **Safety of Engensis in Participants With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
-   - Status: NO_LONGER_AVAILABLE.
-   - https://clinicaltrials.gov/study/NCT05597436
-8. **A III 期, Open-Label Extension of COURAGE-ALS (CY 5031)**
+   - Status: COMPLETED.
+   - https://clinicaltrials.gov/study/NCT04632225
+7. **待复核翻译：Electrophysiology and Ultrasound of Respiratory Muscles and Respective Nerves to Predict Respiratory Insufficiency in ALS**
    - 临床试验 / 临床试验注册 / high
-   - Status: TERMINATED.
-   - https://clinicaltrials.gov/study/NCT05442775
+   - Status: ENROLLING_BY_INVITATION.
+   - https://clinicaltrials.gov/study/NCT06841341
+8. **待复核翻译：A Study to Evaluate the Tolerability, Safety and Efficacy of VGN-R13 in Patients with ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06849609
