@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-15
+更新时间：2026-11-17
 
-1. **阿尔茨海默病中可重复的星形胶质细胞长链非编码RNA特征在肌萎缩侧索硬化中呈倒置**
-   - 生物标志物 / 观察性临床研究（基于公开人类单核RNA测序数据的再分析） / high
-   - AD星形胶质细胞中1,019个常染色体lncRNA下调特征可重复，并在ALS（C9orf72发现队列及独立运动皮层队列）中可重复地倒置。
-   - https://pubmed.ncbi.nlm.nih.gov/42628773/
-2. **SPT相关神经病中的鞘脂重塑**
-   - 临床试验 / 基础研究（细胞/代谢机制研究） / high
-   - SPTLC1/SPTLC2的ALS变异导致鞘脂合成增强和反馈抑制受损，代谢特征与HSAN1及混合感觉运动变异不同，且代谢差异具有疾病特异性。
-   - https://pubmed.ncbi.nlm.nih.gov/43025655/
-3. **待复核翻译：REstoration of Communication and LAnguage With Intracortical Microelectrodes**
-   - 临床试验 / 临床试验注册 / high
-   - Status: NOT_YET_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07933549
-4. **待复核翻译：ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Treatments**
+1. **通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化遗传谱**
+   - 生物标志物 / 观察性临床研究 / high
+   - 856例ALS/PLS患者中19.6%携带成人起病神经系统疾病相关基因的致病/可能致病变异或重复扩增，其中4.8%涉及非ALS/FTD基因；携带者富集ALS/FTD及其他神经退行性疾病家族史和较早发病年龄。
+   - https://pubmed.ncbi.nlm.nih.gov/43038492/
+2. **Tofersen治疗SOD1型肌萎缩侧索硬化——波兰早期准入项目的两年经验**
+   - 治疗 / 真实世界早期准入项目经验报告（具体研究设计与样本量待人工核对原文） / high
+   - 原始元数据未提供摘要，无法确认具体疗效或安全性结果
+   - https://doi.org/10.5603/pjnns.113009
+3. **待复核翻译：Impact of the Combined Treatment of Liposomed Polyphenols With G04CB02 on the ALS Patients**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT06429059
-5. **待复核翻译：Needs of ALS Patients With C9orf72 Mutation and Their Caregivers**
+   - https://clinicaltrials.gov/study/NCT04654689
+4. **待复核翻译：Ultra-high-caloric, Fatty Diet in ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: ACTIVE_NOT_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06280079
+5. **A Study of LTX-002 in Adult Participants With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT07302321
-6. **Safety of Engensis in Participants With 肌萎缩侧索硬化症**
-   - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT04632225
-7. **待复核翻译：Electrophysiology and Ultrasound of Respiratory Muscles and Respective Nerves to Predict Respiratory Insufficiency in ALS**
-   - 临床试验 / 临床试验注册 / high
-   - Status: ENROLLING_BY_INVITATION.
-   - https://clinicaltrials.gov/study/NCT06841341
-8. **待复核翻译：A Study to Evaluate the Tolerability, Safety and Efficacy of VGN-R13 in Patients with ALS**
+   - https://clinicaltrials.gov/study/NCT07660614
+6. **待复核翻译：PHENOGENE-1A (Cromolyn) Treatment in Patients With Mild to Moderate ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06849609
+   - https://clinicaltrials.gov/study/NCT07142291
+7. **A 临床试验 of Early Ventilation in 肌萎缩侧索硬化症 (EVENT ALS)**
+   - 临床试验 / 临床试验注册 / high
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07071935
+8. **Novel MRI 生物标志物s for Monitoring Disease Progression in ALS**
+   - 临床试验 / 临床试验注册 / high
+   - Status: ACTIVE_NOT_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT03362658
