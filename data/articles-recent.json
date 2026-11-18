@@ -1,14 +1,100 @@
 {
-  "updatedAt": "2026-11-17T04:27:09.835Z",
+  "updatedAt": "2026-11-18T03:41:26.975Z",
   "period": {
     "days": 10,
-    "from": "2026-11-08",
-    "to": "2026-11-17"
+    "from": "2026-11-09",
+    "to": "2026-11-18"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 37,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-42864601",
+      "pmid": "42864601",
+      "doi": "10.24272/j.issn.2095-8137.2025.361",
+      "title": "Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos.",
+      "abstract": "Base editing is a powerful and precise genome-editing tool capable of introducing single-base substitutions with high resolution. Depending on the base-modification domains employed, base editors can mediate both transition and transversion base editing in mammalian cells. While deaminase-derived base editors have enabled efficient transition editing in the zebrafish genome, glycosidase-derived transversion editing remains a significant challenge. In this study, guided by structural insights into the Cas9 complex, we engineered a series of glycosidase guanine base editor (gGBE) constructs by inlaying the N-methylpurine DNA glycosylase (MPG) domain into Cas9 protein. Among these variants, we identified a high-performance gGBE in which MPG was inserted between residues G1246 and S1247 of the PI domain in Streptococcus pyogenes Cas9, which we named gGBE-PIGS. This variant improved editing efficiency by up to 3.5-fold in mammalian cells and 13-fold in zebrafish embryos, without compromising editing precision. Furthermore, we developed a gGBE-editing-responsive GFP reporter to monitor editing efficiency and enrich for gGBE-edited cells and embryos. Using a combination of the optimized gGBE-PIGS and the GFP reporter, we successfully generated zebrafish models carrying mutations homologous to human amyotrophic lateral sclerosis (ALS)-associated variants. Together, these findings highlight the robustness and versatility of the gGBE platform for precise base editing and underscore its promising potential for in vivo disease modeling and therapeutic genome engineering. 碱基编辑是一种高效且精准的基因组编辑工具，可实现高分辨率单碱基替换。根据所采用的碱基修饰结构域不同，碱基编辑器在哺乳动物细胞中既可介导转换型编辑，也可实现颠换型编辑。尽管基于脱氨酶的碱基编辑器已在斑马鱼基因组中实现高效转换编辑，但基于糖基化酶的颠换编辑仍然面临较大挑战。该研究基于 Cas9 复合体的结构信息，将 N-甲基嘌呤 DNA 糖基化酶结构域（MPG）嵌入 Cas9 蛋白内部，构建了一系列糖基化酶型鸟嘌呤碱基编辑器（gGBE）。研究发现将MPG插入到化脓性链球菌Cas9（SpCas9）PI结构域的G1246与S1247残基得到的gGBE-PIGS总体编辑效率最高。相比N-端融合的gGBE，gGBE-PIGS在哺乳动物细胞中的编辑效率最高可提升 3.5 倍，在斑马鱼胚胎中最高可提升 13 倍，且编辑精确度未受影响。此外，该研究构建了gGBE 编辑响应型 GFP 报告系统，该系统可用于监测编辑效率，同时富集经 gGBE 编辑的细胞和胚胎。结合优化后的 gGBE-PIGS 与 该GFP 报告系统，该研究成功构建了携带人类肌萎缩侧索硬化症（ALS）同源突变的斑马鱼疾病模型。综上所述，该研究证明了gGBE在精准碱基编辑领域的高效性与多样性，并揭示其在体内疾病模型构建及基因治疗领域的潜在应用前景。.",
+      "journal": "Zoological research",
+      "authors": [
+        "Li M",
+        "Jiao YG",
+        "Tao R",
+        "Hu Y",
+        "Fei JY",
+        "Wang CT",
+        "Yao SH"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864601/"
+    },
+    {
+      "id": "pmid-43043867",
+      "pmid": "43043867",
+      "doi": "10.1093/brain/awag409",
+      "title": "Context matters: serum neurofilament light chain, a diagnostic aid in amyotrophic lateral sclerosis.",
+      "abstract": "",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Smith SE",
+        "Miller TM",
+        "Bucelli RC"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043867/"
+    },
+    {
+      "id": "pmid-43043758",
+      "pmid": "43043758",
+      "doi": "10.1016/j.celrep.2026.118305",
+      "title": "Dual augmentation of STMN2 and GRN delays disease progression through coordinated axonal and neuroimmune support in ALS models.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder primarily driven by TAR DNA-binding protein 43 (TDP-43) proteinopathy, which triggers early axonal disintegration and disrupts central nervous system homeostasis. Current therapeutic options remain limited. To address these core pathologies, we developed a dual-gene therapeutic strategy that simultaneously restores two pivotal factors: progranulin (GRN), a multifunctional effector critical for lysosomal function and neuroinflammation regulation, and stathmin-2 (STMN2), an essential regulator of axonal integrity and regeneration whose loss is directly linked to TDP-43 pathology. In TDP-43 A315T transgenic mice, this combined therapy significantly extended survival, preserved motor performance, and maintained neuromuscular integrity. In human iPSC-derived motor neurons, the dual therapy promoted axonal regeneration following injury. Mechanistically, treatment coordinately restored axonal and synaptic gene programs in motor neurons while upregulating lysosomal pathways in microglia and neuronal support genes in astrocytes, collectively rebalancing neuronal and glial function. These findings establish that dual augmentation of GRN and STMN2 represents a potential therapeutic strategy for ALS.",
+      "journal": "Cell reports",
+      "authors": [
+        "Liang C",
+        "Cui T",
+        "Cai B",
+        "Ding Y",
+        "Chang J",
+        "Huang W",
+        "Lu Z",
+        "Han J",
+        "Gu Q",
+        "Zhang Y",
+        "Li W",
+        "Teng F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043758/"
+    },
+    {
+      "id": "pmid-43041155",
+      "pmid": "43041155",
+      "doi": "10.1080/17582024.2026.2764228",
+      "title": "Non-pharmacological fatigue management strategies in neurodegenerative conditions: a scoping review.",
+      "abstract": "Fatigue is a common and disabling symptom across several neurodegenerative diseases, including multiple sclerosis and Parkinson's disease. Non-pharmacological strategies are widely used in clinical practice to address fatigue, yet the extent to which evidence from one neurodegenerative condition can inform fatigue management in others remains uncertain, particularly for Parkinson's disease where intervention trials are scarce. To map the quantitative evidence on non-pharmacological interventions for fatigue in adults with neurodegenerative diseases (excluding dementias), and to identify potentially transferable strategies, gaps, and priorities for research and practice, with particular relevance to Parkinson's disease. Scoping review conducted according to Joanna Briggs Institute guidance and reported using the PRISMA Extension for Scoping Reviews (PRISMA-ScR). The protocol was preregistered on the Open Science Framework (OSF; DOI: 10.17605/OSF.IO/MJEYP). MEDLINE, Cochrane Library, CINAHL, AMED, and PsycINFO were searched for records published from January 2006 to 15 February 2025. Reference lists of relevant reviews and included studies were screened. Publications in English or Arabic were eligible. Quantitative interventional studies, mixed-methods studies with extractable quantitative fatigue outcomes, and systematic reviews/meta-analyses evaluating non-pharmacological interventions for fatigue in adults with progressive neurodegenerative conditions were eligible. Conditions of interest included multiple sclerosis, Parkinson's disease, motor neurone disease, Huntington's disease, hereditary ataxias, multiple system atrophy, and progressive supranuclear palsy. Studies focusing solely on pharmacological, surgical, herbal, or homeopathic interventions, qualitative-only studies, and studies in dementias were excluded. A bespoke charting form captured study design, population, intervention, comparator, delivery format, fatigue measures, and key findings. Studies were grouped by intervention type: exercise, psychological, educational, and complementary interventions. Systematic reviews/meta-analyses and primary intervention studies were synthesized as distinct evidence levels and were not combined quantitatively. The search identified 12,618 records. After removal of 5,399 duplicates, 7,219 records were screened and 517 full-text articles were assessed for eligibility. Twenty-seven sources met the inclusion criteria: seven systematic reviews/meta-analyses, 16 randomized controlled trials, one non-randomized controlled study, and three uncontrolled pre-post studies. Evidence was dominated by multiple sclerosis, with only two small trials in Parkinson's disease and no fatigue-focused intervention trials in other progressive neurodegenerative conditions. The most consistent between-group benefits were observed for structured exercise, cognitive behavioral therapy, and educational/self-management programs in multiple sclerosis. Complementary interventions included acupuncture, light therapy, dietary interventions, and electrical stimulation; evidence across these approaches was mixed. Heterogeneity in intervention type, intensity, duration, supervision and delivery format, follow-up duration, and fatigue outcome measures limited direct comparison across studies. Non-pharmacological interventions for fatigue in neurodegenerative disease are most developed in multiple sclerosis, where structured exercise, cognitive behavioral therapy, and educational/self-management approaches show the most consistent benefit. Evidence for Parkinson's disease is sparse, and no fatigue-focused intervention trials were identified in other progressive neurodegenerative conditions. Future work should prioritize condition-specific feasibility and effectiveness studies, harmonized fatigue outcome sets, objective fatigability measures alongside patient-reported fatigue, and multimodal programs with clearly specified therapeutic targets. Fatigue can substantially affect daily life for people living with neurological conditions, but most research on non-drug fatigue management has been conducted in multiple sclerosis. This scoping review mapped 27 sources of evidence on exercise, psychological treatments, education or self-management, and complementary approaches. Structured exercise, cognitive behavioral therapy, and education or self-management showed the most consistent benefits in multiple sclerosis. Only two small fatigue-focused trials were identified in Parkinson’s disease, and no eligible fatigue-focused intervention trials were found in the other progressive neurodegenerative conditions included in the review. Some intervention components, such as pacing, self-monitoring, energy conservation, and graded activity, may be useful across conditions, but they may need adaptation for disease-specific motor, cognitive, autonomic, or progression-related needs. Studies also used many different fatigue measures, and objective fatigability was rarely assessed. Future research should test adapted interventions directly in under-represented conditions and use clearer, more consistent outcome measures.",
+      "journal": "Neurodegenerative disease management",
+      "authors": [
+        "Alageel S",
+        "Hibberd J",
+        "Deane KHO"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041155/"
+    },
     {
       "id": "pmid-43037476",
       "pmid": "43037476",
@@ -50,6 +136,56 @@
       ],
       "publishedAt": "2026-11-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43038449/"
+    },
+    {
+      "id": "pmid-43038882",
+      "pmid": "43038882",
+      "doi": "10.1016/j.ecoenv.2026.121062",
+      "title": "Elevated concentrations of 78 Se and 208 Pb isotopes in cerebrospinal fluid but not in blood plasma from patients with amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron degeneration and muscle atrophy, ultimately leading to death through respiratory failure. In addition to genetic factors, environmental exposures have been investigated as potential ALS risk factors. Elevated concentrations of cadmium, lead and selenium have previously been detected in cerebrospinal fluid (CSF) and blood from ALS patients, suggesting an association between metal dysregulation and disease progression. Here, we conducted a detailed analysis of CSF and blood plasma from seven ALS patients and seven healthy controls, where samples were collected using ultraclean techniques. Inductively coupled plasma mass spectrometry (ICP-MS) was used to measure isotopes of a wide range of elements. Significantly higher concentrations of 208 Pb and 78 Se (p < 0.01) were recorded in CSF but not in plasma of ALS patients compared to controls. Interestingly, no significant differences were observed for the 206 Pb and 207 Pb isotope concentrations as such. However, the 208 Pb/ 207 Pb ratio was elevated in CSF of ALS cases compared to controls, which might be due to biological isotope fractionation, or exposure to lead from different geological sources. Taken together, our data supports previous reports of Pb and Se contributing to ALS pathogenesis. The results also suggest that investigating metal dyshomeostasis at the isotope level can improve understanding of disease pathologies, especially for conditions and diseases where metal exposure is a risk factor.",
+      "journal": "Ecotoxicology and environmental safety",
+      "authors": [
+        "Smirnova J",
+        "Noormägi A",
+        "Berntsson E",
+        "Harris RA",
+        "Wärmländer SKTS",
+        "Gräslund A",
+        "Palumaa P",
+        "Roos PM"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038882/"
+    },
+    {
+      "id": "pmid-42946691",
+      "pmid": "42946691",
+      "doi": "10.1080/15548627.2026.2754683",
+      "title": "Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.",
+      "abstract": "Excess lipid accumulation and a sedentary lifestyle are associated with metabolic dysfunction-associated fatty liver disease (MAFLD), but the causal mechanisms and preventive methods are not fully understood. Macroautophagy/autophagy is a lysosomal degradation pathway robustly induced by exercise and plays a key role in lipid metabolism. Understanding the mechanisms by which exercise activates autophagy and elicits metabolic benefits in the liver will provide important insights into the pathogenesis of MAFLD. Here, we discovered negative correlations between expression and lactylation of WDR41 (WD repeat domain 41) and pathogenesis of a series of human hepatic metabolic diseases. We found that WDR41 was a pro-autophagy protein that underwent lactylation in response to autophagy-inducing conditions, such as exercise. WDR41 was lactylated at lysine 319 (K319), a modification facilitated by LDHA (lactate dehydrogenase A) upon autophagy induction, and delactylated by SIRT2 (sirtuin 2). Lactylated WDR41 promoted autophagy initiation by directly interacting with the autophagy proteins ATG13 (autophagy related 13) and RB1CC1/FIP200 (RB1 inducible coiled-coil 1) and driving the ULK1 (unc-51 like autophagy activating kinase 1) complex assembly. Physiologically, WDR41 and WDR41 K319 lactylation, were important for exercise-induced improvements in insulin sensitivity and lipid metabolism against excess lipid accumulation in the liver. Thus, we demonstrated that WDR41 lactylation at K319 is an important regulatory mechanism by which exercise regulates autophagy and hepatic glucose and lipid metabolism. Abbreviations: AV: adeno-associated virus; ALS: amyotrophic lateral sclerosis; ALT: alanine aminotransferase; AMPK: AMP-activated protein kinase; ANOVA: analysis of variance; AST: aspartate aminotransferase; ATG13: autophagy related 13; BECN1: beclin 1; C9orf72: C9orf72-SMCR8 complex subunit; cDNA: complementary DNA; co-IP: co-immunoprecipitation; CQ: chloroquine; CRISPR: clustered regularly interspaced short palindromic repeats; EBSS: Earle's balanced salt solution; EE: energy expenditure; FN1/fibronectin: fibronectin 1; FTD: frontotemporal dementia; GAP: GTPase-activating protein; GEF: guanine nucleotide exchange factor; GFP: green fluorescent protein; gRNA: guide RNA; GST: glutathione S-transferase; GTT: glucose tolerance test; H&E: hematoxylin and eosin; HDAC: histone deacetylase; HFD: high-fat diet; i.p.: intraperitoneal; IP: immunoprecipitation; ITT: insulin tolerance test; KO: knockout; LC-MS/MS: liquid chromatography-tandem mass spectrometry; LDHA: lactate dehydrogenase A; MAFLD: metabolic dysfunction-associated fatty liver disease; MAP1LC3B/LC3B: microtubule associated protein 1 light chain 3 beta; MASH: metabolic dysfunction-associated steatohepatitis; mRFP: monomeric red fluorescent protein; MS: mass spectrometry; MS/MS: tandem mass spectrometry; MTOR: mechanistic target of rapamycin kinase; NAS: NAFLD activity score; PBS: phosphate-buffered saline; PCR: polymerase chain reaction; PIK3C3/VPS34: phosphatidylinositol 3-kinase catalytic subunit type 3; PTT: pyruvate tolerance test; PVDF: polyvinylidene fluoride; RB1CC1/FIP200: RB1 inducible coiled-coil 1; RD: regular diet; RER: respiratory exchange ratio; SDS: sodium dodecyl sulfate; SDS-PAGE: sodium dodecyl sulfate-polyacrylamide gel electrophoresis; SEM: standard error of the mean; siRNA: small interfering RNA; SIRT2: sirtuin 2; SMCR8: SMCR8-C9orf72 complex subunit; SQSTM1/p62: sequestosome 1; STING1: stimulator of interferon response cGAMP interactor 1; TBG: thyroxine-binding globulin; TC: total cholesterol; TG: triglyceride; ULK1: unc-51 like autophagy activating kinase 1; ULK2: unc-51 like autophagy activating kinase 2 ; UN: untreated; VCO 2 : carbon dioxide production; VO 2 : oxygen consumption; WB: western blotting; WDR41: WD repeat domain 41; WT: wild type.",
+      "journal": "Autophagy",
+      "authors": [
+        "Ouyang Q",
+        "Liang P",
+        "Zhang H",
+        "Zhang Q",
+        "Liao H",
+        "Nie C",
+        "Kuramoto K",
+        "Zhang C",
+        "Ji D",
+        "Ren F",
+        "He C",
+        "Liu R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946691/"
     },
     {
       "id": "pmid-43038492",
@@ -409,6 +545,41 @@
       ],
       "publishedAt": "2026-11-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43023697/"
+    },
+    {
+      "id": "pmid-43038719",
+      "pmid": "43038719",
+      "doi": "10.1016/j.jns.2026.126245",
+      "title": "Evaluating metformin efficacy in ALS using real-world data: A causal inference approach.",
+      "abstract": "Observational studies can provide real-world evidence in a low-burden, cost-effective manner. We apply a causal inference framework in amyotrophic lateral sclerosis (ALS) by examining previously researched associations, baseline function and sex, and evaluating metformin's survival benefits. Data are from the ALS Natural History Study collected in the United States, Israel, and Italy from 2015 to 2025. We employ propensity score matching, two approaches to address dropout (i.e. a naive exclusion and principal stratification), and randomization-based inference to evaluate difference in 18-month restricted mean survival time. For the metformin investigation, estimated survival is 14.77, 14.87, and 14.57 months for metformin users and 14.59, 14.43, and 13.97 months for non metformin users using imputed datasets 1-3, respectively (p ≈ 0.391, N = 289; p ≈ 0.257, N = 279; p ≈ 0.191, N = 301). Using principal stratification, estimated survival is 14.75, 14.85, and 14.55 months for metformin users and 14.68, 14.58, and 13.97 months for non metformin users with imputed datasets 1-3, respectively (p ≈ 0.458, N = 286; p ≈ 0.351, N = 275; p ≈ 0.201, N = 300). We fail to reject the sharp null hypothesis for the metformin investigation and have insufficient evidence against no difference in survival.",
+      "journal": "Journal of the neurological sciences",
+      "authors": [
+        "Geller JA",
+        "Berger A",
+        "Locatelli M",
+        "Ajroud-Driss S",
+        "Al-Lahham T",
+        "Arcila-Londono X",
+        "Cerri F",
+        "Drory V",
+        "Ghasemi M",
+        "Gotkine M",
+        "Gwathmey KG",
+        "Hayat G",
+        "Heiman-Patterson T",
+        "Lunetta C",
+        "Olney N",
+        "Rosenfeld J",
+        "Walk D",
+        "Wymer J",
+        "Sherman AV",
+        "Bind MA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038719/"
     },
     {
       "id": "pmid-43021426",
