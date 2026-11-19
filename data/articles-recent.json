@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-11-18T03:41:26.975Z",
+  "updatedAt": "2026-11-19T03:20:11.740Z",
   "period": {
     "days": 10,
-    "from": "2026-11-09",
-    "to": "2026-11-18"
+    "from": "2026-11-10",
+    "to": "2026-11-19"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 44,
+  "count": 46,
   "articles": [
+    {
+      "id": "pmid-43046861",
+      "pmid": "43046861",
+      "doi": "10.1021/acschemneuro.6c00600",
+      "title": "All Roads Lead to Rome: Non-canonical Modulators of RNA Metabolism in ALS Pathogenesis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron loss. Aberrant RNA metabolism is one of its most consistent molecular features, and ALS has long been framed as a disease of RNA-binding proteins (RBPs), given that mutations in RBPs are among the most frequent genetic causes of ALS. However, a growing number of ALS-associated genes encode proteins that lack canonical RNA-binding domains; nonetheless, their mutations also disrupt RNA homeostasis. This review examines how these non-canonical disease modulators perturb RNA metabolism. We group these factors into three functional classes. One includes proteostasis regulators, whose dysfunction impairs protein quality control and promotes the accumulation of aggregation-prone RBPs in cytoplasmic inclusions and persistent stress granules. Another involves factors that elicit RNA toxicity or disrupt ribonucleoprotein organization, including GGGGCC repeat expansion in C9ORF72 and CAG repeat expansion in ATXN1. The third class comprises factors governing axonal RNA granule transport. Across these categories, a shared consequence is the disruption of mRNA processing, stability, localization, and translation in motor neurons. We further discuss how epitranscriptomic dysregulation, particularly altered m6A and m1A modification states, may contribute to ALS pathology. We also discuss the therapeutic implications of this mechanistic convergence in defective RNA metabolism in ALS.",
+      "journal": "ACS chemical neuroscience",
+      "authors": [
+        "Chen X",
+        "Cao Z",
+        "Zhao T",
+        "Liang X",
+        "Wang Y"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046861/"
+    },
+    {
+      "id": "pmid-43049901",
+      "pmid": "43049901",
+      "doi": "10.1007/s00415-026-14243-9",
+      "title": "Increased resting muscle activity in amyotrophic lateral sclerosis.",
+      "abstract": "Increased muscle activity during intended rest is frequently observed in patients with amyotrophic lateral sclerosis (ALS), but its clinical significance remains unclear. Our aim was to compare resting muscle activity during transcranial magnetic stimulation (TMS) between ALS patients and patient controls, and to correlate it with clinical and neurophysiological parameters. Resting muscle activity was assessed retrospectively by counting the number of stimulation attempts in a standardized paired-pulse TMS protocol that were rejected by the software. Stimulations were rejected if the resting electromyography (EMG) signal exceeded 30 µV at least five times during the 300 ms before the TMS stimulus. Secondary outcomes included the revised ALS functional rating score (ALSFRS-R), the revised upper motor neuron (UMN) score, the muscle strength (MRC) score, TMS, and quantitative EMG (qEMG) parameters. Seventy ALS patients aged 68.4 ± 10.3 years (mean ± SD) were compared with 73 patient controls (63.8 ± 13.8 years). ALS patients had significantly more rejected stimulations due to preceding EMG activity than patient controls (adjusted estimates 27.28 vs 7.28, p = 4.13 × 10^-7). Among ALS patients, those with UMN signs had more rejected stimulations than those without UMN signs (medians 40 vs 20, p = 0.025). The number of rejected stimulations correlated with fasciculation potentials (FPs) (rho = 0.3, p = 0.020) and two clinical markers of UMN dysfunction, including brisk jaw jerk (rho = 0.26, p = 0.032) and biceps reflexes (rho = 0.25, p=0.038). Compared with patient controls, ALS patients exhibited increased resting muscle activity during TMS examination. These findings may provide further insight into the pathophysiology of ALS.",
+      "journal": "Journal of neurology",
+      "authors": [
+        "Jacobsen AB",
+        "Bostock H",
+        "Fanella G",
+        "Samusyte G",
+        "Cengiz B",
+        "Fuglsang-Frederiksen A",
+        "de Carvalho M",
+        "Tankisi H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049901/"
+    },
     {
       "id": "pmid-42864601",
       "pmid": "42864601",
@@ -50,6 +94,24 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43043867/"
     },
     {
+      "id": "pmid-43045628",
+      "pmid": "43045628",
+      "doi": "10.1016/j.tig.2026.10.004",
+      "title": "Developmental and age-acquired somatic mutations in neurodegenerative diseases.",
+      "abstract": "Classical genetic studies have assumed a uniform genome across the body, but humans are genetic mosaics harboring distinct somatic mutations acquired during development and aging. The role of somatic mosaicism in neurodegenerative disease remains poorly understood. In this article, we review somatic mosaicism in two contexts: developmental mosaics arising during embryogenesis and age-associated clonal expansions. Developmental mosaics are established contributors to neurodevelopmental disorders, with emerging evidence linking them to adult-onset neurodegeneration, including amyotrophic lateral sclerosis and Alzheimer's disease. Postnatal clonal expansions in microglia and hematopoietic cells may further promote systemic inflammation and disease progression. We synthesize these findings into a framework in which developmental and age-acquired mutations contribute to neuronal vulnerability, disease heterogeneity, and the pathogenesis of sporadic neurodegenerative disorders.",
+      "journal": "Trends in genetics : TIG",
+      "authors": [
+        "Nayak S",
+        "Lodato MA"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045628/"
+    },
+    {
       "id": "pmid-43043758",
       "pmid": "43043758",
       "doi": "10.1016/j.celrep.2026.118305",
@@ -75,6 +137,33 @@
       ],
       "publishedAt": "2026-11-17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43043758/"
+    },
+    {
+      "id": "pmid-43044226",
+      "pmid": "43044226",
+      "doi": "10.1088/1741-2552/aec32c",
+      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke.",
+      "abstract": "Implantable brain-computer interfaces (iBCIs) with single-neuron resolution are showing great promise for restoring mobility and communication in individuals with spinal cord injury or motor neuron disease. Stroke is the most common cause of acquired brain injury and a major contributor to long-term disability, making chronic stroke a highly relevant indication for iBCIs. However, whether stable intracortical recordings can be obtained from the structurally lesioned human brain is unknown. &#xD;Approach: We report recordings from four 64-channel microelectrode arrays implanted in a participant with chronic aphasia after a large left-hemispheric stroke. The arrays targeted right-hemispheric frontoparietal regions homotopic to the damaged left-hemispheric language network.&#xD;Main results: Across 111 sessions spanning 1,240 days, unit yield and signal quality remained stable. Waveform-based tracking reliably identified individual units across sessions, including across extended recording gaps. Short- and long-term unit stability was comparable to previous reports from iBCI participants without structural brain lesions, and tracked units showed consistent spiking properties across sessions.&#xD;Significance: Our findings provide the first evidence that single-neuron recordings can remain stable over the long term following a large hemispheric stroke involving substantial cortical and subcortical injury. They establish the feasibility of chronic, cellular-resolution iBCIs after stroke and support the development of neurorestorative applications for deficits caused by structural brain injury.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Utzschmid A",
+        "Terlau J",
+        "Held L",
+        "Schiffl L",
+        "Chen H",
+        "Alkan G",
+        "Favero P",
+        "Eisenkolb VM",
+        "Wagner A",
+        "Gempt J",
+        "Meyer B",
+        "Jacob SN"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044226/"
     },
     {
       "id": "pmid-43041155",
@@ -395,6 +484,29 @@
       ],
       "publishedAt": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025440/"
+    },
+    {
+      "id": "pmid-43044492",
+      "pmid": "43044492",
+      "doi": "10.1016/j.nicl.2026.104088",
+      "title": "Multisystem assessment of white matter tracts in amyotrophic lateral sclerosis using NODDI and TractSeg.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a multisystem neurodegenerative disorder affecting motor, cognitive, and sensory networks. Conventional diffusion MRI lacks specificity for complex white matter pathology. This study combined neurite orientation dispersion and density imaging (NODDI) with automated fiber segmentation (TractSeg) to systematically evaluate microstructural alterations across multiple white matter pathways in a single ALS cohort. We combined NODDI with automated TractSeg fiber segmentation in 83 sporadic ALS patients and 59 healthy controls. NODDI metrics (NDI, ODI, ISOVF) were extracted from 98 nodes along 19 tracts. Group comparisons used ANCOVA with FDR correction (q < 0.05). The left corticospinal tract (CST) showed ODI elevation and NDI reduction, and the right CST showed more extensive injury with ODI elevation, widespread NDI reduction, and ISOVF elevation. The corpus callosum exhibited focal changes in the rostral body, the anterior midbody and the posterior midbody involving ODI, NDI, and ISOVF. Among cerebellar motor, visuospatial processing, and limbic pathways, only the right superior longitudinal fasciculus II showed ISOVF elevation. Visual and language pathways predominantly showed ISOVF elevation, with additional NDI elevation in the right optic radiation and left arcuate fasciculus. This study demonstrates asymmetric, pathway-selective white matter pathology in ALS. Focal damage in the mid-body of the corpus callosum supports its role as a hub for interhemispheric disease propagation. Evidence of both degeneration and possible compensatory neurite reorganization in visual and language pathways further establishes ALS as a multisystem network disorder. NODDI combined with TractSeg offers biologically specific imaging biomarkers for disease monitoring and clinical subtyping.",
+      "journal": "NeuroImage. Clinical",
+      "authors": [
+        "Meng F",
+        "Liu S",
+        "Xiao X",
+        "Guo Z",
+        "Huang F",
+        "Xu Z",
+        "Li Y",
+        "Jiang W"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044492/"
     },
     {
       "id": "pmid-43033255",
@@ -970,69 +1082,6 @@
       ],
       "publishedAt": "2026-11-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43013396/"
-    },
-    {
-      "id": "pmid-43001357",
-      "pmid": "43001357",
-      "doi": "10.5414/CP205054",
-      "title": "Amyotrophic lateral sclerosis treated with the modified Bu-Shen-Jian-Pi decoction (mBSJP): Multicenter study.",
-      "abstract": "To investigate whether the modified Bu-Shen-Jian-Pi decoction (mBSJP) is more efficacious than the hitherto used and promoted BSJP formula in the treatment of amyotrophic lateral sclerosis (ALS). ALS is a fatal neurodegenerative disease with no satisfactory treatment option. Currently, there are few palliative care methods that can significantly delay the progression of the disease, and the efficacy of the herbal treatments used hitherto has also been unsatisfactory. A total of 165 patients with ALS who met the diagnostic criteria after screening were randomly allocated into two groups, a modified Bu-Shen-Jian-Pi decoction group referred to as the mBSJP group and the placebo group. Clinical efficacy and side effects were evaluated during a 16-week observation period. Primary outcomes included Amyotrophic Lateral Sclerosis Symptom Score in Integrative Treatment Scale (ALS-SSIT) and Amyotrophic Lateral Sclerosis Rating Scale-Revised (ALSFRS-R) scores, and secondary observation parameters were 36-Item Short-Form Health Survey Questionnaire (SF-36) and forced vital capacity (FVC). A total of 73 patients in the mBSJP group and 71 patients in the placebo group completed the trial. At the end of the 16 th week of treatment, there were significant statistical differences observed between the two groups in values for both the ALS-SSIT and the ALSFRS-R scores showing that mBSJP significantly delayed progression of the disease and appearance of symptoms compared to the administration of placebo. Treatment of ALS with mBSJP delays disease progression and is recommended as a treatment option for ALS in regions where the use of traditional Chinese medicine is regulated and approved.",
-      "journal": "International journal of clinical pharmacology and therapeutics",
-      "authors": [
-        "Han X",
-        "Li R",
-        "Zhang H",
-        "Liu Y",
-        "Loong SK",
-        "Wei S",
-        "Wang Y",
-        "Pan W",
-        "Dong T"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001357/"
-    },
-    {
-      "id": "pmid-43030892",
-      "pmid": "43030892",
-      "doi": "10.3390/jcm15218750",
-      "title": "Beyond Motor Neuron Degeneration: Non-Motor Manifestations and Multisystem Involvement in Amyotrophic Lateral Sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease that primarily affects the motor system through the degeneration of motor neurons in the motor cortex, brainstem nuclei, and anterior horn of the spinal cord. ALS typically has a focal onset characterized by muscle weakness, followed by progressive spreading to other body regions, with respiratory muscle failure representing the main life-limiting complication. Median survival is approximately 2-5 years after disease onset. In addition to the well-established motor manifestations, non-motor symptoms are increasingly recognized and may occur in approximately 50% of patients. These include behavioral and neuropsychiatric disturbances, sleep disorders, sensory abnormalities, autonomic dysfunction involving the cardiovascular, gastrointestinal, and genitourinary systems, as well as metabolic and endocrine alterations. Recent evidence supports the concept of ALS as a multisystem disorder characterized by substantial clinical, genetic, and neuropathological heterogeneity. Nevertheless, non-motor manifestations remain less extensively characterized than motor symptoms and are frequently underestimated in clinical practice. This narrative review summarizes the current evidence on non-motor manifestations in ALS, discusses their potential underlying mechanisms and impact on quality of life, and highlights areas requiring further investigation. A better understanding and systematic assessment of these manifestations may contribute to a more comprehensive and patient-centered approach to ALS care.",
-      "journal": "Journal of clinical medicine",
-      "authors": [
-        "Veciunca M",
-        "Roman M",
-        "Vasiliu VG",
-        "Bălașa R",
-        "Moțățăianu A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43030892/"
-    },
-    {
-      "id": "pmid-43003200",
-      "pmid": "43003200",
-      "doi": "10.1016/j.neuroscience.2026.11.011",
-      "title": "Beyond neurones: cardiac involvement in motor neurone disease.",
-      "abstract": "Motor neurone disease (MND) is a fatal neurodegenerative disorder defined by the progressive loss of upper and lower motor neurones. This degeneration leads to muscle wasting and weakness, most prominently affecting the upper and lower limbs, the bulbar musculature responsible for speech and swallowing, as well as the respiratory muscles (Feldman et al., 2022). As the disease advances, affected individuals experience profound functional decline, loss of independence, and ultimately respiratory failure, which remains the leading cause of death (Kiernan et al., 2021). Despite advances in understanding the molecular and cellular mechanisms of MND, effective disease‑modifying treatments are limited and there is no cure. Management therefore focuses largely on symptomatic treatment and multidisciplinary supportive care to maintain quality of life (Simon et al., 2015). The long-standing view of MND as a disease confined to the motor system is increasingly being challenged. Emerging evidence from human and rodent studies suggests that other organ systems, such as the heart, may also be affected, raising the possibility that cardiac involvement is a clinically relevant but under‑recognised feature of the disease.",
-      "journal": "Neuroscience",
-      "authors": [
-        "Bernardo BC",
-        "Russell AP"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003200/"
     }
   ]
 }
