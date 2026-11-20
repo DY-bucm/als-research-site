@@ -1,14 +1,106 @@
 {
-  "updatedAt": "2026-11-19T03:20:11.740Z",
+  "updatedAt": "2026-11-20T03:07:43.703Z",
   "period": {
     "days": 10,
-    "from": "2026-11-10",
-    "to": "2026-11-19"
+    "from": "2026-11-11",
+    "to": "2026-11-20"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 46,
+  "count": 44,
   "articles": [
+    {
+      "id": "pmid-43051909",
+      "pmid": "43051909",
+      "doi": "10.2169/internalmedicine.7648-26",
+      "title": "Amyotrophic Lateral Sclerosis Preceded by Vocal Fold Atrophy.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder that affects the upper and lower motor neurons of the brain and spinal cord, ultimately leading to respiratory failure. Vocal fold atrophy (VFA) is characterized by vocal fold arch atrophy, prominent vocal processes, and a spindle-shaped glottis gap. We herein report an 81-year-old male patient diagnosed with ALS shortly after VFA onset. VFA is generally associated with aging and Parkinson's disease; however, our report indicates that dysphonia may precede bulbar symptoms, and VFA is a suggestive sign in an atypical ALS diagnosis.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "authors": [
+        "Tsumura M",
+        "Yamashita S",
+        "Takagi R",
+        "Otsu T",
+        "Taira A",
+        "Tomura M",
+        "Mizuno Y",
+        "Akamatsu N",
+        "Murai H"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051909/"
+    },
+    {
+      "id": "pmid-43055898",
+      "pmid": "43055898",
+      "doi": "10.1186/s11671-026-05075-7",
+      "title": "Evaluation of glucosamine coated mesoporous silica nanoparticles for antioxidant activity cytocompatibility and blood brain barrier permeability in amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) remains a fatal neurodegenerative disease with limited disease-modifying options, and effective delivery of therapeutics to the central nervous system is hindered by the blood-brain barrier (BBB). Here, we report mesoporous silica nanoparticles (MSNs) designed as a combination-delivery platform integrating riluzole, 5-methoxytryptamine (5MT) as an antioxidant-related component, and glucosamine as a biomolecular surface coating. The resulting multifunctional nanosystems were prepared and characterized by complementary physicochemical techniques, supporting successful incorporation of the selected components within the MSN-based carrier. To obtain a first-pass indication of brain-oriented delivery feasibility, permeability was assessed using a PAMPA-BBB assay that mimics key features of the brain lipid environment. This screening assay showed formulation-dependent apparent silica carryover across the artificial lipid membrane and provides a basis for subsequent evaluation in cell-based BBB models, supporting their further evaluation as ALS-oriented nanodelivery candidates. Overall, these results establish a rational proof-of concept of MSN platform for combination delivery and provide a permeability-screening basis for subsequent studies in more advanced BBB and neurobiological models, supporting their further evaluation as multifunctional delivery platforms for neurodegenerative diseases, such as ALS.",
+      "journal": "Discover nano",
+      "authors": [
+        "Grasa-Gude N",
+        "García-Almodóvar V",
+        "Díaz-García D",
+        "Gómez-Ruiz S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055898/"
+    },
+    {
+      "id": "pmid-42980369",
+      "pmid": "42980369",
+      "doi": "10.1039/d6ay01718e",
+      "title": "Integrative spatial metallomics: a tutorial review of multimodal elemental imaging workflows, challenges and opportunities.",
+      "abstract": "Spatially resolved molecular assays are increasingly used to study human health and disease, revealing complex tissue organization beyond what is accessible through bulk analyses. While spatial transcriptomic, metabolomic, and proteomic approaches have rapidly matured, quantitative mapping of metals and trace elements in biological tissues and biominerals through elemental imaging remains comparatively nascent. Elemental distributions alone often provide limited biological interpretation without contextualization within the tissue microenvironment. Here, we summarize themes and computational strategies for integrating spatial elemental data with histopathology and complementary spatial molecular assays. We highlight multimodal approaches for tissue alignment, pixel-wise clustering, and correlative analysis, illustrated through limited use cases involving amyotrophic lateral sclerosis (ALS) and kidney stone formation. In the ALS cohort, pixel-level elemental profiles were clustered and compared with annotated tissue structures. In the kidney stone cohort, spatial gradients and correlations in elemental and biomolecular features from the renal papilla through the medulla to cortex were examined. Finally, we discuss key challenges for cross-sample, cohort-level analyses, including differences in spatial resolution, normalization, tissue architecture, and mechanistic inference. Addressing these challenges will require interdisciplinary collaboration, enhanced biobanking practices, and development of computational and statistical frameworks.",
+      "journal": "Analytical methods : advancing methods and applications",
+      "authors": [
+        "Kumar N",
+        "Paruchuri N",
+        "Punshon T",
+        "Jackson B",
+        "Cornell K",
+        "Stommel E",
+        "Deosthali H",
+        "Ravikumar V",
+        "Mostafa E",
+        "Palisoul S",
+        "Vaickus L",
+        "Ho S",
+        "Levy J"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980369/"
+    },
+    {
+      "id": "pmid-42979863",
+      "pmid": "42979863",
+      "doi": "10.1080/1061186X.2026.2759730",
+      "title": "Liposomal delivery of a riluzole-butyric acid mutual prodrug enhances neuroprotection and cognitive recovery in experimental Alzheimer's disease.",
+      "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterised by cognitive decline, impaired synaptic signalling and persistent neuroinflammation. Current therapies primarily provide symptomatic relief and have limited effects on disease progression. Riluzole, approved for amyotrophic lateral sclerosis, exhibits neuroprotective effects through modulation of glutamatergic signalling, but its poor oral bioavailability limits its therapeutic potential. Butyric acid, a short-chain fatty acid postbiotic produced by gut microbial fermentation, possesses well-established anti-inflammatory and neuroprotective properties. In this study, a mutual prodrug of riluzole and butyric acid was synthesised and encapsulated into liposomes to investigate its effects on drug distribution and preclinical efficacy. The prodrug-loaded liposomes exhibited an average particle size of 322 nm, zeta potential of -7.95 mV, and entrapment efficiency of 43.49%. Oral administration significantly improved cognitive performance and attenuated neuroinflammation and oxidative stress in an AlCl 3 -induced AD-like rat model. Administration of prodrug-loaded liposomes led to the highest concentrations of riluzole in brain homogenates among the relevant treatment groups. Overall, the prodrug-loaded liposomes demonstrated better therapeutic efficacy than the prodrug suspension, individual drug-loaded liposomes and their respective conventional formulations. The enhanced therapeutic performance is attributed to the complementary pharmacological actions of riluzole and butyric acid, combined with the ability of the liposomal system to improve drug bioavailability and facilitate cerebral delivery.",
+      "journal": "Journal of drug targeting",
+      "authors": [
+        "Choudhury AK",
+        "Rani P",
+        "Gupta R",
+        "Gulati M",
+        "Kapoor B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979863/"
+    },
     {
       "id": "pmid-43046861",
       "pmid": "43046861",
@@ -74,6 +166,30 @@
       ],
       "publishedAt": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42864601/"
+    },
+    {
+      "id": "pmid-43051945",
+      "pmid": "43051945",
+      "doi": "10.1080/21678421.2026.2762726",
+      "title": "Parietal GABA in individuals with amyotrophic lateral sclerosis and asymptomatic C9orf72 repeat expansion carriers assessed with MR spectroscopy at 7 T.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease. Multiple pathways are involved in its pathophysiology, but the exact mechanisms are still unknown. In this study, we investigate the role of gamma-aminobutyric acid (GABA) in ALS and the related C9orf72 repeat expansion (C9). As the primary inhibitory neurotransmitter, GABA may affect hyperexcitability in ALS. Decreased GABA levels have been reported in the motor cortex in ALS, but neither regions outside the motor area nor carriers of ALS-related pathogenic genetic variants were investigated. We used GABA-edited magnetic resonance spectroscopy (MEGA-sLASER) at 7 T to examine ratios of GABA to creatine. We compared individuals with ALS ( n = 17) to controls ( n = 13) and separately compare asymptomatic C9orf72 repeat expansion carriers ( n = 5) to non-carriers ( n = 7) from a single family. We placed the voxel of interest in the parietal lobe as it is specifically at risk in C9 carriers. We found no statistically significant differences in mean GABA ratios in either comparison, but individuals with ALS showed a higher variance than controls ( p = 0.026). We conclude that parietal GABA is not involved in ALS pathology in all individuals with ALS, but increased variance indicates heterogeneity and may reflect subgroups with GABAergic dysfunction. Individuals with ALS have an increased variance in parietal GABA levels compared to healthy controls.GABA levels in the parietal lobe do not significantly differ between controls and individuals with ALS.GABA levels in the parietal lobe are not affected by the C9orf72 repeat expansion in the parietal lobe.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "van Hoek W",
+        "Nitert AD",
+        "van Veenhuijzen K",
+        "Wismans C",
+        "Tan HHG",
+        "Klomp DWJ",
+        "Wijnen JP",
+        "van Den Berg LH",
+        "Westeneng HJ"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051945/"
     },
     {
       "id": "pmid-43043867",
@@ -929,159 +1045,6 @@
       ],
       "publishedAt": "2026-11-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43015463/"
-    },
-    {
-      "id": "pmid-42862052",
-      "pmid": "42862052",
-      "doi": "10.1039/d6cc03262a",
-      "title": "Carbon dot-based nanomaterials in neurodegeneration: addressing neurobiological barriers and targeting challenges.",
-      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, represent a major global health challenge due to their progressive nature and limited therapeutic options. One of the primary obstacles to treating these disorders is the blood-brain barrier (BBB), which restricts the delivery of most therapeutic agents into the central nervous system. In recent years, carbon-based nanomaterials, particularly carbon dot (CD) nanostructures, have emerged as promising platforms for neurological applications owing to their ultrasmall size, BBB-crossing ability, and anti-inflammatory and neuroprotective properties, in addition to tunable surface chemistry, strong photoluminescence, and favorable biocompatibility. This review provides a comprehensive overview of recent research developments in the application of CD-based nanomaterials, including carbon nanodots, carbon quantum dots, graphene quantum dots, and carbon polymer dots, for the potential treatment of neurodegenerative diseases. The synthesis strategies and carbonization approaches used to produce these carbon nanomaterials are discussed, along with their physicochemical properties relevant to neurobiological applications, such as particle size, surface functionalization, heteroatom doping, optical properties, and stability in biological environments. Furthermore, the mechanisms by which CD-based nanomaterials can traverse the BBB are examined, including receptor-mediated and adsorptive-mediated transcytosis pathways. In addition, their applications are discussed, with particular focus on their roles in bioimaging, biosensing, inhibition of pathological protein aggregation, antioxidative activity, and targeted drug delivery. Finally, key challenges related to toxicity, biodistribution, large-scale synthesis, and clinical translation are discussed, along with future perspectives for the development of multifunctional theranostic platforms. Overall, use of CD-based nanomaterials represents a promising emerging strategy for overcoming neurobiological barriers and enabling the development of next-generation nanotherapeutics for the management of neurodegenerative diseases.",
-      "journal": "Chemical communications (Cambridge, England)",
-      "authors": [
-        "Unnikrishnan B",
-        "Anand A",
-        "Fang CN",
-        "Wu SM",
-        "Wang CC",
-        "Huang CC",
-        "Chu HW",
-        "Chang HT"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862052/"
-    },
-    {
-      "id": "pmid-43009651",
-      "pmid": "43009651",
-      "doi": "10.1007/s00415-026-14241-x",
-      "title": "Impaired discrimination of negative facial emotions in pure motor ALS.",
-      "abstract": "Emotion recognition deficits in amyotrophic lateral sclerosis (ALS) remain debated. We investigated whether patients with pure motor ALS (without cognitive and behavioural disturbances) and without clinically relevant mood disturbances are impaired in discriminating negative facial emotions, using a test without ceiling effects. This cross-sectional study included 35 patients with pure motor ALS, based on the revised Strong criteria and operationalised using the Edinburgh Cognitive and Behavioural ALS Screen (ECAS), without clinically relevant mood disturbances, alongside 35 age-, sex-, and education-matched cognitively and psychiatrically healthy controls. All participants completed a shortened five-emotion version of the Facial Emotion Intensity Rating Test - Congruent and Incongruent and the Facial Sex Matching Task (FSMT), a brief screening measure of non-emotional facial discrimination. Pure motor ALS patients showed poorer discrimination among negative facial emotions than healthy controls (p = 0.011, Cohen's d = 0.63). The group difference did not differ significantly across anger, fear, sadness, and disgust (p = 0.178). Similarly, the group difference in discrimination among negative emotions did not differ significantly from that in discrimination between negative emotions and happiness (p = 0.459). The two groups did not differ significantly on the FSMT. Discrimination of negative facial emotions was impaired in patients with pure motor ALS, suggesting that classification based on ECAS screening may underestimate social-cognitive involvement. Our findings are compatible with the concept of an ALS-frontotemporal spectrum disorder. Whether impaired emotion discrimination relates to additional cognitive or behavioural impairment remains to be determined. The clinical utility and reliability of our measure require further study.",
-      "journal": "Journal of neurology",
-      "authors": [
-        "Meyer A",
-        "Semenkova A",
-        "Wezel S",
-        "Weber M",
-        "Schweikert K",
-        "Schläger R",
-        "Wendebourg J",
-        "Piguet O",
-        "Berres M",
-        "Braun N",
-        "Lulé D",
-        "Sollberger M"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009651/"
-    },
-    {
-      "id": "pmid-43008331",
-      "pmid": "43008331",
-      "doi": "10.1088/1741-2552/aec049",
-      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
-      "abstract": "Achieving long-term decoding stability is a critical challenge for chronic&#xD;intracranial brain-computer interfaces (BCIs). High-gamma (HG) activity from&#xD;intracranial recordings is the standard signal for BCI control, and lower-frequency features&#xD;can enhance HG decoding performance. This study evaluated the longitudinal stability of&#xD;speech and hand-grasp detection models using individual and joint spectral features, and&#xD;the local motor potential (LMP).&#xD;Approach. Longitudinal data from a single participant implanted with two 64-channel&#xD;ECoG arrays were used to evaluate the long-term stability of logistic regression models for&#xD;speech and hand-grasp detection. Models were trained on individual frequency bands and&#xD;on the LMP, a time-domain low-frequency feature, and evaluated over 21 months for&#xD;speech and 13 months for grasp. The best-performing band features were then combined&#xD;into multi-band models and analyzed for their spatial contributions.&#xD;Main Results. The LMP yielded the most accurate single feature models in both tasks&#xD;(speech 93.8%, grasp 99.4%) and showed little or no decline. Multi-band models&#xD;combining HG with lower frequency bands were substantially more stable than HG-only&#xD;models and outperformed the LMP models for speech but not grasp. HG accuracy&#xD;degraded strongly for both tasks (speech:-4.3 percentage points per 100 days, or pp/100d,&#xD;grasp:-3.4 pp/100d). HG+beta for speech showed a negligible decline (-0.5 pp/100d,&#xD;95.6% ±0.06% overall), and for grasp, delta alone showed remarkable stability (+0.5&#xD;pp/100d), while HG+beta+delta maintained 98.2 ±0.09% overall accuracy with flat&#xD;performance (+0.0 pp/100d). The advantage of the multi-band models increased over&#xD;time, reaching +20.6 pp for speech and +10.2 pp for grasp in the last 100 days.&#xD;Significance. Incorporating lower-frequency neural activity yields more stable long-term&#xD;speech and grasp detection than HG alone. These findings indicate that lower-frequency&#xD;and multi-band features may reduce recalibration requirements for simple BCI tasks, and&#xD;may complement the precision control provided by HG activity.",
-      "journal": "Journal of neural engineering",
-      "authors": [
-        "Wallner J",
-        "Angrick M",
-        "Luo S",
-        "Candrea D",
-        "Crone N",
-        "Krusienski DJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008331/"
-    },
-    {
-      "id": "pmid-43023114",
-      "pmid": "43023114",
-      "doi": "10.1080/19768354.2026.2736980",
-      "title": "OGS-MA114 ameliorates FUS mutant-associated ALS pathology by activating PINK1-dependent mitophagy.",
-      "abstract": "Mitochondrial dysfunction and impaired mitophagy are increasingly recognized as central contributors to pathogenesis of amyotrophic lateral sclerosis (ALS). In this study, we identified OGS-MA114 (C₂₃H₁₉ClN₄O₃S), as a compound that activates mitophagy through a bioactive chemical library screen in SH-SY5Y cells. OGS-MA114 significantly enhanced autophagic and mitophagic flux, increased Ser65-phosphorylated ubiquitin levels, and promoted Parkin recruitment to damaged mitochondria, indicating activation of the PINK1/Parkin pathway. In SH-SY5Y cells expressing the ALS-associated FUS P525L mutant, OGS-MA114 restored mitochondrial membrane potential, reduced cleaved caspase-3 levels, and improved cell viability under mitochondrial stress conditions. Furthermore, in a transgenic zebrafish model expressing mutant FUS R521C , OGS-MA114 significantly improved locomotor activity and survival while reducing cell death in the spinal cord. These findings suggest that OGS-MA114 ameliorates ALS-associated pathological phenotypes by enhancing PINK1-dependent mitophagy. Thus, pharmacological modulation of mitophagy may provide a useful basis for further investigation of ALS and -related neurodegenerative disorders.",
-      "journal": "Animal cells and systems",
-      "authors": [
-        "Kim SH",
-        "So JH",
-        "Lee Y",
-        "Park NY",
-        "Park JS",
-        "Kim P",
-        "Bae JE",
-        "Jo DS",
-        "Park HC",
-        "Cho DH"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023114/"
-    },
-    {
-      "id": "pmid-43009540",
-      "pmid": "43009540",
-      "doi": "10.1038/s12276-026-01891-0",
-      "title": "The neuro-inflammaging triangle: a self-amplifying circuit of protein pathology, senescence-associated secretory phenotype and innate immunity in neurodegenerative disease.",
-      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, frontotemporal dementia and amyotrophic lateral sclerosis, share common pathological features, including abnormal protein aggregation, chronic neuroinflammation and progressive neuronal loss. Ageing is the strongest risk factor, accompanied by a chronic, mild inflammatory state called 'inflammaging,' partly due to senescent cells producing senescence-associated secretory phenotype (SASP) factors. Innate immune DNA- and danger-sensing pathways, most notably the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway and NOD-like receptor family, pyrin domain containing 3 (NLRP3) inflammasomes, convert cellular injury into chronic neuroinflammation. Here, we propose that protein pathology, SASP, and innate immune activation form a self-amplifying triangular circuit leading to age-related neurodegeneration. We present the cellular and molecular basis of each part and how microglia, astrocytes, oligodendrocyte precursor cells and neurons contribute. We outline treatment strategies, including senolytics, senomorphics, innate immune pathway inhibitors and metabolic restoration, and identify unresolved questions, including the reversibility of post-mitotic neuronal senescence, the relative contribution of each cell type and the translational challenge of interrupting the cycle. Collectively, the neuro-inflammaging triangle theory shifts focus from individual pathogenic entities to the self-amplifying circuit that sustains them, offering a unified mechanistic model to advance our understanding and treatment of age-related neurodegeneration.",
-      "journal": "Experimental & molecular medicine",
-      "authors": [
-        "Lee HJ",
-        "Lee SJ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009540/"
-    },
-    {
-      "id": "pmid-43023511",
-      "pmid": "43023511",
-      "doi": "10.2174/0115672026509056261030055920",
-      "title": "Therapeutic Potential of Liposomes in Targeting Neurodegenerative Diseases: Mechanistic Insights and a Future Perspective.",
-      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis, are progressive disorders with limited disease-modifying treatments. Poor drug bioavailability, systemic toxicity, and restricted Blood-Brain Barrier (BBB) penetration remain major therapeutic challenges. Although previous reviews have discussed liposomal delivery, an updated mechanistic and translational assessment is needed. This review analyzed relevant studies on liposome-based drug delivery for neurodegenerative diseases, focusing on BBB penetration, targeting strategies, formulation characteristics, therapeutic mechanisms, and translational challenges. Liposomes improve drug solubility, stability, bioavailability, and brain delivery through passive transport, receptor-mediated transcytosis, adsorptive-mediated transport, and ligandassisted targeting. Functionalization with transferrin, lactoferrin, peptides, antibodies, and other ligands can enhance BBB transport and site-specific delivery. Liposomal systems target key pathological mechanisms, including amyloid-β aggregation, oxidative stress, neuroinflammation, mitochondrial dysfunction, and dopaminergic neuronal degeneration. Major gaps include limited clinical validation, long-term safety data, BBB-targeting efficiency, formulation stability, and manufacturing scalability. Compared with earlier reviews, this review integrates recent advances in liposome engineering with disease-specific mechanisms, BBB-targeting strategies, therapeutic outcomes, and translational barriers, providing a comprehensive perspective on the progression from preclinical development toward clinical application. Liposomes represent a promising platform for targeted therapy of neurodegenerative diseases. Standardized evaluation, scalable manufacturing, long-term safety assessment, and well-designed clinical trials are essential for establishing their therapeutic efficacy and facilitating clinical translation.",
-      "journal": "Current neurovascular research",
-      "authors": [
-        "Bhanja SS",
-        "Tripathy S",
-        "Sharma DK"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023511/"
-    },
-    {
-      "id": "pmid-43013396",
-      "pmid": "43013396",
-      "doi": "10.1016/j.celrep.2026.118283",
-      "title": "TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.",
-      "abstract": "Selective autophagy receptors recognize and recruit harmful intracellular components to autophagosomes for degradation, and their dysfunction is linked to neurodegeneration, metabolic disorders, and cancer. Here, we identified TNFAIP3 interacting protein 1 (TNIP1) as an aggrephagy receptor implicated in neurodegenerative diseases. TNIP1 accumulated at polyubiquitinated protein aggregates upon proteotoxic stress. Genetic depletion of TNIP1 reduced protein aggregate clearance and increased axonal degeneration under proteotoxic stress. Mechanistically, TNIP1 enhanced protein aggregate clearance by assembling aggrephagy receptors, such as SQSTM1/p62 and TAX1BP1, onto protein aggregates. Gene expression analysis revealed that TNIP1 expression levels are reduced in patients with amyotrophic lateral sclerosis (ALS) with TAR DNA-binding protein 43 (TDP-43) inclusion pathology. Additionally, an ALS-associated TNIP1 mutant exhibited impaired association with TDP-43 aggregates and failed to rescue their autophagy-mediated degradation. These findings establish TNIP1 as an aggrephagy receptor and reveal its potential role as a therapeutic target for ALS and other proteinopathies.",
-      "journal": "Cell reports",
-      "authors": [
-        "Park H",
-        "Kim T",
-        "Kang M",
-        "Ryu JK",
-        "Lee S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013396/"
     }
   ]
 }
