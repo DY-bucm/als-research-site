@@ -1,14 +1,34 @@
 {
-  "updatedAt": "2026-11-20T03:07:43.703Z",
+  "updatedAt": "2026-11-21T03:10:51.693Z",
   "period": {
     "days": 10,
-    "from": "2026-11-11",
-    "to": "2026-11-20"
+    "from": "2026-11-12",
+    "to": "2026-11-21"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 44,
+  "count": 41,
   "articles": [
+    {
+      "id": "pmid-43062202",
+      "pmid": "43062202",
+      "doi": "10.1080/21678421.2026.2762727",
+      "title": "Lived experiences of fatigue in individuals with amyotrophic lateral sclerosis: a qualitative study.",
+      "abstract": "Fatigue is a prominent and burdensome symptom of amyotrophic lateral sclerosis (ALS). Its measurement is difficult due to limited definition of the characteristics of fatigue unique to ALS. We aimedto characterize the lived experience of fatigue in ALS, including how it is perceived, understood and experienced, to inform a disease-specific, patient-centred conceptual framework. We developed an interview guide based on existing fatigue scales, review of the literature on fatigue in ALS and the experiences of ALS care providers. We conducted focus groups of people with ALS with open-ended discussion of the fatigue experience. Thematic analysis with a phenomenological approach was employed to identify primary themes. Four focus groups were held with a total of fifteen participants. People reported that fatigue shaped their daily activity and sleep patterns, was worsened by activity and improved with rest, changed social interactions, incorporated mental, physical and emotional components, and was manageable with various means of physical and psychological coping. Some participants reported difficulty distinguishing between physical weakness from ALS and physical fatigue. We identified four interconnected themes that illuminate how fatigue is experienced, interpreted, and given meaning in the everyday lives of people with ALS, extending beyond traditional clinical characterizations. This work has informed development of a conceptual model and a preliminary patient-informed definition of fatigue in ALS. Participants defined fatigue as an all-encompassing phenomenon that feels unique to ALS, is related to weakness, and has physical and mental components only partially managed through rest, expectation-setting and activity modulation.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Grouls A",
+        "Khan HQ",
+        "Kvale EA",
+        "Sharp LJ",
+        "Berth SH"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062202/"
+    },
     {
       "id": "pmid-43051909",
       "pmid": "43051909",
@@ -100,6 +120,54 @@
       ],
       "publishedAt": "2026-11-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42979863/"
+    },
+    {
+      "id": "pmid-43057404",
+      "pmid": "43057404",
+      "doi": "10.1016/j.nbd.2026.107689",
+      "title": "Novel VAPB variants in sporadic ALS promote protein aggregation and PERK-ISR associated apoptosis.",
+      "abstract": "Vesicle-associated membrane protein-associated protein B (VAPB) has been established as a causative gene for amyotrophic lateral sclerosis (ALS). However, VAPB mutations have been infrequently reported, and the pathogenic mechanisms underlying novel variants remain poorly characterized. In the present study, VAPB was sequenced in a cohort of Chinese patients with sporadic ALS to identify novel variants and delineate their functional consequences. Targeted next-generation sequencing was conducted in non-consecutive ALS patients referred to Departments of Neurology at Fujian Medical University Union Hospital between 2017 and 2024. Variant pathogenicity was assessed using PolyPhen-2, MutationTaster, and other in silico prediction tools. Functional analyses comprised immunofluorescence, solubility fractionation, immunoblotting for PERK, eIF2α, and ATF4, and Annexin V-APC/7-AAD flow cytometry. Three novel heterozygous missense variants, c.38 A > C (p.Q13P), c.511G > A (p.E171K), c.659 T > G (p.L220R), and one known c.166C > T (p.P56S) mutation, were individually identified in four patients with sporadic ALS. All patients showed relatively rapid disease progression except the patient with P56S mutation. Most in silico prediction tools classified Q13P and E171K as likely damaging. Immunofluorescence analysis demonstrated that Q13P and E171K, but not L220R, formed perinuclear aggregates showing extensive colocalization with the endoplasmic reticulum (ER) chaperone PDI. In Neuro-2a cells, upon tunicamycin treatment, overexpression of Q13P or E171K was associated with increased p-PERK/PERK and p-eIF2α/eIF2α ratios and elevated ATF4 expression. Furthermore, independent of tunicamycin treatment, these mutants suppressed global protein synthesis, as assessed by the SUnSET assay. Furthermore, both variants increased the protein levels of CHOP, Bax, and cleaved caspase-3 and were associated with an increased proportion of Annexin V-positive cells. Our findings demonstrate that the VAPB variants Q13P (MSP domain) and E171K (coiled-coil domain), but not L220R, are associated with ER aggregates and converge on activation of the PERK-eIF2α-ATF4 branch of the integrated stress response (ISR), accompanied by ER stress-associated apoptosis (increased CHOP, Bax, and cleaved caspase-3). These observations are consistent with a likely pathogenic role for these two variants and indicate that variants arising in distinct structural domains converge on a shared ER stress-PERK-ISR-apoptosis axis, a candidate therapeutic target in VAPB-associated ALS.",
+      "journal": "Neurobiology of disease",
+      "authors": [
+        "Chen J",
+        "Qi Y",
+        "Chen L",
+        "Feng S",
+        "Chen S",
+        "Liu C",
+        "Lu Y",
+        "Zou Z"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057404/"
+    },
+    {
+      "id": "pmid-43061696",
+      "pmid": "43061696",
+      "doi": "10.7759/cureus.119949",
+      "title": "Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
+      "abstract": "Takotsubo syndrome (TTS) is an acute, usually reversible form of left ventricular dysfunction that mimics acute coronary syndrome and carries a long-term prognosis comparable to that of myocardial infarction. Its pathogenesis has been linked to the brain-heart axis, and TTS has been described after acute neurological events and in patients with chronic neurological disease. However, the evidence remains fragmented across individual conditions, and acute triggers are rarely distinguished from pre-existing disorders. The objective here is to systematically review primary observational evidence on TTS in adults with acute and chronic neurological conditions, with emphasis on the temporal relationship, cardiac phenotypes, complications, and clinical outcomes, and to summarize the mechanistic evidence reported by the included studies. A systematic literature search was conducted across PubMed/MEDLINE, ScienceDirect, Google Scholar, and ResearchGate (January 2016 to September 2026) in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, supplemented by citation searching. Eligibility criteria, data extraction, and quality appraisal with the Newcastle-Ottawa Scale were predefined. Of 3170 records, 16 primary observational studies were included: five multicenter registry analyses, four administrative database analyses, five cohort studies, one case-control study, and one cross-sectional study. Reviews and case reports provided context only, and reports from overlapping data sources were not pooled. In the International Takotsubo Registry, an acute neurological disorder preceded TTS in 6.7% of 2402 patients, most often seizures, intracranial hemorrhage, or cerebral ischemia, and TTS was diagnosed within two days of neurological symptoms in 87.3%. In the German-Italian-Spanish Takotsubo Registry, 17% of 2301 patients had a neurological disorder, mostly pre-existing. Neurologically associated TTS showed lower left ventricular ejection fraction (37.4% vs 41.0%), more cardiogenic shock (15.1% vs 8.6%), and higher in-hospital mortality (17.4% vs 4.0%; adjusted odds ratio 3.20), which reached 30.4% after intracranial hemorrhage. A neurological disorder independently predicted long-term mortality (hazard ratio 1.72). Migraine was associated with lower adjusted mortality, whereas amyotrophic lateral sclerosis was associated with a more severe in-hospital course. Ballooning patterns differed only modestly, and chest pain was reported in 29.0% of neurologically associated cases compared with 72.9% of other cases. Evidence for traumatic brain injury was limited to one strain-defined cohort and coded trauma data, and direct mechanistic measurements were scarce. Neurological disease identifies a higher-risk subgroup of patients with TTS who often present without chest pain. TTS should be considered in patients with acute neurological events who develop unexplained hemodynamic instability, electrocardiographic changes, or troponin elevation, and echocardiography should anticipate more severe systolic dysfunction. The evidence base is small, partly overlapping, and diagnostically heterogeneous, and outcomes were reported as all-cause. Prospective studies with standardized diagnostic criteria and separate reporting of cardiac and neurological outcomes are needed.",
+      "journal": "Cureus",
+      "authors": [
+        "Jangirashvili T",
+        "Parthiv O",
+        "Kurtsikidze S",
+        "Srinivas S",
+        "Oboladze M",
+        "Yassine M",
+        "Maghradze N",
+        "Khaburdzania B",
+        "Ali MMAMY"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061696/"
     },
     {
       "id": "pmid-43046861",
@@ -903,148 +971,6 @@
       ],
       "publishedAt": "2026-11-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020712/"
-    },
-    {
-      "id": "pmid-43022354",
-      "pmid": "43022354",
-      "doi": "10.1136/bmjno-2026-001766",
-      "title": "A phase II, randomised, placebo-controlled, double-blind trial of cannabis extract for amyotrophic lateral sclerosis: the EMERALD trial.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease with limited disease-modifying treatment options. Preclinical and clinical data suggest that cannabinoid-based therapies may exert neuroprotective and symptomatic benefits. We conducted a trial to evaluate the effects of cannabis-based medicine extract (CBME) on disease progression in patients with ALS. This was a randomised, double-blind, placebo-controlled trial. Participants received CBME or placebo for 6 months. The primary outcome was the difference in ALS Functional Rating Scale-Revised (ALSFRS-R) scores at the end of treatment (EOT). Secondary outcomes included adverse events, forced vital capacity (FVC), pain and spasticity measures, weight loss, cognition and quality of life. Due to COVID-19 restrictions and driving limitations, only 17 participants were enrolled (CBME: n=8; placebo: n=9), and 8 completed treatment (4 per group). At EOT, adjusted mean ALSFRS-R scores were 31.67 for CBME and 34.33 for placebo (difference: -2.66; 95% CI -7.25 to 1.92; p=0.18; n=8). No significant differences were observed in secondary outcomes. Post hoc analyses suggested potential effects of CBME on pain and cognition for further confirmation: usual pain intensity decreased by 2.52 points (95% CI -8.92 to 3.87, p=0.34; n=8), a decrease of 3 days in the number of pain days (95% CI -28.90 to 22.59, p=0.75; n=8), executive function improved by 7.71 points (95% CI 0.90 to 14.52; p=0.04; n=8) and a 5.68-point improvement in memory (95% CI -0.29 to 11.64; p=0.06; n=8). This trial did not achieve the target sample size therefore was underpowered to demonstrate efficacy of cannabis in slowing ALS progression. However, exploratory analyses generated hypotheses regarding possible effects on pain and cognition which require confirmation in adequately powered studies. (ID: NCT03690791) on 27 September 2018.",
-      "journal": "BMJ neurology open",
-      "authors": [
-        "Urbi B",
-        "Sabet A",
-        "Hughes I",
-        "Bedlack R",
-        "Russo E",
-        "Broadley SA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022354/"
-    },
-    {
-      "id": "pmid-43012465",
-      "pmid": "43012465",
-      "doi": "10.4103/aian.aian_1096_26",
-      "title": "Authors' Reply- Unfinished Breath: Caregivers' Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India.",
-      "abstract": "",
-      "journal": "Annals of Indian Academy of Neurology",
-      "authors": [
-        "Keerthipriya MS",
-        "Nalini A",
-        "Thomas PT"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43012465/"
-    },
-    {
-      "id": "pmid-43015714",
-      "pmid": "43015714",
-      "doi": "10.1186/s12909-026-10077-1",
-      "title": "From technique to sensitivity: the transformation of clinical and ethical reasoning in physiotherapy students in the context of chronic neurodegenerative diseases.",
-      "abstract": "The evolution of Physiotherapy requires a shift from the biomedical model towards bioethical and humanistic approaches. This study explores how final-year students perceive their professional role when dealing with patients with complex neurodegenerative conditions, where traditional technical success is challenged by the irreversibility of the deterioration. Qualitative research based on interpretative description. Thirty final-year students from the University of Almería (Spain) took part, divided into five working groups. Three training sessions and discussions were held on Amyotrophic Lateral Sclerosis (ALS), Alzheimer's disease, stroke and Rett syndrome. The data were analysed using thematic analysis and triangulation by researchers external to the study, with reflexivity ensured through logbooks. A shift in clinical reasoning was identified, with sensitivity taking precedence over technique. Students redefined therapeutic success in terms of \"comfort\" and support, valuing \"microscopic achievements\" such as the preservation of dignity and the alleviation of distress. Of particular note is the ability to adapt ethical principles according to the patient's cognitive integrity (autonomy in ALS versus protection in Alzheimer's) and the integration of the carer as an inseparable part of the therapeutic process. Future physiotherapists perceive humanization and the empathetic interpretation of non-verbal cues as essential therapeutic tools. Unlike previous studies focused on clinical experience, this research explores pre-clinical ethical maturation, offering a unique perspective on the educational foundation and humanistic predisposition of future graduates prior to their immersion in the healthcare system. It is imperative that academic curricula formally integrate competencies in bioethics, palliative care and emotional management to prepare graduates for extreme vulnerability and prevent early professional burnout.",
-      "journal": "BMC medical education",
-      "authors": [
-        "Pérez-de la Cruz S"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015714/"
-    },
-    {
-      "id": "pmid-43036675",
-      "pmid": "43036675",
-      "doi": "10.2147/IJN.S651672",
-      "title": "Molecular Mechanisms of Nanoparticle-Mediated Targeted Drug Delivery in Neurodegenerative Diseases.",
-      "abstract": "With global population aging, the incidence of neurodegenerative diseases continues to rise, and the blood-brain barrier (BBB) excludes approximately 98% of small-molecule drugs and nearly all large-molecule biologics from the central nervous system (CNS), so conventional small-molecule pharmacotherapy is largely limited to symptom modulation. Nanodrug delivery systems, including ligand-engineered polymeric, lipid, and inorganic nanoparticles as well as naturally secreted extracellular vesicles, have been proposed as a way to overcome the BBB and modulate disease pathways, and most of the supporting evidence currently derives from rodent models. This review synthesizes the molecular mechanisms by which these systems cross or bypass the BBB, summarizes representative disease-specific interventions in Alzheimer's, Parkinson's, Huntington's, amyotrophic lateral sclerosis, and multiple sclerosis, and critically discusses translational bottlenecks, with the explicit aim of distinguishing established mechanisms from preclinical observations and clarifying the path to clinical investigation. We deliberately limited in scope to systems for which mechanistic and delivery data are available, and the rapid pace of the field means that conclusions about clinical efficacy cannot be drawn from the present preclinical literature. Nevertheless, it still provides valuable insights for research in this field.",
-      "journal": "International journal of nanomedicine",
-      "authors": [
-        "Hao J",
-        "Zhang J",
-        "Li Q",
-        "Zhou Y"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43036675/"
-    },
-    {
-      "id": "pmid-43021436",
-      "pmid": "43021436",
-      "doi": "10.1093/brain/awag391",
-      "title": "Neuronal cell-cycle re-entry stratifies clinical trajectories in amyotrophic lateral sclerosis.",
-      "abstract": "The clinical heterogeneity of Amyotrophic Lateral Sclerosis (ALS) remains a fundamental barrier to effective therapy. While cell cycle re-entry in post-mitotic neurons is a known precursor to neurodegeneration, its role in defining patient-specific outcomes has never been established. Here, we integrate large-scale transcriptomic profiling from the AnswerALS cohort with mechanistic studies in human iPSC-derived spinal motor neurons to define how cell-cycle re-entry shapes disease heterogeneity in ALS. We identify a transcriptionally distinct patient subgroup with the highest expression of G1 or G2-phase cyclins that exhibit significantly slower functional decline (ALSFRS-R), whereas the engagement of S-phase markers correlates with accelerated disease progression. Nucleocytoplasmic transport dysfunction, a hallmark of ALS and related disorders, disrupts the spatial distribution of key regulatory proteins and may contribute to maladaptive cell-cycle activation. Our recent evidence suggests that impaired nuclear import may initiate, rather than merely accompany, neuronal cell-cycle re-entry. Using iPSC-derived motor neurons, we show that impaired nuclear import initiates TDP-43 pathology and global nuclear/cytoplasmic mis-localization of key ALS-related proteins. This nucleocytoplasmic transport dysfunction triggers a transient wave of cell-cycle activity immediately preceding neuronal cell death. Crucially, we show that DNA-replication initiation is a pathological inflection point of no return, as neurons entering S-phase accumulate replication-associated DNA damage and undergo cell death. Selective inhibition of CDK4/6 prevents S-phase entry and confers potent neuroprotection. Our findings demonstrate that impaired nuclear import drives maladaptive cell-cycle reactivation in ALS and that the depth of cell-cycle engagement stratifies neuronal fate and patient trajectories.",
-      "journal": "Brain : a journal of neurology",
-      "authors": [
-        "Plessis-Belair J",
-        "Sher RB"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021436/"
-    },
-    {
-      "id": "pmid-43015463",
-      "pmid": "43015463",
-      "doi": "10.1038/s41586-026-11256-2",
-      "title": "UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss.",
-      "abstract": "TDP-43 nuclear depletion is a defining pathological feature of amyotrophic lateral sclerosis and frontotemporal dementia that induces widespread cryptic splicing defects in hundreds of transcripts 1-8 . Despite this, whether TDP-43 loss affects synaptic function has remained unclear. Here we show that TDP-43 loss induces a predegenerative state in which neurons remain structurally intact but suffer a substantial breakdown in synaptic communication. Genetic correction of a single cryptic splicing event in UNC13A was sufficient to rescue these deficits. We developed splice-switching antisense oligonucleotides that correct UNC13A cryptic splicing in human cortical and spinal motor neurons and in a humanized mouse model. In human neurons this intervention restored spontaneous and evoked synaptic vesicle release, release probability at individual synapses and wider network synchrony. Together, this establishes UNC13A splice correction as a mechanistically defined and genetically validated therapeutic strategy relevant to roughly 97% of patients with amyotrophic lateral sclerosis and roughly 50% of patients with frontotemporal dementia with TDP-43 pathology.",
-      "journal": "Nature",
-      "authors": [
-        "Keuss MJ",
-        "Harley P",
-        "Ryadnov E",
-        "Jackson RE",
-        "Boll M",
-        "Zanovello M",
-        "Wilkins OG",
-        "Barattucci S",
-        "Ilic D",
-        "Simkin RL",
-        "Chien MZYJ",
-        "Cammack AJ",
-        "Šoltić D",
-        "Mehta PR",
-        "Ling YT",
-        "Kowald M",
-        "Morrie RD",
-        "Miller G",
-        "Oliveira MG",
-        "Duddy G",
-        "Wood S",
-        "Parkes JE",
-        "Sinha A",
-        "Correa-Sánchez AF",
-        "Isaacs AM",
-        "Oliver PL",
-        "Hamid F",
-        "Green EM",
-        "Fisher EMC",
-        "Davies B",
-        "Schiavo G",
-        "Shah M",
-        "Lipstein N",
-        "Burrone J",
-        "Fratta P"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015463/"
     }
   ]
 }
