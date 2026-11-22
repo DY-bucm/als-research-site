@@ -1,14 +1,67 @@
 {
-  "updatedAt": "2026-11-21T03:10:51.693Z",
+  "updatedAt": "2026-11-22T02:10:51.259Z",
   "period": {
     "days": 10,
-    "from": "2026-11-12",
-    "to": "2026-11-21"
+    "from": "2026-11-13",
+    "to": "2026-11-22"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 41,
+  "count": 40,
   "articles": [
+    {
+      "id": "pmid-43064600",
+      "pmid": "43064600",
+      "doi": "10.1016/j.acra.2026.11.015",
+      "title": "Altered Brain-cerebrospinal Fluid Dynamics and Juxtacortical Microstructural Alterations in Early-stage Amyotrophic Lateral Sclerosis.",
+      "abstract": "Altered cerebrospinal fluid (CSF) dynamics may contribute to amyotrophic lateral sclerosis (ALS), but their relationships with cortical microstructure and functional impairment in patients with early-stage ALS (King's stage 1; ALS-ES) remain unclear. Eighty patients with King's Stage 1 ALS and 82 healthy controls underwent resting-state functional magnetic resonance imaging (MRI), diffusion MRI, and structural MRI. Global blood oxygen level-dependent-cerebrospinal fluid (gBOLD-CSF) coupling was used as a surrogate measure of brain-CSF dynamics. Juxtacortical free-water fraction (FWF) was quantified across 68 cortical regions. Regional clinical associations were assessed using partial correlations, and indirect effects were estimated using 5000-bootstrap mediation analyses. Spatial correlates of FWF alterations were examined using normative neurotransmitter, cellular, mitochondrial, and transcriptomic maps. After covariate adjustment, gBOLD-CSF coupling was significantly weaker and less negative in ALS-ES than in HCs (p FDR < 0.001). Higher FWF was negatively associated with revised amyotrophic lateral sclerosis functional rating scale scores in the left precentral, left rostral middle frontal, left transverse temporal, and right rostral middle frontal regions after Bonferroni correction. Exploratory mediation analyses identified nominal indirect associations in the left precentral and left rostral middle frontal gyri. Regional FWF abnormalities spatially corresponded to serotonin, gamma-aminobutyric acid, mitochondrial, neuronal, endothelial, and immune-related normative maps. ALS-ES is characterized by altered brain-CSF coupling and spatially patterned juxtacortical extracellular-water abnormalities associated with functional impairment. Normative molecular mapping nominates neurovascular, neuronal, and immune-related contexts for this imaging phenotype.",
+      "journal": "Academic radiology",
+      "authors": [
+        "Luan J",
+        "Li J",
+        "Zhan Z",
+        "Wang H",
+        "Cheng L",
+        "Yun Y",
+        "Lian X",
+        "Ma M",
+        "Tang Y",
+        "Wu M",
+        "Huang P",
+        "Lv J",
+        "Yu D",
+        "Sun X",
+        "Liu S",
+        "Liu F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064600/"
+    },
+    {
+      "id": "pmid-43064242",
+      "pmid": "43064242",
+      "doi": "10.1016/j.bpsc.2026.11.005",
+      "title": "Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
+      "abstract": "Psychiatric and neurodegenerative conditions have both shared and distinct symptomatology, but the brain mechanisms underlying diagnostic similarities and differences remain unclear. Using genome-wide association data, we analyzed 12 psychiatric disorders and four neurodegenerative diseases, assessing polygenic overlap, shared loci, and genetic causal relationships linking their genetic latent factors with 3,935 brain imaging-derived phenotypes (IDP). Using genomic structural equation modeling, we identified an internalizing factor (F1), an addiction factor (F2), a factor related to schizophrenia and bipolar disorder (F3), a neurodevelopmental factor (F4), and a factor related to Alzheimer's disease and amyotrophic lateral sclerosis (F5). These showed shared transcriptomic enrichments for frontal and anterior cingulate cortical regions, while F1-specific depletion in substantia nigra and F3-specific enrichment in nucleus accumbens appeared to be specific. Fine-mapping identified 99 variants, including shared loci (e.g., VRK2: F1, F2, F3; TSHZ3: F1, F2; TCF4: F1, F3) and factor-specific loci (e.g., DRD2-F2; SCN2A-F3; FOXP2-F4; TNIP1-F5). The brain-wide analysis of fine-mapped loci identified 1,480 IDP associations (false discovery rate q<0.05). Among these, BANK1 rs1813006, related to F2, was associated to >400 brain IDPs (mostly related to cortical area, cortical grey-white contrast, cortical thickness, and regional and tissue volume). Similarly, MOBP rs1768190 related to F5 was associated with >200 brain IDPs, with about half of them related to cortical thickness. The present study provides new insights into cross-diagnostic mechanisms linking genetic variation and molecular changes to the brain structural and functional variation across psychiatric and neurodegenerative conditions.",
+      "journal": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
+      "authors": [
+        "Xu Z",
+        "Mao Z",
+        "Qiu D",
+        "Cabrera-Mendoza B",
+        "Liu H",
+        "He J",
+        "Polimanti R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064242/"
+    },
     {
       "id": "pmid-43062202",
       "pmid": "43062202",
@@ -28,6 +81,59 @@
       ],
       "publishedAt": "2026-11-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43062202/"
+    },
+    {
+      "id": "pmid-43064096",
+      "pmid": "43064096",
+      "doi": "10.1016/j.jbi.2026.105130",
+      "title": "MultiNSDE: treatment-aware neural SDEs for generative modeling of real and counterfactual patient trajectories.",
+      "abstract": "Synthetic patient data may facilitate biomedical research, trial planning, and the construction of synthetic control arms, but there is a lack of methods that enable the realistic generation of mixed-type longitudinal clinical trial data while accounting for treatment effects. We developed MultiNSDE, a neural stochastic differential equation framework for modeling high-dimensional static and longitudinal clinical study data, including continuous, categorical, and time-to-event outcomes. The model separates treatment- and placebo-associated dynamics, enabling treatment-aware individual trajectory simulation and counterfactual treatment assignment. MultiNSDE was evaluated on three neurodegenerative disease trial datasets: A4 in Alzheimer's disease, PRO-ACT in amyotrophic lateral sclerosis, and DATATOP in Parkinson's disease. The model reproduced static and longitudinal data distributions, extrapolated clinically plausible trajectories, and generated coherent counterfactual outcomes under treatment-to-placebo and placebo-to-treatment shifts. Synthetic data generated by MultiNSDE preserved average treatment effect estimates observed in the real datasets. MultiNSDE provides a proof-of-concept for the generation of realistic mixed-type longitudinal clinical trial data while preserving clinically meaningful treatment-associated differences in outcomes. It may support disease modeling, counterfactual simulation, and synthetic control generation in neurodegenerative disease research.",
+      "journal": "Journal of biomedical informatics",
+      "authors": [
+        "Valderrama D",
+        "Fourtoy A",
+        "Mähler I",
+        "Gerken A",
+        "Stodtmann S",
+        "Fröhlich H",
+        "Pooled Resource Open-Access ALS Clinical Trials"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064096/"
+    },
+    {
+      "id": "pmid-43063507",
+      "pmid": "43063507",
+      "doi": "10.1177/22143602261474303",
+      "title": "Safety, tolerability, and effect of nusinersen in ambulatory and non-ambulatory adults with 5q-SMA treated up to five years.",
+      "abstract": "BackgroundNusinersen treatment of adults with 5q-SMA was found to be safe and stabilizes or improves motor function in the short-term (<38 months), but data examining longer-term (>38 months) impact and safety is lacking.ObjectiveTo study the long-term (24-60 months) effects and safety profile of nusinersen in adults with 5q-SMA.MethodsWe conducted a observational study of 5q-SMA patients, age ≥18 years, and receiving nusinersen for ≥24 months. Data were analyzed by ambulatory status. Clinical outcomes included: 6-minute walk test (6MWT), Hammersmith Functional Motor Scale - Expanded (HFMSE) scores, revised upper limb module (RULM) scores, pulmonary function test results, and medication-related adverse effects. Data were collected at baseline and post-treatment initiation at months 2, 6, 12, 24, 36, 48, and 60 +/- 2 months. Linear mixed models with random intercept for each patient were used to examine the changes of outcomes across time.ResultsThiry-two individuals with 5q-SMA (17 female) were included. Nineteen were non-ambulatory (mean age 38.3+/- 12.1 years) and 13 were ambulatory (mean age 32.9+/-9.5 years) at treatment onset. Average treatment duration was 53.3 months (range 24-60 months). The ambulatory group showed stability in 6MWT and HFMSE compared to baseline. In non-ambulatory patients, RULM and FVC remained stable. No serious adverse events attributable to nusinersen were reported.ConclusionsLong-term nusinersen treatment is safe in adults with SMA. Patients showed relative clinical stability over 60 months. These findings suggest that nusinersen may provide relative improvement compared to the natural disease progression over 2-5 years of treatment.",
+      "journal": "Journal of neuromuscular diseases",
+      "authors": [
+        "Allen MD",
+        "Jaworek A",
+        "Jira K",
+        "Severyn S",
+        "Zhao S",
+        "Linsenmayer M",
+        "Kelly K",
+        "Tellez M",
+        "Heintzman S",
+        "Reynolds J",
+        "Sterling G",
+        "Weaver T",
+        "Rajneesh K",
+        "Arnold WD",
+        "Kolb SJ",
+        "Elsheikh B"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063507/"
     },
     {
       "id": "pmid-43051909",
@@ -841,136 +947,6 @@
       ],
       "publishedAt": "2026-11-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43023697/"
-    },
-    {
-      "id": "pmid-43038719",
-      "pmid": "43038719",
-      "doi": "10.1016/j.jns.2026.126245",
-      "title": "Evaluating metformin efficacy in ALS using real-world data: A causal inference approach.",
-      "abstract": "Observational studies can provide real-world evidence in a low-burden, cost-effective manner. We apply a causal inference framework in amyotrophic lateral sclerosis (ALS) by examining previously researched associations, baseline function and sex, and evaluating metformin's survival benefits. Data are from the ALS Natural History Study collected in the United States, Israel, and Italy from 2015 to 2025. We employ propensity score matching, two approaches to address dropout (i.e. a naive exclusion and principal stratification), and randomization-based inference to evaluate difference in 18-month restricted mean survival time. For the metformin investigation, estimated survival is 14.77, 14.87, and 14.57 months for metformin users and 14.59, 14.43, and 13.97 months for non metformin users using imputed datasets 1-3, respectively (p ≈ 0.391, N = 289; p ≈ 0.257, N = 279; p ≈ 0.191, N = 301). Using principal stratification, estimated survival is 14.75, 14.85, and 14.55 months for metformin users and 14.68, 14.58, and 13.97 months for non metformin users with imputed datasets 1-3, respectively (p ≈ 0.458, N = 286; p ≈ 0.351, N = 275; p ≈ 0.201, N = 300). We fail to reject the sharp null hypothesis for the metformin investigation and have insufficient evidence against no difference in survival.",
-      "journal": "Journal of the neurological sciences",
-      "authors": [
-        "Geller JA",
-        "Berger A",
-        "Locatelli M",
-        "Ajroud-Driss S",
-        "Al-Lahham T",
-        "Arcila-Londono X",
-        "Cerri F",
-        "Drory V",
-        "Ghasemi M",
-        "Gotkine M",
-        "Gwathmey KG",
-        "Hayat G",
-        "Heiman-Patterson T",
-        "Lunetta C",
-        "Olney N",
-        "Rosenfeld J",
-        "Walk D",
-        "Wymer J",
-        "Sherman AV",
-        "Bind MA"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038719/"
-    },
-    {
-      "id": "pmid-43021426",
-      "pmid": "43021426",
-      "doi": "10.1093/brain/awag400",
-      "title": "Reconciling cryptic relatedness to drive gene discovery in amyotrophic lateral sclerosis/frontotemporal dementia.",
-      "abstract": "",
-      "journal": "Brain : a journal of neurology",
-      "authors": [
-        "Karra RD",
-        "Kaivola K"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021426/"
-    },
-    {
-      "id": "pmid-43019526",
-      "pmid": "43019526",
-      "doi": "10.2196/106677",
-      "title": "Rethinking Digital Outcome Measures for Amyotrophic Lateral Sclerosis Trials: Consensus Priorities for Actigraphy Harmonization, Validation, and Regulatory Readiness.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) clinical trials need outcome measures that complement established end points while capturing how people function in daily life. In this viewpoint, we draw on our collective experience in ALS research, clinical trials, digital-measure development, and regulatory science, together with published evidence, a preliminary patient survey, stakeholder discussions, and experience from multisite actigraphy studies. We argue that the field now has a substantial base of longitudinal data and candidate measures, but lacks the coordinated framework needed to compare, prioritize, and validate them across studies. We identify 4 linked priorities: adopt fit-for-purpose measures in stages and within defined contexts of use; harmonize data collection and analysis; use data to shortlist and validate measures across cohorts; and prepare actigraphy methods for trial adoption through early industry and regulatory engagement. Across these priorities, actigraphy should complement rather than replace established clinical outcomes, with its integration guided by patient relevance, ALS phenotypic heterogeneity, participant, and caregiver burden, and the intended context of use. Our central message is that progress now depends less on generating additional isolated datasets or measures than on coordinating the evaluation of existing assets, and aligning future evidence generation.",
-      "journal": "Journal of medical Internet research",
-      "authors": [
-        "Steyn F",
-        "Pilkar R",
-        "Sethi N",
-        "Heller L",
-        "Holdom C",
-        "van Eijk RPA",
-        "Straczkiewicz M",
-        "Burke KM",
-        "Berry JD",
-        "Chandriani S",
-        "Jewett G",
-        "Hodson-Tole E",
-        "Hovinga C",
-        "Vieira F",
-        "Guo C"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019526/"
-    },
-    {
-      "id": "pmid-42947522",
-      "pmid": "42947522",
-      "doi": "10.1002/cmdc.70554",
-      "title": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable Amyotrophic Lateral Sclerosis.",
-      "abstract": "Boron (B), a group 13 metalloid, has emerged as a versatile element at the intersection of chemistry, biology, and medicine. Its electron-deficient nature and ability to reversibly interconvert between trigonal planar (sp 2 ) and tetrahedral (sp 3 ) geometries enable dynamic covalent interactions with biological nucleophiles, making boron-containing compounds (BCCs) attractive pharmacophores that selectively interact with reactive oxygen species (ROS) and are ROS-responsive for therapeutic development. BCCs possess antioxidant, anti-inflammatory, and metal-chelating properties that make them attractive candidates for neurodegenerative diseases. Amyotrophic lateral sclerosis (ALS), a fatal and multifactorial motor neurodegenerative disorder, is characterized by oxidative stress, neuroinflammation, mitochondrial dysfunction, and metal dyshomeostasis, providing a strong rationale for exploring boron-based therapeutics. This review examines current literature on B chemistry, pharmacology, and translational applications, with emphasis on mechanisms relevant to ALS pathogenesis. This review focuses on ROS-responsive B scaffolds, blood-brain barrier (BBB) permeability, neuroprotective mechanisms, hormonal modulation, metal chelation, and emerging preclinical evidence supporting boron-based interventions. BCCs represent a promising yet underexplored therapeutic platform for ALS and related neurodegenerative disorders. Their ROS-responsive, redox-modulating, and neuroprotective properties, combined with favorable CNS drug-like pharmacokinetics, offer a mechanistically distinct approach to disease modification. Emerging preclinical evidence strongly supports further translational investigation.",
-      "journal": "ChemMedChem",
-      "authors": [
-        "Sanghai N",
-        "Vuong B",
-        "Afridi MSK",
-        "Leggett S",
-        "Roghzai H",
-        "Tranmer GK"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947522/"
-    },
-    {
-      "id": "pmid-43020712",
-      "pmid": "43020712",
-      "doi": "10.1016/j.arbres.2026.10.015",
-      "title": "Ventral Lung Injury and Pneumothorax in Patients With Amyotrophic Lateral Sclerosis Receiving Long-term Positive Pressure Ventilation.",
-      "abstract": "",
-      "journal": "Archivos de bronconeumologia",
-      "authors": [
-        "Okagaki N",
-        "Tsuboi T",
-        "Chihara Y",
-        "Sumi K",
-        "Hajiro T",
-        "Maetani T",
-        "Tanabe N",
-        "Handa T",
-        "Sato S",
-        "Sato A"
-      ],
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020712/"
     }
   ]
 }
