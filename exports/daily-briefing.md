@@ -1,14 +1,14 @@
 # ALS 每日简报
 
-更新时间：2026-11-22
+更新时间：2026-11-23
 
 1. **通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化遗传谱**
    - 生物标志物 / 观察性临床研究 / high
-   - 19.6%的ALS/PLS患者携带与成人起病神经系统疾病相关的致病或可能致病性变异，其中4.8%位于非ALS/FTD基因。
+   - 19.6%的ALS/PLS患者携带致病或可能致病变异，其中4.8%位于非ALS/FTD基因，且线粒体、代谢和蛋白质稳态通路存在富集。
    - https://pubmed.ncbi.nlm.nih.gov/43038492/
 2. **硫酸软骨素蛋白聚糖4参与富含精氨酸二肽重复蛋白的内化**
    - 遗传 / 动物/细胞实验 / high
-   - CSPG4参与poly-PR/poly-GR的内化与神经元间传递；敲低CSPG4可减少摄取和传递并保护PR20诱导的神经元毒性。
+   - CSPG4参与poly-PR/poly-GR的细胞摄取与神经元间传递，敲低CSPG4可减少摄取与传递并保护PR20诱导的神经元毒性。
    - https://pubmed.ncbi.nlm.nih.gov/43038449/
 3. **LONgitudinal and Integrated Evaluation of 生物标志物s in reLation to phenotYpe in ALS**
    - 临床试验 / 临床试验注册 / high

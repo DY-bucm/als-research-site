@@ -2,7 +2,7 @@
 
 - [ ] 靶向TTBK1的DFG-out构象可实现选择性II型神经保护抑制剂的发现 (pmid-42981879)
   - https://pubmed.ncbi.nlm.nih.gov/42981879/
-- [ ] [高优先级] 神经退行性疾病中反应性小胶质细胞和星形胶质细胞的免疫代谢失调：机制见解与治疗意义 (pmid-42966163)
+- [ ] 神经退行性疾病中反应性小胶质细胞和星形胶质细胞的免疫代谢失调：机制见解与治疗意义 (pmid-42966163)
   - https://pubmed.ncbi.nlm.nih.gov/42966163/
 - [ ] 多学科护理与标准神经科护理在肌萎缩侧索硬化中的成本效果比较：基于模型的成本-效用分析 (pmid-42933234)
   - https://pubmed.ncbi.nlm.nih.gov/42933234/
@@ -10,35 +10,37 @@
   - https://pubmed.ncbi.nlm.nih.gov/42933233/
 - [ ] [高优先级] 通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化遗传谱 (pmid-43038492)
   - https://pubmed.ncbi.nlm.nih.gov/43038492/
-- [ ] 血浆P-Tau217诊断阈值在多种临床人群和实验室环境中的稳健性 (pmid-43038487)
+- [ ] 血浆P-Tau217诊断阈值在不同临床人群和实验室环境中的稳健性 (pmid-43038487)
   - https://pubmed.ncbi.nlm.nih.gov/43038487/
 - [ ] 神经系统疾病中的健康相关生活质量：一项使用真实世界患者报告结局的横断面队列研究 (pmid-43038501)
   - https://pubmed.ncbi.nlm.nih.gov/43038501/
 - [ ] Sephin1 对谷氨酸应激具有保护作用，与对含 GluN2B 的 NMDA 受体的负向变构调节一致 (pmid-43036320)
   - https://pubmed.ncbi.nlm.nih.gov/43036320/
-- [ ] 自然杀伤细胞对SOD1 G93A型ALS发病机制的贡献有限：来自全面免疫表型分析和Ncr1与Properdin基因敲除的证据 (pmid-43032804)
+- [ ] 自然杀伤细胞对SOD1 G93A ALS发病机制的贡献有限：来自全面免疫表型分析和Ncr1与Properdin基因缺失的证据 (pmid-43032804)
   - https://pubmed.ncbi.nlm.nih.gov/43032804/
 - [ ] 诃子（Terminalia chebula）作为潜在的多靶点神经保护剂：神经退行性疾病中的转化研究启示与未来方向 (pmid-42964735)
   - https://pubmed.ncbi.nlm.nih.gov/42964735/
 - [ ] [高优先级] 硫酸软骨素蛋白聚糖4参与富含精氨酸二肽重复蛋白的内化 (pmid-43038449)
   - https://pubmed.ncbi.nlm.nih.gov/43038449/
+- [ ] [疑似误收] 复杂疾病中的蛋白质基因组学特征：对靶向干预的意义 (epmc-PMC-PMC13788444)
+  - https://europepmc.org/article/PMC/PMC13788444
+- [ ] [高优先级] 从反应性医疗到神经退行性疾病的预防：生物标志物、风险预测与早期干预 (pmid-43066866)
+  - https://pubmed.ncbi.nlm.nih.gov/43066866/
 - [ ] 早期肌萎缩侧索硬化中脑-脑脊液动力学改变与近皮质微结构异常 (pmid-43064600)
   - https://pubmed.ncbi.nlm.nih.gov/43064600/
 - [ ] 与精神和神经退行性疾病相关的遗传因素所对应的大脑变异 (pmid-43064242)
   - https://pubmed.ncbi.nlm.nih.gov/43064242/
 - [ ] MultiNSDE：用于真实与反事实患者轨迹生成建模的治疗感知神经随机微分方程 (pmid-43064096)
   - https://pubmed.ncbi.nlm.nih.gov/43064096/
-- [ ] [疑似误收] 诺西那生钠在可行走与不可行走的5q型脊髓性肌萎缩症成人患者中治疗长达五年的安全性、耐受性及疗效 (pmid-43063507)
-  - https://pubmed.ncbi.nlm.nih.gov/43063507/
-- [ ] [疑似误收] 双硫仑通过多种互补机制抑制细胞焦亡和凋亡 (epmc-PMC-PMC13787473)
-  - https://europepmc.org/article/PMC/PMC13787473
+- [ ] [疑似误收] 双硫仑通过多种互补机制抑制细胞焦亡与凋亡 (epmc-MED-43063249)
+  - https://doi.org/10.1126/sciadv.aee9169
 - [ ] [疑似误收] 利用基因组筛查方法探索北印度人群中ALS的遗传决定因素 (epmc-PPR-PPR1373575)
   - https://doi.org/10.64898/2026.11.20.26368383
-- [ ] 血浆中的系统性蛋白可追踪肌萎缩侧索硬化症的进展，且不依赖于运动神经元 (epmc-PPR-PPR1373566)
+- [ ] 血浆中的系统性蛋白可追踪肌萎缩侧索硬化进展，且不依赖运动神经元 (epmc-PPR-PPR1373566)
   - https://doi.org/10.64898/2026.11.15.26368153
 - [ ] 循环凝溶胶蛋白在四个队列中追踪肌萎缩侧索硬化疾病分期 (epmc-PPR-PPR1373465)
   - https://doi.org/10.64898/2026.11.18.26368465
-- [ ] [疑似误收] 预先设定的468基因氧化还原与异源物质代谢组合在五种神经系统疾病中的转录组关联，并附已发表变异清单 (epmc-PPR-PPR1373203)
+- [ ] [疑似误收] 待复核翻译：Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory (epmc-PPR-PPR1373203)
   - https://doi.org/10.21203/rs.3.rs-11800620/v1
 - [ ] Lived experiences of fatigue in individuals with 肌萎缩侧索硬化症: a qualitative study. (epmc-MED-43062202)
   - https://doi.org/10.1080/21678421.2026.2762727
@@ -52,8 +54,6 @@
   - https://doi.org/10.70962/jhi.20260200
 - [ ] [疑似误收] 待复核翻译：Social Isolation, Loneliness, Polygenic Susceptibility, and Incident Major Neurological Disorders: A UK Biobank Cohort Study (epmc-PPR-PPR1371808)
   - https://doi.org/10.21203/rs.3.rs-11336712/v1
-- [ ] [疑似误收] 待复核翻译：Adaptive sampling: information-guided selection for targeted long-read sequencing and epigenetic studies. (epmc-MED-43052478)
-  - https://doi.org/10.1007/s10142-026-02134-1
 - [ ] [高优先级] LONgitudinal and Integrated Evaluation of 生物标志物s in reLation to phenotYpe in ALS (trial-NCT07312240)
   - https://clinicaltrials.gov/study/NCT07312240
 - [ ] [高优先级] At-home Treatment With Cortico-spinal tDCS for 肌萎缩侧索硬化症 (trial-NCT07006571)
