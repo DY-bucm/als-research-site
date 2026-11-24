@@ -1,14 +1,55 @@
 {
-  "updatedAt": "2026-11-23T02:41:56.548Z",
+  "updatedAt": "2026-11-24T05:58:08.931Z",
   "period": {
     "days": 10,
-    "from": "2026-11-14",
-    "to": "2026-11-23"
+    "from": "2026-11-15",
+    "to": "2026-11-24"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 35,
+  "count": 31,
   "articles": [
+    {
+      "id": "pmid-43071439",
+      "pmid": "43071439",
+      "doi": "10.7554/eLife.113568",
+      "title": "A step towards modelling amyotrophic lateral sclerosis in primates.",
+      "abstract": "A new primate model offers a promising first step towards reproducing the spread of ALS pathology across synapses, although important differences from the stereotyped patterns observed in human disease remain to be addressed.",
+      "journal": "eLife",
+      "authors": [
+        "Ludolph AC",
+        "Novikova L"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Editorial"
+      ],
+      "publishedAt": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071439/"
+    },
+    {
+      "id": "pmid-43071990",
+      "pmid": "43071990",
+      "doi": "10.1088/1741-2552/aec594",
+      "title": "BCI-FIT: Feasibility of a customization protocol for communication brain-computer interface systems.",
+      "abstract": "The BCI Functional Implementation Toolkit (BCI-FIT) is a flexible, user-centered, interdisciplinary customization protocol for non-implantable communication brain-computer interface (cBCI) systems. Here we describe the protocol and present results of a non-experimental exploratory study of the feasibility of this approach and its effects on accuracy, speed, and user experience. Five participants with speech and/or physical impairments resulting from amyotrophic lateral sclerosis (ALS) completed calibration and copy-spelling tasks with both customized and non-customized versions of a non-implantable cBCI over multiple visits. System customization was adjusted after each visit based on typing performance, participant preferences, clinical observations, brain signal characteristics, and results of simulations and other offline exploration. Three participants demonstrated consistently high typing accuracy under both conditions, with better typing speed and/or user experience under the customized condition. Two participants had low typing accuracy that did not improve with system customization. The subset of parameters modified, and how they were modified, varied widely across participants due to their different needs and preferences. Participants with high typing accuracy reported that system customization led to improvements in comfort, workload, typing performance, and aesthetic appeal. Customization may improve cBCI typing performance and user experience for some individuals with disabilities, but additional investigation is needed. Participant preferences, clinical observations, brain-signal characteristics, simulation results, and typing performance all influenced customization decisions. Additional customization options could support successful cBCI use for a wider range of users.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Peters B",
+        "Klee D",
+        "Kinsella M",
+        "Hendin Y",
+        "Lawhead M",
+        "Memmott T",
+        "Oken B",
+        "Fried-Oken M"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071990/"
+    },
     {
       "id": "pmid-43066866",
       "pmid": "43066866",
@@ -722,143 +763,6 @@
       ],
       "publishedAt": "2026-11-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43036915/"
-    },
-    {
-      "id": "pmid-43035913",
-      "pmid": "43035913",
-      "doi": "10.5692/clinicalneurol.cn-002317",
-      "title": "[Factors influencing family decision-making regarding autopsy in patients with amyotrophic lateral sclerosis].",
-      "abstract": "This study aimed to identify factors influencing family decision-making regarding autopsy in patients with amyotrophic lateral sclerosis (ALS). Semi-structured interviews were conducted with bereaved family members of 12 deceased patients with ALS, and the data were analyzed using a qualitative descriptive approach. Autopsy was performed in 8 of the 12 cases. Seven factors influencing decision-making for autopsy were identified: prosocial motivation, meaning-making, patient preferences, family dynamics, trust in healthcare professionals, decision-making constraints, and disease-related context. Families perceived autopsy as contributing to medical research, reflecting the patient's wishes, and providing support for the bereaved, while also experiencing conflict and emotional burden. Decision-making regarding autopsy in ALS is shaped by interactions between value-based factors and contextual factors. Sharing patient preferences in advance may help reduce the burden associated with decision-making among bereaved family members.",
-      "journal": "Rinsho shinkeigaku = Clinical neurology",
-      "authors": [
-        "Matsuda C",
-        "Hayashi K",
-        "Haraguchi M",
-        "Itagaki Y",
-        "Komori T",
-        "Morishima R",
-        "Bokuda K",
-        "Shimizu T",
-        "Takahashi K",
-        "Nakayama Y"
-      ],
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43035913/"
-    },
-    {
-      "id": "pmid-43035909",
-      "pmid": "43035909",
-      "doi": "10.5692/clinicalneurol.cn-002264",
-      "title": "Cholesterol dysmetabolism in motor neurons drives ALS pathogenesis.",
-      "abstract": "In amyotrophic lateral sclerosis (ALS), cholesterol dysmetabolism in motor neurons has emerged as a central pathogenic axis. Oxysterols generated under oxidative stress exert potent lower motor neuron toxicity via lysosomal and mitochondrial dysfunction and by triggering oxiapoptophagy, a form of cell death in which oxidative stress, apoptosis, and autophagy co-occur. Moreover, TAR DNA-binding protein 43 (TDP-43) dysfunction and pathogenic variants in ALS-related genes including C9orf72, VAPB, and SIGMAR1 can amplify lipid toxicity through impaired function of mitochondria-associated endoplasmic reticulum membranes (MAMs) and defective intracellular cholesterol trafficking. Genome-wide association studies (GWAS) and Mendelian randomization (MR) analyses indicate that genetically predicted elevations in low-density lipoprotein cholesterol (LDL-C), total cholesterol, and apolipoprotein B (ApoB) are associated with increased ALS risk, whereas the effects of statins appear heterogeneous and context-dependent, varying by agent, dose, and treatment duration. In drug discovery using patient-derived induced pluripotent stem cell (iPSC)-derived lower motor neurons (iPSC-LMNs), ropinirole hydrochloride suppresses the expression of enzymes involved in de novo cholesterol synthesis while reducing reactive oxygen species, inhibiting aggregation of TDP-43 and fused in sarcoma (FUS), and improving mitochondrial function; importantly, in vitro responsiveness correlates with clinical efficacy. Furthermore, integrating a polygenic risk score (PRS) for total cholesterol with iPSC-LMN phenotypes has been proposed as a stratification strategy to define an ALS subtype driven by hyperactive cholesterol metabolism and to identify patients more likely to benefit from cholesterol biosynthesis-suppressing therapies. Collectively, candidate disease-modifying interventions targeting cholesterol dysmetabolism are increasingly positioned as a promising translational research axis in ALS.",
-      "journal": "Rinsho shinkeigaku = Clinical neurology",
-      "authors": [
-        "Morimoto S",
-        "Takahashi S",
-        "Okano H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43035909/"
-    },
-    {
-      "id": "pmid-43025440",
-      "pmid": "43025440",
-      "doi": "10.1093/brain/awag405",
-      "title": "Guam disease features chronic traumatic encephalopathy-like tau seeds in brain and spinal cord.",
-      "abstract": "Amyotrophic lateral sclerosis/parkinsonism-dementia complex (ALS/PDC) is a fatal neurodegenerative disorder that was once hyperendemic in the island of Guam (Mariana Islands, US) and a few other Pacific locales. Despite extensive investigations into its origins, the etiology of ALS/PDC remains unclear. ALS/PDC is, at the neuropathology level, characterized by tau-dominant multiple proteinopathy in brain and spinal cord. It was recently reported that Guam ALS/PDC brain extracts exhibit tau seeding activity in fluorescence resonance energy transfer (FRET)-based biosensor cells. To build upon those findings and explore the nature of tau seeds in ALS/PDC in more detail, we used an alanine mutational scanning (Ala scan) approach to determine the seeding profile of tau in nervous tissues of Guam ALS/PDC cases. First, we confirmed the detection of tau seeding activity in ALS/PDC brain samples in tau biosensor cells. Notably, we could also detect potent tau seeding activity in spinal cord. Subsequent Ala scan assays demonstrated that ALS/PDC tau displays an aggregate incorporation pattern that resembles that of chronic traumatic encephalopathy (CTE)-type tau. This result is consistent with recent electron cryo-microscopy studies of tau, which revealed that ALS/PDC tau filaments are predominantly of the CTE-type. The structural characteristics and seeding behaviour of ALS/PDC tau, as well as the regional distribution of tau pathology at post-mortem, suggest that ALS/PDC is a CTE-like tauopathy.",
-      "journal": "Brain : a journal of neurology",
-      "authors": [
-        "Saez-Calveras N",
-        "Verheijen BM",
-        "Morgan N",
-        "Hill E",
-        "Chabria P",
-        "Taylor S",
-        "Tak Y",
-        "Oyanagi K",
-        "Kakita A",
-        "Song Y",
-        "Joachimiak LA",
-        "Vaquer-Alicea J",
-        "Diamond MI",
-        "Lu Y"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025440/"
-    },
-    {
-      "id": "pmid-43044492",
-      "pmid": "43044492",
-      "doi": "10.1016/j.nicl.2026.104088",
-      "title": "Multisystem assessment of white matter tracts in amyotrophic lateral sclerosis using NODDI and TractSeg.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a multisystem neurodegenerative disorder affecting motor, cognitive, and sensory networks. Conventional diffusion MRI lacks specificity for complex white matter pathology. This study combined neurite orientation dispersion and density imaging (NODDI) with automated fiber segmentation (TractSeg) to systematically evaluate microstructural alterations across multiple white matter pathways in a single ALS cohort. We combined NODDI with automated TractSeg fiber segmentation in 83 sporadic ALS patients and 59 healthy controls. NODDI metrics (NDI, ODI, ISOVF) were extracted from 98 nodes along 19 tracts. Group comparisons used ANCOVA with FDR correction (q < 0.05). The left corticospinal tract (CST) showed ODI elevation and NDI reduction, and the right CST showed more extensive injury with ODI elevation, widespread NDI reduction, and ISOVF elevation. The corpus callosum exhibited focal changes in the rostral body, the anterior midbody and the posterior midbody involving ODI, NDI, and ISOVF. Among cerebellar motor, visuospatial processing, and limbic pathways, only the right superior longitudinal fasciculus II showed ISOVF elevation. Visual and language pathways predominantly showed ISOVF elevation, with additional NDI elevation in the right optic radiation and left arcuate fasciculus. This study demonstrates asymmetric, pathway-selective white matter pathology in ALS. Focal damage in the mid-body of the corpus callosum supports its role as a hub for interhemispheric disease propagation. Evidence of both degeneration and possible compensatory neurite reorganization in visual and language pathways further establishes ALS as a multisystem network disorder. NODDI combined with TractSeg offers biologically specific imaging biomarkers for disease monitoring and clinical subtyping.",
-      "journal": "NeuroImage. Clinical",
-      "authors": [
-        "Meng F",
-        "Liu S",
-        "Xiao X",
-        "Guo Z",
-        "Huang F",
-        "Xu Z",
-        "Li Y",
-        "Jiang W"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044492/"
-    },
-    {
-      "id": "pmid-43033255",
-      "pmid": "43033255",
-      "doi": "10.1007/s00210-026-06086-y",
-      "title": "Neuropharmacology of omega-3 long-chain polyunsaturated fatty acids in neurodegenerative diseases: mechanisms, multi-omics evidence, and clinical translation.",
-      "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis, involve progressive neuronal dysfunction associated with neuroinflammation, oxidative stress, mitochondrial impairment, defective proteostasis, and synaptic failure. Although symptomatic treatment remains central, anti-amyloid therapies can modestly slow clinical decline in selected patients with early Alzheimer's disease. This review critically evaluates the neuropharmacological evidence for omega-3 long-chain polyunsaturated fatty acids, particularly docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), and the barriers to their clinical translation. We narratively synthesized preclinical, observational, and interventional clinical evidence, focusing on membrane organization, inflammatory resolution, mitochondrial and redox homeostasis, autophagy, proteostasis, neuronal signaling, and factors contributing to heterogeneous clinical outcomes. Preclinical studies support context-dependent effects of DHA and EPA on neuronal membranes, inflammatory signaling, mitochondrial function, redox balance, autophagy, and synaptic plasticity. Human evidence is less consistent: observational studies generally report favorable associations between omega-3 status and neurological outcomes, whereas randomized trials show null, modest, or subgroup-dependent effects. Outcomes vary with disease stage, baseline omega-3 status, formulation, dose, treatment duration, genotype, and endpoint selection. Uncertain central nervous system exposure and limited pharmacokinetic and target-engagement data remain major translational barriers. Omega-3 long-chain polyunsaturated fatty acids are biologically plausible neuropharmacological modulators, but current evidence does not establish DHA or EPA as broadly effective disease-modifying treatments for neurodegenerative diseases. Future trials should prioritize early-stage, biomarker-stratified populations, pharmacologically characterized formulations, adequate treatment duration, and clinically meaningful progression-related outcomes.",
-      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-      "authors": [
-        "Ali S",
-        "Ullah A"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033255/"
-    },
-    {
-      "id": "pmid-43033081",
-      "pmid": "43033081",
-      "doi": "10.1080/21678421.2026.2762732",
-      "title": "Power-law age-dependence supports phenotype-specific multistep architecture in MND.",
-      "abstract": "To determine whether age-specific motor neuron disease (MND) incidence is better described by power-law age-dependence, compatible with multistep architecture, or by an exponential model. We analyzed curated Australian Motor Neuron Disease Registry data using age at symptom onset, clinical phenotype and Australian population denominators. The primary analysis modeled age-specific incidence across the 30-75-year range using 5-year age bands. Power-law and exponential Poisson models were compared using differences in Akaike Information Criterion (ΔAIC), with supplementary analyses across an expanded 20-90-year range and a restricted younger age range (<60 years). Across 2,556 patients in the primary analysis, the power-law model provided superior fit to the exponential model in the total cohort, with a ΔAIC of 60.06. The estimated power-law slope was 3.75, corresponding to 4.75 apparent steps. Power-law superiority was observed across clinical phenotypes, with the highest apparent step estimates in bulbar-onset ALS and flail arm syndrome, and the lowest in cervical-onset ALS and primary lateral sclerosis. Sensitivity analyses across expanded and restricted age ranges supported the primary findings. In the Australian MND Registry cohort, power-law age-dependence provided a better fit to observed age-specific incidence than the exponential alternative. These findings are compatible with a multistep model of MND pathogenesis but do not establish a fixed sequence of discrete pathogenic events.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "Vucic S",
-        "Henderson RD",
-        "Schultz D",
-        "Needham M",
-        "Mathers S",
-        "Mccombe PA",
-        "Talman P",
-        "Kiernan MC"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033081/"
     }
   ]
 }

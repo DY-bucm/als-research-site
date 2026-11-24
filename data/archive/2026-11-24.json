@@ -1,0 +1,1795 @@
+{
+  "updatedAt": "2026-11-24",
+  "generatedBy": "scripts/update-feed.mjs",
+  "query": "\"amyotrophic lateral sclerosis\" OR \"motor neuron disease\" OR \"motor neurone disease\" OR \"SOD1 ALS\" OR \"C9orf72 ALS\" OR \"TDP-43 ALS\"",
+  "meta": {
+    "daysBack": 30,
+    "needsReview": 44,
+    "sources": [
+      {
+        "source": "PubMed",
+        "ok": true,
+        "count": 15
+      },
+      {
+        "source": "Europe PMC",
+        "ok": true,
+        "count": 15
+      },
+      {
+        "source": "ClinicalTrials.gov",
+        "ok": true,
+        "count": 15
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "pmid-42981879",
+      "publishedAt": "2026-11-24",
+      "source": "European journal of medicinal chemistry",
+      "title": "Targeting the DFG-out conformation of TTBK1 enables the discovery of selective type II neuroprotective inhibitors.",
+      "summary": "Tau Tubulin Kinase 1 (TTBK1) is an emerging therapeutic target for neurodegenerative diseases because it promotes the pathological phosphorylation of tau and TDP-43, key drivers of Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS). However, the development of selective TTBK1 inhibitors is hindered by the high structural similarity between TTBK1 and the essential paralog TTBK2, making ATP-competitive strategies challenging. Here, we report the discovery of computationally supported type II TTBK1 inhibitors by targeting the inactive DFG-out kinase conformation. A druggable DFG-out model was generated using metadynamics and molecular dynamic simulations and employed for virtual screening of the MBC chemical library. This approach identified novel chemotypes that were validated as selective TTBK1 inhibitors with improved discrimination over TTBK2. The most promising compounds also displayed neuroprotective activity in SH-SY5Y neuroblastoma cells. These findings demonstrate that targeting the inactive TTBK1 conformation is a viable strategy to achieve isoform selectivity and establish a new framework for developing disease-modifying therapies for ALS, AD, and other TTBK1-driven neurodegenerative disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981879/",
+      "doi": "10.1016/j.ejmech.2026.119468",
+      "pmid": "42981879",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "治疗",
+      "priority": "medium",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "靶向TTBK1的DFG-out构象可实现选择性II型神经保护抑制剂的发现",
+      "summaryZh": "研究团队通过计算机模拟构建TTBK1的失活DFG-out构象模型，并据此虚拟筛选化合物库，发现了对TTBK1选择性优于TTBK2的II型抑制剂。部分候选化合物在SH-SY5Y神经母细胞瘤细胞中显示神经保护作用。该工作提出以激酶失活构象为靶点来绕开TTBK1与TTBK2高度相似的正构ATP口袋，为开发ALS等神经退行性疾病的疾病修饰药物提供了新思路。",
+      "insight": "TTBK1可同时磷酸化tau和TDP-43，与ALS和AD的病理机制直接相关，但因其与TTBK2高度同源，长期缺乏选择性抑制剂。该研究用DFG-out变构策略实现亚型选择性，并给出细胞水平神经保护信号，为ALS靶向治疗提供了可跟进的新化学骨架和结构设计框架；不过目前仅为细胞实验，尚需体内药效与安全性验证。",
+      "aiRead": {
+        "studyType": "计算模拟结合体外细胞实验的药物发现研究（元动力学/分子动力学模拟、虚拟筛选、激酶选择性验证、SH-SY5Y细胞神经保护评价）",
+        "keyFinding": "靶向TTBK1失活DFG-out构象可鉴定出对TTBK1选择性优于TTBK2的新型II型抑制剂，其中部分化合物在SH-SY5Y细胞中显示神经保护活性。",
+        "limitation": "证据仅来自计算模型和细胞系实验，缺乏动物体内药效、药代动力学、安全性及ALS模型验证，神经保护机制和靶点 engagement 尚未在体内确认。",
+        "watchNext": "关注后续是否开展ALS动物模型（如TDP-43或tau病理模型）的体内药效与脑内暴露研究，以及先导化合物的选择性谱和安全性数据。"
+      },
+      "tags": [
+        "ALS",
+        "TDP-43",
+        "治疗"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Tau微管蛋白激酶1（TTBK1）是神经退行性疾病的新兴治疗靶点，因其促进tau和TDP-43的病理性磷酸化，而这两者是阿尔茨海默病（AD）和肌萎缩侧索硬化（ALS）的关键驱动因素。然而，TTBK1与必需旁系同源物TTBK2之间高度结构相似，阻碍了选择性TTBK1抑制剂的开发，使ATP竞争性策略面临挑战。在此，我们报道通过靶向失活DFG-out激酶构象，发现经计算支持的II型TTBK1抑制剂。利用元动力学和分子动力学模拟生成可成药的DFG-out模型，并将其用于MBC化学库的虚拟筛选。该方法鉴定出新型化学型，经证实为选择性TTBK1抑制剂，对TTBK2的区分度提高。最有前景的化合物还在SH-SY5Y神经母细胞瘤细胞中表现出神经保护活性。这些发现表明，靶向TTBK1失活构象是实现亚型选择性的可行策略，并为开发针对ALS、AD和其他TTBK1驱动的神经退行性疾病的疾病修饰疗法建立了新框架。",
+      "frontierRationale": "该研究于2026年提出靶向TTBK1失活DFG-out构象的新策略，在细胞水平获得选择性抑制剂和神经保护证据，为ALS中tau/TDP-43病理的疾病修饰治疗提供了新转化方向。",
+      "aiReviewedAt": "2026-11-24T05:58:14.467Z"
+    },
+    {
+      "id": "pmid-42966163",
+      "publishedAt": "2026-11-24",
+      "source": "Journal of the neurological sciences",
+      "title": "Immunometabolic dysregulation of reactive microglia and astrocytes in neurodegenerative diseases: Mechanistic insights and therapeutic implications.",
+      "summary": "Neurodegenerative diseases (NDDs) are increasingly understood as multifactorial disorders characterized by intertwined pathological processes, in which metabolic dysfunction may act as a critical and potentially disease-amplifying contributor to the proteinopathy-driven pathological cascade. Despite growing recognition that microglial and astrocytic metabolism governs central nervous system tissue damage-repair homeostasis, intercellular metabolic crosstalk between glia and neurons remains insufficiently synthesized across major NDDs. This review delineates how core metabolic pathways, including glycolysis, mitochondrial respiration, lipid processing, and amino acid transport, shape glial reactivity in Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. We highlight glial metabolic reprogramming, a proposed theoretical framework arising from severe glial metabolic dysregulation. Within this framework, persistent pathological stress may drive reactive glia to sequester local energy substrates in excess, which is hypothesized to trigger bioenergetic failure in neighboring neurons. Broad-spectrum anti-inflammatory agents show poor clinical performance because they only block cytokine outputs rather than reverse glial metabolic exhaustion. Therapeutic efforts should therefore shift toward restoring glial metabolic flexibility. Cell-type-specific metabolic reprogramming, instead of pan-metabolic suppression, may circumvent systemic adverse effects. Precision strategies targeting such intercellular metabolic imbalance could provide promising cell-resolved metabolic avenues to retard NDD progression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966163/",
+      "doi": "10.1016/j.jns.2026.126237",
+      "pmid": "42966163",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "神经退行性疾病中反应性小胶质细胞和星形胶质细胞的免疫代谢失调：机制见解与治疗意义",
+      "summaryZh": "该综述提出，在阿尔茨海默病、帕金森病和肌萎缩侧索硬化中，小胶质细胞和星形胶质细胞的代谢重编程（糖酵解、线粒体呼吸、脂质加工、氨基酸转运异常）可能导致反应性胶质细胞过度摄取局部能量底物，进而引发邻近神经元能量衰竭。作者认为广谱抗炎药仅阻断细胞因子输出、未能逆转胶质细胞代谢耗竭，因此临床效果不佳；治疗方向应转向恢复胶质细胞代谢灵活性，采用细胞类型特异性代谢重编程而非泛代谢抑制。",
+      "insight": "该文将ALS纳入跨疾病的胶质细胞免疫代谢框架，提出“胶质细胞代谢重编程→神经元生物能量衰竭”的假说，并解释广谱抗炎策略在NDD中失败的可能机制。对ALS研究者而言，这提示应关注细胞类型特异的代谢干预而非泛抑制，并为神经炎症与线粒体功能障碍的交叉研究提供可检验的框架。",
+      "aiRead": {
+        "studyType": "叙述性综述（非原始研究，无临床试验数据）",
+        "keyFinding": "提出胶质细胞代谢重编程框架：持续病理应激驱动反应性胶质细胞过度隔离局部能量底物，可能导致邻近神经元生物能量衰竭；广谱抗炎药因仅阻断细胞因子而未逆转胶质细胞代谢耗竭而临床效果不佳。",
+        "limitation": "为理论性综述，所提框架基于推断而非直接实验验证；未提供原始数据或系统评价方法，证据强度有限。",
+        "watchNext": "关注后续针对细胞类型特异性代谢重编程（如小胶质细胞/星形胶质细胞糖酵解、线粒体呼吸或脂质代谢靶点）在ALS模型及临床中的验证研究。"
+      },
+      "tags": [
+        "ALS",
+        "NfL",
+        "神经炎症",
+        "线粒体",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "神经退行性疾病（NDDs）日益被视为以交织的病理过程为特征的多因素疾病，其中代谢功能障碍可能是蛋白质病变驱动的病理级联反应中的关键且可能放大疾病的因素。尽管越来越多的人认识到小胶质细胞和星形胶质细胞的代谢调控着中枢神经系统组织损伤-修复稳态，但胶质细胞与神经元之间的细胞间代谢串扰在主要NDDs中仍未得到充分综合。本综述阐述了核心代谢途径（包括糖酵解、线粒体呼吸、脂质加工和氨基酸转运）如何塑造阿尔茨海默病、帕金森病和肌萎缩侧索硬化中胶质细胞的反应性。我们强调胶质细胞代谢重编程，这是由严重胶质细胞代谢失调提出的理论框架。在该框架中，持续的病理应激可能驱动反应性胶质细胞过度隔离局部能量底物，据推测这会触发邻近神经元的生物能量衰竭。广谱抗炎药物临床表现不佳，因为它们仅阻断细胞因子输出，而非逆转胶质细胞代谢耗竭。因此，治疗努力应转向恢复胶质细胞代谢灵活性。细胞类型特异性代谢重编程而非泛代谢抑制，可能规避全身性不良反应。针对这种细胞间代谢失衡的精准策略可能提供有前景的细胞分辨率代谢途径，以延缓NDD进展。",
+      "frontierRationale": "该综述于2026年提出胶质细胞代谢重编程这一新近理论框架，直接关联ALS等神经退行性疾病的神经炎症与能量代谢失衡，并指向细胞类型特异性代谢干预的转化方向。",
+      "aiReviewedAt": "2026-11-24T05:58:19.689Z"
+    },
+    {
+      "id": "pmid-42933234",
+      "publishedAt": "2026-11-24",
+      "source": "Journal of the neurological sciences",
+      "title": "Cost-effectiveness of multidisciplinary care compared with standard neurology care in Amyotrophic Lateral Sclerosis: A model-based cost-utility analysis.",
+      "summary": "To evaluate the cost-effectiveness of multidisciplinary clinic (MDC) care compared with standard general neurology care for adults with amyotrophic lateral sclerosis (ALS). A cost-utility analysis was conducted using a state-transition Markov model with monthly cycles over a 10-year horizon from the U.S. payer perspective. Health states comprised King's stages 1, 2, 3, 4 A, 4B, and death. Disease progression, mortality, utility, and cost inputs were derived from published literature (2005-2026). Transition probabilities were based on longitudinal data from the Pooled Resource Open-Access ALS Clinical Trials and permitted non-sequential progression. MDC-associated survival benefit was applied to stage-specific mortality across all King's stages. No additional utility benefit was assigned to MDC, while MDC-specific multipliers were applied to outpatient, inpatient, and emergency department costs. Outcomes included quality-adjusted life-years (QALYs), costs, cost per life-year gained, and incremental cost-effectiveness ratios (ICERs). Uncertainty intervals (UIs) were derived from sensitivity analyses. MDC increased costs ($523,170 vs $378,171) and QALYs (0.73 vs 0.60), yielding 0.13 incremental QALYs (95% UI, 0.06-0.20) at an incremental cost of US$144,999 (95% UI, $53,784-$257,504). The ICER was US$1,158,673/QALY and cost per life-year gained was US$149,483. MDC was cost-effective in 0.1% of simulations at a willingness-to-pay threshold of $150,000/QALY. MDC improved survival and quality-adjusted survival but at substantially higher cost. Its ICER remained well above commonly used U.S. willingness-to-pay thresholds across sensitivity analyses, including alternative utility valuations. These findings highlight the distinction between clinical benefit and cost-effectiveness and quantify the long-term economic consequences of survival gains associated with multidisciplinary ALS care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933234/",
+      "doi": "10.1016/j.jns.2026.126235",
+      "pmid": "42933234",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "临床试验研究（基于模型的经济学评价，非干预性疗效试验）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "多学科照护与标准神经科照护在肌萎缩侧索硬化中的成本效果比较：一项基于模型的成本-效用分析",
+      "summaryZh": "该研究用马尔可夫模型模拟ALS患者10年病程，比较多学科门诊照护与普通神经科照护。多学科照护带来约0.13个增量QALY和更长生存，但增量成本约14.5万美元，ICER约116万美元/QALY，远高于美国常用支付意愿阈值。研究强调多学科照护有临床获益，但在美国支付方视角下并不具备成本效果。",
+      "insight": "多学科照护是ALS管理的核心模式，但这项分析提示其生存获益伴随高昂长期成本。对ALS研究者而言，它提供了将King's分期、非序贯进展和真实世界试验数据整合进经济评估的范例，也提醒在推广照护模式时需同时考虑支付方可持续性，并为后续比较不同照护组成或分层人群的成本效果研究提供基线。",
+      "aiRead": {
+        "studyType": "基于状态转移马尔可夫模型的成本-效用分析（美国支付方视角，10年时间跨度）",
+        "keyFinding": "多学科照护增加0.13个增量QALY和约14.5万美元增量成本，ICER约116万美元/QALY，在15万美元/QALY阈值下仅0.1%模拟具有成本效果。",
+        "limitation": "模型输入依赖已发表文献和试验纵向数据，未对多学科照护赋予额外效用获益，结果对美国支付阈值和成本乘数假设敏感，外推至其他医疗体系需谨慎。",
+        "watchNext": "后续可关注按King's分期或照护组成分层的成本效果分析，以及多学科照护在不同国家支付体系下的经济评价。"
+      },
+      "tags": [
+        "ALS",
+        "RNA代谢",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "评估多学科门诊（MDC）照护与标准普通神经科照护相比，对成人肌萎缩侧索硬化（ALS）患者的成本效果。从美国支付方视角，采用状态转移马尔可夫模型进行成本-效用分析，以月为周期，时间跨度为10年。健康状态包括King's分期1、2、3、4A、4B和死亡。疾病进展、死亡率、效用值和成本输入均来自已发表文献（2005—2026年）。转移概率基于Pooled Resource Open-Access ALS Clinical Trials的纵向数据，并允许非序贯性进展。MDC相关的生存获益被应用于所有King's分期的分期特异性死亡率。未对MDC赋予额外的效用获益，同时对门诊、住院和急诊科成本应用了MDC特异性乘数。结局指标包括质量调整生命年（QALY）、成本、每获得一个生命年的成本以及增量成本效果比（ICER）。不确定性区间（UI）由敏感性分析得出。MDC增加了成本（523,170美元 vs 378,171美元）和QALY（0.73 vs 0.60），产生0.13个增量QALY（95% UI，0.06—0.20），增量成本为144,999美元（95% UI，53,784—257,504美元）。ICER为1,158,673美元/QALY，每获得一个生命年的成本为149,483美元。在支付意愿阈值为150,000美元/QALY时，MDC在0.1%的模拟中具有成本效果。MDC改善了生存和经质量调整的生存，但成本显著更高。在包括替代效用估值在内的敏感性分析中，其ICER始终远高于美国常用的支付意愿阈值。这些发现凸显了临床获益与成本效果之间的区别，并量化了与多学科ALS照护相关的生存获益所带来的长期经济后果。",
+      "frontierRationale": "该研究新近将King's分期与非序贯进展纳入ALS多学科照护的长期成本-效用模型，直接关联当前ALS照护模式推广中的支付与转化决策。",
+      "aiReviewedAt": "2026-11-24T05:58:25.326Z"
+    },
+    {
+      "id": "pmid-42933233",
+      "publishedAt": "2026-11-24",
+      "source": "Journal of the neurological sciences",
+      "title": "ALS-associated cytoskeletal and glial gene expression: evidence consistent with developmental pathway re-engagement.",
+      "summary": "We examined whether amyotrophic lateral sclerosis (ALS) is associated with cytoskeletal and glial transcriptional patterns compatible with developmental pathway re-engagement, while recognizing that similar patterns may arise from injury responses and altered cell composition. Postmortem RNA-sequencing data from the Target ALS Postmortem Tissue Core were analyzed using linear mixed-effects models accounting for repeated tissue samples within subjects. Models were adjusted for tissue source, age at death, sex, and postmortem interval. Composite scores represented Arp2/3 activity, SOX9/MEGF10 developmental-glial expression, and MYH10-associated transport imbalance. ALS was associated with increased Arp2/3 expression (β = 0.399, P = 8.26 × 10 -9 ), SOX9/MEGF10 expression (β = 0.643, P = 4.28 × 10 -6 ), MYH10 expression (β = 0.308, P = 0.000801), and MYH10-KIF5C transport mismatch (β = 0.121, P = 0.00537); all remained significant after false-discovery-rate correction. The MYH10-Arp2/3 contractility index was not significant (β = -0.0909, P = 0.107). ALS was associated with higher expression of selected cytoskeletal and glial genes in bulk postmortem tissue. These cross-sectional associations are compatible with, but do not demonstrate, developmental program reactivation, altered protein activity, or causation. Cell-resolved and functional studies are needed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933233/",
+      "doi": "10.1016/j.jns.2026.126231",
+      "pmid": "42933233",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "人类死后组织RNA测序的横断面关联分析",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "ALS相关的细胞骨架和胶质基因表达：与发育通路重新激活一致性的证据",
+      "summaryZh": "该研究分析ALS患者死后脑/脊髓组织的RNA测序数据，发现ALS与Arp2/3、SOX9/MEGF10、MYH10等细胞骨架和胶质相关基因表达升高及MYH10-KIF5C运输失配相关。作者强调这些是横断面关联，不能证明发育通路重新激活或因果关系，需细胞分辨和功能研究验证。",
+      "insight": "该研究利用ALS死后组织转录组数据，提出发育通路重新激活的假说，并识别出Arp2/3、SOX9/MEGF10和MYH10等潜在标志物。虽然证据仅为关联性，但为ALS病理机制提供了新视角，值得关注后续细胞分辨和功能验证研究。",
+      "aiRead": {
+        "studyType": "横断面观察性研究（死后组织RNA测序分析）",
+        "keyFinding": "ALS与Arp2/3、SOX9/MEGF10、MYH10表达升高及MYH10-KIF5C运输失配相关，但与MYH10-Arp2/3收缩性指数无关。",
+        "limitation": "横断面关联不能证明因果关系、发育程序重新激活或蛋白质活性改变；需细胞分辨和功能研究验证。",
+        "watchNext": "后续细胞分辨（如单细胞测序）和功能实验验证发育通路重新激活假说及这些基因在ALS中的作用。"
+      },
+      "tags": [
+        "ALS",
+        "RNA代谢",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "我们研究了肌萎缩侧索硬化（ALS）是否与细胞骨架和胶质转录模式相关，这些模式与发育通路重新激活相一致，同时认识到类似模式也可能源于损伤反应和细胞组成改变。使用线性混合效应模型分析来自Target ALS死后组织核心的死后RNA测序数据，模型考虑了受试者内重复组织样本。模型调整了组织来源、死亡年龄、性别和死后间隔。复合评分代表Arp2/3活性、SOX9/MEGF10发育性胶质表达和MYH10相关运输失衡。ALS与Arp2/3表达升高相关（β = 0.399，P = 8.26 × 10^-9）、SOX9/MEGF10表达升高相关（β = 0.643，P = 4.28 × 10^-6）、MYH10表达升高相关（β = 0.308，P = 0.000801）以及MYH10-KIF5C运输失配相关（β = 0.121，P = 0.00537）；所有这些在错误发现率校正后仍显著。MYH10-Arp2/3收缩性指数不显著（β = -0.0909，P = 0.107）。ALS与大体死后组织中选定的细胞骨架和胶质基因表达升高相关。这些横断面关联与发育程序重新激活、蛋白质活性改变或因果关系相容，但不能证明这些。需要细胞分辨和功能研究。",
+      "frontierRationale": "该研究基于新近的ALS死后组织转录组数据，提出发育通路重新激活假说，具有机制探索和转化价值。",
+      "aiReviewedAt": "2026-11-24T05:58:29.486Z"
+    },
+    {
+      "id": "pmid-43038492",
+      "publishedAt": "2026-11-24",
+      "source": "Neurology",
+      "title": "Expanding Amyotrophic Lateral Sclerosis Genetic Spectrum via Systematic Screening of Adult-Onset Neurologic Disease Genes.",
+      "summary": "Emerging evidence indicates that amyotrophic lateral sclerosis (ALS) shares genetic architecture with other neurologic disorders, whose causal variants may be overlooked by targeted sequencing. Here, we evaluated the occurrence of pathogenic variants in genes linked to adult-onset neurologic disorders among individuals with ALS. Short-read WGS was performed in retrospectively collected ALS (Gold Coast criteria) and primary lateral sclerosis (PLS) (consensus diagnostic criteria) patients consecutively recruited at an Italian tertiary referral center (2013-2023), extensively phenotyped to exclude mimics. Pathogenic or likely pathogenic single-nucleotide variants/indels (American College of Medical Genetics and Genomics guidelines) and short tandem repeat expansions across 453 genes, including established ALS genes and other neurodegenerative disease genes, were systematically screened and validated. C9orf72 expansions (>30 repeats) were routinely screened by fragment analysis and repeat-primed PCR. A total of 856 patients with ALS and PLS (median age at onset 61.8 years, 38.5% women) were enrolled. Among them, 168 (19.6%) carried pathogenic or likely pathogenic variants or short tandem repeat expansions in genes associated with adult-onset neurologic disorders, mostly autosomal dominant. Of these, 41 (4.8% of the cohort) harbored variants in non-ALS/frontotemporal dementia (FTD) genes (ataxias, neuropathies, myopathies, movement disorders, mitochondrial diseases, and hereditary spastic paraplegia [HSP]). Repeat expansions accounted for 11.9% of cases, while 0.6% carried both sequence variants and repeat expansions. Family history of ALS/FTD ( p = 2.132e-06), other neurodegenerative disorders ( p = 0.0006934), and earlier age at onset ( p = 0.024) were enriched among variant carriers. Variants in genes associated with upper motor neuron (UMN) involvement (ataxias/HSP) did not predict an UMN-predominant phenotype (odds ratio 1.54, 95% CI 0.39-6.07, p = 0.54), while the association between neuropathy/myopathy genes and a lower motor neuron-predominant phenotype was not statistically estimable. Beyond established ALS pathways, enrichment was observed in mitochondrial, metabolic, and proteostasis pathways (false discovery rate ≤0.05). Although the absence of a control cohort limits assessment of variant enrichment, the identification of pathogenic or likely pathogenic variants in genes associated with adult-onset neurologic disorders other than ALS/FTD in patients with ALS supports the inclusion of broader gene panels to advance precision medicine in ALS.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038492/",
+      "doi": "10.1212/WNL.0000000000218712",
+      "pmid": "43038492",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "生物标志物",
+      "priority": "high",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化遗传谱",
+      "summaryZh": "该研究对856例ALS和PLS患者进行全基因组测序，系统筛查453个成人起病神经系统疾病相关基因。结果显示19.6%的患者携带致病或可能致病变异，其中4.8%涉及非ALS/FTD基因（如共济失调、神经病、肌病、线粒体疾病等）。重复扩增占11.9%。携带者更常有ALS/FTD或其他神经退行性疾病家族史，且发病年龄更早。研究提示ALS遗传谱比既往认识更广，支持使用更广泛的基因检测组合。",
+      "insight": "这项研究提示，相当比例的ALS患者携带传统ALS/FTD panel之外的致病或可能致病变异，涉及共济失调、神经病、肌病、线粒体病和HSP等基因。对ALS研究者而言，这意味着当前靶向测序策略可能遗漏部分可解释遗传病因，更广泛的基因检测有助于提高遗传诊断率、识别表型重叠和指导精准医学入组；同时，线粒体、代谢和蛋白稳态通路的富集也为机制研究提供了候选方向。",
+      "aiRead": {
+        "studyType": "单中心回顾性观察性遗传筛查研究（ALS/PLS连续队列，短读长全基因组测序）",
+        "keyFinding": "19.6%的ALS/PLS患者携带成人起病神经系统疾病相关基因的致病或可能致病变异或重复扩增，其中4.8%涉及非ALS/FTD基因；携带者家族史更丰富且发病更早。",
+        "limitation": "缺乏对照队列，无法评估变异富集程度；神经病/肌病基因与下运动神经元为主表型的关联无法进行统计学估计；单中心意大利队列可能限制外推性。",
+        "watchNext": "后续需在独立多中心队列中验证非ALS/FTD基因变异的频率与表型关联，并评估更广泛基因panel在ALS遗传诊断和精准医学分层中的临床效用。"
+      },
+      "tags": [
+        "ALS",
+        "C9orf72",
+        "线粒体",
+        "蛋白稳态",
+        "生物标志物"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "新出现的证据表明，肌萎缩侧索硬化（ALS）与其他神经系统疾病共享遗传架构，其致病性变异可能被靶向测序所遗漏。本研究评估了ALS个体中与成人起病神经系统疾病相关基因的致病性变异发生情况。对2013至2023年间在意大利一家三级转诊中心连续招募的ALS（Gold Coast标准）和原发性侧索硬化（PLS）（共识诊断标准）患者进行回顾性收集并开展短读长全基因组测序，患者经过广泛表型分析以排除模拟疾病。系统筛查并验证了453个基因中的致病性或可能致病性单核苷酸变异/插入缺失（美国医学遗传学与基因组学学会指南）及短串联重复扩增，包括已知ALS基因和其他神经退行性疾病基因。C9orf72扩增（>30次重复）通过片段分析和重复引物PCR常规筛查。共纳入856例ALS和PLS患者（发病中位年龄61.8岁，女性占38.5%）。其中168例（19.6%）携带与成人起病神经系统疾病相关基因的致病性或可能致病性变异或短串联重复扩增，多为常染色体显性。其中41例（占队列4.8%）携带非ALS/额颞叶痴呆（FTD）基因变异（共济失调、神经病、肌病、运动障碍、线粒体疾病和遗传性痉挛性截瘫[HSP]）。重复扩增占11.9%的病例，0.6%同时携带序列变异和重复扩增。变异携带者中ALS/FTD家族史（p=2.132e-06）、其他神经退行性疾病家族史（p=0.0006934）和较早发病年龄（p=0.024）富集。与上运动神经元（UMN）受累相关的基因（共济失调/HSP）变异不能预测UMN为主表型（比值比1.54，95% CI 0.39-6.07，p=0.54），而神经病/肌病基因与下运动神经元为主表型之间的关联无法进行统计学估计。除已知ALS通路外，还观察到线粒体、代谢和蛋白稳态通路的富集（错误发现率≤0.05）。尽管缺乏对照队列限制了对变异富集的评估，但在ALS患者中鉴定出与ALS/FTD以外的成人起病神经系统疾病相关基因的致病性或可能致病性变异，支持纳入更广泛的基因组合以推进ALS精准医学。",
+      "frontierRationale": "该研究基于2013至2023年连续队列的全基因组筛查，新近扩展了ALS遗传谱并直接支持更广泛基因panel的转化应用。",
+      "aiReviewedAt": "2026-11-24T05:58:38.882Z"
+    },
+    {
+      "id": "pmid-43038487",
+      "publishedAt": "2026-11-24",
+      "source": "Neurology",
+      "title": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
+      "summary": "Blood-based biomarkers (BBMs), especially plasma tau phosphorylated at threonine 217 (p-tau217), could scale Alzheimer disease (AD) clinical-biological diagnosis, but clinical use requires thresholds transferable across laboratories and populations. We compared Lumipulse p-tau217 with other BBMs; evaluated amyloid-anchored thresholds across centers, analyzers, reagent lots, and clinical populations; and assessed second-line CSF adjudication of gray zone results. This multicenter, cross-sectional diagnostic-classification study included an exploratory Brussels cohort and 3 external validation cohorts. Brussels participants were cognitively unimpaired or impaired and had Aβ status determined by amyloid-PET or CSF Aβ42 and tau status by tau-PET or CSF p-tau181. Validation cohorts comprised consecutive Paris memory-clinic patients, patients with early-onset neurodegenerative dementia in Bordeaux, and individuals with monogenic frontotemporal lobar degeneration (FTLD). Plasma p-tau217 was measured locally on Lumipulse analyzers. BBMs and ratios were compared using receiver operating characteristic (ROC) analyses. In Brussels, a Youden cutoff and dual 95% or 97.5% sensitivity/specificity cutoffs were derived; intermediate values defined gray zones. Among 411 participants (mean age 70.5 years; 51.6% female), p-tau217 showed the best diagnostic performance; p-tau217/Aβ42 did not improve performance or reduce gray zones. In Brussels, p-tau217 discriminated Aβ+ from Aβ- status (AUC 0.96, 95% CI 0.93-0.98; p < 0.0001). The 0.193 pg/mL Youden cutoff (95% CI 0.178-0.213) yielded 91.5% sensitivity (95% CI 84.7-95.5) and 91.6% specificity (95% CI 84.8-95.5) and detected neocortical tau-PET positivity with 98.5% sensitivity and 81.8% specificity. In Paris, sensitivity/specificity for clinical-biological AD were 93.2% (95% CI 85.1-97.1)/93.0% (95% CI 81.4-97.6); in Bordeaux, sensitivity/specificity for clinical-biological AD were 95.7% (95% CI 79.0-99.2)/92.3% (95% CI 66.7-98.6). Specificity in monogenic FTLD was 88.4% (95% CI 75.5-94.9). False-positive classifications were enriched in FTLD with amyotrophic lateral sclerosis (ALS). Dual thresholds yielded gray zones in 15.4%-24.8% of Paris patients; second-line CSF testing resolved 86.2%-88.9% of gray zone cases. Lumipulse plasma p-tau217 thresholds were transferable across centers, analyzers, reagent lots, and heterogeneous clinical populations, supporting evaluation of plasma-first pathways with confirmatory testing for gray zone values. Values below 0.193 pg/mL made neocortical tauopathy unlikely. Limitations include cross-sectional design, specialized Western European recruitment, unavailable race/ethnicity data, heterogeneous reference standards, incomplete AD copathology adjudication in monogenic FTLD, and no cross-platform comparison.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038487/",
+      "doi": "10.1212/WNL.0000000000218784",
+      "pmid": "43038487",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "生物标志物",
+      "priority": "medium",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "血浆P-Tau217诊断阈值在多种临床人群和实验室环境中的稳健性",
+      "summaryZh": "这项多中心横断面研究评估了Lumipulse血浆p-tau217在布鲁塞尔探索队列及巴黎、波尔多和单基因FTLD验证队列中的诊断阈值可转移性。p-tau217对Aβ状态区分能力最佳（AUC 0.96），0.193 pg/mL截断值在多个队列中保持较高灵敏度和特异度；双阈值产生的灰区可通过二线CSF检测大部分裁定。值得注意的是，合并ALS的FTLD患者中假阳性分类富集，提示ALS研究者需关注p-tau217在ALS-FTLD谱系中的判读陷阱。",
+      "insight": "该研究直接涉及ALS相关谱系：合并ALS的FTLD患者出现p-tau217假阳性富集，提示在ALS/FTLD重叠人群中应用AD血浆标志物时需谨慎解释，并为ALS生物标志物研究中的共病理鉴别提供实证线索。",
+      "aiRead": {
+        "studyType": "多中心横断面诊断分类研究",
+        "keyFinding": "Lumipulse血浆p-tau217的0.193 pg/mL阈值在多个中心、分析仪和临床人群中可转移，AUC达0.96；合并ALS的FTLD患者中假阳性分类富集。",
+        "limitation": "横断面设计、仅限西欧招募、缺乏种族/民族数据、参考标准异质、单基因FTLD共病理裁定不完整且无跨平台比较。",
+        "watchNext": "需在ALS-FTLD重叠队列中进一步验证p-tau217阈值，并评估血浆优先路径联合CSF确认在ALS相关神经退行性疾病中的实际判读价值。"
+      },
+      "tags": [
+        "ALS",
+        "RNA代谢",
+        "生物标志物"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "血液生物标志物（BBM），尤其是血浆苏氨酸217磷酸化tau（p-tau217），有望扩大阿尔茨海默病（AD）临床-生物学诊断的应用规模，但临床使用需要可在不同实验室和人群间转移的阈值。我们比较了Lumipulse p-tau217与其他BBM；评估了以淀粉样蛋白为锚定的阈值在不同中心、分析仪、试剂批号和临床人群间的表现；并评估了灰区结果的二线脑脊液（CSF）裁定。这项多中心、横断面诊断分类研究包括一个探索性布鲁塞尔队列和3个外部验证队列。布鲁塞尔参与者认知正常或受损，其Aβ状态由淀粉样蛋白PET或CSF Aβ42确定，tau状态由tau-PET或CSF p-tau181确定。验证队列包括巴黎记忆门诊连续患者、波尔多早发性神经退行性痴呆患者以及单基因额颞叶变性（FTLD）个体。血浆p-tau217在本地Lumipulse分析仪上检测。使用受试者工作特征（ROC）分析比较BBM及其比值。在布鲁塞尔，推导了Youden截断值以及95%或97.5%灵敏度和特异度的双截断值；中间值定义为灰区。在411名参与者（平均年龄70.5岁；51.6%女性）中，p-tau217显示出最佳诊断性能；p-tau217/Aβ42未改善性能或减少灰区。在布鲁塞尔，p-tau217可区分Aβ+与Aβ-状态（AUC 0.96，95% CI 0.93-0.98；p < 0.0001）。0.193 pg/mL的Youden截断值（95% CI 0.178-0.213）产生91.5%灵敏度（95% CI 84.7-95.5）和91.6%特异度（95% CI 84.8-95.5），并以98.5%灵敏度和81.8%特异度检出新皮质tau-PET阳性。在巴黎，临床-生物学AD的灵敏度/特异度为93.2%（95% CI 85.1-97.1）/93.0%（95% CI 81.4-97.6）；在波尔多，临床-生物学AD的灵敏度/特异度为95.7%（95% CI 79.0-99.2）/92.3%（95% CI 66.7-98.6）。单基因FTLD中的特异度为88.4%（95% CI 75.5-94.9）。假阳性分类在合并肌萎缩侧索硬化（ALS）的FTLD中富集。双阈值在15.4%-24.8%的巴黎患者中产生灰区；二线CSF检测解决了86.2%-88.9%的灰区病例。Lumipulse血浆p-tau217阈值可在不同中心、分析仪、试剂批号和异质性临床人群间转移，支持评估血浆优先路径并对灰区值进行确认检测。低于0.193 pg/mL的值使新皮质tau病变不太可能。局限性包括横断面设计、西欧专门招募、缺乏种族/民族数据、参考标准异质性、单基因FTLD中AD共病理裁定不完整以及无跨平台比较。",
+      "frontierRationale": "新近多中心验证显示血浆p-tau217阈值可跨实验室转移，并首次系统提示合并ALS的FTLD患者存在假阳性富集，对ALS相关共病理鉴别具有转化价值。",
+      "aiReviewedAt": "2026-11-24T05:58:48.616Z"
+    },
+    {
+      "id": "pmid-43038501",
+      "publishedAt": "2026-11-24",
+      "source": "Neurology. Clinical practice",
+      "title": "Health-Related Quality of Life Across Neurologic Conditions: A Cross-Sectional Cohort Study Using Real-World Patient-Reported Outcomes.",
+      "summary": "Health-related quality of life (HRQOL) is an important outcome within value-based care for patients with neurologic conditions. The American Academy of Neurology recommends the use of Patient-Reported Outcomes Measurement Information System (PROMIS) Global Health as a patient-reported outcome performance measure to assess stability or improvement over 1 year. However, interpretation of this measure requires an understanding of HRQOL across neurologic populations. Our study leveraged real-world data collected through the electronic health record to characterize differences in HRQOL across common neurologic conditions. This is a cross-sectional study of adult patients with 1 of 10 conditions (amyotrophic lateral sclerosis [ALS], back pain, brain tumor, dementia, major depression, epilepsy, migraine, multiple sclerosis, Parkinson disease, and stroke) who completed patient-reported outcomes as standard care between October 2015 and March 2023 at a large Neurologic Institute. Patients completed PROMIS-GH, from which physical and mental summary scores (Global Mental Health [GMH], Global Physical Health [GPH]) were calculated, PHQ-9 depression screen, and condition-specific measures. EQ-5D utility index was estimated from PROMIS-GH. These were summarized across conditions after adjustment for demographics, clinical characteristics, and self-reported condition-specific severity. There were 133,636 patients included in this analysis (mean age 51.5 [SD ± 18] years, 64% female, 81% White race). Overall adjusted average scores for GPH, GMH, PHQ-9, and EQ-5D were 42.7 ± 5.0, 43.6 ± 5.0, 7.9 ± 3.7, and 0.68 ± 0.11, respectively. Scores were significantly different across condition, with GPH ranging from 39.6 ± 5.5 for back pain to 45.9 ± 3.9 for brain tumor. Patients with brain tumor, back pain, stroke, ALS, and multiple sclerosis had more favorable GMH and PHQ-9 scores, while patients with depression, epilepsy, and dementia had the most affected GMH and PHQ-9 scores. Patients with back pain and headache had the lowest EQ-5D scores (0.63 ± 0.13 and 0.67 ± 0.09), while those with brain tumor had the highest (0.77 ± 0.08). This study provides condition-specific and severity-specific benchmarks for PROMIS-GH and related HRQOL measures that can support interpretation of patient-reported outcomes across neurologic populations. These data inform clinical care, quality measurement, research, and the implementation of the AAN-recommended performance measure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038501/",
+      "doi": "10.1212/CPJ.0000000000200685",
+      "pmid": "43038501",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "机制",
+      "priority": "medium",
+      "evidenceLevel": "观察性临床研究（横断面队列，真实世界患者报告结局）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "神经系统疾病中的健康相关生活质量：一项使用真实世界患者报告结局的横断面队列研究",
+      "summaryZh": "该横断面研究基于一家大型神经病学研究所2015–2023年的电子健康记录真实世界数据，纳入133,636例成人患者，覆盖ALS、背痛、脑肿瘤、痴呆、抑郁、癫痫、偏头痛、多发性硬化、帕金森病和卒中10种神经系统疾病，比较PROMIS全球健康（GPH、GMH）、PHQ-9和EQ-5D等患者报告结局。结果显示各疾病间HRQOL评分存在显著差异，并给出了按疾病和严重程度调整后的基准值。ALS被纳入该队列，但其具体评分未在摘要中单独列出。",
+      "insight": "这项研究为PROMIS-GH等患者报告结局指标提供了跨神经系统疾病的疾病特异性基准，有助于ALS研究者在临床试验和真实世界研究中解读ALS患者的HRQOL评分，并支持AAN推荐绩效指标在ALS诊疗质量评估中的落地。",
+      "aiRead": {
+        "studyType": "单中心横断面队列研究，使用电子健康记录中的真实世界患者报告结局数据",
+        "keyFinding": "10种神经系统疾病间PROMIS-GH、PHQ-9和EQ-5D评分存在显著差异，研究提供了按疾病和严重程度调整后的HRQOL基准值；ALS被纳入队列，但摘要未单独报告其评分。",
+        "limitation": "横断面设计无法反映HRQOL随时间的变化；样本以白人、女性为主，单中心数据可能限制外推性；ALS的具体评分未在摘要中单独呈现。",
+        "watchNext": "关注后续基于该基准的纵向研究，以及PROMIS-GH作为AAN推荐绩效指标在ALS等神经疾病临床质量评估中的实施效果。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "健康相关生活质量（HRQOL）是神经系统疾病患者价值导向医疗中的重要结局指标。美国神经病学学会推荐使用患者报告结局测量信息系统（PROMIS）全球健康量表作为患者报告结局绩效指标，以评估1年内的稳定或改善情况。然而，解读该指标需要了解不同神经病人群的HRQOL状况。本研究利用通过电子健康记录收集的真实世界数据，描述常见神经系统疾病之间HRQOL的差异。这是一项横断面研究，纳入在2015年10月至2023年3月期间于一家大型神经病学研究所作为标准诊疗完成患者报告结局的成人患者，涵盖10种疾病之一（肌萎缩侧索硬化[ALS]、背痛、脑肿瘤、痴呆、重度抑郁、癫痫、偏头痛、多发性硬化、帕金森病和卒中）。患者完成PROMIS-GH，并据此计算身体与心理总结评分（全球心理健康[GMH]、全球身体健康[GPH]）、PHQ-9抑郁筛查及疾病特异性量表。EQ-5D效用指数由PROMIS-GH估算。在调整人口学特征、临床特征及自报疾病特异性严重程度后，对这些指标按疾病进行汇总。本分析共纳入133,636例患者（平均年龄51.5[SD ± 18]岁，64%女性，81%白人）。GPH、GMH、PHQ-9和EQ-5D的总体调整平均分分别为42.7 ± 5.0、43.6 ± 5.0、7.9 ± 3.7和0.68 ± 0.11。各疾病间评分存在显著差异，GPH从背痛的39.6 ± 5.5到脑肿瘤的45.9 ± 3.9不等。脑肿瘤、背痛、卒中、ALS和多发性硬化患者的GMH和PHQ-9评分较为有利，而抑郁、癫痫和痴呆患者的GMH和PHQ-9评分受影响最大。背痛和头痛患者的EQ-5D评分最低（分别为0.63 ± 0.13和0.67 ± 0.09），脑肿瘤患者最高（0.77 ± 0.08）。本研究提供了PROMIS-GH及相关HRQOL指标的疾病特异性和严重程度特异性基准值，可支持跨神经病人群患者报告结局的解读。这些数据可为临床诊疗、质量测量、研究以及AAN推荐绩效指标的实施提供信息。",
+      "frontierRationale": "基于大规模真实世界患者报告结局数据，为包括ALS在内的神经系统疾病建立HRQOL基准，具有直接的临床测量与转化应用价值。",
+      "aiReviewedAt": "2026-11-24T05:58:57.660Z"
+    },
+    {
+      "id": "pmid-43036320",
+      "publishedAt": "2026-11-24",
+      "source": "Biochemistry and biophysics reports",
+      "title": "Sephin1 protects from glutamate stress, consistent with negative allosteric modulation of GluN2B-containing NMDA receptor.",
+      "summary": "Glutamate excitotoxicity and GluN2B containing N-methyl-d-aspartate receptors (NMDARs) are involved in neurodegenerative diseases such as Amyotrophic Lateral Sclerosis, Parkinson disease and Alzheimer disease. Recently, Sephin1, a first-in-class, multi-functional, brain-penetrant, orally administered small molecule, has been demonstrated in vitro to improve motor neurons survival following glutamate intoxication. In ALS animal models, Sephin1 was able to reduce motor neuron loss, to improve motor function and increase animal survival. To determine how Sephin1 can reduce motor neurons loss following glutamate intoxication, calcium flux was measured in primary cortical neurons and in GluN1A/GluN2B overexpressing cells following NMDA stimulation. Then, to determine the binding site on GluN1 and GluN2B subunits, binding assays were performed with three benzylideneaminoguanidine derivatives, Sephin1, guanabenz and IFB-048. Here, for the first time, we show that Sephin1 reduces calcium flux in NMDA stimulated primary cortical neurons in a dose dependent manner. Sephin1, guanabenz and IFB-048 reduce the rise of calcium flux in GluN1A/GluN2B subunits overexpressing cells stimulated with NMDA. In addition, we demonstrated that Sephin1, guanabenz and IFB-048, displace ifenprodil from the N-terminal domain (NTD) of NMDAR (GluN1/GluN2B) containing the polyamine site on GluN2B subunits. The three benzylideneaminoguanidine derivatives could possibly be Negative Allosteric Modulator (NAM) of GluN2B-containing NMDARs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036320/",
+      "doi": "10.1016/j.bbrep.2026.102879",
+      "pmid": "43036320",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "Sephin1 对谷氨酸应激具有保护作用，与对含 GluN2B 的 NMDA 受体的负向别构调节一致",
+      "summaryZh": "该研究在细胞层面探索 Sephin1 减轻谷氨酸兴奋性毒性的机制。结果显示，Sephin1 可剂量依赖性地降低 NMDA 刺激引起的原代皮层神经元钙流，并在过表达 GluN1A/GluN2B 的细胞中抑制钙流升高；Sephin1、胍那苄和 IFB-048 均可将艾芬地尔从含 GluN2B 的 NMDAR N 端结构域置换出来。作者据此提出，这些苄叉氨基胍衍生物可能是含 GluN2B 的 NMDAR 的负向别构调节剂。",
+      "insight": "该研究为 Sephin1 在 ALS 模型中减少运动神经元丢失、改善运动功能的作用提供了可能的受体药理学解释，即通过含 GluN2B 的 NMDAR 负向别构调节降低谷氨酸兴奋性毒性。对关注兴奋性毒性通路和 Sephin1 转化研究的 ALS 研究者而言，这一机制线索值得跟踪，但当前证据仍限于细胞实验，尚不能推断临床疗效。",
+      "aiRead": {
+        "studyType": "体外细胞机制研究（原代皮层神经元及过表达 GluN1A/GluN2B 的细胞系）",
+        "keyFinding": "Sephin1 剂量依赖性降低 NMDA 刺激的原代皮层神经元钙流，并与胍那苄、IFB-048 一样抑制过表达 GluN1A/GluN2B 细胞的钙流升高，且可将艾芬地尔从含 GluN2B 的 NMDAR N 端结构域置换出来，提示其为含 GluN2B 的 NMDAR 负向别构调节剂。",
+        "limitation": "证据仅来自体外细胞实验，未提供临床或体内直接验证；负向别构调节剂的身份为基于结合实验的推测，尚未确定精确结合位点与体内相关性。",
+        "watchNext": "后续需在 ALS 动物模型和更接近生理的神经元体系中验证该机制，并明确 Sephin1 与 GluN2B NMDAR 的结合位点及其对疾病进展的影响。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "谷氨酸兴奋性毒性和含 GluN2B 的 N-甲基-D-天冬氨酸受体（NMDAR）参与肌萎缩侧索硬化、帕金森病和阿尔茨海默病等神经退行性疾病。近期，Sephin1——一种首创的、多功能的、可透过血脑屏障的口服小分子——已在体外被证明可改善谷氨酸中毒后的运动神经元存活。在 ALS 动物模型中，Sephin1 能够减少运动神经元丢失、改善运动功能并提高动物生存率。为确定 Sephin1 如何减少谷氨酸中毒后的运动神经元丢失，研究者在原代皮层神经元和过表达 GluN1A/GluN2B 的细胞中，于 NMDA 刺激后测量了钙流。随后，为确定其在 GluN1 和 GluN2B 亚基上的结合位点，研究者用三种苄叉氨基胍衍生物——Sephin1、胍那苄和 IFB-048——进行了结合实验。本文首次显示，Sephin1 以剂量依赖方式降低 NMDA 刺激的原代皮层神经元中的钙流。Sephin1、胍那苄和 IFB-048 可降低 NMDA 刺激的过表达 GluN1A/GluN2B 亚基细胞中钙流的升高。此外，研究者证明 Sephin1、胍那苄和 IFB-048 可将艾芬地尔从含 GluN2B 亚基上多胺位点的 NMDAR（GluN1/GluN2B）N 端结构域（NTD）置换出来。这三种苄叉氨基胍衍生物可能是含 GluN2B 的 NMDAR 的负向别构调节剂（NAM）。",
+      "frontierRationale": "该研究新近提出 Sephin1 可能通过负向别构调节含 GluN2B 的 NMDAR 发挥保护作用，为 ALS 中谷氨酸兴奋性毒性干预提供了可跟踪的机制与转化线索。",
+      "aiReviewedAt": "2026-11-24T05:59:03.392Z"
+    },
+    {
+      "id": "pmid-43032804",
+      "publishedAt": "2026-11-24",
+      "source": "Brain, behavior, & immunity - health",
+      "title": "Limited contribution of natural killer cells to SOD1 G93A ALS pathogenesis: evidence from comprehensive immunophenotyping and genetic deletion of Ncr1 and Properdin .",
+      "summary": "Immune dysregulation contributes to amyotrophic lateral sclerosis (ALS) pathogenesis. Natural killer (NK) lymphocytes have been proposed to contribute to ALS, but their exact role remains debated. Here we combined comprehensive immunophenotyping strategy with two complementary loss-of-function approaches to trace NK cells and assess their Ncr1-associated cytotoxic function in SOD1 G93A mice. We found no significant difference in the proportion, maturation, and activation status of circulating NK cells between control and SOD1 G93A mice at onset and symptomatic stage, and no significant NK cell recruitment to the central nervous system at any disease stage. Notably, resident microglia in the SOD1 G93A spinal cord acquire NK1.1 expression at the symptomatic stage. NK cells isolated from SOD1 G93A mice did not affect motoneuron survival in vitro . We further show that genetic deletion of Ncr1 , which abolishes one of the major activating pathways of NK-cell cytotoxicity, did not modify disease onset, motor function or survival of SOD1 G93A mice. Additionally, we show that Properdin, a positive regulator of the alternative complement pathway and a reported ligand of NCR1, decorates misfolded SOD1 inclusions and degenerating astrocytes, consistent with a role as a phagocytic signal for CD68 + microglia. However, genetic deletion of Properdin in SOD1 G93A did not influence neuroinflammation or motoneuron survival. Together, the unchanged frequency, maturation or activation status of NK cells, combined with the lack of effect of Ncr1 genetic ablation argue against a major NK contribution to motoneuron degeneration in the SOD1 G93A mouse model, while uncovering an unexpected role for Properdin in opsonizing misfolded SOD1 aggregates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032804/",
+      "doi": "10.1016/j.bbih.2026.101401",
+      "pmid": "43032804",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "自然杀伤细胞对SOD1 G93A ALS发病机制的贡献有限：来自全面免疫表型分析和Ncr1与Properdin基因缺失的证据",
+      "summaryZh": "该研究在SOD1 G93A ALS小鼠模型中系统评估了NK细胞的作用。结果显示：循环NK细胞的比例、成熟度和活化状态在疾病各阶段均无显著变化，也未见NK细胞向中枢神经系统募集；SOD1 G93A小鼠来源的NK细胞在体外不影响运动神经元存活；敲除NK细胞主要活化受体Ncr1不影响疾病发病、运动功能或生存。此外，补体替代途径正调控因子Properdin可标记错误折叠SOD1包涵体和退变星形胶质细胞，但敲除Properdin同样不影响神经炎症或运动神经元存活。总体而言，该研究不支持NK细胞在SOD1 G93A小鼠运动神经元变性中起主要作用。",
+      "insight": "这项研究以多种功能缺失策略对“NK细胞参与ALS”的假说进行了系统性检验，结果不支持NK细胞在SOD1 G93A模型中的主要致病作用，有助于研究者避免将NK细胞作为该模型中的核心治疗靶点。同时，研究提示脊髓小胶质细胞在症状期获得NK1.1表达，以及Properdin对错误折叠SOD1聚集体的调理作用，为神经炎症和蛋白聚集清除机制提供了新的观察线索。",
+      "aiRead": {
+        "studyType": "动物/细胞实验（SOD1 G93A小鼠模型，免疫表型分析联合Ncr1和Properdin基因敲除）",
+        "keyFinding": "NK细胞比例、成熟度和活化状态未变，且未向中枢神经系统募集；敲除Ncr1或Properdin均未改变SOD1 G93A小鼠的疾病发病、运动功能、神经炎症或生存，不支持NK细胞在该模型中起主要致病作用。",
+        "limitation": "研究仅基于SOD1 G93A小鼠模型和体外实验，不能直接推广至散发性ALS或其他遗传亚型；NK细胞在人类ALS中的角色仍需进一步验证。",
+        "watchNext": "后续可关注Properdin调理错误折叠SOD1聚集体及小胶质细胞吞噬信号通路是否可转化为治疗靶点，以及在其他ALS模型或人源系统中对NK细胞作用的验证。"
+      },
+      "tags": [
+        "ALS",
+        "SOD1",
+        "NfL",
+        "RNA代谢",
+        "神经炎症",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "免疫失调参与肌萎缩侧索硬化（ALS）的发病机制。自然杀伤（NK）淋巴细胞被认为可能参与ALS，但其确切作用仍存争议。本研究将全面的免疫表型分析策略与两种互补的功能缺失方法相结合，追踪SOD1 G93A小鼠中的NK细胞，并评估其与Ncr1相关的细胞毒功能。我们发现，在发病期和症状期，对照小鼠与SOD1 G93A小鼠之间循环NK细胞的比例、成熟度和活化状态均无显著差异，且在任何疾病阶段均未观察到NK细胞显著募集至中枢神经系统。值得注意的是，SOD1 G93A小鼠脊髓中的驻留小胶质细胞在症状期获得NK1.1表达。从SOD1 G93A小鼠分离的NK细胞在体外不影响运动神经元存活。我们进一步表明，基因敲除Ncr1（该基因缺失可消除NK细胞细胞毒性的主要激活通路之一）并未改变SOD1 G93A小鼠的疾病发病、运动功能或生存。此外，我们显示Properdin——替代补体通路的正调控因子及据报道的NCR1配体——装饰错误折叠的SOD1包涵体和退变星形胶质细胞，符合其作为CD68+小胶质细胞吞噬信号的作用。然而，在SOD1 G93A中基因敲除Properdin并未影响神经炎症或运动神经元存活。综上，NK细胞频率、成熟度或活化状态未变，加之Ncr1基因消融无效，反对NK细胞对SOD1 G93A小鼠模型运动神经元变性有主要贡献，同时揭示了Properdin在调理错误折叠SOD1聚集体中的意外作用。",
+      "frontierRationale": "该研究以全面免疫表型分析和Ncr1、Properdin双基因敲除策略，新近修正了NK细胞在SOD1 G93A ALS模型中的作用认识，并提示Properdin调理错误折叠SOD1的潜在转化价值。",
+      "aiReviewedAt": "2026-11-24T05:59:11.994Z"
+    },
+    {
+      "id": "pmid-42955216",
+      "publishedAt": "2026-11-24",
+      "source": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+      "title": "Microglial perturbation in heavy metal-induced neuroinflammation and neurodegeneration: mechanisms, phenotypic plasticity, and therapeutic prospects.",
+      "summary": "Heavy metal exposure has emerged as a significant environmental contributor to neurodegenerative disease, and a substantial body of mechanistic evidence implicates microglia in the pathological cascades that follow. Lead, cadmium, arsenic, manganese, copper, cobalt, mercury, and zinc disrupt central nervous system homeostasis through multiple cellular targets, but the resident innate immune cells of the brain are well placed to translate these insults into sustained neuroinflammation. Evidence for this critical narrative review was assembled through a purposive search of PubMed, MEDLINE, and Google Scholar for mechanistically informative studies reporting glial endpoints, with reference lists searched by hand and no systematic protocol applied. This review synthesizes current understanding of how individual metals engage microglial signaling networks, with particular attention to oxidative stress, NF-κB activation, NLRP3 inflammasome assembly, MAPK cascades, and suppression of the Nrf2 antioxidant axis. We examine the phenotypic spectrum that extends well beyond the classical M1/M2 dichotomy, including disease-associated microglia, lipid-droplet-accumulating microglia, and interferon-responsive states, and consider how metal-specific signatures map onto these transcriptional programs. Manganese-driven inflammasome assembly, cadmium-induced mitochondrial impairment, lead-mediated disruption of calcium homeostasis, and mercury-evoked autophagic dysfunction are discussed as illustrative examples of mechanistic divergence within a common neuroinflammatory framework. Glial responses to metal mixtures, which better represent real exposure than single-element designs, are considered separately, and the evidence for greater-than-additive effects is appraised. Downstream consequences for astrocyte reactivity, blood-brain barrier integrity, synaptic remodeling, and neuronal viability are placed in the context of Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Therapeutic avenues are appraised, including chelation, natural antioxidants, NLRP3 inhibitors, TREM2 modulation, and microglial replacement strategies. Methodological constraints, particularly the overreliance on BV-2 cells and acute high-dose exposure paradigms, are critically considered. The review concludes by identifying priorities for translational research, including longitudinal human cohort studies, single-cell transcriptomic profiling of metal-exposed microglia, and the development of region-specific exposure models that better reflect chronic environmental realities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955216/",
+      "doi": "10.1007/s10534-026-00895-7",
+      "pmid": "42955216",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "叙述性综述（非系统综述，未采用系统检索方案）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "重金属诱导的神经炎症和神经退行性变中的小胶质细胞扰动：机制、表型可塑性与治疗前景",
+      "summaryZh": "这是一篇叙述性综述，系统梳理铅、镉、砷、锰、铜、钴、汞、锌等重金属如何通过氧化应激、NF-κB、NLRP3炎症小体、MAPK和Nrf2等通路扰动小胶质细胞，进而推动神经炎症和神经退行性变。文章强调小胶质细胞表型远不止M1/M2，还涉及疾病相关小胶质细胞、脂滴蓄积型和干扰素反应状态，并讨论了金属混合物的超加性效应及与阿尔茨海默病、帕金森病和ALS的关联。治疗方面评述了螯合、抗氧化剂、NLRP3抑制剂、TREM2调节和小胶质细胞替代等策略，同时指出当前研究过度依赖BV-2细胞和高剂量急性暴露模型的方法学局限。",
+      "insight": "该综述把环境重金属暴露、小胶质细胞状态异质性与ALS等神经退行性疾病联系起来，为理解ALS中神经炎症的环境驱动因素提供了框架。其提出的单细胞转录组、纵向人群队列和区域特异性慢性暴露模型等优先方向，对ALS环境病因学和生物标志物研究具有直接参考价值；TREM2调节和小胶质细胞替代策略也与当前ALS神经免疫治疗探索相关。",
+      "aiRead": {
+        "studyType": "叙述性综述（目的性文献检索，非系统综述）",
+        "keyFinding": "多种重金属通过氧化应激、NF-κB、NLRP3、MAPK和Nrf2等通路扰动小胶质细胞，驱动持续性神经炎症，并与阿尔茨海默病、帕金森病和ALS的病理过程相关；金属混合物可能产生超加性效应。",
+        "limitation": "非系统检索，未设系统方案；现有证据过度依赖BV-2细胞系和急性高剂量暴露范式，与真实慢性环境暴露存在差距。",
+        "watchNext": "金属暴露小胶质细胞的单细胞转录组分析、纵向人类队列研究，以及更贴近慢性环境暴露的区域特异性模型；TREM2调节和小胶质细胞替代等治疗策略的后续验证。"
+      },
+      "tags": [
+        "ALS",
+        "ASO",
+        "NfL",
+        "RNA代谢",
+        "神经炎症",
+        "线粒体"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "重金属暴露已成为神经退行性疾病的重要环境因素，大量机制性证据表明小胶质细胞参与了其后的病理级联反应。铅、镉、砷、锰、铜、钴、汞和锌通过多种细胞靶点破坏中枢神经系统稳态，而脑内固有的先天免疫细胞恰好处于将这些损伤转化为持续性神经炎症的关键位置。本叙述性综述的证据通过有针对性地检索PubMed、MEDLINE和Google Scholar中报告胶质终点的机制性研究汇编而成，并手工检索参考文献列表，未采用系统性方案。本综述综合了目前关于各金属如何介入小胶质细胞信号网络的认识，特别关注氧化应激、NF-κB激活、NLRP3炎症小体组装、MAPK级联以及Nrf2抗氧化轴的抑制。我们考察了远超经典M1/M2二分法的表型谱，包括疾病相关小胶质细胞、脂滴蓄积型小胶质细胞和干扰素反应状态，并探讨金属特异性特征如何映射到这些转录程序上。锰驱动的炎症小体组装、镉诱导的线粒体损伤、铅介导的钙稳态破坏以及汞引发的自噬功能障碍，被作为共同神经炎症框架内机制差异的示例加以讨论。金属混合物（比单元素设计更接近真实暴露）的胶质反应被单独讨论，并评估了超加性效应的证据。对星形胶质细胞反应性、血脑屏障完整性、突触重塑和神经元存活的下游后果，被置于阿尔茨海默病、帕金森病和肌萎缩侧索硬化症的背景下加以讨论。治疗途径得到评估，包括螯合疗法、天然抗氧化剂、NLRP3抑制剂、TREM2调节和小胶质细胞替代策略。方法学局限，特别是对BV-2细胞和急性高剂量暴露范式的过度依赖，得到批判性审视。综述最后确定了转化研究的优先方向，包括纵向人类队列研究、金属暴露小胶质细胞的单细胞转录组分析，以及更能反映慢性环境现实的区域特异性暴露模型的开发。",
+      "frontierRationale": "该综述新近整合了重金属暴露下小胶质细胞表型可塑性与ALS等神经退行性疾病的机制关联，并明确提出单细胞转录组和慢性暴露模型等转化研究优先方向。",
+      "aiReviewedAt": "2026-11-24T05:59:21.732Z"
+    },
+    {
+      "id": "pmid-42934032",
+      "publishedAt": "2026-11-24",
+      "source": "Revue neurologique",
+      "title": "Motor neuron disease and parkinsonism in a patient with a pathogenic CSF1R variant.",
+      "summary": "PubMed record found, but no abstract was available in the fetched metadata.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934032/",
+      "doi": "10.1016/j.neurol.2026.09.012",
+      "pmid": "42934032",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "遗传",
+      "priority": "medium",
+      "evidenceLevel": "病例报告（单例），证据等级低，需人工判定",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "titleZh": "一例携带致病性CSF1R变异的运动神经元病与帕金森综合征患者",
+      "summaryZh": "该条目为发表于《Revue neurologique》的病例报告，报告一例携带致病性CSF1R变异的患者同时出现运动神经元病和帕金森综合征。CSF1R变异通常与成人起病的脑白质病相关，此次与运动神经元病表型并存值得关注。原始来源未提供摘要，具体临床细节需查阅全文。",
+      "insight": "CSF1R是成人起病脑白质病（ALSP）的致病基因，而该病例将其与运动神经元病和帕金森综合征联系起来，提示CSF1R可能参与更广泛的神经退行性表型谱。对ALS研究者而言，这有助于在遗传筛查和表型分类中重新审视CSF1R，并探索小胶质细胞相关通路在ALS中的潜在作用。",
+      "aiRead": {
+        "studyType": "单例病例报告",
+        "keyFinding": "一例携带致病性CSF1R变异的患者同时表现出运动神经元病和帕金森综合征。",
+        "limitation": "仅单例报道，且所获取的元数据无摘要，缺乏临床细节、遗传共分离及功能验证信息，无法确立因果关系。",
+        "watchNext": "关注该病例的全文细节、家系共分离分析，以及CSF1R在小胶质细胞相关神经退行性通路中的功能研究。"
+      },
+      "tags": [
+        "ALS",
+        "遗传"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "PubMed记录已检索到，但所获取的元数据中未提供摘要。",
+      "frontierRationale": "新近报道的CSF1R致病性变异与运动神经元病表型并存，提示该基因在ALS遗传谱系中的潜在扩展价值。",
+      "aiReviewedAt": "2026-11-24T05:59:26.204Z"
+    },
+    {
+      "id": "pmid-43038449",
+      "publishedAt": "2026-11-24",
+      "source": "Proceedings of the National Academy of Sciences of the United States of America",
+      "title": "Chondroitin sulfate proteoglycan 4 participates in the internalization of arginine-rich dipeptide repeat proteins.",
+      "summary": "Microsatellite repeat expansion of the 5' GGGGCC 3' sequence in the C9orf72 gene is the most common monogenic form of amyotrophic lateral sclerosis and frontotemporal dementia. Dipeptide repeat proteins (DPRs) translated from the mutant allele can be detected in postmortem brains of afflicted individuals. The arginine containing peptides, poly proline-arginine (poly-PR) and poly glycine-arginine (poly-GR), are particularly noxious to cells. Both can undergo cell-to-cell transmission, but underlying mechanisms are not understood. We found rapid internalization and nucleolar localization of bath-applied hemagglutinin (HA) tagged poly-PR with twenty repeats (HA-PR 20 ) in cell lines and neurons. Small molecule and RNAi approaches implicated a temperature-dependent, fluid phase endocytosis mechanism for HA-PR 20 . We sought to identify DPR-related cell surface uptake factors using µMap high-resolution proximity labeling. DPR-iridium conjugates identified candidate cell-surface proteins which were interrogated in a secondary RNAi screen. Focusing on our strongest candidate, chondroitin sulfate proteoglycan 4 (CSPG4), we showed cellular uptake of HA-PR 20 is reduced by inhibition of glycosaminoglycan chain synthesis and knockdown or ablation of CSPG4. Knockdown of CSPG4 protected PR 20 -induced neuronal toxicity. Using a dual reporter system to interrogate in vitro neuron-to-neuron transmission of PR 50, we found PR 50 synthesized by one neuron readily spread to neighboring cells. Transmission was significantly reduced with CSPG4 knockdown. Similarly conditioned media from PR 50 or GR 50 expressing neurons contained transmissible protein that was internalized into neurons in a CSPG4-dependent manner. These results suggest CSPG4 participates in poly-PR/poly-GR internalization and transmission.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038449/",
+      "doi": "10.1073/pnas.2534149123",
+      "pmid": "43038449",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "遗传",
+      "priority": "medium",
+      "evidenceLevel": "动物/细胞实验",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "硫酸软骨素蛋白聚糖4参与富含精氨酸二肽重复蛋白的内化",
+      "summaryZh": "该研究在细胞和神经元模型中探索C9orf72相关二肽重复蛋白（尤其是poly-PR和poly-GR）如何进入细胞并在神经元间传播。研究发现HA-PR20可快速内化并定位核仁，其摄取依赖温度敏感的液相内吞。通过邻近标记和RNAi筛选，研究锁定细胞表面蛋白CSPG4；抑制糖胺聚糖合成或敲低/敲除CSPG4可减少PR20摄取，并减轻PR20诱导的神经元毒性。双报告系统显示PR50可在神经元间传递，而敲低CSPG4显著降低传递；表达PR50或GR50的神经元条件培养基中的可传递蛋白也以CSPG4依赖方式被内化。",
+      "insight": "该研究为C9orf72 DPR的细胞间传播提供了候选表面受体/摄取因子CSPG4，将DPR病理与细胞外基质蛋白聚糖联系起来。对ALS研究者而言，这提示CSPG4及糖胺聚糖通路可能成为干预DPR扩散和毒性的潜在靶点，值得在更接近生理的模型和体内实验中验证。",
+      "aiRead": {
+        "studyType": "细胞与神经元体外机制研究",
+        "keyFinding": "CSPG4参与poly-PR/poly-GR的内化和神经元间传递，敲低CSPG4可减少PR20摄取并保护PR20诱导的神经元毒性。",
+        "limitation": "证据主要来自细胞系和体外神经元模型，尚缺乏体内验证；CSPG4作为治疗靶点的安全性和特异性未确定。",
+        "watchNext": "后续需在C9orf72动物模型或患者来源细胞中验证CSPG4对DPR传播和神经退行性变的影响，并探索靶向CSPG4或糖胺聚糖通路的干预策略。"
+      },
+      "tags": [
+        "ALS",
+        "C9orf72",
+        "RNA代谢",
+        "临床试验",
+        "遗传"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "C9orf72基因5' GGGGCC 3'序列的微卫星重复扩增是肌萎缩侧索硬化症和额颞叶痴呆最常见的单基因形式。由突变等位基因翻译产生的二肽重复蛋白（DPRs）可在患者死后脑组织中检测到。含精氨酸的肽段，即聚脯氨酸-精氨酸（poly-PR）和聚甘氨酸-精氨酸（poly-GR），对细胞尤其有害。两者均可发生细胞间传递，但其潜在机制尚不清楚。我们发现，在细胞系和神经元中，外源施加的带有血凝素（HA）标签、含二十个重复的poly-PR（HA-PR20）可快速内化并定位于核仁。小分子和RNAi方法提示HA-PR20通过温度依赖的液相内吞机制进入细胞。我们试图利用µMap高分辨率邻近标记技术鉴定与DPR相关的细胞表面摄取因子。DPR-铱偶联物鉴定出候选细胞表面蛋白，并在二次RNAi筛选中对这些蛋白进行了验证。聚焦于最强的候选分子硫酸软骨素蛋白聚糖4（CSPG4），我们证明抑制糖胺聚糖链合成以及敲低或敲除CSPG4均可减少HA-PR20的细胞摄取。敲低CSPG4可保护神经元免受PR20诱导的毒性。利用双报告系统研究PR50在体外神经元间的传递，我们发现一个神经元合成的PR50可轻易扩散至邻近细胞。敲低CSPG4后传递显著减少。同样，来自表达PR50或GR50的神经元的条件培养基含有可传递的蛋白，其以CSPG4依赖的方式被神经元内化。这些结果提示CSPG4参与poly-PR/poly-GR的内化和传递。",
+      "frontierRationale": "新近研究在细胞和神经元模型中鉴定CSPG4为C9orf72来源poly-PR/poly-GR内化与传递的参与因子，为ALS中DPR传播机制提供了可转化的候选靶点。",
+      "aiReviewedAt": "2026-11-24T05:59:32.262Z"
+    },
+    {
+      "id": "pmid-43071990",
+      "publishedAt": "2026-11-23",
+      "source": "Journal of neural engineering",
+      "title": "BCI-FIT: Feasibility of a customization protocol for communication brain-computer interface systems.",
+      "summary": "The BCI Functional Implementation Toolkit (BCI-FIT) is a flexible, user-centered, interdisciplinary customization protocol for non-implantable communication brain-computer interface (cBCI) systems. Here we describe the protocol and present results of a non-experimental exploratory study of the feasibility of this approach and its effects on accuracy, speed, and user experience. Five participants with speech and/or physical impairments resulting from amyotrophic lateral sclerosis (ALS) completed calibration and copy-spelling tasks with both customized and non-customized versions of a non-implantable cBCI over multiple visits. System customization was adjusted after each visit based on typing performance, participant preferences, clinical observations, brain signal characteristics, and results of simulations and other offline exploration. Three participants demonstrated consistently high typing accuracy under both conditions, with better typing speed and/or user experience under the customized condition. Two participants had low typing accuracy that did not improve with system customization. The subset of parameters modified, and how they were modified, varied widely across participants due to their different needs and preferences. Participants with high typing accuracy reported that system customization led to improvements in comfort, workload, typing performance, and aesthetic appeal. Customization may improve cBCI typing performance and user experience for some individuals with disabilities, but additional investigation is needed. Participant preferences, clinical observations, brain-signal characteristics, simulation results, and typing performance all influenced customization decisions. Additional customization options could support successful cBCI use for a wider range of users.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071990/",
+      "doi": "10.1088/1741-2552/aec594",
+      "pmid": "43071990",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "非实验性探索性可行性研究（小样本，无对照，待人工判定）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "BCI-FIT：通信脑机接口系统定制化方案的可行性研究",
+      "summaryZh": "该研究介绍了一套面向非植入式通信脑机接口的跨学科定制化流程BCI-FIT，并在5名ALS患者中开展探索性可行性测试。结果显示，3名打字准确率较高的患者在定制化条件下速度或体验更优，2名低准确率患者未见改善；定制参数因个体需求差异很大。作者认为定制化对部分用户可能有帮助，但需进一步研究。",
+      "insight": "这项研究值得ALS研究者跟踪，因为它把脑机接口的“个性化适配”从工程概念转化为可操作的临床流程，并明确纳入患者偏好、临床观察和脑信号特征等多维决策依据；同时它诚实报告了部分患者无法从定制中获益，提示未来需识别应答者特征并扩展定制选项。",
+      "aiRead": {
+        "studyType": "非实验性探索性可行性研究",
+        "keyFinding": "5名ALS患者中3名在定制化条件下打字速度或用户体验更优，2名低准确率患者未改善；定制参数高度个体化。",
+        "limitation": "样本量小、非实验性设计、无对照组，无法确定定制化与结局之间的因果效应。",
+        "watchNext": "后续需更大样本研究识别可从定制化中获益的患者特征，并扩展定制选项以覆盖更广泛用户。"
+      },
+      "tags": [
+        "ALS",
+        "NfL",
+        "脑机接口",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "BCI功能实施工具包（BCI-FIT）是一套灵活、以用户为中心、跨学科的非植入式通信脑机接口（cBCI）系统定制化方案。本文描述该方案，并报告一项非实验性探索性研究的结果，评估该方法的可行性及其对准确率、速度和用户体验的影响。五名因肌萎缩侧索硬化（ALS）导致言语和/或身体功能障碍的参与者，在多次访视中分别使用定制化和非定制化版本的非植入式cBCI完成校准和复制拼写任务。每次访视后根据打字表现、参与者偏好、临床观察、脑信号特征以及模拟和其他离线探索的结果调整系统定制。三名参与者在两种条件下均表现出持续较高的打字准确率，定制化条件下打字速度和/或用户体验更佳。两名参与者打字准确率低，且未因系统定制而改善。由于需求和偏好不同，参与者之间所修改的参数子集及修改方式差异很大。打字准确率高的参与者报告称，系统定制改善了舒适度、工作负荷、打字表现和美观性。定制化可能改善部分残疾个体的cBCI打字表现和用户体验，但尚需进一步研究。参与者偏好、临床观察、脑信号特征、模拟结果和打字表现均影响定制决策。更多定制选项有望支持更广泛用户成功使用cBCI。",
+      "frontierRationale": "该研究于2026年提出并测试面向ALS患者的通信脑机接口定制化实施工具包，具有新近性和直接的ALS转化价值。",
+      "aiReviewedAt": "2026-11-24T05:59:39.178Z"
+    },
+    {
+      "id": "pmid-43071439",
+      "publishedAt": "2026-11-23",
+      "source": "eLife",
+      "title": "A step towards modelling amyotrophic lateral sclerosis in primates.",
+      "summary": "A new primate model offers a promising first step towards reproducing the spread of ALS pathology across synapses, although important differences from the stereotyped patterns observed in human disease remain to be addressed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071439/",
+      "doi": "10.7554/eLife.113568",
+      "pmid": "43071439",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "机制",
+      "priority": "medium",
+      "evidenceLevel": "机制研究（评论/观点，非原始实验数据）",
+      "relevanceScore": 7,
+      "relevanceFlag": "high",
+      "titleZh": "迈向在灵长类动物中构建肌萎缩侧索硬化模型的一步",
+      "summaryZh": "这是一篇关于新型灵长类ALS模型的评论/观点文章。文章指出，该模型是朝着重现ALS病理沿突触扩散迈出的有希望的第一步，但与人类疾病中相对刻板的病理传播模式相比，该模型仍存在重要差异，需要进一步解决。",
+      "insight": "灵长类模型比啮齿类更接近人脑结构与连接组，若能在灵长类中重现ALS病理的突触传播，将显著提升对ALS扩散机制研究的转化相关性；同时文章明确提示模型与人类病理模式仍有差距，为后续模型优化指明方向。",
+      "aiRead": {
+        "studyType": "评论/观点文章（针对新型灵长类ALS模型的述评）",
+        "keyFinding": "新灵长类模型初步显示可部分重现ALS病理经突触传播，但与人类疾病的刻板病理模式仍存在重要差异。",
+        "limitation": "属评论性文章，未提供原始实验数据；模型与人类病理传播模式的一致性尚不充分。",
+        "watchNext": "关注该灵长类模型的原始研究数据、病理传播模式的进一步验证，以及模型与人类ALS病理特征的差距如何缩小。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "一种新的灵长类模型为重现ALS病理经突触传播迈出了有希望的第一步，尽管与人类疾病中所观察到的刻板模式之间仍存在重要差异有待解决。",
+      "frontierRationale": "该评论聚焦新近出现的灵长类ALS模型，直接关系到ALS病理跨突触传播这一核心机制及其转化价值。",
+      "aiReviewedAt": "2026-11-24T05:59:42.265Z"
+    },
+    {
+      "id": "epmc-PMC-PMC13788444",
+      "publishedAt": "2026-11-23",
+      "source": "Cureus",
+      "title": "Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://europepmc.org/article/PMC/PMC13788444",
+      "doi": "",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "low",
+      "evidenceLevel": "机制研究（综述/概念性文章，元数据无摘要）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "复杂疾病中的蛋白质基因组学特征：对靶向干预的启示",
+      "summaryZh": "该条目为 Cureus 发表的综述或机制类文章，主题是复杂疾病中的蛋白质基因组学特征及其对靶向干预的启示。由于原始元数据未提供摘要，目前无法获知具体研究内容、涉及疾病范围或是否专门讨论 ALS。",
+      "insight": "蛋白质基因组学整合蛋白与基因组层面信息，有助于识别复杂疾病的分子亚型与可干预靶点。对 ALS 研究者而言，值得关注其是否提出可用于 ALS 分层或靶向干预的蛋白质基因组学框架，但需获取全文后判断其与 ALS 的具体关联。",
+      "aiRead": {
+        "studyType": "机制/综述类文章（据来源分类，元数据无摘要）",
+        "keyFinding": "元数据未提供摘要，无法确认具体研究发现",
+        "limitation": "缺少摘要与全文信息，无法评估研究设计、疾病范围及与 ALS 的相关性",
+        "watchNext": "获取全文，确认是否包含 ALS 或神经退行性疾病的蛋白质基因组学数据与靶向干预讨论"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Europe PMC 记录显示，所获取的元数据中未提供摘要。",
+      "frontierRationale": "蛋白质基因组学是近年的整合组学前沿方向，但该条目缺乏摘要且未明确聚焦 ALS，其新近性与 ALS 转化价值尚待全文确认。",
+      "aiReviewedAt": "2026-11-24T05:59:45.016Z"
+    },
+    {
+      "id": "epmc-PPR-PPR1375406",
+      "publishedAt": "2026-11-23",
+      "source": "Europe PMC / PPR",
+      "title": "Transcriptional aging across CNS tissues in the ALS-FTD spectrum reflects clock architecture and disease-associated cellular signatures",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.64898/2026.11.19.26368520",
+      "doi": "10.64898/2026.11.19.26368520",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "medium",
+      "evidenceLevel": "动物/细胞实验（预印本，摘要信息缺失）",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "titleZh": "ALS-FTD谱系中中枢神经系统组织的转录衰老反映时钟架构和疾病相关细胞特征",
+      "summaryZh": "该预印本关注ALS-FTD谱系中中枢神经系统不同组织的转录组衰老特征，提出转录衰老模式与生物钟架构及疾病相关细胞特征相关。由于原始来源未提供摘要，具体研究设计、样本和分析结果无法从现有元数据确认。",
+      "insight": "ALS-FTD研究日益关注衰老与疾病过程的交互。若该工作能建立跨脑区转录衰老时钟并关联疾病细胞特征，可能为理解ALS-FTD的区域易感性和衰老相关机制提供新框架，值得跟踪其后续完整数据和验证。",
+      "aiRead": {
+        "studyType": "预印本；基于题名的机制研究，具体实验体系因摘要缺失无法确认",
+        "keyFinding": "题名提示ALS-FTD谱系中枢神经系统组织的转录衰老反映时钟架构和疾病相关细胞特征，但无摘要可核实具体发现",
+        "limitation": "原始元数据未提供摘要，无法评估样本、方法、统计和结论强度；预印本未经同行评议",
+        "watchNext": "关注该预印本后续版本或正式发表，重点查看跨CNS组织的转录衰老时钟构建方法、ALS-FTD模型或样本来源及关键细胞特征验证"
+      },
+      "tags": [
+        "ALS",
+        "RNA代谢",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Europe PMC记录显示已找到该条目，但所获取的元数据中未提供摘要。",
+      "frontierRationale": "该预印本将转录衰老时钟与ALS-FTD谱系的疾病细胞特征联系起来，具有新近性和机制探索价值。",
+      "aiReviewedAt": "2026-11-24T05:59:49.715Z"
+    },
+    {
+      "id": "epmc-PMC-PMC13789065",
+      "publishedAt": "2026-11-22",
+      "source": "Molecular Biomedicine",
+      "title": "NAMPT and NAD+ in health and disease: emerging perspectives from molecular mechanisms to therapeutic strategies",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://europepmc.org/article/PMC/PMC13789065",
+      "doi": "",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "治疗",
+      "priority": "medium",
+      "evidenceLevel": "综述（原始元数据未提供摘要，具体证据等级待人工判定）",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "NAMPT与NAD+在健康与疾病中的作用：从分子机制到治疗策略的新兴视角",
+      "summaryZh": "这是一篇发表于《Molecular Biomedicine》的综述，主题为NAMPT与NAD+在健康与疾病中的作用，涵盖从分子机制到治疗策略的视角。原始元数据未提供摘要，因此无法概述其具体内容与结论。",
+      "insight": "NAD+代谢通路（包括NAMPT等关键酶）是ALS领域近年关注的潜在治疗靶点之一；这篇综述有助于梳理该通路的基础机制与干预思路，但需注意其综述性质，不能据此推断临床疗效。",
+      "aiRead": {
+        "studyType": "综述（review）",
+        "keyFinding": "原始元数据未提供摘要，无法确认具体论点；题名显示其讨论NAMPT与NAD+在健康与疾病中的分子机制及治疗策略。",
+        "limitation": "缺少摘要与全文细节，无法评估其证据覆盖范围、方法学质量及对ALS的特异性论述。",
+        "watchNext": "建议获取全文，重点关注NAMPT/NAD+通路在ALS模型或临床样本中的证据，以及所提出的治疗策略是否进入临床前或临床阶段。"
+      },
+      "tags": [
+        "ALS",
+        "治疗"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Europe PMC记录显示已找到该条目，但所获取的元数据中没有可用的摘要。",
+      "frontierRationale": "该综述聚焦NAD+代谢这一与ALS相关的潜在治疗靶点，发表于2026年，具有新近性与转化参考价值。",
+      "aiReviewedAt": "2026-11-24T05:59:53.682Z"
+    },
+    {
+      "id": "pmid-43066866",
+      "publishedAt": "2026-11-21",
+      "source": "Molecular neurobiology",
+      "title": "From Reactive Care to Prevention in Neurodegenerative Diseases: Biomarkers, Risk Prediction, and Early Intervention.",
+      "summary": "Neurodegenerative diseases (NDs) are typically diagnosed only after substantial and irreversible neuronal damage has occurred, at a point when disease-modifying interventions are least likely to be effective. Increasing evidence indicates that the molecular and cellular processes driving neurodegeneration often begin years to decades before clinical onset. This preclinical phase offers an opportunity for early detection, although translating it into clinically effective prevention remains a major challenge. In this review, we examine advances in fluid-based, neuroimaging, genetic, and multi-omics biomarkers for Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, and other NDs. We propose a staged framework, from risk prediction to actionable intervention, to discuss how integrating these biomarkers may improve early diagnosis and risk assessment and guide interventions aimed at delaying or preventing disease onset. Finally, we discuss emerging prevention-oriented clinical trials, the potential and limitations of artificial intelligence-based prediction, and the ethical implications of moving neurological care from reactive management to predictive and preventive medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066866/",
+      "doi": "10.1007/s12035-026-06317-6",
+      "pmid": "43066866",
+      "trialId": "",
+      "origin": "PubMed",
+      "category": "临床试验",
+      "priority": "medium",
+      "evidenceLevel": "综述（非原始临床试验）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "从反应性医疗到神经退行性疾病的预防：生物标志物、风险预测与早期干预",
+      "summaryZh": "这篇综述指出，神经退行性疾病在临床确诊时往往已存在不可逆损伤，而分子和细胞层面的病理改变可在症状出现前数年甚至数十年启动。文章系统梳理了阿尔茨海默病、帕金森病、肌萎缩侧索硬化、亨廷顿病等疾病的体液、影像、遗传和多组学生物标志物进展，并提出从风险预测到干预的分阶段框架，同时讨论预防导向临床试验、人工智能预测的潜力与局限以及相关伦理问题。",
+      "insight": "对ALS研究者而言，该文的价值在于把ALS纳入跨疾病的临床前预防框架：它提示应更早识别高危人群、整合多模态生物标志物，并为设计以延迟发病为终点的试验提供概念基础；但作为综述，它不提供新的疗效证据。",
+      "aiRead": {
+        "studyType": "叙述性综述",
+        "keyFinding": "神经退行性疾病存在可检测的临床前阶段，整合体液、影像、遗传和多组学生物标志物可能改善早期诊断、风险预测并指导预防性干预。",
+        "limitation": "为综述性文章，未提供原始临床数据或疗效验证；文中提出的分阶段框架和人工智能预测仍需前瞻性研究检验。",
+        "watchNext": "关注该框架下针对ALS临床前阶段的多模态生物标志物验证研究，以及以延迟发病或延缓进展为终点的预防导向临床试验进展。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验",
+        "生物标志物"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "神经退行性疾病（NDs）通常在发生大量且不可逆的神经元损伤后才被诊断，此时疾病修饰干预最不可能有效。越来越多的证据表明，驱动神经退行性变的分子和细胞过程往往在临床发病前数年甚至数十年就已开始。这一临床前阶段为早期检测提供了机会，但将其转化为临床有效的预防仍是一项重大挑战。在这篇综述中，我们考察了阿尔茨海默病、帕金森病、肌萎缩侧索硬化、亨廷顿病及其他神经退行性疾病在体液、神经影像、遗传和多组学生物标志物方面的进展。我们提出一个从风险预测到可操作干预的分阶段框架，讨论整合这些生物标志物如何可能改善早期诊断和风险评估，并指导旨在延迟或预防疾病发病的干预措施。最后，我们讨论了新兴的以预防为导向的临床试验、基于人工智能的预测的潜力和局限性，以及将神经科医疗从反应性管理转向预测性和预防性医学的伦理影响。",
+      "frontierRationale": "该综述新近整合了ALS与其他神经退行性疾病的多模态生物标志物和临床前预防框架，对推动ALS早期干预试验设计具有转化参考价值。",
+      "aiReviewedAt": "2026-11-24T05:59:57.903Z"
+    },
+    {
+      "id": "epmc-MED-43064600",
+      "publishedAt": "2026-11-20",
+      "source": "Acad Radiol",
+      "title": "Altered Brain-cerebrospinal Fluid Dynamics and Juxtacortical Microstructural Alterations in Early-stage Amyotrophic Lateral Sclerosis.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.1016/j.acra.2026.11.015",
+      "doi": "10.1016/j.acra.2026.11.015",
+      "pmid": "43064600",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "生物标志物",
+      "priority": "medium",
+      "evidenceLevel": "待人工判定（仅题名与期刊信息，无摘要；来源为影像学期刊 Acad Radiol，研究类型未明）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "早期肌萎缩侧索硬化中脑-脑脊液动力学改变及近皮质微结构异常",
+      "summaryZh": "该条目来自 Europe PMC，仅提供题名与期刊信息，未提供摘要。题名提示研究关注早期 ALS 患者脑与脑脊液之间的动力学变化，以及近皮质区域的微结构改变，属于影像/生物标志物方向的探索性研究。具体样本量、方法、结果与结论需查阅原文。",
+      "insight": "早期 ALS 的脑-脑脊液动力学与近皮质微结构是相对少见的影像标志物切入点，若能在早期阶段检出改变，可能为早期诊断与疾病进展监测提供候选指标；但当前仅有题名信息，需核对原文的方法学质量与可重复性后再评估其价值。",
+      "aiRead": {
+        "studyType": "根据题名推测为影像学/生物标志物观察性研究，具体设计未知",
+        "keyFinding": "元数据未提供摘要，无法确认关键发现",
+        "limitation": "仅有题名与期刊来源，缺少摘要、样本量、方法与结果信息，无法评估证据强度",
+        "watchNext": "待获取全文后核实研究设计、样本量、影像指标的可重复性及与临床表型的关联"
+      },
+      "tags": [
+        "ALS",
+        "生物标志物"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Europe PMC 记录显示，所获取的元数据中未提供摘要。",
+      "frontierRationale": "该研究聚焦早期 ALS 的脑-脑脊液动力学与近皮质微结构这一较新的影像标志物方向，具有潜在的早期诊断转化价值，但新近性与结论强度需依据原文核实。",
+      "aiReviewedAt": "2026-11-24T06:00:01.303Z"
+    },
+    {
+      "id": "epmc-MED-43064242",
+      "publishedAt": "2026-11-20",
+      "source": "Biol Psychiatry Cogn Neurosci Neuroimaging",
+      "title": "Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.1016/j.bpsc.2026.11.005",
+      "doi": "10.1016/j.bpsc.2026.11.005",
+      "pmid": "43064242",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "遗传",
+      "priority": "low",
+      "evidenceLevel": "仅题名与期刊信息，无摘要；证据等级待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "与精神和神经退行性疾病相关的遗传因素所对应的脑结构变异",
+      "summaryZh": "该条目来自 Europe PMC，仅提供题名与期刊信息，未提供摘要。题名提示研究关注与精神和神经退行性疾病相关的遗传因素如何对应脑结构变异，但具体研究设计、样本与结果无法从现有元数据确认。",
+      "insight": "对 ALS 研究者而言，该研究可能提供将遗传风险因素映射到脑结构表型的分析框架；若其中包含 ALS 相关基因或通路，可为遗传变异与影像表型之间建立联系提供参考。但目前仅有题名，需获取全文后再评估其与 ALS 的直接相关性。",
+      "aiRead": {
+        "studyType": "根据题名推测为遗传关联或影像遗传学研究，具体设计无法从现有元数据确认",
+        "keyFinding": "现有元数据未提供摘要，无法确认关键发现",
+        "limitation": "仅有题名，缺少摘要、样本量、方法与结果信息，无法评估证据强度或与 ALS 的直接相关性",
+        "watchNext": "获取全文后关注是否纳入 ALS 相关基因或通路、所用影像表型及样本来源"
+      },
+      "tags": [
+        "ALS",
+        "遗传"
+      ],
+      "needsReview": true,
+      "translationStatus": "ai-translated-draft",
+      "abstractZh": "Europe PMC 记录显示，所获取的元数据中没有可用的摘要。",
+      "frontierRationale": "新近发表（2026年）且聚焦遗传因素与脑变异的关联，可能为 ALS 遗传-影像转化研究提供方法学参考。",
+      "aiReviewedAt": "2026-11-24T06:00:06.074Z"
+    },
+    {
+      "id": "epmc-MED-43064096",
+      "publishedAt": "2026-11-20",
+      "source": "J Biomed Inform",
+      "title": "MultiNSDE: treatment-aware neural SDEs for generative modeling of real and counterfactual patient trajectories.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.1016/j.jbi.2026.105130",
+      "doi": "10.1016/j.jbi.2026.105130",
+      "pmid": "43064096",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "治疗",
+      "priority": "medium",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "待复核翻译：MultiNSDE: treatment-aware neural SDEs for generative modeling of real and counterfactual patient trajectories.",
+      "summaryZh": "自动抓取条目，分类为“治疗”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "该条目涉及潜在治疗策略，应区分动物实验、早期临床和确证性临床结果，并优先核查原文终点和样本量。",
+      "aiRead": {
+        "studyType": "待人工判定",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注是否进入人体试验、疗效终点、样本量和安全性信号。"
+      },
+      "tags": [
+        "ALS",
+        "治疗"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-MED-43063507",
+      "publishedAt": "2026-11-20",
+      "source": "J Neuromuscul Dis",
+      "title": "Safety, tolerability, and effect of nusinersen in ambulatory and non-ambulatory adults with 5q-SMA treated up to five years.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.1177/22143602261474303",
+      "doi": "10.1177/22143602261474303",
+      "pmid": "43063507",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "low",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "待复核翻译：Safety, tolerability, and effect of nusinersen in ambulatory and non-ambulatory adults with 5q-SMA treated up to five years.",
+      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "aiRead": {
+        "studyType": "机制研究",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-MED-43063249",
+      "publishedAt": "2026-11-20",
+      "source": "Sci Adv",
+      "title": "Disulfiram inhibits pyroptosis and apoptosis through multiple complementary mechanisms.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.1126/sciadv.aee9169",
+      "doi": "10.1126/sciadv.aee9169",
+      "pmid": "43063249",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "low",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "待复核翻译：Disulfiram inhibits pyroptosis and apoptosis through multiple complementary mechanisms.",
+      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "aiRead": {
+        "studyType": "机制研究",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-PPR-PPR1373575",
+      "publishedAt": "2026-11-20",
+      "source": "Europe PMC / PPR",
+      "title": "Exploring the genetic determinants of ALS in a North Indian cohort using a genomic screening approach",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.64898/2026.11.20.26368383",
+      "doi": "10.64898/2026.11.20.26368383",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "遗传",
+      "priority": "low",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 2,
+      "relevanceFlag": "low",
+      "titleZh": "待复核翻译：Exploring the genetic determinants of ALS in a North Indian cohort using a genomic screening approach",
+      "summaryZh": "自动抓取条目，分类为“遗传”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "该条目有助于理解遗传分型和精准治疗方向，建议同时关注适用人群比例和机制证据强度。",
+      "aiRead": {
+        "studyType": "观察性临床研究",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注变异人群比例、功能证据和是否能转化为分型治疗。"
+      },
+      "tags": [
+        "ALS",
+        "遗传"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-PPR-PPR1373566",
+      "publishedAt": "2026-11-20",
+      "source": "Europe PMC / PPR",
+      "title": "Amyotrophic lateral sclerosis progression is tracked in plasma by systemic proteins independent of motor neurons",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.64898/2026.11.15.26368153",
+      "doi": "10.64898/2026.11.15.26368153",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "生物标志物",
+      "priority": "low",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "肌萎缩侧索硬化症 progression is tracked in plasma by systemic proteins independent of motor neurons",
+      "summaryZh": "自动抓取条目，分类为“生物标志物”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "该条目可能影响 ALS 诊断、分层或疗效评估，建议关注样本来源、队列规模和是否经过外部验证。",
+      "aiRead": {
+        "studyType": "待人工判定",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注外部验证、检测平台稳定性和能否预测进展或疗效。"
+      },
+      "tags": [
+        "ALS",
+        "生物标志物"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-PPR-PPR1373465",
+      "publishedAt": "2026-11-20",
+      "source": "Europe PMC / PPR",
+      "title": "Circulating gelsolin tracks disease stage in amyotrophic lateral sclerosis across four cohorts",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.64898/2026.11.18.26368465",
+      "doi": "10.64898/2026.11.18.26368465",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "low",
+      "evidenceLevel": "观察性临床研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "Circulating gelsolin tracks disease stage in 肌萎缩侧索硬化症 across four cohorts",
+      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "aiRead": {
+        "studyType": "观察性临床研究",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-PPR-PPR1373203",
+      "publishedAt": "2026-11-20",
+      "source": "Europe PMC / PPR",
+      "title": "Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.21203/rs.3.rs-11800620/v1",
+      "doi": "10.21203/rs.3.rs-11800620/v1",
+      "pmid": "",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "遗传",
+      "priority": "low",
+      "evidenceLevel": "待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "待复核翻译：Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory",
+      "summaryZh": "自动抓取条目，分类为“遗传”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "该条目有助于理解遗传分型和精准治疗方向，建议同时关注适用人群比例和机制证据强度。",
+      "aiRead": {
+        "studyType": "待人工判定",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注变异人群比例、功能证据和是否能转化为分型治疗。"
+      },
+      "tags": [
+        "ALS",
+        "RNA代谢",
+        "遗传"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-MED-43062202",
+      "publishedAt": "2026-11-20",
+      "source": "Amyotroph Lateral Scler Frontotemporal Degener",
+      "title": "Lived experiences of fatigue in individuals with amyotrophic lateral sclerosis: a qualitative study.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.1080/21678421.2026.2762727",
+      "doi": "10.1080/21678421.2026.2762727",
+      "pmid": "43062202",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "low",
+      "evidenceLevel": "机制研究",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "titleZh": "Lived experiences of fatigue in individuals with 肌萎缩侧索硬化症: a qualitative study.",
+      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "aiRead": {
+        "studyType": "机制研究",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "epmc-MED-43061696",
+      "publishedAt": "2026-11-19",
+      "source": "Cureus",
+      "title": "Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
+      "summary": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+      "url": "https://doi.org/10.7759/cureus.119949",
+      "doi": "10.7759/cureus.119949",
+      "pmid": "43061696",
+      "trialId": "",
+      "origin": "Europe PMC",
+      "category": "机制",
+      "priority": "low",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "titleZh": "待复核翻译：Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
+      "summaryZh": "自动抓取条目，分类为“机制”。英文摘要首句：Europe PMC record found, but no abstract was available in the fetched metadata. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "Europe PMC 新近记录，建议复核摘要、研究设计和原文结论后进入精选列表。",
+      "aiRead": {
+        "studyType": "综述/荟萃分析",
+        "keyFinding": "Europe PMC record found, but no abstract was available in the fetched metadata.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注是否从机制假说推进到动物模型、患者样本或治疗干预证据。"
+      },
+      "tags": [
+        "ALS",
+        "机制"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT04055623",
+      "publishedAt": "2026-10-28",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "T-regulatory Cells in ALS",
+      "summary": "Status: COMPLETED. Phase: PHASE2. Enrollment: 11. Condition: ALS (Amyotrophic Lateral Sclerosis).",
+      "url": "https://clinicaltrials.gov/study/NCT04055623",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT04055623",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 11,
+        "startDate": "2019-08-14",
+        "completionDate": "2021-09-15",
+        "primaryOutcomes": [
+          "Change in Treg Suppressive Function in the Blood From Baseline to Week 24."
+        ],
+        "interventionTypes": [
+          "BIOLOGICAL",
+          "OTHER",
+          "BIOLOGICAL"
+        ],
+        "interventions": [
+          "Monthly autologous Treg cells infusions + 3 times per week Interleukin-2 injections",
+          "Monthly placebo infusions + 3 times per week placebo injections",
+          "Monthly autologous Treg cells infusions + 3 times per week Interleukin-2 injections"
+        ],
+        "sponsor": "The Methodist Hospital Research Institute"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "titleZh": "待复核翻译：T-regulatory Cells in ALS",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT06656702",
+      "publishedAt": "2026-08-11",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Effects of Psilocybin in Patients With Amyotrophic Lateral Sclerosis",
+      "summary": "Status: RECRUITING. Phase: EARLY_PHASE1. Enrollment: 24. Condition: Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT06656702",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT06656702",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "RECRUITING",
+        "phase": "EARLY_PHASE1",
+        "enrollment": 24,
+        "startDate": "2025-04-09",
+        "completionDate": "2027-07-01",
+        "primaryOutcomes": [
+          "Feasibility of psilocybin treatment as assessed by number of participants recruited, retained and adhere to treatment"
+        ],
+        "interventionTypes": [
+          "DRUG"
+        ],
+        "interventions": [
+          "Psilocybin"
+        ],
+        "sponsor": "Johns Hopkins University"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "Effects of Psilocybin in Patients With 肌萎缩侧索硬化症",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: RECRUITING. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: RECRUITING.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT07357428",
+      "publishedAt": "2026-04-14",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Connect-One: Early Feasibility Study of Connexus® Brain-Computer Interface (BCI)",
+      "summary": "Status: RECRUITING. Phase: NA. Enrollment: 2. Condition: Amyotrophic Lateral Sclerosis; Neuromuscular Disease; Stroke; Tetraplegia/Tetraparesis; Cervical Spinal Cord Injury; Dysarthria.",
+      "url": "https://clinicaltrials.gov/study/NCT07357428",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT07357428",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "RECRUITING",
+        "phase": "NA",
+        "enrollment": 2,
+        "startDate": "2026-03-31",
+        "completionDate": "2032-01",
+        "primaryOutcomes": [
+          "Primary Safety: Number of Subjects With Device Related Adverse Events"
+        ],
+        "interventionTypes": [
+          "DEVICE"
+        ],
+        "interventions": [
+          "Connexus Brain-Computer Interface"
+        ],
+        "sponsor": "Paradromics"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "Connect-One: Early Feasibility Study of Connexus® 脑机接口 (BCI)",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: RECRUITING. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: RECRUITING.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验",
+        "脑机接口"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT02893605",
+      "publishedAt": "2025-11-21",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Study of Gene Polymorphisms Involved in the Metabolism and Action of Vitamin D in Amyotrophic Lateral Sclerosis",
+      "summary": "Status: COMPLETED. Enrollment: 800. Condition: Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT02893605",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT02893605",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "",
+        "enrollment": 800,
+        "startDate": "2014-03",
+        "completionDate": "2022-12-31",
+        "primaryOutcomes": [
+          "The polymorphisms occurring on a pre-defined set of genes"
+        ],
+        "interventionTypes": [],
+        "interventions": [],
+        "sponsor": "Centre Hospitalier Universitaire de Nīmes"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "Study of Gene Polymorphisms Involved in the Metabolism and Action of Vitamin D in 肌萎缩侧索硬化症",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT06849115",
+      "publishedAt": "2025-04-08",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Effects of L-Carnitine in Amyotrophic Lateral Sclerosis Patients With CHCHD10 Mutations",
+      "summary": "Status: COMPLETED. Phase: PHASE4. Enrollment: 4. Condition: Amyotrophic Lateral Sclerosis (ALS).",
+      "url": "https://clinicaltrials.gov/study/NCT06849115",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT06849115",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "enrollment": 4,
+        "startDate": "2024-07-18",
+        "completionDate": "2025-02-13",
+        "primaryOutcomes": [
+          "Changes of ALS-FRS-R scores"
+        ],
+        "interventionTypes": [
+          "DRUG"
+        ],
+        "interventions": [
+          "L-Carnitine Injection，1000mg once daily"
+        ],
+        "sponsor": "ChaodongWang"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "titleZh": "Effects of L-Carnitine in 肌萎缩侧索硬化症 Patients With CHCHD10 Mutations",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT06165172",
+      "publishedAt": "2025-03-25",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Early Feasibility Study of the MyoRegulator® for Treatment of ALS",
+      "summary": "Status: COMPLETED. Phase: NA. Enrollment: 5. Condition: Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT06165172",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT06165172",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 5,
+        "startDate": "2023-06-21",
+        "completionDate": "2024-08-31",
+        "primaryOutcomes": [
+          "Safety as measured by number of patients with any device-related serious adverse event",
+          "Tolerability as measured by patient's ability to complete the treatments"
+        ],
+        "interventionTypes": [
+          "DEVICE"
+        ],
+        "interventions": [
+          "MyoRegulator®"
+        ],
+        "sponsor": "PathMaker Neurosystems Inc."
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "titleZh": "待复核翻译：Early Feasibility Study of the MyoRegulator® for Treatment of ALS",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT06541873",
+      "publishedAt": "2024-08-07",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Gait Patterns in Dual-task Conditions in Patients With Amyotrophic Lateral Sclerosis",
+      "summary": "Status: NOT_YET_RECRUITING. Enrollment: 60. Condition: Amyotrophic Lateral Sclerosis; Motor Neuron Disease.",
+      "url": "https://clinicaltrials.gov/study/NCT06541873",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT06541873",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "NOT_YET_RECRUITING",
+        "phase": "",
+        "enrollment": 60,
+        "startDate": "2024-09",
+        "completionDate": "2027-08-31",
+        "primaryOutcomes": [
+          "Dual-task cost at 1-Minute Walking Test performance",
+          "Dual-task cost at Timed Up and Go performance"
+        ],
+        "interventionTypes": [
+          "OTHER"
+        ],
+        "interventions": [
+          "Clinical and gait evaluation"
+        ],
+        "sponsor": "IRCCS San Raffaele"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "titleZh": "Gait Patterns in Dual-task Conditions in Patients With 肌萎缩侧索硬化症",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: NOT_YET_RECRUITING. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；motor neuron disease=运动神经元病。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: NOT_YET_RECRUITING.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT02017912",
+      "publishedAt": "2024-06-06",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Phase 2, Randomized, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
+      "summary": "Status: COMPLETED. Phase: PHASE2. Enrollment: 48. Condition: Amyotrophic Lateral Sclerosis (ALS).",
+      "url": "https://clinicaltrials.gov/study/NCT02017912",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT02017912",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 48,
+        "startDate": "2014-05",
+        "completionDate": "2016-07",
+        "primaryOutcomes": [
+          "Number of Patients With at Least One Treatment Emergent Adverse Events"
+        ],
+        "interventionTypes": [
+          "BIOLOGICAL",
+          "BIOLOGICAL"
+        ],
+        "interventions": [
+          "Nurown MSC-NTF cells",
+          "Placebo"
+        ],
+        "sponsor": "Brainstorm-Cell Therapeutics"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "titleZh": "II 期, 随机, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT04257760",
+      "publishedAt": "2024-04-03",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Evaluation of Palliative Care for Patients With ALS and Their Caregivers",
+      "summary": "Status: COMPLETED. Phase: NA. Enrollment: 66. Condition: Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT04257760",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT04257760",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 66,
+        "startDate": "2020-10-08",
+        "completionDate": "2022-10-30",
+        "primaryOutcomes": [
+          "Change in average ALS Specific Quality of Life - Revised score in ALS patients post palliative care",
+          "Difference in average ALS Specific Quality of Life - Revised score between arms",
+          "Difference in average Hospital Anxiety and Depression Scale score for ALS patients between arms",
+          "Difference in average Hospital Anxiety and Depression Scale score for caregivers of ALS patients between arms",
+          "Change in average Hospital Anxiety and Depression Scale score in patients with ALS",
+          "Change in average Hospital Anxiety and Depression Scale score in caregivers of patients with ALS"
+        ],
+        "interventionTypes": [
+          "BEHAVIORAL"
+        ],
+        "interventions": [
+          "Palliative Care consultation outside standard of care"
+        ],
+        "sponsor": "Ottawa Hospital Research Institute"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "titleZh": "待复核翻译：Evaluation of Palliative Care for Patients With ALS and Their Caregivers",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT04104373",
+      "publishedAt": "2024-04-02",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "The Ontario Neurodegenerative Disease Research Initiative",
+      "summary": "Status: COMPLETED. Enrollment: 522. Condition: Alzheimer Disease; Amyotrophic Lateral Sclerosis; Frontotemporal Dementia; Parkinson Disease; Stroke.",
+      "url": "https://clinicaltrials.gov/study/NCT04104373",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT04104373",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "",
+        "enrollment": 522,
+        "startDate": "2014-07-07",
+        "completionDate": "2018-04-30",
+        "primaryOutcomes": [
+          "Eye Tracking - Pro Saccade and Anti Saccade",
+          "Retinal Nerve Imaging",
+          "Gait and Balance",
+          "Genomics",
+          "Neuropsychology",
+          "Neuroimaging"
+        ],
+        "interventionTypes": [
+          "OTHER"
+        ],
+        "interventions": [
+          "Observational Cohort"
+        ],
+        "sponsor": "Ontario Neurodegeneration Disease Research Initiative"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "待复核翻译：The Ontario Neurodegenerative Disease Research Initiative",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；frontotemporal dementia=额颞叶痴呆。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT04788745",
+      "publishedAt": "2023-07-20",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Targeting Metabolic Flexibility in Amyotrophic Lateral Sclerosis (ALS)",
+      "summary": "Status: COMPLETED. Phase: PHASE2. Enrollment: 21. Condition: Amyotrophic Lateral Sclerosis; Motor Neuron Disease.",
+      "url": "https://clinicaltrials.gov/study/NCT04788745",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT04788745",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 21,
+        "startDate": "2021-06-29",
+        "completionDate": "2023-05-24",
+        "primaryOutcomes": [
+          "Incidence of Treatment-Emergent Adverse Events; Safety and Tolerability",
+          "Level of expression of oxidative stress markers in the plasma and/or serum of trial participants"
+        ],
+        "interventionTypes": [
+          "DRUG"
+        ],
+        "interventions": [
+          "Trimetazidine Dihydrochloride"
+        ],
+        "sponsor": "The University of Queensland"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 15,
+      "relevanceFlag": "high",
+      "titleZh": "Targeting Metabolic Flexibility in 肌萎缩侧索硬化症 (ALS)",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症；motor neuron disease=运动神经元病。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT01849770",
+      "publishedAt": "2021-09-29",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Mexiletine in Sporadic Amyotrophic Lateral Sclerosis (SALS)",
+      "summary": "Status: COMPLETED. Phase: PHASE2. Enrollment: 75. Condition: Sporadic Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT01849770",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT01849770",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 75,
+        "startDate": "2013-07",
+        "completionDate": "2014-08",
+        "primaryOutcomes": [
+          "Percentage of Participants That Discontinued Study Drug"
+        ],
+        "interventionTypes": [
+          "DRUG",
+          "DRUG"
+        ],
+        "interventions": [
+          "Mexiletine",
+          "Placebo"
+        ],
+        "sponsor": "University of Washington"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "Mexiletine in Sporadic 肌萎缩侧索硬化症 (SALS)",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT02980380",
+      "publishedAt": "2019-04-19",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Brain Computer Interface Complete locked-in State Communication",
+      "summary": "Status: UNKNOWN. Enrollment: 15. Condition: Complete Locked-in State.",
+      "url": "https://clinicaltrials.gov/study/NCT02980380",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT02980380",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "UNKNOWN",
+        "phase": "",
+        "enrollment": 15,
+        "startDate": "2014-06",
+        "completionDate": "2022-04",
+        "primaryOutcomes": [
+          "Brain Computer Interface Based Communication in the Completely Locked-In State patients"
+        ],
+        "interventionTypes": [
+          "OTHER"
+        ],
+        "interventions": [
+          "Non-invasive brain computer interface"
+        ],
+        "sponsor": "University Hospital Tuebingen"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "titleZh": "待复核翻译：Brain Computer Interface Complete locked-in State Communication",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: UNKNOWN. 未识别到核心术语，需要人工补充中文摘要。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: UNKNOWN.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT01154283",
+      "publishedAt": "2017-01-02",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Study of Standard Noninvasive Positive Pressure Ventilation (NIPPV) and Low Expiratory Pressure NIPPV in ALS Patients",
+      "summary": "Status: COMPLETED. Phase: NA. Enrollment: 28. Condition: Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT01154283",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT01154283",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 28,
+        "startDate": "2008-01",
+        "completionDate": "2011-10",
+        "primaryOutcomes": [
+          "Hours of NIPPV Usage"
+        ],
+        "interventionTypes": [
+          "DEVICE"
+        ],
+        "interventions": [
+          "Viasys® Healthcare, Pulmonetic Systems, lap-top ventilator (LTV machine)"
+        ],
+        "sponsor": "Kirsten Gruis"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "titleZh": "待复核翻译：Study of Standard Noninvasive Positive Pressure Ventilation (NIPPV) and Low Expiratory Pressure NIPPV in ALS Patients",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: COMPLETED. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: COMPLETED.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    },
+    {
+      "id": "trial-NCT02874209",
+      "publishedAt": "2016-08-22",
+      "source": "ClinicalTrials.gov",
+      "category": "临床试验",
+      "title": "Noninvasive Assessment of Neuronal Damage by MRI Sodium ( 23Na ) in Amyotrophic Lateral Sclerosis",
+      "summary": "Status: UNKNOWN. Phase: NA. Enrollment: 60. Condition: Amyotrophic Lateral Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT02874209",
+      "doi": "",
+      "pmid": "",
+      "trialId": "NCT02874209",
+      "origin": "ClinicalTrials.gov",
+      "trial": {
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "enrollment": 60,
+        "startDate": "2015-09",
+        "completionDate": "2018-09",
+        "primaryOutcomes": [
+          "Central conduction time of the potential muscle through transcranial magnetic stimulation"
+        ],
+        "interventionTypes": [
+          "OTHER"
+        ],
+        "interventions": [
+          "sodium MRI"
+        ],
+        "sponsor": "Assistance Publique Hopitaux De Marseille"
+      },
+      "priority": "high",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "titleZh": "Noninvasive Assessment of Neuronal Damage by MRI Sodium ( 23Na ) in 肌萎缩侧索硬化症",
+      "summaryZh": "自动抓取条目，分类为“临床试验”。英文摘要首句：Status: UNKNOWN. 涉及术语：amyotrophic lateral sclerosis=肌萎缩侧索硬化症。",
+      "insight": "该条目来自临床试验注册库，重点关注入组状态、分期、干预方式、终点和最近更新时间，不能等同于疗效已经证实。",
+      "aiRead": {
+        "studyType": "临床试验注册",
+        "keyFinding": "Status: UNKNOWN.",
+        "limitation": "机器初筛结果，研究设计、样本量、终点和结论强度仍需人工复核。",
+        "watchNext": "关注入组状态、主要终点、结果发布日期和是否有同类药物对照。"
+      },
+      "tags": [
+        "ALS",
+        "临床试验"
+      ],
+      "needsReview": true,
+      "translationStatus": "machine-assisted-draft"
+    }
+  ]
+}
