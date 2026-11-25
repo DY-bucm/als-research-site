@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T06:00:06.155Z",
+  "updatedAt": "2026-11-25T04:54:16.798Z",
   "summary": {
-    "totalItems": 44,
-    "issueCount": 43
+    "totalItems": 41,
+    "issueCount": 40
   },
   "sources": [
     {
@@ -23,11 +23,22 @@
   ],
   "lowRelevance": [
     {
+      "id": "epmc-PPR-PPR1376257",
+      "title": "A plasma proteomic atlas of rare genetic neurodevelopmental disorders reveals convergent molecular signatures, neurodegenerative overlap, and a cross-disorder severity index",
+      "titleZh": "罕见遗传性神经发育障碍的血浆蛋白质组图谱揭示趋同分子特征、神经退行性重叠及跨疾病严重度指数",
+      "category": "生物标志物",
+      "evidenceLevel": "预印本（Europe PMC / PPR），元数据无摘要，证据等级待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-11514306/v1"
+    },
+    {
       "id": "epmc-PMC-PMC13788444",
       "title": "Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions",
       "titleZh": "复杂疾病中的蛋白质基因组学特征：对靶向干预的启示",
       "category": "机制",
-      "evidenceLevel": "机制研究（综述/概念性文章，元数据无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -38,7 +49,7 @@
       "title": "Transcriptional aging across CNS tissues in the ALS-FTD spectrum reflects clock architecture and disease-associated cellular signatures",
       "titleZh": "ALS-FTD谱系中中枢神经系统组织的转录衰老反映时钟架构和疾病相关细胞特征",
       "category": "机制",
-      "evidenceLevel": "动物/细胞实验（预印本，摘要信息缺失）",
+      "evidenceLevel": "动物/细胞实验（据来源标注；原始摘要缺失，无法进一步核实）",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -49,7 +60,7 @@
       "title": "NAMPT and NAD+ in health and disease: emerging perspectives from molecular mechanisms to therapeutic strategies",
       "titleZh": "NAMPT与NAD+在健康与疾病中的作用：从分子机制到治疗策略的新兴视角",
       "category": "治疗",
-      "evidenceLevel": "综述（原始元数据未提供摘要，具体证据等级待人工判定）",
+      "evidenceLevel": "综述（非原始研究；具体证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -58,9 +69,9 @@
     {
       "id": "epmc-MED-43064242",
       "title": "Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
-      "titleZh": "与精神和神经退行性疾病相关的遗传因素所对应的脑结构变异",
+      "titleZh": "待复核翻译：Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
       "category": "遗传",
-      "evidenceLevel": "仅题名与期刊信息，无摘要；证据等级待人工判定",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -109,28 +120,6 @@
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://doi.org/10.64898/2026.11.20.26368383"
-    },
-    {
-      "id": "epmc-PPR-PPR1373203",
-      "title": "Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory",
-      "titleZh": "待复核翻译：Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-11800620/v1"
-    },
-    {
-      "id": "epmc-MED-43061696",
-      "title": "Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
-      "titleZh": "待复核翻译：Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.7759/cureus.119949"
     }
   ],
   "missingIdentifiers": [
@@ -139,7 +128,7 @@
       "title": "Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions",
       "titleZh": "复杂疾病中的蛋白质基因组学特征：对靶向干预的启示",
       "category": "机制",
-      "evidenceLevel": "机制研究（综述/概念性文章，元数据无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -150,7 +139,7 @@
       "title": "NAMPT and NAD+ in health and disease: emerging perspectives from molecular mechanisms to therapeutic strategies",
       "titleZh": "NAMPT与NAD+在健康与疾病中的作用：从分子机制到治疗策略的新兴视角",
       "category": "治疗",
-      "evidenceLevel": "综述（原始元数据未提供摘要，具体证据等级待人工判定）",
+      "evidenceLevel": "综述（非原始研究；具体证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -161,31 +150,53 @@
     {
       "id": "pmid-42934032",
       "title": "Motor neuron disease and parkinsonism in a patient with a pathogenic CSF1R variant.",
-      "titleZh": "一例携带致病性CSF1R变异的运动神经元病与帕金森综合征患者",
+      "titleZh": "一例携带致病性CSF1R变异的患者出现运动神经元病和帕金森综合征",
       "category": "遗传",
-      "evidenceLevel": "病例报告（单例），证据等级低，需人工判定",
+      "evidenceLevel": "病例报告（单例）；仅题录信息，无摘要，需人工判定",
       "relevanceScore": 4,
       "relevanceFlag": "medium",
       "priority": "medium",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42934032/"
     },
     {
+      "id": "epmc-PPR-PPR1376257",
+      "title": "A plasma proteomic atlas of rare genetic neurodevelopmental disorders reveals convergent molecular signatures, neurodegenerative overlap, and a cross-disorder severity index",
+      "titleZh": "罕见遗传性神经发育障碍的血浆蛋白质组图谱揭示趋同分子特征、神经退行性重叠及跨疾病严重度指数",
+      "category": "生物标志物",
+      "evidenceLevel": "预印本（Europe PMC / PPR），元数据无摘要，证据等级待人工判定",
+      "relevanceScore": 0,
+      "relevanceFlag": "low",
+      "priority": "medium",
+      "url": "https://doi.org/10.21203/rs.3.rs-11514306/v1"
+    },
+    {
       "id": "epmc-PMC-PMC13788444",
       "title": "Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions",
       "titleZh": "复杂疾病中的蛋白质基因组学特征：对靶向干预的启示",
       "category": "机制",
-      "evidenceLevel": "机制研究（综述/概念性文章，元数据无摘要）",
+      "evidenceLevel": "机制研究（仅题名，无摘要）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
       "url": "https://europepmc.org/article/PMC/PMC13788444"
     },
     {
+      "id": "epmc-MED-43071439",
+      "title": "A step towards modelling amyotrophic lateral sclerosis in primates.",
+      "titleZh": "迈向灵长类肌萎缩侧索硬化症模型的一步",
+      "category": "机制",
+      "evidenceLevel": "机制研究（来源元数据无摘要，仅题名可考）",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "medium",
+      "url": "https://doi.org/10.7554/elife.113568"
+    },
+    {
       "id": "epmc-PPR-PPR1375406",
       "title": "Transcriptional aging across CNS tissues in the ALS-FTD spectrum reflects clock architecture and disease-associated cellular signatures",
       "titleZh": "ALS-FTD谱系中中枢神经系统组织的转录衰老反映时钟架构和疾病相关细胞特征",
       "category": "机制",
-      "evidenceLevel": "动物/细胞实验（预印本，摘要信息缺失）",
+      "evidenceLevel": "动物/细胞实验（据来源标注；原始摘要缺失，无法进一步核实）",
       "relevanceScore": 2,
       "relevanceFlag": "low",
       "priority": "medium",
@@ -196,29 +207,18 @@
       "title": "NAMPT and NAD+ in health and disease: emerging perspectives from molecular mechanisms to therapeutic strategies",
       "titleZh": "NAMPT与NAD+在健康与疾病中的作用：从分子机制到治疗策略的新兴视角",
       "category": "治疗",
-      "evidenceLevel": "综述（原始元数据未提供摘要，具体证据等级待人工判定）",
+      "evidenceLevel": "综述（非原始研究；具体证据等级待人工判定）",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "medium",
       "url": "https://europepmc.org/article/PMC/PMC13789065"
     },
     {
-      "id": "epmc-MED-43064600",
-      "title": "Altered Brain-cerebrospinal Fluid Dynamics and Juxtacortical Microstructural Alterations in Early-stage Amyotrophic Lateral Sclerosis.",
-      "titleZh": "早期肌萎缩侧索硬化中脑-脑脊液动力学改变及近皮质微结构异常",
-      "category": "生物标志物",
-      "evidenceLevel": "待人工判定（仅题名与期刊信息，无摘要；来源为影像学期刊 Acad Radiol，研究类型未明）",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "medium",
-      "url": "https://doi.org/10.1016/j.acra.2026.11.015"
-    },
-    {
       "id": "epmc-MED-43064242",
       "title": "Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
-      "titleZh": "与精神和神经退行性疾病相关的遗传因素所对应的脑结构变异",
+      "titleZh": "待复核翻译：Brain variation underlying genetic factors linked to psychiatric and neurodegenerative disorders.",
       "category": "遗传",
-      "evidenceLevel": "仅题名与期刊信息，无摘要；证据等级待人工判定",
+      "evidenceLevel": "待人工判定",
       "relevanceScore": 0,
       "relevanceFlag": "low",
       "priority": "low",
@@ -278,57 +278,24 @@
       "relevanceFlag": "medium",
       "priority": "low",
       "url": "https://doi.org/10.64898/2026.11.15.26368153"
-    },
-    {
-      "id": "epmc-PPR-PPR1373465",
-      "title": "Circulating gelsolin tracks disease stage in amyotrophic lateral sclerosis across four cohorts",
-      "titleZh": "Circulating gelsolin tracks disease stage in 肌萎缩侧索硬化症 across four cohorts",
-      "category": "机制",
-      "evidenceLevel": "观察性临床研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.64898/2026.11.18.26368465"
-    },
-    {
-      "id": "epmc-PPR-PPR1373203",
-      "title": "Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory",
-      "titleZh": "待复核翻译：Transcriptomic associations of a pre-specified 468-gene redox and xenobiotic-metabolism panel across five neurological disorders, with a published-variant inventory",
-      "category": "遗传",
-      "evidenceLevel": "待人工判定",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.21203/rs.3.rs-11800620/v1"
-    },
-    {
-      "id": "epmc-MED-43062202",
-      "title": "Lived experiences of fatigue in individuals with amyotrophic lateral sclerosis: a qualitative study.",
-      "titleZh": "Lived experiences of fatigue in individuals with 肌萎缩侧索硬化症: a qualitative study.",
-      "category": "机制",
-      "evidenceLevel": "机制研究",
-      "relevanceScore": 5,
-      "relevanceFlag": "medium",
-      "priority": "low",
-      "url": "https://doi.org/10.1080/21678421.2026.2762727"
-    },
-    {
-      "id": "epmc-MED-43061696",
-      "title": "Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
-      "titleZh": "待复核翻译：Takotsubo Syndrome in Acute and Chronic Neurological Conditions: A Systematic Review of Cardiac Phenotypes and Clinical Outcomes.",
-      "category": "机制",
-      "evidenceLevel": "综述/荟萃分析",
-      "relevanceScore": 0,
-      "relevanceFlag": "low",
-      "priority": "low",
-      "url": "https://doi.org/10.7759/cureus.119949"
     }
   ],
   "highPriorityNeedsReview": [
     {
+      "id": "pmid-42966163",
+      "title": "Immunometabolic dysregulation of reactive microglia and astrocytes in neurodegenerative diseases: Mechanistic insights and therapeutic implications.",
+      "titleZh": "神经退行性疾病中反应性小胶质细胞和星形胶质细胞的免疫代谢失调：机制见解与治疗意义",
+      "category": "临床试验",
+      "evidenceLevel": "综述/荟萃分析",
+      "relevanceScore": 5,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966163/"
+    },
+    {
       "id": "pmid-43038492",
       "title": "Expanding Amyotrophic Lateral Sclerosis Genetic Spectrum via Systematic Screening of Adult-Onset Neurologic Disease Genes.",
-      "titleZh": "通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化遗传谱",
+      "titleZh": "通过系统筛查成人起病神经系统疾病基因拓展肌萎缩侧索硬化遗传谱",
       "category": "生物标志物",
       "evidenceLevel": "观察性临床研究",
       "relevanceScore": 9,
@@ -337,185 +304,185 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43038492/"
     },
     {
-      "id": "trial-NCT04055623",
-      "title": "T-regulatory Cells in ALS",
-      "titleZh": "待复核翻译：T-regulatory Cells in ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04055623"
-    },
-    {
-      "id": "trial-NCT06656702",
-      "title": "Effects of Psilocybin in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Effects of Psilocybin in Patients With 肌萎缩侧索硬化症",
+      "id": "trial-NCT05470478",
+      "title": "iBCI Optimization for Veterans With Paralysis",
+      "titleZh": "待复核翻译：iBCI Optimization for Veterans With Paralysis",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06656702"
+      "url": "https://clinicaltrials.gov/study/NCT05470478"
     },
     {
-      "id": "trial-NCT07357428",
-      "title": "Connect-One: Early Feasibility Study of Connexus® Brain-Computer Interface (BCI)",
-      "titleZh": "Connect-One: Early Feasibility Study of Connexus® 脑机接口 (BCI)",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT07357428"
-    },
-    {
-      "id": "trial-NCT02893605",
-      "title": "Study of Gene Polymorphisms Involved in the Metabolism and Action of Vitamin D in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Study of Gene Polymorphisms Involved in the Metabolism and Action of Vitamin D in 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02893605"
-    },
-    {
-      "id": "trial-NCT06849115",
-      "title": "Effects of L-Carnitine in Amyotrophic Lateral Sclerosis Patients With CHCHD10 Mutations",
-      "titleZh": "Effects of L-Carnitine in 肌萎缩侧索硬化症 Patients With CHCHD10 Mutations",
+      "id": "trial-NCT06710626",
+      "title": "Control of Assistive Devices Via Brain-Computer Interface Technology",
+      "titleZh": "Control of Assistive Devices Via 脑机接口 Technology",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06849115"
+      "url": "https://clinicaltrials.gov/study/NCT06710626"
     },
     {
-      "id": "trial-NCT06165172",
-      "title": "Early Feasibility Study of the MyoRegulator® for Treatment of ALS",
-      "titleZh": "待复核翻译：Early Feasibility Study of the MyoRegulator® for Treatment of ALS",
+      "id": "trial-NCT07454733",
+      "title": "Do Video Recordings of Multidisciplinary Clinics Improve Quality of Life for People With ALS and Their Caregivers?",
+      "titleZh": "待复核翻译：Do Video Recordings of Multidisciplinary Clinics Improve Quality of Life for People With ALS and Their Caregivers?",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06165172"
+      "url": "https://clinicaltrials.gov/study/NCT07454733"
     },
     {
-      "id": "trial-NCT06541873",
-      "title": "Gait Patterns in Dual-task Conditions in Patients With Amyotrophic Lateral Sclerosis",
-      "titleZh": "Gait Patterns in Dual-task Conditions in Patients With 肌萎缩侧索硬化症",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 13,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT06541873"
-    },
-    {
-      "id": "trial-NCT02017912",
-      "title": "Phase 2, Randomized, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
-      "titleZh": "II 期, 随机, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02017912"
-    },
-    {
-      "id": "trial-NCT04257760",
-      "title": "Evaluation of Palliative Care for Patients With ALS and Their Caregivers",
-      "titleZh": "待复核翻译：Evaluation of Palliative Care for Patients With ALS and Their Caregivers",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 11,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04257760"
-    },
-    {
-      "id": "trial-NCT04104373",
-      "title": "The Ontario Neurodegenerative Disease Research Initiative",
-      "titleZh": "待复核翻译：The Ontario Neurodegenerative Disease Research Initiative",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 9,
-      "relevanceFlag": "high",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04104373"
-    },
-    {
-      "id": "trial-NCT04788745",
-      "title": "Targeting Metabolic Flexibility in Amyotrophic Lateral Sclerosis (ALS)",
-      "titleZh": "Targeting Metabolic Flexibility in 肌萎缩侧索硬化症 (ALS)",
+      "id": "trial-NCT03081338",
+      "title": "A Programme for Amyotrophic Lateral Sclerosis Care in Europe",
+      "titleZh": "A Programme for 肌萎缩侧索硬化症 Care in Europe",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 15,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT04788745"
+      "url": "https://clinicaltrials.gov/study/NCT03081338"
     },
     {
-      "id": "trial-NCT01849770",
-      "title": "Mexiletine in Sporadic Amyotrophic Lateral Sclerosis (SALS)",
-      "titleZh": "Mexiletine in Sporadic 肌萎缩侧索硬化症 (SALS)",
+      "id": "trial-NCT06891716",
+      "title": "[18F]ACI-19626 PET in TDP-43 Proteinopathies",
+      "titleZh": "待复核翻译：[18F]ACI-19626 PET in TDP-43 Proteinopathies",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 13,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT06891716"
+    },
+    {
+      "id": "trial-NCT04875416",
+      "title": "Phenotype, Genotype and Biomarkers 2",
+      "titleZh": "Phenotype, Genotype and 生物标志物s 2",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01849770"
+      "url": "https://clinicaltrials.gov/study/NCT04875416"
     },
     {
-      "id": "trial-NCT02980380",
-      "title": "Brain Computer Interface Complete locked-in State Communication",
-      "titleZh": "待复核翻译：Brain Computer Interface Complete locked-in State Communication",
-      "category": "临床试验",
-      "evidenceLevel": "临床试验注册",
-      "relevanceScore": 4,
-      "relevanceFlag": "medium",
-      "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02980380"
-    },
-    {
-      "id": "trial-NCT01154283",
-      "title": "Study of Standard Noninvasive Positive Pressure Ventilation (NIPPV) and Low Expiratory Pressure NIPPV in ALS Patients",
-      "titleZh": "待复核翻译：Study of Standard Noninvasive Positive Pressure Ventilation (NIPPV) and Low Expiratory Pressure NIPPV in ALS Patients",
+      "id": "trial-NCT07618585",
+      "title": "Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
+      "titleZh": "待复核翻译：Safety and Efficacy of Intrathecal NTF001 Injection in ALS",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 11,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT01154283"
+      "url": "https://clinicaltrials.gov/study/NCT07618585"
     },
     {
-      "id": "trial-NCT02874209",
-      "title": "Noninvasive Assessment of Neuronal Damage by MRI Sodium ( 23Na ) in Amyotrophic Lateral Sclerosis",
-      "titleZh": "Noninvasive Assessment of Neuronal Damage by MRI Sodium ( 23Na ) in 肌萎缩侧索硬化症",
+      "id": "trial-NCT04490148",
+      "title": "Remote Pulmonary Function Testing and Nurse Coaching in ALS",
+      "titleZh": "待复核翻译：Remote Pulmonary Function Testing and Nurse Coaching in ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 6,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04490148"
+    },
+    {
+      "id": "trial-NCT05764434",
+      "title": "ALS Spinal Cord Gray and White Matter Study",
+      "titleZh": "待复核翻译：ALS Spinal Cord Gray and White Matter Study",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT05764434"
+    },
+    {
+      "id": "trial-NCT04322149",
+      "title": "Multiple Doses of AT-1501-A201 in Adults With ALS",
+      "titleZh": "待复核翻译：Multiple Doses of AT-1501-A201 in Adults With ALS",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT04322149"
+    },
+    {
+      "id": "trial-NCT03613038",
+      "title": "A Systematic Investigation of Phonetic Complexity Effects on Articulatory Motor Performance in Progressive Dysarthria",
+      "titleZh": "待复核翻译：A Systematic Investigation of Phonetic Complexity Effects on Articulatory Motor Performance in Progressive Dysarthria",
       "category": "临床试验",
       "evidenceLevel": "临床试验注册",
       "relevanceScore": 9,
       "relevanceFlag": "high",
       "priority": "high",
-      "url": "https://clinicaltrials.gov/study/NCT02874209"
+      "url": "https://clinicaltrials.gov/study/NCT03613038"
+    },
+    {
+      "id": "trial-NCT02460679",
+      "title": "Safety and Biomarker Study of EPI-589 in Participants With Amyotrophic Lateral Sclerosis (ALS)",
+      "titleZh": "Safety and 生物标志物 Study of EPI-589 in Participants With 肌萎缩侧索硬化症 (ALS)",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 11,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT02460679"
+    },
+    {
+      "id": "trial-NCT03892863",
+      "title": "Repetitive Transcranial Magnetic Stimulation as Therapy for Depression in Amyotrophic Lateral Sclerosis",
+      "titleZh": "Repetitive Transcranial Magnetic Stimulation as Therapy for Depression in 肌萎缩侧索硬化症",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT03892863"
+    },
+    {
+      "id": "trial-NCT00015444",
+      "title": "Screening and Natural History: Primary Lateral Sclerosis and Related Disorders",
+      "titleZh": "待复核翻译：Screening and Natural History: Primary Lateral Sclerosis and Related Disorders",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 4,
+      "relevanceFlag": "medium",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT00015444"
+    },
+    {
+      "id": "trial-NCT01955369",
+      "title": "Amyotrophic Lateral Sclerosis Registry Rhineland-Palatinate",
+      "titleZh": "肌萎缩侧索硬化症 Registry Rhineland-Palatinate",
+      "category": "临床试验",
+      "evidenceLevel": "临床试验注册",
+      "relevanceScore": 9,
+      "relevanceFlag": "high",
+      "priority": "high",
+      "url": "https://clinicaltrials.gov/study/NCT01955369"
     }
   ],
   "failedSources": [],
   "issueCounts": {
-    "疑似误收": 10,
+    "疑似误收": 9,
     "缺标识符": 2,
-    "缺摘要": 15,
-    "高优先级待复核": 16,
+    "缺摘要": 12,
+    "高优先级待复核": 17,
     "来源失败": 0
   },
   "reviewCounts": {
-    "待复核": 44
+    "待复核": 41
   },
   "relevanceCounts": {
     "high": 25,
-    "medium": 9,
-    "low": 10
+    "medium": 7,
+    "low": 9
   }
 }

@@ -1,14 +1,48 @@
 {
-  "updatedAt": "2026-11-24T05:58:08.931Z",
+  "updatedAt": "2026-11-25T04:52:45.171Z",
   "period": {
     "days": 10,
-    "from": "2026-11-15",
-    "to": "2026-11-24"
+    "from": "2026-11-16",
+    "to": "2026-11-25"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 31,
+  "count": 32,
   "articles": [
+    {
+      "id": "pmid-43076871",
+      "pmid": "43076871",
+      "doi": "10.1093/brain/awag403",
+      "title": "Motor neuron disease due to a novel PIK3R1 mutation.",
+      "abstract": "Mutations in PIK3R1, which encodes the regulatory subunit (p85α) of class I phosphoinositide 3-kinase (PI3K), are associated with immunologic and developmental disorders, but their effects on the nervous system have not been studied. We identified a novel heterozygous frameshift mutation (PIK3R1 c.1710dup) in a patient with common variable immunodeficiency who developed adult-onset, slowly progressive ALS-like motor-neuron disease. Studies of patient-derived induced pluripotent stem cells (iPSCs) demonstrated PIK3R1 haploinsufficiency with selective AKT activation. Investigation of patient's iPSC-derived motor neurons (iMNs) showed reduced neuronal electrical activity, and markedly increased apoptosis. Single-cell RNA sequencing revealed coordinated up-regulation of differentiation and apoptosis programs across neuronal and glial clusters. Engineering the PIK3R1 c.1710dup mutation into healthy-control iPSCs reproduced the impaired electrical activity, increased apoptosis, and transcriptional vulnerability, confirming the variant's cell-intrinsic pathogenicity. In contrast, introduction of canonical APDS2-associated PIK3R1 splice mutations into the same genetic background did not produce these abnormalities, establishing a variant-class-specific mechanism of PI3K dysfunction. Together, these findings define PIK3R1 c.1710dup as a distinct pathogenic variant that links PI3K-pathway dysregulation to human motor-neuron degeneration and expands the mechanistic spectrum of PIK3R1-associated disease.",
+      "journal": "Brain : a journal of neurology",
+      "authors": [
+        "Calco B",
+        "Sweeney CL",
+        "Steiner J",
+        "Wang T",
+        "Markowitz TE",
+        "Ghosh R",
+        "Paul S",
+        "Palicha B",
+        "Dinges SS",
+        "Yoo K",
+        "Henderson L",
+        "McDonald V",
+        "De Ravin SS",
+        "Greenberg B",
+        "Zerbe CS",
+        "Notarangelo LD",
+        "Holland SM",
+        "Nath A",
+        "Safavi F"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076871/"
+    },
     {
       "id": "pmid-43071439",
       "pmid": "43071439",
@@ -21,7 +55,6 @@
         "Novikova L"
       ],
       "publicationTypes": [
-        "Journal Article",
         "Editorial"
       ],
       "publishedAt": "2026-11-23",
