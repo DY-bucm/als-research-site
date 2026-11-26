@@ -1,14 +1,111 @@
 {
-  "updatedAt": "2026-11-25T04:52:45.171Z",
+  "updatedAt": "2026-11-26T04:07:40.427Z",
   "period": {
     "days": 10,
-    "from": "2026-11-16",
-    "to": "2026-11-25"
+    "from": "2026-11-17",
+    "to": "2026-11-26"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 32,
+  "count": 29,
   "articles": [
+    {
+      "id": "pmid-43081733",
+      "pmid": "43081733",
+      "doi": "10.1080/21678421.2026.2752343",
+      "title": "Current rehabilitation approaches in ALS/MND and use of digital health technology; an international survey of occupational therapists and physiotherapists.",
+      "abstract": "Occupational Therapists (OTs) and Physiotherapists (PTs) provide rehabilitation at all stages of amyotrophic lateral sclerosis (ALS)/motor neurone disease (MND), but research is limited on current rehabilitation practice. In particular, little is known about digital health technology use, which is increasingly available in healthcare. This international online survey investigated current rehabilitation practices and digital health technology use among OTs and PTs. A 46-question survey consisting of open- and closed-ended questions targeted OTs and PTs through professional bodies, special interest groups, and social media. Questions explored symptom management, treatment strategies, and digital health technology use in ALS/MND. Quantitative data were analyzed primarily using descriptive statistics, while open-ended questions were qualitatively analyzed using thematic analysis. There were 240 responses from 16 countries (OTs = 85; PTs = 155). Respondents worked in ALS/MND for a median of 8 years (IQR 11). Fatigue (61.3%) and spasticity (45%) were the top symptoms often/always managed by respondents. OTs more frequently managed cognition, with PTs more frequently managing cough and secretions, pain, and prescribed exercise (stretches, strengthening, and aerobic). The majority (89%, n = 213) screened for falls. Only a minority (27%, n = 65) used digital health technology in ALS/MND. This survey investigated the current rehabilitation approaches and digital health technology use among OTs and PTs in ALS/MND. The survey confirmed the diverse and varied roles of OTs and PTs, with overlap in fatigue and spasticity management. Digital health technology use was low among OTs and PTs. These findings can inform future research into rehabilitation practices among OTs and PTs and digital health technologies development in ALS/MND.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Mc Tague A",
+        "Doyle L",
+        "Walls M",
+        "Murray D",
+        "Galvin M",
+        "Hardiman O",
+        "Meldrum D"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081733/"
+    },
+    {
+      "id": "pmid-43008331",
+      "pmid": "43008331",
+      "doi": "10.1088/1741-2552/aec049",
+      "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
+      "abstract": "Objective. Achieving long-term decoding stability is a critical challenge for chronic intracranial brain-computer interfaces (BCIs). High-gamma (HG) activity from intracranial recordings is the standard signal for BCI control, and lower-frequency features can enhance HG decoding performance. This study evaluated the longitudinal stability of speech and hand-grasp detection models using individual and joint spectral features, and the local motor potential (LMP). Approach. Longitudinal data from a single participant implanted with two 64-channel electrocorticographic arrays were used to evaluate the long-term stability of logistic regression models for speech and hand-grasp detection. Models were trained on individual frequency bands and on the LMP, a time-domain low-frequency feature, and evaluated over 21 months for speech and 13 months for grasp. The best-performing band features were then combined into multi-band models and analyzed for their spatial contributions. Main Results. The LMP yielded the most accurate single feature models in both tasks (speech 93.8%, grasp 99.4%) and showed little or no decline. Multi-band models combining HG with lower frequency bands were substantially more stable than HG-only models and outperformed the LMP models for speech but not grasp. HG accuracy degraded strongly for both tasks (speech:-4.3 percentage points per 100 days, or pp/100 d, grasp:-3.4 pp/100 d). HG+beta for speech showed a negligible decline (0.5 pp/100 d, 95.60.06% overall), and for grasp, delta alone showed remarkable stability (+0.5 pp/100 d), while HG+beta+delta maintained 98.20.09% overall accuracy with flat performance (+0.0 pp/100 d). The advantage of the multi-band models increased over time, reaching +20.6 pp for speech and +10.2 pp for grasp in the last 100 days. Significance. Incorporating lower-frequency neural activity yields more stable long-term speech and grasp detection than HG alone. These findings indicate that lower-frequency and multi-band features may reduce recalibration requirements for simple BCI tasks, and may complement the precision control provided by HG activity. Clinical Trial Information. ClinicalTrials.gov, registration number NCT03567213.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Wallner JJ",
+        "Angrick M",
+        "Luo S",
+        "Candrea D",
+        "Crone NE",
+        "Krusienski DJ"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "publishedAt": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008331/"
+    },
+    {
+      "id": "pmid-43081698",
+      "pmid": "43081698",
+      "doi": "10.1080/21678421.2026.2758563",
+      "title": "Prevalence of C9orf72 hexanucleotide repeat expansions in a Mexican cohort of sporadic and familial amyotrophic lateral sclerosis.",
+      "abstract": "Objective: Pathological hexanucleotide repeat expansions (HRE) in the C9orf72 gene (≥30 repeats) are one of the most common genetic causes of amyotrophic lateral sclerosis (ALS) in European and North American populations. However, there is limited data on the size and distribution of C9orf72 HRE in admixed populations such as those found in Latin America. In this study, we sought to characterize the role of C9orf72 HRE in a Mexican cohort with ALS. Methods: Peripheral blood samples were obtained from participants of Mexican ancestry attending a multidisciplinary ALS clinic in Northern Mexico ( n = 102) and healthy neurological controls ( n = 75). We performed high-resolution repeat-primed PCR to determine the size and distribution of HRE per allele across both groups. In addition, we used two-sample Kolmogorov-Smirnov tests to compare allele-level HRE repeat size distributions between ALS cases, healthy controls and a comparative external dataset. Results: We identified three patients (2.9%) carrying pathological C9orf72 repeat expansions, of which two had a family history of ALS and asymptomatic family members with pathological C9orf72 expansions. Notably, all three patients originated from the same region in Northern Mexico. Kolmogorov-Smirnov testing did not identify statistically significant differences between ALS cases, healthy controls, and a comparative dataset. Conclusions: Our findings suggest that pathological C9orf72 expansions may not be a common genetic variant in this population. Additional studies are needed to confirm this observation, as well as determine whether regional genetic variation may play an important role in genetic risk stratification, particularly in admixed ALS populations.",
+      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "authors": [
+        "Villalobos-Loredo M",
+        "Pons-Monnier GK",
+        "Martin Del Campo N",
+        "Mendiola-Garza G",
+        "Zarza-Gonzalez EA",
+        "Sanchez-Varela C",
+        "Frey-Leon E",
+        "Del Real Villa PA",
+        "Ortiz-Lopez R",
+        "Rojas-Martinez A",
+        "Martinez-Vazquez M",
+        "Moreno-Hoyos JF",
+        "Martinez HR",
+        "Cuevas-Diaz Duran R"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081698/"
+    },
+    {
+      "id": "pmid-43080154",
+      "pmid": "43080154",
+      "doi": "10.1242/jcs.265127",
+      "title": "TIP60-mediated acetylation remodels pathological FUS condensates and promotes lysosome-dependent clearance.",
+      "abstract": "Phase separation and pathological cytoplasmic accumulation of FUS mutants are central features of FUS-associated amyotrophic lateral sclerosis (ALS); yet, the mechanisms that regulate FUS mutant condensate dynamics and efficient clearance remain largely unclear. Here, we identify the lysine acetyltransferase TIP60 as a selective modifier of FUS mutant condensates. TIP60 preferentially associated with FUS R495X mutant condensates and reduced the condensate formation, while having minimal effects on wild-type FUS. TIP60 activation promoted FUS R495X degradation predominantly through the lysosome-dependent pathway. Acetylation proteomics identified FUS K312 as the major site acetylated by TIP60. Acetylation mimicry at K312 suppressed aberrant FUS R495X phase separation, accelerated lysosome-dependent clearance of aggregated FUS R495X, and attenuated FUS R495X-induced cytotoxicity. These findings suggest that TIP60 activation as a potential therapeutic strategy for FUS-associated ALS.",
+      "journal": "Journal of cell science",
+      "authors": [
+        "Wei P",
+        "Liu M",
+        "Shang Z",
+        "Zhou C",
+        "Wang Q",
+        "Niu S",
+        "Zheng Y",
+        "Jia D",
+        "Zhao L"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080154/"
+    },
     {
       "id": "pmid-43076871",
       "pmid": "43076871",
@@ -42,6 +139,26 @@
       ],
       "publishedAt": "2026-11-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43076871/"
+    },
+    {
+      "id": "pmid-43078335",
+      "pmid": "43078335",
+      "doi": "10.1016/j.expneurol.2026.116138",
+      "title": "Persistent bilateral STAU1 elevation accompanies increases in p62, GFAP, and phosphorylated tau after traumatic brain injury.",
+      "abstract": "Traumatic brain injury (TBI) is a major cause of long-term neurological disability and increases the risk of neurodegeneration and post-traumatic epileptogenesis. However, the molecular mechanisms responsible for sustained secondary injury and network dysfunction beyond the initial impact remain poorly understood. Staufen-1 (STAU1), an RNA-binding protein that controls mRNA decay, trafficking, and localization to subcellular compartments, is pathologically overabundant in multiple neurodegenerative disease models, including amyotrophic lateral sclerosis, dementia, and ataxias. Whether STAU1 abundance is altered following moderate controlled cortical impact (CCI), and whether these changes occur alongside increases in p62/SQSTM1, glial fibrillary acidic protein (GFAP), and phosphorylated tau, remains unknown. Here, using Western blot analyses, we found that STAU1 is persistently elevated in both the ipsilateral hemisphere, including the injury and perilesional regions, and the contralateral cerebrum at 48-h, 1-week, and 1-month post-injury. These increases are accompanied by accumulation of the autophagy adaptor protein p62/SQSTM1, which may suggest changes in p62 synthesis, degradation, or autophagic cargo burden. In parallel, glial fibrillary acidic protein levels as well as phosphorylated tau levels are elevated bilaterally and remain increased 1-month after injury. Together, these findings show a persistent overaccumulation of STAU1 protein levels at several acute time points from 48-h through 1-month after TBI, the first evidence of a previously overlooked factor in the evolving molecular architecture after brain injury. The combination of elevated STAU1, p62, gliosis, and phosphorylated tau in our TBI model provides a basis for future studies on whether STAU1 contributes to injury-associated changes in protein homeostasis and neurological dysfunction, including post-traumatic epilepsy.",
+      "journal": "Experimental neurology",
+      "authors": [
+        "Paul S",
+        "Edmond MA",
+        "Pulst SM",
+        "Scoles DR",
+        "Sawant-Pokam PA"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078335/"
     },
     {
       "id": "pmid-43071439",
@@ -568,234 +685,6 @@
       ],
       "publishedAt": "2026-11-17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43041155/"
-    },
-    {
-      "id": "pmid-43037476",
-      "pmid": "43037476",
-      "doi": "10.1159/fpl/acvag028",
-      "title": "Association of Dysphagia Risk and Nutritional Status with Caregiver Burden and Quality of Life in Amyotrophic Lateral Sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that leads to significant functional decline, including dysphagia and malnutrition. These complications not only affect disease progression but may also influence caregiver well-being. However, studies simultaneously examining the associations among dysphagia risk, nutritional status, caregiver burden, and caregiver quality of life remain limited, particularly in Türkiye. This study aimed to investigate the associations of dysphagia risk and nutritional status with disease severity, caregiver burden, and caregiver quality of life in individuals with ALS. This cross-sectional study included 60 individuals diagnosed with ALS and their 60 primary caregivers, recruited through an ALS association's social media platforms. Assessments were conducted online via videoconferencing. Disease severity was evaluated using the ALS Functional Rating Scale-Revised (ALSFRS-R). Dysphagia risk was screened using the Eating Assessment Tool (EAT-10;cut-off ≥3), and nutritional status was assessed using the Mini Nutritional Assessment (MNA). Caregiver burden was measured with the Zarit Caregiver Burden Scale (ZCBS), and caregiver quality of life was assessed using the Short Form-36 (SF-36). Multiple linear regression models adjusted for ALSFRS-R score, caregiver age, and caregiver sex were used to examine independent associations, with Holm and false discovery rate corrections for multiple comparisons. The mean ALSFRS-R score was 15.0 ± 12.6, indicating a predominantly advanced-stage sample. Fifty-one participants (85%) screened positive for dysphagia risk (EAT-10 ≥3). According to the MNA, 60% were malnourished and 30% were at risk of malnutrition. After adjustment for ALSFRS-R score, caregiver age, and caregiver sex, higher EAT-10 scores (β = 0.40, pHolm = 0.007) and lower MNA scores (β =-0.42, pHolm = 0.007) were independently associated with greater caregiver burden, each explaining 11-12% of additional variance, whereas ALSFRS-R score was no longer significantly associated with burden. Both variables were also independently associated with caregiver vitality, mental health, bodily pain, and general health (q < 0.05). Dysphagia risk and poorer nutritional status in individuals with ALS were associated with greater caregiver burden and reduced caregiver quality of life independently of overall disease severity. However, these associations should be interpreted cautiously given the cross-sectional design and the predominantly advanced-stage sample. These findings suggest that routine dysphagia screening and nutritional monitoring within multidisciplinary ALS care may be relevant not only for patient management but also for supporting caregiver well-being. Longitudinal studies using dysphagia-specific caregiver measures are needed to clarify the direction of these associations.",
-      "journal": "Folia phoniatrica et logopaedica : official organ of the International Association of Logopedics and Phoniatrics (IALP)",
-      "authors": [
-        "Ülgen E",
-        "Parlak MM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037476/"
-    },
-    {
-      "id": "pmid-43038449",
-      "pmid": "43038449",
-      "doi": "10.1073/pnas.2534149123",
-      "title": "Chondroitin sulfate proteoglycan 4 participates in the internalization of arginine-rich dipeptide repeat proteins.",
-      "abstract": "Microsatellite repeat expansion of the 5' GGGGCC 3' sequence in the C9orf72 gene is the most common monogenic form of amyotrophic lateral sclerosis and frontotemporal dementia. Dipeptide repeat proteins (DPRs) translated from the mutant allele can be detected in postmortem brains of afflicted individuals. The arginine containing peptides, poly proline-arginine (poly-PR) and poly glycine-arginine (poly-GR), are particularly noxious to cells. Both can undergo cell-to-cell transmission, but underlying mechanisms are not understood. We found rapid internalization and nucleolar localization of bath-applied hemagglutinin (HA) tagged poly-PR with twenty repeats (HA-PR 20 ) in cell lines and neurons. Small molecule and RNAi approaches implicated a temperature-dependent, fluid phase endocytosis mechanism for HA-PR 20 . We sought to identify DPR-related cell surface uptake factors using µMap high-resolution proximity labeling. DPR-iridium conjugates identified candidate cell-surface proteins which were interrogated in a secondary RNAi screen. Focusing on our strongest candidate, chondroitin sulfate proteoglycan 4 (CSPG4), we showed cellular uptake of HA-PR 20 is reduced by inhibition of glycosaminoglycan chain synthesis and knockdown or ablation of CSPG4. Knockdown of CSPG4 protected PR 20 -induced neuronal toxicity. Using a dual reporter system to interrogate in vitro neuron-to-neuron transmission of PR 50, we found PR 50 synthesized by one neuron readily spread to neighboring cells. Transmission was significantly reduced with CSPG4 knockdown. Similarly conditioned media from PR 50 or GR 50 expressing neurons contained transmissible protein that was internalized into neurons in a CSPG4-dependent manner. These results suggest CSPG4 participates in poly-PR/poly-GR internalization and transmission.",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "authors": [
-        "Sutter AB",
-        "Buksh BF",
-        "Mojsilovic-Petrovic J",
-        "Dalton C",
-        "Till NA",
-        "Morgan DC",
-        "Krishnan G",
-        "Kaspi E",
-        "MacMillan DWC",
-        "Kalb RG"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038449/"
-    },
-    {
-      "id": "pmid-43038882",
-      "pmid": "43038882",
-      "doi": "10.1016/j.ecoenv.2026.121062",
-      "title": "Elevated concentrations of 78 Se and 208 Pb isotopes in cerebrospinal fluid but not in blood plasma from patients with amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a progressive neurodegenerative disorder characterized by motor neuron degeneration and muscle atrophy, ultimately leading to death through respiratory failure. In addition to genetic factors, environmental exposures have been investigated as potential ALS risk factors. Elevated concentrations of cadmium, lead and selenium have previously been detected in cerebrospinal fluid (CSF) and blood from ALS patients, suggesting an association between metal dysregulation and disease progression. Here, we conducted a detailed analysis of CSF and blood plasma from seven ALS patients and seven healthy controls, where samples were collected using ultraclean techniques. Inductively coupled plasma mass spectrometry (ICP-MS) was used to measure isotopes of a wide range of elements. Significantly higher concentrations of 208 Pb and 78 Se (p < 0.01) were recorded in CSF but not in plasma of ALS patients compared to controls. Interestingly, no significant differences were observed for the 206 Pb and 207 Pb isotope concentrations as such. However, the 208 Pb/ 207 Pb ratio was elevated in CSF of ALS cases compared to controls, which might be due to biological isotope fractionation, or exposure to lead from different geological sources. Taken together, our data supports previous reports of Pb and Se contributing to ALS pathogenesis. The results also suggest that investigating metal dyshomeostasis at the isotope level can improve understanding of disease pathologies, especially for conditions and diseases where metal exposure is a risk factor.",
-      "journal": "Ecotoxicology and environmental safety",
-      "authors": [
-        "Smirnova J",
-        "Noormägi A",
-        "Berntsson E",
-        "Harris RA",
-        "Wärmländer SKTS",
-        "Gräslund A",
-        "Palumaa P",
-        "Roos PM"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038882/"
-    },
-    {
-      "id": "pmid-42946691",
-      "pmid": "42946691",
-      "doi": "10.1080/15548627.2026.2754683",
-      "title": "Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.",
-      "abstract": "Excess lipid accumulation and a sedentary lifestyle are associated with metabolic dysfunction-associated fatty liver disease (MAFLD), but the causal mechanisms and preventive methods are not fully understood. Macroautophagy/autophagy is a lysosomal degradation pathway robustly induced by exercise and plays a key role in lipid metabolism. Understanding the mechanisms by which exercise activates autophagy and elicits metabolic benefits in the liver will provide important insights into the pathogenesis of MAFLD. Here, we discovered negative correlations between expression and lactylation of WDR41 (WD repeat domain 41) and pathogenesis of a series of human hepatic metabolic diseases. We found that WDR41 was a pro-autophagy protein that underwent lactylation in response to autophagy-inducing conditions, such as exercise. WDR41 was lactylated at lysine 319 (K319), a modification facilitated by LDHA (lactate dehydrogenase A) upon autophagy induction, and delactylated by SIRT2 (sirtuin 2). Lactylated WDR41 promoted autophagy initiation by directly interacting with the autophagy proteins ATG13 (autophagy related 13) and RB1CC1/FIP200 (RB1 inducible coiled-coil 1) and driving the ULK1 (unc-51 like autophagy activating kinase 1) complex assembly. Physiologically, WDR41 and WDR41 K319 lactylation, were important for exercise-induced improvements in insulin sensitivity and lipid metabolism against excess lipid accumulation in the liver. Thus, we demonstrated that WDR41 lactylation at K319 is an important regulatory mechanism by which exercise regulates autophagy and hepatic glucose and lipid metabolism. Abbreviations: AV: adeno-associated virus; ALS: amyotrophic lateral sclerosis; ALT: alanine aminotransferase; AMPK: AMP-activated protein kinase; ANOVA: analysis of variance; AST: aspartate aminotransferase; ATG13: autophagy related 13; BECN1: beclin 1; C9orf72: C9orf72-SMCR8 complex subunit; cDNA: complementary DNA; co-IP: co-immunoprecipitation; CQ: chloroquine; CRISPR: clustered regularly interspaced short palindromic repeats; EBSS: Earle's balanced salt solution; EE: energy expenditure; FN1/fibronectin: fibronectin 1; FTD: frontotemporal dementia; GAP: GTPase-activating protein; GEF: guanine nucleotide exchange factor; GFP: green fluorescent protein; gRNA: guide RNA; GST: glutathione S-transferase; GTT: glucose tolerance test; H&E: hematoxylin and eosin; HDAC: histone deacetylase; HFD: high-fat diet; i.p.: intraperitoneal; IP: immunoprecipitation; ITT: insulin tolerance test; KO: knockout; LC-MS/MS: liquid chromatography-tandem mass spectrometry; LDHA: lactate dehydrogenase A; MAFLD: metabolic dysfunction-associated fatty liver disease; MAP1LC3B/LC3B: microtubule associated protein 1 light chain 3 beta; MASH: metabolic dysfunction-associated steatohepatitis; mRFP: monomeric red fluorescent protein; MS: mass spectrometry; MS/MS: tandem mass spectrometry; MTOR: mechanistic target of rapamycin kinase; NAS: NAFLD activity score; PBS: phosphate-buffered saline; PCR: polymerase chain reaction; PIK3C3/VPS34: phosphatidylinositol 3-kinase catalytic subunit type 3; PTT: pyruvate tolerance test; PVDF: polyvinylidene fluoride; RB1CC1/FIP200: RB1 inducible coiled-coil 1; RD: regular diet; RER: respiratory exchange ratio; SDS: sodium dodecyl sulfate; SDS-PAGE: sodium dodecyl sulfate-polyacrylamide gel electrophoresis; SEM: standard error of the mean; siRNA: small interfering RNA; SIRT2: sirtuin 2; SMCR8: SMCR8-C9orf72 complex subunit; SQSTM1/p62: sequestosome 1; STING1: stimulator of interferon response cGAMP interactor 1; TBG: thyroxine-binding globulin; TC: total cholesterol; TG: triglyceride; ULK1: unc-51 like autophagy activating kinase 1; ULK2: unc-51 like autophagy activating kinase 2 ; UN: untreated; VCO 2 : carbon dioxide production; VO 2 : oxygen consumption; WB: western blotting; WDR41: WD repeat domain 41; WT: wild type.",
-      "journal": "Autophagy",
-      "authors": [
-        "Ouyang Q",
-        "Liang P",
-        "Zhang H",
-        "Zhang Q",
-        "Liao H",
-        "Nie C",
-        "Kuramoto K",
-        "Zhang C",
-        "Ji D",
-        "Ren F",
-        "He C",
-        "Liu R"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42946691/"
-    },
-    {
-      "id": "pmid-43038492",
-      "pmid": "43038492",
-      "doi": "10.1212/WNL.0000000000218712",
-      "title": "Expanding Amyotrophic Lateral Sclerosis Genetic Spectrum via Systematic Screening of Adult-Onset Neurologic Disease Genes.",
-      "abstract": "Emerging evidence indicates that amyotrophic lateral sclerosis (ALS) shares genetic architecture with other neurologic disorders, whose causal variants may be overlooked by targeted sequencing. Here, we evaluated the occurrence of pathogenic variants in genes linked to adult-onset neurologic disorders among individuals with ALS. Short-read WGS was performed in retrospectively collected ALS (Gold Coast criteria) and primary lateral sclerosis (PLS) (consensus diagnostic criteria) patients consecutively recruited at an Italian tertiary referral center (2013-2023), extensively phenotyped to exclude mimics. Pathogenic or likely pathogenic single-nucleotide variants/indels (American College of Medical Genetics and Genomics guidelines) and short tandem repeat expansions across 453 genes, including established ALS genes and other neurodegenerative disease genes, were systematically screened and validated. C9orf72 expansions (>30 repeats) were routinely screened by fragment analysis and repeat-primed PCR. A total of 856 patients with ALS and PLS (median age at onset 61.8 years, 38.5% women) were enrolled. Among them, 168 (19.6%) carried pathogenic or likely pathogenic variants or short tandem repeat expansions in genes associated with adult-onset neurologic disorders, mostly autosomal dominant. Of these, 41 (4.8% of the cohort) harbored variants in non-ALS/frontotemporal dementia (FTD) genes (ataxias, neuropathies, myopathies, movement disorders, mitochondrial diseases, and hereditary spastic paraplegia [HSP]). Repeat expansions accounted for 11.9% of cases, while 0.6% carried both sequence variants and repeat expansions. Family history of ALS/FTD ( p = 2.132e-06), other neurodegenerative disorders ( p = 0.0006934), and earlier age at onset ( p = 0.024) were enriched among variant carriers. Variants in genes associated with upper motor neuron (UMN) involvement (ataxias/HSP) did not predict an UMN-predominant phenotype (odds ratio 1.54, 95% CI 0.39-6.07, p = 0.54), while the association between neuropathy/myopathy genes and a lower motor neuron-predominant phenotype was not statistically estimable. Beyond established ALS pathways, enrichment was observed in mitochondrial, metabolic, and proteostasis pathways (false discovery rate ≤0.05). Although the absence of a control cohort limits assessment of variant enrichment, the identification of pathogenic or likely pathogenic variants in genes associated with adult-onset neurologic disorders other than ALS/FTD in patients with ALS supports the inclusion of broader gene panels to advance precision medicine in ALS.",
-      "journal": "Neurology",
-      "authors": [
-        "Manini A",
-        "Spagliardi J",
-        "Brusati A",
-        "Pensato V",
-        "Leoni S",
-        "Peverelli S",
-        "Magri S",
-        "Scacciatella G",
-        "Morelli C",
-        "Maranzano A",
-        "Gagliardi D",
-        "Gentilini D",
-        "Doretti A",
-        "Verde F",
-        "Lauria Pinter G",
-        "Comi GP",
-        "Corti SP",
-        "Silani V",
-        "Keagle PJ",
-        "Ratti A",
-        "Landers JE",
-        "Gellera C",
-        "Ticozzi N"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038492/"
-    },
-    {
-      "id": "pmid-43038487",
-      "pmid": "43038487",
-      "doi": "10.1212/WNL.0000000000218784",
-      "title": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
-      "abstract": "Blood-based biomarkers (BBMs), especially plasma tau phosphorylated at threonine 217 (p-tau217), could scale Alzheimer disease (AD) clinical-biological diagnosis, but clinical use requires thresholds transferable across laboratories and populations. We compared Lumipulse p-tau217 with other BBMs; evaluated amyloid-anchored thresholds across centers, analyzers, reagent lots, and clinical populations; and assessed second-line CSF adjudication of gray zone results. This multicenter, cross-sectional diagnostic-classification study included an exploratory Brussels cohort and 3 external validation cohorts. Brussels participants were cognitively unimpaired or impaired and had Aβ status determined by amyloid-PET or CSF Aβ42 and tau status by tau-PET or CSF p-tau181. Validation cohorts comprised consecutive Paris memory-clinic patients, patients with early-onset neurodegenerative dementia in Bordeaux, and individuals with monogenic frontotemporal lobar degeneration (FTLD). Plasma p-tau217 was measured locally on Lumipulse analyzers. BBMs and ratios were compared using receiver operating characteristic (ROC) analyses. In Brussels, a Youden cutoff and dual 95% or 97.5% sensitivity/specificity cutoffs were derived; intermediate values defined gray zones. Among 411 participants (mean age 70.5 years; 51.6% female), p-tau217 showed the best diagnostic performance; p-tau217/Aβ42 did not improve performance or reduce gray zones. In Brussels, p-tau217 discriminated Aβ+ from Aβ- status (AUC 0.96, 95% CI 0.93-0.98; p < 0.0001). The 0.193 pg/mL Youden cutoff (95% CI 0.178-0.213) yielded 91.5% sensitivity (95% CI 84.7-95.5) and 91.6% specificity (95% CI 84.8-95.5) and detected neocortical tau-PET positivity with 98.5% sensitivity and 81.8% specificity. In Paris, sensitivity/specificity for clinical-biological AD were 93.2% (95% CI 85.1-97.1)/93.0% (95% CI 81.4-97.6); in Bordeaux, sensitivity/specificity for clinical-biological AD were 95.7% (95% CI 79.0-99.2)/92.3% (95% CI 66.7-98.6). Specificity in monogenic FTLD was 88.4% (95% CI 75.5-94.9). False-positive classifications were enriched in FTLD with amyotrophic lateral sclerosis (ALS). Dual thresholds yielded gray zones in 15.4%-24.8% of Paris patients; second-line CSF testing resolved 86.2%-88.9% of gray zone cases. Lumipulse plasma p-tau217 thresholds were transferable across centers, analyzers, reagent lots, and heterogeneous clinical populations, supporting evaluation of plasma-first pathways with confirmatory testing for gray zone values. Values below 0.193 pg/mL made neocortical tauopathy unlikely. Limitations include cross-sectional design, specialized Western European recruitment, unavailable race/ethnicity data, heterogeneous reference standards, incomplete AD copathology adjudication in monogenic FTLD, and no cross-platform comparison.",
-      "journal": "Neurology",
-      "authors": [
-        "Bayart JL",
-        "Villain N",
-        "Planche V",
-        "Boyer E",
-        "Colmant L",
-        "Le Ber I",
-        "Picard G",
-        "Clot F",
-        "Bombois S",
-        "El Mazria H",
-        "Dingeo G",
-        "Bahroun S",
-        "Nabeebaccus F",
-        "Huyghe L",
-        "Gérard T",
-        "Quenon L",
-        "Salman Y",
-        "Durand E",
-        "Bedel A",
-        "Auriacombe S",
-        "Lhommel R",
-        "David C",
-        "Kienlen-Campard P",
-        "Ivanoiu A",
-        "Douxfils J",
-        "Levy R",
-        "Lamari F",
-        "Hanseeuw BJ"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038487/"
-    },
-    {
-      "id": "pmid-43037734",
-      "pmid": "43037734",
-      "doi": "10.1007/s00335-026-10292-7",
-      "title": "Taurine metabolism: a potential target for neuroprotection in age-related neurodegenerative diseases.",
-      "abstract": "Taurine is one of the most abundant free amino acids in mammals and plays essential roles in cellular homeostasis, mitochondrial function, calcium regulation and neuronal survival. Taurine availability varies markedly across tissues, species and sexes, reflecting the balance between endogenous synthesis, dietary intake, transport and efflux. Although reduced taurine levels have been reported in some aging tissues, recent longitudinal studies indicate that circulating taurine does not decline universally with age, and its value as a biomarker of aging remains debated. Alterations in taurine or its transporter SLC6A6 have been described in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, multiple sclerosis, Huntington's disease and retinal degenerations. Preclinical studies indicate that taurine supplementation mitigates excitotoxicity, stabilizes mitochondrial function, reduces neuroinflammation and supports myelination and synaptic balance. Despite this strong mechanistic rationale, clinical evidence remains limited and heterogeneous, underscoring the need for biomarker-guided trials and a clearer definition of optimal therapeutic windows. In this review, we summarize the general properties of taurine and its metabolic regulation. We examine taurine's neuroprotective properties across different neurodegenerative conditions and discuss future perspectives for targeting taurine metabolism as a promising but largely unexplored strategy for intervention in age-related neurodegenerative diseases.",
-      "journal": "Mammalian genome : official journal of the International Mammalian Genome Society",
-      "authors": [
-        "Daghini E",
-        "Tribble JR",
-        "Amato R",
-        "Brautaset R",
-        "Williams PA"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037734/"
-    },
-    {
-      "id": "pmid-43036915",
-      "pmid": "43036915",
-      "doi": "10.5603/pjnns.113009",
-      "title": "Tofersen in the treatment of SOD1 ALS - a two-year experience from the Polish Early Access Program.",
-      "abstract": "The use of tofersen, an antisense oligonucleotide against SOD1, has been recommended for the treatment of SOD1-ALS by current European guidelines. Before full approval by national health funding agencies, patients received tofersen through the Early Access Program (EAP) and/or as rescue therapy. The aim of the study was to prospectively analyze clinical outcomes and neurofilament light chain (NfL) concentration in patients participating in the EAP in Poland between October 2023 and October 2025. Twenty patients with SOD1-ALS (11 with familial and 9 with sporadic ALS; male:female ratio, 2.2:1) were enrolled in the EAP. They carried 11 SOD1 pathological variants, the most frequent being L145S and K4E. As 1 patient withdrew after the first dose of treatment, data were collected from 19 individuals. The median age at disease onset was 49 years (33-69 years). Disease duration before treatment was 39 months (8-110 months), and the median age at initiation of tofersen treatment was 51 years (39-74 years). The analysis included demographic and genetic data, ALS functional rating scale-revised (ALSFRS- -R), ALS progression rate, forced vital capacity (FVC), adverse events, and NfL concentration in cerebrospinal fluid. The median duration of tofersen treatment was 16 months (7-24 months). ALSFRS-R stabilized or increased in 68% of cases. Median delta ALSFRS-R during the treatment period was 0/month. The overall median progression rate decreased significantly from 0.218/month before treatment to 0.145/month at the last assessment (p < 0.0001). The decrease was observed in all patients, including fast-progressing individuals with continuous functional decline, as well as those with the most benign disease course. Two patients developed respiratory insufficiency, while FVC did not deteriorate in the remaining subjects. NfL concentration decreased in all analyzed patients, with significant reductions after 9 and 14 months. Serious treatment-related adverse events (SAEs) occurred in 3 patients and resolved without clinical consequences in 2 individuals. Two patients died due to disease progression and/or exacerbation of a preexisting condition/SAE. The long-term follow-up data support the clinical efficacy and acceptable safety profile of tofersen treatment and demonstrate a biomarker response reflecting reduced axonal injury in both slow- and fast-progressing SOD1-ALS.",
-      "journal": "Neurologia i neurochirurgia polska",
-      "authors": [
-        "Kuźma-Kozakiewicz M",
-        "Dorobek M",
-        "Gruszczak A",
-        "Zielińska-Turek J",
-        "Bartosik-Psujek H",
-        "Garbacz T",
-        "Żur-Wyrozumska K",
-        "Koziorowski DM",
-        "Dutkiewicz J",
-        "Krzyżanowska EM",
-        "Początek B",
-        "Migacz A",
-        "Koszewicz MA",
-        "Ubysz J",
-        "Szabat K",
-        "Tomicka K",
-        "Student S",
-        "Lasek-Bal A"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43036915/"
     }
   ]
 }
