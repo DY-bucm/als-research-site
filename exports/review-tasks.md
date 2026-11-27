@@ -10,44 +10,44 @@
   - https://pubmed.ncbi.nlm.nih.gov/43038487/
 - [ ] 神经系统疾病中的健康相关生活质量：一项使用真实世界患者报告结局的横断面队列研究 (pmid-43038501)
   - https://pubmed.ncbi.nlm.nih.gov/43038501/
-- [ ] Sephin1 对谷氨酸应激具有保护作用，与对含 GluN2B 的 NMDA 受体的负向变构调节一致 (pmid-43036320)
+- [ ] Sephin1 对谷氨酸应激具有保护作用，与含 GluN2B 的 NMDA 受体负向变构调节一致 (pmid-43036320)
   - https://pubmed.ncbi.nlm.nih.gov/43036320/
 - [ ] 自然杀伤细胞对SOD1 G93A ALS发病机制的贡献有限：来自全面免疫表型分析和Ncr1与Properdin基因缺失的证据 (pmid-43032804)
   - https://pubmed.ncbi.nlm.nih.gov/43032804/
 - [ ] 重金属诱导的神经炎症与神经退行性变中的小胶质细胞扰动：机制、表型可塑性与治疗前景 (pmid-42955216)
   - https://pubmed.ncbi.nlm.nih.gov/42955216/
-- [ ] ALS/MND当前康复方法及数字健康技术的使用：一项针对作业治疗师和物理治疗师的国际调查 (pmid-43081733)
+- [ ] 肌萎缩侧索硬化症患者的体育锻炼干预：一项系统综述与荟萃分析 (pmid-43096161)
+  - https://pubmed.ncbi.nlm.nih.gov/43096161/
+- [ ] [高优先级] 将生物标志物与其在肌萎缩侧索硬化临床试验中的使用场景相匹配：多少证据才算足够？ (pmid-43095897)
+  - https://pubmed.ncbi.nlm.nih.gov/43095897/
+- [ ] 马查多-约瑟夫病伴双上肢肌肉萎缩及广泛肌束颤动：一例病例报告 (pmid-43085940)
+  - https://pubmed.ncbi.nlm.nih.gov/43085940/
+- [ ] [疑似误收] 鼻腔微生物群通过鼻-脑轴参与帕金森病从嗅球到脑的病理过程 (epmc-PMC-PMC13802016)
+  - https://europepmc.org/article/PMC/PMC13802016
+- [ ] [疑似误收] 脂多糖诱导的急性全身性炎症与抑郁样行为及海马EphA4表达增加相关 (epmc-PMC-PMC13801798)
+  - https://europepmc.org/article/PMC/PMC13801798
+- [ ] [疑似误收] 早期乳腺癌女性化疗期间生物电阻抗的变化 (epmc-PMC-PMC13796102)
+  - https://europepmc.org/article/PMC/PMC13796102
+- [ ] [疑似误收] 基于事件的模型诊断报告框架 (epmc-PMC-PMC13796361)
+  - https://europepmc.org/article/PMC/PMC13796361
+- [ ] [疑似误收] 面向多类脑电到文本接口的频率嵌入序列学习 (epmc-PMC-PMC13796307)
+  - https://europepmc.org/article/PMC/PMC13796307
+- [ ] [疑似误收] 健康与疾病中的蛋白酶特征：迈向智能诊断平台 (epmc-PMC-PMC13798297)
+  - https://europepmc.org/article/PMC/PMC13798297
+- [ ] [疑似误收] WJ-MSC ATMP表征的候选预测因子：一个整合机器学习框架 (epmc-PMC-PMC13796962)
+  - https://europepmc.org/article/PMC/PMC13796962
+- [ ] 硒蛋白在神经退行性疾病中作用的最新进展 (pmid-43086515)
+  - https://pubmed.ncbi.nlm.nih.gov/43086515/
+- [ ] 血液转录组分析提示肌萎缩侧索硬化中剪接体机器和先天免疫的基因表达改变 (pmid-43085525)
+  - https://pubmed.ncbi.nlm.nih.gov/43085525/
+- [ ] 待复核翻译：Current rehabilitation approaches in ALS/MND and use of digital health technology; an international survey of occupational therapists and physiotherapists. (pmid-43081733)
   - https://pubmed.ncbi.nlm.nih.gov/43081733/
-- [ ] 墨西哥散发性和家族性肌萎缩侧索硬化队列中C9orf72六核苷酸重复扩增的患病率 (pmid-43081698)
+- [ ] Prevalence of C9orf72 hexanucleotide repeat expansions in a Mexican cohort of sporadic and familial 肌萎缩侧索硬化症. (pmid-43081698)
   - https://pubmed.ncbi.nlm.nih.gov/43081698/
-- [ ] TIP60介导的乙酰化重塑病理性FUS凝聚体并促进溶酶体依赖性清除 (pmid-43080154)
-  - https://pubmed.ncbi.nlm.nih.gov/43080154/
-- [ ] [疑似误收] [高优先级] 较低频率ECoG特征改善进行性ALS患者语音和抓握检测的纵向稳定性 (pmid-43008331)
-  - https://pubmed.ncbi.nlm.nih.gov/43008331/
-- [ ] [疑似误收] 2025年10月干细胞研究与再生医学领域的行业动态 (epmc-PMC-PMC13094203)
+- [ ] [疑似误收] Industry updates from the field of 干细胞 research and regenerative medicine in October 2025 (epmc-PMC-PMC13094203)
   - https://europepmc.org/article/PMC/PMC13094203
-- [ ] [疑似误收] 外泌体作为多发性硬化的生物标志物诊断与治疗手段：前景、陷阱及乳源外泌体日益凸显的作用——迈向下一代精准医学 (epmc-PMC-PMC13795044)
-  - https://europepmc.org/article/PMC/PMC13795044
-- [ ] [疑似误收] 帕金森病中的肠道微生物组与脑部炎症：机制与治疗 (epmc-PMC-PMC13795043)
-  - https://europepmc.org/article/PMC/PMC13795043
-- [ ] [疑似误收] 肠-肝-脑轴中的胆汁酸信号：从帕金森病的发病机制到疾病修饰疗法 (epmc-PMC-PMC13793980)
-  - https://europepmc.org/article/PMC/PMC13793980
-- [ ] C9ORF72与散发性ALS中共享及亚型特异的蛋白质组学特征提示两种分子上不同的ALS亚型 (epmc-PPR-PPR1377524)
+- [ ] [高优先级] 待复核翻译：Shared and subtype-specific proteomic signatures in C9ORF72 and sporadic ALS indicate two molecularly distinct ALS subtypes (epmc-PPR-PPR1377524)
   - https://doi.org/10.21203/rs.3.rs-11738177/v1
-- [ ] 创伤性脑损伤后持续存在的双侧STAU1升高伴随p62、GFAP和磷酸化tau增加 (pmid-43078335)
-  - https://pubmed.ncbi.nlm.nih.gov/43078335/
-- [ ] 一种新型PIK3R1突变导致的运动神经元病 (pmid-43076871)
-  - https://pubmed.ncbi.nlm.nih.gov/43076871/
-- [ ] [高优先级] 硫酸软骨素蛋白聚糖4参与富含精氨酸二肽重复蛋白的内化 (pmid-43038449)
-  - https://pubmed.ncbi.nlm.nih.gov/43038449/
-- [ ] [疑似误收] 待复核翻译：A plasma proteomic atlas of rare genetic neurodevelopmental disorders reveals convergent molecular signatures, neurodegenerative overlap, and a cross-disorder severity index (epmc-PPR-PPR1376257)
-  - https://doi.org/10.21203/rs.3.rs-11514306/v1
-- [ ] [疑似误收] Anti-TREM2 antibody VHB937 binds IgSF domain to reduce 小胶质细胞l inflammation in preclinical and clinical studies. (epmc-MED-43076885)
-  - https://doi.org/10.1084/jem.20252645
-- [ ] [疑似误收] 待复核翻译：Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions (epmc-PMC-PMC13788444)
-  - https://europepmc.org/article/PMC/PMC13788444
-- [ ] [疑似误收] 小胶质细胞l SIRT3 restrains maladaptive inflammatory-phagocytic activation and neuronal vulnerability in acute tau models. (epmc-MED-43074019)
-  - https://doi.org/10.1186/s40035-026-00594-w
 - [ ] [高优先级] 待复核翻译：ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD) (trial-NCT04363684)
   - https://clinicaltrials.gov/study/NCT04363684
 - [ ] [高优先级] Fecal Microbiota Transplantation Effect on 肌萎缩侧索硬化症 Patients (trial-NCT03766321)
