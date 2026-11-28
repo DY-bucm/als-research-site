@@ -1,14 +1,135 @@
 {
-  "updatedAt": "2026-11-27T04:12:11.166Z",
+  "updatedAt": "2026-11-28T03:53:01.038Z",
   "period": {
     "days": 10,
-    "from": "2026-11-18",
-    "to": "2026-11-27"
+    "from": "2026-11-19",
+    "to": "2026-11-28"
   },
   "source": "PubMed",
   "query": "\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"motor neuron disease\"[Title/Abstract] OR \"motor neurone disease\"[Title/Abstract]",
-  "count": 37,
+  "count": 38,
   "articles": [
+    {
+      "id": "pmid-43102653",
+      "pmid": "43102653",
+      "doi": "10.1007/s10522-026-10550-w",
+      "title": "Ageing-driven proteome stoichiometry failure in neurodegeneration: protein-complex imbalance, translational stress, cell-state vulnerability, and therapeutic opportunities.",
+      "abstract": "Protein-complex stoichiometry is an important but largely enigmatic component of proteostasis during ageing. This review focuses on the selective vulnerability to age-associated disruption of quantitative protein-complex coordination in neurodegenerative diseases. Ageing models provide evidence of changes in the relative abundance of subunits in protein complexes, while changes in transcript-protein correlation, protein turnover, the function of the ribosome, the capacity to chaperone, and the activity of the proteasome provide indirect evidence of stoichiometric disruption. These processes could lead to the formation of orphan subunits, incomplete assemblies, and nascent chains. Perhaps the abundance or aggregation of a protein is not sufficient to conclude that altered stoichiometry exists. The review differentiates between subunit imbalance, proteostatic abnormalities, and mechanistic hypotheses. Protein synthesis and quality control disturbances associated with disease are examined in the context of Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis/frontotemporal dementia, with a focus on differences in the pathologies that initiate them. Cell-state specific vulnerability is thought to be due to neuronal architecture, metabolic need, protein turnover, and glial support. Therapeutic strategies that target translation, chaperones, proteasomal function, and stress responses are assessed, and the benefits that have been demonstrated are differentiated from those that have yet to be proven to restore protein-complex stoichiometry. Future studies incorporating subunit measurements, profiling of intact complexes, and cell-specific longitudinal studies are required to determine whether stoichiometric imbalance plays a causal role in neurodegeneration and is a therapeutic target.",
+      "journal": "Biogerontology",
+      "authors": [
+        "Khan A",
+        "Mostafa HM",
+        "Alhuthali HM",
+        "Alzahrani S",
+        "Rehman ZU",
+        "Alanazi AH",
+        "Alenezi BT",
+        "Imran M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102653/"
+    },
+    {
+      "id": "pmid-43102721",
+      "pmid": "43102721",
+      "doi": "10.1007/s12035-026-06367-w",
+      "title": "Cutting-Edge Nanotechnological Approaches for Combating Neurodegenerative Disorders.",
+      "abstract": "The progressive loss of neural function is a hallmark of neurodegenerative illnesses, including multiple sclerosis, amyotrophic lateral sclerosis, Parkinson's disease, Huntington's disease, and Alzheimer's disease. The progressive deterioration of neural function results in cognitive decline, motor dysfunction, and deficits in sensory processing. Existing therapeutic approaches are largely symptomatic, offering only temporary relief without effectively halting or reversing disease progression. Emerging evidence suggests that phytomedicine, derived from plant-based bioactive compounds, possesses significant neuroprotective potential through mechanisms such as antioxidant activity, anti-inflammatory effects, and modulation of neurotransmitter systems. Despite these benefits, clinical translation remains constrained by inherent limitations, including poor bioavailability, rapid metabolic degradation, and restricted permeability across the blood-brain barrier (BBB). To overcome these barriers, nanotechnology-based strategies have gained considerable attention. Novel nanoformulations-such as nanoparticles, liposomes, and other nanocarrier systems-have shown promise in enhancing the stability, bioavailability, and targeted delivery of phytochemicals to the brain, thereby optimizing their therapeutic efficacy. Nanotechnology-based approaches enable controlled release and improved permeability across the BBB, thereby enhancing the therapeutic potential of phytomedicines in the management of neurodegenerative diseases. This review provides a comprehensive overview of the synergistic integration of phytomedicine and nanotechnology, emphasizing recent advances in their application for neurodegenerative disorders. Particular focus is given to how nanotechnology augments the pharmacokinetic and pharmacodynamic profiles of plant-derived bioactive compounds, potentially transforming them into more effective and disease-modifying therapeutic modalities. The convergence of these two fields underscores a promising, multi-dimensional strategy aimed at addressing the unmet clinical needs in neurodegeneration.",
+      "journal": "Molecular neurobiology",
+      "authors": [
+        "Pathan S",
+        "Unchegaonkar A",
+        "Hase S",
+        "Doke R",
+        "Vinchurkar K",
+        "Mendhi S",
+        "Shete AD"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102721/"
+    },
+    {
+      "id": "pmid-43044226",
+      "pmid": "43044226",
+      "doi": "10.1088/1741-2552/aec32c",
+      "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke.",
+      "abstract": "Objective. Implantable brain-computer interfaces (iBCIs) with single-neuron resolution are showing great promise for restoring mobility and communication in individuals with spinal cord injury or motor neuron disease. Stroke is the most common cause of acquired brain injury and a major contributor to long-term disability, making chronic stroke a highly relevant indication for iBCIs. However, whether stable intracortical recordings can be obtained from the structurally lesioned human brain is unknown. Approach. We report recordings from four 64-channel microelectrode arrays implanted in a participant with chronic aphasia after a large left-hemispheric stroke. The arrays targeted right-hemispheric frontoparietal regions homotopic to the damaged left-hemispheric language network. Main results. Across 111 sessions spanning 1240 days, unit yield and signal quality remained stable. Waveform-based tracking reliably identified individual units across sessions, including across extended recording gaps. Short- and long-term unit stability was comparable to previous reports from iBCI participants without structural brain lesions, and tracked units showed consistent spiking properties across sessions. Significance. Our findings provide the first evidence that single-neuron recordings can remain stable over the long term following a large hemispheric stroke involving substantial cortical and subcortical injury. They establish the feasibility of chronic, cellular-resolution iBCIs after stroke and support the development of neurorestorative applications for deficits caused by structural brain injury.",
+      "journal": "Journal of neural engineering",
+      "authors": [
+        "Utzschmid A",
+        "Terlau J",
+        "Held LM",
+        "Schiffl LF",
+        "Chen H",
+        "Alkan G",
+        "Favero P",
+        "Eisenkolb VM",
+        "Wagner A",
+        "Gempt J",
+        "Meyer B",
+        "Jacob SN"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044226/"
+    },
+    {
+      "id": "pmid-43102520",
+      "pmid": "43102520",
+      "doi": "10.1007/s00401-026-03119-x",
+      "title": "TDP-43 across the neurodegenerative disease spectrum.",
+      "abstract": "Transactive response DNA-binding protein 43 kDa (TDP-43) has emerged as an important player in neurodegeneration, extending beyond its classical association with amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD). In this review, we examine the spectrum of TDP-43 proteinopathies, distinguishing disease-defining, age-related and disease-associated forms of pathology. We synthesize evidence on the prevalence, anatomical distribution, morphology features, and molecular consequences of TDP-43 pathology, highlighting the dual contributions of nuclear TDP-43 loss of function and cytoplasmic toxicity. We further explore the interplay between TDP-43 and other major proteinopathies, including Tau, amyloid-β, α-synuclein, as well as several other pathologies. Across disorders, TDP-43 pathology may act as a primary driver of disease, emerge as an age-related process compatible with limbic-predominant age-related TDP-43 encephalopathy neuropathologic changes (LATE-NC), reflect disease-specific pathogenic mechanisms, or represent a co-pathology of uncertain significance. By integrating findings across diverse neurological disorders, we propose a framework for interpreting TDP-43 pathology in its biological context and highlight priorities for future research, including region- and subtype-specific studies, functional biomarkers, and targeted therapeutic strategies.",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "Wang X",
+        "Ball S",
+        "Bartfield J",
+        "Reeves MM",
+        "Dickson DW",
+        "Prudencio M"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102520/"
+    },
+    {
+      "id": "pmid-43098724",
+      "pmid": "43098724",
+      "doi": "10.1136/jnnp-2026-340162",
+      "title": "Biobank-scale associations of the AR CAG repeat.",
+      "abstract": "",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "authors": [
+        "Zanovello M",
+        "Choy CH",
+        "Clarkson C",
+        "Chiara Pioli M",
+        "Rizza N",
+        "Ibanez K",
+        "Rinaldi C",
+        "Sorarù G",
+        "Fratta P",
+        "Tucci A"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098724/"
+    },
     {
       "id": "pmid-43085940",
       "pmid": "43085940",
@@ -41,7 +162,7 @@
       "pmid": "43095897",
       "doi": "10.1080/14737159.2026.2770675",
       "title": "Matching biomarkers to their context of use in amyotrophic lateral sclerosis clinical trials: how much evidence is enough?",
-      "abstract": "Biomarkers increasingly inform drug development and regulatory decisions in amyotrophic lateral sclerosis (ALS), but the evidence appropriate for each context of use (COU) is not consistently articulated. Building on the FDA-NIH Biomarkers, EndpointS, and other Tools (BEST) resource and existing qualification and surrogate endpoint frameworks, we propose an ALS COU framework linking decisions, supporting evidence and consequences of error. Six named descriptors distinguish analytical validity, association, prospective prognostic validation, pharmacodynamic response, within-mechanism concordance and cross-mechanism generalizability. We define what mechanism means for this purpose, set out the evidence a single development programme can provide, and apply the framework to six trial programmes and to discovery-stage fluid, neurophysiological and imaging candidates. A protocol checklist is provided. Evidence should be judged for a stated decision rather than for a biomarker in general. Neurofilament light chain supports prospective prognostic use and a pharmacodynamic response to SOD1-lowering therapy, but trial-level surrogate validation remains unestablished in ALS, and whether it is attainable depends on how narrowly mechanism is defined. Explicit protocol statements, pre-specified within-programme analyses and internationally shared expectations could support proportionate use while preserving regulatory flexibility.",
+      "abstract": "Biomarkers increasingly inform drug development and regulatory decisions in amyotrophic lateral sclerosis (ALS), but the evidence appropriate for each context of use (COU) is not consistently articulated. Building on the FDA-NIH Biomarkers, EndpointS, and other Tools (BEST) resource and existing qualification and surrogate endpoint frameworks, we propose an ALS COU framework linking decisions, supporting evidence and consequences of error. Six named descriptors distinguish analytical validity, association, prospective prognostic validation, pharmacodynamic response, within-mechanism concordance and cross-mechanism generalizability. We define what mechanism means for this purpose, set out the evidence a single development program can provide, and apply the framework to six trial programs and to discovery-stage fluid, neurophysiological and imaging candidates. A protocol checklist is provided. Evidence should be judged for a stated decision rather than for a biomarker in general. Neurofilament light chain supports prospective prognostic use and a pharmacodynamic response to SOD1-lowering therapy, but trial-level surrogate validation remains unestablished in ALS, and whether it is attainable depends on how narrowly mechanism is defined. Explicit protocol statements, pre-specified within-program analyses and internationally shared expectations could support proportionate use while preserving regulatory flexibility.",
       "journal": "Expert review of molecular diagnostics",
       "authors": [
         "Fujita K",
@@ -75,6 +196,47 @@
       ],
       "publishedAt": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43096161/"
+    },
+    {
+      "id": "pmid-43098244",
+      "pmid": "43098244",
+      "doi": "10.1016/j.brainres.2026.150657",
+      "title": "RNA G-quadruplexes in neurodegenerative disease: from structural regulation to proteinopathy.",
+      "abstract": "RNA G-quadruplexes (rG4) are dynamic RNA structures whose cellular abundance and folded state are regulated by a multitude of factors. rG4-binding proteins (rG4BPs) comprise a diverse group, including intrinsically disordered proteins such as FUS, TDP-43, and α-Synuclein, which are associated with neurodegenerative diseases. Moreover, rG4 are elevated in human tissue or disease models of amyotrophic lateral sclerosis (ALS), Parkinson's disease (PD), and Alzheimer's disease (AD), highlighting the importance of understanding the interplay between rG4 and rG4BPs. In this review, we examine the cellular mechanisms that regulate rG4 folding dynamics, with a particular focus on rG4BPs and cellular state. We outline the rG4BPs involved in ALS and PD, emphasizing their mechanisms of rG4 recognition. We discuss the current literature on the contributions of rG4s and rG4BPs to ALS, PD, AD, and Fragile X-associated tremor/ataxia syndrome (FXTAS) and their context-dependent effects on disease-associated protein phase transitions and aggregation. Finally, we highlight two emerging classes of molecules with therapeutic potential in neurodegenerative disease: rG4-containing and rG4-targeting. Together, this review explores the complex and context-dependent roles of rG4s in neurodegeneration and their potential as targets for manipulating RNA and protein biology.",
+      "journal": "Brain research",
+      "authors": [
+        "DePierro JA",
+        "Guo L"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "publishedAt": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098244/"
+    },
+    {
+      "id": "pmid-43100034",
+      "pmid": "43100034",
+      "doi": "10.1002/mus.70459",
+      "title": "Survival Benefit and Treatment Patterns of Edaravone-Treated People With Amyotrophic Lateral Sclerosis in the ALS/MND Natural History Consortium.",
+      "abstract": "Riluzole, intravenous (IV) edaravone, and edaravone oral suspension are United States Food and Drug Administration-approved treatments for amyotrophic lateral sclerosis (ALS). This study obtained data on survival of edaravone-treated people with ALS versus riluzole-only-treated people with ALS in the ALS/Motor Neuron Disease (MND) Natural History Consortium (NHC), a longitudinal clinic-based registry for people living with ALS. Participants in this observational ALS/MND NHC database cohort study receiving edaravone ± riluzole were propensity score matched 1:2 to those receiving riluzole only. Matching used 9 baseline covariates: sex, age, race, body mass index, revised ALS Functional Rating Scale (ALSFRS-R) total score, forced vital capacity (FVC) %-predicted measures, and pre-index use of noninvasive ventilation, enteral feeding, and disease duration. Data were collected from 2015 through 2025. Index date was the first ALS treatment date. Survival (death) was estimated using the Kaplan-Meier model. Participants were grouped into those receiving edaravone ± riluzole (n = 102) or riluzole only (n = 177). After matching, estimated median survival (death only) for participants treated with edaravone ± riluzole was 25.8 months versus 22.0 months for the riluzole-only group (p = 0.029). These findings extend existing evidence supporting edaravone use in ALS by demonstrating improved survival versus riluzole alone and offering additional considerations that may support the rationale for combination therapy with riluzole in routine clinical practice.",
+      "journal": "Muscle & nerve",
+      "authors": [
+        "Sherman AV",
+        "Zhang J",
+        "Liu Y",
+        "Geller J",
+        "Patel K",
+        "Ciepielewska M",
+        "ALS Natural History Consortium Investigator Authors",
+        "Apple S"
+      ],
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "publishedAt": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100034/"
     },
     {
       "id": "pmid-43085525",
@@ -735,138 +897,6 @@
       ],
       "publishedAt": "2026-11-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43061696/"
-    },
-    {
-      "id": "pmid-43046861",
-      "pmid": "43046861",
-      "doi": "10.1021/acschemneuro.6c00600",
-      "title": "All Roads Lead to Rome: Non-canonical Modulators of RNA Metabolism in ALS Pathogenesis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive motor neuron loss. Aberrant RNA metabolism is one of its most consistent molecular features, and ALS has long been framed as a disease of RNA-binding proteins (RBPs), given that mutations in RBPs are among the most frequent genetic causes of ALS. However, a growing number of ALS-associated genes encode proteins that lack canonical RNA-binding domains; nonetheless, their mutations also disrupt RNA homeostasis. This review examines how these non-canonical disease modulators perturb RNA metabolism. We group these factors into three functional classes. One includes proteostasis regulators, whose dysfunction impairs protein quality control and promotes the accumulation of aggregation-prone RBPs in cytoplasmic inclusions and persistent stress granules. Another involves factors that elicit RNA toxicity or disrupt ribonucleoprotein organization, including GGGGCC repeat expansion in C9ORF72 and CAG repeat expansion in ATXN1. The third class comprises factors governing axonal RNA granule transport. Across these categories, a shared consequence is the disruption of mRNA processing, stability, localization, and translation in motor neurons. We further discuss how epitranscriptomic dysregulation, particularly altered m6A and m1A modification states, may contribute to ALS pathology. We also discuss the therapeutic implications of this mechanistic convergence in defective RNA metabolism in ALS.",
-      "journal": "ACS chemical neuroscience",
-      "authors": [
-        "Chen X",
-        "Cao Z",
-        "Zhao T",
-        "Liang X",
-        "Wang Y"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046861/"
-    },
-    {
-      "id": "pmid-43091974",
-      "pmid": "43091974",
-      "doi": "10.3390/ijms272210354",
-      "title": "Astrocyte State-Dependent Remodeling of Neuron-Glia Communication in C9ORF72-Associated Amyotrophic Lateral Sclerosis.",
-      "abstract": "Astrocyte dysfunction is an important component of non-cell-autonomous pathology in C9ORF72 -associated amyotrophic lateral sclerosis (C9-ALS), yet how distinct astrocyte states contribute to altered neuron-glia communication remains unclear. Building on a previously published human single-nucleus RNA-sequencing (snRNA-seq) dataset of C9-ALS and control cortices, we reanalyzed motor-cortex samples using Seurat for preprocessing and integration, gene-set scoring for astrocyte-state characterization, and CellChat for pathway- and ligand-receptor-level communication inference. Donor-level analyses assessed astrocyte-state-specific communication differences, and an independent motor-cortex cohort was used to examine the reproducibility of key findings. CD44-high astrocytes showed stronger reactive features, whereas HPSE2-high astrocytes exhibited higher homeostasis/support scores. Although the overall number of inferred interactions was largely preserved, pooled communication strength was lower in C9-ALS. Donor-level analysis supported greater relative attenuation of HPSE2-high than CD44-high astrocyte communication with excitatory neurons. Pooled analyses showed prominent reductions in glutamate-related and neuronal adhesion/support pathways, whereas several extracellular matrix/remodeling-associated signals were relatively increased. Several altered pathways also extended into oligodendrocyte-associated two-step communication motifs. The independent cohort reproduced the astrocyte-state transcriptional profiles, with directionally consistent but statistically nonsignificant communication changes. Collectively, these findings provide a cell-state-resolved map of altered neuron-glia communication in C9-ALS and identify candidate signaling networks for further mechanistic investigation.",
-      "journal": "International journal of molecular sciences",
-      "authors": [
-        "Zhao C",
-        "Wu J",
-        "Fan D"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43091974/"
-    },
-    {
-      "id": "pmid-43049901",
-      "pmid": "43049901",
-      "doi": "10.1007/s00415-026-14243-9",
-      "title": "Increased resting muscle activity in amyotrophic lateral sclerosis.",
-      "abstract": "Increased muscle activity during intended rest is frequently observed in patients with amyotrophic lateral sclerosis (ALS), but its clinical significance remains unclear. Our aim was to compare resting muscle activity during transcranial magnetic stimulation (TMS) between ALS patients and patient controls, and to correlate it with clinical and neurophysiological parameters. Resting muscle activity was assessed retrospectively by counting the number of stimulation attempts in a standardized paired-pulse TMS protocol that were rejected by the software. Stimulations were rejected if the resting electromyography (EMG) signal exceeded 30 µV at least five times during the 300 ms before the TMS stimulus. Secondary outcomes included the revised ALS functional rating score (ALSFRS-R), the revised upper motor neuron (UMN) score, the muscle strength (MRC) score, TMS, and quantitative EMG (qEMG) parameters. Seventy ALS patients aged 68.4 ± 10.3 years (mean ± SD) were compared with 73 patient controls (63.8 ± 13.8 years). ALS patients had significantly more rejected stimulations due to preceding EMG activity than patient controls (adjusted estimates 27.28 vs 7.28, p = 4.13 × 10^-7). Among ALS patients, those with UMN signs had more rejected stimulations than those without UMN signs (medians 40 vs 20, p = 0.025). The number of rejected stimulations correlated with fasciculation potentials (FPs) (rho = 0.3, p = 0.020) and two clinical markers of UMN dysfunction, including brisk jaw jerk (rho = 0.26, p = 0.032) and biceps reflexes (rho = 0.25, p=0.038). Compared with patient controls, ALS patients exhibited increased resting muscle activity during TMS examination. These findings may provide further insight into the pathophysiology of ALS.",
-      "journal": "Journal of neurology",
-      "authors": [
-        "Jacobsen AB",
-        "Bostock H",
-        "Fanella G",
-        "Samusyte G",
-        "Cengiz B",
-        "Fuglsang-Frederiksen A",
-        "de Carvalho M",
-        "Tankisi H"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049901/"
-    },
-    {
-      "id": "pmid-43093769",
-      "pmid": "43093769",
-      "doi": "10.3390/pharmaceutics18111485",
-      "title": "Molecularly Aged Protein States as Targets for Drug Design and Delivery in Neurodegenerative Diseases.",
-      "abstract": "Neurodegenerative drug discovery usually represents a protein target by its gene, canonical sequence, and one or a few structures. That representation can miss the molecular history accumulated by proteins that persist in the brain. Spontaneous chemistry, incomplete repair, altered turnover, proteolysis, phase transitions, and assembly remodeling generate states that may differ from the canonical target in exposure, function, and therapeutic accessibility. We call compositionally resolved species age-generated proteoforms and use molecularly aged protein states when the exact composition remains uncertain. This Review develops a target-state framework for Alzheimer disease, Parkinson disease, amyotrophic lateral sclerosis and frontotemporal dementia, Huntington disease, and multiple sclerosis. It separates detection from age association, causality, brain exposure, proximal target engagement, and clinical evidence. Disease-specific analyses connect tau and amyloid-beta proteoforms, alpha-synuclein and lysosomal or mitochondrial assemblies, TDP-43 loss-of-function states, and persistent myelin or extracellular-matrix states to rational modalities and critical validation experiments. Repair, selective removal, stabilization, state-selective antibodies and small molecules, intrabodies, replacement, and synthesis control are evaluated together with blood-brain barrier transport, cellular and organelle access, pharmacokinetics, and pharmacodynamics. Each class of target state is mapped to the delivery constraint it imposes and the platform for which a precedent exists, and the exposure requirements that state selectivity implies are set out explicitly, including the fraction of a pool that must be engaged, the duration required to move a slowly accumulating state, and the consequences for dosing interval and pharmacodynamic biomarker choice. The aggregate-directed amyloid antibodies are analysed as the existing clinical test of the framework and of its limits. Machine learning remains central to proteoform identification, multimodal prioritization, structure modeling, and molecular design, provided that labels and prospective tests preserve target-state identity. Classical quantum chemistry can address bounded reaction and recognition problems. Quantum computing is treated as an exploratory implementation that requires matched classical baselines and explicit resources. The central requirement is not that an old protein be abnormal, but that a defined disease-relevant state can be selectively engaged while preserving the functional pool.",
-      "journal": "Pharmaceutics",
-      "authors": [
-        "Alromaihi R",
-        "Almerdasi SA",
-        "Almusallam AA",
-        "Alromaihi M",
-        "Aljohani WA",
-        "Khan MA",
-        "Khan A",
-        "Allemailem KS"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "publishedAt": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43093769/"
-    },
-    {
-      "id": "pmid-42864601",
-      "pmid": "42864601",
-      "doi": "10.24272/j.issn.2095-8137.2025.361",
-      "title": "Optimized gGBE enables robust G-to-Y conversion in mammalian cells and zebrafish embryos.",
-      "abstract": "Base editing is a powerful and precise genome-editing tool capable of introducing single-base substitutions with high resolution. Depending on the base-modification domains employed, base editors can mediate both transition and transversion base editing in mammalian cells. While deaminase-derived base editors have enabled efficient transition editing in the zebrafish genome, glycosidase-derived transversion editing remains a significant challenge. In this study, guided by structural insights into the Cas9 complex, we engineered a series of glycosidase guanine base editor (gGBE) constructs by inlaying the N-methylpurine DNA glycosylase (MPG) domain into Cas9 protein. Among these variants, we identified a high-performance gGBE in which MPG was inserted between residues G1246 and S1247 of the PI domain in Streptococcus pyogenes Cas9, which we named gGBE-PIGS. This variant improved editing efficiency by up to 3.5-fold in mammalian cells and 13-fold in zebrafish embryos, without compromising editing precision. Furthermore, we developed a gGBE-editing-responsive GFP reporter to monitor editing efficiency and enrich for gGBE-edited cells and embryos. Using a combination of the optimized gGBE-PIGS and the GFP reporter, we successfully generated zebrafish models carrying mutations homologous to human amyotrophic lateral sclerosis (ALS)-associated variants. Together, these findings highlight the robustness and versatility of the gGBE platform for precise base editing and underscore its promising potential for in vivo disease modeling and therapeutic genome engineering. 碱基编辑是一种高效且精准的基因组编辑工具，可实现高分辨率单碱基替换。根据所采用的碱基修饰结构域不同，碱基编辑器在哺乳动物细胞中既可介导转换型编辑，也可实现颠换型编辑。尽管基于脱氨酶的碱基编辑器已在斑马鱼基因组中实现高效转换编辑，但基于糖基化酶的颠换编辑仍然面临较大挑战。该研究基于 Cas9 复合体的结构信息，将 N-甲基嘌呤 DNA 糖基化酶结构域（MPG）嵌入 Cas9 蛋白内部，构建了一系列糖基化酶型鸟嘌呤碱基编辑器（gGBE）。研究发现将MPG插入到化脓性链球菌Cas9（SpCas9）PI结构域的G1246与S1247残基得到的gGBE-PIGS总体编辑效率最高。相比N-端融合的gGBE，gGBE-PIGS在哺乳动物细胞中的编辑效率最高可提升 3.5 倍，在斑马鱼胚胎中最高可提升 13 倍，且编辑精确度未受影响。此外，该研究构建了gGBE 编辑响应型 GFP 报告系统，该系统可用于监测编辑效率，同时富集经 gGBE 编辑的细胞和胚胎。结合优化后的 gGBE-PIGS 与 该GFP 报告系统，该研究成功构建了携带人类肌萎缩侧索硬化症（ALS）同源突变的斑马鱼疾病模型。综上所述，该研究证明了gGBE在精准碱基编辑领域的高效性与多样性，并揭示其在体内疾病模型构建及基因治疗领域的潜在应用前景。.",
-      "journal": "Zoological research",
-      "authors": [
-        "Li M",
-        "Jiao YG",
-        "Tao R",
-        "Hu Y",
-        "Fei JY",
-        "Wang CT",
-        "Yao SH"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864601/"
-    },
-    {
-      "id": "pmid-43051945",
-      "pmid": "43051945",
-      "doi": "10.1080/21678421.2026.2762726",
-      "title": "Parietal GABA in individuals with amyotrophic lateral sclerosis and asymptomatic C9orf72 repeat expansion carriers assessed with MR spectroscopy at 7 T.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease. Multiple pathways are involved in its pathophysiology, but the exact mechanisms are still unknown. In this study, we investigate the role of gamma-aminobutyric acid (GABA) in ALS and the related C9orf72 repeat expansion (C9). As the primary inhibitory neurotransmitter, GABA may affect hyperexcitability in ALS. Decreased GABA levels have been reported in the motor cortex in ALS, but neither regions outside the motor area nor carriers of ALS-related pathogenic genetic variants were investigated. We used GABA-edited magnetic resonance spectroscopy (MEGA-sLASER) at 7 T to examine ratios of GABA to creatine. We compared individuals with ALS ( n = 17) to controls ( n = 13) and separately compare asymptomatic C9orf72 repeat expansion carriers ( n = 5) to non-carriers ( n = 7) from a single family. We placed the voxel of interest in the parietal lobe as it is specifically at risk in C9 carriers. We found no statistically significant differences in mean GABA ratios in either comparison, but individuals with ALS showed a higher variance than controls ( p = 0.026). We conclude that parietal GABA is not involved in ALS pathology in all individuals with ALS, but increased variance indicates heterogeneity and may reflect subgroups with GABAergic dysfunction. Individuals with ALS have an increased variance in parietal GABA levels compared to healthy controls.GABA levels in the parietal lobe do not significantly differ between controls and individuals with ALS.GABA levels in the parietal lobe are not affected by the C9orf72 repeat expansion in the parietal lobe.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "authors": [
-        "van Hoek W",
-        "Nitert AD",
-        "van Veenhuijzen K",
-        "Wismans C",
-        "Tan HHG",
-        "Klomp DWJ",
-        "Wijnen JP",
-        "van Den Berg LH",
-        "Westeneng HJ"
-      ],
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "publishedAt": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43051945/"
     }
   ]
 }

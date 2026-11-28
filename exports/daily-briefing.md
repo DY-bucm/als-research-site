@@ -1,36 +1,36 @@
 # ALS 每日简报
 
-更新时间：2026-11-27
+更新时间：2026-11-28
 
-1. **通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化的遗传谱**
-   - 生物标志物 / 观察性临床研究 / high
-   - 19.6%的ALS/PLS患者携带成人起病神经系统疾病相关基因的致病或可能致病变异，其中4.8%涉及非ALS/FTD基因；重复扩增占11.9%；变异携带者家族史更常见且发病更早
-   - https://pubmed.ncbi.nlm.nih.gov/43038492/
-2. **将生物标志物与其在肌萎缩侧索硬化临床试验中的使用场景相匹配：多少证据才算足够？**
-   - 临床试验 / 专家综述（方法学框架） / high
-   - 提出ALS生物标志物COU框架，以六个描述符区分证据层级；NfL支持前瞻性预后和SOD1降低疗法的药效学反应，但试验层面替代终点验证尚未确立。
-   - https://pubmed.ncbi.nlm.nih.gov/43095897/
-3. **待复核翻译：ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD)**
+1. **TDP-43在神经退行性疾病谱系中的作用**
+   - 临床试验 / 综述/荟萃分析 / high
+   - TDP-43病理在神经退行性疾病谱系中具有疾病定义性、年龄相关性和疾病相关性等多种形式，核内功能丧失与胞质毒性共同参与致病，并与Tau、淀粉样蛋白-β、α-突触核蛋白等病理存在交互。
+   - https://pubmed.ncbi.nlm.nih.gov/43102520/
+2. **A Study to Evaluate the Efficacy and Safety of Different Doses of CB03-154 in Adult Patients With 肌萎缩侧索硬化症 (ALS)**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04363684
-4. **Fecal Microbiota Transplantation Effect on 肌萎缩侧索硬化症 Patients**
+   - https://clinicaltrials.gov/study/NCT07082192
+3. **Neurodegenerative Alzheimer's Disease and 肌萎缩侧索硬化症 (NADALS) Basket Trial**
    - 临床试验 / 临床试验注册 / high
    - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT03766321
-5. **线粒体l Capacity Boost in ALS (MICABO-ALS) Trial**
+   - https://clinicaltrials.gov/study/NCT05189106
+4. **Phenotype, Genotype and 生物标志物s 2**
    - 临床试验 / 临床试验注册 / high
    - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT04244630
-6. **待复核翻译：[18F]ACI-19626 PET in TDP-43 Proteinopathies**
+   - https://clinicaltrials.gov/study/NCT04875416
+5. **待复核翻译：Spinal Cord Associative Plasticity for ALS**
    - 临床试验 / 临床试验注册 / high
    - Status: RECRUITING.
-   - https://clinicaltrials.gov/study/NCT06891716
-7. **III 期 Study of MCI-186 for Treatment of 肌萎缩侧索硬化症**
+   - https://clinicaltrials.gov/study/NCT06172621
+6. **Virtual Reality for Anxiety Management in Persons With 肌萎缩侧索硬化症**
    - 临床试验 / 临床试验注册 / high
-   - Status: COMPLETED.
-   - https://clinicaltrials.gov/study/NCT01492686
-8. **Novel MRI 生物标志物s for Monitoring Disease Progression in ALS**
+   - Status: NOT_YET_RECRUITING.
+   - https://clinicaltrials.gov/study/NCT07473765
+7. **Measurement and Impact of Physical Impairment in 肌萎缩侧索硬化症: Use of Digital Technologies - A Precision ALS Project**
    - 临床试验 / 临床试验注册 / high
-   - Status: ACTIVE_NOT_RECRUITING.
-   - https://clinicaltrials.gov/study/NCT03362658
+   - Status: RECRUITING.
+   - https://clinicaltrials.gov/study/NCT06820008
+8. **待复核翻译：Genetics and Environment iNtersection In the ALS-FTD Spectrum: an Italian Twins Cohort studY With a Multi-Omics Approach**
+   - 临床试验 / 临床试验注册 / high
+   - Status: UNKNOWN.
+   - https://clinicaltrials.gov/study/NCT06595212

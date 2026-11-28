@@ -2,79 +2,81 @@
 
 - [ ] 靶向TTBK1的DFG-out构象可实现选择性II型神经保护抑制剂的发现 (pmid-42981879)
   - https://pubmed.ncbi.nlm.nih.gov/42981879/
-- [ ] 神经退行性疾病中反应性小胶质细胞和星形胶质细胞的免疫代谢失调：机制见解与治疗意义 (pmid-42966163)
-  - https://pubmed.ncbi.nlm.nih.gov/42966163/
-- [ ] [高优先级] 通过系统筛查成人起病神经系统疾病基因扩展肌萎缩侧索硬化的遗传谱 (pmid-43038492)
+- [ ] 通过系统筛查成人起病神经系统疾病基因拓展肌萎缩侧索硬化遗传谱 (pmid-43038492)
   - https://pubmed.ncbi.nlm.nih.gov/43038492/
 - [ ] 血浆P-Tau217诊断阈值在不同临床人群和实验室环境中的稳健性 (pmid-43038487)
   - https://pubmed.ncbi.nlm.nih.gov/43038487/
 - [ ] 神经系统疾病中的健康相关生活质量：一项使用真实世界患者报告结局的横断面队列研究 (pmid-43038501)
   - https://pubmed.ncbi.nlm.nih.gov/43038501/
-- [ ] Sephin1 对谷氨酸应激具有保护作用，与含 GluN2B 的 NMDA 受体负向变构调节一致 (pmid-43036320)
+- [ ] Sephin1 对谷氨酸应激具有保护作用，与对含 GluN2B 的 NMDA 受体的负向变构调节一致 (pmid-43036320)
   - https://pubmed.ncbi.nlm.nih.gov/43036320/
-- [ ] 自然杀伤细胞对SOD1 G93A ALS发病机制的贡献有限：来自全面免疫表型分析和Ncr1与Properdin基因缺失的证据 (pmid-43032804)
+- [ ] 自然杀伤细胞对SOD1 G93A型ALS发病机制的贡献有限：来自全面免疫表型分析和Ncr1与Properdin基因敲除的证据 (pmid-43032804)
   - https://pubmed.ncbi.nlm.nih.gov/43032804/
-- [ ] 重金属诱导的神经炎症与神经退行性变中的小胶质细胞扰动：机制、表型可塑性与治疗前景 (pmid-42955216)
-  - https://pubmed.ncbi.nlm.nih.gov/42955216/
-- [ ] 肌萎缩侧索硬化症患者的体育锻炼干预：一项系统综述与荟萃分析 (pmid-43096161)
-  - https://pubmed.ncbi.nlm.nih.gov/43096161/
-- [ ] [高优先级] 将生物标志物与其在肌萎缩侧索硬化临床试验中的使用场景相匹配：多少证据才算足够？ (pmid-43095897)
-  - https://pubmed.ncbi.nlm.nih.gov/43095897/
-- [ ] 马查多-约瑟夫病伴双上肢肌肉萎缩及广泛肌束颤动：一例病例报告 (pmid-43085940)
-  - https://pubmed.ncbi.nlm.nih.gov/43085940/
-- [ ] [疑似误收] 鼻腔微生物群通过鼻-脑轴参与帕金森病从嗅球到脑的病理过程 (epmc-PMC-PMC13802016)
-  - https://europepmc.org/article/PMC/PMC13802016
-- [ ] [疑似误收] 脂多糖诱导的急性全身性炎症与抑郁样行为及海马EphA4表达增加相关 (epmc-PMC-PMC13801798)
-  - https://europepmc.org/article/PMC/PMC13801798
-- [ ] [疑似误收] 早期乳腺癌女性化疗期间生物电阻抗的变化 (epmc-PMC-PMC13796102)
+- [ ] Mdivi-1通过CaMK2/Drp1通路调控肌萎缩侧索硬化中的线粒体分裂与功能 (pmid-42826761)
+  - https://pubmed.ncbi.nlm.nih.gov/42826761/
+- [ ] 应对神经退行性疾病的尖端纳米技术方法 (pmid-43102721)
+  - https://pubmed.ncbi.nlm.nih.gov/43102721/
+- [ ] 衰老驱动的神经退行性变中蛋白质组化学计量失衡：蛋白复合物失衡、翻译应激、细胞状态脆弱性与治疗机会 (pmid-43102653)
+  - https://pubmed.ncbi.nlm.nih.gov/43102653/
+- [ ] [高优先级] TDP-43在神经退行性疾病谱系中的作用 (pmid-43102520)
+  - https://pubmed.ncbi.nlm.nih.gov/43102520/
+- [ ] [高优先级] 卒中后细胞分辨率脑机接口记录的长期稳定性 (pmid-43044226)
+  - https://pubmed.ncbi.nlm.nih.gov/43044226/
+- [ ] [疑似误收] 磁化率源分离技术：原理、验证与临床转化的叙述性综述 (epmc-PMC-PMC13810018)
+  - https://europepmc.org/article/PMC/PMC13810018
+- [ ] 超越TDP-43：hnRNPA1与ANXA11作为ALS-FTD中TDP-43蛋白病的贡献因素 (epmc-PMC-PMC13809796)
+  - https://europepmc.org/article/PMC/PMC13809796
+- [ ] [疑似误收] 神经与神经精神疾病中的微生物群-肠-脑轴：文献综述 (epmc-PMC-PMC13811604)
+  - https://europepmc.org/article/PMC/PMC13811604
+- [ ] [疑似误收] 重症监护与长期通气环境下有创机械通气期间呼吸困难的非药物干预：系统综述与证据图谱 (epmc-PMC-PMC13809567)
+  - https://europepmc.org/article/PMC/PMC13809567
+- [ ] [疑似误收] 机器人辅助步态训练用于遗传性ATTR淀粉样变性患者：一项单臂研究 (epmc-PMC-PMC13808858)
+  - https://europepmc.org/article/PMC/PMC13808858
+- [ ] 在ALS/MND自然史联盟中接受依达拉奉治疗的肌萎缩侧索硬化患者的生存获益与治疗模式 (pmid-43100034)
+  - https://pubmed.ncbi.nlm.nih.gov/43100034/
+- [ ] [疑似误收] AR基因CAG重复序列的生物样本库规模关联研究 (pmid-43098724)
+  - https://pubmed.ncbi.nlm.nih.gov/43098724/
+- [ ] 神经退行性疾病中的RNA G-四链体：从结构调控到蛋白质病变 (pmid-43098244)
+  - https://pubmed.ncbi.nlm.nih.gov/43098244/
+- [ ] [疑似误收] 来自巴拉圭蝎（Tityus paraguayensis）的新型富二硫键毒液肽增强胆碱能激动剂卡巴胆碱诱发的神经母细胞瘤钙信号 (pmid-43098209)
+  - https://pubmed.ncbi.nlm.nih.gov/43098209/
+- [ ] [疑似误收] 待复核翻译：Changes in bioelectrical impedance during chemotherapy in women with early breast cancer (epmc-PMC-PMC13796102)
   - https://europepmc.org/article/PMC/PMC13796102
-- [ ] [疑似误收] 基于事件的模型诊断报告框架 (epmc-PMC-PMC13796361)
-  - https://europepmc.org/article/PMC/PMC13796361
-- [ ] [疑似误收] 面向多类脑电到文本接口的频率嵌入序列学习 (epmc-PMC-PMC13796307)
+- [ ] [疑似误收] 待复核翻译：Frequency-embedded sequence learning for multi-class EEG-to-text interface (epmc-PMC-PMC13796307)
   - https://europepmc.org/article/PMC/PMC13796307
-- [ ] [疑似误收] 健康与疾病中的蛋白酶特征：迈向智能诊断平台 (epmc-PMC-PMC13798297)
-  - https://europepmc.org/article/PMC/PMC13798297
-- [ ] [疑似误收] WJ-MSC ATMP表征的候选预测因子：一个整合机器学习框架 (epmc-PMC-PMC13796962)
-  - https://europepmc.org/article/PMC/PMC13796962
-- [ ] 硒蛋白在神经退行性疾病中作用的最新进展 (pmid-43086515)
-  - https://pubmed.ncbi.nlm.nih.gov/43086515/
-- [ ] 血液转录组分析提示肌萎缩侧索硬化中剪接体机器和先天免疫的基因表达改变 (pmid-43085525)
-  - https://pubmed.ncbi.nlm.nih.gov/43085525/
-- [ ] 待复核翻译：Current rehabilitation approaches in ALS/MND and use of digital health technology; an international survey of occupational therapists and physiotherapists. (pmid-43081733)
-  - https://pubmed.ncbi.nlm.nih.gov/43081733/
-- [ ] Prevalence of C9orf72 hexanucleotide repeat expansions in a Mexican cohort of sporadic and familial 肌萎缩侧索硬化症. (pmid-43081698)
-  - https://pubmed.ncbi.nlm.nih.gov/43081698/
-- [ ] [疑似误收] Industry updates from the field of 干细胞 research and regenerative medicine in October 2025 (epmc-PMC-PMC13094203)
-  - https://europepmc.org/article/PMC/PMC13094203
-- [ ] [高优先级] 待复核翻译：Shared and subtype-specific proteomic signatures in C9ORF72 and sporadic ALS indicate two molecularly distinct ALS subtypes (epmc-PPR-PPR1377524)
-  - https://doi.org/10.21203/rs.3.rs-11738177/v1
-- [ ] [高优先级] 待复核翻译：ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD) (trial-NCT04363684)
-  - https://clinicaltrials.gov/study/NCT04363684
-- [ ] [高优先级] Fecal Microbiota Transplantation Effect on 肌萎缩侧索硬化症 Patients (trial-NCT03766321)
-  - https://clinicaltrials.gov/study/NCT03766321
-- [ ] [高优先级] 线粒体l Capacity Boost in ALS (MICABO-ALS) Trial (trial-NCT04244630)
-  - https://clinicaltrials.gov/study/NCT04244630
-- [ ] [高优先级] 待复核翻译：[18F]ACI-19626 PET in TDP-43 Proteinopathies (trial-NCT06891716)
-  - https://clinicaltrials.gov/study/NCT06891716
-- [ ] [高优先级] III 期 Study of MCI-186 for Treatment of 肌萎缩侧索硬化症 (trial-NCT01492686)
-  - https://clinicaltrials.gov/study/NCT01492686
-- [ ] [高优先级] Novel MRI 生物标志物s for Monitoring Disease Progression in ALS (trial-NCT03362658)
-  - https://clinicaltrials.gov/study/NCT03362658
-- [ ] [高优先级] 待复核翻译：ALS Diagnosis From a Saliva Sample: a Non-coding RNA Analysis Approach (trial-NCT05928416)
-  - https://clinicaltrials.gov/study/NCT05928416
-- [ ] [高优先级] Blood-Brain Barrier Opening Using MR-Guided Focused Ultrasound in Patients With 肌萎缩侧索硬化症 (trial-NCT03321487)
-  - https://clinicaltrials.gov/study/NCT03321487
-- [ ] [高优先级] Assessing 运动神经元病 Mechanisms by Threshold Tracking Transcranial Magnetic Stimulation and Magnetic Resonance Spectroscopy (trial-NCT03664206)
-  - https://clinicaltrials.gov/study/NCT03664206
-- [ ] [高优先级] 待复核翻译：Validation Of Tidal/End -Tidal CO2 in ALS (trial-NCT03764384)
-  - https://clinicaltrials.gov/study/NCT03764384
-- [ ] [高优先级] A Patient Centric 运动神经元病 Activities of Daily Living Scale (trial-NCT02852278)
-  - https://clinicaltrials.gov/study/NCT02852278
-- [ ] [高优先级] Brain Function in Primary Lateral Sclerosis and 肌萎缩侧索硬化症 (trial-NCT00334516)
-  - https://clinicaltrials.gov/study/NCT00334516
-- [ ] [高优先级] Autologous Mesenchymal Bone Marrow Stromal Cells Secreting Neurotrophic Factors (MSC-NTF), in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT01777646)
-  - https://clinicaltrials.gov/study/NCT01777646
-- [ ] [高优先级] In-situ Cytokines Expression in the CNS in 肌萎缩侧索硬化症 (ALS) (trial-NCT02582385)
-  - https://clinicaltrials.gov/study/NCT02582385
-- [ ] [高优先级] 待复核翻译：Noninvasive Ventilation in ALS Patients With Mild Respiratory Involvement (trial-NCT00386464)
-  - https://clinicaltrials.gov/study/NCT00386464
+- [ ] Physical exercise interventions for people with 肌萎缩侧索硬化症: a systematic review with meta-analysis. (epmc-MED-43096161)
+  - https://doi.org/10.1080/17582024.2026.2767799
+- [ ] Matching 生物标志物s to their context of use in 肌萎缩侧索硬化症 临床试验s: how much evidence is enough? (epmc-MED-43095897)
+  - https://doi.org/10.1080/14737159.2026.2770675
+- [ ] [疑似误收] 待复核翻译：Machado-Joseph Disease with Bilateral Upper Limb Muscle Atrophy and Widespread Fasciculations: A Case Report. (epmc-MED-43085940)
+  - https://doi.org/10.2169/internalmedicine.7912-26
+- [ ] [高优先级] A Study to Evaluate the Efficacy and Safety of Different Doses of CB03-154 in Adult Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT07082192)
+  - https://clinicaltrials.gov/study/NCT07082192
+- [ ] [高优先级] Neurodegenerative Alzheimer's Disease and 肌萎缩侧索硬化症 (NADALS) Basket Trial (trial-NCT05189106)
+  - https://clinicaltrials.gov/study/NCT05189106
+- [ ] [高优先级] Phenotype, Genotype and 生物标志物s 2 (trial-NCT04875416)
+  - https://clinicaltrials.gov/study/NCT04875416
+- [ ] [高优先级] 待复核翻译：Spinal Cord Associative Plasticity for ALS (trial-NCT06172621)
+  - https://clinicaltrials.gov/study/NCT06172621
+- [ ] [高优先级] Virtual Reality for Anxiety Management in Persons With 肌萎缩侧索硬化症 (trial-NCT07473765)
+  - https://clinicaltrials.gov/study/NCT07473765
+- [ ] [高优先级] Measurement and Impact of Physical Impairment in 肌萎缩侧索硬化症: Use of Digital Technologies - A Precision ALS Project (trial-NCT06820008)
+  - https://clinicaltrials.gov/study/NCT06820008
+- [ ] [高优先级] 待复核翻译：Genetics and Environment iNtersection In the ALS-FTD Spectrum: an Italian Twins Cohort studY With a Multi-Omics Approach (trial-NCT06595212)
+  - https://clinicaltrials.gov/study/NCT06595212
+- [ ] [高优先级] Phase III Trial of AMX0035 for 肌萎缩侧索硬化症 Treatment (trial-NCT05021536)
+  - https://clinicaltrials.gov/study/NCT05021536
+- [ ] [高优先级] Non-invasive Spinal, Cortical, and Sensorimotor 生物标志物s in 运动神经元病 (trial-NCT06320444)
+  - https://clinicaltrials.gov/study/NCT06320444
+- [ ] [高优先级] Safety and Tolerability of Perampanel in 肌萎缩侧索硬化症 Patients (trial-NCT03377309)
+  - https://clinicaltrials.gov/study/NCT03377309
+- [ ] [高优先级] 待复核翻译：Multimodal Brain Imaging Study (trial-NCT04960540)
+  - https://clinicaltrials.gov/study/NCT04960540
+- [ ] [高优先级] Perampanel for Sporadic 肌萎缩侧索硬化症 (ALS) (trial-NCT03019419)
+  - https://clinicaltrials.gov/study/NCT03019419
+- [ ] [高优先级] 待复核翻译：Study to Evaluate the Safety & Efficacy of FLX-787-ODT to Treat Fasciculations in Tongue and Upper or Lower Extremity Muscles Most Affected in Subjects With ALS (trial-NCT03338114)
+  - https://clinicaltrials.gov/study/NCT03338114
+- [ ] [高优先级] Effect of Intrathecal Administration of Hematopoietic 干细胞s in Patients With 肌萎缩侧索硬化症 (ALS) (trial-NCT01933321)
+  - https://clinicaltrials.gov/study/NCT01933321
+- [ ] [高优先级] Creatine for the Treatment of 肌萎缩侧索硬化症 (trial-NCT00070993)
+  - https://clinicaltrials.gov/study/NCT00070993
